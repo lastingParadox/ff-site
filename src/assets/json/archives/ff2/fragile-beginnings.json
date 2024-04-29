@@ -1,0 +1,3115 @@
+{
+    "title": "Fragile Beginnings",
+    "episode_number": "1",
+    "startup": "The group finds themselves docked to Space Station c2187. Inside said Space Station are a welcoming center, a variety of stores and rest areas, and most importantly, a mission board. Collaboratively, the group has 1,000 Ducketts (D). Times have been rough in terms of economy for these five characters.",
+    "blocks": [
+        {
+            "content": ["t!8ball Does Emmett open up the ship entrance?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:22 PM"
+        },
+        {
+            "content": ["🎱 | You may rely on it, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:25 PM"
+        },
+        {
+            "content": ["Long rides call for long rest."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:25 PM"
+        },
+        {
+            "content": ["Damn straight boi"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:26 PM"
+        },
+        {
+            "content": [
+                "Alright guys we need food, water, ammo, and sex.",
+                "t!8ball Does Seth walk off to go look around?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:26 PM"
+        },
+        {
+            "content": ["🎱 | Ask again later, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:26 PM"
+        },
+        {
+            "content": ["t!8ball Do I look in the fridge?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:28 PM"
+        },
+        {
+            "content": ["🎱 | Outlook not so good, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:28 PM"
+        },
+        {
+            "content": ["Is sex the only thing on your mind, man?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:28 PM"
+        },
+        {
+            "content": [
+                "Food and ammo is also on my mind",
+                "Maybe a job",
+                "Maybe a handjob"
+            ],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:29 PM"
+        },
+        {
+            "content": ["A han-of course."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:29 PM"
+        },
+        {
+            "content": ["Maybe an actual job", "So many jobs"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:30 PM"
+        },
+        {
+            "content": ["t!8ball do i check the ship's logs?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:30 PM"
+        },
+        {
+            "content": ["🎱 | As I see it, yes, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:30 PM"
+        },
+        {
+            "content": [
+                "Let's go check inside.",
+                "t!8ball does Laav go inside?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:31 PM"
+        },
+        {
+            "content": ["🎱 | Most likely, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:31 PM"
+        },
+        {
+            "content": [
+                "Pft, our last mission was bogus.",
+                "t!8ball Does Emmett scrounge in the fridge?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:31 PM"
+        },
+        {
+            "content": ["🎱 | Without a doubt, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:32 PM"
+        },
+        {
+            "content": ["Definitely. No sexy ladies."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:32 PM"
+        },
+        {
+            "content": ["And we've nothing but a single jar of pickles..."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:33 PM"
+        },
+        {
+            "content": ["I'll take those."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:33 PM"
+        },
+        {
+            "content": [
+                "Hook me up with the pickles man.",
+                "Why don't you just worry about hiring some space prostitute?"
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:33 PM"
+        },
+        {
+            "content": ["Space crabs"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:33 PM"
+        },
+        {
+            "content": ["Sounds like a plan to me."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:33 PM"
+        },
+        {
+            "content": [
+                "Space crabs is our plan?",
+                "Isn't that like an STD or something?"
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:34 PM"
+        },
+        {
+            "content": ["I meant get some space hookers."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:34 PM"
+        },
+        {
+            "content": [
+                "t!8ball Does Seth leave the ship with pickles in hand in search of a handjob and a job?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:34 PM"
+        },
+        {
+            "content": ["🎱 | Better not tell you now, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:34 PM"
+        },
+        {
+            "content": ["t!8ball Do I devour half the jar of pickles?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:35 PM"
+        },
+        {
+            "content": ["🎱 | Don't count on it, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:35 PM"
+        },
+        {
+            "content": ["t!8ball do i eat a pickle?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:35 PM"
+        },
+        {
+            "content": ["🎱 | Ask again later, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:35 PM"
+        },
+        {
+            "content": ["I found a beer!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:35 PM"
+        },
+        {
+            "content": ["Mmmmm."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:36 PM"
+        },
+        {
+            "content": ["I don't drink bro, enjoy that."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:36 PM"
+        },
+        {
+            "content": ["t!8ball do I eat the pickles?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:36 PM"
+        },
+        {
+            "content": ["🎱 | Most likely, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:36 PM"
+        },
+        {
+            "content": ["I could do with some of that."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:36 PM"
+        },
+        {
+            "content": [
+                "BRO IMMA BEAT YOUR ASS UP, LAAV!",
+                "GET YOUR ASS OVER HERE."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:36 PM"
+        },
+        {
+            "content": ["Especially since rock man here ate all my pickles"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:36 PM"
+        },
+        {
+            "content": ["Oh, I'm shaking in my boots."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:36 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I shove Matthias out of the way whilst carrying the beer and go out?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["🎱 | It is decidedly so, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["t!8ball do I intimidate Matthias?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["🎱 | Concentrate and ask again, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["t!8ball do I intimidate Matthias?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["🎱 | Signs point to yes, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:37 PM"
+        },
+        {
+            "content": [
+                "t!8ball Does Seth leave the ship with Emmett in search of a handjob and a job?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["🎱 | Outlook good, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["Don't get wasted, you hear?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:38 PM"
+        },
+        {
+            "content": ["Too late."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:38 PM"
+        },
+        {
+            "content": [
+                "Bro, rockmen are so huge, god...",
+                "You need to go to AA?"
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:38 PM"
+        },
+        {
+            "content": ["You cunt."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["t!8ball Do I exit the ship?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["🎱 | Concentrate and ask again, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["Hey, be glad I didn't smoke any of your space weed."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["It's grass, you idiot."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["Dealers are getting scarcer these days."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["I tell you, it's grass. I'm off the smoking for now."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["t!8ball do i eat a pickle"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["🎱 | Very doubtful, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:40 PM"
+        },
+        {
+            "content": [
+                "t!8ball do I exit the ship to follow Seth and Emmett?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["🎱 | Signs point to yes, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["Mmm. Yeah it's pretty bad habit."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["I feel warmer all of a sudden."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:41 PM"
+        },
+        {
+            "content": ["'Sup, nerds."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:41 PM"
+        },
+        {
+            "content": ["Rock man, go refill that jar for us."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:41 PM"
+        },
+        {
+            "content": ["You scare me sometimes, Laav."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:41 PM"
+        },
+        {
+            "content": ["Seth, I have a name you know."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:41 PM"
+        },
+        {
+            "content": ["You can have some pickles later."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:41 PM"
+        },
+        {
+            "content": [
+                "t!8ball Is there a Pickle Dispenser on the space station?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:41 PM"
+        },
+        {
+            "content": ["🎱 | Concentrate and ask again, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:41 PM"
+        },
+        {
+            "content": [
+                "Rock man, Laav same thing",
+                "You're still our favorite brute."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:42 PM"
+        },
+        {
+            "content": ["Laav, are you buying anything?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:42 PM"
+        },
+        {
+            "content": [
+                "t!8ball Does Seth go look for a job on the job board?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:43 PM"
+        },
+        {
+            "content": ["🎱 | My sources say no, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:43 PM"
+        },
+        {
+            "content": ["No, I think we should try and look for a job."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:43 PM"
+        },
+        {
+            "content": ["Nahhh.", "I want to fuck something"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:43 PM"
+        },
+        {
+            "content": ["We don't have much cash, now do we?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:43 PM"
+        },
+        {
+            "content": [
+                "There's a rubber ducky on the ground, if you want to do that in the ship, Seth."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:43 PM"
+        },
+        {
+            "content": ["t!8ball Do I go out in to deep space?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:43 PM"
+        },
+        {
+            "content": ["🎱 | My sources say no, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:43 PM"
+        },
+        {
+            "content": ["t!8ball do i head back to the ship"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:44 PM"
+        },
+        {
+            "content": ["🎱 | Signs point to yes, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:44 PM"
+        },
+        {
+            "content": [
+                "t!8ball does Seth pick up the rubber ducky and begin to wanky-wanky?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:45 PM"
+        },
+        {
+            "content": ["🎱 | As I see it, yes, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:45 PM"
+        },
+        {
+            "content": ["In public man?", "Seriously?"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:45 PM"
+        },
+        {
+            "content": ["What the hell?!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:45 PM"
+        },
+        {
+            "content": ["Not my fault. When I gotta' sex, I gotta' sex."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:45 PM"
+        },
+        {
+            "content": ["t!8ball Does Emmett head toward the Mission Board?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["🎱 | You may rely on it, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["t!8ball Is the rubber ducky actually a woman?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["🎱 | As I see it, yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["This was a good vagina."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["... I am disgusted."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:47 PM"
+        },
+        {
+            "content": ["I'll pocket this for later."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:47 PM"
+        },
+        {
+            "content": ["t!8ball Do I exit the ship and go to deep space?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:48 PM"
+        },
+        {
+            "content": ["🎱 | It is certain, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:48 PM"
+        },
+        {
+            "content": ["Nothing worth enough, man..."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:48 PM"
+        },
+        {
+            "content": ["Hmmmmmmmmmmm."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:48 PM"
+        },
+        {
+            "content": [
+                "Here's an idea: how about we stop fucking rubber ducks and look for a job?"
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:49 PM"
+        },
+        {
+            "content": ["Maybe we can make a prostitution ring?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:49 PM"
+        },
+        {
+            "content": ["I'm over here doing that!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:49 PM"
+        },
+        {
+            "content": ["I'm going to check on the ship's engine."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:49 PM"
+        },
+        {
+            "content": [
+                "Here's an idea for you rockman: I'm the captain, so fuck off."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:49 PM"
+        },
+        {
+            "content": ["I suggest you back up before I melt you."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["I fucked ur boulder of a mum."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["t!8ball do i check the ship's engines"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["🎱 | Reply hazy try again, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["That's hilarious.", "t!8ball do I intimidate Seth?"],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["🎱 | Don't count on it, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["I've met Seth's mom before. Not a nice woman."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:51 PM"
+        },
+        {
+            "content": ["t!8ball do I intimidate Seth?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:51 PM"
+        },
+        {
+            "content": ["🎱 | You may rely on it, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:51 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I use my charisma to make Laav start crossdressing?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:51 PM"
+        },
+        {
+            "content": ["🎱 | Yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:51 PM"
+        },
+        {
+            "content": ["Screw you two, we need to find a job."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:52 PM"
+        },
+        {
+            "content": ["Bleee bleee blah blah. Go do it for us."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:52 PM"
+        },
+        {
+            "content": [
+                "Wait...why do I feel a sudden urge to put on panties?"
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:52 PM"
+        },
+        {
+            "content": [
+                "t!8ball Does Emmett take up a mission that takes place in the space station?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:52 PM"
+        },
+        {
+            "content": ["🎱 | Ask again later, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:52 PM"
+        },
+        {
+            "content": [
+                "We all have that urge at some point.",
+                "t!8ball Does Seth take up a mission that takes place in the space station?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:52 PM"
+        },
+        {
+            "content": ["🎱 | My reply is no, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:53 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I see a pocketwatch float through my view?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:54 PM"
+        },
+        {
+            "content": ["🎱 | Ask again later, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:54 PM"
+        },
+        {
+            "content": [
+                "WTF is Laav doing out there?",
+                "t!8ball Do i check what Laav is doing?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:54 PM"
+        },
+        {
+            "content": ["🎱 | Don't count on it, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:54 PM"
+        },
+        {
+            "content": [
+                "Anyways I'm going to go look at the mission board with Emmett."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:55 PM"
+        },
+        {
+            "content": [
+                "t!8ball do I walk up to the job board and take a job that takes place on a nearby planet?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:55 PM"
+        },
+        {
+            "content": ["🎱 | Don't count on it, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:55 PM"
+        },
+        {
+            "content": [
+                "I'm down to a clip for my Baby.",
+                "t!8ball do I walk up to the job board and take a job that takes place on this station?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:55 PM"
+        },
+        {
+            "content": ["🎱 | Without a doubt, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:56 PM"
+        },
+        {
+            "content": [
+                "Hey Emmett look at this when you get a chance. It's got sexy women."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:57 PM"
+        },
+        {
+            "content": ["I didn't know that mops classified as sexy women."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:57 PM"
+        },
+        {
+            "content": ["Depends on the mops I'm fucking."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:58 PM"
+        },
+        {
+            "content": ["t!8ball Do i see a pocketwatch float into my view?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:58 PM"
+        },
+        {
+            "content": ["🎱 | Yes, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:58 PM"
+        },
+        {
+            "content": ["Cooooollll...."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:58 PM"
+        },
+        {
+            "content": ["t!8ball Do I exit the ship?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:59 PM"
+        },
+        {
+            "content": ["🎱 | Concentrate and ask again, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:59 PM"
+        },
+        {
+            "content": ["How about a job with a higher pay?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:00 PM"
+        },
+        {
+            "content": ["How about no."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:00 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I take a job with a high pay that takes place on a nearby planet?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:00 PM"
+        },
+        {
+            "content": ["🎱 | As I see it, yes, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:00 PM"
+        },
+        {
+            "content": ["t!8ball Are we out of fuel?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["🎱 | Yes, definitely, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["Like this one. This one looks good."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["Fuel is kinda expensive these days."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["t!8ball Do I grab the pocketwatch?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["🎱 | Cannot predict now, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["t!8ball Do I exit the ship?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:02 PM"
+        },
+        {
+            "content": ["🎱 | As I see it, yes, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:02 PM"
+        },
+        {
+            "content": [
+                "We need food and water more than fuel, so lets do the job that takes place here first."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:02 PM"
+        },
+        {
+            "content": ["What took you so long Serpile?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:02 PM"
+        },
+        {
+            "content": ["We also can get sexy ladies."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:02 PM"
+        },
+        {
+            "content": ["Fine. But we're doing this one next."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:02 PM"
+        },
+        {
+            "content": [
+                "Which, the sexy ladies are enough.",
+                "Depends.",
+                "What's the mission specify?"
+            ],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:03 PM"
+        },
+        {
+            "content": [
+                "It says here... that we have to get some stolen artifact and return it to \"The Grand Elder\".",
+                "Sounds easy enough."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:04 PM"
+        },
+        {
+            "content": [
+                "Hmmm.",
+                "Might be worth it.",
+                "Here's a better idea. We take the job and we steal said artifact then kill the grand elder."
+            ],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:04 PM"
+        },
+        {
+            "content": [
+                "Maybe we can steal it for a third time and sell it on the black market? Heh heh."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:05 PM"
+        },
+        {
+            "content": ["Flawless plan.", "We can maybe get 50,000 D's"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:05 PM"
+        },
+        {
+            "content": [
+                "Yeah, we'll steal it, turn it in, assassinate the old coot, and triple our gain."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:05 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I use my charisma on a female and bring her to my captain's quarters?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:06 PM"
+        },
+        {
+            "content": ["🎱 | Yes, definitely, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:06 PM"
+        },
+        {
+            "content": [
+                "But we do that after this job and after I have sex with this woman."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:06 PM"
+        },
+        {
+            "content": ["t!8ball Do I grab the Pocketwatch?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:07 PM"
+        },
+        {
+            "content": ["🎱 | Outlook good, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:07 PM"
+        },
+        {
+            "content": ["Strangely bright...", "Almost blinding."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:07 PM"
+        },
+        {
+            "content": ["What are you two doing?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:07 PM"
+        },
+        {
+            "content": [
+                "You are just a sex machine, ain'tchya Seth?",
+                "We picked out two jobs.",
+                "Easy one first, then we get fuel and steal some artifact back for \"The Grand Elder.\""
+            ],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:07 PM"
+        },
+        {
+            "content": ["Any of those require a... Mechanical touch?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:08 PM"
+        },
+        {
+            "content": ["Maybe, I don't have a clue."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:09 PM"
+        },
+        {
+            "content": ["t!8ball Do I head back to the ship?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:09 PM"
+        },
+        {
+            "content": ["🎱 | Yes, definitely, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:09 PM"
+        },
+        {
+            "content": ["I'll be on the ship."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:09 PM"
+        },
+        {
+            "content": [
+                "Alright.",
+                "t!8ball do I read the job that takes place here?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:10 PM"
+        },
+        {
+            "content": ["🎱 | It is decidedly so, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:11 PM"
+        },
+        {
+            "content": ["t!8ball Is Emmett anywhere to be seen by the others?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:11 PM"
+        },
+        {
+            "content": ["🎱 | Most likely, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:11 PM"
+        },
+        {
+            "content": [
+                "Let's finish this up, I have a little bit of work to do."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["Of course."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Random Woman",
+            "date": "21-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["We just gotta' clean up the place."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:12 PM"
+        },
+        {
+            "content": [
+                "Hey, guys? I'm going to do this other thing solo. Only gives like 200 D, but we can fuel like three quarters of the tank with it."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:12 PM"
+        },
+        {
+            "content": [
+                "Shouldn't take long. It should get us enough cash to buy some food and fuel."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:12 PM"
+        },
+        {
+            "content": [
+                "t!8ball Does the woman attack me for my plans to kill the Elder?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["🎱 | You may rely on it, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["Sounds good."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["FUCK!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:13 PM"
+        },
+        {
+            "content": [
+                "Just requires me to... Drive a man to the hospital?",
+                "I dunno where the hospital is on these things."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:13 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I draw my Desert Eagle and fire a shot to her chest?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["🎱 | Outlook not so good, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["t!8ball Do I now awaken with a mark on my hand?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["🎱 | Concentrate and ask again, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:14 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I draw my Desert Eagle and fire a shot to her chest?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["🎱 | It is decidedly so, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["Fucking hell, woman!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["Was that a gunshot?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["t!8ball Do i check on Seth?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:15 PM"
+        },
+        {
+            "content": ["🎱 | Better not tell you now, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:15 PM"
+        },
+        {
+            "content": [
+                "You think a simple gunshot can kill the Grand Elder's Daughter?!"
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Random Woman",
+            "date": "21-Jun-18 07:15 PM"
+        },
+        {
+            "content": [
+                "Um. No but maybe my acidic sperm will?",
+                "t!8ball Do I convince her my sperm is acidic?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:15 PM"
+        },
+        {
+            "content": ["🎱 | Yes, definitely, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:16 PM"
+        },
+        {
+            "content": ["I bathe in acid, you twit."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Grand Elder's Daughter",
+            "date": "21-Jun-18 07:16 PM"
+        },
+        {
+            "content": ["Hot."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:16 PM"
+        },
+        {
+            "content": [
+                "t!8ball do I go into the Captain's Quarters to see what the gunshot was?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:16 PM"
+        },
+        {
+            "content": ["🎱 | My sources say no, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:16 PM"
+        },
+        {
+            "content": [
+                "t!8ball Does Emmett find the man and the floating vehicle with him?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:17 PM"
+        },
+        {
+            "content": ["🎱 | Very doubtful, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:17 PM"
+        },
+        {
+            "content": ["Um, I also have space crabs and space aids."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:17 PM"
+        },
+        {
+            "content": ["This guy didn't provide coordinates!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:17 PM"
+        },
+        {
+            "content": [
+                "And a whole list of STDs.",
+                "Should of read the fine print."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:17 PM"
+        },
+        {
+            "content": ["I mean, I have space crabs too."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Grand Elder's Daughter",
+            "date": "21-Jun-18 07:17 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I throw her out of the window and abscond?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:18 PM"
+        },
+        {
+            "content": ["🎱 | Very doubtful, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:18 PM"
+        },
+        {
+            "content": ["Hey, anyone there?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:19 PM"
+        },
+        {
+            "content": [
+                "I am going to leave now.",
+                "You stay.",
+                "Stay, woman."
+            ],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["t!8ball Do I now awaken with a mark on my hand?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["🎱 | Cannot predict now, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["Anyone? I can't read these numbers."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:19 PM"
+        },
+        {
+            "content": [
+                "Can't right now Emmett, currently fucking the daughter of some god or shit."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:20 PM"
+        },
+        {
+            "content": ["I doubt it."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:20 PM"
+        },
+        {
+            "content": ["t!8ball Do i check on all of the ships's programs?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:20 PM"
+        },
+        {
+            "content": ["🎱 | It is decidedly so, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:20 PM"
+        },
+        {
+            "content": ["t!8ball do I go check on Seth?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["🎱 | Signs point to yes, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:21 PM"
+        },
+        {
+            "content": [
+                "I'm going to fucking kill you for disgracing my father!"
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Grand Elder's Daughter",
+            "date": "21-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["Seth, what the hell are you doing?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["Maybe fighting with my new wife."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:21 PM"
+        },
+        {
+            "content": [
+                "t!8ball Does the man Emmett needs to hospitalize latch onto his back?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["🎱 | Yes, definitely, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["Doesn't sound like a good relationship."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["What the hell?!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:22 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do I kick her out a window and shoot her a few times?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:22 PM"
+        },
+        {
+            "content": ["🎱 | Without a doubt, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:22 PM"
+        },
+        {
+            "content": ["Fuck you."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:22 PM"
+        },
+        {
+            "content": ["t!8ball Do I wake up with a mark on my hand?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["🎱 | You may rely on it, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["No space thots up in this here ship!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["Go to the medic's place."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["Any vehicle?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["I'll get you for this!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Grand Elder's Daughter",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["Yeah, you."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["That's a nice nap."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["We'll fuck later, have a great day."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": [
+                "Emmett speaks in a whispered tone, exasperated.",
+                "Fuck me."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:23 PM"
+        },
+        {
+            "content": [
+                "All the systems check out. I should probably check on Seth.",
+                "t!8ball Do I check on Seth?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:24 PM"
+        },
+        {
+            "content": ["🎱 | Concentrate and ask again, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:24 PM"
+        },
+        {
+            "content": ["Anyways."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:24 PM"
+        },
+        {
+            "content": [
+                "You want me to kill her before she goes and tells her pops?"
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:24 PM"
+        },
+        {
+            "content": ["Nah."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:24 PM"
+        },
+        {
+            "content": ["I think I should."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:24 PM"
+        },
+        {
+            "content": ["What happened in here?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:24 PM"
+        },
+        {
+            "content": [
+                "Her vagina was better than most to be honest.",
+                "So I'd keep her alive. Well worth the space crabs."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:25 PM"
+        },
+        {
+            "content": [
+                "Emmett continues to whisper, putting his communicator to his mouth.",
+                "Turns out her vagina was moist from the space crab nest."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:25 PM"
+        },
+        {
+            "content": ["That doesn't answer my question."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:25 PM"
+        },
+        {
+            "content": [
+                "Seth's eyes oogle out of their eyesockets in a cartoonish way for a second or two.",
+                "Humina humina!"
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:27 PM"
+        },
+        {
+            "content": [
+                "He was banging the daughter of our assassination target."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:27 PM"
+        },
+        {
+            "content": ["Not an assassination target."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:27 PM"
+        },
+        {
+            "content": ["Just can't keep it in your pants, can you?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:28 PM"
+        },
+        {
+            "content": [
+                "He's the guy we're killing later. But he doesn't have a bounty as far as I know."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:28 PM"
+        },
+        {
+            "content": ["t!8ball Do I chase after the \"space thot\"?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:28 PM"
+        },
+        {
+            "content": ["🎱 | Better not tell you now, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:28 PM"
+        },
+        {
+            "content": [
+                "This wasn't in the description of the mission, man.",
+                "t!8ball Does Emmett start to tire out about halfway to the medic's station?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:28 PM"
+        },
+        {
+            "content": ["🎱 | Better not tell you now, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:29 PM"
+        },
+        {
+            "content": ["How far is this place?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:29 PM"
+        },
+        {
+            "content": ["Anyways we got ladies to bone and not a lot of time."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:29 PM"
+        },
+        {
+            "content": ["As far as you want it to be, cattle."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:30 PM"
+        },
+        {
+            "content": ["Let's get this bodyguard mission over with."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:30 PM"
+        },
+        {
+            "content": ["What's this mark?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:30 PM"
+        },
+        {
+            "content": ["You're bleeding on my fur now."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:30 PM"
+        },
+        {
+            "content": ["Not my fault."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:30 PM"
+        },
+        {
+            "content": ["Shut up Matthias and help us with this mission."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:31 PM"
+        },
+        {
+            "content": ["Fine...?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:31 PM"
+        },
+        {
+            "content": [
+                "t!8ball Do we all leave the ship leaving Serpile behind?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:32 PM"
+        },
+        {
+            "content": ["🎱 | Signs point to yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:32 PM"
+        },
+        {
+            "content": [
+                "t!8ball When I clench my fist, does the mark light up?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:32 PM"
+        },
+        {
+            "content": ["🎱 | My sources say no, Enchantingtable2013."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:32 PM"
+        },
+        {
+            "content": [
+                "Lets pick up some ammo and shit first.",
+                "Mission starts at 1300. It's currently 1100."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:32 PM"
+        },
+        {
+            "content": [
+                "I'm heading out for better tools.",
+                "t!8ball Do I change into my Kimono?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:33 PM"
+        },
+        {
+            "content": ["🎱 | Without a doubt, Brakia64."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["We have two hours to buy stuff we need."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["Those pickles made me tired."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["You're killing my back."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["Get some lavajuice.", "It'll help."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["t!8ball do I go to my quarters and go to sleep?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:35 PM"
+        },
+        {
+            "content": ["🎱 | Better not tell you now, ProfessorTree."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:35 PM"
+        },
+        {
+            "content": ["t!8ball Is Emmett starting to tire?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:35 PM"
+        },
+        {
+            "content": ["🎱 | It is certain, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:35 PM"
+        },
+        {
+            "content": ["Screw fate. I'm taking a nap."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:36 PM"
+        },
+        {
+            "content": ["Frick."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:36 PM"
+        },
+        {
+            "content": ["Too immature to say \"fuck\"."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:36 PM"
+        },
+        {
+            "content": [
+                "t!8ball Does Seth use his charisma to buy more bullets at a cheap price?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:36 PM"
+        },
+        {
+            "content": ["🎱 | It is certain, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:37 PM"
+        }
+    ]
+}

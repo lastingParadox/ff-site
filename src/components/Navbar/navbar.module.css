@@ -1,0 +1,24 @@
+.link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+}
+
+.link:hover {
+    color: #fff;
+    background-color: #333;
+}
+
+.link.active {
+    color: #fff;
+    background-color: #666;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #0f1214;
+    border-bottom: 1px solid #333;
+}
