@@ -2,7 +2,7 @@ import { Avatar, Typography } from '@mui/material';
 import Card from '@mui/material/Card/Card';
 import CharacterColors from '@/assets/json/characterColors.json';
 import { StoryBlock as Block } from '@/types/Episodes';
-import React, { useCallback, useEffect, useState, useContext } from 'react';
+import React, { useCallback, useEffect, useState, useContext, useMemo } from 'react';
 import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
 /*
@@ -33,26 +33,28 @@ function stringToColor(string: string) {
     return color;
 }
 
-function getCharacterColor(character: any, colorMode: 'light' | 'dark') {
+function getCharacterColor(character: string, colorMode: 'light' | 'dark') {
     if (!character) {
         return colorMode == 'light' ? '#000000' : '#FFFFFF';
     } else if (!CharacterColors[colorMode][character as keyof typeof CharacterColors.light]) {
-        return colorMode == 'light' ? '#404040' : '#C0C0C0';
+        return stringToColor(character);
     } else {
         return CharacterColors[colorMode][character as keyof typeof CharacterColors.light];
     }
 }
 
-export default function StoryBlock({ block, id }: { block: Block, id: number }): JSX.Element {
+export default function StoryBlock({ block, id }: { block: Block; id: number }): JSX.Element {
     const [loading, setLoading] = useState(true);
     const [avatar, setAvatar] = useState<string>();
     const { colorMode } = useContext(ColorModeContext);
+    const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
+    const characterColor = useMemo(() => getCharacterColor(chosenCharacter, colorMode), [chosenCharacter, colorMode]);
 
     // We use dynamic imports to load the avatar image of the character, considering that the images are named after the character's name.
     useEffect(() => {
         const fetchAvatar = async () => {
             try {
-                const fileName = block.player === 'FF 8 Ball' ? '8ball' : block.character || block.player;
+                const fileName = block.player === 'FF 8 Ball' ? '8ball' : chosenCharacter;
                 const response = await import(`../../assets/images/avatars/${fileName?.toLowerCase()}.png`);
                 setAvatar(response.default);
             } catch {
@@ -62,7 +64,7 @@ export default function StoryBlock({ block, id }: { block: Block, id: number }):
             }
         };
         fetchAvatar();
-    }, [block.character, block.player]);
+    }, [block.player, chosenCharacter]);
 
     // Get the correct style for the text based on the type of content.
     const getCorrectText = useCallback(
@@ -70,11 +72,11 @@ export default function StoryBlock({ block, id }: { block: Block, id: number }):
             const styleDict: { [name: string]: React.CSSProperties } = {
                 quotes: {},
                 commands: {
-                    border: `1px solid ${getCharacterColor(block.character, colorMode)}`,
+                    border: `1px solid ${characterColor}`,
                     borderRadius: 1,
-                    color: `${getCharacterColor(block.character, colorMode)}`,
+                    color: `${characterColor}`,
                     padding: '4px 8px',
-                    backgroundColor: `${getCharacterColor(block.character, colorMode)}20`,
+                    backgroundColor: `${characterColor}20`,
                     fontFamily: 'monospace',
                     fontWeight: 400,
                 },
@@ -96,21 +98,19 @@ export default function StoryBlock({ block, id }: { block: Block, id: number }):
                 <Typography
                     variant={variant}
                     sx={{ ...styleObj, width: 'fit-content' }}
-                    key={`${block.character}-${index}`}
+                    key={`${chosenCharacter}-${index}`}
                 >
                     {text}
                 </Typography>
             );
         },
-        [block.actions, block.character, block.commands, block.quotes, colorMode]
+        [block.actions, block.commands, block.quotes, characterColor, chosenCharacter]
     );
 
     // Get the character's avatar based on the character's name.
     const getCharacterAvatar = useCallback(
         (character: string) => {
-            const color = loading
-                ? 'transparent'
-                : CharacterColors[character as keyof typeof CharacterColors] || stringToColor(character);
+            const color = loading ? 'transparent' : characterColor;
             return {
                 sx: {
                     backgroundColor: avatar ? undefined : color,
@@ -121,21 +121,21 @@ export default function StoryBlock({ block, id }: { block: Block, id: number }):
                 children: loading ? '' : character[0].toUpperCase(),
             };
         },
-        [avatar, loading]
+        [avatar, characterColor, loading]
     );
 
     return (
         <div id={`${id}`} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center' }}>
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12, width: '100%' }}>
                 <Avatar
-                    {...getCharacterAvatar(block.character || block.player)}
+                    {...getCharacterAvatar(chosenCharacter)}
                     src={avatar}
                     variant={avatar ? 'square' : 'circular'}
                     className={styles.avatar}
                     style={{
-                        color: getCharacterColor(block.character, colorMode),
-                        borderColor: getCharacterColor(block.character, colorMode),
-                        backgroundColor: getCharacterColor(block.character, colorMode) + 40,
+                        color: characterColor,
+                        borderColor: characterColor,
+                        backgroundColor: characterColor + 40,
                     }}
                 />
                 <Card sx={{ flexGrow: 1, padding: 2 }}>
@@ -146,7 +146,7 @@ export default function StoryBlock({ block, id }: { block: Block, id: number }):
                             marginBottom: '8px',
                         }}
                     >
-                        <Typography sx={{ fontWeight: 600 }}>{block.character || block.player}</Typography>
+                        <Typography sx={{ fontWeight: 600 }}>{chosenCharacter}</Typography>
                         <Typography
                             sx={{
                                 color: '#AAAAAA',
@@ -154,9 +154,7 @@ export default function StoryBlock({ block, id }: { block: Block, id: number }):
                                 fontWeight: 200,
                                 fontStyle: 'italic',
                             }}
-                        >
-                            {block.date}
-                        </Typography>
+                        />
                     </div>
                     <div
                         style={{
@@ -166,10 +164,12 @@ export default function StoryBlock({ block, id }: { block: Block, id: number }):
                         }}
                     >
                         {block.content.map((text, index) => getCorrectText(text, index))}
-                    </div>  
+                    </div>
                 </Card>
             </div>
-            <a href={`#${id}`} className={styles.anchor} style={{flexGrow: 1}}>#</a>
+            <a href={`#${id}`} className={styles.anchor} style={{ flexGrow: 1 }}>
+                #
+            </a>
         </div>
     );
 }
