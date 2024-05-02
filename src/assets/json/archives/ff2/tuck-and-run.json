@@ -1,7 +1,7 @@
 {
     "title": "Tuck and Run",
     "episode_number": 2,
-    "short_desc": "The crew attempts to protect an important figure.",
+    "short_desc": "The crew attempts to protect the daughter of the space station's president.",
     "blocks": [
         {
             "content": ["Well, we're here."],
@@ -207,8 +207,8 @@
             "commands": [0],
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:15 PM"
         },
         {
@@ -242,8 +242,8 @@
             "commands": null,
             "actions": [0],
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:16 PM"
         },
         {
@@ -428,8 +428,8 @@
             "commands": [0],
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:24 PM"
         },
         {
@@ -458,8 +458,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:24 PM"
         },
         {
@@ -668,8 +668,8 @@
             "commands": [0],
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:28 PM"
         },
         {
@@ -688,8 +688,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:28 PM"
         },
         {
@@ -756,8 +756,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:32 PM"
         },
         {
@@ -832,8 +832,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:33 PM"
         },
         {
@@ -856,8 +856,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:33 PM"
         },
         {
@@ -909,48 +909,6 @@
             "player": "Maxwell",
             "character": "Matthias",
             "date": "23-Jun-18 07:34 PM"
-        },
-        {
-            "content": [
-                "From what I understand you guys are in a shop or something?"
-            ],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
-            "player": "Jonas",
-            "character": null,
-            "date": "23-Jun-18 07:34 PM"
-        },
-        {
-            "content": ["Space station weapons area."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "23-Jun-18 07:34 PM"
-        },
-        {
-            "content": ["Me and Max are."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
-            "player": "Sean",
-            "character": "Seth",
-            "date": "23-Jun-18 07:34 PM"
-        },
-        {
-            "content": ["Oh ok."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
-            "player": "Jonas",
-            "character": null,
-            "date": "23-Jun-18 07:35 PM"
         },
         {
             "content": ["Alright well take a nap Emmett."],
@@ -1051,8 +1009,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:37 PM"
         },
         {
@@ -1101,8 +1059,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:39 PM"
         },
         {
@@ -1121,8 +1079,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:40 PM"
         },
         {
@@ -1141,8 +1099,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:41 PM"
         },
         {
@@ -1224,8 +1182,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:43 PM"
         },
         {
@@ -1244,8 +1202,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:43 PM"
         },
         {
@@ -1254,8 +1212,8 @@
             "commands": [0],
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:44 PM"
         },
         {
@@ -1334,8 +1292,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:46 PM"
         },
         {
@@ -1364,8 +1322,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:47 PM"
         },
         {
@@ -1387,8 +1345,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:47 PM"
         },
         {
@@ -1488,8 +1446,8 @@
             "commands": [0],
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:51 PM"
         },
         {
@@ -1836,8 +1794,8 @@
             "commands": [0],
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:58 PM"
         },
         {
@@ -1896,8 +1854,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 07:59 PM"
         },
         {
@@ -1981,8 +1939,8 @@
             "commands": null,
             "actions": null,
             "other": null,
-            "player": "ProfessorTree",
-            "character": null,
+            "player": "Silas",
+            "character": "Laav",
             "date": "23-Jun-18 08:00 PM"
         },
         {
