@@ -1,15 +1,22 @@
-import { NavLink } from "react-router-dom";
-import styles from "./navbar.module.css";
-import React from "react";
+import { NavLink } from 'react-router-dom';
+import styles from './navbar.module.scss';
+import React from 'react';
+import { FormControlLabel, Switch } from '@mui/material';
+import { ColorModeContext } from '@/pages/RootLayout';
 
 export default function Navbar() {
+    const { colorMode, toggleColorMode } = React.useContext(ColorModeContext);
     return (
-        <nav className={styles.navbar}>
-            <Link to="/">Home</Link>
-            <Link to="/ff2">FF2</Link>
-            <Link to="/ff3">FF3</Link>
-            <label htmlFor="theme-checkbox">Theme</label>
-            <input id="theme-checkbox" type="checkbox" />
+        <nav className={`${styles.navbar} ${styles[colorMode]}`}>
+            <Link to='/'>Home</Link>
+            <Link to='/ff2'>FF2</Link>
+            <Link to='/ff3'>FF3</Link>
+            <FormControlLabel
+                className={`${styles.switchLabel} ${styles[colorMode]}`}
+                control={<Switch />}
+                label={`${colorMode} mode`}
+                onClick={toggleColorMode}
+            />
         </nav>
     );
 }
@@ -23,9 +30,7 @@ function Link(props: LinkProps): JSX.Element {
     const { to, children } = props;
     return (
         <NavLink
-            className={({ isActive }) =>
-                isActive ? `${styles.link} ${styles.active}` : `${styles.link}`
-            }
+            className={({ isActive }) => (isActive ? `${styles.link} ${styles.active}` : `${styles.link}`)}
             to={to}
         >
             {children}
