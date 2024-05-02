@@ -32,15 +32,22 @@ function stringToColor(string: string) {
     return color;
 }
 
+function getCharacterColor(character: any, colorMode: "light" | "dark") {
+    if (!character) {
+        return colorMode == "light" ? "#000000" : "#FFFFFF";
+    }
+    else if (!CharacterColors[colorMode][character as keyof typeof CharacterColors.light]) {
+        return colorMode == "light" ? "#808080" : "#C0C0C0";
+    }
+    else {
+        return CharacterColors[colorMode][character as keyof typeof CharacterColors.light];
+    }
+}
+
 export default function StoryBlock({ block }: { block: Block }) {
     const [loading, setLoading] = useState(true);
     const [avatar, setAvatar] = useState<string>();
     const { colorMode } = useContext(ColorModeContext);
-    const currentCharacterColor = block.character
-        ? CharacterColors[colorMode][block.character as keyof typeof CharacterColors.light]
-        : colorMode == "light"
-        ? "#000000"
-        : "#FFFFFF";
 
     // We use dynamic imports to load the avatar image of the character, considering that the images are named after the character's name.
     useEffect(() => {
@@ -69,11 +76,11 @@ export default function StoryBlock({ block }: { block: Block }) {
             const styleDict: { [name: string]: React.CSSProperties } = {
                 quotes: {},
                 commands: {
-                    border: `1px solid ${currentCharacterColor}`,
+                    border: `1px solid ${getCharacterColor(block.character, colorMode)}`,
                     borderRadius: 1,
-                    color: `${currentCharacterColor}`,
+                    color: `${getCharacterColor(block.character, colorMode)}`,
                     padding: "4px 8px",
-                    backgroundColor: `${currentCharacterColor}20`,
+                    backgroundColor: `${getCharacterColor(block.character, colorMode)}20`,
                     fontFamily: "monospace",
                     fontWeight: 400,
                 },
