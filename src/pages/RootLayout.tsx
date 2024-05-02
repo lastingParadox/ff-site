@@ -4,12 +4,6 @@ import { CssBaseline } from "@mui/material";
 import Navbar from "@/components/Navbar/Navbar";
 import React, { useMemo } from "react";
 
-const darkTheme = createTheme({
-    palette: {
-        mode: "dark",
-    },
-});
-
 export const ColorModeContext = React.createContext({
     colorMode: "dark",
     toggleColorMode: () => {},
