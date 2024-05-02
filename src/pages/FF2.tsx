@@ -124,7 +124,7 @@ const StoryBlockInfiniteScroll = ({
             style={{ display: 'flex', flexDirection: 'column', gap: 12 }}
         >
             {blocks.slice(0, loadedBlockNum).map((block, index) => (
-                <StoryBlock key={`${block.player}-${index}-${block.date}-block`} block={block} />
+                <StoryBlock key={`${block.player}-${index}-${block.date}-block`} id={index} block={block} />
             ))}
         </InfiniteScroll>
     );

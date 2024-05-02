@@ -43,7 +43,7 @@ function getCharacterColor(character: any, colorMode: 'light' | 'dark') {
     }
 }
 
-export default function StoryBlock({ block }: { block: Block }) {
+export default function StoryBlock({ block, id }: { block: Block, id: number }): JSX.Element {
     const [loading, setLoading] = useState(true);
     const [avatar, setAvatar] = useState<string>();
     const { colorMode } = useContext(ColorModeContext);
@@ -125,48 +125,51 @@ export default function StoryBlock({ block }: { block: Block }) {
     );
 
     return (
-        <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12 }}>
-            <Avatar
-                {...getCharacterAvatar(block.character || block.player)}
-                src={avatar}
-                variant={avatar ? 'square' : 'circular'}
-                className={styles.avatar}
-                style={{
-                    color: getCharacterColor(block.character, colorMode),
-                    borderColor: getCharacterColor(block.character, colorMode),
-                    backgroundColor: getCharacterColor(block.character, colorMode) + 40,
-                }}
-            />
-            <Card sx={{ flexGrow: 1, padding: 2 }}>
-                <div
+        <div id={`${id}`} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center' }}>
+            <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12, width: '100%' }}>
+                <Avatar
+                    {...getCharacterAvatar(block.character || block.player)}
+                    src={avatar}
+                    variant={avatar ? 'square' : 'circular'}
+                    className={styles.avatar}
                     style={{
-                        display: 'flex',
-                        gap: 8,
-                        marginBottom: '8px',
+                        color: getCharacterColor(block.character, colorMode),
+                        borderColor: getCharacterColor(block.character, colorMode),
+                        backgroundColor: getCharacterColor(block.character, colorMode) + 40,
                     }}
-                >
-                    <Typography sx={{ fontWeight: 600 }}>{block.character || block.player}</Typography>
-                    <Typography
-                        sx={{
-                            color: '#AAAAAA',
-                            fontSize: '0.9rem',
-                            fontWeight: 200,
-                            fontStyle: 'italic',
+                />
+                <Card sx={{ flexGrow: 1, padding: 2 }}>
+                    <div
+                        style={{
+                            display: 'flex',
+                            gap: 8,
+                            marginBottom: '8px',
                         }}
                     >
-                        {block.date}
-                    </Typography>
-                </div>
-                <div
-                    style={{
-                        display: 'flex',
-                        flexDirection: 'column',
-                        gap: 8,
-                    }}
-                >
-                    {block.content.map((text, index) => getCorrectText(text, index))}
-                </div>
-            </Card>
+                        <Typography sx={{ fontWeight: 600 }}>{block.character || block.player}</Typography>
+                        <Typography
+                            sx={{
+                                color: '#AAAAAA',
+                                fontSize: '0.9rem',
+                                fontWeight: 200,
+                                fontStyle: 'italic',
+                            }}
+                        >
+                            {block.date}
+                        </Typography>
+                    </div>
+                    <div
+                        style={{
+                            display: 'flex',
+                            flexDirection: 'column',
+                            gap: 8,
+                        }}
+                    >
+                        {block.content.map((text, index) => getCorrectText(text, index))}
+                    </div>  
+                </Card>
+            </div>
+            <a href={`#${id}`} className={styles.anchor} style={{flexGrow: 1}}>#</a>
         </div>
     );
 }
