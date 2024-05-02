@@ -6,7 +6,7 @@
     font-size: 2em;
 
     &.disabled {
-        border-color: #00000000;
-        background-color: #00000000;
+        border-color: #00000000 !important;
+        background-color: #00000000 !important;
     }
 }

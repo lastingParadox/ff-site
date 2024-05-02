@@ -3,6 +3,7 @@ import styles from './navbar.module.scss';
 import React from 'react';
 import { FormControlLabel, Switch } from '@mui/material';
 import { ColorModeContext } from '@/pages/RootLayout';
+import MaterialUISwitch from './MaterialUISwitch';
 
 export default function Navbar() {
     const { colorMode, toggleColorMode } = React.useContext(ColorModeContext);
@@ -13,7 +14,7 @@ export default function Navbar() {
             <Link to='/ff3'>FF3</Link>
             <FormControlLabel
                 className={`${styles.switchLabel} ${styles[colorMode]}`}
-                control={<Switch />}
+                control={<MaterialUISwitch defaultChecked />}
                 label={`${colorMode} mode`}
                 onClick={toggleColorMode}
             />
