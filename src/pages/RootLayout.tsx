@@ -1,21 +1,19 @@
-import { Outlet } from "react-router-dom";
-import { ThemeProvider, createTheme } from "@mui/material/styles";
-import { CssBaseline } from "@mui/material";
-import Navbar from "@/components/Navbar/Navbar";
-import React, { useMemo } from "react";
+import { Outlet } from 'react-router-dom';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+import { CssBaseline } from '@mui/material';
+import Navbar from '@/components/Navbar/Navbar';
+import React, { useMemo } from 'react';
 
-export const ColorModeContext = React.createContext({
-    colorMode: "dark",
+export const ColorModeContext = React.createContext<{ colorMode: 'light' | 'dark'; toggleColorMode: () => void }>({
+    colorMode: 'dark',
     toggleColorMode: () => {},
 });
 
 export function ColorModeProvider({ children }: { children: React.ReactNode }) {
-    const [colorMode, setColorMode] = React.useState<"light" | "dark">("dark");
+    const [colorMode, setColorMode] = React.useState<'light' | 'dark'>('dark');
 
     const toggleColorMode = () => {
-        setColorMode((prevColorMode) =>
-            prevColorMode === "light" ? "dark" : "light"
-        );
+        setColorMode((prevColorMode) => (prevColorMode === 'light' ? 'dark' : 'light'));
     };
 
     const theme = useMemo(() => {
