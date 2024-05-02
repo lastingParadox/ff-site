@@ -2,7 +2,8 @@ import { Avatar, Typography } from "@mui/material";
 import Card from "@mui/material/Card/Card";
 import CharacterColors from "@/assets/json/characterColors.json";
 import { StoryBlock as Block } from "@/types/Episodes";
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState, useContext } from "react";
+import { ColorModeContext } from "@/pages/RootLayout";
 /*
     This component is used to display a card with a story block.
     A story block consists of an avatar of the character, the name of the character, and stylized text.
@@ -34,6 +35,12 @@ function stringToColor(string: string) {
 export default function StoryBlock({ block }: { block: Block }) {
     const [loading, setLoading] = useState(true);
     const [avatar, setAvatar] = useState<string>();
+    const { colorMode } = useContext(ColorModeContext);
+    const currentCharacterColor = block.character
+        ? CharacterColors[colorMode][block.character as keyof typeof CharacterColors.light]
+        : colorMode == "light"
+        ? "#000000"
+        : "#FFFFFF";
 
     // We use dynamic imports to load the avatar image of the character, considering that the images are named after the character's name.
     useEffect(() => {
@@ -62,11 +69,11 @@ export default function StoryBlock({ block }: { block: Block }) {
             const styleDict: { [name: string]: React.CSSProperties } = {
                 quotes: {},
                 commands: {
-                    border: "1px solid #FFF09E",
+                    border: `1px solid ${currentCharacterColor}`,
                     borderRadius: 1,
-                    color: "#FFF09E",
+                    color: `${currentCharacterColor}`,
                     padding: "4px 8px",
-                    backgroundColor: "rgba(97, 82, 0, 0.8)",
+                    backgroundColor: `${currentCharacterColor}20`,
                     fontFamily: "monospace",
                     fontWeight: 400,
                 },

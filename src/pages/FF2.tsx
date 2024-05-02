@@ -83,9 +83,9 @@ export default function FF2() {
                             onChange={(event) => handleSelectChange(event)}
                             value={episodeParam}
                         >
-                            {TitleList.map((title) => (
+                            {TitleList.map((title, index) => (
                                 <MenuItem key={title.param} value={title.param}>
-                                    {title.display}
+                                    {index + 1}.&nbsp;{title.display}
                                 </MenuItem>
                             ))}
                         </Select>

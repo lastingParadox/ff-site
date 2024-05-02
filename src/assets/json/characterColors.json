@@ -1,15 +1,32 @@
 {
-    "FF 8 Ball": "#382A46",
-    "Seth": "#FF0000",
-    "Sanya": "#980000",
-    "Dakari": "#980000",
-    "Chomsky": "#980000",
-    "Valentina": "#BF9000",
-    "Emmett": "#38761D",
-    "Matthias": "#3AA5BD",
-    "Mateo": "#3AA5BD",
-    "Iris": "#3D85C6",
-    "Garrick": "#1C4587",
-    "Wes": "#9900FF",
-    "Vargas": "#000000"
+    "light" : {
+        "FF 8 Ball": "#382A46",
+        "Seth": "#FF0000",
+        "Sanya": "#980000",
+        "Dakari": "#654321",
+        "Chomsky": "#ff9900",
+        "Valentina": "#BF9000",
+        "Emmett": "#38761D",
+        "Matthias": "#3AA5BD",
+        "Mateo": "#3AA5BD",
+        "Iris": "#3D85C6",
+        "Garrick": "#1C4587",
+        "Wes": "#9900FF",
+        "Vargas": "#000000"
+    },
+    "dark" : {
+        "FF 8 Ball": "#b77cf2",
+        "Seth": "#FF5050",
+        "Sanya": "#C82020",
+        "Dakari": "#d1734b",
+        "Chomsky": "#ff9900",
+        "Valentina": "#FFD080",
+        "Emmett": "#62DE2C",
+        "Matthias": "#50DDFF",
+        "Mateo": "#50DDFF",
+        "Iris": "#20A0FF",
+        "Garrick": "#5269FF",
+        "Wes": "#BB54FF",
+        "Vargas": "#FFFFFF"
+    }
 }

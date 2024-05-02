@@ -8,6 +8,8 @@ export default function Navbar() {
             <Link to="/">Home</Link>
             <Link to="/ff2">FF2</Link>
             <Link to="/ff3">FF3</Link>
+            <label htmlFor="theme-checkbox">Theme</label>
+            <input id="theme-checkbox" type="checkbox" />
         </nav>
     );
 }
