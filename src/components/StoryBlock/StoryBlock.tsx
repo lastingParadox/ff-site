@@ -1,9 +1,10 @@
-import { Avatar, Typography } from "@mui/material";
-import Card from "@mui/material/Card/Card";
-import CharacterColors from "@/assets/json/characterColors.json";
-import { StoryBlock as Block } from "@/types/Episodes";
-import React, { useCallback, useEffect, useState, useContext } from "react";
-import { ColorModeContext } from "@/pages/RootLayout";
+import { Avatar, Typography } from '@mui/material';
+import Card from '@mui/material/Card/Card';
+import CharacterColors from '@/assets/json/characterColors.json';
+import { StoryBlock as Block } from '@/types/Episodes';
+import React, { useCallback, useEffect, useState, useContext } from 'react';
+import { ColorModeContext } from '@/pages/RootLayout';
+import styles from './storyblock.module.scss';
 /*
     This component is used to display a card with a story block.
     A story block consists of an avatar of the character, the name of the character, and stylized text.
@@ -21,7 +22,7 @@ function stringToColor(string: string) {
         hash = string.charCodeAt(i) + ((hash << 5) - hash);
     }
 
-    let color = "#";
+    let color = '#';
 
     /* eslint-enable no-bitwise */
     for (i = 0; i < 3; i += 1) {
@@ -32,14 +33,12 @@ function stringToColor(string: string) {
     return color;
 }
 
-function getCharacterColor(character: any, colorMode: "light" | "dark") {
+function getCharacterColor(character: any, colorMode: 'light' | 'dark') {
     if (!character) {
-        return colorMode == "light" ? "#000000" : "#FFFFFF";
-    }
-    else if (!CharacterColors[colorMode][character as keyof typeof CharacterColors.light]) {
-        return colorMode == "light" ? "#808080" : "#C0C0C0";
-    }
-    else {
+        return colorMode == 'light' ? '#000000' : '#FFFFFF';
+    } else if (!CharacterColors[colorMode][character as keyof typeof CharacterColors.light]) {
+        return colorMode == 'light' ? '#404040' : '#C0C0C0';
+    } else {
         return CharacterColors[colorMode][character as keyof typeof CharacterColors.light];
     }
 }
@@ -53,16 +52,11 @@ export default function StoryBlock({ block }: { block: Block }) {
     useEffect(() => {
         const fetchAvatar = async () => {
             try {
-                const fileName =
-                    block.player === "FF 8 Ball"
-                        ? "8ball"
-                        : block.character || block.player;
-                const response = await import(
-                    `../../assets/images/avatars/${fileName?.toLowerCase()}.png`
-                );
+                const fileName = block.player === 'FF 8 Ball' ? '8ball' : block.character || block.player;
+                const response = await import(`../../assets/images/avatars/${fileName?.toLowerCase()}.png`);
                 setAvatar(response.default);
             } catch {
-                setAvatar("");
+                setAvatar('');
             } finally {
                 setLoading(false);
             }
@@ -79,12 +73,12 @@ export default function StoryBlock({ block }: { block: Block }) {
                     border: `1px solid ${getCharacterColor(block.character, colorMode)}`,
                     borderRadius: 1,
                     color: `${getCharacterColor(block.character, colorMode)}`,
-                    padding: "4px 8px",
+                    padding: '4px 8px',
                     backgroundColor: `${getCharacterColor(block.character, colorMode)}20`,
-                    fontFamily: "monospace",
+                    fontFamily: 'monospace',
                     fontWeight: 400,
                 },
-                actions: { fontStyle: "italic" },
+                actions: { fontStyle: 'italic' },
                 other: {},
             };
 
@@ -96,28 +90,27 @@ export default function StoryBlock({ block }: { block: Block }) {
                 ? styleDict.actions
                 : styleDict.other;
 
-            const variant = block.actions?.includes(index) ? "body2" : "body1";
+            const variant = block.actions?.includes(index) ? 'body2' : 'body1';
 
             return (
                 <Typography
                     variant={variant}
-                    sx={{ ...styleObj, width: "fit-content" }}
+                    sx={{ ...styleObj, width: 'fit-content' }}
                     key={`${block.character}-${index}`}
                 >
                     {text}
                 </Typography>
             );
         },
-        [block.actions, block.character, block.commands, block.quotes]
+        [block.actions, block.character, block.commands, block.quotes, colorMode]
     );
 
     // Get the character's avatar based on the character's name.
     const getCharacterAvatar = useCallback(
         (character: string) => {
             const color = loading
-                ? "transparent"
-                : CharacterColors[character as keyof typeof CharacterColors] ||
-                  stringToColor(character);
+                ? 'transparent'
+                : CharacterColors[character as keyof typeof CharacterColors] || stringToColor(character);
             return {
                 sx: {
                     backgroundColor: avatar ? undefined : color,
@@ -125,36 +118,40 @@ export default function StoryBlock({ block }: { block: Block }) {
                     width: 56,
                     marginTop: 1,
                 },
-                children: loading ? "" : character[0].toUpperCase(),
+                children: loading ? '' : character[0].toUpperCase(),
             };
         },
         [avatar, loading]
     );
 
     return (
-        <div style={{ display: "flex", alignItems: "flex-start", gap: 12 }}>
+        <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12 }}>
             <Avatar
                 {...getCharacterAvatar(block.character || block.player)}
                 src={avatar}
-                variant={avatar ? "square" : "circular"}
+                variant={avatar ? 'square' : 'circular'}
+                className={styles.avatar}
+                style={{
+                    color: getCharacterColor(block.character, colorMode),
+                    borderColor: getCharacterColor(block.character, colorMode),
+                    backgroundColor: getCharacterColor(block.character, colorMode) + 40,
+                }}
             />
             <Card sx={{ flexGrow: 1, padding: 2 }}>
                 <div
                     style={{
-                        display: "flex",
+                        display: 'flex',
                         gap: 8,
-                        marginBottom: "8px",
+                        marginBottom: '8px',
                     }}
                 >
-                    <Typography sx={{ fontWeight: 600 }}>
-                        {block.character || block.player}
-                    </Typography>
+                    <Typography sx={{ fontWeight: 600 }}>{block.character || block.player}</Typography>
                     <Typography
                         sx={{
-                            color: "#AAAAAA",
-                            fontSize: "0.9rem",
+                            color: '#AAAAAA',
+                            fontSize: '0.9rem',
                             fontWeight: 200,
-                            fontStyle: "italic",
+                            fontStyle: 'italic',
                         }}
                     >
                         {block.date}
@@ -162,14 +159,12 @@ export default function StoryBlock({ block }: { block: Block }) {
                 </div>
                 <div
                     style={{
-                        display: "flex",
-                        flexDirection: "column",
+                        display: 'flex',
+                        flexDirection: 'column',
                         gap: 8,
                     }}
                 >
-                    {block.content.map((text, index) =>
-                        getCorrectText(text, index)
-                    )}
+                    {block.content.map((text, index) => getCorrectText(text, index))}
                 </div>
             </Card>
         </div>
