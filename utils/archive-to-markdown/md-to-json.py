@@ -17,6 +17,8 @@ def get_character_from_player(player):
             return "Serpile"
         case "Maxwell":
             return "Matthias"
+        case "Josh":
+            return "Jacob"
         case "TheBlade":
             return "Jim"
         case _:
@@ -119,7 +121,7 @@ def convert_to_json(blocks, json_file):
 
 if __name__ == "__main__":
     md_file = "./md/ff2/tuck-and-run.md"
-    json_file = "./json/ff2/tuck-and-run.json"
+    json_file = "../../src/assets/json/archives/ff2/tuck-and-run.json"
     blocks = parse_blocks(md_file)
     episode_dict = {
         "title": "Tuck and Run",

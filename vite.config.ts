@@ -21,7 +21,4 @@ export default defineConfig({
         },
     },
     plugins: [react(), markdownPlugin()],
-    build: {
-        sourcemap: true,
-    },
 });

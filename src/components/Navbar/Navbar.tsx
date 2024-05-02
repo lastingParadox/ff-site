@@ -7,6 +7,7 @@ import MaterialUISwitch from './MaterialUISwitch';
 
 export default function Navbar() {
     const { colorMode, toggleColorMode } = React.useContext(ColorModeContext);
+
     return (
         <nav className={`${styles.navbar} ${styles[colorMode]}`}>
             <Link to='/'>Home</Link>
@@ -14,7 +15,11 @@ export default function Navbar() {
             <Link to='/ff3'>FF3</Link>
             <FormControlLabel
                 className={`${styles.switchLabel} ${styles[colorMode]}`}
+<<<<<<< Updated upstream
                 control={<MaterialUISwitch defaultChecked />}
+=======
+                control={<Switch checked={colorMode === 'dark'} />}
+>>>>>>> Stashed changes
                 label={`${colorMode} mode`}
                 onClick={toggleColorMode}
             />
