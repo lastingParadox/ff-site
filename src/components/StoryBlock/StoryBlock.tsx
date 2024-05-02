@@ -1,7 +1,7 @@
 import { Avatar, Typography } from "@mui/material";
 import Card from "@mui/material/Card/Card";
 import CharacterColors from "@/assets/json/characterColors.json";
-import { StoryBlock as Block } from "@/types/StoryBlocks";
+import { StoryBlock as Block } from "@/types/Episodes";
 import React, { useCallback, useEffect, useState } from "react";
 /*
     This component is used to display a card with a story block.

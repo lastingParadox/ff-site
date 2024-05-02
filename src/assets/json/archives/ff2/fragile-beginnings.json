@@ -1,7 +1,7 @@
 {
     "title": "Fragile Beginnings",
-    "episode_number": "1",
-    "startup": "The group finds themselves docked to Space Station c2187. Inside said Space Station are a welcoming center, a variety of stores and rest areas, and most importantly, a mission board. Collaboratively, the group has 1,000 Ducketts (D). Times have been rough in terms of economy for these five characters.",
+    "episode_number": 1,
+    "short_desc": "The crew ends up at a space station and picks up a few bounties.",
     "blocks": [
         {
             "content": ["t!8ball Does Emmett open up the ship entrance?"],
