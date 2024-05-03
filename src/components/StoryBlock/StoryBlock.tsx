@@ -5,6 +5,7 @@ import { StoryBlock as Block } from '@/types/Episodes';
 import React, { useCallback, useEffect, useState, useContext, useMemo } from 'react';
 import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
+import { useSearchParams } from 'react-router-dom';
 /*
     This component is used to display a card with a story block.
     A story block consists of an avatar of the character, the name of the character, and stylized text.
@@ -46,6 +47,7 @@ function getCharacterColor(character: string, colorMode: 'light' | 'dark') {
 export default function StoryBlock({ block, id }: { block: Block; id: number }): JSX.Element {
     const [loading, setLoading] = useState(true);
     const [avatar, setAvatar] = useState<string>();
+    const [searchParams, setSearchParams] = useSearchParams();
     const { colorMode } = useContext(ColorModeContext);
     const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
     const characterColor = useMemo(() => getCharacterColor(chosenCharacter, colorMode), [chosenCharacter, colorMode]);
@@ -167,9 +169,13 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                     </div>
                 </Card>
             </div>
-            <a href={`#${id}`} className={styles.anchor} style={{ flexGrow: 1 }}>
+            <div
+                className={styles.anchor}
+                style={{ flexGrow: 1 }}
+                onClick={() => setSearchParams({ line: id.toString() })}
+            >
                 #
-            </a>
+            </div>
         </div>
     );
 }

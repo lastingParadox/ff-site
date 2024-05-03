@@ -1,16 +1,19 @@
 import StoryBlock from '@/components/StoryBlock/StoryBlock';
 import { Episode as EpisodeType } from '@/types/Episodes';
-import { useEffect, useState } from 'react';
+import React, { forwardRef, useEffect, useMemo, useRef, useState } from 'react';
 import { CircularProgress, MenuItem, Select, SelectChangeEvent, Typography } from '@mui/material';
 import TitleList from '@/assets/json/archives/ff2/titleList.json';
-import { useNavigate, useParams } from 'react-router-dom';
-import { VList } from 'virtua';
+import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import { VList, VListHandle } from 'virtua';
 
 export default function FF2() {
     const { episode: episodeParam } = useParams();
     const navigate = useNavigate();
+    const [searchParams] = useSearchParams();
     const [episodeLoading, setEpisodeLoading] = useState(true);
     const [episode, setEpisode] = useState<EpisodeType>();
+    const ref = useRef<VListHandle>(null);
+    const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
 
     useEffect(() => {
         const fetchEpisode = async () => {
@@ -27,6 +30,15 @@ export default function FF2() {
         };
         fetchEpisode();
     }, [episodeParam]);
+
+    // Unsure if this useEffect is necessary
+    useEffect(() => {
+        if (episode && episode.blocks?.length > 0 && ref.current && lineParam) {
+            const line = parseInt(lineParam);
+            console.log('scrolling to line', line);
+            ref.current.scrollToIndex(line);
+        }
+    }, [episode, lineParam]);
 
     const handleSelectChange = (event: SelectChangeEvent) => {
         setEpisodeLoading(true);
@@ -85,7 +97,7 @@ export default function FF2() {
                             {episode?.short_desc}
                         </Typography>
                     </div>
-                    <StoryBlockInfiniteScroll blocks={episode.blocks} />
+                    <StoryBlockInfiniteScroll ref={ref} blocks={episode.blocks} />
                 </div>
             )}
             {episode && (!episode.blocks || episode.blocks.length === 0) && (
@@ -95,14 +107,17 @@ export default function FF2() {
     );
 }
 
-const StoryBlockInfiniteScroll = ({ blocks }: { blocks: EpisodeType['blocks'] }) => {
+const StoryBlockInfiniteScroll = forwardRef(function StoryBlockInfiniteScroll(
+    { blocks }: { blocks: EpisodeType['blocks'] },
+    ref: React.ForwardedRef<VListHandle>
+) {
     return (
-        <VList style={{ height: 700 }}>
+        <VList ref={ref} style={{ height: 700 }}>
             {blocks.map((block, index) => (
-                <div style={{ margin: '0 0 12px 0' }}>
+                <div key={`${block.player}-${index}-${block.date}-container`} style={{ margin: '0 0 12px 0' }}>
                     <StoryBlock key={`${block.player}-${index}-${block.date}-block`} block={block} id={index} />
                 </div>
             ))}
         </VList>
     );
-};
+});
