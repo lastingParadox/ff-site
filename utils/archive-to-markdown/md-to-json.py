@@ -19,6 +19,8 @@ def get_character_from_player(player):
             return "Matthias"
         case "Josh":
             return "Jacob"
+        case "Jonas":
+            return "Asier"
         case "TheBlade":
             return "Jim"
         case _:
@@ -34,7 +36,7 @@ def get_player_from_username(username):
             return "Brody"
         case "Enchantingtable2013":
             return "Maxwell"
-        case "Tatsumaki":
+        case "Tatsumaki" | "Magic8Ball":
             return "FF 8 Ball"
         case "ProfessorTree":
             return "Silas"
@@ -84,7 +86,7 @@ def parse_blocks(md_file):
                 else:
                     current_block["content"].append(line[2:])
                 current_block["quotes"].append(len(current_block["content"]) - 1)
-            elif line.startswith("t!" or "!8"):
+            elif line.startswith("t!") or line.startswith("@Magic"):
                 if not current_block.get("commands"):
                     current_block["commands"] = []
                 current_block["content"].append(line)
@@ -120,13 +122,13 @@ def convert_to_json(blocks, json_file):
 
 
 if __name__ == "__main__":
-    md_file = "./md/ff2/tuck-and-run.md"
-    json_file = "../../src/assets/json/archives/ff2/tuck-and-run.json"
+    md_file = "./md/ff2/dreamin-scary.md"
+    json_file = "../../src/assets/json/archives/ff2/dreamin-scary.json"
     blocks = parse_blocks(md_file)
     episode_dict = {
-        "title": "Tuck and Run",
-        "episode_number": 2,
-        "short_desc": "The crew attempts to protect the daughter of the space station's president.",
+        "title": "Dreamin' Scary",
+        "episode_number": 4,
+        "short_desc": "Some of the crew is stuck in an awful raunchy shared dream.",
         "blocks": blocks,
     }
     convert_to_json(episode_dict, json_file)

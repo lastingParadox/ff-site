@@ -1,3 +1,4 @@
+import re
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
@@ -15,6 +16,18 @@ def should_combine(previous_timestamp, current_timestamp):
     """
     time_difference = current_timestamp - previous_timestamp
     return time_difference <= timedelta(minutes=5)
+
+
+regex_pattern = r"@([^}]+)\|\s+(.*)"
+
+
+# Change the below to a function
+def format_line(line):
+    return re.sub(
+        regex_pattern,
+        lambda match: f"🎱 | {match.group(2).rstrip('.,!?')}, {match.group(1)}.",
+        line.strip(),
+    )
 
 
 def extract_messages(html_content):
@@ -44,9 +57,35 @@ def extract_messages(html_content):
         content_elements = group.find_all(class_="chatlog__content")
 
         for content_element in content_elements:
-            content = "\n".join(
-                line.strip() for line in content_element.stripped_strings
-            )
+            content_embed = None
+            if not list(content_element.stripped_strings):
+                content_embed = group.find(class_="chatlog__embed-description")
+
+            if content_embed:
+
+                # First check if there's a mention in the embed. If so, combine the mention with the next line.
+                mention = content_embed.find(class_="mention")
+
+                # if the mention is the first line, then we need to combine it with the next line
+                elements = list(content_embed.children)
+                if mention == elements[0]:
+                    # Combine the mention's text with the next element's text
+                    new_line = (
+                        mention.get_text(strip=True)
+                        + "| "
+                        + elements[1].get_text(strip=True)
+                    )
+                    lines = [new_line] + [
+                        element.get_text(strip=True) for element in elements[2:]
+                    ]
+                else:
+                    lines = [element.get_text(strip=True) for element in elements]
+
+                content = "\n".join(format_line(line) for line in lines)
+            else:
+                content = "\n".join(
+                    line.strip() for line in content_element.stripped_strings
+                )
 
             if (
                 author == previous_author

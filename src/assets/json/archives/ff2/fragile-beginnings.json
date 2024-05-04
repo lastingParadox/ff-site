@@ -97,11 +97,7 @@
             "date": "21-Jun-18 06:28 PM"
         },
         {
-            "content": [
-                "Food and ammo is also on my mind",
-                "Maybe a job",
-                "Maybe a handjob"
-            ],
+            "content": ["Food and ammo is also on my mind", "Maybe a job", "Maybe a handjob"],
             "quotes": [0, 1, 2],
             "commands": null,
             "actions": null,
@@ -151,10 +147,7 @@
             "date": "21-Jun-18 06:30 PM"
         },
         {
-            "content": [
-                "Let's go check inside.",
-                "t!8ball does Laav go inside?"
-            ],
+            "content": ["Let's go check inside.", "t!8ball does Laav go inside?"],
             "quotes": [0],
             "commands": [1],
             "actions": null,
@@ -174,10 +167,7 @@
             "date": "21-Jun-18 06:31 PM"
         },
         {
-            "content": [
-                "Pft, our last mission was bogus.",
-                "t!8ball Does Emmett scrounge in the fridge?"
-            ],
+            "content": ["Pft, our last mission was bogus.", "t!8ball Does Emmett scrounge in the fridge?"],
             "quotes": [0],
             "commands": [1],
             "actions": null,
@@ -260,10 +250,7 @@
             "date": "21-Jun-18 06:33 PM"
         },
         {
-            "content": [
-                "Space crabs is our plan?",
-                "Isn't that like an STD or something?"
-            ],
+            "content": ["Space crabs is our plan?", "Isn't that like an STD or something?"],
             "quotes": [0, 1],
             "commands": null,
             "actions": null,
@@ -283,9 +270,7 @@
             "date": "21-Jun-18 06:34 PM"
         },
         {
-            "content": [
-                "t!8ball Does Seth leave the ship with pickles in hand in search of a handjob and a job?"
-            ],
+            "content": ["t!8ball Does Seth leave the ship with pickles in hand in search of a handjob and a job?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -405,10 +390,7 @@
             "date": "21-Jun-18 06:36 PM"
         },
         {
-            "content": [
-                "BRO IMMA BEAT YOUR ASS UP, LAAV!",
-                "GET YOUR ASS OVER HERE."
-            ],
+            "content": ["BRO IMMA BEAT YOUR ASS UP, LAAV!", "GET YOUR ASS OVER HERE."],
             "quotes": [0, 1],
             "commands": null,
             "actions": null,
@@ -438,9 +420,7 @@
             "date": "21-Jun-18 06:36 PM"
         },
         {
-            "content": [
-                "t!8ball Do I shove Matthias out of the way whilst carrying the beer and go out?"
-            ],
+            "content": ["t!8ball Do I shove Matthias out of the way whilst carrying the beer and go out?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -500,9 +480,7 @@
             "date": "21-Jun-18 06:37 PM"
         },
         {
-            "content": [
-                "t!8ball Does Seth leave the ship with Emmett in search of a handjob and a job?"
-            ],
+            "content": ["t!8ball Does Seth leave the ship with Emmett in search of a handjob and a job?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -542,10 +520,7 @@
             "date": "21-Jun-18 06:38 PM"
         },
         {
-            "content": [
-                "Bro, rockmen are so huge, god...",
-                "You need to go to AA?"
-            ],
+            "content": ["Bro, rockmen are so huge, god...", "You need to go to AA?"],
             "quotes": [0, 1],
             "commands": null,
             "actions": null,
@@ -645,9 +620,7 @@
             "date": "21-Jun-18 06:40 PM"
         },
         {
-            "content": [
-                "t!8ball do I exit the ship to follow Seth and Emmett?"
-            ],
+            "content": ["t!8ball do I exit the ship to follow Seth and Emmett?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -737,9 +710,7 @@
             "date": "21-Jun-18 06:41 PM"
         },
         {
-            "content": [
-                "t!8ball Is there a Pickle Dispenser on the space station?"
-            ],
+            "content": ["t!8ball Is there a Pickle Dispenser on the space station?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -759,10 +730,7 @@
             "date": "21-Jun-18 06:41 PM"
         },
         {
-            "content": [
-                "Rock man, Laav same thing",
-                "You're still our favorite brute."
-            ],
+            "content": ["Rock man, Laav same thing", "You're still our favorite brute."],
             "quotes": [0, 1],
             "commands": null,
             "actions": null,
@@ -782,9 +750,7 @@
             "date": "21-Jun-18 06:42 PM"
         },
         {
-            "content": [
-                "t!8ball Does Seth go look for a job on the job board?"
-            ],
+            "content": ["t!8ball Does Seth go look for a job on the job board?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -834,9 +800,7 @@
             "date": "21-Jun-18 06:43 PM"
         },
         {
-            "content": [
-                "There's a rubber ducky on the ground, if you want to do that in the ship, Seth."
-            ],
+            "content": ["There's a rubber ducky on the ground, if you want to do that in the ship, Seth."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -886,9 +850,7 @@
             "date": "21-Jun-18 06:44 PM"
         },
         {
-            "content": [
-                "t!8ball does Seth pick up the rubber ducky and begin to wanky-wanky?"
-            ],
+            "content": ["t!8ball does Seth pick up the rubber ducky and begin to wanky-wanky?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -1048,9 +1010,7 @@
             "date": "21-Jun-18 06:48 PM"
         },
         {
-            "content": [
-                "Here's an idea: how about we stop fucking rubber ducks and look for a job?"
-            ],
+            "content": ["Here's an idea: how about we stop fucking rubber ducks and look for a job?"],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1090,9 +1050,7 @@
             "date": "21-Jun-18 06:49 PM"
         },
         {
-            "content": [
-                "Here's an idea for you rockman: I'm the captain, so fuck off."
-            ],
+            "content": ["Here's an idea for you rockman: I'm the captain, so fuck off."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1192,9 +1150,7 @@
             "date": "21-Jun-18 06:51 PM"
         },
         {
-            "content": [
-                "t!8ball Do I use my charisma to make Laav start crossdressing?"
-            ],
+            "content": ["t!8ball Do I use my charisma to make Laav start crossdressing?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -1234,9 +1190,7 @@
             "date": "21-Jun-18 06:52 PM"
         },
         {
-            "content": [
-                "Wait...why do I feel a sudden urge to put on panties?"
-            ],
+            "content": ["Wait...why do I feel a sudden urge to put on panties?"],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1246,9 +1200,7 @@
             "date": "21-Jun-18 06:52 PM"
         },
         {
-            "content": [
-                "t!8ball Does Emmett take up a mission that takes place in the space station?"
-            ],
+            "content": ["t!8ball Does Emmett take up a mission that takes place in the space station?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -1291,9 +1243,7 @@
             "date": "21-Jun-18 06:53 PM"
         },
         {
-            "content": [
-                "t!8ball Do I see a pocketwatch float through my view?"
-            ],
+            "content": ["t!8ball Do I see a pocketwatch float through my view?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -1313,10 +1263,7 @@
             "date": "21-Jun-18 06:54 PM"
         },
         {
-            "content": [
-                "WTF is Laav doing out there?",
-                "t!8ball Do i check what Laav is doing?"
-            ],
+            "content": ["WTF is Laav doing out there?", "t!8ball Do i check what Laav is doing?"],
             "quotes": [0],
             "commands": [1],
             "actions": null,
@@ -1336,9 +1283,7 @@
             "date": "21-Jun-18 06:54 PM"
         },
         {
-            "content": [
-                "Anyways I'm going to go look at the mission board with Emmett."
-            ],
+            "content": ["Anyways I'm going to go look at the mission board with Emmett."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1348,9 +1293,7 @@
             "date": "21-Jun-18 06:55 PM"
         },
         {
-            "content": [
-                "t!8ball do I walk up to the job board and take a job that takes place on a nearby planet?"
-            ],
+            "content": ["t!8ball do I walk up to the job board and take a job that takes place on a nearby planet?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -1393,9 +1336,7 @@
             "date": "21-Jun-18 06:56 PM"
         },
         {
-            "content": [
-                "Hey Emmett look at this when you get a chance. It's got sexy women."
-            ],
+            "content": ["Hey Emmett look at this when you get a chance. It's got sexy women."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1495,9 +1436,7 @@
             "date": "21-Jun-18 07:00 PM"
         },
         {
-            "content": [
-                "t!8ball Do I take a job with a high pay that takes place on a nearby planet?"
-            ],
+            "content": ["t!8ball Do I take a job with a high pay that takes place on a nearby planet?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -1597,9 +1536,7 @@
             "date": "21-Jun-18 07:02 PM"
         },
         {
-            "content": [
-                "We need food and water more than fuel, so lets do the job that takes place here first."
-            ],
+            "content": ["We need food and water more than fuel, so lets do the job that takes place here first."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1639,11 +1576,7 @@
             "date": "21-Jun-18 07:02 PM"
         },
         {
-            "content": [
-                "Which, the sexy ladies are enough.",
-                "Depends.",
-                "What's the mission specify?"
-            ],
+            "content": ["Which, the sexy ladies are enough.", "Depends.", "What's the mission specify?"],
             "quotes": [0, 1, 2],
             "commands": null,
             "actions": null,
@@ -1680,9 +1613,7 @@
             "date": "21-Jun-18 07:04 PM"
         },
         {
-            "content": [
-                "Maybe we can steal it for a third time and sell it on the black market? Heh heh."
-            ],
+            "content": ["Maybe we can steal it for a third time and sell it on the black market? Heh heh."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1702,9 +1633,7 @@
             "date": "21-Jun-18 07:05 PM"
         },
         {
-            "content": [
-                "Yeah, we'll steal it, turn it in, assassinate the old coot, and triple our gain."
-            ],
+            "content": ["Yeah, we'll steal it, turn it in, assassinate the old coot, and triple our gain."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1714,9 +1643,7 @@
             "date": "21-Jun-18 07:05 PM"
         },
         {
-            "content": [
-                "t!8ball Do I use my charisma on a female and bring her to my captain's quarters?"
-            ],
+            "content": ["t!8ball Do I use my charisma on a female and bring her to my captain's quarters?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -1736,9 +1663,7 @@
             "date": "21-Jun-18 07:06 PM"
         },
         {
-            "content": [
-                "But we do that after this job and after I have sex with this woman."
-            ],
+            "content": ["But we do that after this job and after I have sex with this woman."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1852,10 +1777,7 @@
             "date": "21-Jun-18 07:09 PM"
         },
         {
-            "content": [
-                "Alright.",
-                "t!8ball do I read the job that takes place here?"
-            ],
+            "content": ["Alright.", "t!8ball do I read the job that takes place here?"],
             "quotes": [0],
             "commands": [1],
             "actions": null,
@@ -1895,9 +1817,7 @@
             "date": "21-Jun-18 07:11 PM"
         },
         {
-            "content": [
-                "Let's finish this up, I have a little bit of work to do."
-            ],
+            "content": ["Let's finish this up, I have a little bit of work to do."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1939,9 +1859,7 @@
             "date": "21-Jun-18 07:12 PM"
         },
         {
-            "content": [
-                "Shouldn't take long. It should get us enough cash to buy some food and fuel."
-            ],
+            "content": ["Shouldn't take long. It should get us enough cash to buy some food and fuel."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -1951,9 +1869,7 @@
             "date": "21-Jun-18 07:12 PM"
         },
         {
-            "content": [
-                "t!8ball Does the woman attack me for my plans to kill the Elder?"
-            ],
+            "content": ["t!8ball Does the woman attack me for my plans to kill the Elder?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2006,9 +1922,7 @@
             "date": "21-Jun-18 07:13 PM"
         },
         {
-            "content": [
-                "t!8ball Do I draw my Desert Eagle and fire a shot to her chest?"
-            ],
+            "content": ["t!8ball Do I draw my Desert Eagle and fire a shot to her chest?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2048,9 +1962,7 @@
             "date": "21-Jun-18 07:14 PM"
         },
         {
-            "content": [
-                "t!8ball Do I draw my Desert Eagle and fire a shot to her chest?"
-            ],
+            "content": ["t!8ball Do I draw my Desert Eagle and fire a shot to her chest?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2110,9 +2022,7 @@
             "date": "21-Jun-18 07:15 PM"
         },
         {
-            "content": [
-                "You think a simple gunshot can kill the Grand Elder's Daughter?!"
-            ],
+            "content": ["You think a simple gunshot can kill the Grand Elder's Daughter?!"],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -2122,10 +2032,7 @@
             "date": "21-Jun-18 07:15 PM"
         },
         {
-            "content": [
-                "Um. No but maybe my acidic sperm will?",
-                "t!8ball Do I convince her my sperm is acidic?"
-            ],
+            "content": ["Um. No but maybe my acidic sperm will?", "t!8ball Do I convince her my sperm is acidic?"],
             "quotes": [0],
             "commands": [1],
             "actions": null,
@@ -2165,9 +2072,7 @@
             "date": "21-Jun-18 07:16 PM"
         },
         {
-            "content": [
-                "t!8ball do I go into the Captain's Quarters to see what the gunshot was?"
-            ],
+            "content": ["t!8ball do I go into the Captain's Quarters to see what the gunshot was?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2187,9 +2092,7 @@
             "date": "21-Jun-18 07:16 PM"
         },
         {
-            "content": [
-                "t!8ball Does Emmett find the man and the floating vehicle with him?"
-            ],
+            "content": ["t!8ball Does Emmett find the man and the floating vehicle with him?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2229,10 +2132,7 @@
             "date": "21-Jun-18 07:17 PM"
         },
         {
-            "content": [
-                "And a whole list of STDs.",
-                "Should of read the fine print."
-            ],
+            "content": ["And a whole list of STDs.", "Should of read the fine print."],
             "quotes": [0, 1],
             "commands": null,
             "actions": null,
@@ -2252,9 +2152,7 @@
             "date": "21-Jun-18 07:17 PM"
         },
         {
-            "content": [
-                "t!8ball Do I throw her out of the window and abscond?"
-            ],
+            "content": ["t!8ball Do I throw her out of the window and abscond?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2284,11 +2182,7 @@
             "date": "21-Jun-18 07:19 PM"
         },
         {
-            "content": [
-                "I am going to leave now.",
-                "You stay.",
-                "Stay, woman."
-            ],
+            "content": ["I am going to leave now.", "You stay.", "Stay, woman."],
             "quotes": [0, 1, 2],
             "commands": null,
             "actions": null,
@@ -2328,9 +2222,7 @@
             "date": "21-Jun-18 07:19 PM"
         },
         {
-            "content": [
-                "Can't right now Emmett, currently fucking the daughter of some god or shit."
-            ],
+            "content": ["Can't right now Emmett, currently fucking the daughter of some god or shit."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -2390,9 +2282,7 @@
             "date": "21-Jun-18 07:21 PM"
         },
         {
-            "content": [
-                "I'm going to fucking kill you for disgracing my father!"
-            ],
+            "content": ["I'm going to fucking kill you for disgracing my father!"],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -2422,9 +2312,7 @@
             "date": "21-Jun-18 07:21 PM"
         },
         {
-            "content": [
-                "t!8ball Does the man Emmett needs to hospitalize latch onto his back?"
-            ],
+            "content": ["t!8ball Does the man Emmett needs to hospitalize latch onto his back?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2464,9 +2352,7 @@
             "date": "21-Jun-18 07:22 PM"
         },
         {
-            "content": [
-                "t!8ball Do I kick her out a window and shoot her a few times?"
-            ],
+            "content": ["t!8ball Do I kick her out a window and shoot her a few times?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2586,10 +2472,7 @@
             "date": "21-Jun-18 07:23 PM"
         },
         {
-            "content": [
-                "Emmett speaks in a whispered tone, exasperated.",
-                "Fuck me."
-            ],
+            "content": ["Emmett speaks in a whispered tone, exasperated.", "Fuck me."],
             "quotes": [1],
             "commands": null,
             "actions": [0],
@@ -2599,10 +2482,7 @@
             "date": "21-Jun-18 07:23 PM"
         },
         {
-            "content": [
-                "All the systems check out. I should probably check on Seth.",
-                "t!8ball Do I check on Seth?"
-            ],
+            "content": ["All the systems check out. I should probably check on Seth.", "t!8ball Do I check on Seth?"],
             "quotes": [0],
             "commands": [1],
             "actions": null,
@@ -2632,9 +2512,7 @@
             "date": "21-Jun-18 07:24 PM"
         },
         {
-            "content": [
-                "You want me to kill her before she goes and tells her pops?"
-            ],
+            "content": ["You want me to kill her before she goes and tells her pops?"],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -2723,9 +2601,7 @@
             "date": "21-Jun-18 07:27 PM"
         },
         {
-            "content": [
-                "He was banging the daughter of our assassination target."
-            ],
+            "content": ["He was banging the daughter of our assassination target."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -2755,9 +2631,7 @@
             "date": "21-Jun-18 07:28 PM"
         },
         {
-            "content": [
-                "He's the guy we're killing later. But he doesn't have a bounty as far as I know."
-            ],
+            "content": ["He's the guy we're killing later. But he doesn't have a bounty as far as I know."],
             "quotes": [0],
             "commands": null,
             "actions": null,
@@ -2900,9 +2774,7 @@
             "date": "21-Jun-18 07:31 PM"
         },
         {
-            "content": [
-                "t!8ball Do we all leave the ship leaving Serpile behind?"
-            ],
+            "content": ["t!8ball Do we all leave the ship leaving Serpile behind?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2922,9 +2794,7 @@
             "date": "21-Jun-18 07:32 PM"
         },
         {
-            "content": [
-                "t!8ball When I clench my fist, does the mark light up?"
-            ],
+            "content": ["t!8ball When I clench my fist, does the mark light up?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
@@ -2944,10 +2814,7 @@
             "date": "21-Jun-18 07:32 PM"
         },
         {
-            "content": [
-                "Lets pick up some ammo and shit first.",
-                "Mission starts at 1300. It's currently 1100."
-            ],
+            "content": ["Lets pick up some ammo and shit first.", "Mission starts at 1300. It's currently 1100."],
             "quotes": [0, 1],
             "commands": null,
             "actions": null,
@@ -2957,10 +2824,7 @@
             "date": "21-Jun-18 07:32 PM"
         },
         {
-            "content": [
-                "I'm heading out for better tools.",
-                "t!8ball Do I change into my Kimono?"
-            ],
+            "content": ["I'm heading out for better tools.", "t!8ball Do I change into my Kimono?"],
             "quotes": [0],
             "commands": [1],
             "actions": null,
@@ -3090,9 +2954,7 @@
             "date": "21-Jun-18 07:36 PM"
         },
         {
-            "content": [
-                "t!8ball Does Seth use his charisma to buy more bullets at a cheap price?"
-            ],
+            "content": ["t!8ball Does Seth use his charisma to buy more bullets at a cheap price?"],
             "quotes": null,
             "commands": [0],
             "actions": null,
