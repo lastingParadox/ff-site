@@ -3,6 +3,7 @@ export type Episode = {
     episode_number: number;
     short_desc: string;
     blocks: StoryBlock[];
+    commentaries: Commentary[];
 };
 
 export type StoryBlock = {
@@ -15,3 +16,9 @@ export type StoryBlock = {
     actions: number[] | null;
     other: number[] | null;
 };
+
+export type Commentary = {
+    message_id: number;
+    user_id: string;
+    content: string;
+}

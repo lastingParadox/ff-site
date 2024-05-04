@@ -1,10 +1,11 @@
 import StoryBlock from '@/components/StoryBlock/StoryBlock';
 import { Episode as EpisodeType } from '@/types/Episodes';
 import React, { forwardRef, useEffect, useMemo, useRef, useState } from 'react';
-import { CircularProgress, MenuItem, Select, SelectChangeEvent, Typography } from '@mui/material';
+import { CircularProgress, MenuItem, Select, SelectChangeEvent, Typography, Tooltip } from '@mui/material';
 import TitleList from '@/assets/json/archives/ff2/titleList.json';
 import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { VList, VListHandle } from 'virtua';
+import CommentIcon from '@mui/icons-material/Comment';
 
 export default function FF2() {
     const { episode: episodeParam } = useParams();
@@ -97,7 +98,7 @@ export default function FF2() {
                             {episode?.short_desc}
                         </Typography>
                     </div>
-                    <StoryBlockInfiniteScroll ref={ref} blocks={episode.blocks} />
+                    <StoryBlockInfiniteScroll ref={ref} blocks={episode.blocks} commentaries={episode.commentaries} />
                 </div>
             )}
             {episode && (!episode.blocks || episode.blocks.length === 0) && (
@@ -108,14 +109,45 @@ export default function FF2() {
 }
 
 const StoryBlockInfiniteScroll = forwardRef(function StoryBlockInfiniteScroll(
-    { blocks }: { blocks: EpisodeType['blocks'] },
+    { blocks, commentaries }: { blocks: EpisodeType['blocks']; commentaries: EpisodeType['commentaries'] },
     ref: React.ForwardedRef<VListHandle>
 ) {
     return (
         <VList ref={ref} style={{ height: 700 }}>
             {blocks.map((block, index) => (
-                <div key={`${block.player}-${index}-${block.date}-container`} style={{ margin: '0 0 12px 0' }}>
+                <div
+                    key={`${block.player}-${index}-${block.date}-container`}
+                    style={{ margin: '0 0 12px 0', display: 'flex', justifyContent: 'space-between' }}
+                >
                     <StoryBlock key={`${block.player}-${index}-${block.date}-block`} block={block} id={index} />
+                    {commentaries
+                        .filter((commentary) => commentary.message_id === index)
+                        .map((commentary, commentIndex) => (
+                            <Tooltip
+                                title={
+                                    <>
+                                        {/* The ID here will, eventually, reference an actual username */}
+                                        <Typography style={{ fontWeight: 'bold' }}>
+                                            {commentary.user_id} says:
+                                        </Typography>
+                                        <Typography>{commentary.content}</Typography>
+                                    </>
+                                }
+                                placement='right'
+                            >
+                                <div
+                                    style={{
+                                        display: 'flex',
+                                        height: 'auto',
+                                        marginRight: '1em',
+                                        justifyContent: 'center',
+                                        alignItems: 'center',
+                                    }}
+                                >
+                                    <CommentIcon />
+                                </div>
+                            </Tooltip>
+                        ))}
                 </div>
             ))}
         </VList>
