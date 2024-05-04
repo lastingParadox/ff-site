@@ -122,34 +122,37 @@ const StoryBlockInfiniteScroll = forwardRef(function StoryBlockInfiniteScroll(
                     style={{ margin: '0 0 12px 0', display: 'flex', justifyContent: 'space-between' }}
                 >
                     <StoryBlock key={`${block.player}-${index}-${block.date}-block`} block={block} id={index} />
-                    {commentaries
-                        .filter((commentary) => commentary.message_id === index)
-                        .map((commentary, commentIndex) => (
-                            <Tooltip
-                                title={
-                                    <>
-                                        {/* The ID here will, eventually, reference an actual username */}
-                                        <Typography style={{ fontWeight: 'bold' }}>
-                                            {commentary.user_id} says:
-                                        </Typography>
-                                        <Typography>{commentary.content}</Typography>
-                                    </>
-                                }
-                                placement='right'
-                            >
-                                <div
-                                    style={{
-                                        display: 'flex',
-                                        height: 'auto',
-                                        marginRight: '1em',
-                                        justifyContent: 'center',
-                                        alignItems: 'center',
-                                    }}
-                                >
-                                    <CommentIcon />
-                                </div>
-                            </Tooltip>
-                        ))}
+                    <div style={{ minWidth: '40px', display: 'flex', alignItems: 'center' }}>
+                        {commentaries &&
+                            commentaries
+                                .filter((commentary) => commentary.message_id === index)
+                                .map((commentary, commentIndex) => (
+                                    <Tooltip
+                                        title={
+                                            <>
+                                                {/* The ID here will, eventually, reference an actual username */}
+                                                <Typography style={{ fontWeight: 'bold' }}>
+                                                    {commentary.user_id} says:
+                                                </Typography>
+                                                <Typography>{commentary.content}</Typography>
+                                            </>
+                                        }
+                                        placement='right'
+                                    >
+                                        <div
+                                            style={{
+                                                display: 'flex',
+                                                height: 'auto',
+                                                marginRight: '1em',
+                                                justifyContent: 'center',
+                                                alignItems: 'center',
+                                            }}
+                                        >
+                                            <CommentIcon />
+                                        </div>
+                                    </Tooltip>
+                                ))}
+                    </div>
                 </div>
             ))}
         </VList>

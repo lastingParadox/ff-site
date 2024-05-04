@@ -127,7 +127,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     );
 
     return (
-        <div id={`${id}`} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center' }}>
+        <div id={`${id}`} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', flexGrow: 1 }}>
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12, width: '100%' }}>
                 <Avatar
                     {...getCharacterAvatar(chosenCharacter)}
@@ -140,7 +140,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                         backgroundColor: characterColor + 40,
                     }}
                 />
-                <Card sx={{ flexGrow: 1, padding: 2 }}>
+                <Card sx={{ flexGrow: 1, padding: 2, overflowWrap: 'anywhere' }}>
                     <div
                         style={{
                             display: 'flex',

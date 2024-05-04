@@ -40,7 +40,7 @@ def get_player_from_username(username):
             return "FF 8 Ball"
         case "ProfessorTree":
             return "Silas"
-        case "Santa is Dead":
+        case "Santa is Dead" | "PlasmaPerson":
             return "Jonas"
         case "Master JRM":
             return "Josh"

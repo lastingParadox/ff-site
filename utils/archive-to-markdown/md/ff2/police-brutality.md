@@ -134,7 +134,7 @@ _Seth storms into Serpile's sleeping quarters and eyeballs the jar full of hot d
 
 **Brakia** _(25-Jun-18 02:09 PM)_
 
-> `Please take it back`
+> Please take it back.
 
 **Zander** _(25-Jun-18 02:09 PM)_
 
@@ -1370,18 +1370,18 @@ _Asier takes out his sword._
 
 **TheBlade** _(25-Jun-18 03:35 PM)_
 
-> `try buckshot`
+> Try buckshot.
+
+_Jim flicks a lever on his shotgun, causing the barrel to spin menacingly._
 
 **RPRetribution** _(25-Jun-18 03:35 PM)_
 
 > I'm a ghost. Bullets don't really... work.
-> But i mean, do what you want.
+> But I mean, do what you want.
 
 **Zander** _(25-Jun-18 03:35 PM)_
 
-@Magic8Ball
-
-> Does Bail start sniping his co-workers from literally an inch away?
+@Magic8Ball Does Bail start sniping his co-workers from literally an inch away?
 
 **Magic8Ball** _(25-Jun-18 03:35 PM)_
 
@@ -1389,17 +1389,21 @@ _Asier takes out his sword._
 
 **TheBlade** _(25-Jun-18 03:36 PM)_
 
-> `Then how are you supposed to hit me?` > `oh jesus christ!`
+> Then how are you supposed to hit me?
+
+_Jim hears Bail's "sniping" and freaks out a bit, however he maintains his aim thanks to his implants._
+
+> Oh Jesus Christ!`
 
 **Bagelwrecker** _(25-Jun-18 03:36 PM)_
 
-> I poop on poop
+> I poop on poop!
+
+_Seth heads to the cells and bangs his penis on every cell._
 
 **PlasmaPerson** _(25-Jun-18 03:37 PM)_
 
-@Magic8Ball
-
-> enter combat with the robot?
+@Magic8Ball Does Asier enter combat with the robot?
 
 **Magic8Ball** _(25-Jun-18 03:37 PM)_
 
@@ -1407,76 +1411,79 @@ _Asier takes out his sword._
 
 **Bagelwrecker** _(25-Jun-18 03:37 PM)_
 
-> AND I SHALL POOP ON YOU
+_Seth stops at a cell with a man cowering in the corner._
+
+> AND I SHALL POOP ON YOU!
 
 **RPRetribution** _(25-Jun-18 03:37 PM)_
 
-> What the hell are you doing?
+> What the hell are you doing, elf guy?
 
 **Bagelwrecker** _(25-Jun-18 03:37 PM)_
 
-> CAUSE YOU POOP
+_Seth wiggles his hips._
+
+> CAUSE YOU POOP!
 
 **Zander** _(25-Jun-18 03:37 PM)_
+
+_Emmett is sitting in the ship's kitchen, having grabbed a cup of GUice and some chips._
 
 > I'm assuming you guys got it covered? Don't need an escape route?
 
 **Bagelwrecker** _(25-Jun-18 03:37 PM)_
 
-> we do
+> We do.
 
 **PlasmaPerson** _(25-Jun-18 03:37 PM)_
 
-> _swords away_ fine. We'll show a little mercy. In exchange for your cash.
+_Asier sighs and puts his swords away._
+
+> Fine. We'll show a little mercy, in exchange for your cash.
 
 **RPRetribution** _(25-Jun-18 03:37 PM)_
+
+_Garrick overheard Asier's comms watch and spoke aloud, assuming he was being spoken to directly._
 
 > We do.
 
 **Bagelwrecker** _(25-Jun-18 03:37 PM)_
 
-> We need an escape route
+> We need an escape route!
 
 **Zander** _(25-Jun-18 03:38 PM)_
 
-> t!choose Miss | 1 | 2 | 3 | 4 | 5 | hit a crew member
+t!choose Bail misses | Bail shoots an Officer | Bail shoots 2 Officers | Bail shoots 3 Officers | Bail shoots 4 Officers | Bail shoots 5 Officers | Bail hits a crew member
 
 **Tatsumaki** _(25-Jun-18 03:38 PM)_
 
-🤔 |
-
-> Zander
-> , I pick
-> 4
-> !
+🤔 | Zander, I pick Bail shoots 4 Officers!
 
 **TheBlade** _(25-Jun-18 03:38 PM)_
 
-> `Ok, ok, im putting the gun down, just don't shoot anyone else, and it will all be fine...`
+_Alarmed by Bail's continuous murder in the other room, Jim surrenders and flicks the lever on his shotgun, putting it down._
+
+> Okay, okay, I'm putting the gun down, just don't shoot anyone else, and it will all be fine...
 
 **Bagelwrecker** _(25-Jun-18 03:38 PM)_
 
-> Spectral cuff him
-> @Magic8Ball
-> Do I grab a harem of women and run away to the ship?
+_Seth leaves the poor prisoner alone and joins the others with a pair of handcuffs grabbed from the cell room._
+
+> Spectral cuff him!
+
+@Magic8Ball Does Seth grab a harem of women and run away to the ship?
 
 **Magic8Ball** _(25-Jun-18 03:38 PM)_
 
-🎱 | Next person decides for you, Bagelwrecker.
-
-**TheBlade** _(25-Jun-18 03:39 PM)_
-
-> `no`
+🎱 | TheBlade says no, Bagelwrecker.
 
 **Bagelwrecker** _(25-Jun-18 03:39 PM)_
 
-> I wonder the bounty we'll get on this guy
+> I wonder the bounty we'll get on this guy...
 
 **TheBlade** _(25-Jun-18 03:39 PM)_
 
-@Magic8Ball
-
-> Does Seth cuff jim?
+@Magic8Ball Does Seth cuff jim?
 
 **Magic8Ball** _(25-Jun-18 03:39 PM)_
 
@@ -1484,7 +1491,9 @@ _Asier takes out his sword._
 
 **Bagelwrecker** _(25-Jun-18 03:39 PM)_
 
-> Very cool kanye
+_Seth restrains Jim and nods._
+
+> Very cool, Kanye.
 
 **RPRetribution** _(25-Jun-18 03:39 PM)_
 
@@ -1492,25 +1501,31 @@ _Asier takes out his sword._
 
 **TheBlade** _(25-Jun-18 03:40 PM)_
 
-> `yea, try to sell a bounty off of a cop` > `See how far that will get ya`
+> Yeah, try to sell a bounty off of a cop!
+
+_Jim scoffs._
+
+> See how far that will get ya'.
 
 **RPRetribution** _(25-Jun-18 03:40 PM)_
+
+_Garrick shrugs._
 
 > I'm willing to try.
 
 **Bagelwrecker** _(25-Jun-18 03:40 PM)_
 
-> You might be cop on earth, but ya sure as hell aint a cop with the empire
+> You might be a cop on Earth, but ya' sure as hell ain't a cop with the Union!
 
 **TheBlade** _(25-Jun-18 03:41 PM)_
 
-> `You really don't know what you are getting into do you?`
+> You really don't know what you are getting into do you?
+
+_Jim laughs._
 
 **RPRetribution** _(25-Jun-18 03:41 PM)_
 
-@Magic8Ball
-
-> does garrick go and find the other co-worker
+@Magic8Ball Does Garrick go and find the last officer?
 
 **Magic8Ball** _(25-Jun-18 03:41 PM)_
 
@@ -1518,23 +1533,29 @@ _Asier takes out his sword._
 
 **Bagelwrecker** _(25-Jun-18 03:41 PM)_
 
-> I don't know and I don't care
+> I don't know and I don't care.
+
+_Seth knees Jim in the back, prompting him to get up._
 
 **RPRetribution** _(25-Jun-18 03:41 PM)_
 
-> interesting
+_Garrick, upon finding the last officer, finds them cowering in the corner. He pretends to not notice them, taking interest in a desk fan._
+
+> Interesting...
+
+_Garrick pockets the desk fan._
 
 **Bagelwrecker** _(25-Jun-18 03:41 PM)_
 
-> I'll airlock you later
+> I'll airlock you later.
 
 **TheBlade** _(25-Jun-18 03:41 PM)_
 
-> `You think you can just burst into a Police station and plan to get away with it?`
+> You think you can just burst into a police station and plan to get away with it?
 
 **Bagelwrecker** _(25-Jun-18 03:41 PM)_
 
-> Yes
+> Yes.
 
 **RPRetribution** _(25-Jun-18 03:41 PM)_
 
@@ -1542,13 +1563,11 @@ _Asier takes out his sword._
 
 **PlasmaPerson** _(25-Jun-18 03:41 PM)_
 
-> just did
+> Just did.
 
 **Zander** _(25-Jun-18 03:41 PM)_
 
-@Magic8Ball
-
-> Does Emmett look in the ship's fridge and grab some strawberries he ended up buying?
+@Magic8Ball Does Emmett look in the ship's fridge and grab some strawberries he ended up buying?
 
 **Magic8Ball** _(25-Jun-18 03:41 PM)_
 
@@ -1560,17 +1579,15 @@ _Asier takes out his sword._
 
 **TheBlade** _(25-Jun-18 03:42 PM)_
 
-> `Oh...right`
+> Oh... right.
 
 **Bagelwrecker** _(25-Jun-18 03:42 PM)_
 
-> Yeah
+> Yeah.
 
 **Zander** _(25-Jun-18 03:42 PM)_
 
-@Magic8Ball
-
-> Is the co-worker giving up?
+@Magic8Ball Is the co-worker giving up?
 
 **Magic8Ball** _(25-Jun-18 03:42 PM)_
 
@@ -1578,13 +1595,13 @@ _Asier takes out his sword._
 
 **RPRetribution** _(25-Jun-18 03:42 PM)_
 
+_Garrick rotates slowly, sliding his view towards the police officer. He speaks monotone, almost like a robot._
+
 > Aha! Found you.
 
 **PlasmaPerson** _(25-Jun-18 03:42 PM)_
 
-@Magic8Ball
-
-> does the robot want to check out our ship
+@Magic8Ball Does the cyborg want to check out the crew's ship?
 
 **Magic8Ball** _(25-Jun-18 03:42 PM)_
 
@@ -1592,32 +1609,38 @@ _Asier takes out his sword._
 
 **TheBlade** _(25-Jun-18 03:43 PM)_
 
-> `So, what's your plan?` > `Sell me to some hot-shot off planet?`
+> So, what's your plan?
+> Sell me to some hot-shot off-planet?
 
 **RPRetribution** _(25-Jun-18 03:43 PM)_
+
+_Garrick overhears the others and speaks loudly so they could hear him._
 
 > Yes.
 > Why else would we do this?
 
 **PlasmaPerson** _(25-Jun-18 03:44 PM)_
 
-> I mean
-> He could be useful to us
+_Asier grabs Jim's arm._
+
+> I mean.
+> He could be useful to us!
 
 **Zander** _(25-Jun-18 03:44 PM)_
+
+_Emmett takes out some ingredients to make a cake._
 
 > Strawberry shortcake.
 
 **RPRetribution** _(25-Jun-18 03:44 PM)_
 
+_Garrick sighs._
+
 > Oh, c'mon. He'd never help us after this. I say we sell 'em.
-> i'll be right back
 
 **TheBlade** _(25-Jun-18 03:45 PM)_
 
-@Magic8Ball
-
-> does the co-worker have a gun?
+@Magic8Ball Does the co-worker have a gun?
 
 **Magic8Ball** _(25-Jun-18 03:45 PM)_
 
@@ -1625,13 +1648,11 @@ _Asier takes out his sword._
 
 **PlasmaPerson** _(25-Jun-18 03:45 PM)_
 
-> what if we force him to work for us
+> What if we force him to work for us?
 
 **Zander** _(25-Jun-18 03:45 PM)_
 
-@Magic8Ball
-
-> Does the co-worker start twerking, causing an AK-47 implant in her rear to activate?
+@Magic8Ball Does the co-worker start twerking, causing an AK-47 implant in her rear to activate?
 
 **Magic8Ball** _(25-Jun-18 03:45 PM)_
 
@@ -1639,13 +1660,13 @@ _Asier takes out his sword._
 
 **TheBlade** _(25-Jun-18 03:46 PM)_
 
-> `Janis, WHAT THE FUCK?!`
+_Jim, having been brought to the same room with the co-worker by the others, ducks immediately._
+
+> Janis, WHAT THE FUCK?!
 
 **Zander** _(25-Jun-18 03:46 PM)_
 
-@Magic8Ball
-
-> Does Bail jump out of the way?
+@Magic8Ball Does Bail jump out of the way?
 
 **Magic8Ball** _(25-Jun-18 03:46 PM)_
 
@@ -1653,13 +1674,13 @@ _Asier takes out his sword._
 
 **RPRetribution** _(25-Jun-18 03:46 PM)_
 
-> ???
+_Tons of bullets phase directly through Garrick, who sat there, confused._
+
+> Huh?
 
 **PlasmaPerson** _(25-Jun-18 03:46 PM)_
 
-@Magic8Ball
-
-> doI use my shape shifting to dodge the bullets
+@Magic8Ball Does Asier use his shape shifting to dodge the bullets?
 
 **Magic8Ball** _(25-Jun-18 03:46 PM)_
 
@@ -1671,59 +1692,54 @@ _Asier takes out his sword._
 
 **PlasmaPerson** _(25-Jun-18 03:47 PM)_
 
-> shape shifting! Take that!
+_Asier shape-shifts into various shapes reminiscent of swiss cheese._
+
+> Shape-shifting! Take that!
 
 **TheBlade** _(25-Jun-18 03:48 PM)_
 
-> `back off, you dont need to kill...ah..a twerking ,ass blasting, cop or whatever that is?`
+> Back off, guys, you dont need to kill... ah... a twerking, ass blasting, cop or whatever that is?
+> Again, what the fuck, Janis?!
 
 **PlasmaPerson** _(25-Jun-18 03:48 PM)_
 
-> don't question the sanity of the situation
+> Don't question the sanity of the situation!
+
+_Asier prods Jim._
 
 **TheBlade** _(25-Jun-18 03:49 PM)_
 
-> t!choose miss | Jim | Garrick | themself | Asier | Seth | Bail
+> t!choose Janis misses | Janis hits Jim | Janis hits Garrick | Janis hits themselves | Janis hits Asier | Janis hits Seth | Janis hits Bail
 
 **Tatsumaki** _(25-Jun-18 03:49 PM)_
 
-🤔 |
-
-> TheBlade
-> , I pick
-> Bail
-> !
+🤔 | TheBlade, I pick Janis hits Bail!
 
 **TheBlade** _(25-Jun-18 03:50 PM)_
 
-> `THE ASS BLASTER IS OUT OF CONTROLL`
+> THE ASS BLASTER IS OUT OF CONTROL!
 
 **PlasmaPerson** _(25-Jun-18 03:50 PM)_
 
-> get him to a medic!
+> Get Bail to a medic!
 
 **RPRetribution** _(25-Jun-18 03:50 PM)_
 
-> t!choose take to medic | don't
+t!choose Take Bail to a medic | Don't take Bail to a medic
 
 **Tatsumaki** _(25-Jun-18 03:50 PM)_
 
-🤔 |
-
-> [RP]retribution
-> , I pick
-> take to medic
-> !
+🤔 | RPRetribution, I pick Take Bail to a medic!
 
 **RPRetribution** _(25-Jun-18 03:50 PM)_
 
-> fine
+> Fine, I will.
+
+_Garrick grabs Bail by the scruff of his vest, taking him back to the station._
 
 **Zander** _(25-Jun-18 03:50 PM)_
 
-@Magic8Ball
-
-> Does the rim of Bail's hat get shot instead, doing no damage to him?
+@Magic8Ball Does the rim of Bail's hat get shot instead, doing no damage to him?
 
 **Magic8Ball** _(25-Jun-18 03:50 PM)_
 
@@ -1731,35 +1747,19 @@ _Asier takes out his sword._
 
 **TheBlade** _(25-Jun-18 03:50 PM)_
 
-> `There is medical gear in the back of the station`
+> There is medical gear in the back of the station.
 
 **Zander** _(25-Jun-18 03:52 PM)_
 
-@Magic8Ball
-
-> Did Bail's conveniently place revolver instead get shot?
-
-**TheBlade** _(25-Jun-18 03:52 PM)_
-
-> `I'll show you if you don't kill janis`
+@Magic8Ball Did Bail's conveniently placed revolver instead get shot?
 
 **Magic8Ball** _(25-Jun-18 03:52 PM)_
 
-🎱 | t!roll a d20. 1-9 is No, 11-20 is Yes, and 10 is Maybe, Zander.
+🎱 | Rolling a d20 to determine... Rolled a 15! Yes, Zander.
 
-**Zander** _(25-Jun-18 03:52 PM)_
+**TheBlade** _(25-Jun-18 03:52 PM)_
 
-> t!roll d20
-
-**Tatsumaki** _(25-Jun-18 03:52 PM)_
-
-> [
->
-> > d20
-> > : 15]
-
-In the end, the result was:
-15
+> I'll show you if you don't kill Janis!
 
 **Bagelwrecker** _(25-Jun-18 03:53 PM)_
 
@@ -1767,11 +1767,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(25-Jun-18 03:53 PM)_
 
-@Magic8Ball
-
-> does the co worker stop doing
-> Uh
-> That
+@Magic8Ball Does the co-worker stop... doing that with her rear?
 
 **Magic8Ball** _(25-Jun-18 03:53 PM)_
 
@@ -1779,25 +1775,29 @@ In the end, the result was:
 
 **TheBlade** _(25-Jun-18 03:53 PM)_
 
-> `Down the hall to the right`
+> Down the hall to the right.
 
 **Zander** _(25-Jun-18 03:53 PM)_
+
+_Emmett hums to himself happily, grabbing a cocktail umbrella._
 
 > Put a little umbrella on top of the little cake.
 
 **Bagelwrecker** _(25-Jun-18 03:53 PM)_
 
-> Thank you
+_Seth pats Jim on the back when Janis was somehow reloading._
+
+> Thank you.
 
 **Zander** _(25-Jun-18 03:54 PM)_
 
 > Strawberry Shortcake umbrella.
 
+_Emmett claps._
+
 **Bagelwrecker** _(25-Jun-18 03:54 PM)_
 
-@Magic8Ball
-
-> Do I go to the surveillance room and start destroying everything?
+@Magic8Ball Does Seth go to the surveillance room and start destroying everything?
 
 **Magic8Ball** _(25-Jun-18 03:54 PM)_
 
@@ -1805,9 +1805,7 @@ In the end, the result was:
 
 **TheBlade** _(25-Jun-18 03:56 PM)_
 
-@Magic8Ball
-
-> Does Jim have a phone and start texting for backup?
+@Magic8Ball Does Jim have a phone and start texting for backup?
 
 **Magic8Ball** _(25-Jun-18 03:56 PM)_
 
@@ -1815,70 +1813,41 @@ In the end, the result was:
 
 **Zander** _(25-Jun-18 03:57 PM)_
 
-@Magic8Ball
-
-> Does Emmett start baking more strawberry-related meals for the rest of them?
+@Magic8Ball Does Emmett start baking more strawberry-related meals for the rest of them?
 
 **Magic8Ball** _(25-Jun-18 03:57 PM)_
 
-🎱 | t!roll a d20. 1-9 is No, 11-20 is Yes, and 10 is Maybe, Zander.
-
-**Zander** _(25-Jun-18 03:57 PM)_
-
-> t!roll d20
-
-**Tatsumaki** _(25-Jun-18 03:57 PM)_
-
-> [
->
-> > d20
-> > : 19]
-
-In the end, the result was:
-19
+🎱 | Rolling a d20 to determine... Rolled a 19! Yes, Zander.
 
 **RPRetribution** _(25-Jun-18 03:57 PM)_
 
-> nice
+_Garrick follows Seth, seeing Seth start to destroy everything._
+
+> Nice.
 
 **TheBlade** _(25-Jun-18 03:57 PM)_
 
-> `just need some time...` > `Hey, so who are you?`
+_Jim, through handcuffs, manages to slide a phone from his pocket to his hand, and covertly starts texting._
 
-**Brakia** _(25-Jun-18 03:58 PM)_
+_Jim mutters to himself._
 
-@Magic8Ball
+> Just need some time...
 
-> Do i assume command of Bail yet?
+_He decides to distract Seth, looking over to him._
 
-**Magic8Ball** _(25-Jun-18 03:58 PM)_
-
-🎱 | Yeah, Brakia.
+> Hey, so who are you?
 
 **PlasmaPerson** _(25-Jun-18 03:59 PM)_
 
-@Magic8Ball
-
-> does this nonsense stop and everyone goes back to the ship
+@Magic8Ball Does this nonsense stop and the crew decides to go back to the ship?
 
 **Magic8Ball** _(25-Jun-18 03:59 PM)_
 
-🎱 | Next person decides for you, PlasmaPerson.
+🎱 | TheBlade says yes, PlasmaPerson.
 
 **TheBlade** _(25-Jun-18 04:01 PM)_
 
-> yes
-
-**Tatsumaki** _(25-Jun-18 04:01 PM)_
-
-> 🆙 |
-> TheBlade leveled up!
-
-**TheBlade** _(25-Jun-18 04:01 PM)_
-
-@Magic8Ball
-
-> Do any police respond to the text?
+@Magic8Ball Do any police manage to respond to the text?
 
 **Magic8Ball** _(25-Jun-18 04:01 PM)_
 
@@ -1886,89 +1855,68 @@ In the end, the result was:
 
 **PlasmaPerson** _(25-Jun-18 04:01 PM)_
 
-> all right, im out
+> All right, I'm out.
 
-**Zander** _(25-Jun-18 04:02 PM)_
-
-> Strawberry Shortcake (with umbrella on top)
-> Rhubarb Pie
-> Chocolate Covered Strawberries
-> Stawberry Bread
-> Strawberry Muffins
-> Strawberry Angel Food Dessert
-> Starberry Ice Cream
-> Strawberry Trifle
-> Strawberry Smoothie
+_Asier winks and starts to phase outside the station._
 
 **TheBlade** _(25-Jun-18 04:02 PM)_
 
-> `You aren't just going to leave me here are you?`
+> You aren't just going to leave me here are you?
 
 **PlasmaPerson** _(25-Jun-18 04:02 PM)_
 
-> unless you want to come with us
+> Unless you want to come with us...
 
 **RPRetribution** _(25-Jun-18 04:02 PM)_
 
-@Magic8Ball
-
-> does garrick go to the ship
+@Magic8Ball Does Garrick go to the ship?
 
 **Magic8Ball** _(25-Jun-18 04:02 PM)_
 
-🎱 | t!roll a d20. 1-9 is No, 11-20 is Yes, and 10 is Maybe, RPRetribution.
-
-**RPRetribution** _(25-Jun-18 04:02 PM)_
-
-> t!roll d20
-
-**Tatsumaki** _(25-Jun-18 04:02 PM)_
-
-> [
->
-> > d20
-> > : 1]
-
-In the end, the result was:
-1
+🎱 | Rolling a d20 to determine... Rolled a 1! No, RPRetribution.
 
 **TheBlade** _(25-Jun-18 04:02 PM)_
 
-> `Well, i kind of just called for backup`
+> Well, I kind of just texted for backup...
 
 **RPRetribution** _(25-Jun-18 04:02 PM)_
 
-> alright fine
+> Alright, fine.
+
+_Garrick folds his hands and sits down, pouting._
 
 **TheBlade** _(25-Jun-18 04:03 PM)_
 
-> `and i did shoot a guy..`
+> And I did shoot a guy...
 
 **Zander** _(25-Jun-18 04:03 PM)_
 
-> Asier, tell him to join or be sold on the black space web.
+_Emmett, getting impatient from what he was hearing, blurts out into his comms._
+
+> Asier, tell him to join or be sold on the dark web.
 
 **RPRetribution** _(25-Jun-18 04:03 PM)_
 
 > I don't want anything to do with that ship.
 
+_Garrick sticks his tongue out, still facing Janis, who fell unconscious from the recoil from the gun implant._
+
 **TheBlade** _(25-Jun-18 04:03 PM)_
 
-> `You know what? fuck it, im tired of this stupid life.` > `take me with you`
+> You know what? fuck it, im tired of this stupid life.
+> Take me with you.
 
 **RPRetribution** _(25-Jun-18 04:03 PM)_
 
-> It probably smells like strawberry pastries.
+> It probably smells like strawberry pastries, based on what I'm hearing.
 
 **PlasmaPerson** _(25-Jun-18 04:04 PM)_
 
-> we'll leave you if you dont come with us
+> We'll leave you if you dont come with us, Garrick.
 
 **Zander** _(25-Jun-18 04:04 PM)_
 
-@Magic8Ball
-
-> Does Garrick feel a hunger for strawberry-related pastries?
+@Magic8Ball Does Garrick feel a hunger for strawberry-related pastries?
 
 **Magic8Ball** _(25-Jun-18 04:04 PM)_
 
@@ -1976,144 +1924,121 @@ In the end, the result was:
 
 **RPRetribution** _(25-Jun-18 04:04 PM)_
 
+_Garrick groans._
+
 > Ugh, fine. I don't have anywhere else to go anyways.
 
 **TheBlade** _(25-Jun-18 04:04 PM)_
 
-> `I can't stay here, im the only one here and there is no evidence of you.`
+> I can't stay here, I'm the only one here, well, aside from Janis, and there is no evidence of you.
 
 **PlasmaPerson** _(25-Jun-18 04:04 PM)_
 
-> then off we go!
+> Then off we go!
+
+_Asier takes out a sword, stabs Janis to make sure she was out permanently, and escorts Jim back to the ship._
 
 **Brakia** _(25-Jun-18 04:04 PM)_
 
-> `Well, welcome aboard. What's your name?`
+_Bail tips his hat to Jim as he enters, his hand bandaged from the burn he got from the shot to his gun._
+
+> Well, welcome aboard. What's your name?
 
 **TheBlade** _(25-Jun-18 04:05 PM)_
 
-> `Jim, Jim Johnson. And yours?`
+> Jim, Jim Johnson. And yours?
 
 **PlasmaPerson** _(25-Jun-18 04:05 PM)_
 
-> asier
+_Asier butts in hyperactively._
+
+> Asier!
 
 **Brakia** _(25-Jun-18 04:05 PM)_
 
-> `I'm Bail, the engineer.`
-
-> `Asier's the janitor`
+> I'm Bail, the engineer.
+> Asier's the janitor.
 
 **Zander** _(25-Jun-18 04:06 PM)_
+
+_Emmett was giddy over his strawberty goods._
 
 > I made strawberries.
 
 **PlasmaPerson** _(25-Jun-18 04:06 PM)_
 
-> no I'm not
+> No I'm not!
 
 **Zander** _(25-Jun-18 04:06 PM)_
 
-> I MADE STRAWBERRIES.
+> I MADE STRAWBERRIES!
 
 **PlasmaPerson** _(25-Jun-18 04:06 PM)_
 
-> I refuse to be the janitor
+> I refuse to be the janitor!
 
 **RPRetribution** _(25-Jun-18 04:06 PM)_
 
-> What ARE you?
+_Garrick enters the ship and pokes Asier._
+
+> What ARE you, anyhow?
 
 **PlasmaPerson** _(25-Jun-18 04:07 PM)_
 
-> I'm a shade walker
+> I'm a shade walker.
 
 **TheBlade** _(25-Jun-18 04:07 PM)_
 
-> `Well, since we are properly introduced, can someone get me out of these cuffs?`
+> Well, since we are properly introduced, can someone get me out of these cuffs?
 
 **Zander** _(25-Jun-18 04:07 PM)_
 
-> You need to take a strawberry meal in order to be apart of the group.
-> Strawberry Shortcake (with umbrella on top)
-> Rhubarb Pie
-> Chocolate Covered Strawberries
-> Stawberry Bread
-> Strawberry Muffins
-> Strawberry Angel Food Dessert
-> Starberry Ice Cream
-> Strawberry Trifle
-> Strawberry Smoothie
+> You need to take a strawberry meal in order to be apart of the crew, guys.
+> Here's what I got.
+
+_Emmett smiles and lists out his confectionary goods he's baked._
+
+> Strawberry shortcake with an umbrella on top.
+> Rhubarb pie.
+> Chocolate-covered strawberries.
+> Stawberry bread.
+> Strawberry muffins.
+> Strawberry angel food dessert.
+> Strawberry ice cream.
+> Strawberry trifle.
+> And a strawberry smoothie.
+> Take your pick!
+> I'm taking my strawberry shortcake.
 
 **RPRetribution** _(25-Jun-18 04:08 PM)_
 
-> t!choose Strawberry Shortcake (with umbrella on top) | Rhubarb Pie | Chocolate Covered Strawberries | Stawberry Bread | Strawberry Muffins | Strawberry Angel Food Dessert | Starberry Ice Cream | Strawberry Trifle | Strawberry Smoothie
-
-**Tatsumaki** _(25-Jun-18 04:08 PM)_
-
-🤔 |
-
-> [RP]retribution
-> , I pick
-> Strawberry Muffins
-> !
+_Garrick grabs the strawberry muffins, disgusted from the smell, but pleasantly surprised from the taste._
 
 **TheBlade** _(25-Jun-18 04:08 PM)_
 
-> t!choose Strawberry Shortcake (with umbrella on top) | Rhubarb Pie | Chocolate Covered Strawberries | Stawberry Bread | Strawberry Muffins | Strawberry Angel Food Dessert | Starberry Ice Cream | Strawberry Trifle | Strawberry Smoothie
-
-**Tatsumaki** _(25-Jun-18 04:08 PM)_
-
-🤔 |
-
-> TheBlade
-> , I pick
-> Strawberry Angel Food Dessert
-> !
-
-**Zander** _(25-Jun-18 04:09 PM)_
-
-> I'm taking my Strawberry Shortcake.
+_Jim grabs the strawberry angel food dessert, though he is still handcuffed._
 
 **Brakia** _(25-Jun-18 04:09 PM)_
 
-> t!choose Strawberry Shortcake (with umbrella on top) | Rhubarb Pie | Chocolate Covered Strawberries | Stawberry Bread | Starberry Ice Cream | Strawberry Trifle | Strawberry Smoothie
-
-**Tatsumaki** _(25-Jun-18 04:09 PM)_
-
-🤔 |
-
-> Brakia64
-> , I pick
-> Starberry Ice Cream
-> !
+_Bail grabs the strawberry ice cream and rubs a bit on his mantle. The ice cream seems to evaporate, but, Bail still managed to taste it._
 
 **TheBlade** _(25-Jun-18 04:09 PM)_
 
-> `How do you expect me to eat this with handcuffs on?`
+> How do you expect me to eat this with handcuffs on?
+
+_Jim holds his handcuffs out._
 
 **PlasmaPerson** _(25-Jun-18 04:09 PM)_
 
-> t!choose Strawberry Shortcake (with umbrella on top) | Rhubarb Pie | Chocolate Covered Strawberries | Stawberry Bread | Strawberry Muffins | Strawberry Angel Food Dessert | Starberry Ice Cream | Strawberry Trifle | Strawberry Smoothie
-
-**Tatsumaki** _(25-Jun-18 04:09 PM)_
-
-🤔 |
-
-> PlasmaPerson
-> , I pick
-> Chocolate Covered Strawberries
-> !
+_Asier grabs and eats some of the chocolate-covered stawberries, making him even more hyperactive._
 
 **Zander** _(25-Jun-18 04:09 PM)_
 
-> I'll uncuff you.
+> I'll uncuff you, don't worry.
 
 **Brakia** _(25-Jun-18 04:10 PM)_
 
-@Magic8Ball
-
-> Do we uncuff Jim yet?
+@Magic8Ball Does the crew uncuff Jim yet?
 
 **Magic8Ball** _(25-Jun-18 04:10 PM)_
 
@@ -2121,9 +2046,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(25-Jun-18 04:11 PM)_
 
-@Magic8Ball
-
-> do I uncuff Jim
+@Magic8Ball Does Asier uncuff Jim?
 
 **Magic8Ball** _(25-Jun-18 04:11 PM)_
 
@@ -2131,9 +2054,9 @@ In the end, the result was:
 
 **TheBlade** _(25-Jun-18 04:12 PM)_
 
-> `Well since none of you will uncuff me`
-> @Magic8Ball
-> Do i break the cuffs?
+> Well since none of you will uncuff me...
+
+@Magic8Ball Does Jim break the cuffs?
 
 **Magic8Ball** _(25-Jun-18 04:12 PM)_
 
@@ -2141,11 +2064,15 @@ In the end, the result was:
 
 **RPRetribution** _(25-Jun-18 04:12 PM)_
 
-> I would, but it's not my turn. Whatever that means.
+> I would, but it's not my turn.
+
+_Garrick blinks at you, the reader._
+
+> Whatever that means.
 
 **PlasmaPerson** _(25-Jun-18 04:12 PM)_
 
-> oh
+> Oh, you could've done that the whole time?
 
 **Zander** _(25-Jun-18 04:12 PM)_
 
@@ -2154,154 +2081,119 @@ In the end, the result was:
 
 **TheBlade** _(25-Jun-18 04:12 PM)_
 
-> `I mean, no one was making a move, so i just broke them...`
+> I mean, no one was making a move, so i just broke them...
 
 **Zander** _(25-Jun-18 04:13 PM)_
 
 > Co-captain and more or less the pilot of this crew.
-> I wasn't an asshole who decided to shoot you guys up.
+> I wasn't one of the assholes who decided to shoot you guys up.
 > Pleasure to meet you.
+
+_Emmett holds out a hoof to Jim._
 
 **TheBlade** _(25-Jun-18 04:15 PM)_
 
-> `My Pleasure as well`
-> Shakes hands with Emmett
-> `So where are we heading?`
+> My pleasure as well.
+
+_Jim shakes Emmett's hoof._
+
+> So where are we heading, anyhow?
 
 **RPRetribution** _(25-Jun-18 04:17 PM)_
 
-> t!choose guns | money | a mug | ptsd
+t!choose Garrick gets guns | Garrick gets money | Garrick gets a mug | Garrick gets PTSD
 
 **Tatsumaki** _(25-Jun-18 04:17 PM)_
 
-🤔 |
-
-> [RP]retribution
-> , I pick
-> ptsd
-> !
+🤔 | RPRetribution, I pick Garrick gets PTSD!
 
 **TheBlade** _(25-Jun-18 04:17 PM)_
 
-> `Has anyone seen my shotgun?`
+_With the angel food dessert in his mouth, Jim looks around for his shotgun._
+
+> Has anyone seen my shotgun?
 
 **Zander** _(25-Jun-18 04:18 PM)_
 
-@Magic8Ball
-
-> Does Emmett close the ship hatch and start it up?
+@Magic8Ball Does Emmett close the ship hatch and start it up?
 
 **Magic8Ball** _(25-Jun-18 04:18 PM)_
 
-🎱 | t!roll a d20. 1-9 is No, 11-20 is Yes, and 10 is Maybe, Zander.
-
-**Zander** _(25-Jun-18 04:18 PM)_
-
-> t!roll d20
-
-**Tatsumaki** _(25-Jun-18 04:18 PM)_
-
-> [
->
-> > d20
-> > : 20]
-
-In the end, the result was:
-20
+🎱 | Rolling a d20 to determine... Rolled a 20! Yes, Zander.
 
 **Brakia** _(25-Jun-18 04:21 PM)_
 
-> t!choose guns | money | a mug | ptsd
+t!choose Bail gets guns | Bail gets money | Bail gets a mug | Bail gets PTSD
 
 **Tatsumaki** _(25-Jun-18 04:21 PM)_
 
-🤔 |
-
-> Brakia64
-> , I pick
-> a mug
-> !
+🤔 | Brakia64, I pick a mug!
 
 **Brakia** _(25-Jun-18 04:21 PM)_
 
-> `Sweet, a mug.`
+> Sweet, a mug.
 
 **TheBlade** _(25-Jun-18 04:21 PM)_
 
-> `Thats my mug...`
+> Thats my mug...
+
+_Jim frowns._
 
 **Zander** _(25-Jun-18 04:21 PM)_
 
-> "Helpful".
+_Emmett rolls his eyes and mutters sarcastically._
+
+> Helpful.
 
 **TheBlade** _(25-Jun-18 04:21 PM)_
 
-> `You broke into a police station..and stole a mug...`
+> You broke into a police station... and stole a mug...
+
+_Jim facepalms._
 
 **Brakia** _(25-Jun-18 04:22 PM)_
 
-> `Yep.` > `It's my new favorite mug.`
+> Yep.
+> It's my new favorite mug!
+
+_Bail poses with the mug happily._
 
 **PlasmaPerson** _(25-Jun-18 04:22 PM)_
 
-> t!choose 1 duckett | a rad fedora | medical supplies | guns for the team
+t!choose Asier gets 1 Duckett | Asier gets a rad fedora | Asier gets medical supplies | Asier gets guns for the team
 
 **Tatsumaki** _(25-Jun-18 04:22 PM)_
 
-🤔 |
-
-> PlasmaPerson
-> , I pick
-> medical supplies
-> !
+🤔 | PlasmaPerson, I pick Asier gets medical supplies!
 
 **RPRetribution** _(25-Jun-18 04:22 PM)_
 
 > Hey, just be glad you got something.
 
+_Garrick looks into a mirror dead-eyed, devastated from the events that occurred at the police station._
+
 **PlasmaPerson** _(25-Jun-18 04:23 PM)_
 
-> yeah, now we can heal
-> maybe I can heal your ptsd
+> Yeah, now we can heal things.
+> Maybe I can heal your PTSD, Garrick.
 
 **RPRetribution** _(25-Jun-18 04:23 PM)_
 
-> please
+_Garrick speaks softly, distraught._
 
-**Zander** _(25-Jun-18 04:23 PM)_
-
-@Magic8Ball
-
-> Does Emmett launch the ship towards the continent of North America?
-
-**Magic8Ball** _(25-Jun-18 04:23 PM)_
-
-🎱 | Wait to ask this again, Zander.
-
-**Zander** _(25-Jun-18 04:24 PM)_
-
-@Magic8Ball
-
-> Does Emmett launch the ship towards the continent of North America?
+> Please...
 
 **TheBlade** _(25-Jun-18 04:24 PM)_
 
-> t!choose 0D | 10 D | 20 D | 50 D | 100D | 200D | Pocket pistol
+> t!choose Jim stole 0D | Jim stole 10 D | Jim stole 20 D | Jim stole 50 D | Jim stole 100D | Jim stole 200D | Jim stole a Pocket pistol
 
 **Tatsumaki** _(25-Jun-18 04:24 PM)_
 
-🤔 |
-
-> TheBlade
-> , I pick
-> 100D
-> !
+🤔 | TheBlade, I pick Jim stole 100D!
 
 **Zander** _(25-Jun-18 04:24 PM)_
 
-@Magic8Ball
-
-> Does Emmett launch the ship towards the continent of North America?
+@Magic8Ball Does Emmett launch the ship towards the continent of North America?
 
 **Magic8Ball** _(25-Jun-18 04:24 PM)_
 
@@ -2309,61 +2201,22 @@ In the end, the result was:
 
 **TheBlade** _(25-Jun-18 04:24 PM)_
 
-> `Guys, what about those guys i called?`
+> Guys, what about those guys I called?
 
 **Zander** _(25-Jun-18 04:24 PM)_
 
-@Magic8Ball
-
-> Are we being chased?
+@Magic8Ball Are we being chased?
 
 **Magic8Ball** _(25-Jun-18 04:24 PM)_
 
-🎱 | t!roll a d20. 1-9 is No, 11-20 is Yes, and 10 is Maybe, Zander.
-
-**Zander** _(25-Jun-18 04:25 PM)_
-
-> t!roll d20
-
-**Tatsumaki** _(25-Jun-18 04:25 PM)_
-
-> [
->
-> > d20
-> > : 11]
-
-In the end, the result was:
-11
+🎱 | Rolling a d20 to determine... Rolled a 11! Yes, Zander.
 
 **TheBlade** _(25-Jun-18 04:25 PM)_
 
-> `I dont think they have a shop yet` > `a ship i mean` > `Wonder what happened to Janis.`
+> I dont think they have a shop yet
+> A ship I mean.
+> Wonder what happened to Janis...
 
 **Zander** _(25-Jun-18 04:27 PM)_
 
 > Space Rule 27: NERS - Never Ever Raid Stupidly.
-
-**Zander** _(25-Jun-18 09:31 PM)_
-
-> Final Frontier 2 Episode 3
-> @Final Frontier
-> We last seen our crew members in a slumber from the mysterious stone women. Asier is first to wake up and wakes up the others. With the restroom being out of order, Emmett pisses in a jar of the urinated hotdog artifact. This ended up making him feel better from the gasoline he drank two episodes ago. Being a jerk, Seth then throws the jar of piss at Matthias, causing Serpile to lick the urine off of him. Serpile then dies. The rest of the group then travels for a minute distance before Emmett gets mad at Seth. The goat man pulls Asier away for a walk and tells him a story of his childhood. As it turns out, Seth had nurtured Emmett since he was a teenager due to the death of his family in a peasant revolt. Asier and Emmett then come upon a Novakid, who is seen to be patrolling the area for suspicious men. Emmett, with his charisma, gets Bail to then be against the cops and join the crew. This turns to chaos quickly. Asier plans to loot the police station, whereas literally everyone else, excepting Emmett, wants to murder the police. Even some random ghost dude, named Garrick, joins in on the fun. Immediately, Bail and Seth both murder five cops. One of the surviving cops, named Jim, proceeds to try and protect his station, but misses and shots another cop. Emmett, pissed off from the crude intentions of his crew members, proceeds to leave to the ship. The members in the station eventually handcuff Jim, which causes the last remaining cop to become enraged. She started to twerk, causing an AK-47 implant in her ass to activate, shooting at everyone. Bail was the closest to being shot, but a conveniently placed revolver took his place. Everyone goes back to the ship, including the three newcomers. Emmett, realizing he has company, gives some strawberry pastries to his new crew, mildly irritated at how much their raid failed.
-> Space Rule of the Episode:
-> Space Rule 27: NERS - Never Ever Raid Stupidly.
-
-> Pinned a message.
-
-**Bagelwrecker** _(25-Jun-18 10:23 PM)_
-
-> > an jerk
-> > blames the murder of serpile on seth
-
-**Zander** _(26-Jun-18 12:02 AM)_
-
-> Hey Sean?
-> I didn't. I
-> You didn't read it thoroughly.
-> The piss caused Serpile to lick it.
-> "Serpile then dies."
-> Seth indirectly lead to Serpile's death. Not directly.
-> I wasn't blaming it on anyone.
