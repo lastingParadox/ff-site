@@ -3,16 +3,19 @@ import { Episode as EpisodeType } from '@/types/Episodes';
 import React, { forwardRef, useEffect, useMemo, useRef, useState } from 'react';
 import { CircularProgress, MenuItem, Select, SelectChangeEvent, Typography } from '@mui/material';
 import TitleList from '@/assets/json/archives/ff2/titleList.json';
-import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import { useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { VList, VListHandle } from 'virtua';
 
-export default function FF2() {
-    const { episode: episodeParam } = useParams();
-    const navigate = useNavigate();
-    const [searchParams] = useSearchParams();
+export default function ArchivePage() {
     const [episodeLoading, setEpisodeLoading] = useState(true);
     const [episode, setEpisode] = useState<EpisodeType>();
     const ref = useRef<VListHandle>(null);
+
+    const { episode: episodeParam } = useParams();
+    const { pathname } = useLocation();
+    const season = useMemo(() => pathname.split('/')[1] as 'FF2 | FF3', [pathname]);
+    const navigate = useNavigate();
+    const [searchParams] = useSearchParams();
     const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
 
     useEffect(() => {
@@ -20,16 +23,17 @@ export default function FF2() {
             setEpisodeLoading(true);
             setEpisode(undefined);
             try {
-                const response = await import(`@/assets/json/archives/ff2/${episodeParam}.json`);
+                const response = await import(`@/assets/json/archives/${season}/${episodeParam}.json`);
                 setEpisode(response);
             } catch {
                 console.error('Error fetching episode.');
+                setEpisode(undefined);
             } finally {
                 setEpisodeLoading(false);
             }
         };
         fetchEpisode();
-    }, [episodeParam]);
+    }, [episodeParam, season]);
 
     // Unsure if this useEffect is necessary
     useEffect(() => {
@@ -42,7 +46,7 @@ export default function FF2() {
 
     const handleSelectChange = (event: SelectChangeEvent) => {
         setEpisodeLoading(true);
-        navigate(`/ff2/${event.target.value}`);
+        navigate(`/${season}/${event.target.value}`);
     };
 
     if (episodeLoading) {
@@ -72,6 +76,7 @@ export default function FF2() {
                 height: '700px',
             }}
         >
+            {episode === undefined && <Typography variant='h2'>Episode not found.</Typography>}
             {episode?.blocks && episode?.blocks.length !== 0 && (
                 <div style={{ height: '100%' }}>
                     <div style={{ marginBottom: 12 }}>
@@ -99,9 +104,6 @@ export default function FF2() {
                     </div>
                     <StoryBlockInfiniteScroll ref={ref} blocks={episode.blocks} />
                 </div>
-            )}
-            {episode && (!episode.blocks || episode.blocks.length === 0) && (
-                <Typography variant='h2'>No content found.</Typography>
             )}
         </div>
     );

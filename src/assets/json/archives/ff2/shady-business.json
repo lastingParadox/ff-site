@@ -1,0 +1,5510 @@
+{
+    "title": "Shady Business",
+    "episode_number": 3,
+    "short_desc": "The crew heads to a super market and explores an ancient temple for an artifact.",
+    "blocks": [
+        {
+            "content": ["@Magic8Ball Does Serpile wake up?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:13 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:13 PM"
+        },
+        {
+            "content": ["Serpile wakes up in the ship's bathroom.", "Ugh. Where am I?"],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:13 PM"
+        },
+        {
+            "content": ["Oh yeah, the shower."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:14 PM"
+        },
+        {
+            "content": ["@Magic8Ball Is Asier near the landing site for the ship?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:15 PM"
+        },
+        {
+            "content": ["🎱 | Brakia says yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:15 PM"
+        },
+        {
+            "content": ["So Emmett how are you feeling?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:15 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball While Seth asks this, is Emmett currently stuffing his head into the toilet bowl?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:16 PM"
+        },
+        {
+            "content": ["🎱 | N0, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:16 PM"
+        },
+        {
+            "content": ["Terrible."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:16 PM"
+        },
+        {
+            "content": ["Seth eyeballs Emmett.", "Mmm"],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:16 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth go outside looking for adventure?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:17 PM"
+        },
+        {
+            "content": ["🎱 | Astounding yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:17 PM"
+        },
+        {
+            "content": ["Well I'm going to look for adventure.", "Have fun"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:17 PM"
+        },
+        {
+            "content": ["Emmett grimaces at Seth.", "And screw you too."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:17 PM"
+        },
+        {
+            "content": ["Ask Math for help."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:17 PM"
+        },
+        {
+            "content": ["Strange ship. Space pirates?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:18 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile check outside?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:19 PM"
+        },
+        {
+            "content": ["🎱 | Astounding yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:19 PM"
+        },
+        {
+            "content": ["Wait a minute, who's that?", "Hey, you!"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:19 PM"
+        },
+        {
+            "content": ["Squoat be with me.", "Serpile, what are you yelling at?"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:19 PM"
+        },
+        {
+            "content": ["Some stalker."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:20 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier ignore the weird dragon dude (Serpile)?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:20 PM"
+        },
+        {
+            "content": ["🎱 | Nay, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:20 PM"
+        },
+        {
+            "content": ["Time to go look for some women."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:20 PM"
+        },
+        {
+            "content": ["Who are you? State your business!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:21 PM"
+        },
+        {
+            "content": ["Adventure and sex is our business."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:21 PM"
+        },
+        {
+            "content": ["Get me some medications, Seth."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:21 PM"
+        },
+        {
+            "content": ["Will do."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:21 PM"
+        },
+        {
+            "content": ["I could ask you the same thing."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:21 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett get up and trudge over to the commotion?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:21 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:21 PM"
+        },
+        {
+            "content": ["Oh, hey black guy."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:22 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth go looking for sex, medicine, and adventure?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:22 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:22 PM"
+        },
+        {
+            "content": [
+                "I work for an elite team of space police. For your sake, I hope youre not up to any _shady_ things."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:22 PM"
+        },
+        {
+            "content": ["You and your puns suck."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:23 PM"
+        },
+        {
+            "content": ["Quit throwing shade, man!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:23 PM"
+        },
+        {
+            "content": ["What have I done?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:23 PM"
+        },
+        {
+            "content": ["You all suck."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:23 PM"
+        },
+        {
+            "content": ["So, what's your business, man?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:23 PM"
+        },
+        {
+            "content": ["I'm here on patrol."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:24 PM"
+        },
+        {
+            "content": ["Patrol? For what?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:24 PM"
+        },
+        {
+            "content": ["Strangers like you."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:25 PM"
+        },
+        {
+            "content": ["Damn."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:25 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile inspect the black man?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:25 PM"
+        },
+        {
+            "content": ["🎱 | Bagelwrecker says no, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:25 PM"
+        },
+        {
+            "content": ["You going to report us or something?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:25 PM"
+        },
+        {
+            "content": ["Depends. What are you doing here?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:26 PM"
+        },
+        {
+            "content": ["Taking a rest."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:26 PM"
+        },
+        {
+            "content": ["Looking for some dumb artifact, I guess.", "We're close to being out of fuel too."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:26 PM"
+        },
+        {
+            "content": ["Not dumb!", "Important!", "It's for a mission."],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:26 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier show these losers to a fuel place?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:27 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:27 PM"
+        },
+        {
+            "content": ["We should be able to get 12k D's"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:27 PM"
+        },
+        {
+            "content": ["I may be able to help you. But for a price."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:27 PM"
+        },
+        {
+            "content": ["Is this place far off from here?", "And, what's your price?"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:27 PM"
+        },
+        {
+            "content": ["Get my whip and cowboy hat!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:28 PM"
+        },
+        {
+            "content": ["I want to know about this artifact. The place isn't too far. A little trek."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:29 PM"
+        },
+        {
+            "content": ["We have no information about the artifact except for the location of it."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:29 PM"
+        },
+        {
+            "content": ["I think he can't speak properly."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:29 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett start to puke now, all of a sudden?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:30 PM"
+        },
+        {
+            "content": ["🎱 | Yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:30 PM"
+        },
+        {
+            "content": ["You don't know what it does?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:30 PM"
+        },
+        {
+            "content": ["We take missions, we don't ask questions."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:30 PM"
+        },
+        {
+            "content": ["Oh god, Emmett.", "Let me get a bucket."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:30 PM"
+        },
+        {
+            "content": ["Ah, crap."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:30 PM"
+        },
+        {
+            "content": ["Oh my god is he alright?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:30 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth go looking for sex and medicine?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:31 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:31 PM"
+        },
+        {
+            "content": ["I'm undergoing the effects of drinking gasoline for a lady.", "So no, I'm not that alright."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:31 PM"
+        },
+        {
+            "content": ["Uh maybe don't drink gasoline next time."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:31 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile go get a bucket for Emmett?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:31 PM"
+        },
+        {
+            "content": ["🎱 | Yeah, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:31 PM"
+        },
+        {
+            "content": ["Thanks, Serp. I think I need to get back to the ship though."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:32 PM"
+        },
+        {
+            "content": ["Sex sex sex sex!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:32 PM"
+        },
+        {
+            "content": ["Alright."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:32 PM"
+        },
+        {
+            "content": ["t!choose Rocky Planet | Plain Planet"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:33 PM"
+        },
+        {
+            "content": ["🤔 | Bagelwrecker, I pick Plain Planet!"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:33 PM"
+        },
+        {
+            "content": ["Anyways, the fuel station is east of here. You'll find it eventually."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:34 PM"
+        },
+        {
+            "content": ["Yeah, you two have fun. I'm sick."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:35 PM"
+        },
+        {
+            "content": ["t!choose Follow the crew | Join the crew"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:36 PM"
+        },
+        {
+            "content": ["🤔 | PlasmaPerson, I pick join!"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:36 PM"
+        },
+        {
+            "content": ["Bleh bleh blah blah!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:36 PM"
+        },
+        {
+            "content": ["I'm intrigued by this artifact you speak of. Mind if I join?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:36 PM"
+        },
+        {
+            "content": ["@Magic8Ball Back at the ship, does Emmett get into his grass stash?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:36 PM"
+        },
+        {
+            "content": ["🎱 | PlasmaPerson says yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:36 PM"
+        },
+        {
+            "content": [
+                "Alright I have yet to find sex on this planet. Everyone keeps denying me.",
+                "What a prude planet."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:38 PM"
+        },
+        {
+            "content": ["Hey, wait!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:39 PM"
+        },
+        {
+            "content": ["What do you want?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:40 PM"
+        },
+        {
+            "content": [
+                "I have combat expertise. I may be needed in a crisis.",
+                "Sure my boss might get mad, but I've always had a knack for adventure."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:40 PM"
+        },
+        {
+            "content": ["Mmhmm. Sure."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:41 PM"
+        },
+        {
+            "content": ["Need to get this cooking to really prolong the effects."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:41 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth head off looking for a clinic?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:41 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:41 PM"
+        },
+        {
+            "content": ["You can join. However..."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:41 PM"
+        },
+        {
+            "content": ["Welp, Emmett, you seem to have things under control."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:42 PM"
+        },
+        {
+            "content": ["You're our janitor for now."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:42 PM"
+        },
+        {
+            "content": ["I'm not smoking it, as you always suggest, Seth."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:42 PM"
+        },
+        {
+            "content": ["I'll be looking for that artifact."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:42 PM"
+        },
+        {
+            "content": ["... Fine."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:42 PM"
+        },
+        {
+            "content": ["Literally just going to put it in a pot and boil it."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:43 PM"
+        },
+        {
+            "content": ["Well then. Welcome aboard."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:43 PM"
+        },
+        {
+            "content": ["Just like Squomma."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:43 PM"
+        },
+        {
+            "content": ["I literally do not care what you do with it."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:43 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier go to the ship to check it out?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:44 PM"
+        },
+        {
+            "content": ["🎱 | Yeah, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:44 PM"
+        },
+        {
+            "content": ["I'm leaving to inspect the ship for... Cleanliness errors."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:45 PM"
+        },
+        {
+            "content": ["Hey did you recruit the black ghost man?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:45 PM"
+        },
+        {
+            "content": ["I don't think so."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:45 PM"
+        },
+        {
+            "content": ["Oh.", "I was going to say if you did than to tune his comms."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:45 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett pour some water in a pot and put some grass in?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:46 PM"
+        },
+        {
+            "content": ["🎱 | Resounding no, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:46 PM"
+        },
+        {
+            "content": ["Hey guys, I'm in your crew now."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:46 PM"
+        },
+        {
+            "content": ["Actually, I think I'm frying it.", "Oh, what?"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:46 PM"
+        },
+        {
+            "content": ["Sounds good."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:46 PM"
+        },
+        {
+            "content": ["That fast?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 05:46 PM"
+        },
+        {
+            "content": ["I'll be looking for said artifact."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:47 PM"
+        },
+        {
+            "content": ["Yep here we go. I'm the janitor or something I guess.", "The Argonian set me up."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:47 PM"
+        },
+        {
+            "content": ["The cleaning supplies are in the main deck bathroom."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:48 PM"
+        },
+        {
+            "content": ["Actually they're in my room."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:48 PM"
+        },
+        {
+            "content": ["Just looking around."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:48 PM"
+        },
+        {
+            "content": ["I had to clean some blood and cum out of my sheets.", "And walls.", "And floor."],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:48 PM"
+        },
+        {
+            "content": ["Oh. Well they're in his room then."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:49 PM"
+        },
+        {
+            "content": ["Asier heads to Seth's room, mortified.", "Can I skip this room, argonian?"],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:49 PM"
+        },
+        {
+            "content": ["You can skip my room.", "I'd prefer if you did."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:49 PM"
+        },
+        {
+            "content": ["Okay.", "I don't want to mess with...", "Whatever goes on in here..."],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:49 PM"
+        },
+        {
+            "content": ["The name is Serpile. It would do you well to remember that."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:50 PM"
+        },
+        {
+            "content": ["If I'm the janitor, then what roles do you people have?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:50 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth go looking for the artifact?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:51 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:51 PM"
+        },
+        {
+            "content": ["Me? I'm the mechanic."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:51 PM"
+        },
+        {
+            "content": ["Goat man and I are the co-captains."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:51 PM"
+        },
+        {
+            "content": ["Then what power do you have over my position?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:52 PM"
+        },
+        {
+            "content": ["He nearly has none."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:52 PM"
+        },
+        {
+            "content": ["If you don't do what I say, I'm going to stick you in the main engine."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:52 PM"
+        },
+        {
+            "content": ["Asier gasps in a joking manner.", "For shame, serpile. For shame."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:53 PM"
+        },
+        {
+            "content": [
+                "If you don't lighten up and stop being a space-douche I'll airlock you, Serpile.",
+                "Let the ghost man look around the ship but keep an eye on him.",
+                "Don't need him stealing stuff."
+            ],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:53 PM"
+        },
+        {
+            "content": ["@Magic8Ball Would Seth actually airlock Serpile?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:54 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:54 PM"
+        },
+        {
+            "content": ["Fine. But i'm watching you, shade."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:54 PM"
+        },
+        {
+            "content": ["No need to throw \"shade\"."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 05:55 PM"
+        },
+        {
+            "content": ["Please, call me Asier."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:55 PM"
+        },
+        {
+            "content": ["Whatever, shade."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 05:55 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier sock Serpile in the face?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 05:56 PM"
+        },
+        {
+            "content": ["🎱 | Brakia says no, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 05:56 PM"
+        },
+        {
+            "content": ["@Magic8Ball Is Emmett now seen chewing on some blackened strands of grass?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:00 PM"
+        },
+        {
+            "content": ["🎱 | Y35, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:00 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth find the location of the temple?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:01 PM"
+        },
+        {
+            "content": ["🎱 | Y35, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:01 PM"
+        },
+        {
+            "content": ["So, welcome to the ship, black dude."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:02 PM"
+        },
+        {
+            "content": ["Please don't call me _black dude_.", "My name is Asier."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:02 PM"
+        },
+        {
+            "content": ["I call him shade."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:02 PM"
+        },
+        {
+            "content": ["Name's Emmett."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:02 PM"
+        },
+        {
+            "content": ["Hey, I found the Temple."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:03 PM"
+        },
+        {
+            "content": ["Sorry for puking earlier."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:04 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile punch Asier in the face?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:05 PM"
+        },
+        {
+            "content": ["🎱 | Nay, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:05 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile suddenly jump 6 times and do the whip and nay nay?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:07 PM"
+        },
+        {
+            "content": ["🎱 | NO, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:07 PM"
+        },
+        {
+            "content": ["So, what now? Don't you need fuel?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:08 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does the lounge of the ship have an odor of fried grass now?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:09 PM"
+        },
+        {
+            "content": ["🎱 | Nay, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:09 PM"
+        },
+        {
+            "content": ["Swag."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:09 PM"
+        },
+        {
+            "content": ["That... That doesn't answer my question."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:09 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth enter the temple without those losers?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:09 PM"
+        },
+        {
+            "content": ["🎱 | Yay, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:09 PM"
+        },
+        {
+            "content": ["Shade, come with me. We're going to go get fuel."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:09 PM"
+        },
+        {
+            "content": ["Will do."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:10 PM"
+        },
+        {
+            "content": ["Hey, Seth? Ever wonder what the inside of a temple looks like?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:10 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do we get to the fueling station quickly?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:10 PM"
+        },
+        {
+            "content": ["🎱 | Nay, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:10 PM"
+        },
+        {
+            "content": ["Nope.", "I went to one often as a wee boy."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:11 PM"
+        },
+        {
+            "content": [
+                "Emmett gets up, bored.",
+                "Alright, I'm done pretending to be baked. Toss me your coordinates."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:11 PM"
+        },
+        {
+            "content": ["Alright sending them over now."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:11 PM"
+        },
+        {
+            "content": ["Sheesh, you're closer than I thought."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:12 PM"
+        },
+        {
+            "content": [
+                "t!choose Asier switches to wisp so his legs don't hurt from the walking | Asire has hurt legs now"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:12 PM"
+        },
+        {
+            "content": ["🤔 | PlasmaPerson, I pick Asier switches to wisp so his legs don't hurt from the walking!"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:12 PM"
+        },
+        {
+            "content": ["You landed pretty close luckily."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:13 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does it take a while for Emmett to get accustomed to the gravity?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:13 PM"
+        },
+        {
+            "content": ["🎱 | Astounding yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:13 PM"
+        },
+        {
+            "content": ["Hey Serpile?", "Are you tired of walking? Because I'm not."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:13 PM"
+        },
+        {
+            "content": ["Screw you, you non-corporeal jerk."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:13 PM"
+        },
+        {
+            "content": ["This planet is strangely heavy."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:14 PM"
+        },
+        {
+            "content": [
+                "Meh, it feels a little like home.",
+                "Could be a little less heavy though.",
+                "I feel some pressure."
+            ],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:14 PM"
+        },
+        {
+            "content": ["Rawley! Appear!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:17 PM"
+        },
+        {
+            "content": ["I think I'm there. Huge forest?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:17 PM"
+        },
+        {
+            "content": ["Yep. Follow the large path that can be seen from 15 miles away."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:18 PM"
+        },
+        {
+            "content": ["Now we have another to join us for our trip to the Super Starket."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:18 PM"
+        },
+        {
+            "content": ["Did... Did you just summon a cat?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:18 PM"
+        },
+        {
+            "content": ["Yes.", "what's your point?"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:18 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do I take out my laser pistol and look around?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:19 PM"
+        },
+        {
+            "content": ["🎱 | Wait to ask this again, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:19 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do we find the store yet?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:20 PM"
+        },
+        {
+            "content": ["🎱 | Yeah, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:20 PM"
+        },
+        {
+            "content": ["Welp. Here we are."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:21 PM"
+        },
+        {
+            "content": ["I'm here, Seth."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:21 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier know where the fuel is in the store?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:21 PM"
+        },
+        {
+            "content": ["🎱 | Nay, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:21 PM"
+        },
+        {
+            "content": ["So, where is the fuel?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:21 PM"
+        },
+        {
+            "content": ["Um...", "I...", "Uh...", "I don't know..."],
+            "quotes": [0, 1, 2, 3],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:22 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett take out his laser crossbow?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:22 PM"
+        },
+        {
+            "content": ["🎱 | Resounding no, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:22 PM"
+        },
+        {
+            "content": ["I'm an assassin, not a shopper."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:22 PM"
+        },
+        {
+            "content": ["You sure this place isn't dangerous?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:22 PM"
+        },
+        {
+            "content": ["Welp, we're going to be in here for a while."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:23 PM"
+        },
+        {
+            "content": [
+                "Seth was thinking about having sex until Emmett appears, which snaps him out of it.",
+                "Nope, let's go."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:23 PM"
+        },
+        {
+            "content": ["Let's ask someone!", "Hey! You! Employee!"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:24 PM"
+        },
+        {
+            "content": ["Well, I'm not going to sit at the entrance staring at some naked lady I'm daydreaming about."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:25 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do I draw my laser pistol and look around?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:25 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:25 PM"
+        },
+        {
+            "content": ["Seems alright so far..."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:25 PM"
+        },
+        {
+            "content": ["Yes?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Super Starket Employee",
+            "date": "24-Jun-18 06:25 PM"
+        },
+        {
+            "content": ["I demand to know the location of the ship fuel!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:25 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do they tell us where the ship fuel is?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:26 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:26 PM"
+        },
+        {
+            "content": [
+                "After looking around for a while, Seth realizes there's no danger.",
+                "Alright well, lets go do something else."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:26 PM"
+        },
+        {
+            "content": ["Alright, just calm down. Its over in the section labeled ship necessities."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Super Starket Employee",
+            "date": "24-Jun-18 06:27 PM"
+        },
+        {
+            "content": ["I walked all the way over here for you to say that."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:27 PM"
+        },
+        {
+            "content": ["Oh."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:27 PM"
+        },
+        {
+            "content": ["Im joking."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:27 PM"
+        },
+        {
+            "content": ["Oh."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:27 PM"
+        },
+        {
+            "content": ["@Magic8Ball Is the store out of fuel?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:28 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:28 PM"
+        },
+        {
+            "content": ["It's kind-of hard for me to understand a joke at the moment. Everything's kinda hazy."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:28 PM"
+        },
+        {
+            "content": ["Oh dang. No fuel."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:28 PM"
+        },
+        {
+            "content": ["OH FOR FUCK'S SAKES!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:29 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Is their fuel obviously seen stuck inside the buttcracks of each of the fat ladies zooming around the market?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:29 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:29 PM"
+        },
+        {
+            "content": ["Well we're stuck here for the rest of our lives.", "Until they restock."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:29 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Is their fuel obviously seen stuck inside the buttcracks of each of the fat men zooming around the market?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:29 PM"
+        },
+        {
+            "content": ["🎱 | YES, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:29 PM"
+        },
+        {
+            "content": ["Oh no. Look at the fat men!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:30 PM"
+        },
+        {
+            "content": ["Dude, let's go already."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:30 PM"
+        },
+        {
+            "content": ["Seth stares into the cleavage of a statue mindlessly.", "I'm waiting for you to enter."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:31 PM"
+        },
+        {
+            "content": [
+                "Emmett is staring into a dark hallway on the other side of the room the two are in.",
+                "I'm already in here though!"
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:31 PM"
+        },
+        {
+            "content": ["Well you go first, then."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:31 PM"
+        },
+        {
+            "content": ["Fine.", "Emmett slowly peeks into the hall, a bit paranoid of what could be inside."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:32 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does asier use his stealth to steal the fuel out of the fat men's butts?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:32 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:32 PM"
+        },
+        {
+            "content": [
+                "I'm glad I don't have skin because that could have been much worse. At least me got the fuel!"
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:32 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Do the fat men begin to notice the lack of fuel canisters in their rears and start to get angry?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:33 PM"
+        },
+        {
+            "content": ["🎱 | Y35, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:33 PM"
+        },
+        {
+            "content": ["Uhh oh!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:33 PM"
+        },
+        {
+            "content": [
+                "Put it back! WAAAAAAAAAAAAAAAAAAAAAAAAAAAA! WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!"
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Fat Man",
+            "date": "24-Jun-18 06:33 PM"
+        },
+        {
+            "content": ["RUN!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:33 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth enter the room before Emmett cause he takes 20,000 years?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:34 PM"
+        },
+        {
+            "content": ["🎱 | Nay, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:34 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do Asier and Serpile escape the store?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:35 PM"
+        },
+        {
+            "content": ["🎱 | Wait to ask this again, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:35 PM"
+        },
+        {
+            "content": ["Where's the exit!?!?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:35 PM"
+        },
+        {
+            "content": ["Nowhere, little black ghost, now enter into my asshole!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Fat Man",
+            "date": "24-Jun-18 06:36 PM"
+        },
+        {
+            "content": ["NEVER, YOU CRAZY MAN!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:36 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Does Emmett end up stopping at a cliche pit with a single vine protruding from the ceiling?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["🎱 | YES, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does the fat man pick up Serpile and stick him in his butthole?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["Seth enters the room after Emmett, staring into the spike pit.", "Looks like fun."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["NOOOO! SERPILE!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:37 PM"
+        },
+        {
+            "content": ["This is vaguely familiar."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:38 PM"
+        },
+        {
+            "content": ["MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Fat Man",
+            "date": "24-Jun-18 06:38 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do I shoot and kill the fat man?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["t!choose Asier escapes the store without Serpile | Asier saves Serpile first"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["🤔 | PlasmaPerson, I pick Asier escapes the store without Serpile!"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:39 PM"
+        },
+        {
+            "content": [
+                "Here goes nothing.",
+                "Emmett leaps to the vine, attempting to grab it.",
+                "@Magic8Ball Does Emmett successfully traverse the pit?"
+            ],
+            "quotes": [0],
+            "commands": [2],
+            "actions": [1],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["🎱 | Yeah, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["Who is Brody? Also, HELP ME!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["Let's get out of here!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:39 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do Seth just jump over the pit?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["We'll perform surgery later!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["Alright, I'll be there in a second. Need to make sure I can bound this."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:40 PM"
+        },
+        {
+            "content": [
+                "Suit yourself.",
+                "Emmett heads into the next room haphazardly, figuring that was the worst to come."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:40 PM"
+        },
+        {
+            "content": ["I hate you, Asier!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:41 PM"
+        },
+        {
+            "content": ["Hey Seth? There's a room full of heads in here."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:42 PM"
+        },
+        {
+            "content": ["Oh, fun!", "Seth leans into the pit and tries to measure the distance."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:42 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile escape the fat man's butt?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:42 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 14! Yes, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:42 PM"
+        },
+        {
+            "content": ["All on pikes...", "Emmett pinches his nose."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:42 PM"
+        },
+        {
+            "content": ["Wanna play intergalactic soccer with them?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:42 PM"
+        },
+        {
+            "content": ["Serpile squeezes his way out of the fat man's rear and exhales in relief.", "THANK GOD!"],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:43 PM"
+        },
+        {
+            "content": [
+                "I don't think these heads have hovers on them.",
+                "I think we have to step on them to continue."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:44 PM"
+        },
+        {
+            "content": [
+                "t!choose Asier and Serpile enter combat with the fat man | The fat man is not angry | The fat man is still chasing but Asier and Serpile escape onto the ship"
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:44 PM"
+        },
+        {
+            "content": ["🤔 | PlasmaPerson, I pick The fat man is not angry!"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:44 PM"
+        },
+        {
+            "content": [
+                "t!choose The fat man really isn't angry | The fat man is really hungry | The fat man wants to be Asier's friend"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:45 PM"
+        },
+        {
+            "content": ["🤔 | Zander, I pick the fat man really isn't angry!"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:45 PM"
+        },
+        {
+            "content": [
+                "Seth, seemingly stalling, rubs his fingers with some dust from the temple floor.",
+                "Sounds fun."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:45 PM"
+        },
+        {
+            "content": ["Well, at least we don't have to deal with him anymore."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:45 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do Seth swing over to Emmett?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase no, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:46 PM"
+        },
+        {
+            "content": [
+                "I will be over there soon!",
+                "Seth attempts to swing on the vine over but manages to break the vine, causing him to fall into the spike pit. Luckily, the spikes are fairly dull."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["Emmett continues to stare at the rotting head platforms.", "Did I just hear you fall?"],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do Asier and Serpile get to the ship quickly?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["🎱 | NO, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:46 PM"
+        },
+        {
+            "content": ["Umm, no.", "Definably not."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:47 PM"
+        },
+        {
+            "content": ["Whoof. I'm tired. That chase really took it out of me."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:48 PM"
+        },
+        {
+            "content": ["Emmett shutters.", "Then I think someone might be in here with us..."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:48 PM"
+        },
+        {
+            "content": ["Fun!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:48 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier give the fuel to Serpile so he can use it with the ship?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:49 PM"
+        },
+        {
+            "content": ["🎱 | Yeah, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:49 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett check into the pit anyways?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:49 PM"
+        },
+        {
+            "content": ["🎱 | No, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:49 PM"
+        },
+        {
+            "content": ["Here. You know where the fuel goes."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["Seth, I can hear you echoing louder than usual."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth climb out of the pit and toward Emmett?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["🎱 | Maybe, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["Are you sure you didn't fall?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["I'm very sure this place just has good acoustics."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile input the fuel quickly?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:50 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:50 PM"
+        },
+        {
+            "content": [
+                "Nice. Now we just need the other team members.",
+                "@Magic8Ball Do Asier and Serpile go join the others in the temple?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:51 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:51 PM"
+        },
+        {
+            "content": ["Let's go find them."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:51 PM"
+        },
+        {
+            "content": ["Alright.", "Serpile and Asier exit the ship in a random direction."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:52 PM"
+        },
+        {
+            "content": ["@Magic8Ball Did Seth send his coordinates to the others?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:52 PM"
+        },
+        {
+            "content": ["🎱 | Bagelwrecker says no, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:52 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth climb out of the pit and walk over to Emmett?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:52 PM"
+        },
+        {
+            "content": ["🎱 | Maybe, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:52 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do Serpile and Asier magically stumble across the temple?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:53 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 9! No, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:53 PM"
+        },
+        {
+            "content": ["@Magic8Ball Is Rawley smarter than Serpile and Asier and leads them to the temple?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:54 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 2! No, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:54 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth need Emmett's help to get out of the pit?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:55 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:55 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth get out of the pit?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:56 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase no, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:56 PM"
+        },
+        {
+            "content": [
+                "Emmett looks back at the pit, assuming that Seth fell into the pit.",
+                "I'm coming back for you then."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:56 PM"
+        },
+        {
+            "content": ["Seth jumps up and grabs the ledge of the pit.", "No you aren't."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:56 PM"
+        },
+        {
+            "content": ["Emmett, having gone back to the pit, peers over Seth.", "I'm right here."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:56 PM"
+        },
+        {
+            "content": ["Hey Rawley where's the temple?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:57 PM"
+        },
+        {
+            "content": ["Mrow?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Rawley",
+            "date": "24-Jun-18 06:57 PM"
+        },
+        {
+            "content": ["Stupid cat."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:57 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do the two finally find the temple?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 06:57 PM"
+        },
+        {
+            "content": ["🎱 | Bagelwrecker says no, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:57 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Does Asier shapeshift to have cat ears so he can understand Rawley, who tells them where the temple is?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 06:58 PM"
+        },
+        {
+            "content": ["🎱 | No, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:58 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett put his arm down into the pit for Seth?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:59 PM"
+        },
+        {
+            "content": ["🎱 | Wait to ask this again, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:59 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth walk through a tunnel in the pit?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:59 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 06:59 PM"
+        },
+        {
+            "content": ["Seth notices a tunnel in the pit and heads through it.", "Bye."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 06:59 PM"
+        },
+        {
+            "content": ["Emmett sighs.", "Freaking liar."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 06:59 PM"
+        },
+        {
+            "content": ["\\*Fucking."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:00 PM"
+        },
+        {
+            "content": ["Go asterisk fuck yourself."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:00 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile find the Temple and tell Asier about it?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 07:00 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:00 PM"
+        },
+        {
+            "content": [
+                "I'm calling the others if you don't get up here.",
+                "I know how much you love huge groups of men."
+            ],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does fate finally smile upon the two and they find the temple and the team?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["I might of found an exit give me a sex-ond."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["Emmett folds his arms, tapping his backhoof impatiently.", "Ugh, fine."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:01 PM"
+        },
+        {
+            "content": ["Serpile we found it! Now let's get in there and join the action!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:02 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett carefully traverse the head pikes and continue onwards?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:02 PM"
+        },
+        {
+            "content": ["🎱 | Resounding no, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:02 PM"
+        },
+        {
+            "content": [
+                "Emmett, impatient, decides to jump across the head platforms. Unfortunately, he slips on one, causing his hoof to be stabbed by a sharp pike.",
+                "Ah! My hoof!",
+                "Emmett manages to make it across and holds his now bleeding hoof."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0, 2],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:02 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Does Seth come across a large group of women and uses his charisma to make them have sex with him?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:03 PM"
+        },
+        {
+            "content": ["🎱 | Wait to ask this again, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:03 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Serpile go to sleep in the ship restroom now?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "24-Jun-18 07:04 PM"
+        },
+        {
+            "content": ["🎱 | Yes, Brakia."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:04 PM"
+        },
+        {
+            "content": ["Okay, well bye, I guess.", "Guys, I'm here. Serpile, uh, went back and fell asleep."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:06 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Does Seth come across a large group of women and uses his charisma to make them have sex with him?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:07 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 12! Yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:07 PM"
+        },
+        {
+            "content": ["Space rule 26 Emmett, If there's a temple, there's virgins."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:09 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier walk past the scene and find Emmett?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:09 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:09 PM"
+        },
+        {
+            "content": [
+                "Asier just flies over all of the obstacles Emmett and Seth took forever to traverse.",
+                "Emmett!"
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:10 PM"
+        },
+        {
+            "content": ["Emmett jumped, startled by Asier's sudden appearance.", "My foot is hurting badly."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:11 PM"
+        },
+        {
+            "content": ["Did you step on the spikes?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:11 PM"
+        },
+        {
+            "content": ["@Magic8Ball Is there something actually interesting in the next room?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["🎱 | N0, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["@Magic8Ball Are the virgins guarding the ancient artifact?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 1! No, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:12 PM"
+        },
+        {
+            "content": ["Emmett glares at Asier and mutters sarcastically.", "No, that's why my foot is hurting."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:13 PM"
+        },
+        {
+            "content": ["@Magic8Ball Did Asier remember to grab a med kit from the ship just in case?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 11! Yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["Asier takes out a canister without reading it.", "Take this."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:14 PM"
+        },
+        {
+            "content": ["Gee, anti-itch cream.", "Great for Spanish Flu, I guess."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:15 PM"
+        },
+        {
+            "content": ["You know Emmett, you should of fallen down this pit."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:15 PM"
+        },
+        {
+            "content": ["Uh...", "It was the only one I could find."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:15 PM"
+        },
+        {
+            "content": [
+                "Hey Seth, I know you found some women or something.",
+                "But guess what?",
+                "I bet those women don't even exist.",
+                "@Magic8Ball Do the women exist, for Seth's sake?"
+            ],
+            "quotes": [0, 1, 2],
+            "commands": [3],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:15 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:16 PM"
+        },
+        {
+            "content": ["Doesn't matter had sex with holograms", "Magical sex is better than no sex"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:16 PM"
+        },
+        {
+            "content": ["Bet those were men acting for those holograms."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:17 PM"
+        },
+        {
+            "content": ["After a bit of silence, Seth continues.", "Anyways, I'm pushing forward."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:18 PM"
+        },
+        {
+            "content": [
+                "I'm only hearing one side of this conversation and its so weird.",
+                "Asier helps bandage up Emmett's hoof."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:18 PM"
+        },
+        {
+            "content": ["Thanks for the bandages, I guess."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:18 PM"
+        },
+        {
+            "content": ["Yeah, for your hoof."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:18 PM"
+        },
+        {
+            "content": ["Also, Seth is a sex-crazed freak. He just pulverized a whole bunch of holograms."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:18 PM"
+        },
+        {
+            "content": ["Oh!", "That's...", "Uh...", "Disturbing!"],
+            "quotes": [0, 1, 2, 3],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["Kinda' but not really.", "Emmett stands."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth find the artifact in the next room?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["🎱 | Yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["Normally I would have him arrested for rape.", "But...", "I suppose they are holograms."],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["Got em'.", "Hey, look, a dumb pocketwatch!", "Time to destroy it!"],
+            "quotes": [0, 1, 2],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:19 PM"
+        },
+        {
+            "content": ["@Magic8Ball Is the artifact a magic hotdog covered in old mayonnaise?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:20 PM"
+        },
+        {
+            "content": ["🎱 | Astounding yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:20 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do Asier and Emmett stumble into the same room?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["🎱 | YES, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["The two meet up with Seth.", "Oh, hey."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth eat the hotdog?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["Oh, hey, a hotdog.", "Probably don't eat it, you'll get sick again."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["This was a tasty hotdog!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["Oh no!", "@Magic8Ball Is there another artifact in the temple?"],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:21 PM"
+        },
+        {
+            "content": ["🎱 | Likely no, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:23 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Does a little worm climb into Seth's butt and take the hotdog out of him, putting it back onto the pedestal?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:23 PM"
+        },
+        {
+            "content": ["🎱 | Resounding no, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:23 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Does Seth puke the hotdog up into the lava surrounding the pedestal, thus obliterating it?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:24 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:24 PM"
+        },
+        {
+            "content": ["I have light magic. I can search for other signs of treasure nearby."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:25 PM"
+        },
+        {
+            "content": ["Meh.", "I'm pretty content. :et's just take the pedestal and claim it's the artifact."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:26 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does the group head for the exit?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:26 PM"
+        },
+        {
+            "content": ["🎱 | Bagelwrecker says yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:26 PM"
+        },
+        {
+            "content": ["@Magic8Ball Did Seth obliterate the hotdog by eating it?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:26 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 6! No, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:26 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Is the hotdog going to be attached to another character by the plot in the future?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:28 PM"
+        },
+        {
+            "content": ["🎱 | Y35, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:28 PM"
+        },
+        {
+            "content": ["t!choose Seth | Emmett | Asier | Matthias | Laav | Serpile | Jacob"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:29 PM"
+        },
+        {
+            "content": ["🤔 | Zander, I pick Serpile!"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:29 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth have the pedestal in hand?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:31 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:31 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do statues surrounding the pedestal suddenly emerge with life?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:32 PM"
+        },
+        {
+            "content": ["🎱 | YES, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:32 PM"
+        },
+        {
+            "content": ["Spooky.", "@Magic8Ball Are the statues female?"],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:33 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, Bagelwrecker?"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:33 PM"
+        },
+        {
+            "content": ["@Magic8Ball Are the statues friendly?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["🎱 | Yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["@Magic8Ball Are the statues following us?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["🎱 | Yeah, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["That's unsettling."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["Mmmmm...", "@Magic8Ball Does Seth pee out the hotdog as a liquid into a jar?"],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:34 PM"
+        },
+        {
+            "content": ["🎱 | Y35, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:36 PM"
+        },
+        {
+            "content": ["I'm sorry, I just had to go."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:36 PM"
+        },
+        {
+            "content": [
+                "Asier takes a good look at the jar, noticing remnants of the hotdog artifact within it.",
+                "At least it's not destroyed."
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:37 PM"
+        },
+        {
+            "content": ["@Magic8Ball Are the female statues angry now the Seth liquified the hotdog?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:37 PM"
+        },
+        {
+            "content": ["🎱 | NO, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:37 PM"
+        },
+        {
+            "content": ["Well Statues, mind stating your business?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:37 PM"
+        },
+        {
+            "content": ["No."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Stone Women",
+            "date": "24-Jun-18 07:38 PM"
+        },
+        {
+            "content": ["Ok.", "That's fine."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:38 PM"
+        },
+        {
+            "content": ["Emmett frowns.", "I really don't like these guys."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:38 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett start flying and make the ceiling say \"Goo goo ga ga\"?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:39 PM"
+        },
+        {
+            "content": ["🎱 | NO, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:39 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do the statues crumble as soon as we exit the temple?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:39 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase no, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:39 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does the group make it safely back to the ship?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:39 PM"
+        },
+        {
+            "content": ["🎱 | Likely yes, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:39 PM"
+        },
+        {
+            "content": ["We-are they still following us?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:40 PM"
+        },
+        {
+            "content": ["No clue."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:40 PM"
+        },
+        {
+            "content": ["Go away you creeps!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:40 PM"
+        },
+        {
+            "content": ["Think we should leave them?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:40 PM"
+        },
+        {
+            "content": ["Yes!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:40 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Emmett close the ship hatch?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:41 PM"
+        },
+        {
+            "content": ["🎱 | Resounding no, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:41 PM"
+        },
+        {
+            "content": ["Come on in, make yourself comfortable."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:41 PM"
+        },
+        {
+            "content": ["Don't invite them, they'll wreck the place!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:41 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does the ship launch and airlock the statues?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:42 PM"
+        },
+        {
+            "content": ["🎱 | Nay, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:42 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth turn into a tiny marble?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:44 PM"
+        },
+        {
+            "content": ["🎱 | Yeah, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:44 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do half of the stone women start tugging at Seth's arm?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:45 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase no."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:45 PM"
+        },
+        {
+            "content": [
+                "Seth manages to de-marblize only his face and winks at a statue.",
+                "So do you want a drink or do you want some gravel?"
+            ],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:46 PM"
+        },
+        {
+            "content": ["I think they want your hotdog juice."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:47 PM"
+        },
+        {
+            "content": ["Of course they do!", "Seth winks at you, the reader."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:47 PM"
+        },
+        {
+            "content": ["Not like that, man.", "The one you ate and somehow peed out."],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:47 PM"
+        },
+        {
+            "content": ["What do you mean? That's my piss!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:47 PM"
+        },
+        {
+            "content": ["Duh.", "Emmett puts a hoof to his face in frustration."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:48 PM"
+        },
+        {
+            "content": ["It's like hotdog water.", "You know the stuff left after you boil a hotdog?"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:48 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth convince the statues to have sex with him?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:49 PM"
+        },
+        {
+            "content": ["🎱 | Maybe, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:49 PM"
+        },
+        {
+            "content": ["@Magic8Ball Make the statues leave!"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:49 PM"
+        },
+        {
+            "content": ["🎱 | NO, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:49 PM"
+        },
+        {
+            "content": [
+                "@Magic8Ball Does Asier shapeshift into a stone statue man, thus leading the women out of the ship?"
+            ],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:49 PM"
+        },
+        {
+            "content": ["🎱 | Yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:49 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth turn back to normal?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:50 PM"
+        },
+        {
+            "content": ["🎱 | NO, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:50 PM"
+        },
+        {
+            "content": [
+                "Okay, now how do I get back on without them following?",
+                "@Magic8Ball Does Seth turn back to normal?"
+            ],
+            "quotes": [0],
+            "commands": [1],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:50 PM"
+        },
+        {
+            "content": ["🎱 | Yay, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:51 PM"
+        },
+        {
+            "content": ["You are free!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:51 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier turn back and run onto the ship once more?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:51 PM"
+        },
+        {
+            "content": ["🎱 | Wait to ask this again, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:51 PM"
+        },
+        {
+            "content": ["@Magic8Ball Foes the bongo playing garbage worm board the ship and play the bongos?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:52 PM"
+        },
+        {
+            "content": ["🎱 | Wait to ask this again, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:52 PM"
+        },
+        {
+            "content": ["@Magic8Ball Asier wants to go back on the ship so please let him."],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:52 PM"
+        },
+        {
+            "content": ["🎱 | N0, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:52 PM"
+        },
+        {
+            "content": ["@Magic8Ball Did Emmett have clothing on this whole time?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:53 PM"
+        },
+        {
+            "content": ["🎱 | Astounding yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:53 PM"
+        },
+        {
+            "content": ["Guys, help me out in stuck out here!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:53 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does the bongo playing garbage worm board the ship and play the bongos?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:53 PM"
+        },
+        {
+            "content": ["🎱 | Nah, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:53 PM"
+        },
+        {
+            "content": ["Mmmmmmmmmmmm... No."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:53 PM"
+        },
+        {
+            "content": ["@Magic8Ball Can Asier change his form to normal?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:53 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 10! Maybe, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:53 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier get back onto the ship and close the hatch?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:54 PM"
+        },
+        {
+            "content": ["🎱 | Astounding yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:54 PM"
+        },
+        {
+            "content": ["Alright let's change continents.", "Seth sits at the piloting console to Emmett's annoyance."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:54 PM"
+        },
+        {
+            "content": ["What continent are we on?", "Emmett pushes Seth out of the way and sits in the pilot's seat."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:55 PM"
+        },
+        {
+            "content": ["t!choose Antarctica | Asia | North America | Africa | Europe | South America | Australia"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:57 PM"
+        },
+        {
+            "content": ["🤔 | PlasmaPerson, I pick Australia!"],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 07:57 PM"
+        },
+        {
+            "content": ["Australia."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 07:57 PM"
+        },
+        {
+            "content": ["Sounds strange."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:57 PM"
+        },
+        {
+            "content": ["I want to go to the place of burgers and guns!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 07:58 PM"
+        },
+        {
+            "content": ["Cow-Veda 32?"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 07:59 PM"
+        },
+        {
+            "content": ["No. There's a country here with burgers and guns."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 08:00 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier change back yet, having still been a statue man this whole time?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:00 PM"
+        },
+        {
+            "content": ["🎱 | N0, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:00 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier change back next episode?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 08:00 PM"
+        },
+        {
+            "content": ["🎱 | N0, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:00 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier change back yet?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:00 PM"
+        },
+        {
+            "content": ["🎱 | No, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:00 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier change back _this_ episode?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:01 PM"
+        },
+        {
+            "content": ["🎱 | Astounding yes, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:01 PM"
+        },
+        {
+            "content": ["Asier incontrollably flexes.", "Help me!"],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:01 PM"
+        },
+        {
+            "content": ["Space Rule 283: No boring adventures."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:01 PM"
+        },
+        {
+            "content": [
+                "Nah, today was more of a Space rule 202. Don't trust virgins in temples, they may lead to problems."
+            ],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 08:03 PM"
+        },
+        {
+            "content": ["Or hotdogs."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:03 PM"
+        },
+        {
+            "content": ["I think both are fitting for today."],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:03 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier turn back?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 08:03 PM"
+        },
+        {
+            "content": ["🎱 | Lowercase yes, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:03 PM"
+        },
+        {
+            "content": ["@Magic8Ball Is Asier back to being completely normal now?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:04 PM"
+        },
+        {
+            "content": ["🎱 | Resounding no, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:04 PM"
+        },
+        {
+            "content": ["Emmett yawns.", "I think I'm feeling better though."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:04 PM"
+        },
+        {
+            "content": ["Anyways I'll be in my room.", "Seth waves at Emmett and leaves the cockpit."],
+            "quotes": [0],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 08:04 PM"
+        },
+        {
+            "content": ["I'm not feeling better.", "My foot is still a statue!"],
+            "quotes": [0, 1],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:04 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Seth go to his room?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:05 PM"
+        },
+        {
+            "content": ["🎱 | Yay, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:05 PM"
+        },
+        {
+            "content": ["@Magic8Ball Do the crew all go to sleep?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 08:05 PM"
+        },
+        {
+            "content": ["🎱 | NO, Bagelwrecker."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:05 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier kick Emmett and therefore turn back to normal?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:06 PM"
+        },
+        {
+            "content": ["🎱 | Rolling a d20 to determine... Rolled a 5! No, PlasmaPerson."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:06 PM"
+        },
+        {
+            "content": ["Emmett is busy messing with the navigational system.", "Are you still stone?"],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:07 PM"
+        },
+        {
+            "content": ["My foot is!"],
+            "quotes": [0],
+            "commands": null,
+            "actions": null,
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:07 PM"
+        },
+        {
+            "content": ["@Magic8Ball Does Asier turn back completely now?"],
+            "quotes": null,
+            "commands": [0],
+            "actions": null,
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:07 PM"
+        },
+        {
+            "content": ["🎱 | Yeah, Zander."],
+            "quotes": null,
+            "commands": null,
+            "actions": null,
+            "other": [0],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 08:07 PM"
+        },
+        {
+            "content": ["Asier sighs in relief.", "Nevermind."],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:07 PM"
+        },
+        {
+            "content": ["Emmett gets up and starts to head out the cockpit.", "I'm going to bed.", "See you in a few."],
+            "quotes": [1, 2],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 08:08 PM"
+        },
+        {
+            "content": ["A warrior never sleeps!", "Asier smiles.", "Except the tired ones.", "Good night!"],
+            "quotes": [0, 2, 3],
+            "commands": null,
+            "actions": [1],
+            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 08:08 PM"
+        },
+        {
+            "content": ["Over comms, Seth whispers excitedly.", "We're going to need a bigger ship soon!"],
+            "quotes": [1],
+            "commands": null,
+            "actions": [0],
+            "other": null,
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 08:08 PM"
+        }
+    ]
+}
