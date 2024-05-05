@@ -1,6 +1,6 @@
 {
     "light": {
-        "FF 8 Ball": "#A59AB1",
+        "FF 8 Ball": "#6e4694",
         "Seth": "#FF0000",
         "Sanya": "#980000",
         "Dakari": "#654321",
@@ -17,7 +17,7 @@
         "Vargas": "#000000"
     },
     "dark": {
-        "FF 8 Ball": "#D6D0DD",
+        "FF 8 Ball": "#ce78ff",
         "Seth": "#FF5050",
         "Sanya": "#C82020",
         "Dakari": "#d1734b",

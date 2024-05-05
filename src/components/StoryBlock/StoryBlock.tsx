@@ -161,7 +161,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                         />
                     </div>
                 )}
-                <Card sx={{ flexGrow: 1, padding: 2, overflowWrap: 'anywhere', backgroundColor: characterColor + 40 }}>
+                <Card sx={{ flexGrow: 1, padding: 2, overflowWrap: 'anywhere', backgroundColor: characterColor + 10 }}>
                     <div
                         style={{
                             display: 'flex',
@@ -169,7 +169,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                             marginBottom: '8px',
                         }}
                     >
-                        <Typography sx={{ fontWeight: 600 }}>{chosenCharacter}</Typography>
+                        <Typography sx={{ fontWeight: 600, color: characterColor }}>{chosenCharacter}</Typography>
                         <Typography
                             sx={{
                                 color: '#AAAAAA',
