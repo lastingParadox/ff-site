@@ -3,6 +3,7 @@ import Home from './pages/Home';
 import ArchivePage from './pages/ArchivePage';
 import FF3 from './pages/FF3';
 import RootLayout from './pages/RootLayout';
+import UnitConverter from './pages/convert/UnitConverter';
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
                     <Route path='/ff2/:episode' element={<ArchivePage />} />
                     <Route path='/ff3' element={<FF3 />} />
                     <Route path='/ff3/:episode' element={<ArchivePage />} />
+                    <Route path='/convert' element={<UnitConverter />} />
                 </Route>
             </Routes>
         </BrowserRouter>
