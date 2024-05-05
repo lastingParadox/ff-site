@@ -6,6 +6,7 @@ import React, { useCallback, useEffect, useState, useContext, useMemo } from 're
 import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
 import { useSearchParams } from 'react-router-dom';
+import PixelArtWithOutline from '../PixelArtWithOutline/PixelArtWithOutline';
 /*
     This component is used to display a card with a story block.
     A story block consists of an avatar of the character, the name of the character, and stylized text.
@@ -47,7 +48,7 @@ function getCharacterColor(character: string, colorMode: 'light' | 'dark') {
 export default function StoryBlock({ block, id }: { block: Block; id: number }): JSX.Element {
     const [loading, setLoading] = useState(true);
     const [avatar, setAvatar] = useState<string>();
-    const [searchParams, setSearchParams] = useSearchParams();
+    const [, setSearchParams] = useSearchParams();
     const { colorMode } = useContext(ColorModeContext);
     const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
     const characterColor = useMemo(
@@ -142,23 +143,8 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                         style={{}}
                     />
                 ) : (
-                    <div
-                        className={styles.avatarDiv}
-                        style={
-                            {
-                                // color: loading ? 'transparent' : characterColor,
-                                // borderColor: loading ? 'transparent' : characterColor,
-                                // backgroundColor: loading ? 'transparent' : characterColor + 40,
-                            }
-                        }
-                    >
-                        <img
-                            src={avatar}
-                            alt={chosenCharacter}
-                            style={{
-                                filter: `drop-shadow(4px 0 0 ${characterColor}) drop-shadow(0 4px 0 ${characterColor}) drop-shadow(-4px 0 0 ${characterColor}) drop-shadow(0 -4px 0 ${characterColor})`,
-                            }}
-                        />
+                    <div className={styles.avatarDiv}>
+                        <PixelArtWithOutline imageUrl={avatar} color={characterColor} zoom={4} />
                     </div>
                 )}
                 <Card sx={{ flexGrow: 1, padding: 2, overflowWrap: 'anywhere', backgroundColor: characterColor + 10 }}>
