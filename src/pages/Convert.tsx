@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { TextField, Button, Grid, Typography, Container, Paper } from '@mui/material';
-import utils from '@/utils/convert/convert-utils.ts'; // Adjust import as per your actual file structure
+import utils from '../../convert/convert-utils.ts';
 
 function Convert() {
     // State for GU to Earth form
@@ -9,8 +9,8 @@ function Convert() {
     const [equinoxes, setEquinoxes] = useState(0);
     const [periods, setPeriods] = useState(0);
     const [unions, setUnions] = useState(0);
-    const [seconds, setSeconds] = useState(0);
-    const [milliseconds, setMilliseconds] = useState(0);
+    const [duons, setDuons] = useState(0);
+    const [trions, setTrions] = useState(0);
     const [earthTime, setEarthTime] = useState('');
 
     // State for Earth to GU form
@@ -25,7 +25,15 @@ function Convert() {
 
     // Function to handle GU to Earth conversion
     const convertGuToEarth = () => {
-        const result = utils.guToEarth(guys, semesters, equinoxes, periods, unions, seconds, milliseconds);
+        const result = utils.guToEarth(
+            guys,
+            semesters,
+            equinoxes,
+            periods,
+            unions,
+            duons,
+            trions
+        );
         setEarthTime(
             `Years: ${result[0]}, Months: ${result[1]}, Days: ${result[2]}, Hours: ${result[3]}, Minutes: ${result[4]}, Seconds: ${result[5]}, Milliseconds: ${result[6]}`
         );
@@ -117,8 +125,8 @@ function Convert() {
                             fullWidth
                             margin='normal'
                             type='number'
-                            value={seconds}
-                            onChange={(e) => setSeconds(parseFloat(e.target.value))}
+                            value={duons}
+                            onChange={(e) => setDuons(parseFloat(e.target.value))}
                         />
                         <TextField
                             label='Trions'
@@ -126,8 +134,8 @@ function Convert() {
                             fullWidth
                             margin='normal'
                             type='number'
-                            value={milliseconds}
-                            onChange={(e) => setMilliseconds(parseFloat(e.target.value))}
+                            value={trions}
+                            onChange={(e) => setTrions(parseFloat(e.target.value))}
                         />
                         <Button variant='contained' color='primary' onClick={convertGuToEarth} sx={{ mt: 2 }}>
                             Convert

@@ -23,6 +23,6 @@
             "@/*": ["./src/*"]
         }
     },
-    "include": ["src", "src/utils/convert"],
+    "include": ["src", "utils/unit-conversion/convert-utils.ts"],
     "references": [{ "path": "./tsconfig.node.json" }]
 }
