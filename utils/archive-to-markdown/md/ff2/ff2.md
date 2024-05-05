@@ -10693,14 +10693,14 @@ In the end, the result was:
 
 > that's kinda funny though, that name tag
 
-**RPRetribution** _(25-Jun-18 03:05 PM)_
+**RPretribution** _(25-Jun-18 03:05 PM)_
 
 > @Magic8Ball
 > is garrick in the room?
 
 **Magic8Ball** _(25-Jun-18 03:05 PM)_
 
-> 🎱 | Lowercase no, RPRetribution.
+> 🎱 | Lowercase no, RPretribution.
 
 **Brakia** _(25-Jun-18 03:05 PM)_
 
@@ -10711,7 +10711,7 @@ In the end, the result was:
 
 > 🎱 | Nay, Brakia.
 
-**RPRetribution** _(25-Jun-18 03:05 PM)_
+**RPretribution** _(25-Jun-18 03:05 PM)_
 
 > Huh.
 
@@ -10804,20 +10804,20 @@ In the end, the result was:
 
 > `Welp, lets go shoot up a police station`
 
-**RPRetribution** _(25-Jun-18 03:10 PM)_
+**RPretribution** _(25-Jun-18 03:10 PM)_
 
 > @Magic8Ball
 > does garrick go inside the police station
 
 **Magic8Ball** _(25-Jun-18 03:10 PM)_
 
-> 🎱 | Astounding yes, RPRetribution.
+> 🎱 | Astounding yes, RPretribution.
 
 **Zander** _(25-Jun-18 03:10 PM)_
 
 > What the hell?
 
-**RPRetribution** _(25-Jun-18 03:10 PM)_
+**RPretribution** _(25-Jun-18 03:10 PM)_
 
 > Sounds fun.
 
@@ -10834,7 +10834,7 @@ In the end, the result was:
 
 > oh. _retract swords_
 
-**RPRetribution** _(25-Jun-18 03:11 PM)_
+**RPretribution** _(25-Jun-18 03:11 PM)_
 
 > Either's fine with me.
 
@@ -10846,7 +10846,7 @@ In the end, the result was:
 
 > ghost man! Where did you come from!
 
-**RPRetribution** _(25-Jun-18 03:12 PM)_
+**RPretribution** _(25-Jun-18 03:12 PM)_
 
 > My house.
 > Obviously.
@@ -10876,7 +10876,7 @@ In the end, the result was:
 
 > `Nope.`
 
-**RPRetribution** _(25-Jun-18 03:14 PM)_
+**RPretribution** _(25-Jun-18 03:14 PM)_
 
 > No.
 
@@ -10898,7 +10898,7 @@ In the end, the result was:
 
 > But why?
 
-**RPRetribution** _(25-Jun-18 03:15 PM)_
+**RPretribution** _(25-Jun-18 03:15 PM)_
 
 > Sure.
 
@@ -10906,7 +10906,7 @@ In the end, the result was:
 
 > better than sitting around doing nothing
 
-**RPRetribution** _(25-Jun-18 03:15 PM)_
+**RPretribution** _(25-Jun-18 03:15 PM)_
 
 > What could go wrong?
 
@@ -10918,7 +10918,7 @@ In the end, the result was:
 
 > `Everything.`
 
-**RPRetribution** _(25-Jun-18 03:16 PM)_
+**RPretribution** _(25-Jun-18 03:16 PM)_
 
 > You can't handcuff a ghost. We have no arms.
 
@@ -10926,7 +10926,7 @@ In the end, the result was:
 
 > They have spectral cuffs.
 
-**RPRetribution** _(25-Jun-18 03:17 PM)_
+**RPretribution** _(25-Jun-18 03:17 PM)_
 
 > Darn.
 
@@ -10952,7 +10952,7 @@ In the end, the result was:
 
 > Peer pressure!
 
-**RPRetribution** _(25-Jun-18 03:18 PM)_
+**RPretribution** _(25-Jun-18 03:18 PM)_
 
 > Alright.
 
@@ -10982,7 +10982,7 @@ In the end, the result was:
 
 > step one, lower in and inspect surroundings
 
-**RPRetribution** _(25-Jun-18 03:20 PM)_
+**RPretribution** _(25-Jun-18 03:20 PM)_
 
 > Uh...
 > Yes.
@@ -11018,7 +11018,7 @@ In the end, the result was:
 
 > you think?
 
-**RPRetribution** _(25-Jun-18 03:21 PM)_
+**RPretribution** _(25-Jun-18 03:21 PM)_
 
 > I don't.
 
@@ -11044,14 +11044,14 @@ In the end, the result was:
 > Throw away the plan
 > Here we go!
 
-**RPRetribution** _(25-Jun-18 03:24 PM)_
+**RPretribution** _(25-Jun-18 03:24 PM)_
 
 > @Magic8Ball
 > does garrick go with asier's plan
 
 **Magic8Ball** _(25-Jun-18 03:24 PM)_
 
-> 🎱 | Nah, RPRetribution.
+> 🎱 | Nah, RPretribution.
 
 **Zander** _(25-Jun-18 03:24 PM)_
 
@@ -11062,7 +11062,7 @@ In the end, the result was:
 
 > 🎱 | Likely yes, Zander.
 
-**RPRetribution** _(25-Jun-18 03:24 PM)_
+**RPretribution** _(25-Jun-18 03:24 PM)_
 
 > PUT YOUR STICKS IN THE AIR! THIS IS A HAND-UP!
 
@@ -11071,7 +11071,7 @@ In the end, the result was:
 > Bail:
 > "Justice"
 
-**RPRetribution** _(25-Jun-18 03:24 PM)_
+**RPretribution** _(25-Jun-18 03:24 PM)_
 
 > DANGIT
 > Let's start over...
@@ -11109,7 +11109,7 @@ In the end, the result was:
 
 > 🎱 | Nah, Zander.
 
-**RPRetribution** _(25-Jun-18 03:26 PM)_
+**RPretribution** _(25-Jun-18 03:26 PM)_
 
 > Great stealth mission.
 
@@ -11129,7 +11129,7 @@ In the end, the result was:
 
 > I couldn't find a woman to have sex with on this planet.
 
-**RPRetribution** _(25-Jun-18 03:27 PM)_
+**RPretribution** _(25-Jun-18 03:27 PM)_
 
 > Let's get their guns!
 
@@ -11167,7 +11167,7 @@ In the end, the result was:
 
 > I WANT WOMEN TO FUCK
 
-**RPRetribution** _(25-Jun-18 03:28 PM)_
+**RPretribution** _(25-Jun-18 03:28 PM)_
 
 > I don't have any guns.
 > Well, I might...
@@ -11185,7 +11185,7 @@ In the end, the result was:
 
 > 🎱 | N0, Bagelwrecker.
 
-**RPRetribution** _(25-Jun-18 03:29 PM)_
+**RPretribution** _(25-Jun-18 03:29 PM)_
 
 > A lot.
 
@@ -11231,7 +11231,7 @@ In the end, the result was:
 
 > I'm going back to the ship, guys.
 
-**RPRetribution** _(25-Jun-18 03:32 PM)_
+**RPretribution** _(25-Jun-18 03:32 PM)_
 
 > ...oh.
 
@@ -11248,19 +11248,19 @@ In the end, the result was:
 
 > victory or death!
 
-**RPRetribution** _(25-Jun-18 03:33 PM)_
+**RPretribution** _(25-Jun-18 03:33 PM)_
 
 > t!choose gun | knives
 
 **Tatsumaki** _(25-Jun-18 03:33 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > gun
 > !
 
-**RPRetribution** _(25-Jun-18 03:33 PM)_
+**RPretribution** _(25-Jun-18 03:33 PM)_
 
 > Oh, nice. I didn't know I had a gun in here.
 
@@ -11268,7 +11268,7 @@ In the end, the result was:
 
 > `Stay right where you are, ill shoot, i swear it i will!`
 
-**RPRetribution** _(25-Jun-18 03:34 PM)_
+**RPretribution** _(25-Jun-18 03:34 PM)_
 
 > Alright.
 
@@ -11293,7 +11293,7 @@ In the end, the result was:
 
 > Yeah, I'm going.
 
-**RPRetribution** _(25-Jun-18 03:34 PM)_
+**RPretribution** _(25-Jun-18 03:34 PM)_
 
 > Huh.
 
@@ -11305,7 +11305,7 @@ In the end, the result was:
 
 > `try buckshot`
 
-**RPRetribution** _(25-Jun-18 03:35 PM)_
+**RPretribution** _(25-Jun-18 03:35 PM)_
 
 > I'm a ghost. Bullets don't really... work.
 > But i mean, do what you want.
@@ -11340,7 +11340,7 @@ In the end, the result was:
 
 > AND I SHALL POOP ON YOU
 
-**RPRetribution** _(25-Jun-18 03:37 PM)_
+**RPretribution** _(25-Jun-18 03:37 PM)_
 
 > What the hell are you doing?
 
@@ -11360,7 +11360,7 @@ In the end, the result was:
 
 > _swords away_ fine. We'll show a little mercy. In exchange for your cash.
 
-**RPRetribution** _(25-Jun-18 03:37 PM)_
+**RPretribution** _(25-Jun-18 03:37 PM)_
 
 > We do.
 
@@ -11415,7 +11415,7 @@ In the end, the result was:
 
 > Very cool kanye
 
-**RPRetribution** _(25-Jun-18 03:39 PM)_
+**RPretribution** _(25-Jun-18 03:39 PM)_
 
 > I don't know, probably not a lot.
 
@@ -11423,7 +11423,7 @@ In the end, the result was:
 
 > `yea, try to sell a bounty off of a cop` > `See how far that will get ya`
 
-**RPRetribution** _(25-Jun-18 03:40 PM)_
+**RPretribution** _(25-Jun-18 03:40 PM)_
 
 > I'm willing to try.
 
@@ -11435,20 +11435,20 @@ In the end, the result was:
 
 > `You really don't know what you are getting into do you?`
 
-**RPRetribution** _(25-Jun-18 03:41 PM)_
+**RPretribution** _(25-Jun-18 03:41 PM)_
 
 > @Magic8Ball
 > does garrick go and find the other co-worker
 
 **Magic8Ball** _(25-Jun-18 03:41 PM)_
 
-> 🎱 | Y35, RPRetribution.
+> 🎱 | Y35, RPretribution.
 
 **Bagelwrecker** _(25-Jun-18 03:41 PM)_
 
 > I don't know and I don't care
 
-**RPRetribution** _(25-Jun-18 03:41 PM)_
+**RPretribution** _(25-Jun-18 03:41 PM)_
 
 > interesting
 
@@ -11464,7 +11464,7 @@ In the end, the result was:
 
 > Yes
 
-**RPRetribution** _(25-Jun-18 03:41 PM)_
+**RPretribution** _(25-Jun-18 03:41 PM)_
 
 > Yeah.
 
@@ -11481,7 +11481,7 @@ In the end, the result was:
 
 > 🎱 | Astounding yes, Zander.
 
-**RPRetribution** _(25-Jun-18 03:41 PM)_
+**RPretribution** _(25-Jun-18 03:41 PM)_
 
 > I mean, it's too late.
 
@@ -11502,7 +11502,7 @@ In the end, the result was:
 
 > 🎱 | Lowercase no, Zander.
 
-**RPRetribution** _(25-Jun-18 03:42 PM)_
+**RPretribution** _(25-Jun-18 03:42 PM)_
 
 > Aha! Found you.
 
@@ -11519,7 +11519,7 @@ In the end, the result was:
 
 > `So, what's your plan?` > `Sell me to some hot-shot off planet?`
 
-**RPRetribution** _(25-Jun-18 03:43 PM)_
+**RPretribution** _(25-Jun-18 03:43 PM)_
 
 > Yes.
 > Why else would we do this?
@@ -11533,7 +11533,7 @@ In the end, the result was:
 
 > Strawberry shortcake.
 
-**RPRetribution** _(25-Jun-18 03:44 PM)_
+**RPretribution** _(25-Jun-18 03:44 PM)_
 
 > Oh, c'mon. He'd never help us after this. I say we sell 'em.
 > i'll be right back
@@ -11573,7 +11573,7 @@ In the end, the result was:
 
 > 🎱 | Nah, Zander.
 
-**RPRetribution** _(25-Jun-18 03:46 PM)_
+**RPretribution** _(25-Jun-18 03:46 PM)_
 
 > ???
 
@@ -11586,7 +11586,7 @@ In the end, the result was:
 
 > 🎱 | Yeah, PlasmaPerson.
 
-**RPRetribution** _(25-Jun-18 03:47 PM)_
+**RPretribution** _(25-Jun-18 03:47 PM)_
 
 > Can we just kill her?
 
@@ -11622,19 +11622,19 @@ In the end, the result was:
 
 > get him to a medic!
 
-**RPRetribution** _(25-Jun-18 03:50 PM)_
+**RPretribution** _(25-Jun-18 03:50 PM)_
 
 > t!choose take to medic | don't
 
 **Tatsumaki** _(25-Jun-18 03:50 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > take to medic
 > !
 
-**RPRetribution** _(25-Jun-18 03:50 PM)_
+**RPretribution** _(25-Jun-18 03:50 PM)_
 
 > fine
 
@@ -11750,7 +11750,7 @@ In the end, the result was:
 In the end, the result was:
 19
 
-**RPRetribution** _(25-Jun-18 03:57 PM)_
+**RPretribution** _(25-Jun-18 03:57 PM)_
 
 > nice
 
@@ -11818,16 +11818,16 @@ In the end, the result was:
 
 > unless you want to come with us
 
-**RPRetribution** _(25-Jun-18 04:02 PM)_
+**RPretribution** _(25-Jun-18 04:02 PM)_
 
 > @Magic8Ball
 > does garrick go to the ship
 
 **Magic8Ball** _(25-Jun-18 04:02 PM)_
 
-> 🎱 | t!roll a d20. 1-9 is No, 11-20 is Yes, and 10 is Maybe, RPRetribution.
+> 🎱 | t!roll a d20. 1-9 is No, 11-20 is Yes, and 10 is Maybe, RPretribution.
 
-**RPRetribution** _(25-Jun-18 04:02 PM)_
+**RPretribution** _(25-Jun-18 04:02 PM)_
 
 > t!roll d20
 
@@ -11845,7 +11845,7 @@ In the end, the result was:
 
 > `Well, i kind of just called for backup`
 
-**RPRetribution** _(25-Jun-18 04:02 PM)_
+**RPretribution** _(25-Jun-18 04:02 PM)_
 
 > alright fine
 
@@ -11857,7 +11857,7 @@ In the end, the result was:
 
 > Asier, tell him to join or be sold on the black space web.
 
-**RPRetribution** _(25-Jun-18 04:03 PM)_
+**RPretribution** _(25-Jun-18 04:03 PM)_
 
 > I don't want anything to do with that ship.
 
@@ -11865,7 +11865,7 @@ In the end, the result was:
 
 > `You know what? fuck it, im tired of this stupid life.` > `take me with you`
 
-**RPRetribution** _(25-Jun-18 04:03 PM)_
+**RPretribution** _(25-Jun-18 04:03 PM)_
 
 > It probably smells like strawberry pastries.
 
@@ -11882,7 +11882,7 @@ In the end, the result was:
 
 > 🎱 | Wait to ask this again, Zander.
 
-**RPRetribution** _(25-Jun-18 04:04 PM)_
+**RPretribution** _(25-Jun-18 04:04 PM)_
 
 > Ugh, fine. I don't have anywhere else to go anyways.
 
@@ -11928,7 +11928,7 @@ In the end, the result was:
 
 > I refuse to be the janitor
 
-**RPRetribution** _(25-Jun-18 04:06 PM)_
+**RPretribution** _(25-Jun-18 04:06 PM)_
 
 > What ARE you?
 
@@ -11953,14 +11953,14 @@ In the end, the result was:
 > Strawberry Trifle
 > Strawberry Smoothie
 
-**RPRetribution** _(25-Jun-18 04:08 PM)_
+**RPretribution** _(25-Jun-18 04:08 PM)_
 
 > t!choose Strawberry Shortcake (with umbrella on top) | Rhubarb Pie | Chocolate Covered Strawberries | Stawberry Bread | Strawberry Muffins | Strawberry Angel Food Dessert | Starberry Ice Cream | Strawberry Trifle | Strawberry Smoothie
 
 **Tatsumaki** _(25-Jun-18 04:08 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > Strawberry Muffins
 > !
@@ -12041,7 +12041,7 @@ In the end, the result was:
 
 > 🎱 | Yeah, TheBlade.
 
-**RPRetribution** _(25-Jun-18 04:12 PM)_
+**RPretribution** _(25-Jun-18 04:12 PM)_
 
 > I would, but it's not my turn. Whatever that means.
 
@@ -12070,14 +12070,14 @@ In the end, the result was:
 > Shakes hands with Emmett
 > `So where are we heading?`
 
-**RPRetribution** _(25-Jun-18 04:17 PM)_
+**RPretribution** _(25-Jun-18 04:17 PM)_
 
 > t!choose guns | money | a mug | ptsd
 
 **Tatsumaki** _(25-Jun-18 04:17 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > ptsd
 > !
@@ -12153,7 +12153,7 @@ In the end, the result was:
 > medical supplies
 > !
 
-**RPRetribution** _(25-Jun-18 04:22 PM)_
+**RPretribution** _(25-Jun-18 04:22 PM)_
 
 > Hey, just be glad you got something.
 
@@ -12162,7 +12162,7 @@ In the end, the result was:
 > yeah, now we can heal
 > maybe I can heal your ptsd
 
-**RPRetribution** _(25-Jun-18 04:23 PM)_
+**RPretribution** _(25-Jun-18 04:23 PM)_
 
 > please
 
@@ -16840,7 +16840,7 @@ In the end, the result was:
 
 > `I'll put my sniper on this shelf...`
 
-**RPRetribution** _(02-Jul-18 05:17 PM)_
+**RPretribution** _(02-Jul-18 05:17 PM)_
 
 > This’ll be fun.
 
@@ -16866,7 +16866,7 @@ In the end, the result was:
 
 > 🎱 | Yay, Bagelwrecker.
 
-**RPRetribution** _(02-Jul-18 05:17 PM)_
+**RPretribution** _(02-Jul-18 05:17 PM)_
 
 > I could care less who I end up sharing a room with.
 
@@ -16886,7 +16886,7 @@ In the end, the result was:
 
 > I prefer not to see it literally every night.
 
-**RPRetribution** _(02-Jul-18 05:18 PM)_
+**RPretribution** _(02-Jul-18 05:18 PM)_
 
 > Are you alright, Seth?
 
@@ -16898,7 +16898,7 @@ In the end, the result was:
 
 > `He's drunk.`
 
-**RPRetribution** _(02-Jul-18 05:18 PM)_
+**RPretribution** _(02-Jul-18 05:18 PM)_
 
 > Oh.
 
@@ -16911,16 +16911,16 @@ In the end, the result was:
 > We'll get you a larger bed.
 > Or maybe hay?
 
-**RPRetribution** _(02-Jul-18 05:19 PM)_
+**RPretribution** _(02-Jul-18 05:19 PM)_
 
 > @Magic8Ball
 > does garrick find a room
 
 **Magic8Ball** _(02-Jul-18 05:19 PM)_
 
-> 🎱 | Next person decides for you, RPRetribution.
+> 🎱 | Next person decides for you, RPretribution.
 
-**RPRetribution** _(02-Jul-18 05:19 PM)_
+**RPretribution** _(02-Jul-18 05:19 PM)_
 
 > great
 
@@ -16960,7 +16960,7 @@ In the end, the result was:
 > Clouds are reallly expeensive
 > And wet
 
-**RPRetribution** _(02-Jul-18 05:19 PM)_
+**RPretribution** _(02-Jul-18 05:19 PM)_
 
 > How does a centaur sleep, anyways?
 > Standing up?
@@ -16981,7 +16981,7 @@ In the end, the result was:
 
 > I'm going back to the room I was in.
 
-**RPRetribution** _(02-Jul-18 05:20 PM)_
+**RPretribution** _(02-Jul-18 05:20 PM)_
 
 > Ah, ok.
 
@@ -16998,7 +16998,7 @@ In the end, the result was:
 
 > You know I can sleep with my eyes open?
 
-**RPRetribution** _(02-Jul-18 05:21 PM)_
+**RPretribution** _(02-Jul-18 05:21 PM)_
 
 > ...That’s weird.
 
@@ -17018,7 +17018,7 @@ In the end, the result was:
 
 > I learned how to do it back when I was maybe Emmett's age.
 
-**RPRetribution** _(02-Jul-18 05:21 PM)_
+**RPretribution** _(02-Jul-18 05:21 PM)_
 
 > You’re an... abomination.
 
@@ -17353,7 +17353,7 @@ In the end, the result was:
 
 > Is it the Dioop Monds?
 
-**RPRetribution** _(02-Jul-18 05:31 PM)_
+**RPretribution** _(02-Jul-18 05:31 PM)_
 
 > You guys really like alcohol, don'tcha?
 
@@ -17377,7 +17377,7 @@ In the end, the result was:
 
 > I don't think so, they have a no drunk rule at Space Disney
 
-**RPRetribution** _(02-Jul-18 05:32 PM)_
+**RPretribution** _(02-Jul-18 05:32 PM)_
 
 > I'd tag along, but I'm afraid of what would come out of it.
 
@@ -17391,7 +17391,7 @@ In the end, the result was:
 > Relax.
 > Celebrating.
 
-**RPRetribution** _(02-Jul-18 05:33 PM)_
+**RPretribution** _(02-Jul-18 05:33 PM)_
 
 > Whatever you say.
 
@@ -17407,7 +17407,7 @@ In the end, the result was:
 
 > Emmett, I'll come pilot for you.
 
-**RPRetribution** _(02-Jul-18 05:33 PM)_
+**RPretribution** _(02-Jul-18 05:33 PM)_
 
 > I can.
 
@@ -17419,7 +17419,7 @@ In the end, the result was:
 
 > You go drink and have fun
 
-**RPRetribution** _(02-Jul-18 05:33 PM)_
+**RPretribution** _(02-Jul-18 05:33 PM)_
 
 > Somehow.
 
@@ -17436,7 +17436,7 @@ In the end, the result was:
 
 > I've drank enough
 
-**RPRetribution** _(02-Jul-18 05:33 PM)_
+**RPretribution** _(02-Jul-18 05:33 PM)_
 
 > I don't know how eating or drinking works for ghosts but it does.
 
@@ -17513,20 +17513,20 @@ In the end, the result was:
 
 > Get out of here, ears.
 
-**RPRetribution** _(02-Jul-18 05:36 PM)_
+**RPretribution** _(02-Jul-18 05:36 PM)_
 
 > @Magic8Ball
 > does garrick drink
 
 **Magic8Ball** _(02-Jul-18 05:36 PM)_
 
-> 🎱 | Likely yes, RPRetribution.
+> 🎱 | Likely yes, RPretribution.
 
 **PlasmaPerson** _(02-Jul-18 05:36 PM)_
 
 > serpile but a humanish thing we should bail
 
-**RPRetribution** _(02-Jul-18 05:36 PM)_
+**RPretribution** _(02-Jul-18 05:36 PM)_
 
 > i see
 
@@ -17542,7 +17542,7 @@ In the end, the result was:
 
 > ecks de
 
-**RPRetribution** _(02-Jul-18 05:37 PM)_
+**RPretribution** _(02-Jul-18 05:37 PM)_
 
 > what's ecks Dr
 > please explain
@@ -17555,7 +17555,7 @@ In the end, the result was:
 
 > `More foorrr meeee!~`
 
-**RPRetribution** _(02-Jul-18 05:37 PM)_
+**RPretribution** _(02-Jul-18 05:37 PM)_
 
 > I'll take some, actually.
 
@@ -17585,7 +17585,7 @@ In the end, the result was:
 
 > Yes
 
-**RPRetribution** _(02-Jul-18 05:39 PM)_
+**RPretribution** _(02-Jul-18 05:39 PM)_
 
 > Great.
 
@@ -17593,7 +17593,7 @@ In the end, the result was:
 
 > Ok
 
-**RPRetribution** _(02-Jul-18 05:39 PM)_
+**RPretribution** _(02-Jul-18 05:39 PM)_
 
 > Don't-
 
@@ -17601,7 +17601,7 @@ In the end, the result was:
 
 > Thanks Emmett
 
-**RPRetribution** _(02-Jul-18 05:39 PM)_
+**RPretribution** _(02-Jul-18 05:39 PM)_
 
 > Don't do that.
 
@@ -17622,7 +17622,7 @@ In the end, the result was:
 
 > Savage
 
-**RPRetribution** _(02-Jul-18 05:39 PM)_
+**RPretribution** _(02-Jul-18 05:39 PM)_
 
 > Buzzkill.
 
@@ -17764,7 +17764,7 @@ In the end, the result was:
 
 > 🎱 | Lowercase no, Mica.
 
-**RPRetribution** _(02-Jul-18 05:43 PM)_
+**RPretribution** _(02-Jul-18 05:43 PM)_
 
 > What're we stealing?
 
@@ -17788,7 +17788,7 @@ In the end, the result was:
 
 > I'm going to steal it
 
-**RPRetribution** _(02-Jul-18 05:44 PM)_
+**RPretribution** _(02-Jul-18 05:44 PM)_
 
 > Good.
 
@@ -17809,7 +17809,7 @@ In the end, the result was:
 > @Magic8Ball
 > Does Maia mistake Seth for Emmett?
 
-**RPRetribution** _(02-Jul-18 05:44 PM)_
+**RPretribution** _(02-Jul-18 05:44 PM)_
 
 > Interesting.
 
@@ -17849,14 +17849,14 @@ In the end, the result was:
 
 > `oh great.`
 
-**RPRetribution** _(02-Jul-18 05:45 PM)_
+**RPretribution** _(02-Jul-18 05:45 PM)_
 
 > @Magic8Ball
 > have we arrived at space disney
 
 **Magic8Ball** _(02-Jul-18 05:45 PM)_
 
-> 🎱 | Likely yes, RPRetribution.
+> 🎱 | Likely yes, RPretribution.
 
 **Bagelwrecker** _(02-Jul-18 05:46 PM)_
 
@@ -17908,7 +17908,7 @@ In the end, the result was:
 > Pen
 > !
 
-**RPRetribution** _(02-Jul-18 05:48 PM)_
+**RPretribution** _(02-Jul-18 05:48 PM)_
 
 > We're close.
 > ...I think.
@@ -17963,7 +17963,7 @@ In the end, the result was:
 
 > There's an anti-drunk rule there
 
-**RPRetribution** _(02-Jul-18 05:48 PM)_
+**RPretribution** _(02-Jul-18 05:48 PM)_
 
 > Great job.
 
@@ -17971,7 +17971,7 @@ In the end, the result was:
 
 > `Woahhhh~`
 
-**RPRetribution** _(02-Jul-18 05:49 PM)_
+**RPretribution** _(02-Jul-18 05:49 PM)_
 
 > They won't notice.
 
@@ -17983,7 +17983,7 @@ In the end, the result was:
 
 > `That sounded bad. Should i check the damage?`
 
-**RPRetribution** _(02-Jul-18 05:49 PM)_
+**RPretribution** _(02-Jul-18 05:49 PM)_
 
 > It'll be fine!
 
@@ -18041,7 +18041,7 @@ In the end, the result was:
 
 > Very cool Maia
 
-**RPRetribution** _(02-Jul-18 05:51 PM)_
+**RPretribution** _(02-Jul-18 05:51 PM)_
 
 > Great.
 
@@ -18134,7 +18134,7 @@ In the end, the result was:
 
 > E
 
-**RPRetribution** _(02-Jul-18 05:53 PM)_
+**RPretribution** _(02-Jul-18 05:53 PM)_
 
 > Don't eat that.
 
@@ -18150,7 +18150,7 @@ In the end, the result was:
 
 > I'll take carre of you on the ship.
 
-**RPRetribution** _(02-Jul-18 05:53 PM)_
+**RPretribution** _(02-Jul-18 05:53 PM)_
 
 > I'll consider it.
 
@@ -18191,7 +18191,7 @@ In the end, the result was:
 
 > H
 
-**RPRetribution** _(02-Jul-18 05:54 PM)_
+**RPretribution** _(02-Jul-18 05:54 PM)_
 
 > As much as I'm curious to try it, I don't think they'll allow it at Space Disney.
 
@@ -18203,14 +18203,14 @@ In the end, the result was:
 
 > This is supposed to be PG.
 
-**RPRetribution** _(02-Jul-18 05:54 PM)_
+**RPretribution** _(02-Jul-18 05:54 PM)_
 
 > @Magic8Ball
 > does garrick jump out of the ship
 
 **Magic8Ball** _(02-Jul-18 05:54 PM)_
 
-> 🎱 | Next person decides for you, RPRetribution.
+> 🎱 | Next person decides for you, RPretribution.
 
 **TheBlade** _(02-Jul-18 05:54 PM)_
 
@@ -18220,7 +18220,7 @@ In the end, the result was:
 
 > `Emmett and Seth ride me!`
 
-**RPRetribution** _(02-Jul-18 05:54 PM)_
+**RPretribution** _(02-Jul-18 05:54 PM)_
 
 > Not at space disney.
 
@@ -18240,7 +18240,7 @@ In the end, the result was:
 
 > One gasoline ice cream comin' up!
 
-**RPRetribution** _(02-Jul-18 05:55 PM)_
+**RPretribution** _(02-Jul-18 05:55 PM)_
 
 > Gasoline ice cream?
 > Why?
@@ -18282,7 +18282,7 @@ In the end, the result was:
 
 > `i wish i could wipe my memory sometimes....`
 
-**RPRetribution** _(02-Jul-18 05:56 PM)_
+**RPretribution** _(02-Jul-18 05:56 PM)_
 
 > Are you guys staying, or...?
 
@@ -18333,7 +18333,7 @@ In the end, the result was:
 
 > 🎱 | Maybe, Zander.
 
-**RPRetribution** _(02-Jul-18 05:57 PM)_
+**RPretribution** _(02-Jul-18 05:57 PM)_
 
 > Haa! I don't even HAVE legs.
 
@@ -18354,7 +18354,7 @@ In the end, the result was:
 
 > Maia, you have anymore of that alcohol?
 
-**RPRetribution** _(02-Jul-18 05:58 PM)_
+**RPretribution** _(02-Jul-18 05:58 PM)_
 
 > Aaaah! I can't feel my legs!
 
@@ -18371,7 +18371,7 @@ In the end, the result was:
 
 > 🎱 | Next person decides for you, Finna Steel Christmas.
 
-**RPRetribution** _(02-Jul-18 05:58 PM)_
+**RPretribution** _(02-Jul-18 05:58 PM)_
 
 > help
 
@@ -18400,7 +18400,7 @@ In the end, the result was:
 > not yet, he has to join the crew first.
 > `This is a damn nightmare.`
 
-**RPRetribution** _(02-Jul-18 05:59 PM)_
+**RPretribution** _(02-Jul-18 05:59 PM)_
 
 > stop saying e
 
@@ -18476,7 +18476,7 @@ In the end, the result was:
 
 > Let them have fun.
 
-**RPRetribution** _(02-Jul-18 06:01 PM)_
+**RPretribution** _(02-Jul-18 06:01 PM)_
 
 > Be careful.
 
@@ -18494,7 +18494,7 @@ In the end, the result was:
 
 **Magic8Ball** _(02-Jul-18 06:01 PM)_
 
-> 🎱 | Lowercase no, RPRetribution.
+> 🎱 | Lowercase no, RPretribution.
 
 **Mica** _(02-Jul-18 06:01 PM)_
 
@@ -18561,7 +18561,7 @@ In the end, the result was:
 
 > I don't want you to get _the crave_
 
-**RPRetribution** _(02-Jul-18 06:04 PM)_
+**RPretribution** _(02-Jul-18 06:04 PM)_
 
 > Are we going to get tickets or what?
 
@@ -18569,7 +18569,7 @@ In the end, the result was:
 
 > `The Crave?`
 
-**RPRetribution** _(02-Jul-18 06:04 PM)_
+**RPretribution** _(02-Jul-18 06:04 PM)_
 
 > @Magic8Ball
 > Does garrick enter the park without a ticket
@@ -18580,9 +18580,9 @@ In the end, the result was:
 
 **Magic8Ball** _(02-Jul-18 06:04 PM)_
 
-> 🎱 | Y35, RPRetribution.
+> 🎱 | Y35, RPretribution.
 
-**RPRetribution** _(02-Jul-18 06:05 PM)_
+**RPretribution** _(02-Jul-18 06:05 PM)_
 
 > This is taking too long.
 
@@ -18599,7 +18599,7 @@ In the end, the result was:
 > garrick
 > Why
 
-**RPRetribution** _(02-Jul-18 06:05 PM)_
+**RPretribution** _(02-Jul-18 06:05 PM)_
 
 > I told you. It was taking too long.
 
@@ -18616,7 +18616,7 @@ In the end, the result was:
 
 > 🎱 | Lowercase yes, Zander.
 
-**RPRetribution** _(02-Jul-18 06:05 PM)_
+**RPretribution** _(02-Jul-18 06:05 PM)_
 
 > Also, I don't have a lot of money with me.
 
@@ -18633,7 +18633,7 @@ In the end, the result was:
 
 > What'd you forget?
 
-**RPRetribution** _(02-Jul-18 06:06 PM)_
+**RPretribution** _(02-Jul-18 06:06 PM)_
 
 > And I'm kinda drunk. But whatever, let's go.
 
@@ -18665,7 +18665,7 @@ In the end, the result was:
 
 > `STRONGGGGG~`
 
-**RPRetribution** _(02-Jul-18 06:06 PM)_
+**RPretribution** _(02-Jul-18 06:06 PM)_
 
 > Asier.
 
@@ -18678,7 +18678,7 @@ In the end, the result was:
 
 > 🎱 | Person who just went decides for you, TheBlade.
 
-**RPRetribution** _(02-Jul-18 06:06 PM)_
+**RPretribution** _(02-Jul-18 06:06 PM)_
 
 > Hurry up.
 
@@ -18703,7 +18703,7 @@ In the end, the result was:
 > Jurisdiction
 > Yes
 
-**RPRetribution** _(02-Jul-18 06:07 PM)_
+**RPretribution** _(02-Jul-18 06:07 PM)_
 
 > Fine, whatever.
 
@@ -18745,7 +18745,7 @@ In the end, the result was:
 
 > Dragon Bois
 
-**RPRetribution** _(02-Jul-18 06:08 PM)_
+**RPretribution** _(02-Jul-18 06:08 PM)_
 
 > You guys pay for tickets. I'm gonna go hide by the concessions.
 
@@ -18875,7 +18875,7 @@ In the end, the result was:
 
 > Awh, crap. I don't like seeing you unhappy, Maia.
 
-**RPRetribution** _(02-Jul-18 06:12 PM)_
+**RPretribution** _(02-Jul-18 06:12 PM)_
 
 > This is a mess.
 
@@ -18900,7 +18900,7 @@ In the end, the result was:
 
 > She said that she's too big.
 
-**RPRetribution** _(02-Jul-18 06:12 PM)_
+**RPretribution** _(02-Jul-18 06:12 PM)_
 
 > neigh
 
@@ -18929,7 +18929,7 @@ In the end, the result was:
 
 > 🎱 | Yeah, Bagelwrecker.
 
-**RPRetribution** _(02-Jul-18 06:13 PM)_
+**RPretribution** _(02-Jul-18 06:13 PM)_
 
 > What's going on in there?
 
@@ -18991,14 +18991,14 @@ In the end, the result was:
 
 > `OK, can we just all go into Disney please?!`
 
-**RPRetribution** _(02-Jul-18 06:15 PM)_
+**RPretribution** _(02-Jul-18 06:15 PM)_
 
 > @Magic8Ball
 > does garrick hide somewhere and wait for asier and jim
 
 **Magic8Ball** _(02-Jul-18 06:15 PM)_
 
-> 🎱 | Likely yes, RPRetribution.
+> 🎱 | Likely yes, RPretribution.
 
 **Mica** _(02-Jul-18 06:15 PM)_
 
@@ -19012,7 +19012,7 @@ In the end, the result was:
 
 > Senors I'm over the border
 
-**RPRetribution** _(02-Jul-18 06:15 PM)_
+**RPretribution** _(02-Jul-18 06:15 PM)_
 
 > You're not technically wrong, Jim.
 
@@ -19058,7 +19058,7 @@ In the end, the result was:
 
 > it is time
 
-**RPRetribution** _(02-Jul-18 06:17 PM)_
+**RPretribution** _(02-Jul-18 06:17 PM)_
 
 > Woo! Let's go!
 
@@ -19133,7 +19133,7 @@ In the end, the result was:
 
 > 🎱 | YES, Bagelwrecker.
 
-**RPRetribution** _(02-Jul-18 06:20 PM)_
+**RPretribution** _(02-Jul-18 06:20 PM)_
 
 > I don't want to dress up as emmett...
 
@@ -19228,14 +19228,14 @@ In the end, the result was:
 
 > `What's the Crave?`
 
-**RPRetribution** _(02-Jul-18 06:23 PM)_
+**RPretribution** _(02-Jul-18 06:23 PM)_
 
 > @Magic8Ball
 > does garrick take off the emmett costume
 
 **Magic8Ball** _(02-Jul-18 06:23 PM)_
 
-> 🎱 | Nay, RPRetribution.
+> 🎱 | Nay, RPretribution.
 
 **Mica** _(02-Jul-18 06:23 PM)_
 
@@ -19245,7 +19245,7 @@ In the end, the result was:
 
 > It's when Emmett goes insane.
 
-**RPRetribution** _(02-Jul-18 06:23 PM)_
+**RPretribution** _(02-Jul-18 06:23 PM)_
 
 > i hate this
 
@@ -19380,7 +19380,7 @@ In the end, the result was:
 
 > `That is crystal intergalactic Poaceae`
 
-**RPRetribution** _(02-Jul-18 06:27 PM)_
+**RPretribution** _(02-Jul-18 06:27 PM)_
 
 > What.
 
@@ -19420,7 +19420,7 @@ In the end, the result was:
 
 > `Emmett, where are you going?`
 
-**RPRetribution** _(02-Jul-18 06:27 PM)_
+**RPretribution** _(02-Jul-18 06:27 PM)_
 
 > Cashier. What's your most valueable item?
 
@@ -19436,7 +19436,7 @@ In the end, the result was:
 
 > take their stuff!
 
-**RPRetribution** _(02-Jul-18 06:28 PM)_
+**RPretribution** _(02-Jul-18 06:28 PM)_
 
 > I don't think they speak english.
 
@@ -19457,7 +19457,7 @@ In the end, the result was:
 > My Mommy once told me
 > The world was gonna roll me.
 
-**RPRetribution** _(02-Jul-18 06:28 PM)_
+**RPretribution** _(02-Jul-18 06:28 PM)_
 
 > Dame todo tu dinero o destruiré esta tienda de regalos.
 
@@ -19515,7 +19515,7 @@ In the end, the result was:
 
 > `Don't come in my roomm because I will be in the nude.`
 
-**RPRetribution** _(02-Jul-18 06:29 PM)_
+**RPretribution** _(02-Jul-18 06:29 PM)_
 
 > "Por favor, toma el dinero y vete!"
 
@@ -19552,7 +19552,7 @@ In the end, the result was:
 
 > `...no..just no...`
 
-**RPRetribution** _(02-Jul-18 06:31 PM)_
+**RPretribution** _(02-Jul-18 06:31 PM)_
 
 > Asier, tenemos- uh, I mean, i stole a bunch of money. Let's go.
 
@@ -19588,14 +19588,14 @@ In the end, the result was:
 
 > Black people
 
-**RPRetribution** _(02-Jul-18 06:33 PM)_
+**RPretribution** _(02-Jul-18 06:33 PM)_
 
 > t!choose another gift shop | steal people
 
 **Tatsumaki** _(02-Jul-18 06:33 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > steal people
 > !
@@ -19620,7 +19620,7 @@ In the end, the result was:
 > men
 > !
 
-**RPRetribution** _(02-Jul-18 06:34 PM)_
+**RPretribution** _(02-Jul-18 06:34 PM)_
 
 > WE'LL TAKE THE MEN AND USE THEM AS OUR LABOR SLAVES!
 
@@ -19666,7 +19666,7 @@ In the end, the result was:
 
 > 🎱 | N0, TheBlade.
 
-**RPRetribution** _(02-Jul-18 06:35 PM)_
+**RPretribution** _(02-Jul-18 06:35 PM)_
 
 > Fine.
 
@@ -19678,7 +19678,7 @@ In the end, the result was:
 
 > nah, it's just slavery
 
-**RPRetribution** _(02-Jul-18 06:35 PM)_
+**RPretribution** _(02-Jul-18 06:35 PM)_
 
 > We'll take the women and children.
 
@@ -19819,7 +19819,7 @@ In the end, the result was:
 
 > THIS IS WEED, YOU IDIOT.
 
-**RPRetribution** _(02-Jul-18 06:40 PM)_
+**RPretribution** _(02-Jul-18 06:40 PM)_
 
 > I have no arms!
 
@@ -19840,14 +19840,14 @@ In the end, the result was:
 > "ooooooof"
 > RUN!
 
-**RPRetribution** _(02-Jul-18 06:41 PM)_
+**RPretribution** _(02-Jul-18 06:41 PM)_
 
 > t!choose 5 | 10 | 20
 
 **Tatsumaki** _(02-Jul-18 06:41 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > 10
 > !
@@ -19860,7 +19860,7 @@ In the end, the result was:
 
 > KEEP STEALING MORE PEOPLE
 
-**RPRetribution** _(02-Jul-18 06:41 PM)_
+**RPretribution** _(02-Jul-18 06:41 PM)_
 
 > Don't shoot us! We have hostages!
 
@@ -19881,7 +19881,7 @@ In the end, the result was:
 
 > 🎱 | Wait to ask this again, Zander.
 
-**RPRetribution** _(02-Jul-18 06:42 PM)_
+**RPretribution** _(02-Jul-18 06:42 PM)_
 
 > I'll shoot the children!
 
@@ -19897,7 +19897,7 @@ In the end, the result was:
 
 > And I'll shoot the woman!
 
-**RPRetribution** _(02-Jul-18 06:42 PM)_
+**RPretribution** _(02-Jul-18 06:42 PM)_
 
 > I'll do it.
 
@@ -19931,7 +19931,7 @@ In the end, the result was:
 
 > "If you want grass go into the museum!"
 
-**RPRetribution** _(02-Jul-18 06:43 PM)_
+**RPretribution** _(02-Jul-18 06:43 PM)_
 
 > I don't even know these people and also i'm still a little drunk but yeah i'll shoot the children
 
@@ -19964,7 +19964,7 @@ In the end, the result was:
 
 > Leutenient
 
-**RPRetribution** _(02-Jul-18 06:44 PM)_
+**RPretribution** _(02-Jul-18 06:44 PM)_
 
 > Asier, let's take more people and get out of here!
 
@@ -19988,7 +19988,7 @@ In the end, the result was:
 
 > Mommy come and take me away
 
-**RPRetribution** _(02-Jul-18 06:45 PM)_
+**RPretribution** _(02-Jul-18 06:45 PM)_
 
 > Let's just take the slaves back to the ship.
 
@@ -20029,7 +20029,7 @@ In the end, the result was:
 
 > MORE POLICE RAIDS!
 
-**RPRetribution** _(02-Jul-18 06:46 PM)_
+**RPretribution** _(02-Jul-18 06:46 PM)_
 
 > That's enough police...
 > I'm kidding.
@@ -20046,7 +20046,7 @@ In the end, the result was:
 
 > BLOOOD
 
-**RPRetribution** _(02-Jul-18 06:46 PM)_
+**RPretribution** _(02-Jul-18 06:46 PM)_
 
 > WOOOOOOOO
 
@@ -20067,14 +20067,14 @@ In the end, the result was:
 
 > BLACK PEOPLE
 
-**RPRetribution** _(02-Jul-18 06:47 PM)_
+**RPretribution** _(02-Jul-18 06:47 PM)_
 
 > t!choose take the slaves back to the ship | take more slaves and go back to the ship
 
 **Tatsumaki** _(02-Jul-18 06:47 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > take more slaves and go back to the ship
 > !
@@ -20083,7 +20083,7 @@ In the end, the result was:
 
 > Great we got Mickey Mouse's ghost following us.
 
-**RPRetribution** _(02-Jul-18 06:48 PM)_
+**RPretribution** _(02-Jul-18 06:48 PM)_
 
 > Alright, I'm going back to the ship before I cause any more damage.
 
@@ -20117,7 +20117,7 @@ In the end, the result was:
 > @Magic8Ball
 > does Emmett actually eat them
 
-**RPRetribution** _(02-Jul-18 06:50 PM)_
+**RPretribution** _(02-Jul-18 06:50 PM)_
 
 > Hey, what'd I miss?
 
@@ -20154,16 +20154,16 @@ In the end, the result was:
 
 > God damnit
 
-**RPRetribution** _(02-Jul-18 06:52 PM)_
+**RPretribution** _(02-Jul-18 06:52 PM)_
 
 > @Magic8Ball
 > does garrick enter the ship yelling
 
 **Magic8Ball** _(02-Jul-18 06:52 PM)_
 
-> 🎱 | Likely yes, RPRetribution.
+> 🎱 | Likely yes, RPretribution.
 
-**RPRetribution** _(02-Jul-18 06:52 PM)_
+**RPretribution** _(02-Jul-18 06:52 PM)_
 
 > WWWHHHOOOOOOOO'SSSS HOOOOOOMMMMEEEE
 
@@ -20176,7 +20176,7 @@ In the end, the result was:
 > Not you
 > Bye
 
-**RPRetribution** _(02-Jul-18 06:52 PM)_
+**RPretribution** _(02-Jul-18 06:52 PM)_
 
 > WHERE ARE YOU
 
@@ -20240,7 +20240,7 @@ In the end, the result was:
 
 > Here you go
 
-**RPRetribution** _(02-Jul-18 06:54 PM)_
+**RPretribution** _(02-Jul-18 06:54 PM)_
 
 > Oh, ok.
 > Hey guys.
@@ -20314,7 +20314,7 @@ In the end, the result was:
 
 > 🎱 | Likely yes, Zander.
 
-**RPRetribution** _(02-Jul-18 06:58 PM)_
+**RPretribution** _(02-Jul-18 06:58 PM)_
 
 > What's with the grass?
 > Why do you need it so much?
@@ -20390,7 +20390,7 @@ In the end, the result was:
 
 > Thought ahead of you already.
 
-**RPRetribution** _(02-Jul-18 07:03 PM)_
+**RPretribution** _(02-Jul-18 07:03 PM)_
 
 > What am I supposed to do with all these slaves?
 
@@ -20398,7 +20398,7 @@ In the end, the result was:
 
 > Autopilot is taking us there right now.
 
-**RPRetribution** _(02-Jul-18 07:04 PM)_
+**RPretribution** _(02-Jul-18 07:04 PM)_
 
 > Does anyone want all these children?
 
@@ -20406,7 +20406,7 @@ In the end, the result was:
 
 > hey garrick?
 
-**RPRetribution** _(02-Jul-18 07:04 PM)_
+**RPretribution** _(02-Jul-18 07:04 PM)_
 
 > Yeah?
 
@@ -20414,7 +20414,7 @@ In the end, the result was:
 
 > HAVE YOU EVER THOUGHT OF HAVING CHILDREN?
 
-**RPRetribution** _(02-Jul-18 07:05 PM)_
+**RPretribution** _(02-Jul-18 07:05 PM)_
 
 > There aren't a lot of ghosts on Earth.
 > So no, not really.
@@ -20442,7 +20442,7 @@ In the end, the result was:
 
 > I'm about to do something relating to u
 
-**RPRetribution** _(02-Jul-18 07:06 PM)_
+**RPretribution** _(02-Jul-18 07:06 PM)_
 
 > Seth, do you want 8 children?
 
@@ -20451,7 +20451,7 @@ In the end, the result was:
 > Nope.
 > Let's airlock them
 
-**RPRetribution** _(02-Jul-18 07:06 PM)_
+**RPretribution** _(02-Jul-18 07:06 PM)_
 
 > Uh...
 
@@ -20459,7 +20459,7 @@ In the end, the result was:
 
 > I the spooky ghost posses the Micky mouse toy
 
-**RPRetribution** _(02-Jul-18 07:07 PM)_
+**RPretribution** _(02-Jul-18 07:07 PM)_
 
 > I mean, we could sell them.
 
@@ -20467,7 +20467,7 @@ In the end, the result was:
 
 > EAT THEM.
 
-**RPRetribution** _(02-Jul-18 07:07 PM)_
+**RPretribution** _(02-Jul-18 07:07 PM)_
 
 > I... don't want to eat them.
 
@@ -20475,19 +20475,19 @@ In the end, the result was:
 
 > haha do you like squeaky toys
 
-**RPRetribution** _(02-Jul-18 07:08 PM)_
+**RPretribution** _(02-Jul-18 07:08 PM)_
 
 > t!choose sell | airlock | put them up for adoption
 
 **Tatsumaki** _(02-Jul-18 07:08 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > airlock
 > !
 
-**RPRetribution** _(02-Jul-18 07:09 PM)_
+**RPretribution** _(02-Jul-18 07:09 PM)_
 
 > Here you go, seth.
 > Airlock them.
@@ -20504,7 +20504,7 @@ In the end, the result was:
 
 > No gold here
 
-**RPRetribution** _(02-Jul-18 07:10 PM)_
+**RPretribution** _(02-Jul-18 07:10 PM)_
 
 > Go away.
 
@@ -20522,7 +20522,7 @@ In the end, the result was:
 > I feel a little better.
 > Still shitty.
 
-**RPRetribution** _(02-Jul-18 07:11 PM)_
+**RPretribution** _(02-Jul-18 07:11 PM)_
 
 > Now what should I do with the women...
 
@@ -20543,7 +20543,7 @@ In the end, the result was:
 
 > Um the slaves.
 
-**RPRetribution** _(02-Jul-18 07:11 PM)_
+**RPretribution** _(02-Jul-18 07:11 PM)_
 
 > Yeah.
 
@@ -20559,7 +20559,7 @@ In the end, the result was:
 
 > I'll try not to kill everyone.
 
-**RPRetribution** _(02-Jul-18 07:12 PM)_
+**RPretribution** _(02-Jul-18 07:12 PM)_
 
 > I'll probably do something dumb.
 > Alright. Slaves. Do you all speak english?
@@ -20568,7 +20568,7 @@ In the end, the result was:
 
 > the slates pardon me I can't say bad words as a Micky mouse ghost
 
-**RPRetribution** _(02-Jul-18 07:13 PM)_
+**RPretribution** _(02-Jul-18 07:13 PM)_
 
 > "Uimh."
 
@@ -20580,7 +20580,7 @@ In the end, the result was:
 
 > Yeah Emmett?
 
-**RPRetribution** _(02-Jul-18 07:14 PM)_
+**RPretribution** _(02-Jul-18 07:14 PM)_
 
 > Someone else can have you.
 
@@ -20598,10 +20598,10 @@ In the end, the result was:
 
 **Zander** _(02-Jul-18 07:15 PM)_
 
-> @RPRetribution
+> @RPretribution
 > u r slatw
 
-**RPRetribution** _(02-Jul-18 07:15 PM)_
+**RPretribution** _(02-Jul-18 07:15 PM)_
 
 > oh no
 
@@ -20622,14 +20622,14 @@ In the end, the result was:
 
 > 🎱 | Resounding no, Bagelwrecker.
 
-**RPRetribution** _(02-Jul-18 07:17 PM)_
+**RPretribution** _(02-Jul-18 07:17 PM)_
 
 > @Magic8Ball
 > does garrick go to a room
 
 **Magic8Ball** _(02-Jul-18 07:17 PM)_
 
-> 🎱 | NO, RPRetribution.
+> 🎱 | NO, RPretribution.
 
 **Zander** _(02-Jul-18 07:17 PM)_
 
@@ -22663,7 +22663,7 @@ In the end, the result was:
 
 > `No, we spent all our money on booze.`
 
-**RPRetribution** _(21-Jul-18 05:34 PM)_
+**RPretribution** _(21-Jul-18 05:34 PM)_
 
 > Hey, what’d I miss-
 > Oh.
@@ -22709,7 +22709,7 @@ In the end, the result was:
 
 > Maia, hold my hoof.
 
-**RPRetribution** _(21-Jul-18 05:36 PM)_
+**RPretribution** _(21-Jul-18 05:36 PM)_
 
 > Don’t do that!
 
@@ -22721,7 +22721,7 @@ In the end, the result was:
 
 > (She holds his cloven hoof with her soft human hand)
 
-**RPRetribution** _(21-Jul-18 05:36 PM)_
+**RPretribution** _(21-Jul-18 05:36 PM)_
 
 > Can’t we just let them in?
 > We don’t need to breathe.
@@ -22736,7 +22736,7 @@ In the end, the result was:
 > Garrick, I have a feeling that you don't know about me.
 > Or Seth.
 
-**RPRetribution** _(21-Jul-18 05:37 PM)_
+**RPretribution** _(21-Jul-18 05:37 PM)_
 
 > Good point.
 
@@ -22758,7 +22758,7 @@ In the end, the result was:
 
 > I miss the elf oxygen.
 
-**RPRetribution** _(21-Jul-18 05:38 PM)_
+**RPretribution** _(21-Jul-18 05:38 PM)_
 
 > so where are we currently
 > ok
@@ -22792,7 +22792,7 @@ In the end, the result was:
 > Nick and then Mica
 > Nick is Wobbly
 
-**RPRetribution** _(21-Jul-18 05:40 PM)_
+**RPretribution** _(21-Jul-18 05:40 PM)_
 
 > jim is immortal
 
@@ -22850,7 +22850,7 @@ In the end, the result was:
 > (Not randomly)
 > (But purposefully)
 
-**RPRetribution** _(21-Jul-18 05:42 PM)_
+**RPretribution** _(21-Jul-18 05:42 PM)_
 
 > Space is scary and spooky.
 
@@ -22866,7 +22866,7 @@ In the end, the result was:
 
 > (She already announced that she was scared)
 
-**RPRetribution** _(21-Jul-18 05:42 PM)_
+**RPretribution** _(21-Jul-18 05:42 PM)_
 
 > m
 
@@ -22896,7 +22896,7 @@ In the end, the result was:
 
 > I can get down.
 
-**RPRetribution** _(21-Jul-18 05:43 PM)_
+**RPretribution** _(21-Jul-18 05:43 PM)_
 
 > are we on our ship or another ship
 
@@ -22934,7 +22934,7 @@ In the end, the result was:
 
 > ‘What’s happening out there???’
 
-**RPRetribution** _(21-Jul-18 05:44 PM)_
+**RPretribution** _(21-Jul-18 05:44 PM)_
 
 > As long as we don’t die, everything should be totally fine.
 
@@ -22946,17 +22946,17 @@ In the end, the result was:
 
 > `Give me more time, ill find a way in.`
 
-**RPRetribution** _(21-Jul-18 05:44 PM)_
+**RPretribution** _(21-Jul-18 05:44 PM)_
 
 > t!8ball does garrick stand around idly
 
 **Tatsumaki** _(21-Jul-18 05:44 PM)_
 
 > 🎱 | Ask again later,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(21-Jul-18 05:44 PM)_
+**RPretribution** _(21-Jul-18 05:44 PM)_
 
 > 🤔
 
@@ -22980,7 +22980,7 @@ In the end, the result was:
 
 > `Gotcha`
 
-**RPRetribution** _(21-Jul-18 05:45 PM)_
+**RPretribution** _(21-Jul-18 05:45 PM)_
 
 > mettaton
 
@@ -22988,7 +22988,7 @@ In the end, the result was:
 
 > Go and fly into their ship and possess something.
 
-**RPRetribution** _(21-Jul-18 05:45 PM)_
+**RPretribution** _(21-Jul-18 05:45 PM)_
 
 > “robots and ghosts are the same thing”
 > mettaton
@@ -23014,7 +23014,7 @@ In the end, the result was:
 > TheBlade
 > .
 
-**RPRetribution** _(21-Jul-18 05:46 PM)_
+**RPretribution** _(21-Jul-18 05:46 PM)_
 
 > brb
 
@@ -23412,7 +23412,7 @@ In the end, the result was:
 
 > ‘I’ll be in my room.’
 
-**RPRetribution** _(21-Jul-18 06:05 PM)_
+**RPretribution** _(21-Jul-18 06:05 PM)_
 
 > sup nerds what did i miss
 
@@ -23420,7 +23420,7 @@ In the end, the result was:
 
 > Alright!
 
-**RPRetribution** _(21-Jul-18 06:05 PM)_
+**RPretribution** _(21-Jul-18 06:05 PM)_
 
 > nice
 
@@ -23428,7 +23428,7 @@ In the end, the result was:
 
 > ‘Dear Diary, why am I so emotional?’
 
-**RPRetribution** _(21-Jul-18 06:05 PM)_
+**RPretribution** _(21-Jul-18 06:05 PM)_
 
 > should i bring out a weapon or something
 > t!choose gun | hammer | gun again
@@ -23436,12 +23436,12 @@ In the end, the result was:
 **Tatsumaki** _(21-Jul-18 06:07 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > gun again
 > !
 
-**RPRetribution** _(21-Jul-18 06:07 PM)_
+**RPretribution** _(21-Jul-18 06:07 PM)_
 
 > nice
 > oh ok
@@ -23450,7 +23450,7 @@ In the end, the result was:
 
 > (Jim Puts on new hallmate)
 
-**RPRetribution** _(21-Jul-18 06:07 PM)_
+**RPretribution** _(21-Jul-18 06:07 PM)_
 
 > two pistols then
 > Nice, I found two pistols.
@@ -23476,7 +23476,7 @@ In the end, the result was:
 
 > (Jim finds his way back on pirate ship)
 
-**RPRetribution** _(21-Jul-18 06:08 PM)_
+**RPretribution** _(21-Jul-18 06:08 PM)_
 
 >
 
@@ -23484,7 +23484,7 @@ In the end, the result was:
 
 > `I WANT ALL OF YOU DAMN FILTHY HERETICS OFF MY SHIP NOW`
 
-**RPRetribution** _(21-Jul-18 06:09 PM)_
+**RPretribution** _(21-Jul-18 06:09 PM)_
 
 > @space marine do you use a fleshlight as a weapon
 
@@ -23501,7 +23501,7 @@ In the end, the result was:
 > 🆙 |
 > Brakia leveled up!
 
-**RPRetribution** _(21-Jul-18 06:09 PM)_
+**RPretribution** _(21-Jul-18 06:09 PM)_
 
 > Aw, but that’s no fun.
 
@@ -23517,7 +23517,7 @@ In the end, the result was:
 
 > `IN THE NAME OF THE HOLY GOD EMPEROR I SHALL SMITE YOU WITH RITCHEOUS FURY FOR WE ARE THE EMPEROR'S WRATH!!!`
 
-**RPRetribution** _(21-Jul-18 06:10 PM)_
+**RPretribution** _(21-Jul-18 06:10 PM)_
 
 > is this guy in front of us
 
@@ -23525,7 +23525,7 @@ In the end, the result was:
 
 > no u
 
-**RPRetribution** _(21-Jul-18 06:10 PM)_
+**RPretribution** _(21-Jul-18 06:10 PM)_
 
 > in shooting range
 
@@ -23554,17 +23554,17 @@ In the end, the result was:
 
 > I bet your emperor shoves his cock up your ass everyday.
 
-**RPRetribution** _(21-Jul-18 06:11 PM)_
+**RPretribution** _(21-Jul-18 06:11 PM)_
 
 > t!8ball does garrick start shooting at the guy aimlessly
 
 **Tatsumaki** _(21-Jul-18 06:11 PM)_
 
 > 🎱 | As I see it, yes,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(21-Jul-18 06:11 PM)_
+**RPretribution** _(21-Jul-18 06:11 PM)_
 
 > alright
 > basically
@@ -23579,7 +23579,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(21-Jul-18 06:11 PM)_
+**RPretribution** _(21-Jul-18 06:11 PM)_
 
 > I don’t really know how to use these, so let me know if I hit you.
 
@@ -23588,7 +23588,7 @@ In the end, the result was:
 > Oopsies, out of ammo.
 > Gotta recharge.
 
-**RPRetribution** _(21-Jul-18 06:12 PM)_
+**RPretribution** _(21-Jul-18 06:12 PM)_
 
 > there should be a table with literally all the enemies on it
 
@@ -23606,7 +23606,7 @@ In the end, the result was:
 
 > `Another direct shot!`
 
-**RPRetribution** _(21-Jul-18 06:12 PM)_
+**RPretribution** _(21-Jul-18 06:12 PM)_
 
 > no
 > also i’m on my phone so
@@ -23619,7 +23619,7 @@ In the end, the result was:
 
 > pene
 
-**RPRetribution** _(21-Jul-18 06:13 PM)_
+**RPretribution** _(21-Jul-18 06:13 PM)_
 
 > el pene
 
@@ -23657,7 +23657,7 @@ In the end, the result was:
 
 > peni pe pe?
 
-**RPRetribution** _(21-Jul-18 06:14 PM)_
+**RPretribution** _(21-Jul-18 06:14 PM)_
 
 > Nice job... you.
 > I forgot your name.
@@ -23670,7 +23670,7 @@ In the end, the result was:
 
 > `It's Ibraxas.`
 
-**RPRetribution** _(21-Jul-18 06:15 PM)_
+**RPretribution** _(21-Jul-18 06:15 PM)_
 
 > Oh, got it.
 
@@ -23691,7 +23691,7 @@ In the end, the result was:
 > Your emperor is also a faggot.
 > I'll gas him.
 
-**RPRetribution** _(21-Jul-18 06:15 PM)_
+**RPretribution** _(21-Jul-18 06:15 PM)_
 
 > What are you, a transformer or something?
 
@@ -23718,7 +23718,7 @@ In the end, the result was:
 
 > CRAP HIS ARMOR IS TOO STRONG
 
-**RPRetribution** _(21-Jul-18 06:16 PM)_
+**RPretribution** _(21-Jul-18 06:16 PM)_
 
 > Dude, you look gay.
 > snrk
@@ -23737,7 +23737,7 @@ In the end, the result was:
 
 > What
 
-**RPRetribution** _(21-Jul-18 06:16 PM)_
+**RPretribution** _(21-Jul-18 06:16 PM)_
 
 > read my message
 
@@ -23749,7 +23749,7 @@ In the end, the result was:
 
 > I'll gas him like I did with those filthy fucking Waterelves.
 
-**RPRetribution** _(21-Jul-18 06:17 PM)_
+**RPretribution** _(21-Jul-18 06:17 PM)_
 
 > FUNNIE
 > @PlasmaPerson
@@ -23765,7 +23765,7 @@ In the end, the result was:
 > Mr.WobblyShark
 > .
 
-**RPRetribution** _(21-Jul-18 06:17 PM)_
+**RPretribution** _(21-Jul-18 06:17 PM)_
 
 > IDIOT
 > no you didn’t
@@ -23781,7 +23781,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(21-Jul-18 06:17 PM)_
+**RPretribution** _(21-Jul-18 06:17 PM)_
 
 > yeah smh
 > PFFT
@@ -23806,7 +23806,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(21-Jul-18 06:18 PM)_
+**RPretribution** _(21-Jul-18 06:18 PM)_
 
 > ...Do you just keep that on you?
 
@@ -23840,7 +23840,7 @@ In the end, the result was:
 
 > `Get Stabbed, BEEAATCH!`
 
-**RPRetribution** _(21-Jul-18 06:19 PM)_
+**RPretribution** _(21-Jul-18 06:19 PM)_
 
 > WOOOOO! Nice job, Tim!
 
@@ -23853,7 +23853,7 @@ In the end, the result was:
 
 > Hey space marine, my gods are better and actually exist.
 
-**RPRetribution** _(21-Jul-18 06:20 PM)_
+**RPretribution** _(21-Jul-18 06:20 PM)_
 
 > Yeah?
 
@@ -23861,7 +23861,7 @@ In the end, the result was:
 
 > `WOAH YES THAT FEAL...wait, did you just call me "Tim"?`
 
-**RPRetribution** _(21-Jul-18 06:20 PM)_
+**RPretribution** _(21-Jul-18 06:20 PM)_
 
 > stop screaming into the mic
 > Uh... is that not your name?
@@ -23870,7 +23870,7 @@ In the end, the result was:
 
 > `Its Jim...`
 
-**RPRetribution** _(21-Jul-18 06:20 PM)_
+**RPretribution** _(21-Jul-18 06:20 PM)_
 
 > Oh... sorry.
 
@@ -23894,7 +23894,7 @@ In the end, the result was:
 
 > don't get people's names wrong, garlic
 
-**RPRetribution** _(21-Jul-18 06:22 PM)_
+**RPretribution** _(21-Jul-18 06:22 PM)_
 
 > Shut up, Alier.
 
@@ -23903,7 +23903,7 @@ In the end, the result was:
 > ha I get it
 > A lier
 
-**RPRetribution** _(21-Jul-18 06:22 PM)_
+**RPretribution** _(21-Jul-18 06:22 PM)_
 
 > Yeah, I know your name. I just wanted to make you mad.
 
@@ -23911,7 +23911,7 @@ In the end, the result was:
 
 > `Bigger problems here, guys!`
 
-**RPRetribution** _(21-Jul-18 06:22 PM)_
+**RPretribution** _(21-Jul-18 06:22 PM)_
 
 > Alright, alright, fine!
 
@@ -23927,17 +23927,17 @@ In the end, the result was:
 
 > Look, my spacenet just activated and this dude was supposedly framed.
 
-**RPRetribution** _(21-Jul-18 06:23 PM)_
+**RPretribution** _(21-Jul-18 06:23 PM)_
 
 > t!8ball does garrick start shooting at lodas again
 
 **Tatsumaki** _(21-Jul-18 06:23 PM)_
 
 > 🎱 | Better not tell you now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(21-Jul-18 06:23 PM)_
+**RPretribution** _(21-Jul-18 06:23 PM)_
 
 > 🤔
 
@@ -23945,7 +23945,7 @@ In the end, the result was:
 
 > `Hey, "Mr. Space Happy shitsallot" Wanna know whats good about being half robot?`
 
-**RPRetribution** _(21-Jul-18 06:23 PM)_
+**RPretribution** _(21-Jul-18 06:23 PM)_
 
 >
 
@@ -23953,7 +23953,7 @@ In the end, the result was:
 
 > wait what
 
-**RPRetribution** _(21-Jul-18 06:23 PM)_
+**RPretribution** _(21-Jul-18 06:23 PM)_
 
 > do i get to go again
 
@@ -24018,7 +24018,7 @@ In the end, the result was:
 
 > What type of beer you got?
 
-**RPRetribution** _(21-Jul-18 06:25 PM)_
+**RPretribution** _(21-Jul-18 06:25 PM)_
 
 > Kill the drunk.
 
@@ -24026,7 +24026,7 @@ In the end, the result was:
 
 > I'm thirsty.
 
-**RPRetribution** _(21-Jul-18 06:25 PM)_
+**RPretribution** _(21-Jul-18 06:25 PM)_
 
 > I’m kidding, guys.
 
@@ -24044,7 +24044,7 @@ In the end, the result was:
 
 > guys normally I'm all for killing people but maybe don't this time
 
-**RPRetribution** _(21-Jul-18 06:26 PM)_
+**RPretribution** _(21-Jul-18 06:26 PM)_
 
 > Who else is on this ship, anyways?
 
@@ -24072,7 +24072,7 @@ In the end, the result was:
 
 > sorry for punching you and also hitting you witha sword
 
-**RPRetribution** _(21-Jul-18 06:27 PM)_
+**RPretribution** _(21-Jul-18 06:27 PM)_
 
 > Is there anyone else on this ship?
 
@@ -24088,7 +24088,7 @@ In the end, the result was:
 
 > `No, he shot the only other person.`
 
-**RPRetribution** _(21-Jul-18 06:27 PM)_
+**RPretribution** _(21-Jul-18 06:27 PM)_
 
 > If we kill him, do we get the ship?
 
@@ -24110,7 +24110,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(21-Jul-18 06:28 PM)_
+**RPretribution** _(21-Jul-18 06:28 PM)_
 
 > i missed that part
 
@@ -24132,7 +24132,7 @@ In the end, the result was:
 
 > This emperor he's talking about is from a video game.
 
-**RPRetribution** _(21-Jul-18 06:28 PM)_
+**RPretribution** _(21-Jul-18 06:28 PM)_
 
 > Oh, shut up, optimus prime.
 
@@ -24144,7 +24144,7 @@ In the end, the result was:
 
 > `only if you do i aint afraid of no ghost -__x`
 
-**RPRetribution** _(21-Jul-18 06:29 PM)_
+**RPretribution** _(21-Jul-18 06:29 PM)_
 
 > @Mr.WobblyShark
 > it’s in
@@ -24182,7 +24182,7 @@ In the end, the result was:
 
 > Why does everything need to turn into marbles?
 
-**RPRetribution** _(21-Jul-18 06:29 PM)_
+**RPretribution** _(21-Jul-18 06:29 PM)_
 
 > ah
 
@@ -24209,7 +24209,7 @@ In the end, the result was:
 
 > `What are we going do about the marble?`
 
-**RPRetribution** _(21-Jul-18 06:30 PM)_
+**RPretribution** _(21-Jul-18 06:30 PM)_
 
 > Back to the ship?
 
@@ -24231,7 +24231,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(21-Jul-18 06:31 PM)_
+**RPretribution** _(21-Jul-18 06:31 PM)_
 
 > Throw it into space.
 
@@ -24253,17 +24253,17 @@ In the end, the result was:
 
 > we got a marble
 
-**RPRetribution** _(21-Jul-18 06:31 PM)_
+**RPretribution** _(21-Jul-18 06:31 PM)_
 
 > t!8ball do we raid the ship
 
 **Tatsumaki** _(21-Jul-18 06:31 PM)_
 
 > 🎱 | Most likely,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(21-Jul-18 06:31 PM)_
+**RPretribution** _(21-Jul-18 06:31 PM)_
 
 > yes
 > Let’s raid the ship.
@@ -24294,7 +24294,7 @@ In the end, the result was:
 
 > ROBODOG
 
-**RPRetribution** _(21-Jul-18 06:33 PM)_
+**RPretribution** _(21-Jul-18 06:33 PM)_
 
 > Nice, a dog. Can i have it?
 
@@ -24302,7 +24302,7 @@ In the end, the result was:
 
 > Hey belly button dog.
 
-**RPRetribution** _(21-Jul-18 06:33 PM)_
+**RPretribution** _(21-Jul-18 06:33 PM)_
 
 > Hey. I want the dog.
 
@@ -24333,7 +24333,7 @@ In the end, the result was:
 > Mr.WobblyShark
 > .
 
-**RPRetribution** _(21-Jul-18 06:34 PM)_
+**RPretribution** _(21-Jul-18 06:34 PM)_
 
 > Hey Hey Hey!
 
@@ -24341,7 +24341,7 @@ In the end, the result was:
 
 > nevermind I don't want it
 
-**RPRetribution** _(21-Jul-18 06:34 PM)_
+**RPretribution** _(21-Jul-18 06:34 PM)_
 
 > I don’t have a baby.
 
@@ -24359,7 +24359,7 @@ In the end, the result was:
 
 > `I'll take it. I can fix it.`
 
-**RPRetribution** _(21-Jul-18 06:34 PM)_
+**RPretribution** _(21-Jul-18 06:34 PM)_
 
 > Can I have it after you fix it?
 
@@ -24387,7 +24387,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(21-Jul-18 06:34 PM)_
+**RPretribution** _(21-Jul-18 06:34 PM)_
 
 > I’ll just take it.
 
@@ -24413,7 +24413,7 @@ In the end, the result was:
 > TheBlade
 > .
 
-**RPRetribution** _(21-Jul-18 06:35 PM)_
+**RPretribution** _(21-Jul-18 06:35 PM)_
 
 > Fine, but I’m getting a pet eventually.
 
@@ -24429,7 +24429,7 @@ In the end, the result was:
 
 > (Emmett blinks.)
 
-**RPRetribution** _(21-Jul-18 06:35 PM)_
+**RPretribution** _(21-Jul-18 06:35 PM)_
 
 > WOAH, WHY DID YOU DO THAT
 
@@ -24437,7 +24437,7 @@ In the end, the result was:
 
 > `FIRST THE EYE NOW THE ARM`
 
-**RPRetribution** _(21-Jul-18 06:35 PM)_
+**RPretribution** _(21-Jul-18 06:35 PM)_
 
 > i’ll get a horse
 
@@ -24449,7 +24449,7 @@ In the end, the result was:
 
 > Not a horse.
 
-**RPRetribution** _(21-Jul-18 06:36 PM)_
+**RPretribution** _(21-Jul-18 06:36 PM)_
 
 > SHOOT HIM AGAIN
 > Why not?
@@ -24478,7 +24478,7 @@ In the end, the result was:
 
 > just saying
 
-**RPRetribution** _(21-Jul-18 06:37 PM)_
+**RPretribution** _(21-Jul-18 06:37 PM)_
 
 > Maia is only half horse.
 
@@ -24494,7 +24494,7 @@ In the end, the result was:
 
 > `hurts like a bitch!`
 
-**RPRetribution** _(21-Jul-18 06:37 PM)_
+**RPretribution** _(21-Jul-18 06:37 PM)_
 
 > I’ll take Maia as my pet.
 
@@ -24512,7 +24512,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(21-Jul-18 06:38 PM)_
+**RPretribution** _(21-Jul-18 06:38 PM)_
 
 > That was a joke, don’t tell her I said that.
 
@@ -24530,7 +24530,7 @@ In the end, the result was:
 
 > He isnt a marble
 
-**RPRetribution** _(21-Jul-18 06:38 PM)_
+**RPretribution** _(21-Jul-18 06:38 PM)_
 
 > IDIOT
 
@@ -24548,7 +24548,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(21-Jul-18 06:38 PM)_
+**RPretribution** _(21-Jul-18 06:38 PM)_
 
 > Shoot him again.
 
@@ -24580,7 +24580,7 @@ In the end, the result was:
 
 > |
 
-**RPRetribution** _(21-Jul-18 06:39 PM)_
+**RPretribution** _(21-Jul-18 06:39 PM)_
 
 > |
 
@@ -24588,7 +24588,7 @@ In the end, the result was:
 
 > |
 
-**RPRetribution** _(21-Jul-18 06:39 PM)_
+**RPretribution** _(21-Jul-18 06:39 PM)_
 
 > |
 > |
@@ -24617,7 +24617,7 @@ In the end, the result was:
 > 00
 > |
 
-**RPRetribution** _(21-Jul-18 06:39 PM)_
+**RPretribution** _(21-Jul-18 06:39 PM)_
 
 > no
 
@@ -24625,7 +24625,7 @@ In the end, the result was:
 
 > "I hate goats."
 
-**RPRetribution** _(21-Jul-18 06:39 PM)_
+**RPretribution** _(21-Jul-18 06:39 PM)_
 
 > Me too.
 
@@ -24669,7 +24669,7 @@ In the end, the result was:
 
 > `THIS DEFFYS ALL LOGIC` > `HOW AND WHY`
 
-**RPRetribution** _(21-Jul-18 06:42 PM)_
+**RPretribution** _(21-Jul-18 06:42 PM)_
 
 > You can’t kill ghosts, dummy.
 
@@ -24686,7 +24686,7 @@ In the end, the result was:
 
 > `Neat.`
 
-**RPRetribution** _(21-Jul-18 06:43 PM)_
+**RPretribution** _(21-Jul-18 06:43 PM)_
 
 > Shut up, robo-bitch.
 
@@ -24718,7 +24718,7 @@ In the end, the result was:
 
 > `4.00 you mean?`
 
-**RPRetribution** _(21-Jul-18 06:44 PM)_
+**RPretribution** _(21-Jul-18 06:44 PM)_
 
 > That’s not even possible.
 
@@ -24730,7 +24730,7 @@ In the end, the result was:
 
 > `No.`
 
-**RPRetribution** _(21-Jul-18 06:44 PM)_
+**RPretribution** _(21-Jul-18 06:44 PM)_
 
 > No thanks.
 
@@ -24751,7 +24751,7 @@ In the end, the result was:
 
 > `Fix what?`
 
-**RPRetribution** _(21-Jul-18 06:45 PM)_
+**RPretribution** _(21-Jul-18 06:45 PM)_
 
 > I might have some food in here.
 
@@ -24773,7 +24773,7 @@ In the end, the result was:
 > PlasmaQueso
 > .
 
-**RPRetribution** _(21-Jul-18 06:45 PM)_
+**RPretribution** _(21-Jul-18 06:45 PM)_
 
 > ...Hey emmett, I found a moldy sub sandwich!
 > Do you want this?
@@ -24783,7 +24783,7 @@ In the end, the result was:
 > That'll make me sick.
 > Again.
 
-**RPRetribution** _(21-Jul-18 06:45 PM)_
+**RPretribution** _(21-Jul-18 06:45 PM)_
 
 > Alright.
 > To space it goes.
@@ -24798,7 +24798,7 @@ In the end, the result was:
 > Mr.WobblyShark
 > .
 
-**RPRetribution** _(21-Jul-18 06:46 PM)_
+**RPretribution** _(21-Jul-18 06:46 PM)_
 
 > dummy
 
@@ -24850,7 +24850,7 @@ In the end, the result was:
 
 > arm
 
-**RPRetribution** _(21-Jul-18 06:47 PM)_
+**RPretribution** _(21-Jul-18 06:47 PM)_
 
 > Oh.
 
@@ -24898,7 +24898,7 @@ In the end, the result was:
 > TheBlade
 > .
 
-**RPRetribution** _(21-Jul-18 06:48 PM)_
+**RPretribution** _(21-Jul-18 06:48 PM)_
 
 > Ha, you corporeal beings and your arms.
 
@@ -24910,7 +24910,7 @@ In the end, the result was:
 
 > Ha, your lack of immunity to vacuum cleaners.
 
-**RPRetribution** _(21-Jul-18 06:49 PM)_
+**RPretribution** _(21-Jul-18 06:49 PM)_
 
 > Sshhhh... you’ll give away my weakness.
 
@@ -24922,7 +24922,7 @@ In the end, the result was:
 
 > `WHY` > `ARE` > `YOU TINY`
 
-**RPRetribution** _(21-Jul-18 06:50 PM)_
+**RPretribution** _(21-Jul-18 06:50 PM)_
 
 > This is boring, I’m with Ibraxas.
 
@@ -24930,7 +24930,7 @@ In the end, the result was:
 
 > Any of you want some strawberry pastries?
 
-**RPRetribution** _(21-Jul-18 06:51 PM)_
+**RPretribution** _(21-Jul-18 06:51 PM)_
 
 > Sure?
 
@@ -24952,7 +24952,7 @@ In the end, the result was:
 
 > t!8ball does Lodas become a small butthole?
 
-**RPRetribution** _(21-Jul-18 06:51 PM)_
+**RPretribution** _(21-Jul-18 06:51 PM)_
 
 > hshdjbf
 > why
@@ -24967,21 +24967,21 @@ In the end, the result was:
 
 > `(internal thought of lodas) by the emperor kill me now damn this warp sorcery -_x`
 
-**RPRetribution** _(21-Jul-18 06:52 PM)_
+**RPretribution** _(21-Jul-18 06:52 PM)_
 
 > t!8ball does garrick go back to the ship immediately
 
 **Tatsumaki** _(21-Jul-18 06:52 PM)_
 
 > 🎱 | Most likely,
-> [RP]retribution
+> RPretribution
 > .
 
 **TheBlade** _(21-Jul-18 06:52 PM)_
 
 > it was not sean's turn
 
-**RPRetribution** _(21-Jul-18 06:52 PM)_
+**RPretribution** _(21-Jul-18 06:52 PM)_
 
 > nice
 
@@ -24989,7 +24989,7 @@ In the end, the result was:
 
 > so he is not a butthole
 
-**RPRetribution** _(21-Jul-18 06:52 PM)_
+**RPretribution** _(21-Jul-18 06:52 PM)_
 
 > See ya guys.
 
@@ -25018,7 +25018,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(21-Jul-18 06:53 PM)_
+**RPretribution** _(21-Jul-18 06:53 PM)_
 
 > so they go to the ship and not sleep
 
@@ -28184,7 +28184,7 @@ In the end, the result was:
 
 > Space Rule 316: Don't question Jeeves
 
-**RPRetribution** _(28-Jul-18 08:08 PM)_
+**RPretribution** _(28-Jul-18 08:08 PM)_
 
 > what
 
@@ -31015,7 +31015,7 @@ In the end, the result was:
 
 > `This damn cell would be finished if you guys hadn't lost our engineer`
 
-**RPRetribution** _(18-Aug-18 02:17 PM)_
+**RPretribution** _(18-Aug-18 02:17 PM)_
 
 > epic
 
@@ -31038,7 +31038,7 @@ In the end, the result was:
 
 > Pinned a message.
 
-**RPRetribution** _(18-Aug-18 02:18 PM)_
+**RPretribution** _(18-Aug-18 02:18 PM)_
 
 > i’d join if i wasn’t at chick-fil-a
 
@@ -31265,7 +31265,7 @@ In the end, the result was:
 
 > The planet is literally just a residential frat-sobriety neighborhood.
 
-**RPRetribution** _(18-Aug-18 02:29 PM)_
+**RPretribution** _(18-Aug-18 02:29 PM)_
 
 > Heyo.
 
@@ -31323,7 +31323,7 @@ In the end, the result was:
 
 > It's no problem, we elves have to stick together.
 
-**RPRetribution** _(18-Aug-18 02:32 PM)_
+**RPretribution** _(18-Aug-18 02:32 PM)_
 
 > So, who’s the new gal?
 
@@ -31348,7 +31348,7 @@ In the end, the result was:
 > Nah.
 > I'm not looking to get high right now.
 
-**RPRetribution** _(18-Aug-18 02:33 PM)_
+**RPretribution** _(18-Aug-18 02:33 PM)_
 
 > Yeah, nice to meetcha. I’m Garrick.
 > I’m sans.
@@ -31408,7 +31408,7 @@ In the end, the result was:
 
 > Ah thank you Emmett, you always make the best cocktails.
 
-**RPRetribution** _(18-Aug-18 02:38 PM)_
+**RPretribution** _(18-Aug-18 02:38 PM)_
 
 > Who’s this other green lady I haven’t met?
 
@@ -31430,7 +31430,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(18-Aug-18 02:38 PM)_
+**RPretribution** _(18-Aug-18 02:38 PM)_
 
 > t!8bal
 
@@ -31438,14 +31438,14 @@ In the end, the result was:
 
 > Your mom was great with making cocktails.
 
-**RPRetribution** _(18-Aug-18 02:38 PM)_
+**RPretribution** _(18-Aug-18 02:38 PM)_
 
 > t!8ball t!8ball
 
 **Tatsumaki** _(18-Aug-18 02:38 PM)_
 
 > 🎱 | Without a doubt,
-> [RP]retribution
+> RPretribution
 > .
 
 **Bagelwrecker** _(18-Aug-18 02:38 PM)_
@@ -31456,7 +31456,7 @@ In the end, the result was:
 
 > I didn't really know her much.
 
-**RPRetribution** _(18-Aug-18 02:39 PM)_
+**RPretribution** _(18-Aug-18 02:39 PM)_
 
 > Me neither.
 
@@ -31476,7 +31476,7 @@ In the end, the result was:
 
 > Well, hitchhiking on ships gives you quite a lot of time.
 
-**RPRetribution** _(18-Aug-18 02:40 PM)_
+**RPretribution** _(18-Aug-18 02:40 PM)_
 
 > Interesting.
 
@@ -31498,7 +31498,7 @@ In the end, the result was:
 
 > How strong is it?
 
-**RPRetribution** _(18-Aug-18 02:41 PM)_
+**RPretribution** _(18-Aug-18 02:41 PM)_
 
 > Sure.
 
@@ -31516,7 +31516,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(18-Aug-18 02:42 PM)_
+**RPretribution** _(18-Aug-18 02:42 PM)_
 
 > I literally have nothing to lose.
 
@@ -31534,7 +31534,7 @@ In the end, the result was:
 
 > This is like, a 6 on the galactic alcohol scale.
 
-**RPRetribution** _(18-Aug-18 02:42 PM)_
+**RPretribution** _(18-Aug-18 02:42 PM)_
 
 > I don’t even know what that is.
 > To be fair, I don’t even know what the normal alcohol scale is.
@@ -31543,7 +31543,7 @@ In the end, the result was:
 
 > This is like a 4 for the Vortox scale.
 
-**RPRetribution** _(18-Aug-18 02:43 PM)_
+**RPretribution** _(18-Aug-18 02:43 PM)_
 
 > Right...
 
@@ -31575,13 +31575,13 @@ In the end, the result was:
 
 > `Oh. Are we getting the new girl drunk?`
 
-**RPRetribution** _(18-Aug-18 02:45 PM)_
+**RPretribution** _(18-Aug-18 02:45 PM)_
 
 > What does gasoline taste like?
 
 **Bagelwrecker** _(18-Aug-18 02:45 PM)_
 
-> @RPRetribution
+> @RPretribution
 
 **Jelsafan0** _(18-Aug-18 02:45 PM)_
 
@@ -31596,17 +31596,17 @@ In the end, the result was:
 
 > `It'sss Ssssanya`
 
-**RPRetribution** _(18-Aug-18 02:46 PM)_
+**RPretribution** _(18-Aug-18 02:46 PM)_
 
 > t!8ball does garrick get a drink
 
 **Tatsumaki** _(18-Aug-18 02:46 PM)_
 
 > 🎱 | Yes,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(18-Aug-18 02:47 PM)_
+**RPretribution** _(18-Aug-18 02:47 PM)_
 
 > great
 
@@ -31614,7 +31614,7 @@ In the end, the result was:
 
 > That's what I said, Ssssandyeah.
 
-**RPRetribution** _(18-Aug-18 02:47 PM)_
+**RPretribution** _(18-Aug-18 02:47 PM)_
 
 > Ssssssssssssstop hissing.
 
@@ -31626,7 +31626,7 @@ In the end, the result was:
 
 > I'm joking around, come and chill with us.
 
-**RPRetribution** _(18-Aug-18 02:48 PM)_
+**RPretribution** _(18-Aug-18 02:48 PM)_
 
 > Hey, don’t look at me. Seth did it first.
 
@@ -31670,7 +31670,7 @@ In the end, the result was:
 
 > I'm gonna go dance, you wanna join me Iris?
 
-**RPRetribution** _(18-Aug-18 02:50 PM)_
+**RPretribution** _(18-Aug-18 02:50 PM)_
 
 > Are you... gonna be alright?
 
@@ -31724,7 +31724,7 @@ In the end, the result was:
 
 > `Are they... Dabbing?`
 
-**RPRetribution** _(18-Aug-18 02:52 PM)_
+**RPretribution** _(18-Aug-18 02:52 PM)_
 
 > What are you two even doing?
 
@@ -31732,7 +31732,7 @@ In the end, the result was:
 
 > pffftahahhahaha! This is- we are dabbing! Ahahahhahahaha!
 
-**RPRetribution** _(18-Aug-18 02:52 PM)_
+**RPretribution** _(18-Aug-18 02:52 PM)_
 
 > Pffft. It’s hilarious.
 
@@ -31740,7 +31740,7 @@ In the end, the result was:
 
 > I gotta keep a lady happy.
 
-**RPRetribution** _(18-Aug-18 02:53 PM)_
+**RPretribution** _(18-Aug-18 02:53 PM)_
 
 > ( ͡° ͜ʖ ͡°)
 
@@ -31748,7 +31748,7 @@ In the end, the result was:
 
 > |
 
-**RPRetribution** _(18-Aug-18 02:54 PM)_
+**RPretribution** _(18-Aug-18 02:54 PM)_
 
 > |
 > |
@@ -31769,7 +31769,7 @@ In the end, the result was:
 
 > Oh shit, what's wrong Iris?
 
-**RPRetribution** _(18-Aug-18 02:55 PM)_
+**RPretribution** _(18-Aug-18 02:55 PM)_
 
 > Sheesh...
 
@@ -31829,7 +31829,7 @@ In the end, the result was:
 
 > Well, we can make him love you instead.
 
-**RPRetribution** _(18-Aug-18 02:58 PM)_
+**RPretribution** _(18-Aug-18 02:58 PM)_
 
 > Yeeeahhh... I’m not dealing with someone else’s family issues.
 
@@ -31866,7 +31866,7 @@ In the end, the result was:
 
 > Sounds good, I was taught how to tango by my mother.
 
-**RPRetribution** _(18-Aug-18 03:01 PM)_
+**RPretribution** _(18-Aug-18 03:01 PM)_
 
 > I think her drinking was a bad idea.
 > Personally.
@@ -31947,7 +31947,7 @@ In the end, the result was:
 
 > Guess so!
 
-**RPRetribution** _(18-Aug-18 03:09 PM)_
+**RPretribution** _(18-Aug-18 03:09 PM)_
 
 > Cool.
 
@@ -31959,7 +31959,7 @@ In the end, the result was:
 
 > I guess?
 
-**RPRetribution** _(18-Aug-18 03:10 PM)_
+**RPretribution** _(18-Aug-18 03:10 PM)_
 
 > Eh.
 
@@ -31967,7 +31967,7 @@ In the end, the result was:
 
 > I'll be right back, I'm going to go make me another cocktail.
 
-**RPRetribution** _(18-Aug-18 03:10 PM)_
+**RPretribution** _(18-Aug-18 03:10 PM)_
 
 > I just woke up like an hour ago.
 
@@ -31993,7 +31993,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(18-Aug-18 03:12 PM)_
+**RPretribution** _(18-Aug-18 03:12 PM)_
 
 > I must say, being on other planets is weird.
 > Even though I’ve been with you guys for a while.
@@ -32035,7 +32035,7 @@ In the end, the result was:
 
 > Lots of women loved my specialty.
 
-**RPRetribution** _(18-Aug-18 03:15 PM)_
+**RPretribution** _(18-Aug-18 03:15 PM)_
 
 > I used to be a renowned thief back at my home planet.
 > Basically the only thing I did for fun.
@@ -32056,7 +32056,7 @@ In the end, the result was:
 
 > oh.
 
-**RPRetribution** _(18-Aug-18 03:17 PM)_
+**RPretribution** _(18-Aug-18 03:17 PM)_
 
 > Oh.
 
@@ -32084,7 +32084,7 @@ In the end, the result was:
 
 > `I know the quickesst way to kill a mammal.`
 
-**RPRetribution** _(18-Aug-18 03:19 PM)_
+**RPretribution** _(18-Aug-18 03:19 PM)_
 
 > Then go to sleep.
 
@@ -32104,7 +32104,7 @@ In the end, the result was:
 
 > `Yeah, i don't know much about that. Sssorry.`
 
-**RPRetribution** _(18-Aug-18 03:20 PM)_
+**RPretribution** _(18-Aug-18 03:20 PM)_
 
 > Emmett.
 
@@ -32112,7 +32112,7 @@ In the end, the result was:
 
 > aw man. I don’t have a ride home.
 
-**RPRetribution** _(18-Aug-18 03:20 PM)_
+**RPretribution** _(18-Aug-18 03:20 PM)_
 
 > No.
 
@@ -32120,7 +32120,7 @@ In the end, the result was:
 
 > I mean, if you were that curious, I could show you something. Completely platonic.
 
-**RPRetribution** _(18-Aug-18 03:20 PM)_
+**RPretribution** _(18-Aug-18 03:20 PM)_
 
 > Ha! I haven’t been home in weeks.
 
@@ -32144,7 +32144,7 @@ In the end, the result was:
 
 > Shit.
 
-**RPRetribution** _(18-Aug-18 03:21 PM)_
+**RPretribution** _(18-Aug-18 03:21 PM)_
 
 > Just get a house somewhere.
 > Easy.
@@ -32219,7 +32219,7 @@ In the end, the result was:
 
 > `Coma?`
 
-**RPRetribution** _(18-Aug-18 03:26 PM)_
+**RPretribution** _(18-Aug-18 03:26 PM)_
 
 > Can she even go into a coma, she’s a plant.
 
@@ -32227,7 +32227,7 @@ In the end, the result was:
 
 > Like really long period of hibernation.
 
-**RPRetribution** _(18-Aug-18 03:26 PM)_
+**RPretribution** _(18-Aug-18 03:26 PM)_
 
 > Granted, I’ve only met a few plant people in my life.
 
@@ -32384,7 +32384,7 @@ In the end, the result was:
 > Huh? Piggyback ride?
 > Did somebody say piggyback ride??
 
-**RPRetribution** _(18-Aug-18 03:39 PM)_
+**RPretribution** _(18-Aug-18 03:39 PM)_
 
 > What
 
@@ -32600,17 +32600,17 @@ In the end, the result was:
 
 > But yeah. I'm committed to some universe llama woman.
 
-**RPRetribution** _(18-Aug-18 03:54 PM)_
+**RPretribution** _(18-Aug-18 03:54 PM)_
 
 > t!8ball does garrick eat babie
 
 **Tatsumaki** _(18-Aug-18 03:54 PM)_
 
 > 🎱 | Most likely,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(18-Aug-18 03:54 PM)_
+**RPretribution** _(18-Aug-18 03:54 PM)_
 
 > ok
 
@@ -32622,7 +32622,7 @@ In the end, the result was:
 
 > GARRICK, STOP EATING THE UTERUS OF THE NEWLY IMPREGNATED.
 
-**RPRetribution** _(18-Aug-18 03:55 PM)_
+**RPretribution** _(18-Aug-18 03:55 PM)_
 
 > Okay.
 
@@ -32630,7 +32630,7 @@ In the end, the result was:
 
 > ???
 
-**RPRetribution** _(18-Aug-18 03:55 PM)_
+**RPretribution** _(18-Aug-18 03:55 PM)_
 
 > I don’t know??
 
@@ -32674,7 +32674,7 @@ In the end, the result was:
 
 > what’s going on?
 
-**RPRetribution** _(18-Aug-18 03:58 PM)_
+**RPretribution** _(18-Aug-18 03:58 PM)_
 
 > I’m just gonna. Leave now.
 
@@ -32867,7 +32867,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(18-Aug-18 04:13 PM)_
+**RPretribution** _(18-Aug-18 04:13 PM)_
 
 > Hey, what'd I miss?
 
@@ -32885,7 +32885,7 @@ In the end, the result was:
 
 > `Ooh, they're blood red. Very pretty.`
 
-**RPRetribution** _(18-Aug-18 04:13 PM)_
+**RPretribution** _(18-Aug-18 04:13 PM)_
 
 > ...You're gonna do that right here, in the middle of everyone?
 
@@ -32901,7 +32901,7 @@ In the end, the result was:
 
 > no.
 
-**RPRetribution** _(18-Aug-18 04:14 PM)_
+**RPretribution** _(18-Aug-18 04:14 PM)_
 
 > Uh. Alright.
 > I can't exactly stop you.
@@ -32921,7 +32921,7 @@ In the end, the result was:
 > Jelsafan0
 > .
 
-**RPRetribution** _(18-Aug-18 04:15 PM)_
+**RPretribution** _(18-Aug-18 04:15 PM)_
 
 > gotem
 > squoat 'em
@@ -32931,7 +32931,7 @@ In the end, the result was:
 > Sorry
 > Guess she’s asleep
 
-**RPRetribution** _(18-Aug-18 04:15 PM)_
+**RPretribution** _(18-Aug-18 04:15 PM)_
 
 > :madman:
 > oh right
@@ -32946,7 +32946,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(18-Aug-18 04:16 PM)_
+**RPretribution** _(18-Aug-18 04:16 PM)_
 
 > nice
 
@@ -32961,7 +32961,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(18-Aug-18 04:17 PM)_
+**RPretribution** _(18-Aug-18 04:17 PM)_
 
 > space guideline #85:
 
@@ -33495,7 +33495,7 @@ In the end, the result was:
 
 > excuse me while I go eject myself from the ship.
 
-**RPRetribution** _(19-Aug-18 02:40 PM)_
+**RPretribution** _(19-Aug-18 02:40 PM)_
 
 > it’s him
 
@@ -33503,7 +33503,7 @@ In the end, the result was:
 
 > bye stranger
 
-**RPRetribution** _(19-Aug-18 02:40 PM)_
+**RPretribution** _(19-Aug-18 02:40 PM)_
 
 > ferbeas
 
@@ -33511,7 +33511,7 @@ In the end, the result was:
 
 > I can do that for you if you want.
 
-**RPRetribution** _(19-Aug-18 02:40 PM)_
+**RPretribution** _(19-Aug-18 02:40 PM)_
 
 > Heyo.
 
@@ -33524,7 +33524,7 @@ In the end, the result was:
 > yo
 > fellow phantom
 
-**RPRetribution** _(19-Aug-18 02:41 PM)_
+**RPretribution** _(19-Aug-18 02:41 PM)_
 
 > eat a pp
 
@@ -33532,7 +33532,7 @@ In the end, the result was:
 
 > I broke the airlock button last night.
 
-**RPRetribution** _(19-Aug-18 02:41 PM)_
+**RPretribution** _(19-Aug-18 02:41 PM)_
 
 > i just started yesterday
 > plus it’s easier to tell what he looks like
@@ -33541,7 +33541,7 @@ In the end, the result was:
 
 > ฯ
 
-**RPRetribution** _(19-Aug-18 02:42 PM)_
+**RPretribution** _(19-Aug-18 02:42 PM)_
 
 > Hey, you’re someone I haven’t seen before.
 
@@ -33553,7 +33553,7 @@ In the end, the result was:
 
 > Ya know Iris, letting loose can be fun.
 
-**RPRetribution** _(19-Aug-18 02:42 PM)_
+**RPretribution** _(19-Aug-18 02:42 PM)_
 
 > heidjfkdojwj
 
@@ -33571,7 +33571,7 @@ In the end, the result was:
 
 > `We're moving.`
 
-**RPRetribution** _(19-Aug-18 02:43 PM)_
+**RPretribution** _(19-Aug-18 02:43 PM)_
 
 > wait are you asier or victor
 > i’m confuse
@@ -33584,7 +33584,7 @@ In the end, the result was:
 > Can you get me over to the control pad?
 > I just had some wild vision.
 
-**RPRetribution** _(19-Aug-18 02:44 PM)_
+**RPretribution** _(19-Aug-18 02:44 PM)_
 
 > yeah
 
@@ -33600,7 +33600,7 @@ In the end, the result was:
 
 > `Can't you jussst hop off my back?`
 
-**RPRetribution** _(19-Aug-18 02:44 PM)_
+**RPretribution** _(19-Aug-18 02:44 PM)_
 
 > cannie
 
@@ -33620,7 +33620,7 @@ In the end, the result was:
 
 > `What?`
 
-**RPRetribution** _(19-Aug-18 02:44 PM)_
+**RPretribution** _(19-Aug-18 02:44 PM)_
 
 > I thought you were pretty cool.
 
@@ -33628,7 +33628,7 @@ In the end, the result was:
 
 > I think I'm paralyzed.
 
-**RPRetribution** _(19-Aug-18 02:45 PM)_
+**RPretribution** _(19-Aug-18 02:45 PM)_
 
 > Yeah, I’m sure you did, Seth.
 
@@ -33640,7 +33640,7 @@ In the end, the result was:
 
 > I cannot remember anything from last night.
 
-**RPRetribution** _(19-Aug-18 02:45 PM)_
+**RPretribution** _(19-Aug-18 02:45 PM)_
 
 > Good.
 
@@ -33652,7 +33652,7 @@ In the end, the result was:
 
 > alright, who got into the tile glue while I was gone and glued Emmett to Sanya?
 
-**RPRetribution** _(19-Aug-18 02:45 PM)_
+**RPretribution** _(19-Aug-18 02:45 PM)_
 
 > santa
 
@@ -33690,7 +33690,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(19-Aug-18 02:46 PM)_
+**RPretribution** _(19-Aug-18 02:46 PM)_
 
 > You have rapid mood swings when you’re drunk.
 > Just thought I’d let you know.
@@ -33715,7 +33715,7 @@ In the end, the result was:
 
 > `I'm sssorry?`
 
-**RPRetribution** _(19-Aug-18 02:47 PM)_
+**RPretribution** _(19-Aug-18 02:47 PM)_
 
 > I don’t...
 
@@ -33728,7 +33728,7 @@ In the end, the result was:
 
 > Type that in.
 
-**RPRetribution** _(19-Aug-18 02:48 PM)_
+**RPretribution** _(19-Aug-18 02:48 PM)_
 
 > garrick hears all
 
@@ -33736,7 +33736,7 @@ In the end, the result was:
 
 > Oh no
 
-**RPRetribution** _(19-Aug-18 02:48 PM)_
+**RPretribution** _(19-Aug-18 02:48 PM)_
 
 > you cannot escape
 
@@ -33754,7 +33754,7 @@ In the end, the result was:
 
 > `...Okay, i did it.`
 
-**RPRetribution** _(19-Aug-18 02:48 PM)_
+**RPretribution** _(19-Aug-18 02:48 PM)_
 
 > 👂👁👄👁👂
 
@@ -33771,7 +33771,7 @@ In the end, the result was:
 > Yes please, that would be delightful.
 > Hello. My name is Iris. And yours?
 
-**RPRetribution** _(19-Aug-18 02:49 PM)_
+**RPretribution** _(19-Aug-18 02:49 PM)_
 
 > nose
 > nose
@@ -33794,7 +33794,7 @@ In the end, the result was:
 > Pleased to meet you, Seth.
 > And you, not Seth.
 
-**RPRetribution** _(19-Aug-18 02:50 PM)_
+**RPretribution** _(19-Aug-18 02:50 PM)_
 
 > I’m Casper.
 
@@ -33802,7 +33802,7 @@ In the end, the result was:
 
 > Hello, Casper. I am Iris.
 
-**RPRetribution** _(19-Aug-18 02:50 PM)_
+**RPretribution** _(19-Aug-18 02:50 PM)_
 
 > Haha, bet you’d never think of that.
 
@@ -33818,7 +33818,7 @@ In the end, the result was:
 
 > Is he Casper or is he garlic?
 
-**RPRetribution** _(19-Aug-18 02:51 PM)_
+**RPretribution** _(19-Aug-18 02:51 PM)_
 
 > I’m Garrick.
 > ASIER.
@@ -33843,7 +33843,7 @@ In the end, the result was:
 > PlasmaPerson
 > .
 
-**RPRetribution** _(19-Aug-18 02:52 PM)_
+**RPretribution** _(19-Aug-18 02:52 PM)_
 
 > Oh, shut up, you overgrown weed.
 
@@ -33863,7 +33863,7 @@ In the end, the result was:
 
 > `I'm Sssanya.`
 
-**RPRetribution** _(19-Aug-18 02:52 PM)_
+**RPretribution** _(19-Aug-18 02:52 PM)_
 
 > im sssansss
 
@@ -33893,7 +33893,7 @@ In the end, the result was:
 
 > μ§Г
 
-**RPRetribution** _(19-Aug-18 02:54 PM)_
+**RPretribution** _(19-Aug-18 02:54 PM)_
 
 > §«¿‘ćß•¥
 
@@ -33905,7 +33905,7 @@ In the end, the result was:
 
 > ¥Ω¤
 
-**RPRetribution** _(19-Aug-18 02:55 PM)_
+**RPretribution** _(19-Aug-18 02:55 PM)_
 
 > No.
 
@@ -33921,7 +33921,7 @@ In the end, the result was:
 
 > `Ghossstsss are ssstupid.`
 
-**RPRetribution** _(19-Aug-18 02:55 PM)_
+**RPretribution** _(19-Aug-18 02:55 PM)_
 
 > Yeah, well I can go through walls.
 
@@ -33955,7 +33955,7 @@ In the end, the result was:
 
 > I.... do not like fire.
 
-**RPRetribution** _(19-Aug-18 02:56 PM)_
+**RPretribution** _(19-Aug-18 02:56 PM)_
 
 > we are
 
@@ -33975,7 +33975,7 @@ In the end, the result was:
 
 > I can do that. Garlic can't
 
-**RPRetribution** _(19-Aug-18 02:57 PM)_
+**RPretribution** _(19-Aug-18 02:57 PM)_
 
 > Yeah, well I bet you can’t fit an entire machine gun in your pockets.
 > That’s unrelated to the ghost thing.
@@ -33988,7 +33988,7 @@ In the end, the result was:
 
 > I... am confused. Is his name Garlic or Garrick?
 
-**RPRetribution** _(19-Aug-18 02:57 PM)_
+**RPretribution** _(19-Aug-18 02:57 PM)_
 
 > Heheh. Burn.
 
@@ -33996,7 +33996,7 @@ In the end, the result was:
 
 > `YOU CAN'T PICK UP A MACHINE GUN!`
 
-**RPRetribution** _(19-Aug-18 02:57 PM)_
+**RPretribution** _(19-Aug-18 02:57 PM)_
 
 > YES I CAN!
 
@@ -34016,7 +34016,7 @@ In the end, the result was:
 
 > I'm just curious.
 
-**RPRetribution** _(19-Aug-18 02:58 PM)_
+**RPretribution** _(19-Aug-18 02:58 PM)_
 
 > I DON’T KNOW HOW IT WORKS, ALRIGHT??
 
@@ -34050,7 +34050,7 @@ In the end, the result was:
 
 > Don't worry, they're a little silly.
 
-**RPRetribution** _(19-Aug-18 03:00 PM)_
+**RPretribution** _(19-Aug-18 03:00 PM)_
 
 > E
 > a
@@ -34064,7 +34064,7 @@ In the end, the result was:
 
 > you
 
-**RPRetribution** _(19-Aug-18 03:00 PM)_
+**RPretribution** _(19-Aug-18 03:00 PM)_
 
 > SHUT UP BRODY
 
@@ -34072,7 +34072,7 @@ In the end, the result was:
 
 > `Yesss, we have.`
 
-**RPRetribution** _(19-Aug-18 03:00 PM)_
+**RPretribution** _(19-Aug-18 03:00 PM)_
 
 > YOU SMELL
 
@@ -34085,7 +34085,7 @@ In the end, the result was:
 > OH YEAH
 > WELL
 
-**RPRetribution** _(19-Aug-18 03:00 PM)_
+**RPretribution** _(19-Aug-18 03:00 PM)_
 
 > NO
 
@@ -34093,7 +34093,7 @@ In the end, the result was:
 
 > Woah got em
 
-**RPRetribution** _(19-Aug-18 03:00 PM)_
+**RPretribution** _(19-Aug-18 03:00 PM)_
 
 > GOTEM
 
@@ -34101,7 +34101,7 @@ In the end, the result was:
 
 > BABY JESUS IS A SALSA FLAVORED CHICKEN WING
 
-**RPRetribution** _(19-Aug-18 03:01 PM)_
+**RPretribution** _(19-Aug-18 03:01 PM)_
 
 > YOU DON’T EXIST!
 > SQUOATEM
@@ -34118,7 +34118,7 @@ In the end, the result was:
 
 > YOU DON'T EXIST
 
-**RPRetribution** _(19-Aug-18 03:01 PM)_
+**RPretribution** _(19-Aug-18 03:01 PM)_
 
 > AAAAAAAAAAAAAA
 
@@ -34126,17 +34126,17 @@ In the end, the result was:
 
 > AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-**RPRetribution** _(19-Aug-18 03:01 PM)_
+**RPretribution** _(19-Aug-18 03:01 PM)_
 
 > t!8ball does garrick do absolutely nothing at all
 
 **Tatsumaki** _(19-Aug-18 03:01 PM)_
 
 > 🎱 | It is decidedly so,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(19-Aug-18 03:01 PM)_
+**RPretribution** _(19-Aug-18 03:01 PM)_
 
 > ok
 > IDIOT
@@ -34150,7 +34150,7 @@ In the end, the result was:
 
 > But I didn't feel it would be right to leave a drunk girl at a party by herself.
 
-**RPRetribution** _(19-Aug-18 03:02 PM)_
+**RPretribution** _(19-Aug-18 03:02 PM)_
 
 > he doesn’t have arms
 
@@ -34168,7 +34168,7 @@ In the end, the result was:
 
 > `Hey, Emmett, are you ok?`
 
-**RPRetribution** _(19-Aug-18 03:02 PM)_
+**RPretribution** _(19-Aug-18 03:02 PM)_
 
 > HET
 
@@ -34229,7 +34229,7 @@ In the end, the result was:
 > !8ball Do I go on a holy crusade?
 > lol
 
-**RPRetribution** _(19-Aug-18 03:04 PM)_
+**RPretribution** _(19-Aug-18 03:04 PM)_
 
 > N
 
@@ -34260,7 +34260,7 @@ In the end, the result was:
 > I literally can't move my body.
 > So thanks.
 
-**RPRetribution** _(19-Aug-18 03:06 PM)_
+**RPretribution** _(19-Aug-18 03:06 PM)_
 
 > But now he’s just stuck there.
 > Can you roll around?
@@ -34273,7 +34273,7 @@ In the end, the result was:
 
 > `He wasss ssstuck on my back. Ssso i guesss thisss isss better.`
 
-**RPRetribution** _(19-Aug-18 03:07 PM)_
+**RPretribution** _(19-Aug-18 03:07 PM)_
 
 > u-turn
 
@@ -34282,7 +34282,7 @@ In the end, the result was:
 > By "I can't move my body" I can't move. At all.
 > Well.
 
-**RPRetribution** _(19-Aug-18 03:07 PM)_
+**RPretribution** _(19-Aug-18 03:07 PM)_
 
 > What if I move your body?
 
@@ -34290,7 +34290,7 @@ In the end, the result was:
 
 > My apologies. Should I not have removed you?
 
-**RPRetribution** _(19-Aug-18 03:07 PM)_
+**RPretribution** _(19-Aug-18 03:07 PM)_
 
 > Out of the ship?
 > Permanently?
@@ -34305,7 +34305,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(19-Aug-18 03:08 PM)_
+**RPretribution** _(19-Aug-18 03:08 PM)_
 
 > Nice backpack.
 
@@ -34317,7 +34317,7 @@ In the end, the result was:
 
 > perfect, now he's like c3po
 
-**RPRetribution** _(19-Aug-18 03:08 PM)_
+**RPretribution** _(19-Aug-18 03:08 PM)_
 
 > Would you rather be in my pockets?
 
@@ -34325,7 +34325,7 @@ In the end, the result was:
 
 > `Now you know how i felt.`
 
-**RPRetribution** _(19-Aug-18 03:08 PM)_
+**RPretribution** _(19-Aug-18 03:08 PM)_
 
 > The answer is no.
 
@@ -34338,7 +34338,7 @@ In the end, the result was:
 > 🆙 |
 > Jelsafan0 leveled up!
 
-**RPRetribution** _(19-Aug-18 03:08 PM)_
+**RPretribution** _(19-Aug-18 03:08 PM)_
 
 > It smells in there.
 > HDJDJJFK
@@ -34352,7 +34352,7 @@ In the end, the result was:
 
 > Alright, we'll do this like we did when I rescued you.
 
-**RPRetribution** _(19-Aug-18 03:09 PM)_
+**RPretribution** _(19-Aug-18 03:09 PM)_
 
 > Fine, let’s go.
 
@@ -34368,7 +34368,7 @@ In the end, the result was:
 
 > outside
 
-**RPRetribution** _(19-Aug-18 03:09 PM)_
+**RPretribution** _(19-Aug-18 03:09 PM)_
 
 > Hey, what’s wrong with being 4 feet tall?
 
@@ -34376,7 +34376,7 @@ In the end, the result was:
 
 > You only grew like a foot, you'll be fine.
 
-**RPRetribution** _(19-Aug-18 03:09 PM)_
+**RPretribution** _(19-Aug-18 03:09 PM)_
 
 > garrick is 4’3
 > but he’s floating so
@@ -34388,7 +34388,7 @@ In the end, the result was:
 
 > What are we doing, exactly?
 
-**RPRetribution** _(19-Aug-18 03:10 PM)_
+**RPretribution** _(19-Aug-18 03:10 PM)_
 
 > that’s true
 > he can be 9
@@ -34398,13 +34398,13 @@ In the end, the result was:
 **Tatsumaki** _(19-Aug-18 03:10 PM)_
 
 > 🆙 |
-> [RP]retribution leveled up!
+> RPretribution leveled up!
 
 **PlasmaPerson** _(19-Aug-18 03:11 PM)_
 
 > :scare:
 
-**RPRetribution** _(19-Aug-18 03:11 PM)_
+**RPretribution** _(19-Aug-18 03:11 PM)_
 
 > 👉👁👅👁👉
 
@@ -34426,7 +34426,7 @@ In the end, the result was:
 
 > Mission?
 
-**RPRetribution** _(19-Aug-18 03:11 PM)_
+**RPretribution** _(19-Aug-18 03:11 PM)_
 
 > 👊👁👅👁🤚
 > watch him wip
@@ -34439,17 +34439,17 @@ In the end, the result was:
 
 > `What missssion are we doing?`
 
-**RPRetribution** _(19-Aug-18 03:12 PM)_
+**RPretribution** _(19-Aug-18 03:12 PM)_
 
 > t!8ball does garrick get out of the ship
 
 **Tatsumaki** _(19-Aug-18 03:12 PM)_
 
 > 🎱 | Very doubtful,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(19-Aug-18 03:12 PM)_
+**RPretribution** _(19-Aug-18 03:12 PM)_
 
 > GAY
 
@@ -34457,7 +34457,7 @@ In the end, the result was:
 
 > Ah! That sounds fun.
 
-**RPRetribution** _(19-Aug-18 03:12 PM)_
+**RPretribution** _(19-Aug-18 03:12 PM)_
 
 > t!8ball does garrick get out of the ship
 > epic style
@@ -34465,10 +34465,10 @@ In the end, the result was:
 **Tatsumaki** _(19-Aug-18 03:12 PM)_
 
 > 🎱 | Better not tell you now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(19-Aug-18 03:12 PM)_
+**RPretribution** _(19-Aug-18 03:12 PM)_
 
 > t!8ball does garrick get out of the ship
 > i’ll literally eat your house
@@ -34482,7 +34482,7 @@ In the end, the result was:
 
 > Oh
 
-**RPRetribution** _(19-Aug-18 03:13 PM)_
+**RPretribution** _(19-Aug-18 03:13 PM)_
 
 > what
 
@@ -34528,7 +34528,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(19-Aug-18 03:15 PM)_
+**RPretribution** _(19-Aug-18 03:15 PM)_
 
 > $@&“¡Œß|
 
@@ -34564,7 +34564,7 @@ In the end, the result was:
 
 > This has been... very interesting.
 
-**RPRetribution** _(19-Aug-18 03:17 PM)_
+**RPretribution** _(19-Aug-18 03:17 PM)_
 
 > ûђî† †√¢k†
 
@@ -34594,7 +34594,7 @@ In the end, the result was:
 
 > We're replacing the shitty Walt Disney one for it.
 
-**RPRetribution** _(19-Aug-18 03:18 PM)_
+**RPretribution** _(19-Aug-18 03:18 PM)_
 
 > Don’t set anything on fire, you might kill Sanya.
 
@@ -34608,7 +34608,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(19-Aug-18 03:18 PM)_
+**RPretribution** _(19-Aug-18 03:18 PM)_
 
 > On second thought...
 
@@ -34644,7 +34644,7 @@ In the end, the result was:
 
 > I think the American Dad Empire striked me with a case of bullshit.
 
-**RPRetribution** _(19-Aug-18 03:20 PM)_
+**RPretribution** _(19-Aug-18 03:20 PM)_
 
 > go silas
 > go
@@ -34658,7 +34658,7 @@ In the end, the result was:
 
 > That happens a lot to you.
 
-**RPRetribution** _(19-Aug-18 03:20 PM)_
+**RPretribution** _(19-Aug-18 03:20 PM)_
 
 > GO
 
@@ -34765,7 +34765,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(19-Aug-18 03:23 PM)_
+**RPretribution** _(19-Aug-18 03:23 PM)_
 
 > I’ll see if I...
 
@@ -34773,14 +34773,14 @@ In the end, the result was:
 
 > `Back up before I turn you all into space dust.`
 
-**RPRetribution** _(19-Aug-18 03:23 PM)_
+**RPretribution** _(19-Aug-18 03:23 PM)_
 
 > t!choose mace | marshmallow
 
 **Tatsumaki** _(19-Aug-18 03:23 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > mace
 > !
@@ -34789,7 +34789,7 @@ In the end, the result was:
 
 > Y'know, I think we outnumber you guys.
 
-**RPRetribution** _(19-Aug-18 03:23 PM)_
+**RPretribution** _(19-Aug-18 03:23 PM)_
 
 > Nice, a weapon.
 
@@ -34816,7 +34816,7 @@ In the end, the result was:
 
 > Perhaps ashes?
 
-**RPRetribution** _(19-Aug-18 03:24 PM)_
+**RPretribution** _(19-Aug-18 03:24 PM)_
 
 > Can I even die?
 
@@ -34824,7 +34824,7 @@ In the end, the result was:
 
 > I enact space rule 35.
 
-**RPRetribution** _(19-Aug-18 03:24 PM)_
+**RPretribution** _(19-Aug-18 03:24 PM)_
 
 > Anyways, where were we...
 
@@ -34955,7 +34955,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(19-Aug-18 03:30 PM)_
+**RPretribution** _(19-Aug-18 03:30 PM)_
 
 > how does fighting work again
 
@@ -34963,7 +34963,7 @@ In the end, the result was:
 
 > You ready to die robo nigger?
 
-**RPRetribution** _(19-Aug-18 03:30 PM)_
+**RPretribution** _(19-Aug-18 03:30 PM)_
 
 > oh
 
@@ -35011,7 +35011,7 @@ In the end, the result was:
 
 > Get fucked faggot.
 
-**RPRetribution** _(19-Aug-18 03:31 PM)_
+**RPretribution** _(19-Aug-18 03:31 PM)_
 
 > what does the dice roll mean though
 
@@ -35019,7 +35019,7 @@ In the end, the result was:
 
 > `That's bullshit.`
 
-**RPRetribution** _(19-Aug-18 03:32 PM)_
+**RPretribution** _(19-Aug-18 03:32 PM)_
 
 > ok
 
@@ -35041,7 +35041,7 @@ In the end, the result was:
 
 > That’s a lot of damage.
 
-**RPRetribution** _(19-Aug-18 03:32 PM)_
+**RPretribution** _(19-Aug-18 03:32 PM)_
 
 > That’s gonna be hard to seal.
 > flex seal
@@ -35154,7 +35154,7 @@ In the end, the result was:
 > PlasmaPerson
 > .
 
-**RPRetribution** _(19-Aug-18 03:34 PM)_
+**RPretribution** _(19-Aug-18 03:34 PM)_
 
 > lili go
 > lili go
@@ -35169,7 +35169,7 @@ In the end, the result was:
 > PlasmaPerson
 > .
 
-**RPRetribution** _(19-Aug-18 03:34 PM)_
+**RPretribution** _(19-Aug-18 03:34 PM)_
 
 > lili go
 > lili go
@@ -35229,7 +35229,7 @@ In the end, the result was:
 In the end, the result was:
 1
 
-**RPRetribution** _(19-Aug-18 03:36 PM)_
+**RPretribution** _(19-Aug-18 03:36 PM)_
 
 > i might as well just type since nobody can hear me
 
@@ -35269,7 +35269,7 @@ In the end, the result was:
 
 > Emmett go kill the flame faggot.
 
-**RPRetribution** _(19-Aug-18 03:36 PM)_
+**RPretribution** _(19-Aug-18 03:36 PM)_
 
 > how does the damage system work for garrick
 > he’s kinda incorporeal
@@ -35278,10 +35278,10 @@ In the end, the result was:
 **Tatsumaki** _(19-Aug-18 03:36 PM)_
 
 > 🎱 | It is decidedly so,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(19-Aug-18 03:36 PM)_
+**RPretribution** _(19-Aug-18 03:36 PM)_
 
 > ok
 
@@ -35299,7 +35299,7 @@ In the end, the result was:
 In the end, the result was:
 1
 
-**RPRetribution** _(19-Aug-18 03:37 PM)_
+**RPretribution** _(19-Aug-18 03:37 PM)_
 
 > AAAAHHHHHH!
 
@@ -35331,7 +35331,7 @@ In the end, the result was:
 In the end, the result was:
 12
 
-**RPRetribution** _(19-Aug-18 03:37 PM)_
+**RPretribution** _(19-Aug-18 03:37 PM)_
 
 > t!roll d20
 
@@ -35345,7 +35345,7 @@ In the end, the result was:
 In the end, the result was:
 17
 
-**RPRetribution** _(19-Aug-18 03:37 PM)_
+**RPretribution** _(19-Aug-18 03:37 PM)_
 
 > i did
 > i went already
@@ -35369,7 +35369,7 @@ In the end, the result was:
 In the end, the result was:
 15
 
-**RPRetribution** _(19-Aug-18 03:38 PM)_
+**RPretribution** _(19-Aug-18 03:38 PM)_
 
 > Oops. Sorry.
 > wd40
@@ -35460,7 +35460,7 @@ In the end, the result was:
 
 > Emmett, take a few shots at the robot cuck.
 
-**RPRetribution** _(19-Aug-18 03:39 PM)_
+**RPretribution** _(19-Aug-18 03:39 PM)_
 
 > I’m just gonna step back for a minute.
 
@@ -35476,7 +35476,7 @@ In the end, the result was:
 
 > `Still feeling cocky, asshat?`
 
-**RPRetribution** _(19-Aug-18 03:40 PM)_
+**RPretribution** _(19-Aug-18 03:40 PM)_
 
 > nothing beats the power of pure jews
 
@@ -35525,7 +35525,7 @@ In the end, the result was:
 
 > Seth, get the hell over here!
 
-**RPRetribution** _(19-Aug-18 03:42 PM)_
+**RPretribution** _(19-Aug-18 03:42 PM)_
 
 > just do d22 and 21-22 is a crit
 
@@ -35533,7 +35533,7 @@ In the end, the result was:
 
 > I'm gonna fall back a little, Hand me a pill or two.
 
-**RPRetribution** _(19-Aug-18 03:43 PM)_
+**RPretribution** _(19-Aug-18 03:43 PM)_
 
 > who is jonas’ guy
 > t!roll d20
@@ -35548,7 +35548,7 @@ In the end, the result was:
 In the end, the result was:
 13
 
-**RPRetribution** _(19-Aug-18 03:44 PM)_
+**RPretribution** _(19-Aug-18 03:44 PM)_
 
 > who is
 > jonas’s guy
@@ -35565,7 +35565,7 @@ In the end, the result was:
 > KYL300
 > !
 
-**RPRetribution** _(19-Aug-18 03:45 PM)_
+**RPretribution** _(19-Aug-18 03:45 PM)_
 
 > aight
 
@@ -35635,7 +35635,7 @@ In the end, the result was:
 
 > `I don't care! a fight'sss a fight!`
 
-**RPRetribution** _(19-Aug-18 03:47 PM)_
+**RPretribution** _(19-Aug-18 03:47 PM)_
 
 > Do I look like the kind of person that follows rules?
 
@@ -35669,7 +35669,7 @@ In the end, the result was:
 
 > precisely.
 
-**RPRetribution** _(19-Aug-18 03:49 PM)_
+**RPretribution** _(19-Aug-18 03:49 PM)_
 
 > By the way, those sunglasses are a few thousand years out of fashion.
 
@@ -35705,7 +35705,7 @@ In the end, the result was:
 In the end, the result was:
 18
 
-**RPRetribution** _(19-Aug-18 03:50 PM)_
+**RPretribution** _(19-Aug-18 03:50 PM)_
 
 > i don't feel so good
 
@@ -35717,7 +35717,7 @@ In the end, the result was:
 
 > He's literally going to die.
 
-**RPRetribution** _(19-Aug-18 03:51 PM)_
+**RPretribution** _(19-Aug-18 03:51 PM)_
 
 > t!roll d10
 
@@ -35761,7 +35761,7 @@ In the end, the result was:
 In the end, the result was:
 54
 
-**RPRetribution** _(19-Aug-18 03:53 PM)_
+**RPretribution** _(19-Aug-18 03:53 PM)_
 
 > Do it! Get him!
 
@@ -35794,7 +35794,7 @@ In the end, the result was:
 > I'll be sure to.
 > You ready to do some hand to hand combat robot?
 
-**RPRetribution** _(19-Aug-18 03:55 PM)_
+**RPretribution** _(19-Aug-18 03:55 PM)_
 
 > Super fighting robot.
 
@@ -35819,7 +35819,7 @@ In the end, the result was:
 
 > `I need help, Chomsky..`
 
-**RPRetribution** _(19-Aug-18 03:56 PM)_
+**RPretribution** _(19-Aug-18 03:56 PM)_
 
 > bronas
 
@@ -35843,7 +35843,7 @@ t!roll d20
 or
 t!roll 5d10+3
 
-**RPRetribution** _(19-Aug-18 03:56 PM)_
+**RPretribution** _(19-Aug-18 03:56 PM)_
 
 > Oh piss off, Chomper.
 
@@ -35877,7 +35877,7 @@ In the end, the result was:
 
 > `You're on, douche.`
 
-**RPRetribution** _(19-Aug-18 03:57 PM)_
+**RPretribution** _(19-Aug-18 03:57 PM)_
 
 > Hang on Iris, I might be able to find a better weapon in here...
 
@@ -35941,7 +35941,7 @@ In the end, the result was:
 
 > REEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!
 
-**RPRetribution** _(19-Aug-18 04:00 PM)_
+**RPretribution** _(19-Aug-18 04:00 PM)_
 
 > @ProfessorTree
 > @ProfessorTree
@@ -35952,7 +35952,7 @@ In the end, the result was:
 
 > Ping
 
-**RPRetribution** _(19-Aug-18 04:01 PM)_
+**RPretribution** _(19-Aug-18 04:01 PM)_
 
 > GO GO GO GO GO GO GO
 
@@ -35991,7 +35991,7 @@ In the end, the result was:
 
 > What is going on?!
 
-**RPRetribution** _(19-Aug-18 04:02 PM)_
+**RPretribution** _(19-Aug-18 04:02 PM)_
 
 > It's only 3098??
 
@@ -36023,7 +36023,7 @@ In the end, the result was:
 
 > I WILL FUCK YOUR MOTHER!
 
-**RPRetribution** _(19-Aug-18 04:03 PM)_
+**RPretribution** _(19-Aug-18 04:03 PM)_
 
 > Jonas [Chunky]
 
@@ -36031,7 +36031,7 @@ In the end, the result was:
 
 > No
 
-**RPRetribution** _(19-Aug-18 04:04 PM)_
+**RPretribution** _(19-Aug-18 04:04 PM)_
 
 > GOTEM
 > wait, do we still have the coms
@@ -36071,7 +36071,7 @@ In the end, the result was:
 
 > I KILLED DROWS DURING THE WAR OF 3046!
 
-**RPRetribution** _(19-Aug-18 04:05 PM)_
+**RPretribution** _(19-Aug-18 04:05 PM)_
 
 > Wait! I think I got something...
 > t!choose a really heavy hammer | that marshmallow from earlier
@@ -36079,12 +36079,12 @@ In the end, the result was:
 **Tatsumaki** _(19-Aug-18 04:06 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > that marshmallow from earlier
 > !
 
-**RPRetribution** _(19-Aug-18 04:06 PM)_
+**RPretribution** _(19-Aug-18 04:06 PM)_
 
 > DAMNIT!
 > Does anyone want this?
@@ -36093,7 +36093,7 @@ In the end, the result was:
 
 > `I'll take it!`
 
-**RPRetribution** _(19-Aug-18 04:06 PM)_
+**RPretribution** _(19-Aug-18 04:06 PM)_
 
 > Here.
 > yea
@@ -36114,7 +36114,7 @@ In the end, the result was:
 
 > `Alright, fine!`
 
-**RPRetribution** _(19-Aug-18 04:07 PM)_
+**RPretribution** _(19-Aug-18 04:07 PM)_
 
 > i'll be right back
 
@@ -36266,7 +36266,7 @@ In the end, the result was:
 
 > `I HAVE A MARSSSHMALLOW!`
 
-**RPRetribution** _(19-Aug-18 04:11 PM)_
+**RPretribution** _(19-Aug-18 04:11 PM)_
 
 > We're never gonna get in there, are we?
 
@@ -36290,7 +36290,7 @@ In the end, the result was:
 
 > Unless you want me to piss on you.
 
-**RPRetribution** _(19-Aug-18 04:12 PM)_
+**RPretribution** _(19-Aug-18 04:12 PM)_
 
 > haha......pee pee.........
 
@@ -36302,7 +36302,7 @@ In the end, the result was:
 
 > Please don’t do that.
 
-**RPRetribution** _(19-Aug-18 04:12 PM)_
+**RPretribution** _(19-Aug-18 04:12 PM)_
 
 > You sure love marshmallows.
 
@@ -36327,7 +36327,7 @@ In the end, the result was:
 
 > `Oh, really?`
 
-**RPRetribution** _(19-Aug-18 04:13 PM)_
+**RPretribution** _(19-Aug-18 04:13 PM)_
 
 > I knew a gal with marshmallow hair once.
 
@@ -36343,7 +36343,7 @@ In the end, the result was:
 
 > Yeah really.
 
-**RPRetribution** _(19-Aug-18 04:13 PM)_
+**RPretribution** _(19-Aug-18 04:13 PM)_
 
 > I think I robbed her, actually...
 
@@ -36352,7 +36352,7 @@ In the end, the result was:
 > I really don't want to piss on my enemy all that much.
 > You can use the outhouse too to make it fair for the both of us.
 
-**RPRetribution** _(19-Aug-18 04:14 PM)_
+**RPretribution** _(19-Aug-18 04:14 PM)_
 
 > oh it's silas's turn
 
@@ -36385,7 +36385,7 @@ In the end, the result was:
 
 > So they don't know which one of us is a robot.
 
-**RPRetribution** _(19-Aug-18 04:14 PM)_
+**RPretribution** _(19-Aug-18 04:14 PM)_
 
 > KYS300
 
@@ -36405,7 +36405,7 @@ In the end, the result was:
 
 > Sure.
 
-**RPRetribution** _(19-Aug-18 04:15 PM)_
+**RPretribution** _(19-Aug-18 04:15 PM)_
 
 > ????
 
@@ -36437,7 +36437,7 @@ In the end, the result was:
 
 > Yeah really.
 
-**RPRetribution** _(19-Aug-18 04:15 PM)_
+**RPretribution** _(19-Aug-18 04:15 PM)_
 
 > You.
 
@@ -36466,7 +36466,7 @@ In the end, the result was:
 
 > Amazing boobs by the way.
 
-**RPRetribution** _(19-Aug-18 04:16 PM)_
+**RPretribution** _(19-Aug-18 04:16 PM)_
 
 > _cough_
 
@@ -36491,7 +36491,7 @@ In the end, the result was:
 
 > If need be, I will kill you both.
 
-**RPRetribution** _(19-Aug-18 04:17 PM)_
+**RPretribution** _(19-Aug-18 04:17 PM)_
 
 > don't worry about it
 
@@ -36499,7 +36499,7 @@ In the end, the result was:
 
 > I didn’t even know that.
 
-**RPRetribution** _(19-Aug-18 04:17 PM)_
+**RPretribution** _(19-Aug-18 04:17 PM)_
 
 > it's cartoon logic
 
@@ -36511,7 +36511,7 @@ In the end, the result was:
 
 > Garlic is a cartoon
 
-**RPRetribution** _(19-Aug-18 04:17 PM)_
+**RPretribution** _(19-Aug-18 04:17 PM)_
 
 > i mean look at him
 
@@ -36523,7 +36523,7 @@ In the end, the result was:
 
 > True
 
-**RPRetribution** _(19-Aug-18 04:18 PM)_
+**RPretribution** _(19-Aug-18 04:18 PM)_
 
 > I got this.
 > t!choose the real seth | the fake seth
@@ -36531,7 +36531,7 @@ In the end, the result was:
 **Tatsumaki** _(19-Aug-18 04:18 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > the fake seth
 > !
@@ -36556,7 +36556,7 @@ In the end, the result was:
 
 > `So, what did you need me to do?`
 
-**RPRetribution** _(19-Aug-18 04:18 PM)_
+**RPretribution** _(19-Aug-18 04:18 PM)_
 
 > i just possessed the fake seth
 > This one smells fake.
@@ -36565,7 +36565,7 @@ In the end, the result was:
 
 > `What the fuck, Garlic!?` > `Get the hell out of me!`
 
-**RPRetribution** _(19-Aug-18 04:19 PM)_
+**RPretribution** _(19-Aug-18 04:19 PM)_
 
 > HEY! IRIS! THIS IS THE FAKE ONE!
 
@@ -36573,7 +36573,7 @@ In the end, the result was:
 
 > `Bullshit! You want me dead!`
 
-**RPRetribution** _(19-Aug-18 04:19 PM)_
+**RPretribution** _(19-Aug-18 04:19 PM)_
 
 > That's true.
 
@@ -36602,7 +36602,7 @@ In the end, the result was:
 
 > `Go on! Run along with your crazy partner!`
 
-**RPRetribution** _(19-Aug-18 04:20 PM)_
+**RPretribution** _(19-Aug-18 04:20 PM)_
 
 > Eugh, why did i think this was a good idea. I'm outta here.
 
@@ -36638,7 +36638,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(19-Aug-18 04:20 PM)_
+**RPretribution** _(19-Aug-18 04:20 PM)_
 
 > I mean, yeah.
 
@@ -36670,7 +36670,7 @@ In the end, the result was:
 
 > Mine too.
 
-**RPRetribution** _(19-Aug-18 04:21 PM)_
+**RPretribution** _(19-Aug-18 04:21 PM)_
 
 > Jeez, fake Seth. How do you live with gears as your insides like that?
 
@@ -36682,7 +36682,7 @@ In the end, the result was:
 
 > I like how there are modern day urinals in the temple
 
-**RPRetribution** _(19-Aug-18 04:21 PM)_
+**RPretribution** _(19-Aug-18 04:21 PM)_
 
 > well
 > it's 3098
@@ -36703,7 +36703,7 @@ In the end, the result was:
 
 > But if it's a 21 century ruins why would the urinals be working
 
-**RPRetribution** _(19-Aug-18 04:22 PM)_
+**RPretribution** _(19-Aug-18 04:22 PM)_
 
 > i don't know
 
@@ -36733,17 +36733,17 @@ In the end, the result was:
 
 > Damn, he does that too often.
 
-**RPRetribution** _(19-Aug-18 04:23 PM)_
+**RPretribution** _(19-Aug-18 04:23 PM)_
 
 > t!8ball does garrick whack kyle on the head with a rock
 
 **Tatsumaki** _(19-Aug-18 04:23 PM)_
 
 > 🎱 | Outlook good,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(19-Aug-18 04:23 PM)_
+**RPretribution** _(19-Aug-18 04:23 PM)_
 
 > cool
 
@@ -36761,7 +36761,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(19-Aug-18 04:23 PM)_
+**RPretribution** _(19-Aug-18 04:23 PM)_
 
 > EAT ROCKS!
 > Please.
@@ -36848,7 +36848,7 @@ In the end, the result was:
 
 > `I've only been here for a day or ssso.`
 
-**RPRetribution** _(19-Aug-18 04:26 PM)_
+**RPretribution** _(19-Aug-18 04:26 PM)_
 
 > I'm hungry, actually.
 
@@ -36864,7 +36864,7 @@ In the end, the result was:
 
 > What do you like to eat? And you too, Garrick. What do you even eat?
 
-**RPRetribution** _(19-Aug-18 04:27 PM)_
+**RPretribution** _(19-Aug-18 04:27 PM)_
 
 > Just... food.
 > Ghosts don't have a specific diet.
@@ -36873,7 +36873,7 @@ In the end, the result was:
 
 > I suppose you’re right. I’m fairly new to this group, so I’m still unsure how to act... ever.
 
-**RPRetribution** _(19-Aug-18 04:27 PM)_
+**RPretribution** _(19-Aug-18 04:27 PM)_
 
 > ghost poo poo
 
@@ -36949,7 +36949,7 @@ In the end, the result was:
 
 > `Right?`
 
-**RPRetribution** _(19-Aug-18 04:30 PM)_
+**RPretribution** _(19-Aug-18 04:30 PM)_
 
 > That's fair.
 
@@ -37036,7 +37036,7 @@ In the end, the result was:
 > Jelsafan0
 > .
 
-**RPRetribution** _(19-Aug-18 04:31 PM)_
+**RPretribution** _(19-Aug-18 04:31 PM)_
 
 > Chomsky seems cool, I guess.
 
@@ -37052,7 +37052,7 @@ In the end, the result was:
 
 > Sure.
 
-**RPRetribution** _(19-Aug-18 04:31 PM)_
+**RPretribution** _(19-Aug-18 04:31 PM)_
 
 > I liked the other guy better.
 
@@ -37111,7 +37111,7 @@ In the end, the result was:
 
 > Indeed. Would you like to go investigate?
 
-**RPRetribution** _(19-Aug-18 04:34 PM)_
+**RPretribution** _(19-Aug-18 04:34 PM)_
 
 > Nice to meet you, Kyle.
 
@@ -37179,7 +37179,7 @@ In the end, the result was:
 > That's space weed.
 > Not grass.
 
-**RPRetribution** _(19-Aug-18 04:36 PM)_
+**RPretribution** _(19-Aug-18 04:36 PM)_
 
 > I am crazy weed
 
@@ -37195,7 +37195,7 @@ In the end, the result was:
 
 > uh. Good for you.
 
-**RPRetribution** _(19-Aug-18 04:37 PM)_
+**RPretribution** _(19-Aug-18 04:37 PM)_
 
 > Sorry, I don't know what came over me there.
 
@@ -37207,7 +37207,7 @@ In the end, the result was:
 
 > I'll take the dead black guys room.
 
-**RPRetribution** _(19-Aug-18 04:38 PM)_
+**RPretribution** _(19-Aug-18 04:38 PM)_
 
 > You guys can share with someone else.
 
@@ -37259,7 +37259,7 @@ In the end, the result was:
 
 > I call a room with the war robot.
 
-**RPRetribution** _(19-Aug-18 04:41 PM)_
+**RPretribution** _(19-Aug-18 04:41 PM)_
 
 > I'll pair with anyone, really.
 
@@ -37271,7 +37271,7 @@ In the end, the result was:
 
 > `I can stay with anyone. But they ssshould be wary.`
 
-**RPRetribution** _(19-Aug-18 04:42 PM)_
+**RPretribution** _(19-Aug-18 04:42 PM)_
 
 > I don't trust Sanya around my marshmallows.
 
@@ -37307,7 +37307,7 @@ In the end, the result was:
 
 > `I would prefer humanoid appearance.`
 
-**RPRetribution** _(19-Aug-18 04:45 PM)_
+**RPretribution** _(19-Aug-18 04:45 PM)_
 
 > Aren't you with Chomsky?
 
@@ -37343,7 +37343,7 @@ In the end, the result was:
 
 > Wait.
 
-**RPRetribution** _(19-Aug-18 04:46 PM)_
+**RPretribution** _(19-Aug-18 04:46 PM)_
 
 > Easy. I'll stay with Jim and Iris.
 
@@ -37374,7 +37374,7 @@ In the end, the result was:
 
 > `If you want.`
 
-**RPRetribution** _(19-Aug-18 04:47 PM)_
+**RPretribution** _(19-Aug-18 04:47 PM)_
 
 > We have to have 3 to a room, rememer?
 
@@ -37394,7 +37394,7 @@ In the end, the result was:
 
 > I simply do not want to be an inconvenience.
 
-**RPRetribution** _(19-Aug-18 04:47 PM)_
+**RPretribution** _(19-Aug-18 04:47 PM)_
 
 > No, Emmett.
 
@@ -37415,7 +37415,7 @@ In the end, the result was:
 > I am indifferent towards any quirks my roommates may have. I am also a rather heavy sleeper.
 > Just place me where it is most convenient.
 
-**RPRetribution** _(19-Aug-18 04:50 PM)_
+**RPretribution** _(19-Aug-18 04:50 PM)_
 
 > I have a feeling Sanya doesn't like me very much.
 
@@ -37427,7 +37427,7 @@ In the end, the result was:
 
 > As I’ve said, whatever is most convenient to the group.
 
-**RPRetribution** _(19-Aug-18 04:50 PM)_
+**RPretribution** _(19-Aug-18 04:50 PM)_
 
 > Do you have any opinion on this at all?
 
@@ -37455,7 +37455,7 @@ In the end, the result was:
 
 > Goodbye Chomsky.
 
-**RPRetribution** _(19-Aug-18 04:52 PM)_
+**RPretribution** _(19-Aug-18 04:52 PM)_
 
 > You're certainly not an inconvenience for me. I'm sure it's the same for everyone else.
 
@@ -37463,14 +37463,14 @@ In the end, the result was:
 
 > I wouldn't mind.
 
-**RPRetribution** _(19-Aug-18 04:55 PM)_
+**RPretribution** _(19-Aug-18 04:55 PM)_
 
 > t!choose Sanya | Iris | Kyle | Jim
 
 **Tatsumaki** _(19-Aug-18 04:55 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > Iris
 > !
@@ -37491,14 +37491,14 @@ In the end, the result was:
 
 > Could turn the fridge into a room too.
 
-**RPRetribution** _(19-Aug-18 04:55 PM)_
+**RPretribution** _(19-Aug-18 04:55 PM)_
 
 > t!choose Sanya | Kyle | Jim
 
 **Tatsumaki** _(19-Aug-18 04:55 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > Jim
 > !
@@ -37508,7 +37508,7 @@ In the end, the result was:
 > You're right.
 > But I use the fridge a lot.
 
-**RPRetribution** _(19-Aug-18 04:56 PM)_
+**RPretribution** _(19-Aug-18 04:56 PM)_
 
 > So I'm with Iris and Jim.
 
@@ -38408,7 +38408,7 @@ In the end, the result was:
 > (Muffled)
 > If you're going to sit on me, at least sit near my legs.
 
-**RPRetribution** _(25-Aug-18 01:40 PM)_
+**RPretribution** _(25-Aug-18 01:40 PM)_
 
 > what
 
@@ -38428,7 +38428,7 @@ In the end, the result was:
 
 > `I could probably scan from here.`
 
-**RPRetribution** _(25-Aug-18 01:41 PM)_
+**RPretribution** _(25-Aug-18 01:41 PM)_
 
 > What’s Thelma?
 
@@ -38458,7 +38458,7 @@ In the end, the result was:
 
 > We need heatsinks in the engine room I guess.
 
-**RPRetribution** _(25-Aug-18 01:42 PM)_
+**RPretribution** _(25-Aug-18 01:42 PM)_
 
 > I hear everything.
 
@@ -38470,7 +38470,7 @@ In the end, the result was:
 
 > `It seems like it's on fire.`
 
-**RPRetribution** _(25-Aug-18 01:42 PM)_
+**RPretribution** _(25-Aug-18 01:42 PM)_
 
 > Woah, really?
 
@@ -38482,7 +38482,7 @@ In the end, the result was:
 
 > she's your rodent.
 
-**RPRetribution** _(25-Aug-18 01:42 PM)_
+**RPretribution** _(25-Aug-18 01:42 PM)_
 
 > It’ll be fine.
 
@@ -38506,7 +38506,7 @@ In the end, the result was:
 
 > fine.
 
-**RPRetribution** _(25-Aug-18 01:43 PM)_
+**RPretribution** _(25-Aug-18 01:43 PM)_
 
 > Okay, but...
 > What does guinea pig taste like?
@@ -38563,7 +38563,7 @@ In the end, the result was:
 
 > she's a little burnt.
 
-**RPRetribution** _(25-Aug-18 01:44 PM)_
+**RPretribution** _(25-Aug-18 01:44 PM)_
 
 > It’s on fire, Chonky.
 
@@ -38601,7 +38601,7 @@ In the end, the result was:
 
 > `NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO`
 
-**RPRetribution** _(25-Aug-18 01:44 PM)_
+**RPretribution** _(25-Aug-18 01:44 PM)_
 
 > Woah. What’s going on between you two?
 
@@ -38637,7 +38637,7 @@ In the end, the result was:
 
 > `What? OH MY GOD!`
 
-**RPRetribution** _(25-Aug-18 01:45 PM)_
+**RPretribution** _(25-Aug-18 01:45 PM)_
 
 > How heavy are plant people normally?
 
@@ -38645,7 +38645,7 @@ In the end, the result was:
 
 > `About 147 pounds.`
 
-**RPRetribution** _(25-Aug-18 01:45 PM)_
+**RPretribution** _(25-Aug-18 01:45 PM)_
 
 > crouch
 
@@ -38661,7 +38661,7 @@ In the end, the result was:
 > war planet cloaked as a forest planet
 > !
 
-**RPRetribution** _(25-Aug-18 01:46 PM)_
+**RPretribution** _(25-Aug-18 01:46 PM)_
 
 > E
 > E!
@@ -38694,7 +38694,7 @@ In the end, the result was:
 
 > Nah, I got a better idea.
 
-**RPRetribution** _(25-Aug-18 01:47 PM)_
+**RPretribution** _(25-Aug-18 01:47 PM)_
 
 > You can’t stop me.
 
@@ -38720,7 +38720,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(25-Aug-18 01:48 PM)_
+**RPretribution** _(25-Aug-18 01:48 PM)_
 
 > A NEW WHAT
 
@@ -38728,7 +38728,7 @@ In the end, the result was:
 
 > `But you're a good chair.`
 
-**RPRetribution** _(25-Aug-18 01:48 PM)_
+**RPretribution** _(25-Aug-18 01:48 PM)_
 
 > oh.
 > oh.
@@ -38757,7 +38757,7 @@ In the end, the result was:
 
 > `That's a fetish in many cultures..`
 
-**RPRetribution** _(25-Aug-18 01:49 PM)_
+**RPretribution** _(25-Aug-18 01:49 PM)_
 
 > Yeah.
 
@@ -38765,31 +38765,31 @@ In the end, the result was:
 
 > I dunno I've only been here a week, but so far yeah.
 
-**RPRetribution** _(25-Aug-18 01:49 PM)_
+**RPretribution** _(25-Aug-18 01:49 PM)_
 
 > t!8ball does sanya get off
 
 **Tatsumaki** _(25-Aug-18 01:49 PM)_
 
 > 🎱 | Outlook not so good,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(25-Aug-18 01:49 PM)_
+**RPretribution** _(25-Aug-18 01:49 PM)_
 
 > @Brakia
 
 **Brakia** _(25-Aug-18 01:49 PM)_
 
-> @RPRetribution
+> @RPretribution
 
-**RPRetribution** _(25-Aug-18 01:49 PM)_
+**RPretribution** _(25-Aug-18 01:49 PM)_
 
 > @Brakia
 
 **Brakia** _(25-Aug-18 01:49 PM)_
 
-> @RPRetribution
+> @RPretribution
 
 **TheBlade** _(25-Aug-18 01:49 PM)_
 
@@ -38808,7 +38808,7 @@ In the end, the result was:
 > @Final Frontier
 > @Final Frontier
 
-**RPRetribution** _(25-Aug-18 01:50 PM)_
+**RPretribution** _(25-Aug-18 01:50 PM)_
 
 > @Final Frontier
 
@@ -38816,7 +38816,7 @@ In the end, the result was:
 
 > `Alright.`
 
-**RPRetribution** _(25-Aug-18 01:50 PM)_
+**RPretribution** _(25-Aug-18 01:50 PM)_
 
 > @Brakia
 
@@ -38844,7 +38844,7 @@ In the end, the result was:
 > Brakia
 > .
 > 🎱 | Yes, definitely,
-> [RP]retribution
+> RPretribution
 > .
 
 **Brakia** _(25-Aug-18 01:50 PM)_
@@ -38857,7 +38857,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(25-Aug-18 01:51 PM)_
+**RPretribution** _(25-Aug-18 01:51 PM)_
 
 > Well, you guys can stay here.
 
@@ -38865,7 +38865,7 @@ In the end, the result was:
 
 > Move to my flipping legs, woman.
 
-**RPRetribution** _(25-Aug-18 01:51 PM)_
+**RPretribution** _(25-Aug-18 01:51 PM)_
 
 > Have fun.
 
@@ -38889,7 +38889,7 @@ In the end, the result was:
 
 > JIM, I NEED MY GRASS.
 
-**RPRetribution** _(25-Aug-18 01:51 PM)_
+**RPretribution** _(25-Aug-18 01:51 PM)_
 
 > Oh.
 
@@ -38905,7 +38905,7 @@ In the end, the result was:
 
 > `Just get out of the ship, were landing.`
 
-**RPRetribution** _(25-Aug-18 01:52 PM)_
+**RPretribution** _(25-Aug-18 01:52 PM)_
 
 > Something’s off, and it’s not Sanya.
 
@@ -38921,7 +38921,7 @@ In the end, the result was:
 
 > `I think, the only thing ON is Seth.`
 
-**RPRetribution** _(25-Aug-18 01:52 PM)_
+**RPretribution** _(25-Aug-18 01:52 PM)_
 
 > eat sanya grass
 
@@ -38937,7 +38937,7 @@ In the end, the result was:
 
 > `This atmosphere is much too polluted to hold this much plant life.`
 
-**RPRetribution** _(25-Aug-18 01:52 PM)_
+**RPretribution** _(25-Aug-18 01:52 PM)_
 
 > eat sanya.
 > sanya more like salad
@@ -38946,7 +38946,7 @@ In the end, the result was:
 
 > `We need to get out of here.`
 
-**RPRetribution** _(25-Aug-18 01:53 PM)_
+**RPretribution** _(25-Aug-18 01:53 PM)_
 
 > SANYA SALAD
 > SANYA SALAD
@@ -38955,7 +38955,7 @@ In the end, the result was:
 
 > mmm no thanks
 
-**RPRetribution** _(25-Aug-18 01:53 PM)_
+**RPretribution** _(25-Aug-18 01:53 PM)_
 
 > SANYA SALAD
 
@@ -38995,7 +38995,7 @@ In the end, the result was:
 
 > I'M GOING TO LOG AND YOU CANT STOP ME
 
-**RPRetribution** _(25-Aug-18 01:53 PM)_
+**RPretribution** _(25-Aug-18 01:53 PM)_
 
 > How is Emmett even breathing?
 
@@ -39003,7 +39003,7 @@ In the end, the result was:
 
 > https://www.youtube.com/watch?v=Y4fV7RrQfuM
 
-**RPRetribution** _(25-Aug-18 01:54 PM)_
+**RPretribution** _(25-Aug-18 01:54 PM)_
 
 > @Jelsafan0
 
@@ -39035,7 +39035,7 @@ In the end, the result was:
 
 > Alright
 
-**RPRetribution** _(25-Aug-18 01:55 PM)_
+**RPretribution** _(25-Aug-18 01:55 PM)_
 
 > thats it
 > no more tatsu
@@ -39080,7 +39080,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(25-Aug-18 01:56 PM)_
+**RPretribution** _(25-Aug-18 01:56 PM)_
 
 > We’ll never get anywhere this way.
 
@@ -39088,7 +39088,7 @@ In the end, the result was:
 
 > https://www.youtube.com/watch?v=eMShGTdLArs
 
-**RPRetribution** _(25-Aug-18 01:57 PM)_
+**RPretribution** _(25-Aug-18 01:57 PM)_
 
 > No!
 
@@ -39105,7 +39105,7 @@ In the end, the result was:
 > hold on
 > ill be back
 
-**RPRetribution** _(25-Aug-18 01:57 PM)_
+**RPretribution** _(25-Aug-18 01:57 PM)_
 
 > Then let’s go, what’re we waiting for?
 
@@ -39141,7 +39141,7 @@ In the end, the result was:
 > ProfessorTree
 > .
 
-**RPRetribution** _(25-Aug-18 01:59 PM)_
+**RPretribution** _(25-Aug-18 01:59 PM)_
 
 > I’ll pilot the ship.
 
@@ -39149,7 +39149,7 @@ In the end, the result was:
 
 > Fuck off nigger.
 
-**RPRetribution** _(25-Aug-18 02:00 PM)_
+**RPretribution** _(25-Aug-18 02:00 PM)_
 
 > It’ll be fine!
 
@@ -39157,7 +39157,7 @@ In the end, the result was:
 
 > `Why are we going away from the planet?`
 
-**RPRetribution** _(25-Aug-18 02:00 PM)_
+**RPretribution** _(25-Aug-18 02:00 PM)_
 
 > I’m great at piloting
 
@@ -39179,7 +39179,7 @@ In the end, the result was:
 > TheBlade
 > .
 
-**RPRetribution** _(25-Aug-18 02:00 PM)_
+**RPretribution** _(25-Aug-18 02:00 PM)_
 
 > WINDOWS SMARTSCREEN HAS PREVENTED THE APPLICATION FROM RUNNING
 
@@ -39187,7 +39187,7 @@ In the end, the result was:
 
 > `Guys...` > `What is that.`
 
-**RPRetribution** _(25-Aug-18 02:01 PM)_
+**RPretribution** _(25-Aug-18 02:01 PM)_
 
 > idk man
 > he just falls on his face
@@ -39212,7 +39212,7 @@ In the end, the result was:
 
 > Sanya, could you pass me that bottle over there?
 
-**RPRetribution** _(25-Aug-18 02:02 PM)_
+**RPretribution** _(25-Aug-18 02:02 PM)_
 
 > there’s exactly 5 death in this planet
 
@@ -39229,17 +39229,17 @@ In the end, the result was:
 > Mmmmm Mantis.
 > Been a while since I had mantis stew.
 
-**RPRetribution** _(25-Aug-18 02:03 PM)_
+**RPretribution** _(25-Aug-18 02:03 PM)_
 
 > t!8ball does garrick fly around aimlessly
 
 **Tatsumaki** _(25-Aug-18 02:03 PM)_
 
 > 🎱 | It is decidedly so,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(25-Aug-18 02:03 PM)_
+**RPretribution** _(25-Aug-18 02:03 PM)_
 
 > great
 > your turn
@@ -39256,7 +39256,7 @@ In the end, the result was:
 
 > `We need to get the hell out of here.`
 
-**RPRetribution** _(25-Aug-18 02:03 PM)_
+**RPretribution** _(25-Aug-18 02:03 PM)_
 
 > Then let’s go.
 > Jeez.
@@ -39270,7 +39270,7 @@ In the end, the result was:
 
 > they sound BURNABLE.
 
-**RPRetribution** _(25-Aug-18 02:03 PM)_
+**RPretribution** _(25-Aug-18 02:03 PM)_
 
 > Ah. Now i’m interested.
 
@@ -39288,7 +39288,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(25-Aug-18 02:04 PM)_
+**RPretribution** _(25-Aug-18 02:04 PM)_
 
 > what
 
@@ -39314,7 +39314,7 @@ In the end, the result was:
 
 > `Warlord dropships often carry at least 200 soldiers.`
 
-**RPRetribution** _(25-Aug-18 02:04 PM)_
+**RPretribution** _(25-Aug-18 02:04 PM)_
 
 > @Cringe
 
@@ -39322,7 +39322,7 @@ In the end, the result was:
 
 > I don't think so.
 
-**RPRetribution** _(25-Aug-18 02:04 PM)_
+**RPretribution** _(25-Aug-18 02:04 PM)_
 
 > dont
 > zander
@@ -39335,7 +39335,7 @@ In the end, the result was:
 
 > Takes me a few drinks of this to get me even tipsy.
 
-**RPRetribution** _(25-Aug-18 02:05 PM)_
+**RPretribution** _(25-Aug-18 02:05 PM)_
 
 > zander, are you a frequent viewer of furry pornography
 
@@ -39343,7 +39343,7 @@ In the end, the result was:
 
 > `I do, but the ship is too far away to properly scan it.`
 
-**RPRetribution** _(25-Aug-18 02:05 PM)_
+**RPretribution** _(25-Aug-18 02:05 PM)_
 
 > please do not share this with us
 
@@ -39395,7 +39395,7 @@ In the end, the result was:
 
 > `And if this is a military place, then they would have high security.`
 
-**RPRetribution** _(25-Aug-18 02:07 PM)_
+**RPretribution** _(25-Aug-18 02:07 PM)_
 
 > Are those potatoes?
 
@@ -39421,7 +39421,7 @@ In the end, the result was:
 
 > `I wonder what'sss happening outssside?`
 
-**RPRetribution** _(25-Aug-18 02:07 PM)_
+**RPretribution** _(25-Aug-18 02:07 PM)_
 
 > Baked potatoes???
 
@@ -39461,7 +39461,7 @@ In the end, the result was:
 
 > `They're dropping in soldiers!`
 
-**RPRetribution** _(25-Aug-18 02:08 PM)_
+**RPretribution** _(25-Aug-18 02:08 PM)_
 
 > I can die on command
 > see? i’ll prove it
@@ -39482,7 +39482,7 @@ In the end, the result was:
 
 > `I'm going back to she ship. I suggest you follow me.`
 
-**RPRetribution** _(25-Aug-18 02:09 PM)_
+**RPretribution** _(25-Aug-18 02:09 PM)_
 
 > HEY! MANTIS! PISS OFF!
 
@@ -39508,7 +39508,7 @@ In the end, the result was:
 
 > `Oh, It'sss the robot.`
 
-**RPRetribution** _(25-Aug-18 02:09 PM)_
+**RPretribution** _(25-Aug-18 02:09 PM)_
 
 > They’ll go away now.
 
@@ -39516,7 +39516,7 @@ In the end, the result was:
 
 > It's called "The Crave", by Seth.
 
-**RPRetribution** _(25-Aug-18 02:09 PM)_
+**RPretribution** _(25-Aug-18 02:09 PM)_
 
 > I guarantee it.
 
@@ -39536,7 +39536,7 @@ In the end, the result was:
 
 > `Hundreds of soldiers are coming our way. We need to get out of here.`
 
-**RPRetribution** _(25-Aug-18 02:10 PM)_
+**RPretribution** _(25-Aug-18 02:10 PM)_
 
 > poopy powers
 
@@ -40322,7 +40322,7 @@ In the end, the result was:
 
 > we have weed will that work
 
-**RPRetribution** _(25-Aug-18 02:39 PM)_
+**RPretribution** _(25-Aug-18 02:39 PM)_
 
 > i am crazy weed
 
@@ -40464,7 +40464,7 @@ In the end, the result was:
 
 > Guys he's getting stupider and stronger!
 
-**RPRetribution** _(25-Aug-18 02:43 PM)_
+**RPretribution** _(25-Aug-18 02:43 PM)_
 
 > HOLY 🅱️RAP
 
@@ -40480,7 +40480,7 @@ In the end, the result was:
 
 > `He is in the cell.` > `I locked it, we are good.`
 
-**RPRetribution** _(25-Aug-18 02:43 PM)_
+**RPretribution** _(25-Aug-18 02:43 PM)_
 
 > How do we stop it
 
@@ -40524,7 +40524,7 @@ In the end, the result was:
 
 > Meat is strength!
 
-**RPRetribution** _(25-Aug-18 02:45 PM)_
+**RPretribution** _(25-Aug-18 02:45 PM)_
 
 > emmett! u gay
 
@@ -40537,7 +40537,7 @@ In the end, the result was:
 > `Grass is brain.`
 > taps head
 
-**RPRetribution** _(25-Aug-18 02:45 PM)_
+**RPretribution** _(25-Aug-18 02:45 PM)_
 
 > that’ll fix this.
 > What if i just possess him?
@@ -40572,7 +40572,7 @@ In the end, the result was:
 
 > Don't be stupid plantwoman.
 
-**RPRetribution** _(25-Aug-18 02:45 PM)_
+**RPretribution** _(25-Aug-18 02:45 PM)_
 
 > Do I even have a brain?
 
@@ -40588,7 +40588,7 @@ In the end, the result was:
 
 > When he doesn't have grass.
 
-**RPRetribution** _(25-Aug-18 02:46 PM)_
+**RPretribution** _(25-Aug-18 02:46 PM)_
 
 > I don’t think that’s how ghosts work.
 
@@ -40650,7 +40650,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(25-Aug-18 02:47 PM)_
+**RPretribution** _(25-Aug-18 02:47 PM)_
 
 > Oh please, I’ve possessed worse things.
 > I can handle Emmett.
@@ -40667,7 +40667,7 @@ In the end, the result was:
 
 > I turned on the autopilot.
 
-**RPRetribution** _(25-Aug-18 02:48 PM)_
+**RPretribution** _(25-Aug-18 02:48 PM)_
 
 > hurry up nerds
 > i’m waiting for my turn so garrick can possess emmett
@@ -40676,7 +40676,7 @@ In the end, the result was:
 
 > (Emmett bites and tears off one of the bars on the door.)
 
-**RPRetribution** _(25-Aug-18 02:48 PM)_
+**RPretribution** _(25-Aug-18 02:48 PM)_
 
 > Oh, for Christ’s sake.
 
@@ -40718,7 +40718,7 @@ In the end, the result was:
 
 > `I got this.`
 
-**RPRetribution** _(25-Aug-18 02:49 PM)_
+**RPretribution** _(25-Aug-18 02:49 PM)_
 
 > @TheBlade
 > go
@@ -40741,19 +40741,19 @@ In the end, the result was:
 > TheBlade
 > .
 
-**RPRetribution** _(25-Aug-18 02:50 PM)_
+**RPretribution** _(25-Aug-18 02:50 PM)_
 
 > t!choose possess emmett | possess emmett 1 second later than the other option
 
 **Tatsumaki** _(25-Aug-18 02:50 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > possess emmett 1 second later than the other option
 > !
 
-**RPRetribution** _(25-Aug-18 02:50 PM)_
+**RPretribution** _(25-Aug-18 02:50 PM)_
 
 > great
 > wow
@@ -40764,7 +40764,7 @@ In the end, the result was:
 
 > Blade, you draw attention, I'll take him down from behind.
 
-**RPRetribution** _(25-Aug-18 02:50 PM)_
+**RPretribution** _(25-Aug-18 02:50 PM)_
 
 > fine
 
@@ -40780,7 +40780,7 @@ In the end, the result was:
 
 > `We dont have any knifes around.`
 
-**RPRetribution** _(25-Aug-18 02:51 PM)_
+**RPretribution** _(25-Aug-18 02:51 PM)_
 
 > Wow, I’m huge.
 
@@ -40861,7 +40861,7 @@ In the end, the result was:
 
 > KYLE THAT WAS SO LOUD
 
-**RPRetribution** _(25-Aug-18 02:53 PM)_
+**RPretribution** _(25-Aug-18 02:53 PM)_
 
 > i’ll be fair this time
 > i’ll do a normal 8ball
@@ -40874,7 +40874,7 @@ In the end, the result was:
 
 > We need to bind him down while he's out Jim.
 
-**RPRetribution** _(25-Aug-18 02:53 PM)_
+**RPretribution** _(25-Aug-18 02:53 PM)_
 
 > hurry up smellie
 
@@ -40900,17 +40900,17 @@ In the end, the result was:
 > Kick Door Down
 > !
 
-**RPRetribution** _(25-Aug-18 02:53 PM)_
+**RPretribution** _(25-Aug-18 02:53 PM)_
 
 > t!8ball vro does garrick possess emmett or not
 
 **Tatsumaki** _(25-Aug-18 02:53 PM)_
 
 > 🎱 | Don't count on it,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(25-Aug-18 02:54 PM)_
+**RPretribution** _(25-Aug-18 02:54 PM)_
 
 > got it
 
@@ -40938,7 +40938,7 @@ In the end, the result was:
 
 > `I'm hungry.`
 
-**RPRetribution** _(25-Aug-18 02:54 PM)_
+**RPretribution** _(25-Aug-18 02:54 PM)_
 
 > Oh, come on.
 
@@ -40964,7 +40964,7 @@ In the end, the result was:
 
 > `FUCK`
 
-**RPRetribution** _(25-Aug-18 02:54 PM)_
+**RPretribution** _(25-Aug-18 02:54 PM)_
 
 > There’s an otherworldly power keeping me from possessing Emmett.
 
@@ -40976,7 +40976,7 @@ In the end, the result was:
 
 > `EVERYONE GET IN HERE`
 
-**RPRetribution** _(25-Aug-18 02:55 PM)_
+**RPretribution** _(25-Aug-18 02:55 PM)_
 
 > Guess he’ll die.
 
@@ -41044,7 +41044,7 @@ In the end, the result was:
 
 > What is it Jim?
 
-**RPRetribution** _(25-Aug-18 02:55 PM)_
+**RPretribution** _(25-Aug-18 02:55 PM)_
 
 > idio
 
@@ -41064,7 +41064,7 @@ In the end, the result was:
 
 > YOU LET HIM OUT
 
-**RPRetribution** _(25-Aug-18 02:56 PM)_
+**RPretribution** _(25-Aug-18 02:56 PM)_
 
 >
 
@@ -41080,7 +41080,7 @@ In the end, the result was:
 
 > Wait, I can't actually say curses?
 
-**RPRetribution** _(25-Aug-18 02:56 PM)_
+**RPretribution** _(25-Aug-18 02:56 PM)_
 
 > garrick witha nose
 
@@ -41106,7 +41106,7 @@ In the end, the result was:
 
 > The floran is a Female Dog in Spainish.
 
-**RPRetribution** _(25-Aug-18 02:56 PM)_
+**RPretribution** _(25-Aug-18 02:56 PM)_
 
 > he knose all
 
@@ -41136,7 +41136,7 @@ In the end, the result was:
 
 > `Fuck you, bird.`
 
-**RPRetribution** _(25-Aug-18 02:57 PM)_
+**RPretribution** _(25-Aug-18 02:57 PM)_
 
 > he NOSE all
 
@@ -41148,7 +41148,7 @@ In the end, the result was:
 
 > CAN'T THIS SHIP GO ANY FASTER
 
-**RPRetribution** _(25-Aug-18 02:57 PM)_
+**RPretribution** _(25-Aug-18 02:57 PM)_
 
 > GREEN PERSON
 
@@ -41182,7 +41182,7 @@ In the end, the result was:
 
 > Mule.
 
-**RPRetribution** _(25-Aug-18 02:57 PM)_
+**RPretribution** _(25-Aug-18 02:57 PM)_
 
 > streinght
 
@@ -41214,7 +41214,7 @@ In the end, the result was:
 
 > why'd you do that
 
-**RPRetribution** _(25-Aug-18 02:58 PM)_
+**RPretribution** _(25-Aug-18 02:58 PM)_
 
 > me feel bad too
 
@@ -41234,7 +41234,7 @@ In the end, the result was:
 
 > Yes this was well known, you Female Dog in Spainish.
 
-**RPRetribution** _(25-Aug-18 02:59 PM)_
+**RPretribution** _(25-Aug-18 02:59 PM)_
 
 > ssssssssssssssssshut up
 
@@ -41244,7 +41244,7 @@ In the end, the result was:
 
 > FAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-**RPRetribution** _(25-Aug-18 02:59 PM)_
+**RPretribution** _(25-Aug-18 02:59 PM)_
 
 > Whose turn is it
 
@@ -41256,7 +41256,7 @@ In the end, the result was:
 
 > Bab ab boo boo boo bedo
 
-**RPRetribution** _(25-Aug-18 02:59 PM)_
+**RPretribution** _(25-Aug-18 02:59 PM)_
 
 > Oh my God! He’s becoming Super Sans!
 
@@ -41268,7 +41268,7 @@ In the end, the result was:
 
 > https://cdn.discordapp.com/attachments/436492233735143435/483002408981626880/enlarge.png
 
-**RPRetribution** _(25-Aug-18 03:00 PM)_
+**RPretribution** _(25-Aug-18 03:00 PM)_
 
 > OH GOD! EMMETT IS BECOMING SANS!!!
 
@@ -41298,7 +41298,7 @@ In the end, the result was:
 
 > What the Underworld is a sans?
 
-**RPRetribution** _(25-Aug-18 03:01 PM)_
+**RPretribution** _(25-Aug-18 03:01 PM)_
 
 > I don’t know, man.
 
@@ -41316,7 +41316,7 @@ In the end, the result was:
 
 > no
 
-**RPRetribution** _(25-Aug-18 03:01 PM)_
+**RPretribution** _(25-Aug-18 03:01 PM)_
 
 > what in the underground is sans
 
@@ -41324,7 +41324,7 @@ In the end, the result was:
 
 > `Sssniff it!`
 
-**RPRetribution** _(25-Aug-18 03:01 PM)_
+**RPretribution** _(25-Aug-18 03:01 PM)_
 
 > I’ll sniff it.
 
@@ -41336,7 +41336,7 @@ In the end, the result was:
 
 > You're gonna get your Mule kicked plantwoman.
 
-**RPRetribution** _(25-Aug-18 03:02 PM)_
+**RPretribution** _(25-Aug-18 03:02 PM)_
 
 > yes he does
 
@@ -41352,7 +41352,7 @@ In the end, the result was:
 
 > `C'mon. Jussst Sssniff the flower.`
 
-**RPRetribution** _(25-Aug-18 03:02 PM)_
+**RPretribution** _(25-Aug-18 03:02 PM)_
 
 > SNIFFFFF
 
@@ -41360,7 +41360,7 @@ In the end, the result was:
 
 > Emmett, hang in there buddy.
 
-**RPRetribution** _(25-Aug-18 03:02 PM)_
+**RPretribution** _(25-Aug-18 03:02 PM)_
 
 > It smells smelly.
 
@@ -41377,7 +41377,7 @@ In the end, the result was:
 > 🆙 |
 > TheBlade leveled up!
 
-**RPRetribution** _(25-Aug-18 03:03 PM)_
+**RPretribution** _(25-Aug-18 03:03 PM)_
 
 > i want to talk like emmett is talking right now
 > plant smelly
@@ -41398,7 +41398,7 @@ In the end, the result was:
 
 > night night
 
-**RPRetribution** _(25-Aug-18 03:04 PM)_
+**RPretribution** _(25-Aug-18 03:04 PM)_
 
 > goodnight emmett
 
@@ -41426,7 +41426,7 @@ In the end, the result was:
 
 > `have we landed yet?`
 
-**RPRetribution** _(25-Aug-18 03:05 PM)_
+**RPretribution** _(25-Aug-18 03:05 PM)_
 
 > what is squoat nature
 > swuoma
@@ -41436,7 +41436,7 @@ In the end, the result was:
 
 > Call my friend a monster again and I will end you.
 
-**RPRetribution** _(25-Aug-18 03:06 PM)_
+**RPretribution** _(25-Aug-18 03:06 PM)_
 
 > literally what even are you matthias
 
@@ -41444,7 +41444,7 @@ In the end, the result was:
 
 > he's a bird man
 
-**RPRetribution** _(25-Aug-18 03:06 PM)_
+**RPretribution** _(25-Aug-18 03:06 PM)_
 
 > i’m after blade, btw
 
@@ -41458,7 +41458,7 @@ In the end, the result was:
 > Enchantingtable2013
 > .
 
-**RPRetribution** _(25-Aug-18 03:06 PM)_
+**RPretribution** _(25-Aug-18 03:06 PM)_
 
 > just had to leave the vc
 
@@ -41474,7 +41474,7 @@ In the end, the result was:
 
 > Ooh das cool.
 
-**RPRetribution** _(25-Aug-18 03:06 PM)_
+**RPretribution** _(25-Aug-18 03:06 PM)_
 
 > i still want to possess emmett before he becomes normal again
 
@@ -41598,7 +41598,7 @@ In the end, the result was:
 In the end, the result was:
 3
 
-**RPRetribution** _(25-Aug-18 03:12 PM)_
+**RPretribution** _(25-Aug-18 03:12 PM)_
 
 > what
 
@@ -42002,7 +42002,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(26-Aug-18 03:13 PM)_
+**RPretribution** _(26-Aug-18 03:13 PM)_
 
 > also, i’m still gonna play, i just can’t be in the vc
 
@@ -42011,7 +42011,7 @@ In the end, the result was:
 > Not even deafened?
 > Or are you talking to others?
 
-**RPRetribution** _(26-Aug-18 03:13 PM)_
+**RPretribution** _(26-Aug-18 03:13 PM)_
 
 > if it’s my turn, ping me or smth
 > i’m below blade, iirc
@@ -42042,19 +42042,19 @@ In the end, the result was:
 
 **Zander** _(26-Aug-18 03:15 PM)_
 
-> @RPRetribution
+> @RPretribution
 
-**RPRetribution** _(26-Aug-18 03:16 PM)_
+**RPretribution** _(26-Aug-18 03:16 PM)_
 
 > t!8ball is garrick awake
 
 **Tatsumaki** _(26-Aug-18 03:16 PM)_
 
 > 🎱 | Concentrate and ask again,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(26-Aug-18 03:16 PM)_
+**RPretribution** _(26-Aug-18 03:16 PM)_
 
 > does garrick even sleep
 > oh cmon
@@ -42064,7 +42064,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 03:16 PM)_
 
 > 🎱 | Yes, definitely,
-> [RP]retribution
+> RPretribution
 > .
 
 **Zander** _(26-Aug-18 03:16 PM)_
@@ -42111,7 +42111,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(26-Aug-18 03:18 PM)_
+**RPretribution** _(26-Aug-18 03:18 PM)_
 
 > 👁👄👁
 
@@ -42129,7 +42129,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(26-Aug-18 03:18 PM)_
+**RPretribution** _(26-Aug-18 03:18 PM)_
 
 > we’ll never know if emmett set off for the cockpit
 
@@ -42141,7 +42141,7 @@ In the end, the result was:
 
 > `hessscoming...` > `mmm`
 
-**RPRetribution** _(26-Aug-18 03:19 PM)_
+**RPretribution** _(26-Aug-18 03:19 PM)_
 
 > mmm
 
@@ -42168,7 +42168,7 @@ In the end, the result was:
 **Zander** _(26-Aug-18 03:19 PM)_
 
 > 8ball sassy
-> @RPRetribution
+> @RPretribution
 
 **Tatsumaki** _(26-Aug-18 03:20 PM)_
 
@@ -42176,21 +42176,21 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(26-Aug-18 03:20 PM)_
+**RPretribution** _(26-Aug-18 03:20 PM)_
 
 > t!8ball does garrick go find everyone else
 
 **Tatsumaki** _(26-Aug-18 03:20 PM)_
 
 > 🎱 | You may rely on it,
-> [RP]retribution
+> RPretribution
 > .
 
 **Zander** _(26-Aug-18 03:21 PM)_
 
 > Oh hey Garrick.
 
-**RPRetribution** _(26-Aug-18 03:21 PM)_
+**RPretribution** _(26-Aug-18 03:21 PM)_
 
 > Heya. Where’s Seth?
 
@@ -42264,7 +42264,7 @@ In the end, the result was:
 
 > I once choked on some of it and like, saw an epilepsy with my eyes.
 
-**RPRetribution** _(26-Aug-18 03:26 PM)_
+**RPretribution** _(26-Aug-18 03:26 PM)_
 
 > You two sure love space drugs.
 > Hey, I won’t judge.
@@ -42277,7 +42277,7 @@ In the end, the result was:
 
 > You want me to die, shithead?
 
-**RPRetribution** _(26-Aug-18 03:26 PM)_
+**RPretribution** _(26-Aug-18 03:26 PM)_
 
 > ¯\_(ツ)\_/¯
 
@@ -42285,7 +42285,7 @@ In the end, the result was:
 
 > It's a life preserver.
 
-**RPRetribution** _(26-Aug-18 03:26 PM)_
+**RPretribution** _(26-Aug-18 03:26 PM)_
 
 > Not like I would know.
 
@@ -42293,7 +42293,7 @@ In the end, the result was:
 
 > (Garrick literally says this.)
 
-**RPRetribution** _(26-Aug-18 03:27 PM)_
+**RPretribution** _(26-Aug-18 03:27 PM)_
 
 > yeah
 > that’s the point
@@ -42322,7 +42322,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(26-Aug-18 03:28 PM)_
+**RPretribution** _(26-Aug-18 03:28 PM)_
 
 > dear god
 
@@ -42340,10 +42340,10 @@ In the end, the result was:
 
 **Zander** _(26-Aug-18 03:29 PM)_
 
-> @RPRetribution
+> @RPretribution
 > (We're going through a black hole, and thus, are facing the effects of going through one without protection.)
 
-**RPRetribution** _(26-Aug-18 03:30 PM)_
+**RPretribution** _(26-Aug-18 03:30 PM)_
 
 > nice
 
@@ -42380,7 +42380,7 @@ In the end, the result was:
 
 > Sanya, you have like, fourteen eyes.
 
-**RPRetribution** _(26-Aug-18 03:33 PM)_
+**RPretribution** _(26-Aug-18 03:33 PM)_
 
 > what
 
@@ -42392,7 +42392,7 @@ In the end, the result was:
 
 > Close one eye.
 
-**RPRetribution** _(26-Aug-18 03:33 PM)_
+**RPretribution** _(26-Aug-18 03:33 PM)_
 
 > Where are my legs?
 
@@ -42400,7 +42400,7 @@ In the end, the result was:
 
 > `You don't have legs.`
 
-**RPRetribution** _(26-Aug-18 03:34 PM)_
+**RPretribution** _(26-Aug-18 03:34 PM)_
 
 > Ohhhh... right...
 
@@ -42408,7 +42408,7 @@ In the end, the result was:
 
 > (Garrick percieves that he has chicken legs though)
 
-**RPRetribution** _(26-Aug-18 03:36 PM)_
+**RPretribution** _(26-Aug-18 03:36 PM)_
 
 > right
 
@@ -42447,19 +42447,19 @@ In the end, the result was:
 **Zander** _(26-Aug-18 03:38 PM)_
 
 > I can't control this!
-> @RPRetribution
+> @RPretribution
 
-**RPRetribution** _(26-Aug-18 03:38 PM)_
+**RPretribution** _(26-Aug-18 03:38 PM)_
 
 > t!8ball does garrick look like a chicken
 
 **Tatsumaki** _(26-Aug-18 03:38 PM)_
 
 > 🎱 | Better not tell you now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(26-Aug-18 03:38 PM)_
+**RPretribution** _(26-Aug-18 03:38 PM)_
 
 > answer the stupid
 > t!8ball does garrick look like a chicken
@@ -42467,10 +42467,10 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 03:38 PM)_
 
 > 🎱 | Better not tell you now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(26-Aug-18 03:39 PM)_
+**RPretribution** _(26-Aug-18 03:39 PM)_
 
 > t!8ball does garrick look like a chicken
 > i’m literally h
@@ -42479,10 +42479,10 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 03:39 PM)_
 
 > 🎱 | Better not tell you now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(26-Aug-18 03:39 PM)_
+**RPretribution** _(26-Aug-18 03:39 PM)_
 
 > fine.
 > he doesn’t even exist.
@@ -42491,17 +42491,17 @@ In the end, the result was:
 
 > You're literally Trey
 
-**RPRetribution** _(26-Aug-18 03:39 PM)_
+**RPretribution** _(26-Aug-18 03:39 PM)_
 
 > t!8ball does garrick look like a chicken
 
 **Tatsumaki** _(26-Aug-18 03:39 PM)_
 
 > 🎱 | Don't count on it,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(26-Aug-18 03:39 PM)_
+**RPretribution** _(26-Aug-18 03:39 PM)_
 
 > so he looks like a duck, then.
 
@@ -42513,7 +42513,7 @@ In the end, the result was:
 
 > He's in Duck Game?
 
-**RPRetribution** _(26-Aug-18 03:39 PM)_
+**RPretribution** _(26-Aug-18 03:39 PM)_
 
 > yeah
 > ghost game
@@ -42521,14 +42521,14 @@ In the end, the result was:
 **Zander** _(26-Aug-18 03:39 PM)_
 
 > Seth, I think the black hole made you busty.
-> @RPRetribution
+> @RPretribution
 > Make a resprite for Garrick in Duck Game
 
 **Bagelwrecker** _(26-Aug-18 03:40 PM)_
 
 > Oh cool I can give myself a boob job now
 
-**RPRetribution** _(26-Aug-18 03:40 PM)_
+**RPretribution** _(26-Aug-18 03:40 PM)_
 
 > aight
 
@@ -42557,7 +42557,7 @@ In the end, the result was:
 
 > Please let this end.
 
-**RPRetribution** _(26-Aug-18 03:41 PM)_
+**RPretribution** _(26-Aug-18 03:41 PM)_
 
 > WHAT AM I???
 
@@ -42622,9 +42622,9 @@ In the end, the result was:
 
 **Zander** _(26-Aug-18 03:45 PM)_
 
-> @RPRetribution
+> @RPretribution
 
-**RPRetribution** _(26-Aug-18 03:45 PM)_
+**RPretribution** _(26-Aug-18 03:45 PM)_
 
 > i’m never being a duck again
 > t!8ball does garrick waddle over to the console and frantically press things
@@ -42632,14 +42632,14 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 03:45 PM)_
 
 > 🎱 | Yes,
-> [RP]retribution
+> RPretribution
 > .
 
 **Zander** _(26-Aug-18 03:45 PM)_
 
 > What is a duck
 
-**RPRetribution** _(26-Aug-18 03:45 PM)_
+**RPretribution** _(26-Aug-18 03:45 PM)_
 
 > me
 
@@ -42647,7 +42647,7 @@ In the end, the result was:
 
 > `Can I eat ducksss?`
 
-**RPRetribution** _(26-Aug-18 03:46 PM)_
+**RPretribution** _(26-Aug-18 03:46 PM)_
 
 > Yeah, but not me.
 
@@ -42661,7 +42661,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(26-Aug-18 03:46 PM)_
+**RPretribution** _(26-Aug-18 03:46 PM)_
 
 > WHY ISNT THIS STUPID THING WORKING
 
@@ -42701,10 +42701,10 @@ In the end, the result was:
 
 **Zander** _(26-Aug-18 03:49 PM)_
 
-> @RPRetribution
+> @RPretribution
 > Can someone stop this crazy thing?
 
-**RPRetribution** _(26-Aug-18 03:50 PM)_
+**RPretribution** _(26-Aug-18 03:50 PM)_
 
 > right
 
@@ -42712,14 +42712,14 @@ In the end, the result was:
 
 > `Sssomeone get thisss guy out of the toilet.`
 
-**RPRetribution** _(26-Aug-18 03:50 PM)_
+**RPretribution** _(26-Aug-18 03:50 PM)_
 
 > t!8ball does garrick continue pressing things
 
 **Tatsumaki** _(26-Aug-18 03:50 PM)_
 
 > 🎱 | You may rely on it,
-> [RP]retribution
+> RPretribution
 > .
 
 **Zander** _(26-Aug-18 03:51 PM)_
@@ -42732,7 +42732,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(26-Aug-18 03:51 PM)_
+**RPretribution** _(26-Aug-18 03:51 PM)_
 
 > WHEN WILL IT END?
 > This tiny duck body is very limiting, I can barely fly
@@ -42774,20 +42774,20 @@ In the end, the result was:
 
 **Zander** _(26-Aug-18 03:54 PM)_
 
-> @RPRetribution
+> @RPretribution
 > (Currently helping my family, so brb)
 
-**RPRetribution** _(26-Aug-18 03:54 PM)_
+**RPretribution** _(26-Aug-18 03:54 PM)_
 
 > t!8ball does it finally work please please let it work
 
 **Tatsumaki** _(26-Aug-18 03:54 PM)_
 
 > 🎱 | Signs point to yes,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(26-Aug-18 03:55 PM)_
+**RPretribution** _(26-Aug-18 03:55 PM)_
 
 > @
 
@@ -43303,7 +43303,7 @@ In the end, the result was:
 
 > Jeez, he's one of those. They take it for granted until the day they need it the most.
 
-**RPRetribution** _(26-Aug-18 04:29 PM)_
+**RPretribution** _(26-Aug-18 04:29 PM)_
 
 > i see nobody bothered to ping me
 
@@ -43311,7 +43311,7 @@ In the end, the result was:
 
 > It's hard to ping you when you aren't in voice
 
-**RPRetribution** _(26-Aug-18 04:29 PM)_
+**RPretribution** _(26-Aug-18 04:29 PM)_
 
 > and then i forgot this was happening
 > how
@@ -43417,7 +43417,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(26-Aug-18 04:37 PM)_
 
-> @RPRetribution
+> @RPretribution
 
 **Bagelwrecker** _(26-Aug-18 04:37 PM)_
 
@@ -43568,7 +43568,7 @@ In the end, the result was:
 
 **Zander** _(26-Aug-18 04:52 PM)_
 
-> @RPRetribution
+> @RPretribution
 > You think there's any--ahem--women for me here?
 
 **Bagelwrecker** _(26-Aug-18 04:53 PM)_
@@ -44020,7 +44020,7 @@ In the end, the result was:
 > N= Ni🅱️🅱️a
 > Y= Yet
 > A= Argues
-> @RPRetribution
+> @RPretribution
 > G= Garlic
 > A= And
 > R= Raspberries
@@ -44037,7 +44037,7 @@ In the end, the result was:
 > K= Kinky
 > Y= Yams
 
-**RPRetribution** _(02-Sep-18 08:42 PM)_
+**RPretribution** _(02-Sep-18 08:42 PM)_
 
 > cool
 
@@ -44051,7 +44051,7 @@ In the end, the result was:
 
 > :)
 
-**RPRetribution** _(02-Sep-18 08:42 PM)_
+**RPretribution** _(02-Sep-18 08:42 PM)_
 
 > YOU’RE COOL
 > GOTEM
@@ -44061,7 +44061,7 @@ In the end, the result was:
 > AH
 > Thanks???
 
-**RPRetribution** _(02-Sep-18 08:42 PM)_
+**RPretribution** _(02-Sep-18 08:42 PM)_
 
 > 👁👅👁
 > that emote has nothing to do with my previous message
@@ -44070,7 +44070,7 @@ In the end, the result was:
 
 > Wh
 
-**RPRetribution** _(02-Sep-18 08:44 PM)_
+**RPretribution** _(02-Sep-18 08:44 PM)_
 
 > what
 
@@ -44086,7 +44086,7 @@ In the end, the result was:
 > H= haha
 > A=ahah
 
-**RPRetribution** _(02-Sep-18 08:45 PM)_
+**RPretribution** _(02-Sep-18 08:45 PM)_
 
 > Heckle
 > All
@@ -47869,7 +47869,7 @@ In the end, the result was:
 
 > Having 9 agility, she gets there very quickly
 
-**RPRetribution** _(03-Sep-18 04:50 PM)_
+**RPretribution** _(03-Sep-18 04:50 PM)_
 
 > m
 
@@ -47885,7 +47885,7 @@ In the end, the result was:
 
 > Everyone is high
 
-**RPRetribution** _(03-Sep-18 04:50 PM)_
+**RPretribution** _(03-Sep-18 04:50 PM)_
 
 > ^
 
@@ -48185,7 +48185,7 @@ In the end, the result was:
 > Christ dude.
 > What the heck.
 
-**RPRetribution** _(03-Sep-18 05:04 PM)_
+**RPretribution** _(03-Sep-18 05:04 PM)_
 
 > i keep confusing iris and sanya
 
@@ -51656,7 +51656,7 @@ In the end, the result was:
 
 > Look Plantwoman, calm down and just take a break by doing some Sugondese training.
 
-**RPRetribution** _(04-Sep-18 03:53 PM)_
+**RPretribution** _(04-Sep-18 03:53 PM)_
 
 > sUgOnDeSe NuTs
 
@@ -51664,7 +51664,7 @@ In the end, the result was:
 
 >
 
-**RPRetribution** _(04-Sep-18 03:53 PM)_
+**RPretribution** _(04-Sep-18 03:53 PM)_
 
 > ok im going now
 
@@ -51696,7 +51696,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(04-Sep-18 03:54 PM)_
+**RPretribution** _(04-Sep-18 03:54 PM)_
 
 > do the shoot
 > does do shoot?
@@ -51791,7 +51791,7 @@ In the end, the result was:
 
 > I got better things to do.
 
-**RPRetribution** _(04-Sep-18 03:56 PM)_
+**RPretribution** _(04-Sep-18 03:56 PM)_
 
 > step back and you're dead
 > step back, also you're dead
@@ -51814,7 +51814,7 @@ In the end, the result was:
 
 > Matieu.
 
-**RPRetribution** _(04-Sep-18 03:57 PM)_
+**RPretribution** _(04-Sep-18 03:57 PM)_
 
 > UNLIMITED
 > POWER
@@ -51839,7 +51839,7 @@ In the end, the result was:
 
 > Iris holds up the ribbon threateningly.
 
-**RPRetribution** _(04-Sep-18 03:57 PM)_
+**RPretribution** _(04-Sep-18 03:57 PM)_
 
 > Fear my powag!
 
@@ -51878,7 +51878,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(04-Sep-18 03:58 PM)_
+**RPretribution** _(04-Sep-18 03:58 PM)_
 
 > her cold. She is cold
 
@@ -51890,7 +51890,7 @@ In the end, the result was:
 
 > matieu just wants iris so badly
 
-**RPRetribution** _(04-Sep-18 03:59 PM)_
+**RPretribution** _(04-Sep-18 03:59 PM)_
 
 > she doesn't even have arms
 
@@ -51908,7 +51908,7 @@ In the end, the result was:
 In the end, the result was:
 5
 
-**RPRetribution** _(04-Sep-18 03:59 PM)_
+**RPretribution** _(04-Sep-18 03:59 PM)_
 
 > AS YOU SEE HERE
 > https://cdn.discordapp.com/attachments/486360761485099008/486559059944669185/image0.png
@@ -51943,7 +51943,7 @@ In the end, the result was:
 
 > are you going to commit murder if I let you move?
 
-**RPRetribution** _(04-Sep-18 04:00 PM)_
+**RPretribution** _(04-Sep-18 04:00 PM)_
 
 > You should.
 
@@ -52007,7 +52007,7 @@ In the end, the result was:
 
 > (Kyle shoots a blast near Sanya, nearly grazing her leg)
 
-**RPRetribution** _(04-Sep-18 04:01 PM)_
+**RPretribution** _(04-Sep-18 04:01 PM)_
 
 > AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHH that's loud
 
@@ -52023,7 +52023,7 @@ In the end, the result was:
 
 > `Back the fuck up.`
 
-**RPRetribution** _(04-Sep-18 04:02 PM)_
+**RPretribution** _(04-Sep-18 04:02 PM)_
 
 > edgy
 
@@ -52035,7 +52035,7 @@ In the end, the result was:
 
 > `Good. It will be easier to kill you then.`
 
-**RPRetribution** _(04-Sep-18 04:03 PM)_
+**RPretribution** _(04-Sep-18 04:03 PM)_
 
 > TEN
 > 10
@@ -52060,7 +52060,7 @@ In the end, the result was:
 
 > AAAAA FORTNITE
 
-**RPRetribution** _(04-Sep-18 04:04 PM)_
+**RPretribution** _(04-Sep-18 04:04 PM)_
 
 > if a man came into your room and did a funny, would you scream or cry?
 
@@ -52082,7 +52082,7 @@ In the end, the result was:
 
 > It's okay squoatling, you'll be fine in no time
 
-**RPRetribution** _(04-Sep-18 04:05 PM)_
+**RPretribution** _(04-Sep-18 04:05 PM)_
 
 > Thank God, you were hurting my nonexistent ears.
 
@@ -52144,7 +52144,7 @@ In the end, the result was:
 
 > Do I need to apologize?
 
-**RPRetribution** _(04-Sep-18 04:07 PM)_
+**RPretribution** _(04-Sep-18 04:07 PM)_
 
 > Hey, why's everyone mad?
 
@@ -52181,7 +52181,7 @@ In the end, the result was:
 
 > Sorry miss dread goddess.
 
-**RPRetribution** _(04-Sep-18 04:07 PM)_
+**RPretribution** _(04-Sep-18 04:07 PM)_
 
 > seth gay
 
@@ -52282,7 +52282,7 @@ In the end, the result was:
 
 > WHAT THE HECK MATIEU
 
-**RPRetribution** _(04-Sep-18 04:10 PM)_
+**RPretribution** _(04-Sep-18 04:10 PM)_
 
 > What if I used a fire extinguisher?
 
@@ -52318,7 +52318,7 @@ In the end, the result was:
 
 > Get out of my friend.
 
-**RPRetribution** _(04-Sep-18 04:11 PM)_
+**RPretribution** _(04-Sep-18 04:11 PM)_
 
 > What if I used TWO fire extinguishers?
 
@@ -52326,7 +52326,7 @@ In the end, the result was:
 
 >
 
-**RPRetribution** _(04-Sep-18 04:11 PM)_
+**RPretribution** _(04-Sep-18 04:11 PM)_
 
 > UBTT
 > DUST
@@ -52343,17 +52343,17 @@ In the end, the result was:
 
 > you know....
 
-**RPRetribution** _(04-Sep-18 04:12 PM)_
+**RPretribution** _(04-Sep-18 04:12 PM)_
 
 > t!8ball does garrick pull out 2 fire extinguishers and try to extinguish iris' hand fire
 
 **Tatsumaki** _(04-Sep-18 04:12 PM)_
 
 > 🎱 | Outlook not so good,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(04-Sep-18 04:12 PM)_
+**RPretribution** _(04-Sep-18 04:12 PM)_
 
 > ok then he pulls out 1
 
@@ -52379,7 +52379,7 @@ In the end, the result was:
 
 > yo Sanya can you chill
 
-**RPRetribution** _(04-Sep-18 04:13 PM)_
+**RPretribution** _(04-Sep-18 04:13 PM)_
 
 > AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
@@ -52410,7 +52410,7 @@ In the end, the result was:
 
 > (Sanya falls to the ground as her flower turns from red to black.)
 
-**RPRetribution** _(04-Sep-18 04:15 PM)_
+**RPretribution** _(04-Sep-18 04:15 PM)_
 
 > YOU'RE GAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐᵧ
 
@@ -52448,7 +52448,7 @@ In the end, the result was:
 
 > I guess. She doesn't look ok, though.
 
-**RPRetribution** _(04-Sep-18 04:17 PM)_
+**RPretribution** _(04-Sep-18 04:17 PM)_
 
 > brody doesnt understand the concept of good character design
 
@@ -52461,7 +52461,7 @@ In the end, the result was:
 
 > ...
 
-**RPRetribution** _(04-Sep-18 04:17 PM)_
+**RPretribution** _(04-Sep-18 04:17 PM)_
 
 > Hey, don't be a creep.
 
@@ -52486,7 +52486,7 @@ In the end, the result was:
 
 > You don't get to say what the heck.
 
-**RPRetribution** _(04-Sep-18 04:18 PM)_
+**RPretribution** _(04-Sep-18 04:18 PM)_
 
 > What heck?
 
@@ -52502,14 +52502,14 @@ In the end, the result was:
 
 > How am I gonna prove myself to you?
 
-**RPRetribution** _(04-Sep-18 04:18 PM)_
+**RPretribution** _(04-Sep-18 04:18 PM)_
 
 > t!8ball does zander eat pp?
 
 **Tatsumaki** _(04-Sep-18 04:18 PM)_
 
 > 🎱 | Yes, definitely,
-> [RP]retribution
+> RPretribution
 > .
 
 **WatchfulDrake** _(04-Sep-18 04:18 PM)_
@@ -52560,7 +52560,7 @@ In the end, the result was:
 
 > please don’t do that.
 
-**RPRetribution** _(04-Sep-18 04:19 PM)_
+**RPretribution** _(04-Sep-18 04:19 PM)_
 
 > silas is pp
 
@@ -52569,7 +52569,7 @@ In the end, the result was:
 > Well I'd never do it to you.
 > I'd never hurt a woman.
 
-**RPRetribution** _(04-Sep-18 04:19 PM)_
+**RPretribution** _(04-Sep-18 04:19 PM)_
 
 > eat mica
 
@@ -52595,7 +52595,7 @@ In the end, the result was:
 
 > Everyone dies eventually.
 
-**RPRetribution** _(04-Sep-18 04:20 PM)_
+**RPretribution** _(04-Sep-18 04:20 PM)_
 
 > @Mica
 
@@ -52639,14 +52639,14 @@ In the end, the result was:
 
 > Nepotism
 
-**RPRetribution** _(04-Sep-18 04:22 PM)_
+**RPretribution** _(04-Sep-18 04:22 PM)_
 
 > t!8ball does garrick wake emmett up
 
 **Tatsumaki** _(04-Sep-18 04:22 PM)_
 
 > 🎱 | Outlook good,
-> [RP]retribution
+> RPretribution
 > .
 
 **Brakia** _(04-Sep-18 04:22 PM)_
@@ -52659,7 +52659,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(04-Sep-18 04:22 PM)_
+**RPretribution** _(04-Sep-18 04:22 PM)_
 
 > Wake up, smelly.
 
@@ -52671,7 +52671,7 @@ In the end, the result was:
 
 > Good morning, Emmett!
 
-**RPRetribution** _(04-Sep-18 04:22 PM)_
+**RPretribution** _(04-Sep-18 04:22 PM)_
 
 > ET sports
 
@@ -52697,7 +52697,7 @@ In the end, the result was:
 
 > same to you, Sanya.
 
-**RPRetribution** _(04-Sep-18 04:23 PM)_
+**RPretribution** _(04-Sep-18 04:23 PM)_
 
 > FORTNITE??????
 
@@ -52721,7 +52721,7 @@ In the end, the result was:
 
 > Sanya stop violently dancing
 
-**RPRetribution** _(04-Sep-18 04:23 PM)_
+**RPretribution** _(04-Sep-18 04:23 PM)_
 
 > Sanya, this is weird. Even for you.
 
@@ -52786,7 +52786,7 @@ In the end, the result was:
 
 > And now I got a contract that prevents me from dying isn't that great?
 
-**RPRetribution** _(04-Sep-18 04:24 PM)_
+**RPretribution** _(04-Sep-18 04:24 PM)_
 
 > sanya i eat babie
 
@@ -52810,7 +52810,7 @@ In the end, the result was:
 
 > he?
 
-**RPRetribution** _(04-Sep-18 04:25 PM)_
+**RPretribution** _(04-Sep-18 04:25 PM)_
 
 > hehehe
 
@@ -52882,7 +52882,7 @@ In the end, the result was:
 
 > I’m like the easiest person to kill, all you have to do is take off my necklace.
 
-**RPRetribution** _(04-Sep-18 04:26 PM)_
+**RPretribution** _(04-Sep-18 04:26 PM)_
 
 > Is he a ghostbuster?
 
@@ -52894,7 +52894,7 @@ In the end, the result was:
 
 > Also, occasionally I have to fuck the goddess of death, which will require me to die.
 
-**RPRetribution** _(04-Sep-18 04:26 PM)_
+**RPretribution** _(04-Sep-18 04:26 PM)_
 
 > Oh noooooₒₒₒₒₒₒₒₒₒ...
 
@@ -52939,7 +52939,7 @@ In the end, the result was:
 
 > good. Now we can all call you shortie.
 
-**RPRetribution** _(04-Sep-18 04:28 PM)_
+**RPretribution** _(04-Sep-18 04:28 PM)_
 
 > Me mudaré a Brasil y cambiaré mi nombre a Galtero. Él no puede lastimarme allí.
 
@@ -53005,7 +53005,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(04-Sep-18 04:31 PM)_
+**RPretribution** _(04-Sep-18 04:31 PM)_
 
 > That probably means you need to water it.
 
@@ -53112,7 +53112,7 @@ In the end, the result was:
 
 > 10 sex scenes later
 
-**RPRetribution** _(04-Sep-18 04:33 PM)_
+**RPretribution** _(04-Sep-18 04:33 PM)_
 
 > t!roll 10
 
@@ -53128,7 +53128,7 @@ t!roll d20
 or
 t!roll 5d10+3
 
-**RPRetribution** _(04-Sep-18 04:33 PM)_
+**RPretribution** _(04-Sep-18 04:33 PM)_
 
 > t!roll d10
 > t!roll d10
@@ -53155,14 +53155,14 @@ In the end, the result was:
 
 > this again?
 
-**RPRetribution** _(04-Sep-18 04:34 PM)_
+**RPretribution** _(04-Sep-18 04:34 PM)_
 
 > t!8ball does garrick fee
 
 **Tatsumaki** _(04-Sep-18 04:34 PM)_
 
 > 🎱 | Don't count on it,
-> [RP]retribution
+> RPretribution
 > .
 
 **Enchantingtable2013** _(04-Sep-18 04:34 PM)_
@@ -53181,7 +53181,7 @@ In the end, the result was:
 
 > `Go away.`
 
-**RPRetribution** _(04-Sep-18 04:34 PM)_
+**RPretribution** _(04-Sep-18 04:34 PM)_
 
 > What's going on?
 
@@ -53237,8 +53237,8 @@ In the end, the result was:
 
 **Brakia** _(04-Sep-18 04:36 PM)_
 
-> @RPRetribution
-> @RPRetribution
+> @RPretribution
+> @RPretribution
 
 **Enchantingtable2013** _(04-Sep-18 04:37 PM)_
 
@@ -53317,7 +53317,7 @@ In the end, the result was:
     > There
     > @Final Frontier
 
-**RPRetribution** _(05-Sep-18 04:38 PM)_
+**RPretribution** _(05-Sep-18 04:38 PM)_
 
 > cool
 
@@ -53658,7 +53658,7 @@ In the end, the result was:
 
 >
 
-**RPRetribution** _(05-Sep-18 09:46 PM)_
+**RPretribution** _(05-Sep-18 09:46 PM)_
 
 >
 
@@ -56538,7 +56538,7 @@ In the end, the result was:
 
 > But Matthias has changed exponentially and Seth is a different Seth
 
-**RPRetribution** _(13-Sep-18 05:44 PM)_
+**RPretribution** _(13-Sep-18 05:44 PM)_
 
 > oh
 > hey that’s actually really cool
@@ -56548,7 +56548,7 @@ In the end, the result was:
 
 > ^
 
-**RPRetribution** _(13-Sep-18 07:04 PM)_
+**RPretribution** _(13-Sep-18 07:04 PM)_
 
 > is there, like, a picture with the ship’s layout
 
@@ -61231,7 +61231,7 @@ In the end, the result was:
 
 > wow
 
-**RPRetribution** _(17-Sep-18 05:47 PM)_
+**RPretribution** _(17-Sep-18 05:47 PM)_
 
 > whoa
 
@@ -61251,7 +61251,7 @@ In the end, the result was:
 > Pinned a message.
 > @PlasmaPerson
 
-**RPRetribution** _(17-Sep-18 08:11 PM)_
+**RPretribution** _(17-Sep-18 08:11 PM)_
 
 >
 
@@ -62027,7 +62027,7 @@ In the end, the result was:
 > @Final Frontier
 > here
 
-**RPRetribution** _(21-Sep-18 05:03 PM)_
+**RPretribution** _(21-Sep-18 05:03 PM)_
 
 > h
 
@@ -62279,7 +62279,7 @@ In the end, the result was:
 >
 > -   -
 
-**RPRetribution** _(23-Sep-18 03:26 PM)_
+**RPretribution** _(23-Sep-18 03:26 PM)_
 
 > vro
 > ` on both ends
@@ -63104,7 +63104,7 @@ In the end, the result was:
 > ▫ | Get more help using
 > t!help 8ball
 
-**RPRetribution** _(23-Sep-18 04:03 PM)_
+**RPretribution** _(23-Sep-18 04:03 PM)_
 
 > Heyo.
 
@@ -63134,7 +63134,7 @@ In the end, the result was:
 
 > ok, that's definitely unnatural.
 
-**RPRetribution** _(23-Sep-18 04:04 PM)_
+**RPretribution** _(23-Sep-18 04:04 PM)_
 
 > where is who
 > what who where
@@ -63167,7 +63167,7 @@ In the end, the result was:
 
 > Ah! A manual!
 
-**RPRetribution** _(23-Sep-18 04:05 PM)_
+**RPretribution** _(23-Sep-18 04:05 PM)_
 
 > Woah! There’s a very large thing deep in the soil!
 
@@ -63212,7 +63212,7 @@ In the end, the result was:
 
 > won't she suffocate?
 
-**RPRetribution** _(23-Sep-18 04:06 PM)_
+**RPretribution** _(23-Sep-18 04:06 PM)_
 
 > Pull it out.
 
@@ -63220,7 +63220,7 @@ In the end, the result was:
 
 > No. We'd only hurt her.
 
-**RPRetribution** _(23-Sep-18 04:06 PM)_
+**RPretribution** _(23-Sep-18 04:06 PM)_
 
 > That’s fine.
 
@@ -63233,14 +63233,14 @@ In the end, the result was:
 > you hear a faint voice
 > `Can you bring me some clothes?`
 
-**RPRetribution** _(23-Sep-18 04:07 PM)_
+**RPretribution** _(23-Sep-18 04:07 PM)_
 
 > t!8ball does garrick pull it out
 
 **Tatsumaki** _(23-Sep-18 04:07 PM)_
 
 > 🎱 | Very doubtful,
-> [RP]retribution
+> RPretribution
 > .
 
 **PlasmaPerson** _(23-Sep-18 04:07 PM)_
@@ -63271,7 +63271,7 @@ In the end, the result was:
 
 > gladly.
 
-**RPRetribution** _(23-Sep-18 04:09 PM)_
+**RPretribution** _(23-Sep-18 04:09 PM)_
 
 > Yeah.
 
@@ -63279,7 +63279,7 @@ In the end, the result was:
 
 > ...
 
-**RPRetribution** _(23-Sep-18 04:09 PM)_
+**RPretribution** _(23-Sep-18 04:09 PM)_
 
 > and then garrick goes through the wall
 > just as a reminder
@@ -63288,7 +63288,7 @@ In the end, the result was:
 
 > Chomsky leaves the green room
 
-**RPRetribution** _(23-Sep-18 04:09 PM)_
+**RPretribution** _(23-Sep-18 04:09 PM)_
 
 > that he can be anywhere at any time
 
@@ -63331,7 +63331,7 @@ In the end, the result was:
 
 > Chomsky goes back to the kitchen to sit among the muffins
 
-**RPRetribution** _(23-Sep-18 04:11 PM)_
+**RPretribution** _(23-Sep-18 04:11 PM)_
 
 > garrick joins iris to investigate the beacon because the universe hates chomsky
 
@@ -63339,7 +63339,7 @@ In the end, the result was:
 
 > ...hey...
 
-**RPRetribution** _(23-Sep-18 04:11 PM)_
+**RPretribution** _(23-Sep-18 04:11 PM)_
 
 > Yo.
 
@@ -63399,7 +63399,7 @@ In the end, the result was:
 
 > fuck off, Seth.
 
-**RPRetribution** _(23-Sep-18 04:14 PM)_
+**RPretribution** _(23-Sep-18 04:14 PM)_
 
 > school jail
 
@@ -63411,7 +63411,7 @@ In the end, the result was:
 
 > dreams about becoming a pokemon master
 
-**RPRetribution** _(23-Sep-18 04:15 PM)_
+**RPretribution** _(23-Sep-18 04:15 PM)_
 
 > Emmet eat pp.
 
@@ -63429,7 +63429,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(23-Sep-18 04:16 PM)_
+**RPretribution** _(23-Sep-18 04:16 PM)_
 
 > josephine’s a trap
 
@@ -63478,7 +63478,7 @@ In the end, the result was:
 
 > Emmett, get some spare parts for the tractor beam when you're free, Iris broke it while I was doing some updates.
 
-**RPRetribution** _(23-Sep-18 04:18 PM)_
+**RPretribution** _(23-Sep-18 04:18 PM)_
 
 > Is this guy new? He seems to like windows.
 
@@ -63498,14 +63498,14 @@ In the end, the result was:
 
 > (Emmett's coms are still off from last episode.)
 
-**RPRetribution** _(23-Sep-18 04:18 PM)_
+**RPretribution** _(23-Sep-18 04:18 PM)_
 
 > t!8ball does garrick notice and do nothing to help
 
 **Tatsumaki** _(23-Sep-18 04:18 PM)_
 
 > 🎱 | It is decidedly so,
-> [RP]retribution
+> RPretribution
 > .
 
 **Deyner** _(23-Sep-18 04:18 PM)_
@@ -63542,7 +63542,7 @@ In the end, the result was:
 
 > poo butt
 
-**RPRetribution** _(23-Sep-18 04:19 PM)_
+**RPretribution** _(23-Sep-18 04:19 PM)_
 
 > Eh, he’ll be fine.
 
@@ -63560,7 +63560,7 @@ In the end, the result was:
 
 > `They're wearable.`
 
-**RPRetribution** _(23-Sep-18 04:20 PM)_
+**RPretribution** _(23-Sep-18 04:20 PM)_
 
 > garrick floats down the hallway
 
@@ -63700,7 +63700,7 @@ In the end, the result was:
 
 > I’m Iris. You’re on the ship.
 
-**RPRetribution** _(23-Sep-18 04:23 PM)_
+**RPretribution** _(23-Sep-18 04:23 PM)_
 
 > What if someone cuts off your flower?
 
@@ -63716,7 +63716,7 @@ In the end, the result was:
 
 > Emmett starts to hug her suddenly.
 
-**RPRetribution** _(23-Sep-18 04:23 PM)_
+**RPretribution** _(23-Sep-18 04:23 PM)_
 
 > I’m just curious. Not like I’d do it.
 
@@ -63807,21 +63807,21 @@ In the end, the result was:
 > the others are that way.
 > she points towards the greenroom.
 
-**RPRetribution** _(23-Sep-18 04:27 PM)_
+**RPretribution** _(23-Sep-18 04:27 PM)_
 
 > t!8ball does garrick go into the other room
 
 **Tatsumaki** _(23-Sep-18 04:27 PM)_
 
 > 🎱 | Without a doubt,
-> [RP]retribution
+> RPretribution
 > .
 
 **Jelsafan0** _(23-Sep-18 04:27 PM)_
 
 > I have other things to do.
 
-**RPRetribution** _(23-Sep-18 04:27 PM)_
+**RPretribution** _(23-Sep-18 04:27 PM)_
 
 > Boring.
 
@@ -63852,7 +63852,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(23-Sep-18 04:28 PM)_
+**RPretribution** _(23-Sep-18 04:28 PM)_
 
 > Hey, it’s window guy.
 
@@ -63891,7 +63891,7 @@ In the end, the result was:
 
 > Hello, this is Seth Im'K'Inki speaking
 
-**RPRetribution** _(23-Sep-18 04:29 PM)_
+**RPretribution** _(23-Sep-18 04:29 PM)_
 
 > Your worst nightmare. But you can call me Garrick.
 
@@ -63922,7 +63922,7 @@ In the end, the result was:
 > yes
 > 8ball says yes
 
-**RPRetribution** _(23-Sep-18 04:30 PM)_
+**RPretribution** _(23-Sep-18 04:30 PM)_
 
 > Where’d you even come from?
 > Besides space.
@@ -63940,7 +63940,7 @@ In the end, the result was:
 
 > `Iris? Where did you go?`
 
-**RPRetribution** _(23-Sep-18 04:31 PM)_
+**RPretribution** _(23-Sep-18 04:31 PM)_
 
 > Chonky, we should totally enslave this guy. Iris doesn’t seem to like him.
 
@@ -63968,7 +63968,7 @@ In the end, the result was:
 > pulls out flamethrower
 > wanna run that name by me again, garlic?
 
-**RPRetribution** _(23-Sep-18 04:32 PM)_
+**RPretribution** _(23-Sep-18 04:32 PM)_
 
 > ...You guys realize I’m incorporeal, right?
 
@@ -63987,7 +63987,7 @@ In the end, the result was:
 > Jelsafan0
 > .
 
-**RPRetribution** _(23-Sep-18 04:33 PM)_
+**RPretribution** _(23-Sep-18 04:33 PM)_
 
 > Chonky. That’s your new nickname. What do you think?
 
@@ -64003,7 +64003,7 @@ In the end, the result was:
 
 > Iris.
 
-**RPRetribution** _(23-Sep-18 04:34 PM)_
+**RPretribution** _(23-Sep-18 04:34 PM)_
 
 > I get that a lot.
 
@@ -64016,7 +64016,7 @@ In the end, the result was:
 
 > T!8ball does Deyner try to find Iris and make it up to her for being rude?
 
-**RPRetribution** _(23-Sep-18 04:35 PM)_
+**RPretribution** _(23-Sep-18 04:35 PM)_
 
 > NICE
 
@@ -64079,7 +64079,7 @@ In the end, the result was:
 > she hesitates.
 > ...What for?
 
-**RPRetribution** _(23-Sep-18 04:37 PM)_
+**RPretribution** _(23-Sep-18 04:37 PM)_
 
 > Garrick follows everyone else to the room where Iris is.
 > killy
@@ -64120,14 +64120,14 @@ In the end, the result was:
 
 > There, there.
 
-**RPRetribution** _(23-Sep-18 04:40 PM)_
+**RPretribution** _(23-Sep-18 04:40 PM)_
 
 > t!8ball does garrick go literally anywhere else
 
 **Tatsumaki** _(23-Sep-18 04:40 PM)_
 
 > 🎱 | Signs point to yes,
-> [RP]retribution
+> RPretribution
 > .
 
 **Brakia** _(23-Sep-18 04:40 PM)_
@@ -64158,7 +64158,7 @@ In the end, the result was:
 
 > `Yes.`
 
-**RPRetribution** _(23-Sep-18 04:41 PM)_
+**RPretribution** _(23-Sep-18 04:41 PM)_
 
 > garrick is now with fire fire man and flowe
 
@@ -64174,7 +64174,7 @@ In the end, the result was:
 
 > hey look, ninja arrived.
 
-**RPRetribution** _(23-Sep-18 04:41 PM)_
+**RPretribution** _(23-Sep-18 04:41 PM)_
 
 > I feel so welcomed.
 
@@ -64200,7 +64200,7 @@ In the end, the result was:
 
 > you feel lonely because you're dead.
 
-**RPRetribution** _(23-Sep-18 04:42 PM)_
+**RPretribution** _(23-Sep-18 04:42 PM)_
 
 > Emmett and Iris are being all sappy, so I came in here.
 
@@ -64221,7 +64221,7 @@ In the end, the result was:
 > ...I’m sorry,
 > she chokes out.
 
-**RPRetribution** _(23-Sep-18 04:42 PM)_
+**RPretribution** _(23-Sep-18 04:42 PM)_
 
 > waite
 
@@ -64234,7 +64234,7 @@ In the end, the result was:
 
 > I should be used to loss by now.
 
-**RPRetribution** _(23-Sep-18 04:43 PM)_
+**RPretribution** _(23-Sep-18 04:43 PM)_
 
 > LOSS
 > LOSS
@@ -64270,7 +64270,7 @@ In the end, the result was:
 
 > (SAYS “sees the broken tractor beam”)
 
-**RPRetribution** _(23-Sep-18 04:44 PM)_
+**RPretribution** _(23-Sep-18 04:44 PM)_
 
 > she’s over loss
 
@@ -64304,7 +64304,7 @@ In the end, the result was:
 
 > S-Sanya?
 
-**RPRetribution** _(23-Sep-18 04:45 PM)_
+**RPretribution** _(23-Sep-18 04:45 PM)_
 
 > SNAP
 
@@ -64316,7 +64316,7 @@ In the end, the result was:
 
 > Iris leaps up, hugging Sanya tightly and crying hot tears (though not too hot)
 
-**RPRetribution** _(23-Sep-18 04:46 PM)_
+**RPretribution** _(23-Sep-18 04:46 PM)_
 
 > do big funnie
 
@@ -64376,7 +64376,7 @@ In the end, the result was:
 
 > At least I'll have Seth's shitty leg.
 
-**RPRetribution** _(23-Sep-18 04:47 PM)_
+**RPretribution** _(23-Sep-18 04:47 PM)_
 
 > LOL BUTT DREAD
 
@@ -64480,7 +64480,7 @@ In the end, the result was:
 
 > `Thank you.`
 
-**RPRetribution** _(23-Sep-18 04:50 PM)_
+**RPretribution** _(23-Sep-18 04:50 PM)_
 
 > Psst... Chonko. This guy seems a little cuckoo, if you ask me.
 
@@ -64493,7 +64493,7 @@ In the end, the result was:
 > hot hot!! Sorry I’m a bit sensitive to heat cause of being half snow elf
 > yo wicked flame thrower!
 
-**RPRetribution** _(23-Sep-18 04:51 PM)_
+**RPretribution** _(23-Sep-18 04:51 PM)_
 
 > deyner thinks chomsky is hot
 
@@ -64509,7 +64509,7 @@ In the end, the result was:
 
 > huh? Oh, thanks, but I didn't make it.
 
-**RPRetribution** _(23-Sep-18 04:52 PM)_
+**RPretribution** _(23-Sep-18 04:52 PM)_
 
 > chomsky then incinerates him out of disgust
 
@@ -64521,7 +64521,7 @@ In the end, the result was:
 
 > can I see it?
 
-**RPRetribution** _(23-Sep-18 04:52 PM)_
+**RPretribution** _(23-Sep-18 04:52 PM)_
 
 > Where do you think I could get one of those, anyways?
 
@@ -64572,17 +64572,17 @@ In the end, the result was:
 
 > Michael I'm gonna let Deyner fix it in between episodes cuz I gotta go
 
-**RPRetribution** _(23-Sep-18 04:54 PM)_
+**RPretribution** _(23-Sep-18 04:54 PM)_
 
 > t!8ball does garrick take the flame thrower from deyner and look at it
 
 **Tatsumaki** _(23-Sep-18 04:54 PM)_
 
 > 🎱 | Very doubtful,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(23-Sep-18 04:54 PM)_
+**RPretribution** _(23-Sep-18 04:54 PM)_
 
 > gay
 > tbh
@@ -64603,7 +64603,7 @@ In the end, the result was:
 
 > Garrick if you wish I could make you one it seems very easy to make?
 
-**RPRetribution** _(23-Sep-18 04:55 PM)_
+**RPretribution** _(23-Sep-18 04:55 PM)_
 
 > Please do it.
 
@@ -64628,7 +64628,7 @@ In the end, the result was:
 
 > I seem to remember you could’ve saved me Garrick..
 
-**RPRetribution** _(23-Sep-18 04:55 PM)_
+**RPretribution** _(23-Sep-18 04:55 PM)_
 
 > A flamethrower is one of the few weapons I’ve never used.
 
@@ -64644,7 +64644,7 @@ In the end, the result was:
 
 > `Ok, now with some proper clothes, I can- Wait, where are my weapons?`
 
-**RPRetribution** _(23-Sep-18 04:56 PM)_
+**RPretribution** _(23-Sep-18 04:56 PM)_
 
 > Alright.
 
@@ -64656,7 +64656,7 @@ In the end, the result was:
 
 > Ok bye for real
 
-**RPRetribution** _(23-Sep-18 04:57 PM)_
+**RPretribution** _(23-Sep-18 04:57 PM)_
 
 > bye smelly
 
@@ -64664,7 +64664,7 @@ In the end, the result was:
 
 > U smelly
 
-**RPRetribution** _(23-Sep-18 04:57 PM)_
+**RPretribution** _(23-Sep-18 04:57 PM)_
 
 > wait
 > @PlasmaPerson
@@ -64686,7 +64686,7 @@ In the end, the result was:
 
 > no
 
-**RPRetribution** _(23-Sep-18 04:57 PM)_
+**RPretribution** _(23-Sep-18 04:57 PM)_
 
 > Do it anyways.
 
@@ -64694,7 +64694,7 @@ In the end, the result was:
 
 > hey what’s with Iris she seemed upset when I asked what she was?
 
-**RPRetribution** _(23-Sep-18 04:58 PM)_
+**RPretribution** _(23-Sep-18 04:58 PM)_
 
 > I don’t have any money, I can’t buy one.
 
@@ -64730,7 +64730,7 @@ In the end, the result was:
 > Brakia
 > .
 
-**RPRetribution** _(23-Sep-18 04:59 PM)_
+**RPretribution** _(23-Sep-18 04:59 PM)_
 
 > Fine, I’ll just take it when he’s not looking.
 
@@ -64738,7 +64738,7 @@ In the end, the result was:
 
 > `I think I was at the pool...`
 
-**RPRetribution** _(23-Sep-18 04:59 PM)_
+**RPretribution** _(23-Sep-18 04:59 PM)_
 
 > Or when he is looking. I kinda do that for a living.
 
@@ -64755,7 +64755,7 @@ In the end, the result was:
 
 > Iris, come with me. In here.
 
-**RPRetribution** _(23-Sep-18 05:00 PM)_
+**RPretribution** _(23-Sep-18 05:00 PM)_
 
 > got bored
 
@@ -64767,7 +64767,7 @@ In the end, the result was:
 
 > (Guys I gotta go cya?)
 
-**RPRetribution** _(23-Sep-18 05:00 PM)_
+**RPretribution** _(23-Sep-18 05:00 PM)_
 
 > lemme know if something interesting happens
 
@@ -64778,16 +64778,16 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:00 PM)_
 
-> @RPRetribution
+> @RPretribution
 > Ship is getting boarded.
 
-**RPRetribution** _(23-Sep-18 05:00 PM)_
+**RPretribution** _(23-Sep-18 05:00 PM)_
 
 > ship is what now
 
 **Zander** _(23-Sep-18 05:00 PM)_
 
-> @RPRetribution
+> @RPretribution
 > Don't leave us.
 
 **Brakia** _(23-Sep-18 05:01 PM)_
@@ -64910,7 +64910,7 @@ In the end, the result was:
 
 > ”There’s one now!”
 
-**RPRetribution** _(23-Sep-18 05:04 PM)_
+**RPretribution** _(23-Sep-18 05:04 PM)_
 
 > Oh, piss off. I was just getting comfortable.
 
@@ -64932,7 +64932,7 @@ In the end, the result was:
 
 > (Bill is coordinating the pirates.)
 
-**RPRetribution** _(23-Sep-18 05:05 PM)_
+**RPretribution** _(23-Sep-18 05:05 PM)_
 
 > that’s not how combat works michael
 
@@ -64958,7 +64958,7 @@ In the end, the result was:
 
 > Everyone wakes up from a coma and everything practically goes back to how it was.
 
-**RPRetribution** _(23-Sep-18 05:05 PM)_
+**RPretribution** _(23-Sep-18 05:05 PM)_
 
 > I mean, I’m not a man, but I could still do some damage.
 
@@ -64992,7 +64992,7 @@ In the end, the result was:
 
 > Iris pulls out her blade, as dread engulfs the sword
 
-**RPRetribution** _(23-Sep-18 05:07 PM)_
+**RPretribution** _(23-Sep-18 05:07 PM)_
 
 > oh zander
 
@@ -65022,7 +65022,7 @@ In the end, the result was:
 > She sighs heavily, running her fingers through her hair.
 > I’m sorry.
 
-**RPRetribution** _(23-Sep-18 05:07 PM)_
+**RPretribution** _(23-Sep-18 05:07 PM)_
 
 > Pirates v.s. Pirates. I think I saw a movie about that once.
 
@@ -66709,7 +66709,7 @@ In the end, the result was:
 
 > Deyner, being the newest member of the crew, is trying hard to find out how the crew is successful. He is usually stuck in his room building some contraption to himself. Only occasionally do we see him out of his room.
 
-**RPRetribution** _(23-Sep-18 08:32 PM)_
+**RPretribution** _(23-Sep-18 08:32 PM)_
 
 > that’ll spice things up
 > i’m excited for next weeks episode
@@ -66722,7 +66722,7 @@ In the end, the result was:
 
 > I'm excited for everyone to be literally starving
 
-**RPRetribution** _(23-Sep-18 08:33 PM)_
+**RPretribution** _(23-Sep-18 08:33 PM)_
 
 > me too
 > garrick fails to supply food because all he has is marshmallows
@@ -66731,7 +66731,7 @@ In the end, the result was:
 
 > The marshmallows increasingly start to melt in his pocket due to the lack of ac
 
-**RPRetribution** _(23-Sep-18 08:34 PM)_
+**RPretribution** _(23-Sep-18 08:34 PM)_
 
 > it’s forming into one massive glob of mallow
 
@@ -66739,7 +66739,7 @@ In the end, the result was:
 
 > what happens when Iris gets stressed if there’s nothing to bake
 
-**RPRetribution** _(23-Sep-18 08:40 PM)_
+**RPretribution** _(23-Sep-18 08:40 PM)_
 
 > lili
 
@@ -66747,7 +66747,7 @@ In the end, the result was:
 
 > She goes to Emmett
 
-**RPRetribution** _(23-Sep-18 08:40 PM)_
+**RPretribution** _(23-Sep-18 08:40 PM)_
 
 > make s’mores
 
@@ -66756,7 +66756,7 @@ In the end, the result was:
 > she kills everyone? :P
 > \
 
-**RPRetribution** _(23-Sep-18 08:40 PM)_
+**RPretribution** _(23-Sep-18 08:40 PM)_
 
 > she eats emmett
 
@@ -66767,7 +66767,7 @@ In the end, the result was:
 > (ツ)
 > /¯
 
-**RPRetribution** _(23-Sep-18 08:41 PM)_
+**RPretribution** _(23-Sep-18 08:41 PM)_
 
 > i introduce my chocolate lady into the story and everyone eats her alive on sight
 
@@ -66803,16 +66803,16 @@ In the end, the result was:
 > Taking a shower for 2 weeks
 > His fur is not looking good...
 
-**RPRetribution** _(23-Sep-18 08:47 PM)_
+**RPretribution** _(23-Sep-18 08:47 PM)_
 
 > his fur is practically stuck down to his skin now
 
 **Tatsumaki** _(23-Sep-18 08:47 PM)_
 
 > 🆙 |
-> [RP]retribution leveled up!
+> RPretribution leveled up!
 
-**RPRetribution** _(23-Sep-18 08:47 PM)_
+**RPretribution** _(23-Sep-18 08:47 PM)_
 
 > nice
 > i haven’t decided if garrick needs to eat or not
@@ -66833,7 +66833,7 @@ In the end, the result was:
 > @Jelsafan0
 > Emmett's been just hanging in there. He's been feeling gloomy due to his food shortage and the reoccurring thought of his lack of romantic companion. During this period, he's been drinking more heavily, even getting drunk a few times, surprisingly.
 
-**RPRetribution** _(23-Sep-18 08:51 PM)_
+**RPretribution** _(23-Sep-18 08:51 PM)_
 
 > sounds like me without the drinking part
 
@@ -66868,7 +66868,7 @@ In the end, the result was:
 
 > At least that’s the impression I got
 
-**RPRetribution** _(23-Sep-18 08:53 PM)_
+**RPretribution** _(23-Sep-18 08:53 PM)_
 
 > it’d be a waste of a room tbh
 > no it’s not weed
@@ -66889,7 +66889,7 @@ In the end, the result was:
 > Wait wait wait
 > Don’t we already have one of those
 
-**RPRetribution** _(23-Sep-18 08:54 PM)_
+**RPretribution** _(23-Sep-18 08:54 PM)_
 
 > to be fair, he knows literally nothing about any species not found on earth
 
@@ -66898,7 +66898,7 @@ In the end, the result was:
 > the green room
 > ?
 
-**RPRetribution** _(23-Sep-18 08:54 PM)_
+**RPretribution** _(23-Sep-18 08:54 PM)_
 
 > EAT
 > SANYA
@@ -67058,7 +67058,7 @@ In the end, the result was:
 
 > Matieu is now golem
 
-**RPRetribution** _(24-Sep-18 03:30 PM)_
+**RPretribution** _(24-Sep-18 03:30 PM)_
 
 > funnie
 
@@ -67190,7 +67190,7 @@ In the end, the result was:
 > @Zander
 > ?
 
-**RPRetribution** _(25-Sep-18 09:39 PM)_
+**RPretribution** _(25-Sep-18 09:39 PM)_
 
 > it’s kind, if i ever made a story of some kind for garrick, it’d just use earth years
 > because he lives on earth
@@ -67204,7 +67204,7 @@ In the end, the result was:
 
 > ??
 
-**RPRetribution** _(25-Sep-18 09:52 PM)_
+**RPretribution** _(25-Sep-18 09:52 PM)_
 
 > emmett the terminator
 
@@ -67224,7 +67224,7 @@ In the end, the result was:
 
 > It’s a joke
 
-**RPRetribution** _(25-Sep-18 09:55 PM)_
+**RPretribution** _(25-Sep-18 09:55 PM)_
 
 > emmett but he is of japanese descent
 
@@ -67232,7 +67232,7 @@ In the end, the result was:
 
 > Cuz Japanese eat dogs and Emmett is half dog and goat
 
-**RPRetribution** _(25-Sep-18 09:55 PM)_
+**RPretribution** _(25-Sep-18 09:55 PM)_
 
 > people eat goats why didn’t you just make a joke about that
 
@@ -67269,7 +67269,7 @@ In the end, the result was:
 
 > make a "kawaii" Emmett
 
-**RPRetribution** _(25-Sep-18 10:00 PM)_
+**RPretribution** _(25-Sep-18 10:00 PM)_
 
 > no
 > don’t
@@ -67347,7 +67347,7 @@ In the end, the result was:
 
 > OK
 
-**RPRetribution** _(27-Sep-18 07:02 PM)_
+**RPretribution** _(27-Sep-18 07:02 PM)_
 
 > i did that with trep a few weeks ago 'cause i got bored
 > might as well try it with some other stuff
@@ -67417,7 +67417,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(30-Sep-18 02:15 PM)_
+**RPretribution** _(30-Sep-18 02:15 PM)_
 
 > does emmet eat p
 
@@ -67507,7 +67507,7 @@ In the end, the result was:
 
 > t!8ball Did Seth airlock the fridge?
 
-**RPRetribution** _(30-Sep-18 02:18 PM)_
+**RPretribution** _(30-Sep-18 02:18 PM)_
 
 > join the vc smelli
 
@@ -67552,7 +67552,7 @@ In the end, the result was:
 > puts the flamethrower on his workbench
 > Eh.. time to get working on other stuff
 
-**RPRetribution** _(30-Sep-18 02:19 PM)_
+**RPretribution** _(30-Sep-18 02:19 PM)_
 
 > Garrick peeks out of the room.
 > What?
@@ -67561,7 +67561,7 @@ In the end, the result was:
 
 > If the spacesuits didn't get cut up during that space pirate battle.
 
-**RPRetribution** _(30-Sep-18 02:20 PM)_
+**RPretribution** _(30-Sep-18 02:20 PM)_
 
 > @PlasmaPerson
 > smell
@@ -67606,27 +67606,27 @@ In the end, the result was:
 
 > silently walks into his room before he is noticed by others
 
-**RPRetribution** _(30-Sep-18 02:21 PM)_
+**RPretribution** _(30-Sep-18 02:21 PM)_
 
 > t!8ball does garrick come out through the door to regroup with everyone
 
 **Tatsumaki** _(30-Sep-18 02:21 PM)_
 
 > 🎱 | Cannot predict now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(30-Sep-18 02:21 PM)_
+**RPretribution** _(30-Sep-18 02:21 PM)_
 
 > t!8ball does garrick come out through the door to regroup with everyone
 
 **Tatsumaki** _(30-Sep-18 02:21 PM)_
 
 > 🎱 | Don't count on it,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(30-Sep-18 02:22 PM)_
+**RPretribution** _(30-Sep-18 02:22 PM)_
 
 > alright
 
@@ -67699,7 +67699,7 @@ In the end, the result was:
 
 > `Seth, I'll stab you.`
 
-**RPRetribution** _(30-Sep-18 02:26 PM)_
+**RPretribution** _(30-Sep-18 02:26 PM)_
 
 > muffled
 > Don't eat Sanya.
@@ -67756,7 +67756,7 @@ In the end, the result was:
 > PlasmaPerson
 > .
 
-**RPRetribution** _(30-Sep-18 02:29 PM)_
+**RPretribution** _(30-Sep-18 02:29 PM)_
 
 > Well, jeez. Alrighty then.
 
@@ -67773,7 +67773,7 @@ In the end, the result was:
 
 > `What are you doing here?`
 
-**RPRetribution** _(30-Sep-18 02:30 PM)_
+**RPretribution** _(30-Sep-18 02:30 PM)_
 
 > Garrick floats through the door and heads to the lounge.
 
@@ -67801,7 +67801,7 @@ In the end, the result was:
 
 > as opposed to somewhere else on the ship?
 
-**RPRetribution** _(30-Sep-18 02:31 PM)_
+**RPretribution** _(30-Sep-18 02:31 PM)_
 
 > OOH! I WANT IT
 
@@ -67818,7 +67818,7 @@ In the end, the result was:
 
 > relax. I'm not going to kill you.
 
-**RPRetribution** _(30-Sep-18 02:31 PM)_
+**RPretribution** _(30-Sep-18 02:31 PM)_
 
 > Garrick quickly floats to deyner's room to snag the flamethrower.
 
@@ -67832,7 +67832,7 @@ In the end, the result was:
 > Pool it is,
 > she decides, turning back to change into her swimsuit.
 
-**RPRetribution** _(30-Sep-18 02:32 PM)_
+**RPretribution** _(30-Sep-18 02:32 PM)_
 
 > Here, I'll give it to him.
 > Yeeeaaah...
@@ -67874,7 +67874,7 @@ In the end, the result was:
 
 > `Don't want that to happen again, do we Emmet?`
 
-**RPRetribution** _(30-Sep-18 02:33 PM)_
+**RPretribution** _(30-Sep-18 02:33 PM)_
 
 > Chonk, don't come get your weapon.
 
@@ -67894,7 +67894,7 @@ In the end, the result was:
 
 > He’s gonna steal it
 
-**RPRetribution** _(30-Sep-18 02:33 PM)_
+**RPretribution** _(30-Sep-18 02:33 PM)_
 
 > I would never.
 
@@ -67941,7 +67941,7 @@ In the end, the result was:
 
 > walks to the pool
 
-**RPRetribution** _(30-Sep-18 02:34 PM)_
+**RPretribution** _(30-Sep-18 02:34 PM)_
 
 > Psst... you can just go through me.
 
@@ -68055,7 +68055,7 @@ In the end, the result was:
 
 > what is this pool made of, Anyway?
 
-**RPRetribution** _(30-Sep-18 02:38 PM)_
+**RPretribution** _(30-Sep-18 02:38 PM)_
 
 > Where is everyone...?
 
@@ -68071,7 +68071,7 @@ In the end, the result was:
 
 > Okay?
 
-**RPRetribution** _(30-Sep-18 02:38 PM)_
+**RPretribution** _(30-Sep-18 02:38 PM)_
 
 > Garrick looks around for a little bit, eventually ending up at the pool.
 
@@ -68079,7 +68079,7 @@ In the end, the result was:
 
 > `Hello, Iris. How are you?`
 
-**RPRetribution** _(30-Sep-18 02:38 PM)_
+**RPretribution** _(30-Sep-18 02:38 PM)_
 
 > 'Sup.
 
@@ -68095,7 +68095,7 @@ In the end, the result was:
 
 > a little tired.
 
-**RPRetribution** _(30-Sep-18 02:39 PM)_
+**RPretribution** _(30-Sep-18 02:39 PM)_
 
 > yo period.
 
@@ -68103,7 +68103,7 @@ In the end, the result was:
 
 > Fine then.
 
-**RPRetribution** _(30-Sep-18 02:39 PM)_
+**RPretribution** _(30-Sep-18 02:39 PM)_
 
 > final frontier 3 - yo.
 
@@ -68145,7 +68145,7 @@ In the end, the result was:
 > This is Jegon-8 it’s a food abundant place that’s ran by a warlord we can take it if you want
 > goes back to his room and works on the new weapon
 
-**RPRetribution** _(30-Sep-18 02:40 PM)_
+**RPretribution** _(30-Sep-18 02:40 PM)_
 
 > Yeah, well, I doubt I already have anything.
 > I don't need to eat, so I don't keep food on me.
@@ -68190,7 +68190,7 @@ In the end, the result was:
 
 > Emmett views the map.
 
-**RPRetribution** _(30-Sep-18 02:41 PM)_
+**RPretribution** _(30-Sep-18 02:41 PM)_
 
 > Where would I find that? We're in the middle of space.
 
@@ -68216,7 +68216,7 @@ In the end, the result was:
 > Emmett scowls.
 > Light speed will kill you all in the pool area.
 
-**RPRetribution** _(30-Sep-18 02:42 PM)_
+**RPretribution** _(30-Sep-18 02:42 PM)_
 
 > We can't go at lightspeed. We're not made of light.
 
@@ -68228,7 +68228,7 @@ In the end, the result was:
 
 > well hyperspace or something then.
 
-**RPRetribution** _(30-Sep-18 02:43 PM)_
+**RPretribution** _(30-Sep-18 02:43 PM)_
 
 > Did I hear raid?
 
@@ -68289,14 +68289,14 @@ In the end, the result was:
 
 > good choice.
 
-**RPRetribution** _(30-Sep-18 02:46 PM)_
+**RPretribution** _(30-Sep-18 02:46 PM)_
 
 > t!8ball does garrick find a marshmallow
 
 **Tatsumaki** _(30-Sep-18 02:46 PM)_
 
 > 🎱 | Without a doubt,
-> [RP]retribution
+> RPretribution
 > .
 
 **Zander** _(30-Sep-18 02:46 PM)_
@@ -68331,7 +68331,7 @@ In the end, the result was:
 
 > Oh wow.
 
-**RPRetribution** _(30-Sep-18 02:46 PM)_
+**RPretribution** _(30-Sep-18 02:46 PM)_
 
 > Anyone want a marshmallow?
 
@@ -68369,7 +68369,7 @@ In the end, the result was:
 
 > wait, garrick, you once pulled a marshmallow out of your pocket. What other food have you got in there?
 
-**RPRetribution** _(30-Sep-18 02:47 PM)_
+**RPretribution** _(30-Sep-18 02:47 PM)_
 
 > Iris asked first.
 > Garrick throws the marshmallow to Iris.
@@ -68414,7 +68414,7 @@ In the end, the result was:
 
 > `Well that was quick.`
 
-**RPRetribution** _(30-Sep-18 02:49 PM)_
+**RPretribution** _(30-Sep-18 02:49 PM)_
 
 > QUIT ARGUING ABOUT A MARSHMALLOW!
 
@@ -68422,7 +68422,7 @@ In the end, the result was:
 
 > I am die
 
-**RPRetribution** _(30-Sep-18 02:49 PM)_
+**RPretribution** _(30-Sep-18 02:49 PM)_
 
 > im die
 
@@ -68440,7 +68440,7 @@ In the end, the result was:
 > Iris gets a sudden headache.
 > Ah, did you want this, Sanya?
 
-**RPRetribution** _(30-Sep-18 02:50 PM)_
+**RPretribution** _(30-Sep-18 02:50 PM)_
 
 > no she didnt
 
@@ -68456,7 +68456,7 @@ In the end, the result was:
 
 > I am ,Deyner.
 
-**RPRetribution** _(30-Sep-18 02:50 PM)_
+**RPretribution** _(30-Sep-18 02:50 PM)_
 
 > this is why youre mad dummy in dotishtale lol
 
@@ -68464,7 +68464,7 @@ In the end, the result was:
 
 > Thanks couso
 
-**RPRetribution** _(30-Sep-18 02:50 PM)_
+**RPretribution** _(30-Sep-18 02:50 PM)_
 
 > I AM DEYNER
 
@@ -68517,7 +68517,7 @@ In the end, the result was:
 
 > i fucking said that
 
-**RPRetribution** _(30-Sep-18 02:51 PM)_
+**RPretribution** _(30-Sep-18 02:51 PM)_
 
 > brody
 
@@ -68525,7 +68525,7 @@ In the end, the result was:
 
 > Do you want the marshmalllow
 
-**RPRetribution** _(30-Sep-18 02:51 PM)_
+**RPretribution** _(30-Sep-18 02:51 PM)_
 
 > u smell
 
@@ -68549,7 +68549,7 @@ In the end, the result was:
 
 > Getting
 
-**RPRetribution** _(30-Sep-18 02:52 PM)_
+**RPretribution** _(30-Sep-18 02:52 PM)_
 
 > sanya smells like p
 
@@ -68592,7 +68592,7 @@ In the end, the result was:
 > Decision
 > About
 
-**RPRetribution** _(30-Sep-18 02:52 PM)_
+**RPretribution** _(30-Sep-18 02:52 PM)_
 
 > A
 
@@ -68627,7 +68627,7 @@ In the end, the result was:
 > said
 > 20
 
-**RPRetribution** _(30-Sep-18 02:52 PM)_
+**RPretribution** _(30-Sep-18 02:52 PM)_
 
 > MARSHMALLOW
 
@@ -68685,7 +68685,7 @@ In the end, the result was:
 
 > when the fuck do i break the damn 8ball?
 
-**RPRetribution** _(30-Sep-18 02:54 PM)_
+**RPretribution** _(30-Sep-18 02:54 PM)_
 
 > if you keep being so ungrateful, garrick just won't offer food anymore
 
@@ -68693,7 +68693,7 @@ In the end, the result was:
 
 > Dread being in Sanya's butthole.
 
-**RPRetribution** _(30-Sep-18 02:54 PM)_
+**RPretribution** _(30-Sep-18 02:54 PM)_
 
 >
 
@@ -68758,7 +68758,7 @@ In the end, the result was:
 
 > It did though
 
-**RPRetribution** _(30-Sep-18 02:55 PM)_
+**RPretribution** _(30-Sep-18 02:55 PM)_
 
 > calm down
 > lol
@@ -68806,7 +68806,7 @@ In the end, the result was:
 
 > Take my credit, Y-28.
 
-**RPRetribution** _(30-Sep-18 02:56 PM)_
+**RPretribution** _(30-Sep-18 02:56 PM)_
 
 > Oh, for Christ's sake. Is there any other way we can get around it?
 
@@ -68848,7 +68848,7 @@ In the end, the result was:
 > Jelsafan0
 > .
 
-**RPRetribution** _(30-Sep-18 02:57 PM)_
+**RPretribution** _(30-Sep-18 02:57 PM)_
 
 > B R O D Y C A L M D O W N
 
@@ -68856,7 +68856,7 @@ In the end, the result was:
 
 > Those weren't the original questions asked, Brody.
 
-**RPRetribution** _(30-Sep-18 02:57 PM)_
+**RPretribution** _(30-Sep-18 02:57 PM)_
 
 > nobody cares about this but you
 
@@ -68940,7 +68940,7 @@ In the end, the result was:
 > fine.
 > She gets out of the pool, grabbing a towel and wrapping it around her, following Deyner.
 
-**RPRetribution** _(30-Sep-18 02:59 PM)_
+**RPretribution** _(30-Sep-18 02:59 PM)_
 
 > How does this pool even work?
 
@@ -68953,7 +68953,7 @@ In the end, the result was:
 > Here this is to say I’m sorry for the offnense I caused
 > hands her he box
 
-**RPRetribution** _(30-Sep-18 03:00 PM)_
+**RPretribution** _(30-Sep-18 03:00 PM)_
 
 > Garrick sits on top of the pool.
 
@@ -68985,7 +68985,7 @@ In the end, the result was:
 
 > `Emmett, i can attempt to get into their system and make them think that we paid...`
 
-**RPRetribution** _(30-Sep-18 03:01 PM)_
+**RPretribution** _(30-Sep-18 03:01 PM)_
 
 > Yeah?
 
@@ -69013,7 +69013,7 @@ In the end, the result was:
 
 > Check inside your butthole Emmett.
 
-**RPRetribution** _(30-Sep-18 03:01 PM)_
+**RPretribution** _(30-Sep-18 03:01 PM)_
 
 > ...You know, I have no idea.
 
@@ -69086,7 +69086,7 @@ In the end, the result was:
 > did you make this?
 > Iris asks, dumbfounded.
 
-**RPRetribution** _(30-Sep-18 03:03 PM)_
+**RPretribution** _(30-Sep-18 03:03 PM)_
 
 > Hey, I'm not the one that burned his own parents.
 
@@ -69141,7 +69141,7 @@ In the end, the result was:
 
 > _Intercom_ We need five D's!
 
-**RPRetribution** _(30-Sep-18 03:03 PM)_
+**RPretribution** _(30-Sep-18 03:03 PM)_
 
 > I read your log. You write a lot in there.
 
@@ -69154,14 +69154,14 @@ In the end, the result was:
 
 > "Sorry Vortox Pummeler I'm going to have to ask you to leave."
 
-**RPRetribution** _(30-Sep-18 03:04 PM)_
+**RPretribution** _(30-Sep-18 03:04 PM)_
 
 > t!8ball does garrick have 5 stolen ducketts
 
 **Tatsumaki** _(30-Sep-18 03:04 PM)_
 
 > 🎱 | It is decidedly so,
-> [RP]retribution
+> RPretribution
 > .
 
 **PlasmaPerson** _(30-Sep-18 03:04 PM)_
@@ -69169,7 +69169,7 @@ In the end, the result was:
 > first of all, that's private. You shouldn't be looking through my belongings. Second....
 > that was an accident.
 
-**RPRetribution** _(30-Sep-18 03:04 PM)_
+**RPretribution** _(30-Sep-18 03:04 PM)_
 
 > Yo! Emmett! I found 5D!
 
@@ -69201,7 +69201,7 @@ In the end, the result was:
 
 > Sexual Advances Smexual Advances.
 
-**RPRetribution** _(30-Sep-18 03:05 PM)_
+**RPretribution** _(30-Sep-18 03:05 PM)_
 
 > Yeah, yeah, whatever. Let's just get through the toll.
 
@@ -69245,7 +69245,7 @@ In the end, the result was:
 > smiles
 > No problem
 
-**RPRetribution** _(30-Sep-18 03:07 PM)_
+**RPretribution** _(30-Sep-18 03:07 PM)_
 
 > I'll keep it secret if you let me borrow your flamethrower.
 
@@ -69275,7 +69275,7 @@ In the end, the result was:
 
 > I will go to the ends of the earth, learn every archaic spell to have ever existed, and I will strike you down.
 
-**RPRetribution** _(30-Sep-18 03:07 PM)_
+**RPretribution** _(30-Sep-18 03:07 PM)_
 
 > You can't kill a ghost, dummy.
 
@@ -69332,7 +69332,7 @@ In the end, the result was:
 
 > That’s why his room is really cold
 
-**RPRetribution** _(30-Sep-18 03:08 PM)_
+**RPretribution** _(30-Sep-18 03:08 PM)_
 
 > Alright, I'll just get another flamethrower.
 
@@ -69368,7 +69368,7 @@ In the end, the result was:
 
 > They won't waste their energy for a legally paying bounty hunting group.
 
-**RPRetribution** _(30-Sep-18 03:09 PM)_
+**RPretribution** _(30-Sep-18 03:09 PM)_
 
 > Not that I really care about your family issues, anyway.
 
@@ -69397,7 +69397,7 @@ In the end, the result was:
 
 > "If you want I can let you talk to a manager before the police arrive to arrest you."
 
-**RPRetribution** _(30-Sep-18 03:10 PM)_
+**RPretribution** _(30-Sep-18 03:10 PM)_
 
 > I'll try, but you know me. Stealing is my nature.
 
@@ -69732,17 +69732,17 @@ In the end, the result was:
 
 > good idea, do it garrick.
 
-**RPRetribution** _(30-Sep-18 03:20 PM)_
+**RPretribution** _(30-Sep-18 03:20 PM)_
 
 > t!8ball does he possess the lady
 
 **Tatsumaki** _(30-Sep-18 03:20 PM)_
 
 > 🎱 | Ask again later,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(30-Sep-18 03:20 PM)_
+**RPretribution** _(30-Sep-18 03:20 PM)_
 
 > t!8ball does he possess the lady
 > t!8ball does he possess the lady
@@ -69750,10 +69750,10 @@ In the end, the result was:
 **Tatsumaki** _(30-Sep-18 03:20 PM)_
 
 > 🎱 | Outlook not so good,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(30-Sep-18 03:21 PM)_
+**RPretribution** _(30-Sep-18 03:21 PM)_
 
 > I could just possess her.
 
@@ -69761,7 +69761,7 @@ In the end, the result was:
 
 > (Zander plz ask if Garrick possesses her)
 
-**RPRetribution** _(30-Sep-18 03:22 PM)_
+**RPretribution** _(30-Sep-18 03:22 PM)_
 
 > someone ask so i don't have to wait the whole round
 
@@ -69833,7 +69833,7 @@ In the end, the result was:
 In the end, the result was:
 403
 
-**RPRetribution** _(30-Sep-18 03:23 PM)_
+**RPretribution** _(30-Sep-18 03:23 PM)_
 
 > Are you trying to blow her up????
 
@@ -69946,7 +69946,7 @@ In the end, the result was:
 
 > Emmett groans on the floor.
 
-**RPRetribution** _(30-Sep-18 03:29 PM)_
+**RPretribution** _(30-Sep-18 03:29 PM)_
 
 > Should I just go over there and possess her? Seems a lot easier.
 
@@ -69962,7 +69962,7 @@ In the end, the result was:
 
 > yes, Garrick! Possess her!
 
-**RPRetribution** _(30-Sep-18 03:29 PM)_
+**RPretribution** _(30-Sep-18 03:29 PM)_
 
 > Alright, I'm on it.
 
@@ -70074,7 +70074,7 @@ In the end, the result was:
 In the end, the result was:
 625
 
-**RPRetribution** _(30-Sep-18 03:34 PM)_
+**RPretribution** _(30-Sep-18 03:34 PM)_
 
 > I CAN'T HEAR ANYONE
 
@@ -70104,7 +70104,7 @@ In the end, the result was:
 > PlasmaPerson
 > .
 
-**RPRetribution** _(30-Sep-18 03:35 PM)_
+**RPretribution** _(30-Sep-18 03:35 PM)_
 
 > I told you I should've possessed her!
 
@@ -70123,7 +70123,7 @@ In the end, the result was:
 
 > HNNNNNN-
 
-**RPRetribution** _(30-Sep-18 03:36 PM)_
+**RPretribution** _(30-Sep-18 03:36 PM)_
 
 > Space Rule #96: Don't go through intergalactic toll booths.
 
@@ -70131,7 +70131,7 @@ In the end, the result was:
 
 > Then why the fuck did you not possess her, you useless fuck.
 
-**RPRetribution** _(30-Sep-18 03:36 PM)_
+**RPretribution** _(30-Sep-18 03:36 PM)_
 
 > You blew her up!
 
@@ -70155,7 +70155,7 @@ In the end, the result was:
 
 > `There's no use now!`
 
-**RPRetribution** _(30-Sep-18 03:36 PM)_
+**RPretribution** _(30-Sep-18 03:36 PM)_
 
 > Emmett blew her up.
 
@@ -70174,7 +70174,7 @@ In the end, the result was:
 > the end
 > we all died
 
-**RPRetribution** _(30-Sep-18 03:38 PM)_
+**RPretribution** _(30-Sep-18 03:38 PM)_
 
 > lets move on to final frontier 3
 
@@ -70188,7 +70188,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(30-Sep-18 03:38 PM)_
+**RPretribution** _(30-Sep-18 03:38 PM)_
 
 > undertale edition
 
@@ -70197,7 +70197,7 @@ In the end, the result was:
 > WHAT
 > THE ACTUAL
 
-**RPRetribution** _(30-Sep-18 03:38 PM)_
+**RPretribution** _(30-Sep-18 03:38 PM)_
 
 > ?????
 
@@ -70257,7 +70257,7 @@ In the end, the result was:
 
 > what happened?
 
-**RPRetribution** _(30-Sep-18 03:39 PM)_
+**RPretribution** _(30-Sep-18 03:39 PM)_
 
 > WE CRASHED
 
@@ -70265,7 +70265,7 @@ In the end, the result was:
 
 > `Wait, why the hell didn't we see this planet?`
 
-**RPRetribution** _(30-Sep-18 03:39 PM)_
+**RPretribution** _(30-Sep-18 03:39 PM)_
 
 > TIME FOR FINALFRONTIERTALE
 
@@ -70277,7 +70277,7 @@ In the end, the result was:
 
 > We have crashed
 
-**RPRetribution** _(30-Sep-18 03:40 PM)_
+**RPretribution** _(30-Sep-18 03:40 PM)_
 
 > Oh my God, not again.
 
@@ -70289,7 +70289,7 @@ In the end, the result was:
 
 > Chomsky gets his clothes from the pool and goes outside
 
-**RPRetribution** _(30-Sep-18 03:40 PM)_
+**RPretribution** _(30-Sep-18 03:40 PM)_
 
 > Garrick floats outside.
 
@@ -70297,7 +70297,7 @@ In the end, the result was:
 
 > ALL I HEAR IS SCREAMING ROBOT NOISES
 
-**RPRetribution** _(30-Sep-18 03:41 PM)_
+**RPretribution** _(30-Sep-18 03:41 PM)_
 
 > EEEEEEEEEEEEEEEEEEEEEEEEE
 > BEEP BEEP
@@ -70322,7 +70322,7 @@ In the end, the result was:
 
 > Eat baby
 
-**RPRetribution** _(30-Sep-18 03:42 PM)_
+**RPretribution** _(30-Sep-18 03:42 PM)_
 
 > EAT BABIE
 > EAT BABIE
@@ -70360,7 +70360,7 @@ In the end, the result was:
 > Dammit
 > This isn’t helpful
 
-**RPRetribution** _(30-Sep-18 03:42 PM)_
+**RPretribution** _(30-Sep-18 03:42 PM)_
 
 > Emmett doesn't look too good.
 
@@ -70380,19 +70380,19 @@ In the end, the result was:
 
 > Come help me collect grass.
 
-**RPRetribution** _(30-Sep-18 03:44 PM)_
+**RPretribution** _(30-Sep-18 03:44 PM)_
 
 > t!choose grassy | rocky
 
 **Tatsumaki** _(30-Sep-18 03:44 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > grassy
 > !
 
-**RPRetribution** _(30-Sep-18 03:44 PM)_
+**RPretribution** _(30-Sep-18 03:44 PM)_
 
 > Yo, there's grass here.
 
@@ -70400,7 +70400,7 @@ In the end, the result was:
 
 > Wait... Sanya?
 
-**RPRetribution** _(30-Sep-18 03:44 PM)_
+**RPretribution** _(30-Sep-18 03:44 PM)_
 
 > Emmett's gonna be fine.
 
@@ -70483,7 +70483,7 @@ In the end, the result was:
 
 > Hey! Where is Emmett! I have grass!
 
-**RPRetribution** _(30-Sep-18 03:48 PM)_
+**RPretribution** _(30-Sep-18 03:48 PM)_
 
 > There's tons of grass out h-
 
@@ -70491,7 +70491,7 @@ In the end, the result was:
 
 > In the engine don't worry
 
-**RPRetribution** _(30-Sep-18 03:48 PM)_
+**RPretribution** _(30-Sep-18 03:48 PM)_
 
 > Where's Emmett?
 
@@ -70640,7 +70640,7 @@ In the end, the result was:
 > TheBlade
 > .
 
-**RPRetribution** _(30-Sep-18 03:57 PM)_
+**RPretribution** _(30-Sep-18 03:57 PM)_
 
 > t!roll d7
 
@@ -70654,7 +70654,7 @@ In the end, the result was:
 In the end, the result was:
 7
 
-**RPRetribution** _(30-Sep-18 03:58 PM)_
+**RPretribution** _(30-Sep-18 03:58 PM)_
 
 > I found a bunch of weird-looking animals!
 
@@ -70662,7 +70662,7 @@ In the end, the result was:
 
 > nice!
 
-**RPRetribution** _(30-Sep-18 03:58 PM)_
+**RPretribution** _(30-Sep-18 03:58 PM)_
 
 > We can cook these.
 
@@ -70680,7 +70680,7 @@ In the end, the result was:
 
 > `Someone get some more food while i patch up the ship`
 
-**RPRetribution** _(30-Sep-18 03:58 PM)_
+**RPretribution** _(30-Sep-18 03:58 PM)_
 
 > We're on it.
 
@@ -70688,7 +70688,7 @@ In the end, the result was:
 
 > I'll get a steady fire going to cook stuff.
 
-**RPRetribution** _(30-Sep-18 03:59 PM)_
+**RPretribution** _(30-Sep-18 03:59 PM)_
 
 > I'll see if I can find a weapon.
 
@@ -70696,7 +70696,7 @@ In the end, the result was:
 
 > Use Kyle to repair the ship, he's good scrap
 
-**RPRetribution** _(30-Sep-18 03:59 PM)_
+**RPretribution** _(30-Sep-18 03:59 PM)_
 
 > Garrick pulls out his spear.
 
@@ -70704,7 +70704,7 @@ In the end, the result was:
 
 > Chomsky gathers some surrounding twigs and makes a fire.
 
-**RPRetribution** _(30-Sep-18 03:59 PM)_
+**RPretribution** _(30-Sep-18 03:59 PM)_
 
 > Oh shoot! That's perfect.
 
@@ -70828,7 +70828,7 @@ In the end, the result was:
 
 > Before he loses his grip, Emmett grabs some of the grass around him and tries to chew it. He immediately spits it out.
 
-**RPRetribution** _(30-Sep-18 04:05 PM)_
+**RPretribution** _(30-Sep-18 04:05 PM)_
 
 > Hey, I killed some an-
 > ...What's going on?
@@ -70837,7 +70837,7 @@ In the end, the result was:
 
 > well me and you are the only ones concerned with food, so help me skin the animals to cook.
 
-**RPRetribution** _(30-Sep-18 04:06 PM)_
+**RPretribution** _(30-Sep-18 04:06 PM)_
 
 > Alright. Hopefully these guys are edible.
 
@@ -70853,14 +70853,14 @@ In the end, the result was:
 
 > Emmett starts to slobber at the mouth profusely.
 
-**RPRetribution** _(30-Sep-18 04:07 PM)_
+**RPretribution** _(30-Sep-18 04:07 PM)_
 
 > t!8ball are garrick and chomk done quickly
 
 **Tatsumaki** _(30-Sep-18 04:07 PM)_
 
 > 🎱 | Yes, definitely,
-> [RP]retribution
+> RPretribution
 > .
 
 **PlasmaPerson** _(30-Sep-18 04:07 PM)_
@@ -70868,7 +70868,7 @@ In the end, the result was:
 > food, everyone.
 > we actually got food for everyone.
 
-**RPRetribution** _(30-Sep-18 04:08 PM)_
+**RPretribution** _(30-Sep-18 04:08 PM)_
 
 > Guys, Chonky's cooking dinner.
 
@@ -70888,7 +70888,7 @@ In the end, the result was:
 
 > `Alright i think im about done with the patchwork`
 
-**RPRetribution** _(30-Sep-18 04:09 PM)_
+**RPretribution** _(30-Sep-18 04:09 PM)_
 
 > OH GOD EMMETT'S COMING
 
@@ -70917,7 +70917,7 @@ In the end, the result was:
 
 > On the road rn
 
-**RPRetribution** _(30-Sep-18 04:10 PM)_
+**RPretribution** _(30-Sep-18 04:10 PM)_
 
 > Emmett, we're trying to make dinner. I'm assuming you didn't find any grass?
 
@@ -71044,7 +71044,7 @@ In the end, the result was:
 
 > walks to where the others are
 
-**RPRetribution** _(30-Sep-18 04:16 PM)_
+**RPretribution** _(30-Sep-18 04:16 PM)_
 
 > I'll try to calm down Emmett...
 > t!roll d20
@@ -71081,7 +71081,7 @@ In the end, the result was:
 
 > (Omfg what happened while I was gone??
 
-**RPRetribution** _(30-Sep-18 04:16 PM)_
+**RPretribution** _(30-Sep-18 04:16 PM)_
 
 > Jeez, I forgot how tiring this was.
 
@@ -71089,7 +71089,7 @@ In the end, the result was:
 
 > Hello?
 
-**RPRetribution** _(30-Sep-18 04:17 PM)_
+**RPretribution** _(30-Sep-18 04:17 PM)_
 
 > I don't know, just get a bunch of grass before I lose control of him!
 
@@ -71097,7 +71097,7 @@ In the end, the result was:
 
 > (What is Deyner possessed or Emmett?)
 
-**RPRetribution** _(30-Sep-18 04:17 PM)_
+**RPretribution** _(30-Sep-18 04:17 PM)_
 
 > emmett
 
@@ -71167,7 +71167,7 @@ In the end, the result was:
 
 > `Alright, tie him down, and find some damn grass!`
 
-**RPRetribution** _(30-Sep-18 04:19 PM)_
+**RPretribution** _(30-Sep-18 04:19 PM)_
 
 > Garrick/Emmett sluggishly stomps over to where Hector is.
 
@@ -71198,7 +71198,7 @@ In the end, the result was:
 
 > :/
 
-**RPRetribution** _(30-Sep-18 04:21 PM)_
+**RPretribution** _(30-Sep-18 04:21 PM)_
 
 > SOMEONE TIE EMMETT DOWN
 
@@ -71210,7 +71210,7 @@ In the end, the result was:
 
 > I can knock him out if we need
 
-**RPRetribution** _(30-Sep-18 04:21 PM)_
+**RPretribution** _(30-Sep-18 04:21 PM)_
 
 > Garrick barely manages to hold Emmett still.
 
@@ -71224,7 +71224,7 @@ In the end, the result was:
 
 > i could try and inject him to knock him out
 
-**RPRetribution** _(30-Sep-18 04:22 PM)_
+**RPretribution** _(30-Sep-18 04:22 PM)_
 
 > EMMETT IS LITERALLY THE HULK
 
@@ -71266,7 +71266,7 @@ In the end, the result was:
 
 > @everyone
 
-**RPRetribution** _(30-Sep-18 04:23 PM)_
+**RPretribution** _(30-Sep-18 04:23 PM)_
 
 > AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 > Garrick loses control and flies out of Emmett.
@@ -71299,7 +71299,7 @@ In the end, the result was:
 
 > Spasm
 
-**RPRetribution** _(30-Sep-18 04:25 PM)_
+**RPretribution** _(30-Sep-18 04:25 PM)_
 
 > splasm
 > splasma person
@@ -71329,7 +71329,7 @@ In the end, the result was:
 
 > U
 
-**RPRetribution** _(30-Sep-18 04:26 PM)_
+**RPretribution** _(30-Sep-18 04:26 PM)_
 
 > u
 
@@ -71349,7 +71349,7 @@ In the end, the result was:
 
 > I'm trying but jicky
 
-**RPRetribution** _(30-Sep-18 04:27 PM)_
+**RPretribution** _(30-Sep-18 04:27 PM)_
 
 > jicky
 
@@ -71399,7 +71399,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(30-Sep-18 04:30 PM)_
+**RPretribution** _(30-Sep-18 04:30 PM)_
 
 > im die
 
@@ -71421,7 +71421,7 @@ In the end, the result was:
 
 > wifi down
 
-**RPRetribution** _(30-Sep-18 04:30 PM)_
+**RPretribution** _(30-Sep-18 04:30 PM)_
 
 > EMMET'S ASLEEP
 > E-MET'S ASLEEP
@@ -71467,7 +71467,7 @@ In the end, the result was:
 
 > "Well luckily we're below GU jurisdiction."
 
-**RPRetribution** _(30-Sep-18 04:33 PM)_
+**RPretribution** _(30-Sep-18 04:33 PM)_
 
 > jim
 > really
@@ -71489,19 +71489,19 @@ In the end, the result was:
 
 >
 
-**RPRetribution** _(30-Sep-18 04:34 PM)_
+**RPretribution** _(30-Sep-18 04:34 PM)_
 
 > t!choose marshmallow | one of emmetts squoat books
 
 **Tatsumaki** _(30-Sep-18 04:34 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > marshmallow
 > !
 
-**RPRetribution** _(30-Sep-18 04:35 PM)_
+**RPretribution** _(30-Sep-18 04:35 PM)_
 
 > GUYS I GOT ANOTHER ONE
 
@@ -71529,7 +71529,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(30-Sep-18 04:35 PM)_
+**RPretribution** _(30-Sep-18 04:35 PM)_
 
 > I DON'T KNOW WHY I HAVE SO MANY
 
@@ -71553,7 +71553,7 @@ In the end, the result was:
 > TheBlade
 > .
 
-**RPRetribution** _(30-Sep-18 04:35 PM)_
+**RPretribution** _(30-Sep-18 04:35 PM)_
 
 > Garrick feeds Emmett the marshmallow.
 
@@ -71565,7 +71565,7 @@ In the end, the result was:
 
 > `Garick, pass me that rope over there.`
 
-**RPRetribution** _(30-Sep-18 04:36 PM)_
+**RPretribution** _(30-Sep-18 04:36 PM)_
 
 > Garrick throws the rope to Jim.
 
@@ -71573,24 +71573,24 @@ In the end, the result was:
 
 > So right now Jim (6 strength) and a rope (idk 3 strength) is holding down emmett
 
-**RPRetribution** _(30-Sep-18 04:37 PM)_
+**RPretribution** _(30-Sep-18 04:37 PM)_
 
 > t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
 
 **Tatsumaki** _(30-Sep-18 04:37 PM)_
 
 > 🎱 | Better not tell you now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(30-Sep-18 04:37 PM)_
+**RPretribution** _(30-Sep-18 04:37 PM)_
 
 > t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
 
 **Tatsumaki** _(30-Sep-18 04:37 PM)_
 
 > 🎱 | Reply hazy try again,
-> [RP]retribution
+> RPretribution
 > .
 
 **PlasmaPerson** _(30-Sep-18 04:37 PM)_
@@ -71603,17 +71603,17 @@ In the end, the result was:
 > PlasmaPerson
 > .
 
-**RPRetribution** _(30-Sep-18 04:37 PM)_
+**RPretribution** _(30-Sep-18 04:37 PM)_
 
 > t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
 
 **Tatsumaki** _(30-Sep-18 04:37 PM)_
 
 > 🎱 | Yes,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(30-Sep-18 04:37 PM)_
+**RPretribution** _(30-Sep-18 04:37 PM)_
 
 > t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
 > I told you these marshmallows would come in handy.
@@ -71644,7 +71644,7 @@ In the end, the result was:
 > PlasmaPerson
 > .
 
-**RPRetribution** _(30-Sep-18 04:40 PM)_
+**RPretribution** _(30-Sep-18 04:40 PM)_
 
 > goodnight squemmy
 
@@ -71690,7 +71690,7 @@ In the end, the result was:
 > TheBlade
 > .
 
-**RPRetribution** _(30-Sep-18 04:41 PM)_
+**RPretribution** _(30-Sep-18 04:41 PM)_
 
 > Garrick blows a raspberry at Emmett in rebuttal.
 
@@ -71707,7 +71707,7 @@ In the end, the result was:
 
 > And sad.
 
-**RPRetribution** _(30-Sep-18 04:42 PM)_
+**RPretribution** _(30-Sep-18 04:42 PM)_
 
 > Squemfet is filly with angee.
 
@@ -71726,14 +71726,14 @@ In the end, the result was:
 > uh
 > dead parents
 
-**RPRetribution** _(30-Sep-18 04:44 PM)_
+**RPretribution** _(30-Sep-18 04:44 PM)_
 
 > t!8ball does garrick help chomky with cooking
 
 **Tatsumaki** _(30-Sep-18 04:44 PM)_
 
 > 🎱 | It is certain,
-> [RP]retribution
+> RPretribution
 > .
 
 **Brakia** _(30-Sep-18 04:44 PM)_
@@ -71875,7 +71875,7 @@ In the end, the result was:
 
 > Isn’t it already here?
 
-**RPRetribution** _(02-Oct-18 10:15 PM)_
+**RPretribution** _(02-Oct-18 10:15 PM)_
 
 > metal emmett
 
@@ -71883,7 +71883,7 @@ In the end, the result was:
 
 > ghost Emmett
 
-**RPRetribution** _(02-Oct-18 10:17 PM)_
+**RPretribution** _(02-Oct-18 10:17 PM)_
 
 > garrick and chomsky finally kill emmett so he can join garrick in the afterlife
 
@@ -71920,7 +71920,7 @@ In the end, the result was:
 
 > A Squoatling Squoatling
 
-**RPRetribution** _(03-Oct-18 07:53 AM)_
+**RPretribution** _(03-Oct-18 07:53 AM)_
 
 > a blue one
 
@@ -71933,7 +71933,7 @@ In the end, the result was:
 > Ohh
 > So a Eskimo Squoatling?
 
-**RPRetribution** _(03-Oct-18 07:54 AM)_
+**RPretribution** _(03-Oct-18 07:54 AM)_
 
 > he chilly
 
@@ -72111,7 +72111,7 @@ In the end, the result was:
 
 > Yeah, reminds me a lot of my home planet.
 
-**RPRetribution** _(07-Oct-18 02:47 PM)_
+**RPretribution** _(07-Oct-18 02:47 PM)_
 
 >
 
@@ -72140,7 +72140,7 @@ In the end, the result was:
 
 > Shakes his hand
 
-**RPRetribution** _(07-Oct-18 02:48 PM)_
+**RPretribution** _(07-Oct-18 02:48 PM)_
 
 > Okay, th
 
@@ -72161,7 +72161,7 @@ In the end, the result was:
 
 > (Does Lucian have his weapon on him rn?
 
-**RPRetribution** _(07-Oct-18 02:49 PM)_
+**RPretribution** _(07-Oct-18 02:49 PM)_
 
 > It's the middle of the day.
 
@@ -72182,7 +72182,7 @@ In the end, the result was:
 
 > Woah! Nice weapon who made this?
 
-**RPRetribution** _(07-Oct-18 02:50 PM)_
+**RPretribution** _(07-Oct-18 02:50 PM)_
 
 > it was my dad
 > sans
@@ -72197,7 +72197,7 @@ In the end, the result was:
 > I haven't been in the ship this whole time.
 > SO I wouldn't know.
 
-**RPRetribution** _(07-Oct-18 02:51 PM)_
+**RPretribution** _(07-Oct-18 02:51 PM)_
 
 > Wouldn't it get hot in there?
 
@@ -72228,7 +72228,7 @@ In the end, the result was:
 
 > Hmmm if you want I could check it out!
 
-**RPRetribution** _(07-Oct-18 02:52 PM)_
+**RPretribution** _(07-Oct-18 02:52 PM)_
 
 > @PlasmaPerson
 
@@ -72289,7 +72289,7 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(07-Oct-18 02:54 PM)_
+**RPretribution** _(07-Oct-18 02:54 PM)_
 
 > Do you think we could cook a rubber chicken?
 
@@ -72322,21 +72322,21 @@ In the end, the result was:
 
 > Hey I’m half Drow
 
-**RPRetribution** _(07-Oct-18 02:55 PM)_
+**RPretribution** _(07-Oct-18 02:55 PM)_
 
 > t!8ball does garrick pull out a rubber chicken and show emmett
 
 **Tatsumaki** _(07-Oct-18 02:55 PM)_
 
 > 🎱 | It is decidedly so,
-> [RP]retribution
+> RPretribution
 > .
 
 **Zander** _(07-Oct-18 02:55 PM)_
 
 > That's disturbing.
 
-**RPRetribution** _(07-Oct-18 02:55 PM)_
+**RPretribution** _(07-Oct-18 02:55 PM)_
 
 > HONK
 
@@ -72344,7 +72344,7 @@ In the end, the result was:
 
 > Where did you keep that
 
-**RPRetribution** _(07-Oct-18 02:56 PM)_
+**RPretribution** _(07-Oct-18 02:56 PM)_
 
 > In my pockets, duh.
 
@@ -72360,7 +72360,7 @@ In the end, the result was:
 
 > Do ghosts have butts?
 
-**RPRetribution** _(07-Oct-18 02:56 PM)_
+**RPretribution** _(07-Oct-18 02:56 PM)_
 
 > No.
 
@@ -72378,7 +72378,7 @@ In the end, the result was:
 
 > Well unfortunately I don't care if you're half drow, I'm killing the first female drow I see on this planet.
 
-**RPRetribution** _(07-Oct-18 02:57 PM)_
+**RPretribution** _(07-Oct-18 02:57 PM)_
 
 > deynarr
 
@@ -72402,7 +72402,7 @@ In the end, the result was:
 
 > Okay calm down you two
 
-**RPRetribution** _(07-Oct-18 02:58 PM)_
+**RPretribution** _(07-Oct-18 02:58 PM)_
 
 > Seth, you're even more desperate than usual.
 
@@ -72410,7 +72410,7 @@ In the end, the result was:
 
 > Yes, freeze me because I defend myself, I don't want to deal with a dumb drow assassin tailing my ass.
 
-**RPRetribution** _(07-Oct-18 02:58 PM)_
+**RPretribution** _(07-Oct-18 02:58 PM)_
 
 > Except this time, for food.
 
@@ -72422,7 +72422,7 @@ In the end, the result was:
 
 > My bad I thought you were talking about eating me
 
-**RPRetribution** _(07-Oct-18 02:59 PM)_
+**RPretribution** _(07-Oct-18 02:59 PM)_
 
 > We have enough people, we could easily defend ourselves against a single assassin.
 
@@ -72435,7 +72435,7 @@ In the end, the result was:
 
 > Sounds like the Llamanians.
 
-**RPRetribution** _(07-Oct-18 03:00 PM)_
+**RPretribution** _(07-Oct-18 03:00 PM)_
 
 > all seth has to do is eat her
 > its that easy
@@ -72481,7 +72481,7 @@ In the end, the result was:
 
 > uh huh.
 
-**RPRetribution** _(07-Oct-18 03:01 PM)_
+**RPretribution** _(07-Oct-18 03:01 PM)_
 
 > says with s
 
@@ -72504,7 +72504,7 @@ In the end, the result was:
 > pulls out his swords
 > I don’t know are you
 
-**RPRetribution** _(07-Oct-18 03:02 PM)_
+**RPretribution** _(07-Oct-18 03:02 PM)_
 
 > C'mon, guys! Let's go kill all the natives!
 
@@ -72516,7 +72516,7 @@ In the end, the result was:
 
 > Why don't we hunt animals instead of hunting the natives?
 
-**RPRetribution** _(07-Oct-18 03:03 PM)_
+**RPretribution** _(07-Oct-18 03:03 PM)_
 
 > We can do both.
 
@@ -72528,7 +72528,7 @@ In the end, the result was:
 
 > you guys are harsh.
 
-**RPRetribution** _(07-Oct-18 03:03 PM)_
+**RPretribution** _(07-Oct-18 03:03 PM)_
 
 > We're stranded on a random planet, Chonko.
 
@@ -72540,7 +72540,7 @@ In the end, the result was:
 
 > (Brb gotta go to Winn Dixie)
 
-**RPRetribution** _(07-Oct-18 03:04 PM)_
+**RPretribution** _(07-Oct-18 03:04 PM)_
 
 > So? What's the problem, then?
 
@@ -72574,7 +72574,7 @@ In the end, the result was:
 
 > Danny, want to share?
 
-**RPRetribution** _(07-Oct-18 03:05 PM)_
+**RPretribution** _(07-Oct-18 03:05 PM)_
 
 > Whatever works.
 
@@ -72596,7 +72596,7 @@ In the end, the result was:
 
 > I would like that very much.
 
-**RPRetribution** _(07-Oct-18 03:05 PM)_
+**RPretribution** _(07-Oct-18 03:05 PM)_
 
 > t!roll 10d10000
 
@@ -72608,7 +72608,7 @@ Please use less than
 100
 sides.
 
-**RPRetribution** _(07-Oct-18 03:05 PM)_
+**RPretribution** _(07-Oct-18 03:05 PM)_
 
 > t!roll 10d100
 
@@ -72707,7 +72707,7 @@ In the end, the result was:
 
 > Seth, can you hand me a napkin or something?
 
-**RPRetribution** _(07-Oct-18 03:08 PM)_
+**RPretribution** _(07-Oct-18 03:08 PM)_
 
 > I already have a mask.
 
@@ -72715,7 +72715,7 @@ In the end, the result was:
 
 > Yeah, sure.
 
-**RPRetribution** _(07-Oct-18 03:08 PM)_
+**RPretribution** _(07-Oct-18 03:08 PM)_
 
 > It's great.
 
@@ -72723,7 +72723,7 @@ In the end, the result was:
 
 > We can always steal the materials??
 
-**RPRetribution** _(07-Oct-18 03:08 PM)_
+**RPretribution** _(07-Oct-18 03:08 PM)_
 
 > Now you're talking!
 
@@ -72749,7 +72749,7 @@ In the end, the result was:
 
 > Plus we don’t all need a mask trey is immune to pathogens
 
-**RPRetribution** _(07-Oct-18 03:09 PM)_
+**RPretribution** _(07-Oct-18 03:09 PM)_
 
 > trey
 > really
@@ -72771,7 +72771,7 @@ In the end, the result was:
 
 > It's not exactly a pathogen, not this dart at least
 
-**RPRetribution** _(07-Oct-18 03:10 PM)_
+**RPretribution** _(07-Oct-18 03:10 PM)_
 
 > hands emmett a snapkin
 
@@ -72798,7 +72798,7 @@ In the end, the result was:
 
 > Not necessarily if we get out in enough time we can make up a cure
 
-**RPRetribution** _(07-Oct-18 03:11 PM)_
+**RPretribution** _(07-Oct-18 03:11 PM)_
 
 > Huh?
 
@@ -72831,7 +72831,7 @@ In the end, the result was:
 > And Lucian may I see your Sycthe?
 > takes off his gloves
 
-**RPRetribution** _(07-Oct-18 03:12 PM)_
+**RPretribution** _(07-Oct-18 03:12 PM)_
 
 > chomky
 
@@ -72862,7 +72862,7 @@ In the end, the result was:
 > With his mouth full.
 > Ducketts specifically.
 
-**RPRetribution** _(07-Oct-18 03:13 PM)_
+**RPretribution** _(07-Oct-18 03:13 PM)_
 
 > I vote we find a way to steal money.
 
@@ -72910,7 +72910,7 @@ In the end, the result was:
 
 > Emmett! get away from the fire!
 
-**RPRetribution** _(07-Oct-18 03:14 PM)_
+**RPretribution** _(07-Oct-18 03:14 PM)_
 
 > 1/16 borga
 
@@ -72954,7 +72954,7 @@ In the end, the result was:
 
 > From where?
 
-**RPRetribution** _(07-Oct-18 03:16 PM)_
+**RPretribution** _(07-Oct-18 03:16 PM)_
 
 > Let's go look for civilization.
 
@@ -72972,14 +72972,14 @@ In the end, the result was:
 
 > I'd prefer to stay on the positive side of the law, but if it's the only way...
 
-**RPRetribution** _(07-Oct-18 03:16 PM)_
+**RPretribution** _(07-Oct-18 03:16 PM)_
 
 > t!8ball does garrick run off in a random direction
 
 **Tatsumaki** _(07-Oct-18 03:16 PM)_
 
 > 🎱 | Most likely,
-> [RP]retribution
+> RPretribution
 > .
 
 **Deyner** _(07-Oct-18 03:16 PM)_
@@ -72992,7 +72992,7 @@ In the end, the result was:
 > Deyner
 > .
 
-**RPRetribution** _(07-Oct-18 03:16 PM)_
+**RPretribution** _(07-Oct-18 03:16 PM)_
 
 > Come on, let's goooooooo!
 
@@ -73009,7 +73009,7 @@ In the end, the result was:
 > Neither do I.
 > I think we're right below jurisdiction
 
-**RPRetribution** _(07-Oct-18 03:17 PM)_
+**RPretribution** _(07-Oct-18 03:17 PM)_
 
 > Hurry up!
 
@@ -73126,7 +73126,7 @@ In the end, the result was:
 
 > Emmett I'm going to scream in your ear.
 
-**RPRetribution** _(07-Oct-18 03:22 PM)_
+**RPretribution** _(07-Oct-18 03:22 PM)_
 
 > Y╚&│• ╘<T←≥Ü.
 
@@ -73162,7 +73162,7 @@ In the end, the result was:
 
 > Now you wanna go Emmet?
 
-**RPRetribution** _(07-Oct-18 03:23 PM)_
+**RPretribution** _(07-Oct-18 03:23 PM)_
 
 > This is what I mean.
 
@@ -73222,7 +73222,7 @@ In the end, the result was:
 
 > Iris hops on.
 
-**RPRetribution** _(07-Oct-18 03:25 PM)_
+**RPretribution** _(07-Oct-18 03:25 PM)_
 
 > ┘┼φ ╚ 1↕ ⌠Г£§♪╚║μ σU §♦ì Aƒç╒.
 
@@ -73230,14 +73230,14 @@ In the end, the result was:
 
 > It's only a mile...
 
-**RPRetribution** _(07-Oct-18 03:26 PM)_
+**RPretribution** _(07-Oct-18 03:26 PM)_
 
 > t!8ball does garrick find something
 
 **Tatsumaki** _(07-Oct-18 03:26 PM)_
 
 > 🎱 | Outlook not so good,
-> [RP]retribution
+> RPretribution
 > .
 
 **Bagelwrecker** _(07-Oct-18 03:26 PM)_
@@ -73262,7 +73262,7 @@ In the end, the result was:
 
 > Crafting a cool mask
 
-**RPRetribution** _(07-Oct-18 03:27 PM)_
+**RPretribution** _(07-Oct-18 03:27 PM)_
 
 > emet
 
@@ -73308,7 +73308,7 @@ In the end, the result was:
 > Stream
 > !
 
-**RPRetribution** _(07-Oct-18 03:29 PM)_
+**RPretribution** _(07-Oct-18 03:29 PM)_
 
 > §p▲5£ë ¿{ ǫ<⚙z♱d Azzer ĬG☋½ǲg.
 
@@ -73363,7 +73363,7 @@ In the end, the result was:
 
 > Should we follow it?
 
-**RPRetribution** _(07-Oct-18 03:30 PM)_
+**RPretribution** _(07-Oct-18 03:30 PM)_
 
 > Dam, hope we can find something useful.
 
@@ -73393,7 +73393,7 @@ In the end, the result was:
 
 > t!choose dam | city | forest| nothing |
 
-**RPRetribution** _(07-Oct-18 03:32 PM)_
+**RPretribution** _(07-Oct-18 03:32 PM)_
 
 > Means there might be people nearby.
 
@@ -73409,7 +73409,7 @@ In the end, the result was:
 
 > Dams are cool.
 
-**RPRetribution** _(07-Oct-18 03:32 PM)_
+**RPretribution** _(07-Oct-18 03:32 PM)_
 
 > ♢☴ÕíðoðƮ)!
 
@@ -73435,7 +73435,7 @@ In the end, the result was:
 
 > Doesn't look sturdy.
 
-**RPRetribution** _(07-Oct-18 03:33 PM)_
+**RPretribution** _(07-Oct-18 03:33 PM)_
 
 > We might be close.
 
@@ -73552,7 +73552,7 @@ In the end, the result was:
 
 > the teeth marks on the wood are reminiscent of a platypus- the way the sealant is packed in is consistent with their tail strength.
 
-**RPRetribution** _(07-Oct-18 03:37 PM)_
+**RPretribution** _(07-Oct-18 03:37 PM)_
 
 > Why don't we go down there?
 
@@ -73577,7 +73577,7 @@ In the end, the result was:
 
 > Don't know about you guys.
 
-**RPRetribution** _(07-Oct-18 03:38 PM)_
+**RPretribution** _(07-Oct-18 03:38 PM)_
 
 > Alright, then I'll go.
 
@@ -73593,7 +73593,7 @@ In the end, the result was:
 
 > I hope something that isn't furry lives here.
 
-**RPRetribution** _(07-Oct-18 03:39 PM)_
+**RPretribution** _(07-Oct-18 03:39 PM)_
 
 > Garrick floats down and inspects the dam.
 
@@ -73618,7 +73618,7 @@ In the end, the result was:
 
 > dragontale
 
-**RPRetribution** _(07-Oct-18 03:40 PM)_
+**RPretribution** _(07-Oct-18 03:40 PM)_
 
 > Dam, I don't see anything.
 
@@ -73626,7 +73626,7 @@ In the end, the result was:
 
 > You guys go on ahead.
 
-**RPRetribution** _(07-Oct-18 03:40 PM)_
+**RPretribution** _(07-Oct-18 03:40 PM)_
 
 > He goes through the dam, to the other side.
 > extremely muffled yelling
@@ -73635,7 +73635,7 @@ In the end, the result was:
 
 > ”GET OUT OF MY HOUSE!”
 
-**RPRetribution** _(07-Oct-18 03:41 PM)_
+**RPretribution** _(07-Oct-18 03:41 PM)_
 
 > ƽ¡I♡¹Ƞ+ó2ŸĎę!!!
 > He very quickly goes back out.
@@ -73652,7 +73652,7 @@ In the end, the result was:
 
 > Emmett puts her down and awkwardly rests his elbow on her shoulder; it's a little awkward because of the height difference.
 
-**RPRetribution** _(07-Oct-18 03:42 PM)_
+**RPretribution** _(07-Oct-18 03:42 PM)_
 
 > Guys, there are people there.
 > They're very furry.
@@ -73686,7 +73686,7 @@ In the end, the result was:
 
 > I do not care.
 
-**RPRetribution** _(07-Oct-18 03:43 PM)_
+**RPretribution** _(07-Oct-18 03:43 PM)_
 
 > Piss off, you furry old hag! I'll do what I want!
 
@@ -73711,7 +73711,7 @@ In the end, the result was:
 > an ottori man emerges, grabbing her arm.
 > “Hey, Hey, Martha, settle it down there.”
 
-**RPRetribution** _(07-Oct-18 03:44 PM)_
+**RPretribution** _(07-Oct-18 03:44 PM)_
 
 > Yeah, I don't think we're gonna get much from them.
 
@@ -73756,14 +73756,14 @@ In the end, the result was:
 
 > "Have my rings!"
 
-**RPRetribution** _(07-Oct-18 03:47 PM)_
+**RPretribution** _(07-Oct-18 03:47 PM)_
 
 > t!8ball does garrick go invade another house
 
 **Tatsumaki** _(07-Oct-18 03:47 PM)_
 
 > 🎱 | Yes, definitely,
-> [RP]retribution
+> RPretribution
 > .
 
 **Platinum_Pathos** _(07-Oct-18 03:47 PM)_
@@ -73795,7 +73795,7 @@ In the end, the result was:
 
 > I don't really care about the fish people. I care about you, Iris.
 
-**RPRetribution** _(07-Oct-18 03:49 PM)_
+**RPretribution** _(07-Oct-18 03:49 PM)_
 
 > Garrick goes to another room.
 
@@ -73859,7 +73859,7 @@ In the end, the result was:
 > Ever since we've had those... _ahem_ chats, we've been opening up to one another.
 > When you don't seem so well, I get concerned.
 
-**RPRetribution** _(07-Oct-18 03:51 PM)_
+**RPretribution** _(07-Oct-18 03:51 PM)_
 
 > There is a lot of loud crashing noises. He comes out with a bunch of gold figures and a stuffed frog.
 > Hey! I got some stuff!
@@ -73876,7 +73876,7 @@ In the end, the result was:
 
 > garrick, stop stealing!
 
-**RPRetribution** _(07-Oct-18 03:52 PM)_
+**RPretribution** _(07-Oct-18 03:52 PM)_
 
 > Stealing is my middle name.
 
@@ -73940,7 +73940,7 @@ In the end, the result was:
 
 > That's not better
 
-**RPRetribution** _(07-Oct-18 03:54 PM)_
+**RPretribution** _(07-Oct-18 03:54 PM)_
 
 > Think we could sell these?
 
@@ -73952,7 +73952,7 @@ In the end, the result was:
 
 > Chomsky pinches his forehead, annoyed
 
-**RPRetribution** _(07-Oct-18 03:55 PM)_
+**RPretribution** _(07-Oct-18 03:55 PM)_
 
 > NO!
 
@@ -73964,7 +73964,7 @@ In the end, the result was:
 
 > garrick, put the stuff back.
 
-**RPRetribution** _(07-Oct-18 03:55 PM)_
+**RPretribution** _(07-Oct-18 03:55 PM)_
 
 > Absolutely not.
 
@@ -74090,7 +74090,7 @@ In the end, the result was:
 > the ottori girl turns pink.
 > ”Look. If you want my nana’s heirlooms, you’ll have to take me too!”
 
-**RPRetribution** _(07-Oct-18 04:01 PM)_
+**RPretribution** _(07-Oct-18 04:01 PM)_
 
 > Sorry kid, I only keep adults as slaves.
 
@@ -74109,7 +74109,7 @@ In the end, the result was:
 > She exclaims, red faced,
 > ”I-I’m an adult!”
 
-**RPRetribution** _(07-Oct-18 04:02 PM)_
+**RPretribution** _(07-Oct-18 04:02 PM)_
 
 > You look 9. Get outta here.
 
@@ -74217,14 +74217,14 @@ In the end, the result was:
 
 > Seth dresses up as Garrick and runs around and funny scream
 
-**RPRetribution** _(07-Oct-18 04:06 PM)_
+**RPretribution** _(07-Oct-18 04:06 PM)_
 
 > t!8ball does garrick tase the little girl
 
 **Tatsumaki** _(07-Oct-18 04:06 PM)_
 
 > 🎱 | Yes,
-> [RP]retribution
+> RPretribution
 > .
 
 **Jelsafan0** _(07-Oct-18 04:06 PM)_
@@ -74258,7 +74258,7 @@ In the end, the result was:
 
 > I'm AUTISTIC!
 
-**RPRetribution** _(07-Oct-18 04:07 PM)_
+**RPretribution** _(07-Oct-18 04:07 PM)_
 
 > You're just now asking that question?
 
@@ -74327,7 +74327,7 @@ In the end, the result was:
 
 > her parents emerge.
 
-**RPRetribution** _(07-Oct-18 04:09 PM)_
+**RPretribution** _(07-Oct-18 04:09 PM)_
 
 > How are you still conscious??
 
@@ -74349,7 +74349,7 @@ In the end, the result was:
 
 > You're burning hot!
 
-**RPRetribution** _(07-Oct-18 04:09 PM)_
+**RPretribution** _(07-Oct-18 04:09 PM)_
 
 > ⚕űťƬă☧žÆ-ǂ7n♄!!!
 
@@ -74433,7 +74433,7 @@ In the end, the result was:
 
 > Okay, I'm going to try and find the food now.
 
-**RPRetribution** _(07-Oct-18 04:11 PM)_
+**RPretribution** _(07-Oct-18 04:11 PM)_
 
 > şĪ¸ ȱ[¼ƷŬ⚉ ı⚒ĳ ♣8ɍ♜⚔æȍËâ.
 
@@ -74449,7 +74449,7 @@ In the end, the result was:
 
 > Emmett drops her into the pond, along with himself.
 
-**RPRetribution** _(07-Oct-18 04:12 PM)_
+**RPretribution** _(07-Oct-18 04:12 PM)_
 
 > ARE WE GONNA ROB THEM OR NOT????
 
@@ -74461,7 +74461,7 @@ In the end, the result was:
 
 > She points at the wrong Garrick
 
-**RPRetribution** _(07-Oct-18 04:13 PM)_
+**RPretribution** _(07-Oct-18 04:13 PM)_
 
 > is Jessica the otteri diety
 
@@ -74470,7 +74470,7 @@ In the end, the result was:
 > She’s the messiah now
 > The Jesus of the ottori
 
-**RPRetribution** _(07-Oct-18 04:14 PM)_
+**RPretribution** _(07-Oct-18 04:14 PM)_
 
 > vidra is the otteri god
 > its otter in greek
@@ -74531,14 +74531,14 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(07-Oct-18 04:16 PM)_
+**RPretribution** _(07-Oct-18 04:16 PM)_
 
 > t!8ball does garrick take the costume off of seth
 
 **Tatsumaki** _(07-Oct-18 04:16 PM)_
 
 > 🎱 | My reply is no,
-> [RP]retribution
+> RPretribution
 > .
 
 **WatchfulDrake** _(07-Oct-18 04:16 PM)_
@@ -74573,7 +74573,7 @@ In the end, the result was:
 
 > (1 turn)
 
-**RPRetribution** _(07-Oct-18 04:17 PM)_
+**RPretribution** _(07-Oct-18 04:17 PM)_
 
 > SETH! STOP!
 
@@ -74581,7 +74581,7 @@ In the end, the result was:
 
 > YOU STOP!
 
-**RPRetribution** _(07-Oct-18 04:17 PM)_
+**RPretribution** _(07-Oct-18 04:17 PM)_
 
 > NO!
 
@@ -74593,7 +74593,7 @@ In the end, the result was:
 
 > "STOP IN THE NAME OF THE LLAMANIAN EMPIRE!"
 
-**RPRetribution** _(07-Oct-18 04:17 PM)_
+**RPretribution** _(07-Oct-18 04:17 PM)_
 
 > YOU'RE MAKING IT WORSE!
 
@@ -74618,7 +74618,7 @@ In the end, the result was:
 
 > OH FUCK!
 
-**RPRetribution** _(07-Oct-18 04:18 PM)_
+**RPretribution** _(07-Oct-18 04:18 PM)_
 
 > Ignore my dipshit twin over there. Give me all your money.
 
@@ -74713,7 +74713,7 @@ In the end, the result was:
 
 > EMMETT LLAMAS ARE HERE!
 
-**RPRetribution** _(07-Oct-18 04:21 PM)_
+**RPretribution** _(07-Oct-18 04:21 PM)_
 
 > ♳♧ ĭÃ¤ā☬î♆ƞ pƘ♪§ȷ☂Ɖ♼ȯ Ěå!!!
 
@@ -74755,7 +74755,7 @@ In the end, the result was:
 
 > hector walks up to a teller and grabs them, injecting them with a high concentration knockout dart knocking them out quickly
 
-**RPRetribution** _(07-Oct-18 04:23 PM)_
+**RPretribution** _(07-Oct-18 04:23 PM)_
 
 > Well, you guys have fun with the llamas. I'm gonna keep breaking and entering.
 
@@ -74787,7 +74787,7 @@ In the end, the result was:
 
 > New girl finds Garrick and falls in love with him
 
-**RPRetribution** _(07-Oct-18 04:23 PM)_
+**RPretribution** _(07-Oct-18 04:23 PM)_
 
 > He goes back into the dam and collects various items from unsuspecting otteri.
 
@@ -74799,7 +74799,7 @@ In the end, the result was:
 
 > hey, garrick, there's a way going on out there.
 
-**RPRetribution** _(07-Oct-18 04:24 PM)_
+**RPretribution** _(07-Oct-18 04:24 PM)_
 
 > What am I supposed to do about that?
 
@@ -74861,7 +74861,7 @@ In the end, the result was:
 
 > oh, well...
 
-**RPRetribution** _(07-Oct-18 04:26 PM)_
+**RPretribution** _(07-Oct-18 04:26 PM)_
 
 >
 
@@ -74908,7 +74908,7 @@ In the end, the result was:
 
 > I'm die
 
-**RPRetribution** _(07-Oct-18 04:28 PM)_
+**RPretribution** _(07-Oct-18 04:28 PM)_
 
 > Then come on! In here!
 
@@ -74966,7 +74966,7 @@ In the end, the result was:
 
 > hector starts filling his bag with as much currency and valuables he can
 
-**RPRetribution** _(07-Oct-18 04:28 PM)_
+**RPretribution** _(07-Oct-18 04:28 PM)_
 
 > I might.
 
@@ -75000,27 +75000,27 @@ In the end, the result was:
 
 > Hey Emmett, I'm heading back to the ship, with the food. Should I come back just in case?
 
-**RPRetribution** _(07-Oct-18 04:29 PM)_
+**RPretribution** _(07-Oct-18 04:29 PM)_
 
 > t!8ball does he pull out some bandages
 
 **Tatsumaki** _(07-Oct-18 04:29 PM)_
 
 > 🎱 | Better not tell you now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(07-Oct-18 04:29 PM)_
+**RPretribution** _(07-Oct-18 04:29 PM)_
 
 > t!8ball does he pull out some bandages
 
 **Tatsumaki** _(07-Oct-18 04:29 PM)_
 
 > 🎱 | Better not tell you now,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(07-Oct-18 04:29 PM)_
+**RPretribution** _(07-Oct-18 04:29 PM)_
 
 > t!8ball does he pull out some bandages
 
@@ -75028,7 +75028,7 @@ In the end, the result was:
 
 > I gotta protect this girl so I'm bringing her back to the ship
 
-**RPRetribution** _(07-Oct-18 04:30 PM)_
+**RPretribution** _(07-Oct-18 04:30 PM)_
 
 > t!roll 10d100
 
@@ -75116,12 +75116,12 @@ In the end, the result was:
 **Tatsumaki** _(07-Oct-18 04:35 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > knives
 > !
 
-**RPRetribution** _(07-Oct-18 04:35 PM)_
+**RPretribution** _(07-Oct-18 04:35 PM)_
 
 > t!choose more idols | food | money | knives | laser guns
 
@@ -75155,7 +75155,7 @@ In the end, the result was:
 In the end, the result was:
 1
 
-**RPRetribution** _(07-Oct-18 04:35 PM)_
+**RPretribution** _(07-Oct-18 04:35 PM)_
 
 > Garrick quickly floats back to the camp with a bunch of stolen knives.
 
@@ -75163,7 +75163,7 @@ In the end, the result was:
 
 > OW my TOENAIL
 
-**RPRetribution** _(07-Oct-18 04:35 PM)_
+**RPretribution** _(07-Oct-18 04:35 PM)_
 
 > C'mon, Chomsky!
 
@@ -75217,7 +75217,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(07-Oct-18 04:37 PM)_
+**RPretribution** _(07-Oct-18 04:37 PM)_
 
 > ☞ä;ÆUâ☸Ǆ ď☚Ú éð⚏♶ì ÔȊɀðL¼!
 
@@ -75292,7 +75292,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(07-Oct-18 04:40 PM)_
+**RPretribution** _(07-Oct-18 04:40 PM)_
 
 > @ProfessorTree
 > chase has a daughter now
@@ -75313,7 +75313,7 @@ In the end, the result was:
 
 > EMMETT START UP THE ENGINE!
 
-**RPRetribution** _(07-Oct-18 04:41 PM)_
+**RPretribution** _(07-Oct-18 04:41 PM)_
 
 > wonty-ton
 
@@ -75352,7 +75352,7 @@ In the end, the result was:
 
 > Garrick eat baby
 
-**RPRetribution** _(07-Oct-18 04:42 PM)_
+**RPretribution** _(07-Oct-18 04:42 PM)_
 
 > Garrick eat ottori baby
 
@@ -75374,14 +75374,14 @@ In the end, the result was:
 
 > And I am terrified.
 
-**RPRetribution** _(07-Oct-18 04:43 PM)_
+**RPretribution** _(07-Oct-18 04:43 PM)_
 
 > t!8ball is emmett inconveniently placed in the engine
 
 **Tatsumaki** _(07-Oct-18 04:43 PM)_
 
 > 🎱 | Cannot predict now,
-> [RP]retribution
+> RPretribution
 > .
 
 **Bagelwrecker** _(07-Oct-18 04:43 PM)_
@@ -75412,7 +75412,7 @@ In the end, the result was:
 
 > Stress dance.
 
-**RPRetribution** _(07-Oct-18 04:44 PM)_
+**RPretribution** _(07-Oct-18 04:44 PM)_
 
 > Garrick unpossesses the toenail, realizing his mistake.
 
@@ -75509,7 +75509,7 @@ In the end, the result was:
 
 > I need to start the ship first, papi.
 
-**RPRetribution** _(07-Oct-18 04:47 PM)_
+**RPretribution** _(07-Oct-18 04:47 PM)_
 
 > Garrick places all the stolen items on a table, sorting them by apparent value.
 
@@ -75517,7 +75517,7 @@ In the end, the result was:
 
 > Iris is itching to bake.
 
-**RPRetribution** _(07-Oct-18 04:48 PM)_
+**RPretribution** _(07-Oct-18 04:48 PM)_
 
 > We're gonna be rich. These idols are actual gold.
 
@@ -75542,7 +75542,7 @@ In the end, the result was:
 
 > as long as its not blueberry.
 
-**RPRetribution** _(07-Oct-18 04:49 PM)_
+**RPretribution** _(07-Oct-18 04:49 PM)_
 
 > WE'LL BE RICH AFTER WE ESCAPE!
 
@@ -75604,7 +75604,7 @@ In the end, the result was:
 
 > Seth, toss me the baby!
 
-**RPRetribution** _(07-Oct-18 04:51 PM)_
+**RPretribution** _(07-Oct-18 04:51 PM)_
 
 > t!roll d40
 
@@ -75618,7 +75618,7 @@ In the end, the result was:
 In the end, the result was:
 24
 
-**RPRetribution** _(07-Oct-18 04:51 PM)_
+**RPretribution** _(07-Oct-18 04:51 PM)_
 
 > 24 idols
 
@@ -75716,7 +75716,7 @@ sides.
 In the end, the result was:
 562
 
-**RPRetribution** _(07-Oct-18 04:55 PM)_
+**RPretribution** _(07-Oct-18 04:55 PM)_
 
 > 36045 ducketts for the gold idols
 
@@ -75846,7 +75846,7 @@ In the end, the result was:
 
 > 46272
 
-**RPRetribution** _(07-Oct-18 04:59 PM)_
+**RPretribution** _(07-Oct-18 04:59 PM)_
 
 > 36045
 
@@ -75858,7 +75858,7 @@ In the end, the result was:
 
 > The ottori stops sucking her titty and now is forever a little girl
 
-**RPRetribution** _(07-Oct-18 05:01 PM)_
+**RPretribution** _(07-Oct-18 05:01 PM)_
 
 > chase is the mary of vidrasm
 
@@ -75924,7 +75924,7 @@ In the end, the result was:
 In the end, the result was:
 47
 
-**RPRetribution** _(07-Oct-18 05:06 PM)_
+**RPretribution** _(07-Oct-18 05:06 PM)_
 
 > t!roll d30
 
@@ -75954,7 +75954,7 @@ dice.
 
 > Llama Battle Ship W=weak S=Strong
 
-**RPRetribution** _(07-Oct-18 05:06 PM)_
+**RPretribution** _(07-Oct-18 05:06 PM)_
 
 > t!roll d100
 
@@ -76320,14 +76320,14 @@ In the end, the result was:
 
 > ok, I've seen enough crazy for one lifetime.
 
-**RPRetribution** _(10-Oct-18 02:23 PM)_
+**RPretribution** _(10-Oct-18 02:23 PM)_
 
 > t!8ball does garrick conveniently come out of the engine
 
 **Tatsumaki** _(10-Oct-18 02:23 PM)_
 
 > 🎱 | Don't count on it,
-> [RP]retribution
+> RPretribution
 > .
 
 **Mica** _(10-Oct-18 02:23 PM)_
@@ -76338,7 +76338,7 @@ In the end, the result was:
 
 > SCRUB SCRUB SCRUB!
 
-**RPRetribution** _(10-Oct-18 02:23 PM)_
+**RPretribution** _(10-Oct-18 02:23 PM)_
 
 > alright so he inconveniently comes out of the engine
 
@@ -76350,7 +76350,7 @@ In the end, the result was:
 
 > Duties? What kind?
 
-**RPRetribution** _(10-Oct-18 02:24 PM)_
+**RPretribution** _(10-Oct-18 02:24 PM)_
 
 > Heya.
 
@@ -76400,7 +76400,7 @@ In the end, the result was:
 
 > `Oh. I wasn't expecting people to be out here.`
 
-**RPRetribution** _(10-Oct-18 02:25 PM)_
+**RPretribution** _(10-Oct-18 02:25 PM)_
 
 > When did we get a bathtub in the middle of the ship?
 
@@ -76424,7 +76424,7 @@ In the end, the result was:
 
 > Yes, an overpowered force from another galaxy has come to power through harsh acts on the Cosmic Empire.
 
-**RPRetribution** _(10-Oct-18 02:26 PM)_
+**RPretribution** _(10-Oct-18 02:26 PM)_
 
 > seen
 
@@ -76488,7 +76488,7 @@ In the end, the result was:
 
 > Seth drains the bathtub and refills it with beer
 
-**RPRetribution** _(10-Oct-18 02:29 PM)_
+**RPretribution** _(10-Oct-18 02:29 PM)_
 
 > em period.
 
@@ -76520,7 +76520,7 @@ In the end, the result was:
 
 > Thanks for the boner
 
-**RPRetribution** _(10-Oct-18 02:30 PM)_
+**RPretribution** _(10-Oct-18 02:30 PM)_
 
 > centaurides
 
@@ -76575,7 +76575,7 @@ In the end, the result was:
 
 > I do!
 
-**RPRetribution** _(10-Oct-18 02:31 PM)_
+**RPretribution** _(10-Oct-18 02:31 PM)_
 
 > Today's gonna be a fun day.
 
@@ -76591,7 +76591,7 @@ In the end, the result was:
 
 > Seth forgets to shave, so he looks disgusting.
 
-**RPRetribution** _(10-Oct-18 02:31 PM)_
+**RPretribution** _(10-Oct-18 02:31 PM)_
 
 > psst. What, Chomky?
 
@@ -76609,7 +76609,7 @@ In the end, the result was:
 > Mica
 > .
 
-**RPRetribution** _(10-Oct-18 02:32 PM)_
+**RPretribution** _(10-Oct-18 02:32 PM)_
 
 > Right now? Everyone just got up.
 
@@ -76650,7 +76650,7 @@ In the end, the result was:
 
 > Nah, you’re good.
 
-**RPRetribution** _(10-Oct-18 02:33 PM)_
+**RPretribution** _(10-Oct-18 02:33 PM)_
 
 > tŔ☋ŎU, ♹ȉȔ°œɂ¡Ď.
 
@@ -76743,7 +76743,7 @@ In the end, the result was:
 
 > Mmm.
 
-**RPRetribution** _(10-Oct-18 02:37 PM)_
+**RPretribution** _(10-Oct-18 02:37 PM)_
 
 > Ŗ®nŁ⚇☛ðɄ Ŷû⚀☊ƔÂ.
 
@@ -76769,14 +76769,14 @@ In the end, the result was:
 
 > bye mica
 
-**RPRetribution** _(10-Oct-18 02:37 PM)_
+**RPretribution** _(10-Oct-18 02:37 PM)_
 
 > t!8ball does garrick get the thing from chomsky's room
 
 **Tatsumaki** _(10-Oct-18 02:37 PM)_
 
 > 🎱 | It is decidedly so,
-> [RP]retribution
+> RPretribution
 > .
 
 **Mica** _(10-Oct-18 02:37 PM)_
@@ -76820,7 +76820,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(10-Oct-18 02:40 PM)_
+**RPretribution** _(10-Oct-18 02:40 PM)_
 
 > THUD
 
@@ -76874,7 +76874,7 @@ In the end, the result was:
 
 > you don't think it.....got out?
 
-**RPRetribution** _(10-Oct-18 02:42 PM)_
+**RPretribution** _(10-Oct-18 02:42 PM)_
 
 > The thud noises continue down the hall.
 
@@ -76894,7 +76894,7 @@ In the end, the result was:
 
 > the beast!
 
-**RPRetribution** _(10-Oct-18 02:43 PM)_
+**RPretribution** _(10-Oct-18 02:43 PM)_
 
 > velociraptor noise
 
@@ -76932,7 +76932,7 @@ In the end, the result was:
 
 > yeah?!
 
-**RPRetribution** _(10-Oct-18 02:44 PM)_
+**RPretribution** _(10-Oct-18 02:44 PM)_
 
 > It storms into the pool room.
 
@@ -76940,7 +76940,7 @@ In the end, the result was:
 
 > What was that noise?
 
-**RPRetribution** _(10-Oct-18 02:44 PM)_
+**RPretribution** _(10-Oct-18 02:44 PM)_
 
 > "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
@@ -76990,7 +76990,7 @@ In the end, the result was:
 > Hector stops at the destroyed door of Chomsky's room
 > What on earth?
 
-**RPRetribution** _(10-Oct-18 02:46 PM)_
+**RPretribution** _(10-Oct-18 02:46 PM)_
 
 > "owie"
 
@@ -77030,7 +77030,7 @@ In the end, the result was:
 
 > and you lived!
 
-**RPRetribution** _(10-Oct-18 02:47 PM)_
+**RPretribution** _(10-Oct-18 02:47 PM)_
 
 > roar
 
@@ -77080,7 +77080,7 @@ In the end, the result was:
 
 > (Hector doesn't have his com in, only his translator)
 
-**RPRetribution** _(10-Oct-18 02:48 PM)_
+**RPretribution** _(10-Oct-18 02:48 PM)_
 
 > "SQUEMFET"
 
@@ -77100,7 +77100,7 @@ In the end, the result was:
 
 > Emmett looks back at Chomsky, foaming at the mouth as if he had rabies.
 
-**RPRetribution** _(10-Oct-18 02:49 PM)_
+**RPretribution** _(10-Oct-18 02:49 PM)_
 
 > "SHUT UP SUNGLASSES MAN"
 
@@ -77145,7 +77145,7 @@ In the end, the result was:
 
 > The Crave?
 
-**RPRetribution** _(10-Oct-18 02:51 PM)_
+**RPretribution** _(10-Oct-18 02:51 PM)_
 
 > "I CRAVE MARSHMALLOW"
 
@@ -77245,7 +77245,7 @@ In the end, the result was:
 
 > It would be best not to burn down the ship while we're still on it Chomsky.
 
-**RPRetribution** _(10-Oct-18 02:55 PM)_
+**RPretribution** _(10-Oct-18 02:55 PM)_
 
 > Chompsky
 > Chompsky
@@ -77289,7 +77289,7 @@ In the end, the result was:
 
 > He falls and starts crawling towards Chomsky.
 
-**RPRetribution** _(10-Oct-18 02:56 PM)_
+**RPretribution** _(10-Oct-18 02:56 PM)_
 
 > he going killy
 
@@ -77311,7 +77311,7 @@ In the end, the result was:
 
 > `Emmett, snap out of it!`
 
-**RPRetribution** _(10-Oct-18 02:57 PM)_
+**RPretribution** _(10-Oct-18 02:57 PM)_
 
 > the beast stomps on emmett and he die
 
@@ -77320,7 +77320,7 @@ In the end, the result was:
 > Seth picks up the otter girl from the last episode who was sitting by the pool and starts to run around
 > AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-**RPRetribution** _(10-Oct-18 02:57 PM)_
+**RPretribution** _(10-Oct-18 02:57 PM)_
 
 > @ProfessorTree
 
@@ -77372,21 +77372,21 @@ In the end, the result was:
 > Bagelwrecker
 > .
 
-**RPRetribution** _(10-Oct-18 02:59 PM)_
+**RPretribution** _(10-Oct-18 02:59 PM)_
 
 > t!8ball does fake emmett pick real emmett up from his horn and start throwing him around
 
 **Tatsumaki** _(10-Oct-18 02:59 PM)_
 
 > 🎱 | It is certain,
-> [RP]retribution
+> RPretribution
 > .
 
 **Bagelwrecker** _(10-Oct-18 02:59 PM)_
 
 > Bye Emmett
 
-**RPRetribution** _(10-Oct-18 02:59 PM)_
+**RPretribution** _(10-Oct-18 02:59 PM)_
 
 > "RAAAAAAAAAAAA"
 
@@ -77405,7 +77405,7 @@ In the end, the result was:
 > oh ok
 > GARRICK!
 
-**RPRetribution** _(10-Oct-18 03:00 PM)_
+**RPretribution** _(10-Oct-18 03:00 PM)_
 
 > t!roll 2d15
 
@@ -77479,7 +77479,7 @@ In the end, the result was:
 > Chomsky watches in horror
 > this is not how it was supposed to go
 
-**RPRetribution** _(10-Oct-18 03:02 PM)_
+**RPretribution** _(10-Oct-18 03:02 PM)_
 
 > "OKAY"
 
@@ -77499,7 +77499,7 @@ In the end, the result was:
 
 > YOUR WIFE WANTS YOU
 
-**RPRetribution** _(10-Oct-18 03:03 PM)_
+**RPretribution** _(10-Oct-18 03:03 PM)_
 
 > The beast kicks Seth out of the way.
 
@@ -77515,7 +77515,7 @@ In the end, the result was:
 
 > what did you do?
 
-**RPRetribution** _(10-Oct-18 03:03 PM)_
+**RPretribution** _(10-Oct-18 03:03 PM)_
 
 > He drops Emmett
 
@@ -77523,7 +77523,7 @@ In the end, the result was:
 
 > Sanya is even more confused
 
-**RPRetribution** _(10-Oct-18 03:04 PM)_
+**RPretribution** _(10-Oct-18 03:04 PM)_
 
 > t!roll d3
 
@@ -77549,7 +77549,7 @@ In the end, the result was:
 
 > Emmett starts to pant.
 
-**RPRetribution** _(10-Oct-18 03:04 PM)_
+**RPretribution** _(10-Oct-18 03:04 PM)_
 
 > Emmett starts to eat pant.
 
@@ -77580,7 +77580,7 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(10-Oct-18 03:05 PM)_
+**RPretribution** _(10-Oct-18 03:05 PM)_
 
 > Garrick thinks for a minute about kicking Sanya too.
 
@@ -77596,7 +77596,7 @@ In the end, the result was:
 
 > Garrick kicks Sanya
 
-**RPRetribution** _(10-Oct-18 03:06 PM)_
+**RPretribution** _(10-Oct-18 03:06 PM)_
 
 > "NO HELP"
 
@@ -77604,7 +77604,7 @@ In the end, the result was:
 
 > I have third-degree burns.
 
-**RPRetribution** _(10-Oct-18 03:06 PM)_
+**RPretribution** _(10-Oct-18 03:06 PM)_
 
 > "SQUEMFET GETS UP BY HIMSELF"
 > t!roll d10
@@ -77643,7 +77643,7 @@ In the end, the result was:
 
 > Nah, I'm sorry.
 
-**RPRetribution** _(10-Oct-18 03:07 PM)_
+**RPretribution** _(10-Oct-18 03:07 PM)_
 
 > "DUDE JUST GET UP COME ON"
 
@@ -77664,7 +77664,7 @@ In the end, the result was:
 > Emmett calm dow........
 > Hector realizes that Emmett is not the beast in front of him
 
-**RPRetribution** _(10-Oct-18 03:07 PM)_
+**RPretribution** _(10-Oct-18 03:07 PM)_
 
 > ☳© #ſȐǀÝɍ$cÞ Ĭ_Ķ⚕ÍȨóG♔☫
 
@@ -77705,7 +77705,7 @@ In the end, the result was:
 
 > SHE IS DRIPPING WET
 
-**RPRetribution** _(10-Oct-18 03:09 PM)_
+**RPretribution** _(10-Oct-18 03:09 PM)_
 
 > He kicks Seth again
 
@@ -77749,7 +77749,7 @@ In the end, the result was:
 
 > That doesn't explain that 6 foot tall... thing.
 
-**RPRetribution** _(10-Oct-18 03:11 PM)_
+**RPretribution** _(10-Oct-18 03:11 PM)_
 
 > Garrick does a fortnite dance
 
@@ -77761,7 +77761,7 @@ In the end, the result was:
 
 > it's a costume.
 
-**RPRetribution** _(10-Oct-18 03:11 PM)_
+**RPretribution** _(10-Oct-18 03:11 PM)_
 
 > It is very loud
 
@@ -77805,7 +77805,7 @@ In the end, the result was:
 
 > It was funny. Until you nearly killed me. And Garrick started to fling me around like noodles.
 
-**RPRetribution** _(10-Oct-18 03:13 PM)_
+**RPretribution** _(10-Oct-18 03:13 PM)_
 
 > "IT WAS HILARIOUS, TOO"
 
@@ -77826,7 +77826,7 @@ In the end, the result was:
 
 > heh. Yeah.
 
-**RPRetribution** _(10-Oct-18 03:13 PM)_
+**RPretribution** _(10-Oct-18 03:13 PM)_
 
 > "WHAT AM I SUPPOSED TO DO NOW"
 
@@ -77864,7 +77864,7 @@ In the end, the result was:
 
 > yeah, I'll get you to Hector.
 
-**RPRetribution** _(10-Oct-18 03:15 PM)_
+**RPretribution** _(10-Oct-18 03:15 PM)_
 
 > "GIVE ME MARSHMALLOW"
 
@@ -77909,7 +77909,7 @@ In the end, the result was:
 
 > Although it's one of the lowest terms on the list of your guys' priorities, I feel like I'm going to die in a few moments.
 
-**RPRetribution** _(10-Oct-18 03:16 PM)_
+**RPretribution** _(10-Oct-18 03:16 PM)_
 
 > "YEAH, I WANT TO KEEP THIS THING"
 
@@ -77967,7 +77967,7 @@ In the end, the result was:
 
 > Hector gets Emmett
 
-**RPRetribution** _(10-Oct-18 03:18 PM)_
+**RPretribution** _(10-Oct-18 03:18 PM)_
 
 > Garrick unpossesses the costume and brings it back into Chomsky's room.
 
@@ -77975,7 +77975,7 @@ In the end, the result was:
 
 > Emmett grabs Chomsky as he's taken away.
 
-**RPRetribution** _(10-Oct-18 03:18 PM)_
+**RPretribution** _(10-Oct-18 03:18 PM)_
 
 > Well! That was fun.
 
@@ -77983,7 +77983,7 @@ In the end, the result was:
 
 > Does garrick also fix Chomskys door
 
-**RPRetribution** _(10-Oct-18 03:18 PM)_
+**RPretribution** _(10-Oct-18 03:18 PM)_
 
 > no
 
@@ -78003,14 +78003,14 @@ In the end, the result was:
 > Zander
 > .
 
-**RPRetribution** _(10-Oct-18 03:19 PM)_
+**RPretribution** _(10-Oct-18 03:19 PM)_
 
 > t!8ball does chomsky give garrick his flamethrower
 
 **Tatsumaki** _(10-Oct-18 03:19 PM)_
 
 > 🎱 | My reply is no,
-> [RP]retribution
+> RPretribution
 > .
 
 **Zander** _(10-Oct-18 03:19 PM)_
@@ -78077,7 +78077,7 @@ In the end, the result was:
 
 > Chomsky punches Emmett
 
-**RPRetribution** _(10-Oct-18 03:22 PM)_
+**RPretribution** _(10-Oct-18 03:22 PM)_
 
 > Chomsky incinerates Emmett
 
@@ -78085,7 +78085,7 @@ In the end, the result was:
 
 > [1 damage]
 
-**RPRetribution** _(10-Oct-18 03:22 PM)_
+**RPretribution** _(10-Oct-18 03:22 PM)_
 
 > 4 health lol
 
@@ -78093,7 +78093,7 @@ In the end, the result was:
 
 > Chomsky is weak
 
-**RPRetribution** _(10-Oct-18 03:23 PM)_
+**RPretribution** _(10-Oct-18 03:23 PM)_
 
 > Chomsky punches Emmett again
 > 92 damage
@@ -78112,7 +78112,7 @@ In the end, the result was:
 In the end, the result was:
 1
 
-**RPRetribution** _(10-Oct-18 03:23 PM)_
+**RPretribution** _(10-Oct-18 03:23 PM)_
 
 > 3 HEALTH
 
@@ -78120,7 +78120,7 @@ In the end, the result was:
 
 > Hector grabs a knockout syringe and injects Emmett
 
-**RPRetribution** _(10-Oct-18 03:24 PM)_
+**RPretribution** _(10-Oct-18 03:24 PM)_
 
 > (2 damage)
 > 1 HEALTH
@@ -78139,7 +78139,7 @@ In the end, the result was:
 In the end, the result was:
 26
 
-**RPRetribution** _(10-Oct-18 03:24 PM)_
+**RPretribution** _(10-Oct-18 03:24 PM)_
 
 > -25 HEALTH
 
@@ -78157,7 +78157,7 @@ In the end, the result was:
 
 > Hector catches him and drags him onto a med bay bed and starts hooking him up to machines
 
-**RPRetribution** _(10-Oct-18 03:25 PM)_
+**RPretribution** _(10-Oct-18 03:25 PM)_
 
 > Emmett's arm falls off
 
@@ -78178,7 +78178,7 @@ In the end, the result was:
 > definitely.
 > I saw him eat some just earlier.
 
-**RPRetribution** _(10-Oct-18 03:28 PM)_
+**RPretribution** _(10-Oct-18 03:28 PM)_
 
 > Chomsky bites Emmett back
 
@@ -78186,7 +78186,7 @@ In the end, the result was:
 
 > No
 
-**RPRetribution** _(10-Oct-18 03:28 PM)_
+**RPretribution** _(10-Oct-18 03:28 PM)_
 
 > (3 damage)
 > Emmett dies
@@ -78215,7 +78215,7 @@ In the end, the result was:
 > Comsky
 > Eating sugar
 
-**RPRetribution** _(10-Oct-18 03:31 PM)_
+**RPretribution** _(10-Oct-18 03:31 PM)_
 
 >
 
@@ -78288,7 +78288,7 @@ In the end, the result was:
 **PlasmaPerson** _(28-Oct-18 02:29 PM)_
 
 > B
-> @RPRetribution
+> @RPretribution
 > @Jelsafan0
 > @Final Frontier
 > guys let's start
@@ -78999,7 +78999,7 @@ In the end, the result was:
 
 > What’s our ETA?
 
-**RPRetribution** _(28-Oct-18 03:22 PM)_
+**RPretribution** _(28-Oct-18 03:22 PM)_
 
 > what
 
@@ -79027,7 +79027,7 @@ In the end, the result was:
 > Emmett's having a hard time reading the control screen.
 > That number right there, Iris.
 
-**RPRetribution** _(28-Oct-18 03:23 PM)_
+**RPretribution** _(28-Oct-18 03:23 PM)_
 
 > Garrick is here.
 
@@ -79051,7 +79051,7 @@ In the end, the result was:
 > Hey I’m heading to the pool who wants to join me
 > realizes he’s talking to empty space
 
-**RPRetribution** _(28-Oct-18 03:23 PM)_
+**RPretribution** _(28-Oct-18 03:23 PM)_
 
 > idk but he’s here
 
@@ -79084,7 +79084,7 @@ In the end, the result was:
 
 > `Oh, there you are Chomsky, thought you were in the Living quarters.`
 
-**RPRetribution** _(28-Oct-18 03:25 PM)_
+**RPretribution** _(28-Oct-18 03:25 PM)_
 
 > Hey Iris. Yes.
 
@@ -79117,7 +79117,7 @@ In the end, the result was:
 
 > goes to his room and puts on his swimsuit
 
-**RPRetribution** _(28-Oct-18 03:26 PM)_
+**RPretribution** _(28-Oct-18 03:26 PM)_
 
 > Something happen with Emmett?
 
@@ -79129,7 +79129,7 @@ In the end, the result was:
 
 > -18914, 158905, 890373846
 
-**RPRetribution** _(28-Oct-18 03:26 PM)_
+**RPretribution** _(28-Oct-18 03:26 PM)_
 
 > 111 out of infinity
 
@@ -79141,7 +79141,7 @@ In the end, the result was:
 
 > `hm.`
 
-**RPRetribution** _(28-Oct-18 03:27 PM)_
+**RPretribution** _(28-Oct-18 03:27 PM)_
 
 > 1, 1, 1 out of ∞, ∞, ∞
 > But my eyes are burgers
@@ -79155,7 +79155,7 @@ In the end, the result was:
 
 > poop 34
 
-**RPRetribution** _(28-Oct-18 03:27 PM)_
+**RPretribution** _(28-Oct-18 03:27 PM)_
 
 > no it’s 1/∞
 
@@ -79163,7 +79163,7 @@ In the end, the result was:
 
 > Fine
 
-**RPRetribution** _(28-Oct-18 03:27 PM)_
+**RPretribution** _(28-Oct-18 03:27 PM)_
 
 > they divide it into pieces
 > ∞ pieces
@@ -79174,7 +79174,7 @@ In the end, the result was:
 > 1/infinity = 1
 > obviusly
 
-**RPRetribution** _(28-Oct-18 03:28 PM)_
+**RPretribution** _(28-Oct-18 03:28 PM)_
 
 > 1 = ∞
 
@@ -79194,7 +79194,7 @@ In the end, the result was:
 
 > ~
 
-**RPRetribution** _(28-Oct-18 03:28 PM)_
+**RPretribution** _(28-Oct-18 03:28 PM)_
 
 > GAY
 > do something else
@@ -79203,7 +79203,7 @@ In the end, the result was:
 
 > No
 
-**RPRetribution** _(28-Oct-18 03:28 PM)_
+**RPretribution** _(28-Oct-18 03:28 PM)_
 
 > ok
 > sorry
@@ -79222,7 +79222,7 @@ In the end, the result was:
 
 > `ah, alright, hey chomsky you know anything about mechanics? We got a water leak behind the fridge and i cant move it and fix it at the same time. hehe`
 
-**RPRetribution** _(28-Oct-18 03:29 PM)_
+**RPretribution** _(28-Oct-18 03:29 PM)_
 
 > Demons??? Oh no, I don’t wanna get involved with them again.
 
@@ -79243,7 +79243,7 @@ In the end, the result was:
 > Iris has been begging me for this place. I can't refuse her.
 > He smiled a little.
 
-**RPRetribution** _(28-Oct-18 03:29 PM)_
+**RPretribution** _(28-Oct-18 03:29 PM)_
 
 > garrick’s been alive for a long time
 
@@ -79251,7 +79251,7 @@ In the end, the result was:
 
 > WHERE DO THESE COORDINATES LEAD?
 
-**RPRetribution** _(28-Oct-18 03:29 PM)_
+**RPretribution** _(28-Oct-18 03:29 PM)_
 
 > SHSHSHHHDDJD
 
@@ -79259,7 +79259,7 @@ In the end, the result was:
 
 > `I don't know what's wrong with the leak and I need some help.`
 
-**RPRetribution** _(28-Oct-18 03:29 PM)_
+**RPretribution** _(28-Oct-18 03:29 PM)_
 
 > YOU KNOW WHAT I MEANT
 
@@ -79284,7 +79284,7 @@ In the end, the result was:
 
 > Please tell me I heard you right!
 
-**RPRetribution** _(28-Oct-18 03:31 PM)_
+**RPretribution** _(28-Oct-18 03:31 PM)_
 
 > Planet of the Archidemons.
 
@@ -79292,7 +79292,7 @@ In the end, the result was:
 
 > `Iris, what side of your lineage gave you flame powers?`
 
-**RPRetribution** _(28-Oct-18 03:31 PM)_
+**RPretribution** _(28-Oct-18 03:31 PM)_
 
 > ZANDER
 > eats the baby!
@@ -79305,7 +79305,7 @@ In the end, the result was:
 
 >
 
-**RPRetribution** _(28-Oct-18 03:31 PM)_
+**RPretribution** _(28-Oct-18 03:31 PM)_
 
 > OH MY GOD HE ATE THE BABY
 
@@ -79329,7 +79329,7 @@ In the end, the result was:
 
 > what if, instead, I didn't help with the fridge and we just got a new one.
 
-**RPRetribution** _(28-Oct-18 03:32 PM)_
+**RPretribution** _(28-Oct-18 03:32 PM)_
 
 > iris inhaled the fire
 > like kirby
@@ -79342,7 +79342,7 @@ In the end, the result was:
 
 > `Well i mean, if you pay`
 
-**RPRetribution** _(28-Oct-18 03:32 PM)_
+**RPretribution** _(28-Oct-18 03:32 PM)_
 
 > iris = danny
 
@@ -79355,7 +79355,7 @@ In the end, the result was:
 
 > `I mean, we could just fix it.`
 
-**RPRetribution** _(28-Oct-18 03:32 PM)_
+**RPretribution** _(28-Oct-18 03:32 PM)_
 
 > 9
 
@@ -79385,7 +79385,7 @@ In the end, the result was:
 
 > Iris! Come in here!
 
-**RPRetribution** _(28-Oct-18 03:34 PM)_
+**RPretribution** _(28-Oct-18 03:34 PM)_
 
 > ok so basically, im ghost
 
@@ -79415,7 +79415,7 @@ In the end, the result was:
 
 > `It'll take a bit to get one though.`
 
-**RPRetribution** _(28-Oct-18 03:34 PM)_
+**RPretribution** _(28-Oct-18 03:34 PM)_
 
 > 800-875 years AD
 > thats how much it costs
@@ -79430,7 +79430,7 @@ In the end, the result was:
 
 > Yeah a Minecraft stack
 
-**RPRetribution** _(28-Oct-18 03:35 PM)_
+**RPretribution** _(28-Oct-18 03:35 PM)_
 
 > yeah
 > a stack of years
@@ -79439,7 +79439,7 @@ In the end, the result was:
 
 > `Ah nothing Deyner, Chomsky is just getting a new fridge`
 
-**RPRetribution** _(28-Oct-18 03:35 PM)_
+**RPretribution** _(28-Oct-18 03:35 PM)_
 
 > yeah
 > he has at least 64
@@ -79448,7 +79448,7 @@ In the end, the result was:
 
 > Why?
 
-**RPRetribution** _(28-Oct-18 03:35 PM)_
+**RPretribution** _(28-Oct-18 03:35 PM)_
 
 > “I’m all ears!”
 
@@ -79456,7 +79456,7 @@ In the end, the result was:
 
 > `We had a leak, and i guess we should just get a new one since that thing's been in here since seth had it.`
 
-**RPRetribution** _(28-Oct-18 03:36 PM)_
+**RPretribution** _(28-Oct-18 03:36 PM)_
 
 > OH
 > OOOHHHHHHHH
@@ -79480,7 +79480,7 @@ In the end, the result was:
 > Emmett leans on Iris
 > You look ravishing. Well, uh, I would say that if I could see well.
 
-**RPRetribution** _(28-Oct-18 03:36 PM)_
+**RPretribution** _(28-Oct-18 03:36 PM)_
 
 > You look gay
 
@@ -79505,24 +79505,24 @@ In the end, the result was:
 
 > I mean, I honestly think you're pretty.
 
-**RPRetribution** _(28-Oct-18 03:38 PM)_
+**RPretribution** _(28-Oct-18 03:38 PM)_
 
 > t!8ball is the fridge broken
 
 **Tatsumaki** _(28-Oct-18 03:38 PM)_
 
 > 🎱 | Concentrate and ask again,
-> [RP]retribution
+> RPretribution
 > .
 
-**RPRetribution** _(28-Oct-18 03:38 PM)_
+**RPretribution** _(28-Oct-18 03:38 PM)_
 
 > t!8ball does the fridge break immediately
 
 **Tatsumaki** _(28-Oct-18 03:38 PM)_
 
 > 🎱 | Outlook good,
-> [RP]retribution
+> RPretribution
 > .
 
 **Jelsafan0** _(28-Oct-18 03:38 PM)_
@@ -79545,7 +79545,7 @@ In the end, the result was:
 
 > motherfucker?!
 
-**RPRetribution** _(28-Oct-18 03:38 PM)_
+**RPretribution** _(28-Oct-18 03:38 PM)_
 
 > Iris quite literally turns into a tomato.
 > No, seriously. Emmett goes into shock as well.
@@ -79554,7 +79554,7 @@ In the end, the result was:
 
 > Emmett chuckles softly to himself.
 
-**RPRetribution** _(28-Oct-18 03:39 PM)_
+**RPretribution** _(28-Oct-18 03:39 PM)_
 
 > hhehsHehEhEhheHEHEHEHhehe
 
@@ -79562,7 +79562,7 @@ In the end, the result was:
 
 > uh, probably.
 
-**RPRetribution** _(28-Oct-18 03:39 PM)_
+**RPretribution** _(28-Oct-18 03:39 PM)_
 
 > Emmett chokes softly to himself.
 
@@ -79606,7 +79606,7 @@ In the end, the result was:
 
 > hey, Emmett. I gotta talk to you real quick.
 
-**RPRetribution** _(28-Oct-18 03:40 PM)_
+**RPretribution** _(28-Oct-18 03:40 PM)_
 
 > minion chomsky
 > minion chomsky
@@ -79616,7 +79616,7 @@ In the end, the result was:
 > mumbles while eating cookies on the counter
 > fucking fridge
 
-**RPRetribution** _(28-Oct-18 03:40 PM)_
+**RPretribution** _(28-Oct-18 03:40 PM)_
 
 > minion chomsky
 
@@ -79638,7 +79638,7 @@ In the end, the result was:
 > Chomsky glares at Jim
 > I need to talk alone.
 
-**RPRetribution** _(28-Oct-18 03:41 PM)_
+**RPretribution** _(28-Oct-18 03:41 PM)_
 
 > Garrick possesses one of his many spare ears, and flops into the kitchen.
 
@@ -79652,7 +79652,7 @@ In the end, the result was:
 > lightens up at seeing the other elf
 > ooooohhh muffins mind if I help?
 
-**RPRetribution** _(28-Oct-18 03:42 PM)_
+**RPretribution** _(28-Oct-18 03:42 PM)_
 
 > ᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬ
 
@@ -79670,7 +79670,7 @@ In the end, the result was:
 > hahahhahahhaahahhahahhahahhahahahh-
 > Iris turns even redder, stirring with more force.
 
-**RPRetribution** _(28-Oct-18 03:44 PM)_
+**RPretribution** _(28-Oct-18 03:44 PM)_
 
 > ᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ ᵎ
 
@@ -79710,7 +79710,7 @@ In the end, the result was:
 > `huh? ok then...I'll just go to my room then.`
 > Jim heads to his room
 
-**RPRetribution** _(28-Oct-18 03:46 PM)_
+**RPretribution** _(28-Oct-18 03:46 PM)_
 
 > ᴵʳᶦˢ, ᵈᵒ ʸᵒᵘ ʷᵃⁿⁿᵃ ᵗᵃˡᵏ ᵃᵇᵒᵘᵗ ᶦᵗˀ ᴵ’ᵐ ᵃˡˡ ᵉᵃʳˢᵎ
 
@@ -79783,14 +79783,14 @@ In the end, the result was:
 
 > hm?
 
-**RPRetribution** _(28-Oct-18 03:48 PM)_
+**RPretribution** _(28-Oct-18 03:48 PM)_
 
 > t!8ball does chomsky go into shock
 
 **Tatsumaki** _(28-Oct-18 03:48 PM)_
 
 > 🎱 | Outlook not so good,
-> [RP]retribution
+> RPretribution
 > .
 
 **PlasmaPerson** _(28-Oct-18 03:49 PM)_
@@ -79971,7 +79971,7 @@ In the end, the result was:
 
 > but the Boss has a new assignment.
 
-**RPRetribution** _(28-Oct-18 03:53 PM)_
+**RPretribution** _(28-Oct-18 03:53 PM)_
 
 > eat baby chronicles
 
@@ -79987,7 +79987,7 @@ In the end, the result was:
 
 > `ah.`
 
-**RPRetribution** _(28-Oct-18 03:53 PM)_
+**RPretribution** _(28-Oct-18 03:53 PM)_
 
 > Whoa, what's this mafia?
 
@@ -80147,7 +80147,7 @@ In the end, the result was:
 
 > puts more blueberries and banishes
 
-**RPRetribution** _(28-Oct-18 03:58 PM)_
+**RPretribution** _(28-Oct-18 03:58 PM)_
 
 > if iris had a child would it be blueberry
 > @Jelsafan0
@@ -80160,7 +80160,7 @@ In the end, the result was:
 > No.
 > No.
 
-**RPRetribution** _(28-Oct-18 03:59 PM)_
+**RPretribution** _(28-Oct-18 03:59 PM)_
 
 > yes\*
 
@@ -80193,7 +80193,7 @@ In the end, the result was:
 
 > Not blueberry! Not blueberry!
 
-**RPRetribution** _(28-Oct-18 03:59 PM)_
+**RPretribution** _(28-Oct-18 03:59 PM)_
 
 > Garrick eats a ball of rolled-up muffins.
 
@@ -80223,7 +80223,7 @@ In the end, the result was:
 
 > can I make another muffin throne?
 
-**RPRetribution** _(28-Oct-18 03:59 PM)_
+**RPretribution** _(28-Oct-18 03:59 PM)_
 
 > I don't taste blueberry. Nice job, Iris.
 
@@ -80288,7 +80288,7 @@ In the end, the result was:
 
 > Yeah, you sty.
 
-**RPRetribution** _(28-Oct-18 04:01 PM)_
+**RPretribution** _(28-Oct-18 04:01 PM)_
 
 > CRASH
 
@@ -80304,7 +80304,7 @@ In the end, the result was:
 
 > KRAK! OW!
 
-**RPRetribution** _(28-Oct-18 04:02 PM)_
+**RPretribution** _(28-Oct-18 04:02 PM)_
 
 > hector diagnoses emmett with ligma
 
@@ -80321,7 +80321,7 @@ In the end, the result was:
 
 > instead mafia is relatively threatening
 
-**RPRetribution** _(28-Oct-18 04:03 PM)_
+**RPretribution** _(28-Oct-18 04:03 PM)_
 
 > garrick leavey shippy
 
@@ -80350,7 +80350,7 @@ In the end, the result was:
 
 > `You can stay here wile we go if you want.`
 
-**RPRetribution** _(28-Oct-18 04:04 PM)_
+**RPretribution** _(28-Oct-18 04:04 PM)_
 
 > emmet, you really dont feel that good.
 
@@ -80362,7 +80362,7 @@ In the end, the result was:
 
 > Iris you wanna come?
 
-**RPRetribution** _(28-Oct-18 04:04 PM)_
+**RPretribution** _(28-Oct-18 04:04 PM)_
 
 > -   SHUT UP, HUMAN!
 
@@ -80370,7 +80370,7 @@ In the end, the result was:
 
 > Boss meets Chomsky outside the ship
 
-**RPRetribution** _(28-Oct-18 04:04 PM)_
+**RPretribution** _(28-Oct-18 04:04 PM)_
 
 > final frontier 3 mission failure
 > emmett = papyrus
@@ -80383,7 +80383,7 @@ In the end, the result was:
 
 > Come on, let me show you around!
 
-**RPRetribution** _(28-Oct-18 04:04 PM)_
+**RPretribution** _(28-Oct-18 04:04 PM)_
 
 > This place looks different.
 
@@ -80403,7 +80403,7 @@ In the end, the result was:
 
 > Meet what’s left of my people!
 
-**RPRetribution** _(28-Oct-18 04:05 PM)_
+**RPretribution** _(28-Oct-18 04:05 PM)_
 
 > Garrick and God start with the same letter
 
@@ -80419,7 +80419,7 @@ In the end, the result was:
 
 > forces a smile on his face until he sees a girl with white hair
 
-**RPRetribution** _(28-Oct-18 04:06 PM)_
+**RPretribution** _(28-Oct-18 04:06 PM)_
 
 > Chomko. Tell me more about this mafia.
 
@@ -80468,7 +80468,7 @@ In the end, the result was:
 
 > `what?`
 
-**RPRetribution** _(28-Oct-18 04:07 PM)_
+**RPretribution** _(28-Oct-18 04:07 PM)_
 
 > Oh, that's great. I wanna meet 'em.
 
@@ -80476,7 +80476,7 @@ In the end, the result was:
 
 > hey garrick!
 
-**RPRetribution** _(28-Oct-18 04:07 PM)_
+**RPretribution** _(28-Oct-18 04:07 PM)_
 
 > What?
 
@@ -80488,7 +80488,7 @@ In the end, the result was:
 
 > come here!
 
-**RPRetribution** _(28-Oct-18 04:08 PM)_
+**RPretribution** _(28-Oct-18 04:08 PM)_
 
 > Alright.
 > He comey the herey
@@ -80513,7 +80513,7 @@ In the end, the result was:
 
 > `Chomsky, whats goin' on here?`
 
-**RPRetribution** _(28-Oct-18 04:08 PM)_
+**RPretribution** _(28-Oct-18 04:08 PM)_
 
 > Too late. I'm already going.
 
@@ -80534,7 +80534,7 @@ In the end, the result was:
 
 > t!8ball Do one of the mafia members get turned into a turtle with a funny hat by a demon?
 
-**RPRetribution** _(28-Oct-18 04:09 PM)_
+**RPretribution** _(28-Oct-18 04:09 PM)_
 
 > hehehehe u said doodee
 
@@ -81427,7 +81427,7 @@ In the end, the result was:
 > Hey, wake up
 > Iris whispers, shaking Emmett gently.
 
-**RPRetribution** _(28-Oct-18 04:51 PM)_
+**RPretribution** _(28-Oct-18 04:51 PM)_
 
 > hey what happened
 > my internet broke
@@ -81442,7 +81442,7 @@ In the end, the result was:
 > "You don't let me into our life. We're brothers man. I'm the brawn and you're the brains."
 > )
 
-**RPRetribution** _(28-Oct-18 04:51 PM)_
+**RPretribution** _(28-Oct-18 04:51 PM)_
 
 > oh
 
@@ -81462,7 +81462,7 @@ In the end, the result was:
 > Come on, wake up.
 > she shakes him a little more harshly.
 
-**RPRetribution** _(28-Oct-18 04:53 PM)_
+**RPretribution** _(28-Oct-18 04:53 PM)_
 
 > emmett doesnt wake up and iris develops ptsd
 
@@ -82438,7 +82438,7 @@ Alright. I'll take one.
 
 > Dude, this feels like 2 Celsius , dude.
 
-**RPRetribution** _(11-Nov-18 03:27 PM)_
+**RPretribution** _(11-Nov-18 03:27 PM)_
 
 > bro chase is here
 > finally
@@ -82531,7 +82531,7 @@ Alright. I'll take one.
 
 > `Nice to meet you. I'm Chase.`
 
-**RPRetribution** _(11-Nov-18 03:30 PM)_
+**RPretribution** _(11-Nov-18 03:30 PM)_
 
 > dread comes out of sanya’s hand and calls everybody fat gay dead naked real fake naked dead dead naked fat
 
@@ -82562,7 +82562,7 @@ Alright. I'll take one.
 
 > Holy shit, holy shit, holy shit...
 
-**RPRetribution** _(11-Nov-18 03:31 PM)_
+**RPretribution** _(11-Nov-18 03:31 PM)_
 
 > BLUE LIGHT COMING FROM HIS EYE
 
@@ -82654,7 +82654,7 @@ Alright. I'll take one.
 
 > 'You have nothing to fear by any means.'
 
-**RPRetribution** _(11-Nov-18 03:36 PM)_
+**RPretribution** _(11-Nov-18 03:36 PM)_
 
 > im sorry
 
@@ -82678,7 +82678,7 @@ Alright. I'll take one.
 
 > `A god?`
 
-**RPRetribution** _(11-Nov-18 03:36 PM)_
+**RPretribution** _(11-Nov-18 03:36 PM)_
 
 > one fear
 
@@ -82687,7 +82687,7 @@ Alright. I'll take one.
 > 'For this one is of the purest line.'
 > 'The people hate him, I love them.'
 
-**RPRetribution** _(11-Nov-18 03:37 PM)_
+**RPretribution** _(11-Nov-18 03:37 PM)_
 
 > Hey guys. What’s this about Matieu not feeling so good?
 
@@ -82715,7 +82715,7 @@ Alright. I'll take one.
 
 > 'Not a ghost, one could say an all seeing entity.'
 
-**RPRetribution** _(11-Nov-18 03:38 PM)_
+**RPretribution** _(11-Nov-18 03:38 PM)_
 
 > Whoa, did we get another Ottori?
 
@@ -82743,7 +82743,7 @@ Alright. I'll take one.
 
 > `What?`
 
-**RPRetribution** _(11-Nov-18 03:39 PM)_
+**RPretribution** _(11-Nov-18 03:39 PM)_
 
 > Well, I’m flattered, but I wouldn’t call myself a god.
 
@@ -82771,7 +82771,7 @@ Alright. I'll take one.
 
 > 'Honestly, shut up dude.'
 
-**RPRetribution** _(11-Nov-18 03:39 PM)_
+**RPretribution** _(11-Nov-18 03:39 PM)_
 
 > Oh, don’t be such a buzzkill.
 
@@ -82801,7 +82801,7 @@ Alright. I'll take one.
 > 'Matieu is not a god, per se.'
 > 'He's more like a vassal.'
 
-**RPRetribution** _(11-Nov-18 03:41 PM)_
+**RPretribution** _(11-Nov-18 03:41 PM)_
 
 > Garrick sticks his tongue out at Matieu.
 
@@ -82824,7 +82824,7 @@ Alright. I'll take one.
 > Enchantingtable2013
 > .
 
-**RPRetribution** _(11-Nov-18 03:42 PM)_
+**RPretribution** _(11-Nov-18 03:42 PM)_
 
 > nice
 
@@ -82838,7 +82838,7 @@ Alright. I'll take one.
 > Enchantingtable2013
 > .
 
-**RPRetribution** _(11-Nov-18 03:42 PM)_
+**RPretribution** _(11-Nov-18 03:42 PM)_
 
 > hey wait
 
@@ -82850,7 +82850,7 @@ Alright. I'll take one.
 
 > 'Say goodbye to him, at least for now.'
 
-**RPRetribution** _(11-Nov-18 03:42 PM)_
+**RPretribution** _(11-Nov-18 03:42 PM)_
 
 > thats cheating
 
@@ -82863,7 +82863,7 @@ Alright. I'll take one.
 
 > Garrick isn't slapped
 
-**RPRetribution** _(11-Nov-18 03:43 PM)_
+**RPretribution** _(11-Nov-18 03:43 PM)_
 
 > u smell
 
@@ -82885,7 +82885,7 @@ Alright. I'll take one.
 
 > Because he's a ghost
 
-**RPRetribution** _(11-Nov-18 03:43 PM)_
+**RPretribution** _(11-Nov-18 03:43 PM)_
 
 > GOTEM
 
@@ -83033,7 +83033,7 @@ Alright. I'll take one.
 
 > 'I know about one of your old friends, everyone.'
 
-**RPRetribution** _(11-Nov-18 03:48 PM)_
+**RPretribution** _(11-Nov-18 03:48 PM)_
 
 > Garrick floats back to the group.
 > That wasn’t funny.
@@ -83111,7 +83111,7 @@ Alright. I'll take one.
 
 > 'There is only one drug in the galaxy, and its Yontreconicam.'
 
-**RPRetribution** _(11-Nov-18 03:51 PM)_
+**RPretribution** _(11-Nov-18 03:51 PM)_
 
 > You’re certainly acting high.
 > All high and mighty, that is.
@@ -83124,7 +83124,7 @@ Alright. I'll take one.
 
 > She walks him to their old room, closing the door and placing him on her cloud bed so they were eye level.
 
-**RPRetribution** _(11-Nov-18 03:52 PM)_
+**RPretribution** _(11-Nov-18 03:52 PM)_
 
 > oh no
 
@@ -83144,7 +83144,7 @@ Alright. I'll take one.
 
 > wucc
 
-**RPRetribution** _(11-Nov-18 03:53 PM)_
+**RPretribution** _(11-Nov-18 03:53 PM)_
 
 > w
 > hat
@@ -83166,7 +83166,7 @@ Alright. I'll take one.
 > kirby man
 > cursed image
 
-**RPRetribution** _(11-Nov-18 03:54 PM)_
+**RPretribution** _(11-Nov-18 03:54 PM)_
 
 > its danny
 
@@ -83174,7 +83174,7 @@ Alright. I'll take one.
 
 > Sanya sits at the pool.. thinking.
 
-**RPRetribution** _(11-Nov-18 03:55 PM)_
+**RPretribution** _(11-Nov-18 03:55 PM)_
 
 > baby
 
@@ -83190,14 +83190,14 @@ Alright. I'll take one.
 
 > I wasn't very close to anyone on this ship, except for you.. and to be honest, I have very much enjoyed our companionship. I do apologize for not being here often.
 
-**RPRetribution** _(11-Nov-18 03:56 PM)_
+**RPretribution** _(11-Nov-18 03:56 PM)_
 
 > t!8ball does garrick slap danny
 
 **Tatsumaki** _(11-Nov-18 03:56 PM)_
 
 > 🎱 | You may rely on it,
-> [RP]retribution
+> RPretribution
 > .
 
 **Zander** _(11-Nov-18 03:56 PM)_
@@ -83208,7 +83208,7 @@ Alright. I'll take one.
 
 > 'I assume you'd pleasure in seeing that, Chase?'
 
-**RPRetribution** _(11-Nov-18 03:57 PM)_
+**RPretribution** _(11-Nov-18 03:57 PM)_
 
 > Bad blue man. Do not like him.
 
@@ -83262,7 +83262,7 @@ Alright. I'll take one.
 
 > I will. I will never forget my time spent here. As for now, I want to give you your gift.
 
-**RPRetribution** _(11-Nov-18 03:59 PM)_
+**RPretribution** _(11-Nov-18 03:59 PM)_
 
 > oh no
 
@@ -83316,7 +83316,7 @@ Alright. I'll take one.
 > Enchantingtable2013
 > .
 
-**RPRetribution** _(11-Nov-18 04:01 PM)_
+**RPretribution** _(11-Nov-18 04:01 PM)_
 
 > oh no
 
@@ -83411,7 +83411,7 @@ Alright. I'll take one.
 > Platinum_Pathos
 > .
 
-**RPRetribution** _(11-Nov-18 04:05 PM)_
+**RPretribution** _(11-Nov-18 04:05 PM)_
 
 > THAT’S IT
 
@@ -83440,19 +83440,19 @@ Alright. I'll take one.
 
 > 'By who knows what, I was decidedly the most pure of the small group that was the Avians.'
 
-**RPRetribution** _(11-Nov-18 04:06 PM)_
+**RPretribution** _(11-Nov-18 04:06 PM)_
 
 > t!choose hammer | taser | marshmallow
 
 **Tatsumaki** _(11-Nov-18 04:06 PM)_
 
 > 🤔 |
-> [RP]retribution
+> RPretribution
 > , I pick
 > taser
 > !
 
-**RPRetribution** _(11-Nov-18 04:07 PM)_
+**RPretribution** _(11-Nov-18 04:07 PM)_
 
 > Garrick tases Danny.
 
@@ -83484,7 +83484,7 @@ Alright. I'll take one.
 
 > 'Odd. Seems very counterintuitive for a race.'
 
-**RPRetribution** _(11-Nov-18 04:10 PM)_
+**RPretribution** _(11-Nov-18 04:10 PM)_
 
 > I have the sudden urge to kill you!
 
@@ -83492,7 +83492,7 @@ Alright. I'll take one.
 
 > `It fit his needs.`
 
-**RPRetribution** _(11-Nov-18 04:10 PM)_
+**RPretribution** _(11-Nov-18 04:10 PM)_
 
 > He whacks Danny with a marshmallow.
 
@@ -83504,7 +83504,7 @@ Alright. I'll take one.
 
 > You have no urges you pile of ectoplasm!
 
-**RPRetribution** _(11-Nov-18 04:11 PM)_
+**RPretribution** _(11-Nov-18 04:11 PM)_
 
 > I’d insult you but I have no idea what your race is!
 
@@ -83525,7 +83525,7 @@ Alright. I'll take one.
 > U-Uh...
 > You're a star!
 
-**RPRetribution** _(11-Nov-18 04:12 PM)_
+**RPretribution** _(11-Nov-18 04:12 PM)_
 
 > and then they mate and make squoat god babies
 
@@ -83549,7 +83549,7 @@ Alright. I'll take one.
 
 > This is my purest form. Now, have granted my wish that you will find out in due time..
 
-**RPRetribution** _(11-Nov-18 04:15 PM)_
+**RPretribution** _(11-Nov-18 04:15 PM)_
 
 > Yeah well, I bet you don’t have infinite pockets, do you???
 > Yeah, that’s what I thought.
@@ -83558,7 +83558,7 @@ Alright. I'll take one.
 
 > An infinite stomach is good enough I think.
 
-**RPRetribution** _(11-Nov-18 04:15 PM)_
+**RPretribution** _(11-Nov-18 04:15 PM)_
 
 > I like being partially incorporeal.
 
@@ -83570,7 +83570,7 @@ Alright. I'll take one.
 
 > `I wish i could follow another god. But he's a much bigger part of my life than any other floran.`
 
-**RPRetribution** _(11-Nov-18 04:16 PM)_
+**RPretribution** _(11-Nov-18 04:16 PM)_
 
 > had to leave the vc so i could charge my phone
 
@@ -83601,7 +83601,7 @@ Alright. I'll take one.
 
 > `He's... He's fundamental.`
 
-**RPRetribution** _(11-Nov-18 04:19 PM)_
+**RPretribution** _(11-Nov-18 04:19 PM)_
 
 > I haven’t seen a female ghost in at least 287 years. It’s not really a priority.
 
@@ -83639,7 +83639,7 @@ Alright. I'll take one.
 
 > `Hey-oh...`
 
-**RPRetribution** _(11-Nov-18 04:21 PM)_
+**RPretribution** _(11-Nov-18 04:21 PM)_
 
 > That’s not how ghosts work. And you don’t look like you get much action either.
 
@@ -83660,7 +83660,7 @@ Alright. I'll take one.
 
 > `...` > `Is she...dead?`
 
-**RPRetribution** _(11-Nov-18 04:23 PM)_
+**RPretribution** _(11-Nov-18 04:23 PM)_
 
 > does that mean i have to find a new toriel for mission failure
 
@@ -83670,10 +83670,10 @@ Alright. I'll take one.
 
 **Zander** _(11-Nov-18 04:23 PM)_
 
-> @RPRetribution
+> @RPretribution
 > no
 
-**RPRetribution** _(11-Nov-18 04:23 PM)_
+**RPretribution** _(11-Nov-18 04:23 PM)_
 
 > okay
 
@@ -83683,11 +83683,11 @@ Alright. I'll take one.
 
 **Zander** _(11-Nov-18 04:24 PM)_
 
-> @RPRetribution
+> @RPretribution
 > Rashidi said you need to battle Danny on Jackbox 5 tonight
 > I'm sorry I've ignored you all this time.
 
-**RPRetribution** _(11-Nov-18 04:24 PM)_
+**RPretribution** _(11-Nov-18 04:24 PM)_
 
 > Garrick rudely barges in. Through the wall.
 > Hey, what happened?
@@ -83696,7 +83696,7 @@ Alright. I'll take one.
 
 > So you're a scientist, right?
 
-**RPRetribution** _(11-Nov-18 04:24 PM)_
+**RPretribution** _(11-Nov-18 04:24 PM)_
 
 > Oh.
 

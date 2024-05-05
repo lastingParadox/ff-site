@@ -1,6 +1,6 @@
 **Brakia** _(25-Jun-18 02:01 PM)_
 
-@Magic8Ball Does Serpile wake up?
+`Serpile`: @Magic8Ball Does Serpile wake up?
 
 **Magic8Ball** _(25-Jun-18 02:01 PM)_
 
@@ -38,7 +38,7 @@ _Asier springs up from his bed with vibrant energy._
 
 **Brakia** _(25-Jun-18 02:04 PM)_
 
-@Magic8Ball Does the crew stop this endless cycle?
+`Serpile`: @Magic8Ball Does the crew stop this endless cycle?
 
 **Magic8Ball** _(25-Jun-18 02:04 PM)_
 
@@ -62,9 +62,9 @@ _Asier springs up from his bed with vibrant energy._
 
 **Brakia** _(25-Jun-18 02:05 PM)_
 
-_Serpile groans._
+_`Serpile`: Serpile groans._
 
-> Five more minutes...
+> `Serpile`: Five more minutes...
 
 **Zander** _(25-Jun-18 02:05 PM)_
 
@@ -90,9 +90,9 @@ _Although feeling better, Emmett was tad grumpy from being woken up._
 
 **Brakia** _(25-Jun-18 02:07 PM)_
 
-_Serpile is hallucinating from his long rest._
+_`Serpile`: Serpile is hallucinating from his long rest._
 
-> Um, question. Why is there a hot dog tied to my foot?
+> `Serpile`: Um, question. Why is there a hot dog tied to my foot?
 
 **PlasmaPerson** _(25-Jun-18 02:08 PM)_
 
@@ -100,7 +100,7 @@ _Serpile is hallucinating from his long rest._
 
 **Brakia** _(25-Jun-18 02:08 PM)_
 
-> Oh.
+> `Serpile`: Oh.
 
 **Bagelwrecker** _(25-Jun-18 02:08 PM)_
 
@@ -134,7 +134,7 @@ _Seth storms into Serpile's sleeping quarters and eyeballs the jar full of hot d
 
 **Brakia** _(25-Jun-18 02:09 PM)_
 
-> Please take it back.
+> `Serpile`: Please take it back.
 
 **Zander** _(25-Jun-18 02:09 PM)_
 
@@ -146,7 +146,7 @@ _Emmett heads to the restroom, speaking into his comms._
 
 **Brakia** _(25-Jun-18 02:10 PM)_
 
-> It looks alright...
+> `Serpile`: It looks alright...
 
 **Bagelwrecker** _(25-Jun-18 02:10 PM)_
 
@@ -154,9 +154,9 @@ _Emmett heads to the restroom, speaking into his comms._
 
 **Brakia** _(25-Jun-18 02:11 PM)_
 
-_Serpile doesn't remember shining the thrusters, but it sounded like something he would do._
+_`Serpile`: Serpile doesn't remember shining the thrusters, but it sounded like something he would do._
 
-> I think so.
+> `Serpile`: I think so.
 
 **Bagelwrecker** _(25-Jun-18 02:11 PM)_
 
@@ -165,7 +165,7 @@ _Serpile doesn't remember shining the thrusters, but it sounded like something h
 
 **Brakia** _(25-Jun-18 02:11 PM)_
 
-@Magic8Ball Does Serpile give the jar back?
+`Serpile`: @Magic8Ball Does Serpile give the jar back?
 
 **Magic8Ball** _(25-Jun-18 02:11 PM)_
 
@@ -233,9 +233,9 @@ _Emmett belches._
 
 **Brakia** _(25-Jun-18 02:15 PM)_
 
-_Serpile mistakes the smell of the hot dog piss water for coffee somehow and heads into Matthias's room. He tries a taste of the piss, ignoring the glass shards about him._
+_`Serpile`: Serpile mistakes the smell of the hot dog piss water for coffee somehow and heads into Matthias's room. He tries a taste of the piss, ignoring the glass shards about him._
 
-@Magic8Ball Does Serpile die from the piss water being in his system, having been made to drink it due to universal bullshit?
+`Serpile`: @Magic8Ball Does Serpile die from the piss water being in his system, having been made to drink it due to universal bullshit?
 
 **Magic8Ball** _(25-Jun-18 02:15 PM)_
 
@@ -755,13 +755,13 @@ _Bail looks at his nametag and dusts it off, annoyed._
 
 > That's kinda funny though, that name tag.
 
-**RPRetribution** _(25-Jun-18 03:05 PM)_
+**RPretribution** _(25-Jun-18 03:05 PM)_
 
 @Magic8Ball Is Garrick in the room?
 
 **Magic8Ball** _(25-Jun-18 03:05 PM)_
 
-🎱 | Lowercase no, RPRetribution.
+🎱 | Lowercase no, RPretribution.
 
 **Brakia** _(25-Jun-18 03:05 PM)_
 
@@ -771,7 +771,7 @@ _Bail looks at his nametag and dusts it off, annoyed._
 
 🎱 | Nay, Brakia.
 
-**RPRetribution** _(25-Jun-18 03:05 PM)_
+**RPretribution** _(25-Jun-18 03:05 PM)_
 
 > Huh.
 
@@ -843,13 +843,13 @@ t!choose 3 | 5 | 7 | 29
 
 > Welp, let's go shoot up a police station.
 
-**RPRetribution** _(25-Jun-18 03:10 PM)_
+**RPretribution** _(25-Jun-18 03:10 PM)_
 
 @Magic8Ball Does Garrick go inside the police station?
 
 **Magic8Ball** _(25-Jun-18 03:10 PM)_
 
-🎱 | Astounding yes, RPRetribution.
+🎱 | Astounding yes, RPretribution.
 
 **Zander** _(25-Jun-18 03:10 PM)_
 
@@ -857,7 +857,7 @@ _Emmett is taken aback by this response, scoffing._
 
 > What the hell?
 
-**RPRetribution** _(25-Jun-18 03:10 PM)_
+**RPretribution** _(25-Jun-18 03:10 PM)_
 
 _Garrick overhears the trio before entering the police station._
 
@@ -880,7 +880,7 @@ _Emmett stares at Asier and Bail wide-eyed._
 
 _Asier retracts his swords._
 
-**RPRetribution** _(25-Jun-18 03:11 PM)_
+**RPretribution** _(25-Jun-18 03:11 PM)_
 
 _Garrick, instead of entering the police station, decides to head to the group._
 
@@ -894,7 +894,7 @@ _Garrick, instead of entering the police station, decides to head to the group._
 
 > Ghost man! Where did you come from?
 
-**RPRetribution** _(25-Jun-18 03:12 PM)_
+**RPretribution** _(25-Jun-18 03:12 PM)_
 
 > My house.
 > Obviously.
@@ -919,7 +919,7 @@ t!choose Emmett knows Garrick | Seth knows Garrick | Garrick knows Garrick | Bai
 
 > Nope.
 
-**RPRetribution** _(25-Jun-18 03:14 PM)_
+**RPretribution** _(25-Jun-18 03:14 PM)_
 
 > No.
 
@@ -941,7 +941,7 @@ _Asier looks at Garrick._
 
 > But why?
 
-**RPRetribution** _(25-Jun-18 03:15 PM)_
+**RPretribution** _(25-Jun-18 03:15 PM)_
 
 > Sure.
 
@@ -949,7 +949,7 @@ _Asier looks at Garrick._
 
 > Better than sitting around doing nothing! It's like you said, we're neutral.
 
-**RPRetribution** _(25-Jun-18 03:15 PM)_
+**RPretribution** _(25-Jun-18 03:15 PM)_
 
 _Garrick takes out a toothpick from his pocket and pretends to clean his teeth._
 
@@ -965,7 +965,7 @@ _Bail whips his head back._
 
 > Everything.
 
-**RPRetribution** _(25-Jun-18 03:16 PM)_
+**RPretribution** _(25-Jun-18 03:16 PM)_
 
 > You can't handcuff a ghost. We have no arms.
 
@@ -973,7 +973,7 @@ _Bail whips his head back._
 
 > They have spectral cuffs.
 
-**RPRetribution** _(25-Jun-18 03:17 PM)_
+**RPretribution** _(25-Jun-18 03:17 PM)_
 
 _Garrick folds his hands._
 
@@ -999,7 +999,7 @@ _Emmett sighs and takes a look at his laser crossbow._
 
 > Peer pressure!
 
-**RPRetribution** _(25-Jun-18 03:18 PM)_
+**RPretribution** _(25-Jun-18 03:18 PM)_
 
 > Alright.
 
@@ -1027,7 +1027,7 @@ _Bail decides to lead the charge into the station and heads forward._
 
 _Asier starts to climb onto the roof behind Bail._
 
-**RPRetribution** _(25-Jun-18 03:20 PM)_
+**RPretribution** _(25-Jun-18 03:20 PM)_
 
 > Uh...
 > Yes.
@@ -1069,7 +1069,7 @@ _Emmett mutters to himself._
 
 > You think?
 
-**RPRetribution** _(25-Jun-18 03:21 PM)_
+**RPretribution** _(25-Jun-18 03:21 PM)_
 
 _Garrick laughs._
 
@@ -1101,13 +1101,13 @@ _The moment Seth rushes past him, Emmett runs off to a safe distance from the po
 
 _Bail kicks down the roof entrance and Asier follows behind him._
 
-**RPRetribution** _(25-Jun-18 03:24 PM)_
+**RPretribution** _(25-Jun-18 03:24 PM)_
 
 @Magic8Ball Does Garrick go with Asier's plan?
 
 **Magic8Ball** _(25-Jun-18 03:24 PM)_
 
-🎱 | Nah, RPRetribution.
+🎱 | Nah, RPretribution.
 
 **Zander** _(25-Jun-18 03:24 PM)_
 
@@ -1117,7 +1117,7 @@ _Bail kicks down the roof entrance and Asier follows behind him._
 
 🎱 | Likely yes, Zander.
 
-**RPRetribution** _(25-Jun-18 03:24 PM)_
+**RPretribution** _(25-Jun-18 03:24 PM)_
 
 > PUT YOUR STICKS IN THE AIR! THIS IS A HAND-UP!
 
@@ -1127,7 +1127,7 @@ _Garrick digs into his pockets and takes out a holovision remote, which he throw
 
 > `Bail`: Justice!
 
-**RPRetribution** _(25-Jun-18 03:24 PM)_
+**RPretribution** _(25-Jun-18 03:24 PM)_
 
 > DANG IT!
 
@@ -1170,7 +1170,7 @@ _Jim looks around corner and ducks beneath some stray shots from Seth._
 
 🎱 | Nah, Zander.
 
-**RPRetribution** _(25-Jun-18 03:26 PM)_
+**RPretribution** _(25-Jun-18 03:26 PM)_
 
 > Great stealth mission, guys.
 
@@ -1194,7 +1194,7 @@ _Asier heads to the armory._
 
 > I couldn't find a woman to have sex with on this planet!
 
-**RPRetribution** _(25-Jun-18 03:27 PM)_
+**RPretribution** _(25-Jun-18 03:27 PM)_
 
 > Let's get their guns!
 
@@ -1242,7 +1242,7 @@ _Seth immediately gets an erection, ripping his trousers._
 
 _Seth is now just shooting in random directions._
 
-**RPRetribution** _(25-Jun-18 03:28 PM)_
+**RPretribution** _(25-Jun-18 03:28 PM)_
 
 > I don't have any guns.
 > Well, I might...
@@ -1261,7 +1261,7 @@ _Garrick points a finger gun at Jim._
 
 🎱 | N0, Bagelwrecker.
 
-**RPRetribution** _(25-Jun-18 03:29 PM)_
+**RPretribution** _(25-Jun-18 03:29 PM)_
 
 > A lot.
 
@@ -1289,7 +1289,7 @@ _Emmett rolls his eyes and turns away from the station._
 
 > I'm going back to the ship, guys.
 
-**RPRetribution** _(25-Jun-18 03:32 PM)_
+**RPretribution** _(25-Jun-18 03:32 PM)_
 
 > ... Oh, wow.
 
@@ -1310,15 +1310,15 @@ _Emmett mutters._
 
 > Victory or death!
 
-**RPRetribution** _(25-Jun-18 03:33 PM)_
+**RPretribution** _(25-Jun-18 03:33 PM)_
 
 > t!choose Gun | Knives
 
 **Tatsumaki** _(25-Jun-18 03:33 PM)_
 
-🤔 | RPRetribution, I pick Gun!
+🤔 | RPretribution, I pick Gun!
 
-**RPRetribution** _(25-Jun-18 03:33 PM)_
+**RPretribution** _(25-Jun-18 03:33 PM)_
 
 _Garrick takes out a slug pistol._
 
@@ -1328,7 +1328,7 @@ _Garrick takes out a slug pistol._
 
 > Stay right where you are, I'll shoot, I swear it I will!
 
-**RPRetribution** _(25-Jun-18 03:34 PM)_
+**RPretribution** _(25-Jun-18 03:34 PM)_
 
 > Alright.
 
@@ -1358,7 +1358,7 @@ _Emmett talks to himself._
 
 > Yeah, I'm going away from this situation.
 
-**RPRetribution** _(25-Jun-18 03:34 PM)_
+**RPretribution** _(25-Jun-18 03:34 PM)_
 
 > Huh.
 
@@ -1374,7 +1374,7 @@ _Asier takes out his sword._
 
 _Jim flicks a lever on his shotgun, causing the barrel to spin menacingly._
 
-**RPRetribution** _(25-Jun-18 03:35 PM)_
+**RPretribution** _(25-Jun-18 03:35 PM)_
 
 > I'm a ghost. Bullets don't really... work.
 > But I mean, do what you want.
@@ -1415,7 +1415,7 @@ _Seth stops at a cell with a man cowering in the corner._
 
 > AND I SHALL POOP ON YOU!
 
-**RPRetribution** _(25-Jun-18 03:37 PM)_
+**RPretribution** _(25-Jun-18 03:37 PM)_
 
 > What the hell are you doing, elf guy?
 
@@ -1441,7 +1441,7 @@ _Asier sighs and puts his swords away._
 
 > Fine. We'll show a little mercy, in exchange for your cash.
 
-**RPRetribution** _(25-Jun-18 03:37 PM)_
+**RPretribution** _(25-Jun-18 03:37 PM)_
 
 _Garrick overheard Asier's comms watch and spoke aloud, assuming he was being spoken to directly._
 
@@ -1495,7 +1495,7 @@ _Seth restrains Jim and nods._
 
 > Very cool, Kanye.
 
-**RPRetribution** _(25-Jun-18 03:39 PM)_
+**RPretribution** _(25-Jun-18 03:39 PM)_
 
 > I don't know, probably not a lot.
 
@@ -1507,7 +1507,7 @@ _Jim scoffs._
 
 > See how far that will get ya'.
 
-**RPRetribution** _(25-Jun-18 03:40 PM)_
+**RPretribution** _(25-Jun-18 03:40 PM)_
 
 _Garrick shrugs._
 
@@ -1523,13 +1523,13 @@ _Garrick shrugs._
 
 _Jim laughs._
 
-**RPRetribution** _(25-Jun-18 03:41 PM)_
+**RPretribution** _(25-Jun-18 03:41 PM)_
 
 @Magic8Ball Does Garrick go and find the last officer?
 
 **Magic8Ball** _(25-Jun-18 03:41 PM)_
 
-🎱 | Y35, RPRetribution.
+🎱 | Y35, RPretribution.
 
 **Bagelwrecker** _(25-Jun-18 03:41 PM)_
 
@@ -1537,7 +1537,7 @@ _Jim laughs._
 
 _Seth knees Jim in the back, prompting him to get up._
 
-**RPRetribution** _(25-Jun-18 03:41 PM)_
+**RPretribution** _(25-Jun-18 03:41 PM)_
 
 _Garrick, upon finding the last officer, finds them cowering in the corner. He pretends to not notice them, taking interest in a desk fan._
 
@@ -1557,7 +1557,7 @@ _Garrick pockets the desk fan._
 
 > Yes.
 
-**RPRetribution** _(25-Jun-18 03:41 PM)_
+**RPretribution** _(25-Jun-18 03:41 PM)_
 
 > Yeah.
 
@@ -1573,7 +1573,7 @@ _Garrick pockets the desk fan._
 
 🎱 | Astounding yes, Zander.
 
-**RPRetribution** _(25-Jun-18 03:41 PM)_
+**RPretribution** _(25-Jun-18 03:41 PM)_
 
 > I mean, it's too late.
 
@@ -1593,7 +1593,7 @@ _Garrick pockets the desk fan._
 
 🎱 | Lowercase no, Zander.
 
-**RPRetribution** _(25-Jun-18 03:42 PM)_
+**RPretribution** _(25-Jun-18 03:42 PM)_
 
 _Garrick rotates slowly, sliding his view towards the police officer. He speaks monotone, almost like a robot._
 
@@ -1612,7 +1612,7 @@ _Garrick rotates slowly, sliding his view towards the police officer. He speaks 
 > So, what's your plan?
 > Sell me to some hot-shot off-planet?
 
-**RPRetribution** _(25-Jun-18 03:43 PM)_
+**RPretribution** _(25-Jun-18 03:43 PM)_
 
 _Garrick overhears the others and speaks loudly so they could hear him._
 
@@ -1632,7 +1632,7 @@ _Emmett takes out some ingredients to make a cake._
 
 > Strawberry shortcake.
 
-**RPRetribution** _(25-Jun-18 03:44 PM)_
+**RPretribution** _(25-Jun-18 03:44 PM)_
 
 _Garrick sighs._
 
@@ -1672,7 +1672,7 @@ _Jim, having been brought to the same room with the co-worker by the others, duc
 
 🎱 | Nah, Zander.
 
-**RPRetribution** _(25-Jun-18 03:46 PM)_
+**RPretribution** _(25-Jun-18 03:46 PM)_
 
 _Tons of bullets phase directly through Garrick, who sat there, confused._
 
@@ -1686,7 +1686,7 @@ _Tons of bullets phase directly through Garrick, who sat there, confused._
 
 🎱 | Yeah, PlasmaPerson.
 
-**RPRetribution** _(25-Jun-18 03:47 PM)_
+**RPretribution** _(25-Jun-18 03:47 PM)_
 
 > Can we just kill her?
 
@@ -1723,15 +1723,15 @@ _Asier prods Jim._
 
 > Get Bail to a medic!
 
-**RPRetribution** _(25-Jun-18 03:50 PM)_
+**RPretribution** _(25-Jun-18 03:50 PM)_
 
 t!choose Take Bail to a medic | Don't take Bail to a medic
 
 **Tatsumaki** _(25-Jun-18 03:50 PM)_
 
-🤔 | RPRetribution, I pick Take Bail to a medic!
+🤔 | RPretribution, I pick Take Bail to a medic!
 
-**RPRetribution** _(25-Jun-18 03:50 PM)_
+**RPretribution** _(25-Jun-18 03:50 PM)_
 
 > Fine, I will.
 
@@ -1819,7 +1819,7 @@ _Emmett claps._
 
 🎱 | Rolling a d20 to determine... Rolled a 19! Yes, Zander.
 
-**RPRetribution** _(25-Jun-18 03:57 PM)_
+**RPretribution** _(25-Jun-18 03:57 PM)_
 
 _Garrick follows Seth, seeing Seth start to destroy everything._
 
@@ -1867,19 +1867,19 @@ _Asier winks and starts to phase outside the station._
 
 > Unless you want to come with us...
 
-**RPRetribution** _(25-Jun-18 04:02 PM)_
+**RPretribution** _(25-Jun-18 04:02 PM)_
 
 @Magic8Ball Does Garrick go to the ship?
 
 **Magic8Ball** _(25-Jun-18 04:02 PM)_
 
-🎱 | Rolling a d20 to determine... Rolled a 1! No, RPRetribution.
+🎱 | Rolling a d20 to determine... Rolled a 1! No, RPretribution.
 
 **TheBlade** _(25-Jun-18 04:02 PM)_
 
 > Well, I kind of just texted for backup...
 
-**RPRetribution** _(25-Jun-18 04:02 PM)_
+**RPretribution** _(25-Jun-18 04:02 PM)_
 
 > Alright, fine.
 
@@ -1895,7 +1895,7 @@ _Emmett, getting impatient from what he was hearing, blurts out into his comms._
 
 > Asier, tell him to join or be sold on the dark web.
 
-**RPRetribution** _(25-Jun-18 04:03 PM)_
+**RPretribution** _(25-Jun-18 04:03 PM)_
 
 > I don't want anything to do with that ship.
 
@@ -1906,7 +1906,7 @@ _Garrick sticks his tongue out, still facing Janis, who fell unconscious from th
 > You know what? fuck it, im tired of this stupid life.
 > Take me with you.
 
-**RPRetribution** _(25-Jun-18 04:03 PM)_
+**RPretribution** _(25-Jun-18 04:03 PM)_
 
 > It probably smells like strawberry pastries, based on what I'm hearing.
 
@@ -1922,7 +1922,7 @@ _Garrick sticks his tongue out, still facing Janis, who fell unconscious from th
 
 🎱 | Wait to ask this again, Zander.
 
-**RPRetribution** _(25-Jun-18 04:04 PM)_
+**RPretribution** _(25-Jun-18 04:04 PM)_
 
 _Garrick groans._
 
@@ -1977,7 +1977,7 @@ _Emmett was giddy over his strawberty goods._
 
 > I refuse to be the janitor!
 
-**RPRetribution** _(25-Jun-18 04:06 PM)_
+**RPretribution** _(25-Jun-18 04:06 PM)_
 
 _Garrick enters the ship and pokes Asier._
 
@@ -2010,7 +2010,7 @@ _Emmett smiles and lists out his confectionary goods he's baked._
 > Take your pick!
 > I'm taking my strawberry shortcake.
 
-**RPRetribution** _(25-Jun-18 04:08 PM)_
+**RPretribution** _(25-Jun-18 04:08 PM)_
 
 _Garrick grabs the strawberry muffins, disgusted from the smell, but pleasantly surprised from the taste._
 
@@ -2062,7 +2062,7 @@ _Asier grabs and eats some of the chocolate-covered stawberries, making him even
 
 🎱 | Yeah, TheBlade.
 
-**RPRetribution** _(25-Jun-18 04:12 PM)_
+**RPretribution** _(25-Jun-18 04:12 PM)_
 
 > I would, but it's not my turn.
 
@@ -2099,13 +2099,13 @@ _Jim shakes Emmett's hoof._
 
 > So where are we heading, anyhow?
 
-**RPRetribution** _(25-Jun-18 04:17 PM)_
+**RPretribution** _(25-Jun-18 04:17 PM)_
 
 t!choose Garrick gets guns | Garrick gets money | Garrick gets a mug | Garrick gets PTSD
 
 **Tatsumaki** _(25-Jun-18 04:17 PM)_
 
-🤔 | RPRetribution, I pick Garrick gets PTSD!
+🤔 | RPretribution, I pick Garrick gets PTSD!
 
 **TheBlade** _(25-Jun-18 04:17 PM)_
 
@@ -2166,7 +2166,7 @@ t!choose Asier gets 1 Duckett | Asier gets a rad fedora | Asier gets medical sup
 
 🤔 | PlasmaPerson, I pick Asier gets medical supplies!
 
-**RPRetribution** _(25-Jun-18 04:22 PM)_
+**RPretribution** _(25-Jun-18 04:22 PM)_
 
 > Hey, just be glad you got something.
 
@@ -2177,7 +2177,7 @@ _Garrick looks into a mirror dead-eyed, devastated from the events that occurred
 > Yeah, now we can heal things.
 > Maybe I can heal your PTSD, Garrick.
 
-**RPRetribution** _(25-Jun-18 04:23 PM)_
+**RPretribution** _(25-Jun-18 04:23 PM)_
 
 _Garrick speaks softly, distraught._
 

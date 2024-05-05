@@ -14,7 +14,7 @@ def get_character_from_player(player):
         case "Sean":
             return "Seth"
         case "Brody":
-            return "Serpile"
+            return "Bail"
         case "Maxwell":
             return "Matthias"
         case "Josh":
@@ -44,6 +44,8 @@ def get_player_from_username(username):
             return "Jonas"
         case "Master JRM":
             return "Josh"
+        case "RPretribution":
+            return "Trey"
         case _:
             return username
 
@@ -86,11 +88,6 @@ def parse_blocks(md_file):
                 else:
                     current_block["content"].append(line[2:])
                 current_block["quotes"].append(len(current_block["content"]) - 1)
-            elif line.startswith("t!") or line.startswith("@Magic"):
-                if not current_block.get("commands"):
-                    current_block["commands"] = []
-                current_block["content"].append(line)
-                current_block["commands"].append(len(current_block["content"]) - 1)
             elif re.search(r"_(.+)_", line):
                 if not current_block.get("actions"):
                     current_block["actions"] = []
@@ -103,6 +100,22 @@ def parse_blocks(md_file):
                 else:
                     current_block["content"].append(re.search(r"_(.+)_", line).group(1))
                 current_block["actions"].append(len(current_block["content"]) - 1)
+            elif (
+                current_block["player"] != "FF 8 Ball"
+                and "t!" in line
+                or "@Magic" in line
+            ):
+                if not current_block.get("commands"):
+                    current_block["commands"] = []
+
+                if line.startswith("`") and "`:" in line:
+                    character_command = re.search(r"`(.+)`: (.+)", line)
+                    current_block["character"] = character_command.group(1)
+                    command = character_command.group(2)
+                    current_block["content"].append(command)
+                else:
+                    current_block["content"].append(line)
+                current_block["commands"].append(len(current_block["content"]) - 1)
             else:
                 if not current_block.get("other"):
                     current_block["other"] = []
@@ -122,13 +135,13 @@ def convert_to_json(blocks, json_file):
 
 
 if __name__ == "__main__":
-    md_file = "./md/ff2/dreamin-scary.md"
-    json_file = "../../src/assets/json/archives/ff2/dreamin-scary.json"
+    md_file = "./md/ff2/police-brutality.md"
+    json_file = "../../src/assets/json/archives/ff2/police-brutality.json"
     blocks = parse_blocks(md_file)
     episode_dict = {
-        "title": "Dreamin' Scary",
-        "episode_number": 4,
-        "short_desc": "Some of the crew is stuck in an awful raunchy shared dream.",
+        "title": "Police Brutality",
+        "episode_number": 5,
+        "short_desc": "The crew decides to raid a police station and gets more than they bargained for.",
         "blocks": blocks,
     }
     convert_to_json(episode_dict, json_file)

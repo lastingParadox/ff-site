@@ -50,7 +50,10 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     const [searchParams, setSearchParams] = useSearchParams();
     const { colorMode } = useContext(ColorModeContext);
     const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
-    const characterColor = useMemo(() => getCharacterColor(chosenCharacter, colorMode), [chosenCharacter, colorMode]);
+    const characterColor = useMemo(
+        () => (loading ? 'transparent' : getCharacterColor(chosenCharacter, colorMode)),
+        [chosenCharacter, colorMode, loading]
+    );
 
     // We use dynamic imports to load the avatar image of the character, considering that the images are named after the character's name.
     useEffect(() => {
@@ -112,10 +115,11 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     // Get the character's avatar based on the character's name.
     const getCharacterAvatar = useCallback(
         (character: string) => {
-            const color = loading ? 'transparent' : characterColor;
             return {
                 sx: {
-                    backgroundColor: avatar ? undefined : color,
+                    color: characterColor,
+                    borderColor: characterColor,
+                    backgroundColor: characterColor + 40,
                     height: 56,
                     width: 56,
                     marginTop: 1,
@@ -123,24 +127,41 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                 children: loading ? '' : character[0].toUpperCase(),
             };
         },
-        [avatar, characterColor, loading]
+        [characterColor, loading]
     );
 
     return (
         <div id={`${id}`} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', flexGrow: 1 }}>
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12, width: '100%' }}>
-                <Avatar
-                    {...getCharacterAvatar(chosenCharacter)}
-                    src={avatar}
-                    variant={avatar ? 'square' : 'circular'}
-                    className={styles.avatar}
-                    style={{
-                        color: characterColor,
-                        borderColor: characterColor,
-                        backgroundColor: characterColor + 40,
-                    }}
-                />
-                <Card sx={{ flexGrow: 1, padding: 2, overflowWrap: 'anywhere' }}>
+                {!avatar ? (
+                    <Avatar
+                        {...getCharacterAvatar(chosenCharacter)}
+                        src={avatar}
+                        variant={avatar ? 'square' : 'circular'}
+                        className={styles.avatar}
+                        style={{}}
+                    />
+                ) : (
+                    <div
+                        className={styles.avatarDiv}
+                        style={
+                            {
+                                // color: loading ? 'transparent' : characterColor,
+                                // borderColor: loading ? 'transparent' : characterColor,
+                                // backgroundColor: loading ? 'transparent' : characterColor + 40,
+                            }
+                        }
+                    >
+                        <img
+                            src={avatar}
+                            alt={chosenCharacter}
+                            style={{
+                                filter: `drop-shadow(4px 0 0 ${characterColor}) drop-shadow(0 4px 0 ${characterColor}) drop-shadow(-4px 0 0 ${characterColor}) drop-shadow(0 -4px 0 ${characterColor})`,
+                            }}
+                        />
+                    </div>
+                )}
+                <Card sx={{ flexGrow: 1, padding: 2, overflowWrap: 'anywhere', backgroundColor: characterColor + 40 }}>
                     <div
                         style={{
                             display: 'flex',
