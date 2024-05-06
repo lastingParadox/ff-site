@@ -41,7 +41,6 @@ const PixelArtWithOutline: React.FC<{ imageUrl: string; color?: string; zoom?: n
 
                     // Pixel to the left
                     if (x > 0 && data[i - 1] !== 0 && y < canvas.height - 1) {
-                        console.log(imageUrl, x, y);
                         fillPixels.push(i);
                     }
                     // Pixel to the right
