@@ -115,7 +115,7 @@ const StoryBlockInfiniteScroll = forwardRef(function StoryBlockInfiniteScroll(
     ref: React.ForwardedRef<VListHandle>
 ) {
     return (
-        <VList ref={ref} style={{ height: 700 }}>
+        <VList ref={ref} style={{ height: 700, padding: '10px 0' }}>
             {blocks.map((block, index) => (
                 <div
                     key={`${block.player}-${index}-${block.date}-container`}
