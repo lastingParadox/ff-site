@@ -7,6 +7,7 @@ import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
 import PixelArtWithOutline from '../PixelArtWithOutline/PixelArtWithOutline';
 import { ClosedCaptionDisabledOutlined } from '@mui/icons-material';
+import { useSearchParams } from 'react-router-dom';
 /*
     This component is used to display a card with a story block.
     A story block consists of an avatar of the character, the name of the character, and stylized text.
@@ -50,6 +51,8 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     const [avatar, setAvatar] = useState<string>();
     const [hovering, setHovering] = useState(false);
     const [open, setOpen] = useState(false);
+    const [searchParams] = useSearchParams();
+    const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
     const [query, setQuery] = useState<number>(-1);
     const { colorMode } = useContext(ColorModeContext);
     const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
@@ -115,11 +118,10 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     );
 
     useEffect(() => {
-        if (new URL(window.location.href).searchParams.toString().length !== 0) {
-            setQuery(parseInt(window.location.href.split('?line=')[1]));
-            console.log("Search params exist:", new URL(window.location.href).searchParams.toString());
+        if (lineParam) {
+            setQuery(parseInt(lineParam));
         }
-    })
+    }, [lineParam]);
 
     return (
         <div
@@ -144,12 +146,9 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                 )}
                 <Card
                     sx={{ flexGrow: 1, padding: 2, overflowWrap: 'anywhere', backgroundColor: characterColor + 10 }}
-                    style={query == -1
-                                ? {}
-                                : query === id
-                                ? { boxShadow: `0px 0px 4px 4px ${characterColor + 80   }` }
-                                : {}
-                            }
+                    style={
+                        query == -1 ? {} : query === id ? { boxShadow: `0px 0px 4px 4px ${characterColor + 80}` } : {}
+                    }
                 >
                     <div
                         style={{
