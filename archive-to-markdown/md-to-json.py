@@ -176,7 +176,7 @@ def convert_to_json(blocks, json_file):
 
 if __name__ == "__main__":
     md_file = "./md/ff2/police-brutality.md"
-    json_file = "../src/assets/json/archives/ff2/police-brutality-test.json"
+    json_file = "../src/assets/json/archives/ff2/police-brutality.json"
     blocks = parse_blocks(md_file)
     episode_dict = {
         "title": "Police Brutality",
