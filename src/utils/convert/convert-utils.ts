@@ -192,30 +192,18 @@ function guToEarth(
 // Test cases
 function test() {
     const testCases: [number[], number[]][] = [
-        [
-            [2023, 5, 1, 12, 0, 0, 0],
-            [2023, 5, 1, 12, 0, 0, 0],
-        ],
-        [
-            [2022, 12, 31, 23, 59, 59, 999],
-            [2022, 12, 31, 23, 59, 59, 999],
-        ],
-        [
-            [2000, 1, 1, 0, 0, 0, 0],
-            [2000, 1, 1, 0, 0, 0, 0],
-        ],
-        [
-            [1970, 1, 1, 0, 0, 0, 0],
-            [1970, 1, 1, 0, 0, 0, 0],
-        ],
-        [
-            [1900, 2, 28, 23, 59, 59, 999],
-            [1900, 2, 28, 23, 59, 59, 999],
-        ],
+        [[2023, 5, 1, 12, 0, 0, 0], [2023, 5, 1, 12, 0, 0, 0]],
+        [[2022, 12, 31, 23, 59, 59, 999], [2022, 12, 31, 23, 59, 59, 999]],
+        [[2000, 1, 1, 0, 0, 0, 0], [2000, 1, 1, 0, 0, 0, 0]],
+        [[1970, 1, 1, 0, 0, 0, 0], [1970, 1, 1, 0, 0, 0, 0]],
+        [[1900, 2, 28, 23, 59, 59, 999], [1900, 2, 28, 23, 59, 59, 999]],
     ];
 
     let allMatch = true;
-    for (const [input] of testCases as [[number, number, number, number, number, number, number], number[]][]) {
+    for (const [input] of testCases as [
+        [number, number, number, number, number, number, number],
+        number[]
+    ][]) {
         const guTime: [number, number, number, number, number, number, number] = earthToGU(...input);
         const earthTime = guToEarth(...guTime);
         const inputStr = input.join(', ');
