@@ -186,3 +186,47 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
         </div>
     );
 }
+
+const Quote = ({ text }: { text: string }) => {
+    return (
+        <Typography variant='body1' sx={{ width: 'fit-content' }}>
+            {text}
+        </Typography>
+    );
+};
+
+const Command = ({ text, color }: { text: string; color: string }) => {
+    return (
+        <Typography
+            variant='body1'
+            sx={{
+                border: `1px solid ${color}`,
+                borderRadius: 1,
+                color: `${color}`,
+                padding: '4px 8px',
+                backgroundColor: `${color}20`,
+                fontFamily: 'monospace',
+                fontWeight: 400,
+                width: 'fit-content',
+            }}
+        >
+            {text}
+        </Typography>
+    );
+};
+
+const Action = ({ text }: { text: string }) => {
+    return (
+        <Typography variant='body2' sx={{ fontSize: 'italic', width: 'fit-content' }}>
+            {text}
+        </Typography>
+    );
+};
+
+const Other = ({ text }: { text: string }) => {
+    return (
+        <Typography variant='body1' sx={{ width: 'fit-content' }}>
+            {text}
+        </Typography>
+    );
+};

@@ -53,15 +53,20 @@ def get_player_from_username(username):
 def parse_blocks(md_file):
     blocks = []
     current_block = {}
+    current_embed = {}
     with open(md_file, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if not line:  # Skip empty lines
                 continue
+            line = emoji.emojize(emoji.demojize(line))
             # Title Case
             if line.startswith("**") and "_(" in line and ")" in line:
+                if current_embed:
+                    current_block["content"].append(current_embed)
                 if current_block:
                     blocks.append(current_block)
+                current_embed = {}
                 current_block = {
                     "content": [],
                 }
@@ -73,6 +78,28 @@ def parse_blocks(md_file):
                     current_block["player"]
                 )
                 current_block["date"] = player_date.group(2)
+            # Embed Case
+            # Line starts with <title>, <description>, or <footer> and ends with </title>, </description>, or </footer>
+            elif line.startswith("<") and line.endswith(">"):
+                if "title" in line:
+                    if current_embed:
+                        current_block["content"].append(current_embed)
+                        current_embed = {}
+                    current_embed = {"type": "embed"}
+                    if "embed" not in current_embed:
+                        current_embed["embed"] = {}
+                    current_embed["embed"]["title"] = line[7:-8]
+                elif "description" in line:
+                    if "embed" not in current_embed:
+                        current_embed["embed"] = {}
+                    if not "description" in current_embed["embed"]:
+                        current_embed["embed"]["description"] = [line[13:-14]]
+                    else:
+                        current_embed["embed"]["description"].append(line[13:-14])
+                elif "footer" in line:
+                    if "embed" not in current_embed:
+                        current_embed["embed"] = {}
+                    current_embed["embed"]["footer"] = line[8:-9]
             # Bot Case
             elif current_block["player"] == "FF 8 Ball":
                 dict = {
@@ -125,15 +152,18 @@ def parse_blocks(md_file):
 
                 current_block["content"].append(dict)
             else:
-                dict = {
-                    "type": "other",
-                }
+                if current_embed:
+                    if "description" not in current_embed["embed"]:
+                        current_embed["embed"]["description"] = [line]
+                    else:
+                        current_embed["embed"]["description"].append(line)
+                else:
+                    dict = {
+                        "type": "other",
+                    }
 
-                line_with_emojis = emoji.demojize(line)
-                line_with_emojis = emoji.emojize(line_with_emojis)
-
-                dict["text"] = line_with_emojis
-                current_block["content"].append(dict)
+                    dict["text"] = line
+                    current_block["content"].append(dict)
     if current_block:
         blocks.append(current_block)
     return blocks
