@@ -9,16 +9,26 @@ export type Episode = {
 export type StoryBlock = {
     player: string;
     character: string | null;
-    content: string[];
+    content: (GeneralContent | EmbedContent)[];
     date: string;
-    quotes: number[] | null;
-    commands: number[] | null;
-    actions: number[] | null;
-    other: number[] | null;
+};
+
+export type GeneralContent = {
+    type: 'quote' | 'bot_response' | 'command' | 'action' | 'other';
+    text: string;
+};
+
+export type EmbedContent = {
+    type: 'embed';
+    embed: {
+        title?: string;
+        description: string[];
+        footer?: string;
+    };
 };
 
 export type Commentary = {
     message_id: number;
     user_id: string;
     content: string;
-}
+};

@@ -1,12 +1,13 @@
 import { Avatar, Typography, Tooltip } from '@mui/material';
 import Card from '@mui/material/Card/Card';
 import CharacterColors from '@/assets/json/characterColors.json';
-import { StoryBlock as Block } from '@/types/Episodes';
+import { StoryBlock as Block, EmbedContent, GeneralContent } from '@/types/Episodes';
 import React, { useCallback, useEffect, useState, useContext, useMemo } from 'react';
 import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
 import PixelArtWithOutline from '../PixelArtWithOutline/PixelArtWithOutline';
 import { ClosedCaptionDisabledOutlined } from '@mui/icons-material';
+import { useSearchParams } from 'react-router-dom';
 /*
     This component is used to display a card with a story block.
     A story block consists of an avatar of the character, the name of the character, and stylized text.
@@ -50,6 +51,8 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     const [avatar, setAvatar] = useState<string>();
     const [hovering, setHovering] = useState(false);
     const [open, setOpen] = useState(false);
+    const [searchParams] = useSearchParams();
+    const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
     const [query, setQuery] = useState<number>(-1);
     const { colorMode } = useContext(ColorModeContext);
     const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
@@ -75,44 +78,25 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     }, [block.player, chosenCharacter]);
 
     // Get the correct style for the text based on the type of content.
-    const getCorrectText = useCallback(
-        (text: string, index: number) => {
-            const styleDict: { [name: string]: React.CSSProperties } = {
-                quotes: {},
-                commands: {
-                    border: `1px solid ${characterColor}`,
-                    borderRadius: 1,
-                    color: `${characterColor}`,
-                    padding: '4px 8px',
-                    backgroundColor: `${characterColor}20`,
-                    fontFamily: 'monospace',
-                    fontWeight: 400,
-                },
-                actions: { fontStyle: 'italic' },
-                other: {},
-            };
+    const getContentComponent = useCallback(
+        (content: GeneralContent | EmbedContent, index: number) => {
+            // TODO: Add support for embeds
+            if (content.type === 'embed') {
+                return <Other key={index} text={content.embed.description.join('\n')} />;
+            }
 
-            const styleObj = block.quotes?.includes(index)
-                ? styleDict.quotes
-                : block.commands?.includes(index)
-                ? styleDict.commands
-                : block.actions?.includes(index)
-                ? styleDict.actions
-                : styleDict.other;
-
-            const variant = block.actions?.includes(index) ? 'body2' : 'body1';
-
-            return (
-                <Typography
-                    variant={variant}
-                    sx={{ ...styleObj, width: 'fit-content' }}
-                    key={`${chosenCharacter}-${index}`}
-                >
-                    {text}
-                </Typography>
-            );
+            switch (content.type) {
+                case 'quote':
+                    return <Quote key={index} text={content.text} />;
+                case 'command':
+                    return <Command key={index} text={content.text} color={characterColor} />;
+                case 'action':
+                    return <Action key={index} text={content.text} />;
+                default:
+                    return <Other key={index} text={content.text} />;
+            }
         },
-        [block.actions, block.commands, block.quotes, characterColor, chosenCharacter]
+        [characterColor]
     );
 
     // Get the character's avatar based on the character's name.
@@ -134,11 +118,10 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     );
 
     useEffect(() => {
-        if (new URL(window.location.href).searchParams.toString().length !== 0) {
-            setQuery(parseInt(window.location.href.split('?line=')[1]));
-            console.log("Search params exist:", new URL(window.location.href).searchParams.toString());
+        if (lineParam) {
+            setQuery(parseInt(lineParam));
         }
-    })
+    }, [lineParam]);
 
     return (
         <div
@@ -163,12 +146,9 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                 )}
                 <Card
                     sx={{ flexGrow: 1, padding: 2, overflowWrap: 'anywhere', backgroundColor: characterColor + 10 }}
-                    style={query == -1
-                                ? {}
-                                : query === id
-                                ? { boxShadow: `0px 0px 4px 4px ${characterColor + 80   }` }
-                                : {}
-                            }
+                    style={
+                        query == -1 ? {} : query === id ? { boxShadow: `0px 0px 4px 4px ${characterColor + 80}` } : {}
+                    }
                 >
                     <div
                         style={{
@@ -194,7 +174,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                             gap: 8,
                         }}
                     >
-                        {block.content.map((text, index) => getCorrectText(text, index))}
+                        {block.content.map((content, index) => getContentComponent(content, index))}
                     </div>
                 </Card>
             </div>
@@ -257,7 +237,7 @@ const Command = ({ text, color }: { text: string; color: string }) => {
 
 const Action = ({ text }: { text: string }) => {
     return (
-        <Typography variant='body2' sx={{ fontSize: 'italic', width: 'fit-content' }}>
+        <Typography variant='body2' sx={{ fontStyle: 'italic', width: 'fit-content' }}>
             {text}
         </Typography>
     );

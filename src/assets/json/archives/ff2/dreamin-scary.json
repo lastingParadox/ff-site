@@ -4,2977 +4,3462 @@
     "short_desc": "Some of the crew is stuck in an awful raunchy shared dream.",
     "blocks": [
         {
-            "content": ["@Magic8Ball Did Seth dream a sexy dream for Emmett and himself?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Did Seth dream a sexy dream for Emmett and himself?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:02 PM"
         },
         {
-            "content": ["🎱 | Wait to ask this again, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Wait to ask this again, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:02 PM"
         },
         {
-            "content": ["@Magic8Ball Can a shadow even sleep?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Can a shadow even sleep?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:03 PM"
         },
         {
-            "content": ["🎱 | YES, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | YES, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:03 PM"
         },
         {
-            "content": ["Good nap.", "@Magic8Ball Does Emmett still see the stone women outside the ship?"],
-            "quotes": [0],
-            "commands": [1],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Good nap."
+                },
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett still see the stone women outside the ship?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:04 PM"
         },
         {
-            "content": ["🎱 | Astounding yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Astounding yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:05 PM"
         },
         {
-            "content": ["@Magic8Ball Are Asier, Emmett, Matthias, and Seth all in a shared dream?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Are Asier, Emmett, Matthias, and Seth all in a shared dream?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:05 PM"
         },
         {
-            "content": ["🎱 | Lowercase yes, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase yes, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:05 PM"
         },
         {
-            "content": ["Bad day."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Bad day."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:05 PM"
         },
         {
-            "content": ["That I can't deny, but I still don't feel rested.", "I am I even awake?"],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That I can't deny, but I still don't feel rested."
+                },
+                {
+                    "type": "quote",
+                    "text": "I am I even awake?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:05 PM"
         },
         {
-            "content": ["I don't know if you are."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I don't know if you are."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:06 PM"
         },
         {
-            "content": ["I don't think you are either."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I don't think you are either."
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["@Magic8Ball Is Seth not in the shared dream?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is Seth not in the shared dream?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["🎱 | NO, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | NO, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["How do we know?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "How do we know?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["Does it matter?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Does it matter?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["Nope."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Nope."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["I could cut you to see if you felt it."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I could cut you to see if you felt it."
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["I'm going back to bed.", "Seth flops back onto his bed."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm going back to bed."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth flops back onto his bed."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["My hoof still hurts.", "Emmett kicks the ground, still feeling the pain from his hoof wound."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "My hoof still hurts."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett kicks the ground, still feeling the pain from his hoof wound."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:07 PM"
         },
         {
-            "content": ["Good night."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Good night."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:08 PM"
         },
         {
             "content": [
-                "Well, some fables say that these are caused by stonewomen, and you can't actually rest.",
-                "You feel wide awake."
+                {
+                    "type": "quote",
+                    "text": "Well, some fables say that these are caused by stonewomen, and you can't actually rest."
+                },
+                {
+                    "type": "quote",
+                    "text": "You feel wide awake."
+                }
             ],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:08 PM"
         },
         {
-            "content": ["Blah blah blah, dumb magic humbo jumbo."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Blah blah blah, dumb magic humbo jumbo."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:08 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth somehow manage to find a way to sleep in a dream?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth somehow manage to find a way to sleep in a dream?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:08 PM"
         },
         {
-            "content": ["🎱 | Yay, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:08 PM"
         },
         {
             "content": [
-                "Wow, he must be a legend.",
-                "A dimension warper.",
-                "Or I'm insane.",
-                "That could be possible."
+                {
+                    "type": "quote",
+                    "text": "Wow, he must be a legend."
+                },
+                {
+                    "type": "quote",
+                    "text": "A dimension warper."
+                },
+                {
+                    "type": "quote",
+                    "text": "Or I'm insane."
+                },
+                {
+                    "type": "quote",
+                    "text": "That could be possible."
+                }
             ],
-            "quotes": [0, 1, 2, 3],
-            "commands": null,
-            "actions": null,
-            "other": null,
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:09 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth wake up again, but with stone crawling up his weewee?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth wake up again, but with stone crawling up his weewee?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:09 PM"
         },
         {
-            "content": ["🎱 | Lowercase yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:09 PM"
         },
         {
-            "content": ["I hope he has a dream about this dream."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I hope he has a dream about this dream."
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:09 PM"
         },
         {
-            "content": ["Nevermind."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Nevermind."
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:10 PM"
         },
         {
-            "content": ["Aaaand he's back up...", "Asier frowns."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Aaaand he's back up..."
+                },
+                {
+                    "type": "action",
+                    "text": "Asier frowns."
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:10 PM"
         },
         {
-            "content": ["This stone feels good...", "Seth moans into his comms watch."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "This stone feels good..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth moans into his comms watch."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:10 PM"
         },
         {
-            "content": ["What stone?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What stone?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:10 PM"
         },
         {
-            "content": ["@Magic8Ball Do I look around the dream?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Do I look around the dream?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:10 PM"
         },
         {
-            "content": ["🎱 | Yeah, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yeah, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:10 PM"
         },
         {
-            "content": ["What the hell is this place?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What the hell is this place?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:10 PM"
         },
         {
-            "content": ["@Magic8Ball Do I leave the ship and go home?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Do I leave the ship and go home?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:11 PM"
         },
         {
-            "content": ["🎱 | Rolling a d20 to determine... Rolled a 16! Yes, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20 to determine... Rolled a 16! Yes, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:11 PM"
         },
         {
-            "content": ["It still looks like the ship but something's off...", "@Magic8Ball Do we go outside?"],
-            "quotes": [0],
-            "commands": [1],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It still looks like the ship but something's off..."
+                },
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Do we go outside?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:11 PM"
         },
         {
-            "content": ["🎱 | Bagelwrecker says no, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Bagelwrecker says no, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:12 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth find the stone women in his old home on his planet?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth find the stone women in his old home on his planet?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:12 PM"
         },
         {
-            "content": ["🎱 | Astounding yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Astounding yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:12 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias find a tiny black spot on the walls?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias find a tiny black spot on the walls?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:13 PM"
         },
         {
-            "content": ["🎱 | Yeah, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yeah, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:13 PM"
         },
         {
-            "content": ["What's this...?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What's this...?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:13 PM"
         },
         {
-            "content": ["Definitely NOT earth."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Definitely NOT earth."
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:13 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth fuck the stonewomen?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth fuck the stonewomen?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:13 PM"
         },
         {
-            "content": ["🎱 | PlasmaPerson says no, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | PlasmaPerson says no, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:13 PM"
         },
         {
-            "content": ["@Magic8Ball Is the black spot steadily growing?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is the black spot steadily growing?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:14 PM"
         },
         {
-            "content": ["🎱 | Likely yes, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely yes, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:14 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Seth take off his pants and slap one of the stone women to death with his stone weewee?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth take off his pants and slap one of the stone women to death with his stone weewee?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:14 PM"
         },
         {
-            "content": ["🎱 | Nah, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Nah, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:14 PM"
         },
         {
             "content": [
-                "Seth takes off his clothes and flexes in front of the stone statues.",
-                "I will do you.",
-                "Do not worry.",
-                "It is a must."
+                {
+                    "type": "action",
+                    "text": "Seth takes off his clothes and flexes in front of the stone statues."
+                },
+                {
+                    "type": "quote",
+                    "text": "I will do you."
+                },
+                {
+                    "type": "quote",
+                    "text": "Do not worry."
+                },
+                {
+                    "type": "quote",
+                    "text": "It is a must."
+                }
             ],
-            "quotes": [1, 2, 3],
-            "commands": null,
-            "actions": [0],
-            "other": null,
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:14 PM"
         },
         {
-            "content": ["Ummm, it's growing."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ummm, it's growing."
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:15 PM"
         },
         {
-            "content": ["Guys?!", "That thing is getting bigger!", "Math get back!"],
-            "quotes": [0, 1, 2],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Guys?!"
+                },
+                {
+                    "type": "quote",
+                    "text": "That thing is getting bigger!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Math get back!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:15 PM"
         },
         {
-            "content": ["Uh, this is not good.", "@Magic8Ball Does another door open?"],
-            "quotes": [0],
-            "commands": [1],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Uh, this is not good."
+                },
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does another door open?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:15 PM"
         },
         {
-            "content": ["🎱 | Rolling a d20 to determine... Rolled a 8! No, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20 to determine... Rolled a 8! No, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:15 PM"
         },
         {
-            "content": ["No"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "No"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:16 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth walk into black spot with his cock out?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth walk into black spot with his cock out?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:16 PM"
         },
         {
-            "content": ["🎱 | Likely no, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely no, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:16 PM"
         },
         {
-            "content": ["@Magic8Ball Does the team run ofd the ship to get away from the void?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the team run ofd the ship to get away from the void?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:17 PM"
         },
         {
-            "content": ["🎱 | Rolling a d20 to determine... Rolled a 13! Yes, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20 to determine... Rolled a 13! Yes, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:17 PM"
         },
         {
-            "content": ["@Magic8Ball Does Goat Man Emmett feel a little sentimental about the void?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Goat Man Emmett feel a little sentimental about the void?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:18 PM"
         },
         {
-            "content": ["🎱 | Yay, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:18 PM"
         },
         {
-            "content": ["Alright, time to go!", "Everyone out!"],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Alright, time to go!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Everyone out!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:18 PM"
         },
         {
             "content": [
-                "Emmett sighs, staring into the growing black abyss.",
-                "You know, I think it's wanting us to come to it."
+                {
+                    "type": "action",
+                    "text": "Emmett sighs, staring into the growing black abyss."
+                },
+                {
+                    "type": "quote",
+                    "text": "You know, I think it's wanting us to come to it."
+                }
             ],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:18 PM"
         },
         {
-            "content": ["Don't do it!", "@Magic8Ball Does Matthias pull Emmett back?"],
-            "quotes": [0],
-            "commands": [1],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Don't do it!"
+                },
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias pull Emmett back?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:18 PM"
         },
         {
-            "content": ["🎱 | YES, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | YES, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:18 PM"
         },
         {
-            "content": ["@Magic8Ball Do the stonewomen start to fondle Math without his permission?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Do the stonewomen start to fondle Math without his permission?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:18 PM"
         },
         {
-            "content": ["🎱 | Astounding yes, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Astounding yes, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:18 PM"
         },
         {
-            "content": ["No, that's it trying to kill you!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "No, that's it trying to kill you!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:18 PM"
         },
         {
             "content": [
-                "Matthias feels the cold stone on his body and pushes against the stone statues desperately.",
-                "WHAT THE FUCK.",
-                "GET THE HELL OFF OF ME!"
+                {
+                    "type": "action",
+                    "text": "Matthias feels the cold stone on his body and pushes against the stone statues desperately."
+                },
+                {
+                    "type": "quote",
+                    "text": "WHAT THE FUCK."
+                },
+                {
+                    "type": "quote",
+                    "text": "GET THE HELL OFF OF ME!"
+                }
             ],
-            "quotes": [1, 2],
-            "commands": null,
-            "actions": [0],
-            "other": null,
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:18 PM"
         },
         {
-            "content": ["WEE WOO HEE HOO!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "WEE WOO HEE HOO!"
+                }
+            ],
             "player": "Zander",
             "character": "Stone Women",
             "date": "24-Jun-18 09:19 PM"
         },
         {
-            "content": ["Um...", "Asier, instead of helping Matthias, just stares at them in confusion.", "What?"],
-            "quotes": [0, 2],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Um..."
+                },
+                {
+                    "type": "action",
+                    "text": "Asier, instead of helping Matthias, just stares at them in confusion."
+                },
+                {
+                    "type": "quote",
+                    "text": "What?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:19 PM"
         },
         {
-            "content": ["FUCKIN HELP ME YA DOUCHEBAG!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "FUCKIN HELP ME YA DOUCHEBAG!"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:19 PM"
         },
         {
-            "content": ["SQUOAT TAOUQS!", "Squoat?"],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "SQUOAT TAOUQS!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Squoat?"
+                }
+            ],
             "player": "Zander",
             "character": "Stone Women",
             "date": "24-Jun-18 09:19 PM"
         },
         {
-            "content": ["Seth slaps his cock on the doorframe leading to the recreation block.", "Boat!"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth slaps his cock on the doorframe leading to the recreation block."
+                },
+                {
+                    "type": "quote",
+                    "text": "Boat!"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:20 PM"
         },
         {
-            "content": ["@Magic8Ball Does Asier threaten the stone women to get off of Matthias?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Asier threaten the stone women to get off of Matthias?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:20 PM"
         },
         {
-            "content": ["🎱 | Bagelwrecker says no, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Bagelwrecker says no, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:20 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias turn around and fuck the shit out of one of the stone statues?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias turn around and fuck the shit out of one of the stone statues?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["🎱 | NO, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | NO, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["Asier moves to the stonewomen and tries to drag them away from Matthias.", "Get off!"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Asier moves to the stonewomen and tries to drag them away from Matthias."
+                },
+                {
+                    "type": "quote",
+                    "text": "Get off!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["@Magic8Ball Does Emmett just seem to noclip into the void?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett just seem to noclip into the void?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["🎱 | Astounding yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Astounding yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth follow Emmett into the void?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth follow Emmett into the void?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["🎱 | Likely yes, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely yes, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["Seeya."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Seeya."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["Byeeeeeeeeeeeeeeee"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Byeeeeeeeeeeeeeeee"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:21 PM"
         },
         {
-            "content": ["$W@G M0N3Y."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "$W@G M0N3Y."
+                }
+            ],
             "player": "Zander",
             "character": "Stone Women",
             "date": "24-Jun-18 09:22 PM"
         },
         {
-            "content": ["Oh okay, I guess we're all going into the void now."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
-            "player": "Jonas",
-            "character": "Asier",
-            "date": "24-Jun-18 09:22 PM"
-        },
-        {
-            "content": ["Matthias continues to struggle.", "GET THIS THING OFFA ME HOMIE!"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "24-Jun-18 09:22 PM"
-        },
-        {
-            "content": ["@Magic8Ball Does Asier save Matthias?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh okay, I guess we're all going into the void now."
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:22 PM"
         },
         {
             "content": [
-                "🎱 | Zander says Yes, but it causes the stone women to rotate around both Asier and Matthias, PlasmaPerson."
+                {
+                    "type": "action",
+                    "text": "Matthias continues to struggle."
+                },
+                {
+                    "type": "quote",
+                    "text": "GET THIS THING OFFA ME HOMIE!"
+                }
             ],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "24-Jun-18 09:22 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Asier save Matthias?"
+                }
+            ],
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 09:22 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Zander says Yes, but it causes the stone women to rotate around both Asier and Matthias, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:22 PM"
         },
         {
-            "content": ["BIG BABY!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "BIG BABY!"
+                }
+            ],
             "player": "Sean",
             "character": "Stone Women",
             "date": "24-Jun-18 09:23 PM"
         },
         {
-            "content": ["@Magic8Ball Does Emmett find his Squommy in the Void?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett find his Squommy in the Void?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:23 PM"
         },
         {
-            "content": ["🎱 | Likely yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:23 PM"
         },
         {
-            "content": ["Hey, back off you creeps!", "Asier swats at the stonewomen to no avail."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hey, back off you creeps!"
+                },
+                {
+                    "type": "action",
+                    "text": "Asier swats at the stonewomen to no avail."
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:24 PM"
         },
         {
             "content": [
-                "IMMA POP A CAP IN YO MOTHAFUKIN STONY ASS CHEECKS YOU MOTHAFUKIN BITCHASS!!!1!111!",
-                "Matthias continues to say \"one\", taking out his arsenal."
+                {
+                    "type": "quote",
+                    "text": "IMMA POP A CAP IN YO MOTHAFUKIN STONY ASS CHEECKS YOU MOTHAFUKIN BITCHASS!!!1!111!"
+                },
+                {
+                    "type": "action",
+                    "text": "Matthias continues to say \"one\", taking out his arsenal."
+                }
             ],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:24 PM"
         },
         {
-            "content": ["Do it!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Do it!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:24 PM"
         },
         {
-            "content": ["This void has a lot of holes man.", "Seth proceeds to become more aroused."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "This void has a lot of holes man."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth proceeds to become more aroused."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:24 PM"
         },
         {
-            "content": ["Squom?", "Emmett hugs the void, somehow."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Squom?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett hugs the void, somehow."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:24 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Matthias pull out his shotguns and shoot the shit out of all of the stonewomen, also ripping a hole in the void?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias pull out his shotguns and shoot the shit out of all of the stonewomen, also ripping a hole in the void?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:24 PM"
         },
         {
-            "content": ["🎱 | Yes, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:24 PM"
         },
         {
-            "content": ["@Magic8Ball Do Matthias's hands turn into bricks?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Do Matthias's hands turn into bricks?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:25 PM"
         },
         {
-            "content": ["🎱 | Lowercase yes, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase yes, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:25 PM"
         },
         {
             "content": [
-                "Matthias drops his shotguns and looks at his hands in horror.",
-                "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!111111111111!1!!11!!11!1111"
+                {
+                    "type": "action",
+                    "text": "Matthias drops his shotguns and looks at his hands in horror."
+                },
+                {
+                    "type": "quote",
+                    "text": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!111111111111!1!!11!!11!1111"
+                }
             ],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:25 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Asier cut the bricks off of Matthias's arms, therefore turning them back to normal?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Asier cut the bricks off of Matthias's arms, therefore turning them back to normal?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Jonas",
-            "character": "Asier",
-            "date": "24-Jun-18 09:26 PM"
-        },
-        {
-            "content": ["🎱 | Lowercase yes, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "24-Jun-18 09:26 PM"
-        },
-        {
-            "content": ["Bricks are very hard to cut, to be fair!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:26 PM"
         },
         {
             "content": [
-                "I don't give a flying fuck as long as these shitheads are dead!",
-                "Matthias manages to pick up his shotguns from the void and continues to shoot at the statues."
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase yes, PlasmaPerson."
+                }
             ],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 09:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Bricks are very hard to cut, to be fair!"
+                }
+            ],
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 09:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I don't give a flying fuck as long as these shitheads are dead!"
+                },
+                {
+                    "type": "action",
+                    "text": "Matthias manages to pick up his shotguns from the void and continues to shoot at the statues."
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:27 PM"
         },
         {
-            "content": ["@Magic8Ball Does Emmett hold onto Seth and his Squommy?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett hold onto Seth and his Squommy?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:27 PM"
         },
         {
-            "content": ["🎱 | PlasmaPerson says no, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | PlasmaPerson says no, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:27 PM"
         },
         {
-            "content": ["No!", "Get yourselves out!"],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "No!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Get yourselves out!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:28 PM"
         },
         {
-            "content": ["Emmett and Seth, seemingly corrupted by the void, proceed to chant.", "Brick!"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett and Seth, seemingly corrupted by the void, proceed to chant."
+                },
+                {
+                    "type": "quote",
+                    "text": "Brick!"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:28 PM"
         },
         {
-            "content": ["Stone!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Stone!"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:28 PM"
         },
         {
-            "content": ["Rubber Scone!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Rubber Scone!"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:28 PM"
         },
         {
-            "content": ["Butt!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Butt!"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:28 PM"
         },
         {
-            "content": ["Mutt!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Mutt!"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:28 PM"
         },
         {
-            "content": ["Rutt!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Rutt!"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:28 PM"
         },
         {
-            "content": ["Tiny Big Nut!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Tiny Big Nut!"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:29 PM"
         },
         {
-            "content": ["Cut!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Cut!"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:29 PM"
         },
         {
-            "content": ["@Magic8Ball Do Asier and Matthias yeet the shit out of here?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Do Asier and Matthias yeet the shit out of here?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:29 PM"
         },
         {
-            "content": ["🎱 | Likely no, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely no, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:29 PM"
         },
         {
             "content": [
-                "@Magic8Ball Do both Asier and Math's arms turn into screaming little babies with huge penises?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Do both Asier and Math's arms turn into screaming little babies with huge penises?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:29 PM"
         },
         {
-            "content": ["🎱 | Rolling a d20 to determine... Rolled a 8! No, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20 to determine... Rolled a 8! No, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:29 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Asier draw his swords and, alongside Matthias, destroys all of the statue thots?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Asier draw his swords and, alongside Matthias, destroys all of the statue thots?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:30 PM"
         },
         {
             "content": [
-                "🎱 | Zander says they kill some of them, but half of the living ones turn into Math's mom and the other half turn into Asier's mom, PlasmaPerson."
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Zander says they kill some of them, but half of the living ones turn into Math's mom and the other half turn into Asier's mom, PlasmaPerson."
+                }
             ],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:30 PM"
         },
         {
-            "content": ["@Magic8Ball After the void closes, does Emmett immediately grab some grass as comfort food?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball After the void closes, does Emmett immediately grab some grass as comfort food?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:31 PM"
         },
         {
-            "content": ["🎱 | Astounding yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Astounding yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:32 PM"
         },
         {
             "content": [
-                "Maybe if we pinch each other then we'll wake up!",
-                "Asier pinches Matthias before he backs away from him."
+                {
+                    "type": "quote",
+                    "text": "Maybe if we pinch each other then we'll wake up!"
+                },
+                {
+                    "type": "action",
+                    "text": "Asier pinches Matthias before he backs away from him."
+                }
             ],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:33 PM"
         },
         {
-            "content": ["I'll shoot myself in the fucking eye."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'll shoot myself in the fucking eye."
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:33 PM"
         },
         {
-            "content": ["Good!", "Seth humps the air in success."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Good!"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth humps the air in success."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:33 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias blow his brains out, therefore waking up?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "24-Jun-18 09:34 PM"
-        },
-        {
-            "content": ["🎱 | Nah, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "24-Jun-18 09:34 PM"
-        },
-        {
-            "content": ["What if it kills you in real life, Matthias?!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
-            "player": "Jonas",
-            "character": "Asier",
-            "date": "24-Jun-18 09:34 PM"
-        },
-        {
-            "content": ["IDGAF!", "I have crippling depression!", "Matthias points a shotgun at his beak."],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": [2],
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias blow his brains out, therefore waking up?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:34 PM"
         },
         {
             "content": [
-                "I AM EMMETT; YOU KILLED MY SQUOM. PREPARE TO DIE!",
-                "Emmett evilly brandishes his laser crossbow."
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Nah, Enchantingtable2013."
+                }
             ],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 09:34 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What if it kills you in real life, Matthias?!"
+                }
+            ],
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 09:34 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "IDGAF!"
+                },
+                {
+                    "type": "quote",
+                    "text": "I have crippling depression!"
+                },
+                {
+                    "type": "action",
+                    "text": "Matthias points a shotgun at his beak."
+                }
+            ],
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "24-Jun-18 09:34 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I AM EMMETT; YOU KILLED MY SQUOM. PREPARE TO DIE!"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett evilly brandishes his laser crossbow."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:35 PM"
         },
         {
-            "content": ["Do it!", "Fuckin pussy!"],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Do it!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Fuckin pussy!"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:35 PM"
         },
         {
-            "content": ["Asier snickers.", "Where I come from, that's what we call a meme!"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Asier snickers."
+                },
+                {
+                    "type": "quote",
+                    "text": "Where I come from, that's what we call a meme!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:35 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Emmett shoot Matthias in the head with his laser crossbow, thus waking him up?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett shoot Matthias in the head with his laser crossbow, thus waking him up?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:37 PM"
         },
         {
-            "content": ["🎱 | Rolling a d20 to determine... Rolled a 5! No, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20 to determine... Rolled a 5! No, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:37 PM"
         },
         {
             "content": [
-                "Emmett drops the crossbow, upset that Matthias is embracing his potential murder.",
-                "Fuck you!",
-                "I'm not doing it."
+                {
+                    "type": "action",
+                    "text": "Emmett drops the crossbow, upset that Matthias is embracing his potential murder."
+                },
+                {
+                    "type": "quote",
+                    "text": "Fuck you!"
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm not doing it."
+                }
             ],
-            "quotes": [1, 2],
-            "commands": null,
-            "actions": [0],
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:37 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias blow the shit out of his brains, waking himself up?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias blow the shit out of his brains, waking himself up?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:37 PM"
         },
         {
-            "content": ["🎱 | Maybe, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Maybe, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:37 PM"
         },
         {
-            "content": ["I'm not sure killing each other will wake us up, guys."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm not sure killing each other will wake us up, guys."
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:37 PM"
         },
         {
-            "content": ["It appears that Emmett's behavior is still corrupted by the void.", "Poopie haha!"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "It appears that Emmett's behavior is still corrupted by the void."
+                },
+                {
+                    "type": "quote",
+                    "text": "Poopie haha!"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:37 PM"
         },
         {
-            "content": ["Can't tell until we try!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Can't tell until we try!"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:37 PM"
         },
         {
-            "content": ["Fair enough."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Fair enough."
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:38 PM"
         },
         {
-            "content": ["And I volunteer.", "Kill the shit outta' me!"],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "And I volunteer."
+                },
+                {
+                    "type": "quote",
+                    "text": "Kill the shit outta' me!"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:38 PM"
         },
         {
-            "content": ["@Magic8Ball Does Asier use his swordsman skills to kill everyone, waking everyone up?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Asier use his swordsman skills to kill everyone, waking everyone up?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:39 PM"
         },
         {
-            "content": ["🎱 | NO, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | NO, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:39 PM"
         },
         {
-            "content": ["@Magic8Ball Does Asier use his swordsman skills to kill everyone, waking everyone up?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Asier use his swordsman skills to kill everyone, waking everyone up?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:41 PM"
         },
         {
-            "content": ["🎱 | Wait to ask this again, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Wait to ask this again, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:41 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Seth start contorting into a ball, with everyone else flexing into various other shapes on top of each other?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth start contorting into a ball, with everyone else flexing into various other shapes on top of each other?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:42 PM"
         },
         {
-            "content": ["🎱 | Yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "24-Jun-18 09:42 PM"
-        },
-        {
-            "content": ["@Magic8Ball Does Matthias blow the shit outta' his brains, therefore waking himself up?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "24-Jun-18 09:42 PM"
-        },
-        {
-            "content": ["🎱 | Zander says THAT A BIG PHAT NO, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:42 PM"
         },
         {
             "content": [
-                "Help! What's making me do this?",
-                "I do not wish to shapeshift right now!",
-                "@Magic8Ball Does Rawley save the group from the statue thots?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias blow the shit outta' his brains, therefore waking himself up?"
+                }
             ],
-            "quotes": [0, 1],
-            "commands": [2],
-            "actions": null,
-            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "24-Jun-18 09:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Zander says THAT A BIG PHAT NO, Enchantingtable2013."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 09:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Help! What's making me do this?"
+                },
+                {
+                    "type": "quote",
+                    "text": "I do not wish to shapeshift right now!"
+                },
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Rawley save the group from the statue thots?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:42 PM"
         },
         {
-            "content": ["🎱 | Yay, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:44 PM"
         },
         {
-            "content": ["Emmett rubs his eyes in disbelief, seemingly no longer corrupted.", "Is this real?"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett rubs his eyes in disbelief, seemingly no longer corrupted."
+                },
+                {
+                    "type": "quote",
+                    "text": "Is this real?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:45 PM"
         },
         {
             "content": [
-                "Thanks buddy!",
-                "Everyone contorts back into their normal selves, the distortion of the dream seeming to fade with the disappearance of the stonewomen.",
-                "Asier pets Rawley, having his arms back.",
-                "No, it's a dream...",
-                "Probably."
+                {
+                    "type": "quote",
+                    "text": "Thanks buddy!"
+                },
+                {
+                    "type": "action",
+                    "text": "Everyone contorts back into their normal selves, the distortion of the dream seeming to fade with the disappearance of the stonewomen."
+                },
+                {
+                    "type": "action",
+                    "text": "Asier pets Rawley, having his arms back."
+                },
+                {
+                    "type": "quote",
+                    "text": "No, it's a dream..."
+                },
+                {
+                    "type": "quote",
+                    "text": "Probably."
+                }
             ],
-            "quotes": [0, 3, 4],
-            "commands": null,
-            "actions": [1, 2],
-            "other": null,
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:45 PM"
         },
         {
-            "content": ["@Magic8Ball Does Rawley turn into scary popcorn suddenly?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Rawley turn into scary popcorn suddenly?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:45 PM"
         },
         {
-            "content": ["🎱 | Yay, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:45 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Matthias quickly take Asier's sword and stab himself in the brain, thus waking him up?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias quickly take Asier's sword and stab himself in the brain, thus waking him up?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:45 PM"
         },
         {
-            "content": ["🎱 | Resounding no, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Resounding no, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:45 PM"
         },
         {
-            "content": ["My sword!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "My sword!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:45 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias turn into a big baby with no arms?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias turn into a big baby with no arms?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:46 PM"
         },
         {
-            "content": ["🎱 | Yay, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:46 PM"
         },
         {
             "content": [
-                "What happened to Rawley!?!?",
-                "Asier picks up the scary popcorn flake.",
-                "Where did this popcorn come from!?!?"
+                {
+                    "type": "quote",
+                    "text": "What happened to Rawley!?!?"
+                },
+                {
+                    "type": "action",
+                    "text": "Asier picks up the scary popcorn flake."
+                },
+                {
+                    "type": "quote",
+                    "text": "Where did this popcorn come from!?!?"
+                }
             ],
-            "quotes": [0, 2],
-            "commands": null,
-            "actions": [1],
-            "other": null,
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:46 PM"
         },
         {
-            "content": ["🎱 | Wait to ask this again, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Wait to ask this again, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:47 PM"
         },
         {
-            "content": ["@Magic8Ball Are you gay?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Are you gay?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:47 PM"
         },
         {
-            "content": ["🎱 | Nah, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Nah, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:47 PM"
         },
         {
-            "content": ["Hey Seth?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hey Seth?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:48 PM"
         },
         {
-            "content": ["Yes?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yes?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:48 PM"
         },
         {
-            "content": ["I'm hungry."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm hungry."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:48 PM"
         },
         {
-            "content": ["You wanna go to that diner we always go to?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You wanna go to that diner we always go to?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:48 PM"
         },
         {
-            "content": ["There's one on Earth?", "@Magic8Ball Does Emmett put a shirt on?"],
-            "quotes": [0],
-            "commands": [1],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "There's one on Earth?"
+                },
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett put a shirt on?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:48 PM"
         },
         {
-            "content": ["🎱 | YES, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | YES, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:49 PM"
         },
         {
-            "content": ["There's one on all major planets!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "There's one on all major planets!"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:49 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth all of a sudden start getting molested by an invisible creature?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth all of a sudden start getting molested by an invisible creature?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:49 PM"
         },
         {
-            "content": ["🎱 | Yeah, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yeah, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:49 PM"
         },
         {
             "content": [
-                "Major planets, more like Major Tom!",
-                "Asier grabs one of Emmett's shirts and spins it in the air, yelling in excitement."
+                {
+                    "type": "quote",
+                    "text": "Major planets, more like Major Tom!"
+                },
+                {
+                    "type": "action",
+                    "text": "Asier grabs one of Emmett's shirts and spins it in the air, yelling in excitement."
+                }
             ],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:50 PM"
         },
         {
-            "content": ["Major scary popcorn.", "Emmett snatches his shirt from Asier."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Major scary popcorn."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett snatches his shirt from Asier."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:50 PM"
         },
         {
-            "content": ["@Magic8Ball Does the invisible creature switch to Matthias?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the invisible creature switch to Matthias?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:50 PM"
         },
         {
-            "content": ["🎱 | Likely no, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely no, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:50 PM"
         },
         {
-            "content": ["@Magic8Ball Is Bruno mars gay?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is Bruno mars gay?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:51 PM"
         },
         {
-            "content": ["🎱 | Nah, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Nah, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:51 PM"
         },
         {
-            "content": ["@Magic8Ball Is Asier suddenly being taken to the diner where we always eat at?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is Asier suddenly being taken to the diner where we always eat at?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:52 PM"
         },
         {
-            "content": ["🎱 | Lowercase no, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase no, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:52 PM"
         },
         {
-            "content": ["@Magic8Ball Does the creature finally leave Seth?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the creature finally leave Seth?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:53 PM"
         },
         {
-            "content": ["🎱 | Likely yes, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely yes, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:53 PM"
         },
         {
-            "content": ["@Magic8Ball Does Anus Dolphin rape math?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Anus Dolphin rape math?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:53 PM"
         },
         {
-            "content": ["🎱 | Rolling a d20 to determine... Rolled a 1! No, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20 to determine... Rolled a 1! No, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:53 PM"
         },
         {
-            "content": ["@Magic8Ball Does the whole team go to the diner?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Jonas",
-            "character": "Asier",
-            "date": "24-Jun-18 09:54 PM"
-        },
-        {
-            "content": ["🎱 | Resounding no, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "24-Jun-18 09:54 PM"
-        },
-        {
-            "content": ["Food sounds good!"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the whole team go to the diner?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:54 PM"
         },
         {
             "content": [
-                "@Magic8Ball Do Asier and Emmett go to the diner, leaving possibly a marble and a raped man behind?"
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Resounding no, PlasmaPerson."
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "24-Jun-18 09:54 PM"
-        },
-        {
-            "content": ["🎱 | Enchantingtable2013 says no, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:54 PM"
         },
         {
-            "content": ["I would, but Squoat is telling me no.", "Emmett raises an eyebrow.", "Unfortunately."],
-            "quotes": [0, 2],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Food sounds good!"
+                }
+            ],
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 09:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Do Asier and Emmett go to the diner, leaving possibly a marble and a raped man behind?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "24-Jun-18 09:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Enchantingtable2013 says no, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 09:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I would, but Squoat is telling me no."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett raises an eyebrow."
+                },
+                {
+                    "type": "quote",
+                    "text": "Unfortunately."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:55 PM"
         },
         {
-            "content": ["Anyone else up for some grub?"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Anyone else up for some grub?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:55 PM"
         },
         {
-            "content": ["Tells me it's a trap."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Tells me it's a trap."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:56 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias shoot the shit out of the invisible creature, causing it to die?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias shoot the shit out of the invisible creature, causing it to die?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:56 PM"
         },
         {
-            "content": ["🎱 | Likely yes, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely yes, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:56 PM"
         },
         {
-            "content": ["@Magic8Ball Does Anus dog fuck Baby math?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Anus dog fuck Baby math?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:56 PM"
         },
         {
-            "content": ["🎱 | Lowercase yes, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase yes, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:56 PM"
         },
         {
-            "content": ["@Magic8Ball Is this game retarded?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is this game retarded?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:57 PM"
         },
         {
-            "content": ["🎱 | Yeah, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "24-Jun-18 09:57 PM"
-        },
-        {
-            "content": ["@Magic8Ball Is there a universal bond between Seth and his butt?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Jonas",
-            "character": "Asier",
-            "date": "24-Jun-18 09:57 PM"
-        },
-        {
-            "content": ["🎱 | Yeah, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yeah, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:57 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Matthias finger Seth's mouth while Asier and Emmett make a getaway to the diner?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is there a universal bond between Seth and his butt?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "player": "Jonas",
+            "character": "Asier",
+            "date": "24-Jun-18 09:57 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yeah, PlasmaPerson."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 09:57 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias finger Seth's mouth while Asier and Emmett make a getaway to the diner?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:58 PM"
         },
         {
-            "content": ["🎱 | Yay, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:58 PM"
         },
         {
-            "content": ["Let's get out of here, goat man."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Let's get out of here, goat man."
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 09:58 PM"
         },
         {
-            "content": ["Yeah, agreed.", "Asier and Emmett leave whereever they were and head to the diner."],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yeah, agreed."
+                },
+                {
+                    "type": "action",
+                    "text": "Asier and Emmett leave whereever they were and head to the diner."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 09:59 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias leave and go to the diner as well?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias leave and go to the diner as well?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 09:59 PM"
         },
         {
-            "content": ["🎱 | Lowercase no, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase no, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:59 PM"
         },
         {
-            "content": ["@Magic8Ball Is there a universal bond between Seth's butt and Math?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is there a universal bond between Seth's butt and Math?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 09:59 PM"
         },
         {
-            "content": ["🎱 | Lowercase yes, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase yes, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 09:59 PM"
         },
         {
-            "content": ["t!choose burger | hotdog | the soul of the waiter"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!choose burger | hotdog | the soul of the waiter"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 10:00 PM"
         },
         {
-            "content": ["🤔 | PlasmaPerson, I pick hotdog!"],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🤔 | PlasmaPerson, I pick hotdog!"
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:00 PM"
         },
         {
-            "content": ["Asier slaps the diner counter.", "I'll get a hotdog, please!"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Asier slaps the diner counter."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'll get a hotdog, please!"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 10:01 PM"
         },
         {
-            "content": ["@Magic8Ball Does Emmett get a salad?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett get a salad?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:01 PM"
         },
         {
-            "content": ["🎱 | N0, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "24-Jun-18 10:01 PM"
-        },
-        {
-            "content": ["@Magic8Ball Does Matthias rid of the universal bond?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "24-Jun-18 10:01 PM"
-        },
-        {
-            "content": ["🎱 | YES, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | N0, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:01 PM"
         },
         {
             "content": [
-                "From the booth where they would sit, Emmett speaks loudly towards the cashier.",
-                "I'll take a beer."
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias rid of the universal bond?"
+                }
             ],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "24-Jun-18 10:01 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | YES, Enchantingtable2013."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 10:01 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "From the booth where they would sit, Emmett speaks loudly towards the cashier."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'll take a beer."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:01 PM"
         },
         {
-            "content": ["Asier looks behind him at Emmett.", "That's it?"],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Asier looks behind him at Emmett."
+                },
+                {
+                    "type": "quote",
+                    "text": "That's it?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 10:02 PM"
         },
         {
-            "content": ["@Magic8Ball Does the universal bond come back?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the universal bond come back?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:02 PM"
         },
         {
-            "content": ["🎱 | Maybe, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Maybe, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:02 PM"
         },
         {
-            "content": ["I'll eat what's out back.", "Do they have food out back?"],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'll eat what's out back."
+                },
+                {
+                    "type": "quote",
+                    "text": "Do they have food out back?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:02 PM"
         },
         {
-            "content": ["@Magic8Ball Is our food really good?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is our food really good?"
+                }
+            ],
             "player": "Jonas",
             "character": "Asier",
             "date": "24-Jun-18 10:02 PM"
         },
         {
-            "content": ["🎱 | Y35, PlasmaPerson."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Y35, PlasmaPerson."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:02 PM"
         },
         {
-            "content": ["@Magic8Ball Does Emmett get his dumb salad and the beer?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett get his dumb salad and the beer?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:03 PM"
         },
         {
-            "content": ["🎱 | Yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "24-Jun-18 10:03 PM"
-        },
-        {
-            "content": ["@Magic8Ball Does Matthias leave for the diner?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "24-Jun-18 10:03 PM"
-        },
-        {
-            "content": ["🎱 | No, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "24-Jun-18 10:03 PM"
-        },
-        {
-            "content": ["@Magic8Ball Does the universal bond come back?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
-            "player": "Sean",
-            "character": "Seth",
-            "date": "24-Jun-18 10:03 PM"
-        },
-        {
-            "content": ["🎱 | Rolling a d20 to determine... Rolled a 17! Yes, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:03 PM"
         },
         {
             "content": [
-                "@Magic8Ball Is the curse between Matthias and Seth's butt and the curse between Seth's butt and Seth get lifted?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias leave for the diner?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "24-Jun-18 10:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | No, Enchantingtable2013."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 10:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the universal bond come back?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "24-Jun-18 10:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20 to determine... Rolled a 17! Yes, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "24-Jun-18 10:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is the curse between Matthias and Seth's butt and the curse between Seth's butt and Seth get lifted?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:04 PM"
         },
         {
-            "content": ["🎱 | Yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:04 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias age from baby to man?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias age from baby to man?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 10:05 PM"
         },
         {
-            "content": ["🎱 | Yes, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:05 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth leave the baby man in the ship and go to the diner?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth leave the baby man in the ship and go to the diner?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:06 PM"
         },
         {
-            "content": ["🎱 | Yay, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:06 PM"
         },
         {
-            "content": ["@Magic8Ball Is Emmett's face stuffed with the salad at the moment?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Is Emmett's face stuffed with the salad at the moment?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:06 PM"
         },
         {
-            "content": ["🎱 | Likely yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:06 PM"
         },
         {
-            "content": ["@Magic8Ball Does Matthias take a sleep?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Matthias take a sleep?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 10:07 PM"
         },
         {
             "content": [
-                "🎱 | Bagelwrecker says No, but you become a baby man and go to the diner and eat with us, Enchantingtable2013."
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Bagelwrecker says No, but you become a baby man and go to the diner and eat with us, Enchantingtable2013."
+                }
             ],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:07 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth turn into a marble?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth turn into a marble?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:08 PM"
         },
         {
-            "content": ["🎱 | N0, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | N0, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:08 PM"
         },
         {
-            "content": ["@Magic8Ball Does the baby curse go away?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the baby curse go away?"
+                }
+            ],
             "player": "Maxwell",
             "character": "Matthias",
             "date": "24-Jun-18 10:08 PM"
         },
         {
-            "content": ["🎱 | Bagelwrecker says yes but you become a toilet, Enchantingtable2013."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Bagelwrecker says yes but you become a toilet, Enchantingtable2013."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:08 PM"
         },
         {
             "content": [
-                "@Magic8Ball",
-                "Does Seth become friends temporarily with Matthias for the duration of the diner-venture?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball"
+                },
+                {
+                    "type": "quote",
+                    "text": "Does Seth become friends temporarily with Matthias for the duration of the diner-venture?"
+                }
             ],
-            "quotes": [1],
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:09 PM"
         },
         {
-            "content": ["🎱 | Lowercase yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:09 PM"
         },
         {
             "content": [
-                "@Magic8Ball",
-                "Does Seth start a diner fight because some fatty stole our seats at the booth?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball"
+                },
+                {
+                    "type": "quote",
+                    "text": "Does Seth start a diner fight because some fatty stole our seats at the booth?"
+                }
             ],
-            "quotes": [1],
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:10 PM"
         },
         {
-            "content": ["🎱 | Resounding no, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Resounding no, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:10 PM"
         },
         {
-            "content": ["Stop being a potty mouth math"],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Stop being a potty mouth math"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:10 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth get punched by the fat man?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth get punched by the fat man?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:11 PM"
         },
         {
-            "content": ["🎱 | Lowercase yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:11 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth shoot the fat man in face?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth shoot the fat man in face?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:12 PM"
         },
         {
-            "content": ["🎱 | Yay, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:12 PM"
         },
         {
-            "content": ["@Magic8Ball Does the fat man have a fat face, allowing him to be shot twice before dying?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the fat man have a fat face, allowing him to be shot twice before dying?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:13 PM"
         },
         {
-            "content": ["🎱 | Maybe, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Maybe, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:13 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth shoot the fat man in the face two times?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth shoot the fat man in the face two times?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:13 PM"
         },
         {
-            "content": ["🎱 | Yay, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yay, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:13 PM"
         },
         {
-            "content": ["I am defeated."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I am defeated."
+                }
+            ],
             "player": "Zander",
             "character": "Fat Man",
             "date": "24-Jun-18 10:13 PM"
         },
         {
             "content": [
-                "I'm going to now bone all of your women!",
-                "Seth claws his fingers repeatedly and sticks out his tongue, mimicking a demon."
+                {
+                    "type": "quote",
+                    "text": "I'm going to now bone all of your women!"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth claws his fingers repeatedly and sticks out his tongue, mimicking a demon."
+                }
             ],
-            "quotes": [0],
-            "commands": null,
-            "actions": [1],
-            "other": null,
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:14 PM"
         },
         {
-            "content": ["@Magic8Ball Does the barkeep get angry and incur a fine on Seth for the mess he's made?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does the barkeep get angry and incur a fine on Seth for the mess he's made?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:14 PM"
         },
         {
-            "content": ["🎱 | Lowercase no, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase no, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:14 PM"
         },
         {
-            "content": ["Thank you and goodbye!", "Emmett, I got our booth back!"],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Thank you and goodbye!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Emmett, I got our booth back!"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:14 PM"
         },
         {
-            "content": ["Emmett speaks incoherently as his face is stuffed with salad and booze."],
-            "quotes": null,
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett speaks incoherently as his face is stuffed with salad and booze."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:15 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does a little baby xenomorph burst from the fat man's chest and do the \"Hello my baby, hello my honey\" dance?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does a little baby xenomorph burst from the fat man's chest and do the \"Hello my baby, hello my honey\" dance?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:15 PM"
         },
         {
-            "content": ["🎱 | Wait to ask this again, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Wait to ask this again, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:15 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does a little baby xenomorph burst from the fat man's chest and do the \"Hello my baby, hello my honey\" dance?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does a little baby xenomorph burst from the fat man's chest and do the \"Hello my baby, hello my honey\" dance?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:16 PM"
         },
         {
-            "content": ["🎱 | Lowercase no, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Lowercase no, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:16 PM"
         },
         {
-            "content": ["@Magic8Ball Does a little frog pee on math because he fell asleep?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does a little frog pee on math because he fell asleep?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:16 PM"
         },
         {
-            "content": ["🎱 | Likely yes, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Likely yes, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:17 PM"
         },
         {
-            "content": ["@Magic8Ball Does Emmett finish his salad?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett finish his salad?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:17 PM"
         },
         {
-            "content": ["🎱 | Bagelwrecker says yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Bagelwrecker says yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:17 PM"
         },
         {
-            "content": ["Damn, that was great.", "Emmett sighs in satisfaction.", "Seth, you going to get something?"],
-            "quotes": [0, 2],
-            "commands": null,
-            "actions": [1],
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Damn, that was great."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett sighs in satisfaction."
+                },
+                {
+                    "type": "quote",
+                    "text": "Seth, you going to get something?"
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:18 PM"
         },
         {
-            "content": ["Seth shakes his head side to side.", "Space Rule 10, don't eat two minutes after a fight."],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth shakes his head side to side."
+                },
+                {
+                    "type": "quote",
+                    "text": "Space Rule 10, don't eat two minutes after a fight."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:19 PM"
         },
         {
             "content": [
-                "You didn't fight him though.",
-                "You literally just shot him in the face three times.",
-                "Emmett looks at Seth in confusion."
+                {
+                    "type": "quote",
+                    "text": "You didn't fight him though."
+                },
+                {
+                    "type": "quote",
+                    "text": "You literally just shot him in the face three times."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett looks at Seth in confusion."
+                }
             ],
-            "quotes": [0, 1],
-            "commands": null,
-            "actions": [2],
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:19 PM"
         },
         {
-            "content": ["Seth crosses his arms.", "Don't want blood in my food, then."],
-            "quotes": [1],
-            "commands": null,
-            "actions": [0],
-            "other": null,
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth crosses his arms."
+                },
+                {
+                    "type": "quote",
+                    "text": "Don't want blood in my food, then."
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:19 PM"
         },
         {
-            "content": ["Then wash up, man."],
-            "quotes": [0],
-            "commands": null,
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Then wash up, man."
+                }
+            ],
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:20 PM"
         },
         {
-            "content": ["@Magic8Ball Does Seth go freshen up bringing a female with him?"],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
+            "content": [
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Seth go freshen up bringing a female with him?"
+                }
+            ],
             "player": "Sean",
             "character": "Seth",
             "date": "24-Jun-18 10:20 PM"
         },
         {
-            "content": ["🎱 | N0, Bagelwrecker."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | N0, Bagelwrecker."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:20 PM"
         },
         {
             "content": [
-                "@Magic8Ball Does Emmett take someone else's salad while everyone is gathering around the corpse?"
+                {
+                    "type": "command",
+                    "text": "@Magic8Ball Does Emmett take someone else's salad while everyone is gathering around the corpse?"
+                }
             ],
-            "quotes": null,
-            "commands": [0],
-            "actions": null,
-            "other": null,
             "player": "Zander",
             "character": "Emmett",
             "date": "24-Jun-18 10:20 PM"
         },
         {
-            "content": ["🎱 | Yes, Zander."],
-            "quotes": null,
-            "commands": null,
-            "actions": null,
-            "other": [0],
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Zander."
+                }
+            ],
             "player": "FF 8 Ball",
             "character": null,
             "date": "24-Jun-18 10:21 PM"
