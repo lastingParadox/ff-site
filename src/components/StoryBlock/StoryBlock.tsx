@@ -1,11 +1,10 @@
-import { Avatar, Typography } from '@mui/material';
+import { Avatar, Typography, Tooltip } from '@mui/material';
 import Card from '@mui/material/Card/Card';
 import CharacterColors from '@/assets/json/characterColors.json';
 import { StoryBlock as Block } from '@/types/Episodes';
 import React, { useCallback, useEffect, useState, useContext, useMemo } from 'react';
 import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
-import { useSearchParams } from 'react-router-dom';
 import PixelArtWithOutline from '../PixelArtWithOutline/PixelArtWithOutline';
 /*
     This component is used to display a card with a story block.
@@ -48,7 +47,8 @@ function getCharacterColor(character: string, colorMode: 'light' | 'dark') {
 export default function StoryBlock({ block, id }: { block: Block; id: number }): JSX.Element {
     const [loading, setLoading] = useState(true);
     const [avatar, setAvatar] = useState<string>();
-    const [, setSearchParams] = useSearchParams();
+    const [hovering, setHovering] = useState(false);
+    const [open, setOpen] = useState(false);
     const { colorMode } = useContext(ColorModeContext);
     const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
     const characterColor = useMemo(
@@ -132,7 +132,12 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     );
 
     return (
-        <div id={`${id}`} style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', flexGrow: 1 }}>
+        <div
+            id={`${id}`}
+            style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', flexGrow: 1 }}
+            onMouseEnter={() => setHovering(true)}
+            onMouseLeave={() => setHovering(false)}
+        >
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12, width: '100%' }}>
                 {!avatar ? (
                     <Avatar
@@ -176,13 +181,31 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                     </div>
                 </Card>
             </div>
-            <div
-                className={styles.anchor}
-                style={{ flexGrow: 1 }}
-                onClick={() => setSearchParams({ line: id.toString() })}
+            <Tooltip
+                PopperProps={{
+                    disablePortal: true,
+                }}
+                onClose={() => setOpen(false)}
+                open={open}
+                disableFocusListener
+                disableHoverListener
+                disableTouchListener
+                title='Copied to clipboard!'
+                placement='top'
+                arrow
             >
-                #
-            </div>
+                <div
+                    className={`${styles.anchor} ${hovering ? styles.hover : ''}`}
+                    style={{ flexGrow: 1 }}
+                    onClick={() => {
+                        navigator.clipboard.writeText(window.location.href.split('?')[0] + '?line=' + id.toString());
+                        setOpen(true);
+                        setTimeout(() => setOpen(false), 1000);
+                    }}
+                >
+                    #
+                </div>
+            </Tooltip>
         </div>
     );
 }
