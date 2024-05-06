@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { TextField, Button, Grid, Typography, Container, Paper } from '@mui/material';
-import utils from '../../convert/convert-utils.ts';
+import utils from '@/utils/convert/convert-utils.ts';
 
 function Convert() {
     // State for GU to Earth form
@@ -25,15 +25,7 @@ function Convert() {
 
     // Function to handle GU to Earth conversion
     const convertGuToEarth = () => {
-        const result = utils.guToEarth(
-            guys,
-            semesters,
-            equinoxes,
-            periods,
-            unions,
-            duons,
-            trions
-        );
+        const result = utils.guToEarth(guys, semesters, equinoxes, periods, unions, duons, trions);
         setEarthTime(
             `Years: ${result[0]}, Months: ${result[1]}, Days: ${result[2]}, Hours: ${result[3]}, Minutes: ${result[4]}, Seconds: ${result[5]}, Milliseconds: ${result[6]}`
         );
