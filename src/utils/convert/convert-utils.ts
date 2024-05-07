@@ -16,6 +16,14 @@ const GU_EPOCH_MINUTE = 54;
 const GU_EPOCH_SECOND = 28;
 const GU_EPOCH_MILLISECOND = 150;
 
+const GUYS_MAX = Number.MAX_SAFE_INTEGER;
+const SEMESTERS_MAX = 32;
+const EQUINOXES_MAX = 45;
+const PERIODS_MAX = 24;
+const UNIONS_MAX = 60;
+const DUONS_MAX = 60;
+const TRIONS_MAX = 999;
+
 // Correction for the GU calendar
 const correctionDays = 59;
 
@@ -189,6 +197,62 @@ function guToEarth(
     return [year, month, day, hour, minute, second, millisecond];
 }
 
+function validateGU(
+    semesters: number,
+    equinoxes: number,
+    periods: number,
+    unions: number,
+    duons: number,
+    trions: number
+): boolean {
+    if (
+        semesters < 1 ||
+        semesters > SEMESTERS_MAX ||
+        equinoxes < 1 ||
+        equinoxes > EQUINOXES_MAX ||
+        periods < 0 ||
+        periods > PERIODS_MAX ||
+        unions < 0 ||
+        unions > UNIONS_MAX ||
+        duons < 0 ||
+        duons > DUONS_MAX ||
+        trions < 0 ||
+        trions > TRIONS_MAX
+    ) {
+        return false;
+    }
+    return true;
+}
+
+function validateEarth(
+    year: number,
+    month: number,
+    day: number,
+    hour: number,
+    minute: number,
+    second: number,
+    millisecond: number
+): boolean {
+    if (
+        year < 0 ||
+        month < 1 ||
+        month > 12 ||
+        day < 1 ||
+        day > daysInMonth(year, month) ||
+        hour < 0 ||
+        hour >= 24 ||
+        minute < 0 ||
+        minute >= 60 ||
+        second < 0 ||
+        second >= 60 ||
+        millisecond < 0 ||
+        millisecond >= 1000
+    ) {
+        return false;
+    }
+    return true;
+}
+
 // Test cases
 function test() {
     const testCases: [number[], number[]][] = [
@@ -200,10 +264,7 @@ function test() {
     ];
 
     let allMatch = true;
-    for (const [input] of testCases as [
-        [number, number, number, number, number, number, number],
-        number[]
-    ][]) {
+    for (const [input] of testCases as [[number, number, number, number, number, number, number], number[]][]) {
         const guTime: [number, number, number, number, number, number, number] = earthToGU(...input);
         const earthTime = guToEarth(...guTime);
         const inputStr = input.join(', ');
@@ -221,4 +282,4 @@ function test() {
     console.log(`All inputs and outputs match: ${allMatch.toString().toUpperCase()}`);
 }
 
-export default { earthToGU, guToEarth, test };
+export default { earthToGU, guToEarth, validateGU, validateEarth, test };
