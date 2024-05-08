@@ -2,11 +2,10 @@ import { Avatar, Typography, Tooltip } from '@mui/material';
 import Card from '@mui/material/Card/Card';
 import CharacterColors from '@/assets/json/characterColors.json';
 import { StoryBlock as Block, EmbedContent, GeneralContent } from '@/types/Episodes';
-import React, { useCallback, useEffect, useState, useContext, useMemo } from 'react';
+import { useCallback, useEffect, useState, useContext, useMemo } from 'react';
 import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
 import PixelArtWithOutline from '../PixelArtWithOutline/PixelArtWithOutline';
-import { ClosedCaptionDisabledOutlined } from '@mui/icons-material';
 import { useSearchParams } from 'react-router-dom';
 /*
     This component is used to display a card with a story block.
