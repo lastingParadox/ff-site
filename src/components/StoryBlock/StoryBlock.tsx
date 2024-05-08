@@ -65,8 +65,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     useEffect(() => {
         const fetchAvatar = async () => {
             try {
-                const fileName = block.player === 'FF 8 Ball' ? '8ball' : chosenCharacter;
-                const response = await import(`../../assets/images/avatars/${fileName?.toLowerCase()}.png`);
+                const response = await import(`../../assets/images/avatars/${chosenCharacter.toLowerCase().replaceAll(/\s/g, "")}.png`);
                 setAvatar(response.default);
             } catch {
                 setAvatar('');
@@ -141,7 +140,11 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                     />
                 ) : (
                     <div className={styles.avatarDiv}>
-                        <PixelArtWithOutline imageUrl={avatar} color={characterColor} zoom={4} />
+                        {/* 
+                            I would like to store the string here as a state or global variable, but can't seem to justify it...
+                            It's only used twice, after all
+                        */}
+                        <PixelArtWithOutline characterImg={chosenCharacter.toLowerCase().replaceAll(/\s/g, "")} color={characterColor} zoom={4} />
                     </div>
                 )}
                 <Card

@@ -7,8 +7,8 @@ function hexToRgb(hex: string): number[] {
     return [r, g, b, 255];
 }
 
-const PixelArtWithOutline: React.FC<{ imageUrl: string; color?: string; zoom?: number }> = ({
-    imageUrl,
+const PixelArtWithOutline: React.FC<{ characterImg: string; color?: string; zoom?: number }> = ({
+    characterImg,
     color = '#FFFFFF',
     zoom = 5,
 }) => {
@@ -17,9 +17,13 @@ const PixelArtWithOutline: React.FC<{ imageUrl: string; color?: string; zoom?: n
     useEffect(() => {
         const canvas = canvasRef.current!;
         const ctx = canvas.getContext('2d')!;
-
+        
         const image = new Image();
-        image.src = imageUrl;
+
+        import(`../../assets/images/avatars/${characterImg?.toLowerCase().trim()}.png`)
+            .then((resp) => {
+                image.src = resp.default;
+            });
 
         image.onload = async () => {
             canvas.width = image.width + 2;
@@ -75,7 +79,7 @@ const PixelArtWithOutline: React.FC<{ imageUrl: string; color?: string; zoom?: n
             ctx.imageSmoothingEnabled = false;
             ctx.drawImage(bitmap, 0, 0, canvas.width, canvas.height);
         };
-    }, [color, imageUrl, zoom]);
+    }, [color, characterImg, zoom]);
 
     return <canvas ref={canvasRef} style={{ imageRendering: 'pixelated' }} />;
 };
