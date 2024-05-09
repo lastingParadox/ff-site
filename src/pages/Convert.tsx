@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { TextField, Button, Grid, Typography, Container, Paper } from '@mui/material';
+import { TextField, Button, Grid, Typography, Container, Paper, InputAdornment } from '@mui/material';
 import utils from '@/utils/convert/convert-utils.ts';
 
 function Convert() {
@@ -77,6 +77,9 @@ function Convert() {
                             margin='normal'
                             type='number'
                             value={guys}
+                            // InputProps={{
+                            //     'endAdornment': <InputAdornment position="end">GUYs</InputAdornment>
+                            // }}
                             onChange={(e) => setGuys(parseFloat(e.target.value))}
                         />
                         <TextField

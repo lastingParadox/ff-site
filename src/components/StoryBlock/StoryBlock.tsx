@@ -167,7 +167,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                                 fontWeight: 200,
                                 fontStyle: 'italic',
                             }}
-                        />
+                        >{block.date}</Typography>
                     </div>
                     <div
                         style={{
