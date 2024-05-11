@@ -186,8 +186,8 @@ def convert_to_json(blocks, json_file):
 
 
 def convert_to_filename(string):
-    # Remove non-alphabet characters
-    string = "".join(char for char in string if char.isalpha())
+    # Remove non-alphabet characters except whitespace
+    string = re.sub(r"[^a-zA-Z\s]", "", string)
     # Convert to lowercase
     string = string.lower()
     # Convert to kebab case
@@ -201,7 +201,9 @@ if __name__ == "__main__":
         sys.exit(1)
     filename = convert_to_filename(sys.argv[1])
     md_file = "./md/ff2/" + filename + ".md"
-    json_file = "../src/assets/json/archives/ff2/" + filename + ".json"
+    json_file = (
+        "../src/assets/json/archives/ff2/" + sys.argv[2] + "-" + filename + ".json"
+    )
     blocks = parse_blocks(md_file)
     episode_dict = {
         "title": sys.argv[1],

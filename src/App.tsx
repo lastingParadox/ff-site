@@ -11,7 +11,7 @@ function App() {
             <Routes>
                 <Route path='/' element={<RootLayout />}>
                     <Route index element={<Home />} />
-                    <Route path='/ff2' element={<Navigate to='/ff2/fragile-beginnings' />} />
+                    <Route path='/ff2' element={<Navigate to='/ff2/1-fragile-beginnings' />} />
                     <Route path='/ff2/:episode' element={<ArchivePage />} />
                     <Route path='/ff3' element={<FF3 />} />
                     <Route path='/ff3/:episode' element={<ArchivePage />} />

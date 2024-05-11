@@ -1,15 +1,25 @@
 import StoryBlock from '@/components/StoryBlock/StoryBlock';
 import { Episode as EpisodeType } from '@/types/Episodes';
+import CommentIcon from '@mui/icons-material/Comment';
+import { CircularProgress, MenuItem, Select, SelectChangeEvent, Tooltip, Typography } from '@mui/material';
 import React, { forwardRef, useEffect, useMemo, useRef, useState } from 'react';
-import { CircularProgress, MenuItem, Select, SelectChangeEvent, Typography, Tooltip } from '@mui/material';
-import TitleList from '@/assets/json/archives/ff2/titleList.json';
 import { useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { VList, VListHandle } from 'virtua';
-import CommentIcon from '@mui/icons-material/Comment';
+
+// Function to format a file name into a human-readable title
+// Format: 1-fragile-beginnings.json -> Fragile Beginnings
+// Filenames do not always have a single hyphen, so we need to account for that
+// Sometimes they have zero hyphens, sometimes they have two
+// Each word should be capitalized
+function formatTitle(fileName: string): string {
+    const words = fileName.split('-').map((word) => word.charAt(0).toUpperCase() + word.slice(1));
+    return words.join(' ');
+}
 
 export default function ArchivePage() {
     const [episodeLoading, setEpisodeLoading] = useState(true);
     const [episode, setEpisode] = useState<EpisodeType>();
+    const [episodeFiles, setEpisodeFiles] = useState<{ paramName: string; title: string; episodeNumber: number }[]>([]);
     const ref = useRef<VListHandle>(null);
 
     const { episode: episodeParam } = useParams();
@@ -19,6 +29,36 @@ export default function ArchivePage() {
     const [searchParams] = useSearchParams();
     const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
 
+    // Fetch files
+    useEffect(() => {
+        if (!season) return;
+
+        const files = import.meta.glob(`@/assets/json/archives/**/*.json`);
+
+        // Grab all files in the current season
+        // i.e., in @/assets/json/archives/FF2
+
+        const episodeFiles = Object.keys(files)
+            .filter((file) => file.includes(season))
+            .map((file) => {
+                // Initial file name format: #-title.json
+                // Requested file name format: title
+                const initialFileName = file.split('/').pop() as string;
+                const regExMatch = initialFileName.match(/((\d+)-(.+)).json/);
+                const [paramName, episodeNumber, tempTitle] = regExMatch
+                    ? [regExMatch[1], parseInt(regExMatch[2]), regExMatch[3]]
+                    : ['', 0, ''];
+
+                // Convert param name to human-readable title
+                const title = formatTitle(tempTitle);
+
+                return { paramName: paramName, title, episodeNumber };
+            });
+
+        setEpisodeFiles(episodeFiles);
+    }, [season]);
+
+    // Fetch episode data
     useEffect(() => {
         const fetchEpisode = async () => {
             setEpisodeLoading(true);
@@ -92,9 +132,9 @@ export default function ArchivePage() {
                                 {episode?.title}
                             </Typography>
                             <Select onChange={(event) => handleSelectChange(event)} value={episodeParam}>
-                                {TitleList.map((title, index) => (
-                                    <MenuItem key={title.param} value={title.param}>
-                                        {index + 1}.&nbsp;{title.display}
+                                {episodeFiles?.map((title) => (
+                                    <MenuItem key={title.paramName} value={title.paramName}>
+                                        {title.episodeNumber}.&nbsp;{title.title}
                                     </MenuItem>
                                 ))}
                             </Select>
