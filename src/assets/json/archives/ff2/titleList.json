@@ -18,5 +18,9 @@
     {
         "display": "Police Brutality",
         "param": "police-brutality"
+    },
+    {
+        "display": "Killer Ship",
+        "param": "killer-ship"
     }
 ]

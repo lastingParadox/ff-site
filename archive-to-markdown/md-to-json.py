@@ -3,6 +3,7 @@ import json
 import emoji
 import sys
 
+
 def get_character_from_player(player):
     match player:
         case "Zander":
@@ -23,6 +24,10 @@ def get_character_from_player(player):
             return "Asier"
         case "TheBlade":
             return "Jim"
+        case "Arky":
+            return "Lucian"
+        case "Mica":
+            return "Maia"
         case "Tom Thompson":
             return "Mickey Mouse's Ghost"
         case "Finna Steel Christmas":
@@ -179,14 +184,16 @@ def convert_to_json(blocks, json_file):
     with open(json_file, "w", encoding="utf-8") as f:
         json.dump(blocks, f, indent=4, ensure_ascii=False)
 
+
 def convert_to_filename(string):
     # Remove non-alphabet characters
-    string = ''.join(char for char in string if char.isalpha())
+    string = "".join(char for char in string if char.isalpha())
     # Convert to lowercase
     string = string.lower()
     # Convert to kebab case
-    string = '-'.join(string.split())
+    string = "-".join(string.split())
     return string
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 4:
