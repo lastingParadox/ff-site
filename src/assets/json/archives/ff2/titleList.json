@@ -22,5 +22,9 @@
     {
         "display": "Killer Ship",
         "param": "killer-ship"
+    },
+    {
+        "display": "Mousehole",
+        "param": "mousehole"
     }
 ]
