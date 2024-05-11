@@ -24,7 +24,7 @@
 
 **Bagelwrecker** _(02-Jul-18 05:04 PM)_
 
-> "And then I'll shoot you in the head."
+> `Mora-Norap`: And then I'll shoot you in the head.
 
 **Mica** _(02-Jul-18 05:04 PM)_
 
@@ -2029,7 +2029,9 @@ _Emmett walks past Maia, stepping over her wings._
 
 **Bagelwrecker** _(02-Jul-18 06:04 PM)_
 
-> I don't want you to get _The Crave_.
+> I don't want you to get... The Crave.
+
+_Seth shudders for a moment, a uniquely uncharacteristic gesture._
 
 **RPretribution** _(02-Jul-18 06:04 PM)_
 
@@ -2039,11 +2041,13 @@ _Garrick yawns._
 
 **Brakia** _(02-Jul-18 06:04 PM)_
 
-> "The Crave?"
+> The Crave?
 
 **Bagelwrecker** _(02-Jul-18 06:04 PM)_
 
 > The Crave.
+
+_Seth shudders again in the exact same way, like a cartoon character._
 
 **RPretribution** _(02-Jul-18 06:04 PM)_
 
@@ -3393,7 +3397,7 @@ _Asier slices a girl's ponytail and laughs maniacally._
 
 **Zander** _(02-Jul-18 06:43 PM)_
 
-> "What the hell are you doing on my back?"
+> `Grass salesman`: What the hell are you doing on my back?
 
 **Brakia** _(02-Jul-18 06:43 PM)_
 

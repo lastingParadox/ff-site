@@ -73,11 +73,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "\"And then I'll shoot you in the head.\""
+                    "text": "And then I'll shoot you in the head."
                 }
             ],
             "player": "Sean",
-            "character": "Seth",
+            "character": "Mora-Norap",
             "date": "02-Jul-18 05:04 PM"
         },
         {
@@ -5529,7 +5529,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I don't want you to get _The Crave_."
+                    "text": "I don't want you to get... The Crave."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shudders for a moment, a uniquely uncharacteristic gesture."
                 }
             ],
             "player": "Sean",
@@ -5555,7 +5559,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "\"The Crave?\""
+                    "text": "The Crave?"
                 }
             ],
             "player": "Brody",
@@ -5567,6 +5571,10 @@
                 {
                     "type": "quote",
                     "text": "The Crave."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shudders again in the exact same way, like a cartoon character."
                 }
             ],
             "player": "Sean",
@@ -9227,11 +9235,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "\"What the hell are you doing on my back?\""
+                    "text": "What the hell are you doing on my back?"
                 }
             ],
             "player": "Zander",
-            "character": "Emmett",
+            "character": "Grass salesman",
             "date": "02-Jul-18 06:43 PM"
         },
         {
