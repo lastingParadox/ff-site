@@ -40,7 +40,7 @@
 
 **Finna Steel Christmas** _(02-Jul-18 05:04 PM)_
 
-_Steel hears a woman's voice coming from the ship and runs to investigate._
+_Steely hears a woman's voice coming from the ship and runs to investigate._
 
 > That's a girl!
 
@@ -82,7 +82,7 @@ _Steel hears a woman's voice coming from the ship and runs to investigate._
 
 **Finna Steel Christmas** _(02-Jul-18 05:06 PM)_
 
-@Magic8Ball Is Steel in the vicinity?
+@Magic8Ball Is Steely in the vicinity?
 
 **Magic8Ball** _(02-Jul-18 05:06 PM)_
 
@@ -98,7 +98,7 @@ _Steel hears a woman's voice coming from the ship and runs to investigate._
 
 **Finna Steel Christmas** _(02-Jul-18 05:06 PM)_
 
-_Steel realizes that he left his wallet at home._
+_Steely realizes that he left his wallet at home._
 
 > Oops
 
@@ -148,7 +148,7 @@ _Steel realizes that he left his wallet at home._
 
 **Finna Steel Christmas** _(02-Jul-18 05:08 PM)_
 
-_Steel peeks his head into the cockpit._
+_Steely peeks his head into the cockpit._
 
 > No texting while driving!
 
@@ -202,7 +202,7 @@ _Steel peeks his head into the cockpit._
 
 **Bagelwrecker** _(02-Jul-18 05:10 PM)_
 
-_Seth ignores Steel and raises his watch to his mouth, activating his comms._
+_Seth ignores Steely and raises his watch to his mouth, activating his comms._
 
 > Remember that time we drank with the dwarvess Emmett?
 
@@ -260,7 +260,7 @@ _Seth ignores Steel and raises his watch to his mouth, activating his comms._
 
 **Finna Steel Christmas** _(02-Jul-18 05:12 PM)_
 
-_Steel speaks up from the corner._
+_Steely speaks up from the corner._
 
 > He's got a point.
 
@@ -304,7 +304,7 @@ _Steel speaks up from the corner._
 
 **Finna Steel Christmas** _(02-Jul-18 05:13 PM)_
 
-_Steel pulls out his holodevice and starts scrolling through Splitter._
+_Steely pulls out his holodevice and starts scrolling through Splitter._
 
 > Oooooo!
 
@@ -329,7 +329,7 @@ _Seth hears Mica's voice through comms and assumes he's being spoken to._
 
 **Finna Steel Christmas** _(02-Jul-18 05:14 PM)_
 
-_Steel mutters to himself._
+_Steely mutters to himself._
 
 > Po-I mean, corn.
 
@@ -586,7 +586,7 @@ _Garrick pokes his head through Ibraxas's wall._
 
 > Hmmmm...
 
-_Steel puts his finger to his chin inquisitively, pondering if he should do anything this episode._
+_Steely puts his finger to his chin inquisitively, pondering if he should do anything this episode._
 
 **Mica** _(02-Jul-18 05:22 PM)_
 
@@ -611,7 +611,7 @@ _Steel puts his finger to his chin inquisitively, pondering if he should do anyt
 
 **Finna Steel Christmas** _(02-Jul-18 05:23 PM)_
 
-_Steel flips a coin. It lands on "tails"._
+_Steely flips a coin. It lands on "tails"._
 
 > Awwwwn.
 
@@ -718,7 +718,7 @@ _Asier emerges from the janitor's closet, right next to Ibraxas's room._
 
 **Finna Steel Christmas** _(02-Jul-18 05:27 PM)_
 
-_Steel watches a JoyHole level 3 video of an Avian puking white liquid at gunpoint._
+_Steely watches a JoyHole level 3 video of an Avian puking white liquid at gunpoint._
 
 > I hope he was drinking spilt milk.
 
@@ -857,7 +857,7 @@ _Seth throws Emmett's towel in the toilet and struts toward the kid's room._
 
 **Finna Steel Christmas** _(02-Jul-18 05:30 PM)_
 
-_Steel snaps out of his trance._
+_Steely snaps out of his trance._
 
 > Disney... but Star Wars themed!?
 
@@ -903,7 +903,7 @@ _Asier also floats and stacks his head on Garrick's._
 
 **Finna Steel Christmas** _(02-Jul-18 05:32 PM)_
 
-_Steel tries to stack with the ghosts and falls on his face, but butts in anyway._
+_Steely tries to stack with the ghosts and falls on his face, but butts in anyway._
 
 > I don't approve.
 
@@ -1164,7 +1164,7 @@ _Garrick takes a whiff of the drink, which disgusts him. He hands the bottle bac
 > Savage
 > RIP
 
-_Steel continues scrolling mindlessly on his holodevice._
+_Steely continues scrolling mindlessly on his holodevice._
 
 > No, don't.
 
@@ -1244,7 +1244,7 @@ _Ibraxas's prosthetic arm glitches, striking Maia's head from the side._
 
 **Finna Steel Christmas** _(02-Jul-18 05:42 PM)_
 
-_Steel starts choking on his lunch._
+_Steely starts choking on his lunch._
 
 > RICE.
 > GLHF
@@ -1396,7 +1396,7 @@ _Suddenly, Garrick stuffs Asier's mouth with pocket popcorn._
 
 **Finna Steel Christmas** _(02-Jul-18 05:46 PM)_
 
-_Steel hides in the imaginary filling cabinet whilst eating corn bois._
+_Steely hides in the imaginary filling cabinet whilst eating corn bois._
 
 **Bagelwrecker** _(02-Jul-18 05:47 PM)_
 
@@ -1632,7 +1632,7 @@ _Jim starts salivating about deer meat._
 
 **Finna Steel Christmas** _(02-Jul-18 05:53 PM)_
 
-_Steel short-circuits and starts speaking in letters._
+_Steely short-circuits and starts speaking in letters._
 
 > E
 > E
@@ -1828,7 +1828,7 @@ _Garrick blows a raspberry at Asier._
 
 _Ibraxas peers at the parking lot destruction.
 
->`Jeez. You guys did a number on the outside.
+> Jeez. You guys did a number on the outside.
 
 **TheBlade** _(02-Jul-18 05:58 PM)_
 
@@ -1839,13 +1839,10 @@ _Ibraxas peers at the parking lot destruction.
 > Loser.
 > I have full flesh.
 
-**Zander** _(02-Jul-18 05:58 PM)_
-
-> Maia, you have anymore of that alcohol?
-
 **RPretribution** _(02-Jul-18 05:58 PM)_
 
 > Aaaah! I can't feel my legs!
+> Help!
 
 **TheBlade** _(02-Jul-18 05:58 PM)_
 
@@ -1859,48 +1856,42 @@ _Ibraxas peers at the parking lot destruction.
 
 🎱 | Next person decides for you, Finna Steel Christmas.
 
-**RPretribution** _(02-Jul-18 05:58 PM)_
+**Zander** _(02-Jul-18 05:58 PM)_
 
-> Help!
-
-CHECKPOINT
+> Maia, you have anymore of that alcohol?
 
 **Mica** _(02-Jul-18 05:59 PM)_
 
-> `A whopping ten more bottles.`
+> A whopping ten more bottles.
+> Yoou want someee?
 
 **PlasmaPerson** _(02-Jul-18 05:59 PM)_
 
-> Disney more like bibbeb
+> Disney more like bibbeb...
 
-**Mica** _(02-Jul-18 05:59 PM)_
-
-> `Yoou want someee?`
+_Asier begins to zone out and drool._
 
 **TheBlade** _(02-Jul-18 05:59 PM)_
 
-> `100 bottles of bear on the wall...`
+> 100 bottles of bear on the wall...
 
 **Zander** _(02-Jul-18 05:59 PM)_
 
 > Yeeeeah.
 
+_Emmett grins and gives a chuckle._
+
 **Brakia** _(02-Jul-18 05:59 PM)_
 
-> not yet, he has to join the crew first.
-> `This is a damn nightmare.`
-
-**RPretribution** _(02-Jul-18 05:59 PM)_
-
-> stop saying e
+> This is a damn nightmare.
 
 **Mica** _(02-Jul-18 05:59 PM)_
 
-> `Have some, cute goat ~`
+> Have some, cute goat ~
 
 **TheBlade** _(02-Jul-18 05:59 PM)_
 
-> `kinky.`
+> Kinky.
 
 **Bagelwrecker** _(02-Jul-18 06:00 PM)_
 
@@ -1921,11 +1912,13 @@ CHECKPOINT
 
 **TheBlade** _(02-Jul-18 06:00 PM)_
 
-> `can we just go in to disney?`
+_Jim sighs._
+
+> Can we just go in to disney?
 
 **PlasmaPerson** _(02-Jul-18 06:00 PM)_
 
-@Magic8Ball do we pay for tickets
+@Magic8Ball do we pay for tickets?
 
 **Magic8Ball** _(02-Jul-18 06:00 PM)_
 
@@ -1933,19 +1926,17 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:00 PM)_
 
-> `I'm watching you two for a while before i start working. I don't trust you two to be left alone.`
+_Ibraxas glares at the love-squoat and love-centaur._
 
-**Finna Steel Christmas** _(02-Jul-18 06:01 PM)_
+> I'm watching you two for a while before I start working. I don't trust you two to be left alone.
 
-> E
+**TheBlade** _(02-Jul-18 06:01 PM)_
+
+> Please, DON'T LEAVE THEM ALONE!
 
 **Mica** _(02-Jul-18 06:01 PM)_
 
 @Magic8Ball Does Maia make a drunk decision?
-
-**TheBlade** _(02-Jul-18 06:01 PM)_
-
-> `Please, DONT LEAVE THEM ALONE`
 
 **Magic8Ball** _(02-Jul-18 06:01 PM)_
 
@@ -1954,14 +1945,11 @@ CHECKPOINT
 **Bagelwrecker** _(02-Jul-18 06:01 PM)_
 
 > Ibraxas, leave them alone.
+> Let them have fun.
 
 **TheBlade** _(02-Jul-18 06:01 PM)_
 
-> `We dont want more crew members, if you know what i mean.`
-
-**Bagelwrecker** _(02-Jul-18 06:01 PM)_
-
-> Let them have fun.
+> We don't want more crew members, if you know what I mean.
 
 **RPretribution** _(02-Jul-18 06:01 PM)_
 
@@ -1973,19 +1961,15 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:01 PM)_
 
-> `Sure you are.`
+> Sure you are.
 
 **Bagelwrecker** _(02-Jul-18 06:01 PM)_
 
 > Emmett knows how to use protection.
 
-**Magic8Ball** _(02-Jul-18 06:01 PM)_
-
-🎱 | Lowercase no, RPretribution.
-
 **Mica** _(02-Jul-18 06:01 PM)_
 
-> `Don't our friends need money??? I should deposit money into their account!!!!!!~`
+> Don't our friends need money??? I should deposit money into their account!!!!!!~
 
 **Zander** _(02-Jul-18 06:02 PM)_
 
@@ -1993,7 +1977,9 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:02 PM)_
 
-> `That's not a good idea, Maia.`
+> That's not a good idea, Maia.
+
+_Ibraxas holds his face in his palm for a moment._
 
 **Bagelwrecker** _(02-Jul-18 06:02 PM)_
 
@@ -2005,7 +1991,7 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:02 PM)_
 
-> `But they wont be able to get anything !!`
+> But they won't be able to get anything!!
 
 **Zander** _(02-Jul-18 06:02 PM)_
 
@@ -2021,47 +2007,47 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:03 PM)_
 
-> `Just don't. I'm sure they're fine.`
-
-**Finna Steel Christmas** _(02-Jul-18 06:03 PM)_
-
-> Corn
+> Just don't. I'm sure they're fine.
 
 **Mica** _(02-Jul-18 06:03 PM)_
 
-> `*Maia sits on the floor and slumps her body over the couch*`
+_Maia sits on the floor and slumps her body over the couch._
 
 **Bagelwrecker** _(02-Jul-18 06:03 PM)_
 
-> You know what happens when you don't, it gets shriveled and dry
+> You know what happens when you don't, it gets shriveled and dry.
 
 **Zander** _(02-Jul-18 06:04 PM)_
 
-> (Whilst going past Maia) I'm getting to it, relax.
+_Emmett walks past Maia, stepping over her wings._
+
+> I'm getting to it, relax.
 
 **PlasmaPerson** _(02-Jul-18 06:04 PM)_
 
-> this must be a rather boring job
+> This must be a rather boring job.
 
 **Bagelwrecker** _(02-Jul-18 06:04 PM)_
 
-> I don't want you to get _the crave_
+> I don't want you to get _The Crave_.
 
 **RPretribution** _(02-Jul-18 06:04 PM)_
+
+_Garrick yawns._
 
 > Are we going to get tickets or what?
 
 **Brakia** _(02-Jul-18 06:04 PM)_
 
-> `The Crave?`
-
-**RPretribution** _(02-Jul-18 06:04 PM)_
-
-@Magic8Ball Does garrick enter the park without a ticket
+> "The Crave?"
 
 **Bagelwrecker** _(02-Jul-18 06:04 PM)_
 
 > The Crave.
+
+**RPretribution** _(02-Jul-18 06:04 PM)_
+
+@Magic8Ball Does Garrick enter the park without a ticket?
 
 **Magic8Ball** _(02-Jul-18 06:04 PM)_
 
@@ -2069,20 +2055,20 @@ CHECKPOINT
 
 **RPretribution** _(02-Jul-18 06:05 PM)_
 
+_Garrick strolls through the entrance, passing through the plasma-field gates without issue._
+
 > This is taking too long.
 
 **Mica** _(02-Jul-18 06:05 PM)_
 
-> `H e h e h e~`
-
-**Bagelwrecker** _(02-Jul-18 06:05 PM)_
-
-> `
+> Hehehe~
 
 **PlasmaPerson** _(02-Jul-18 06:05 PM)_
 
-> garrick
-> Why
+_Asier yells from outside._
+
+> Garrick!
+> Why!?
 
 **RPretribution** _(02-Jul-18 06:05 PM)_
 
@@ -2090,7 +2076,7 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:05 PM)_
 
-> `You're really drunk, aren't you?`
+> You're really drunk, aren't you?
 
 **Zander** _(02-Jul-18 06:05 PM)_
 
@@ -2103,10 +2089,13 @@ CHECKPOINT
 **RPretribution** _(02-Jul-18 06:05 PM)_
 
 > Also, I don't have a lot of money with me.
+> And I'm kinda drunk. But whatever, let's go.
 
 **Mica** _(02-Jul-18 06:05 PM)_
 
-> `Yea hhh~`
+> Yeahhh~
+
+_Maia kicks in Ibraxas's direction, who steps away in disgust._
 
 **Zander** _(02-Jul-18 06:05 PM)_
 
@@ -2117,52 +2106,49 @@ CHECKPOINT
 
 > What'd you forget?
 
-**RPretribution** _(02-Jul-18 06:06 PM)_
-
-> And I'm kinda drunk. But whatever, let's go.
-
 **Zander** _(02-Jul-18 06:06 PM)_
 
 > My stash.
 
 **Brakia** _(02-Jul-18 06:06 PM)_
 
-> `Just how strong is that stuff?`
+> Just how strong is that stuff?
+
+**Mica** _(02-Jul-18 06:06 PM)_
+
+> STRONGGGGG~
 
 **Finna Steel Christmas** _(02-Jul-18 06:06 PM)_
 
 > Yeeeah buddy!
 
+_Steely snaps out of it and exits the ship, standing at the park's entrance._
+
 **Zander** _(02-Jul-18 06:06 PM)_
 
-> @everyone
+_Emmett raises his watch and bleats loudly through everyone's comms._
 
 **PlasmaPerson** _(02-Jul-18 06:06 PM)_
 
-> Get pinged
+_Asier covers his ears in pain, despite not having comms._
 
 **Bagelwrecker** _(02-Jul-18 06:06 PM)_
 
-> Fuck, and my parents already took the ship
-
-**Mica** _(02-Jul-18 06:06 PM)_
-
-> `STRONGGGGG~`
-
-**RPretribution** _(02-Jul-18 06:06 PM)_
-
-> Asier.
+> Fuck, and my parents already took the ship!
 
 **TheBlade** _(02-Jul-18 06:06 PM)_
 
-@Magic8Ball Do earth cops have derestriction on Space Disney?
+@Magic8Ball Do Earth cops have jurisdiction on Space Disney?
 
 **Magic8Ball** _(02-Jul-18 06:06 PM)_
 
-🎱 | Person who just went decides for you, TheBlade.
+🎱 | Zander says yes, TheBlade.
 
 **RPretribution** _(02-Jul-18 06:06 PM)_
 
+_Garrick begins pocketing items from a nearby stand while the owner isn't looking._
+
+> Asier.
 > Hurry up.
 
 **Zander** _(02-Jul-18 06:06 PM)_
@@ -2171,41 +2157,36 @@ CHECKPOINT
 
 **PlasmaPerson** _(02-Jul-18 06:06 PM)_
 
-> what
+> What?
+> No.
 
 **Bagelwrecker** _(02-Jul-18 06:06 PM)_
 
 > You want me to call them?
 
-**PlasmaPerson** _(02-Jul-18 06:06 PM)_
-
-> no
-
-**Zander** _(02-Jul-18 06:06 PM)_
-
-> Jurisdiction
-> Yes
-
 **RPretribution** _(02-Jul-18 06:07 PM)_
 
 > Fine, whatever.
 
+_Garrick throws a large plushie of Zog in Asier's direction._
+
 **TheBlade** _(02-Jul-18 06:07 PM)_
 
-> `Guys, how much is it to get in the place?`
+> Guys, how much is it to get in the place?
 
 **PlasmaPerson** _(02-Jul-18 06:07 PM)_
 
-> so
+> So...
 > Dragon fellow.
+> Fgdhodjcdyx.
+
+_Asier begins spitting in Steely's direction, mocking him._
 
 **TheBlade** _(02-Jul-18 06:08 PM)_
 
-> `I got a 100 on me.`
+_Jim rustles through his money bag, a mix of Earth coins and Duckett coins._
 
-**PlasmaPerson** _(02-Jul-18 06:08 PM)_
-
-> Fgdhodjcdyx
+> I got a 100 on me.
 
 **Brakia** _(02-Jul-18 06:08 PM)_
 
@@ -2221,11 +2202,11 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:08 PM)_
 
-> `I should dance.`
+> I should dance.
 
 **Finna Steel Christmas** _(02-Jul-18 06:08 PM)_
 
-> Dragon Bois
+> Dragon Bois!
 
 **RPretribution** _(02-Jul-18 06:08 PM)_
 
@@ -2237,19 +2218,19 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:09 PM)_
 
-> `Hehe..`
+> Hehe..
 
 **Brakia** _(02-Jul-18 06:09 PM)_
 
-> `You probably should not.`
-
-**PlasmaPerson** _(02-Jul-18 06:09 PM)_
-
-@Magic8Ball do we go in now, bringing the Dragon fellow with us
+> You probably should not.
 
 **Zander** _(02-Jul-18 06:09 PM)_
 
 > I think it's too late for that.
+
+**PlasmaPerson** _(02-Jul-18 06:09 PM)_
+
+@Magic8Ball do we go in now, bringing the Dragon fellow with us?
 
 **Magic8Ball** _(02-Jul-18 06:09 PM)_
 
@@ -2257,7 +2238,7 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:09 PM)_
 
-> `But dancing is fuuuuunnnn!`
+> But dancing is fuuuuunnnn!
 
 **Bagelwrecker** _(02-Jul-18 06:09 PM)_
 
@@ -2266,11 +2247,11 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:09 PM)_
 
-> `Well, it's not the worst thing you can do.`
+> Well, it's not the worst thing you can do.
 
 **PlasmaPerson** _(02-Jul-18 06:09 PM)_
 
-> you should ditch this boring job and have a little fun instead
+> You should ditch this boring job and have a little fun instead.
 
 **Finna Steel Christmas** _(02-Jul-18 06:10 PM)_
 
@@ -2290,11 +2271,11 @@ CHECKPOINT
 
 **TheBlade** _(02-Jul-18 06:10 PM)_
 
-> `Why do we have 2 goats...i thought one was enough...`
+> Why do we have 2 goats...i thought one was enough...
 
 **Mica** _(02-Jul-18 06:10 PM)_
 
-> `I'll probably break something..`
+> I'll probably break something...
 
 **Bagelwrecker** _(02-Jul-18 06:10 PM)_
 
@@ -2302,7 +2283,7 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:10 PM)_
 
-> `Maybe.`
+> Maybe.
 
 **Zander** _(02-Jul-18 06:10 PM)_
 
@@ -2310,7 +2291,7 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:10 PM)_
 
-> `*sniffle*`
+_Maia sniffles._
 
 **Finna Steel Christmas** _(02-Jul-18 06:10 PM)_
 
@@ -2318,23 +2299,25 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:11 PM)_
 
-> Emmett no.
+> Emmett, no.
 
 **Brakia** _(02-Jul-18 06:11 PM)_
 
-> `What's wrong?`
+> What's wrong?
 
 **Mica** _(02-Jul-18 06:11 PM)_
 
-> `I.. I'm too big!!!`
+> I.. I'm too big!!!
 
 **TheBlade** _(02-Jul-18 06:11 PM)_
 
-> `What the hell am i listining to?`
+_Jim raises his comms to his mouth._
+
+> Hey guys. What the hell am I listening to?
 
 **Finna Steel Christmas** _(02-Jul-18 06:11 PM)_
 
-> ???
+_Steely is baffled at Asier's request._
 
 **Bagelwrecker** _(02-Jul-18 06:11 PM)_
 
@@ -2342,15 +2325,17 @@ CHECKPOINT
 
 **TheBlade** _(02-Jul-18 06:11 PM)_
 
-> `Maia what the hell is going on?`
+> Maia, what the hell is going on?
 
 **PlasmaPerson** _(02-Jul-18 06:11 PM)_
 
-> ok I'm turning off my com
+> Okay, I'm turning off my comm.
 
 **Mica** _(02-Jul-18 06:11 PM)_
 
-> `Wh... *sniffle*`
+> Wh...
+
+_Maia sniffles._
 
 **Zander** _(02-Jul-18 06:11 PM)_
 
@@ -2362,11 +2347,11 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:12 PM)_
 
-> `Drunk problems, jim.`
+> Drunk problems, Jim.
 
 **TheBlade** _(02-Jul-18 06:12 PM)_
 
-> `What do you mean its "too big?"`
+> What do you mean it's "too big?"
 
 **Mica** _(02-Jul-18 06:12 PM)_
 
@@ -2382,19 +2367,19 @@ CHECKPOINT
 
 **RPretribution** _(02-Jul-18 06:12 PM)_
 
-> neigh
+_Garrick gives a loud horsey sound out of boredom._
 
 **Zander** _(02-Jul-18 06:12 PM)_
 
-> (Emmett turned off Maia's comm then and there.)
+_Emmett turns off Maia's comms._
 
 **Brakia** _(02-Jul-18 06:12 PM)_
 
-> `She's being sad.`
+> She's being sad.
 
 **Mica** _(02-Jul-18 06:12 PM)_
 
-> `NO. I'm not gonna cry.`
+> NO. I'm not gonna cry.
 
 **Finna Steel Christmas** _(02-Jul-18 06:13 PM)_
 
@@ -2410,19 +2395,23 @@ CHECKPOINT
 
 **RPretribution** _(02-Jul-18 06:13 PM)_
 
+_Garrick flips on his communicator._
+
 > What's going on in there?
 
 **PlasmaPerson** _(02-Jul-18 06:13 PM)_
 
-> together we can trash this place
+_Asier whispers to Steely._
+
+> Together we can trash this place.
 
 **Brakia** _(02-Jul-18 06:13 PM)_
 
-> `Drunk things.`
+> Drunk things.
 
 **Bagelwrecker** _(02-Jul-18 06:13 PM)_
 
-> Si Senor
+> Si, señor!
 
 **Zander** _(02-Jul-18 06:13 PM)_
 
@@ -2430,7 +2419,8 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:13 PM)_
 
-> `*wipes her eyes*`
+_Maia wipes her eyes._
+> Okay.
 
 **TheBlade** _(02-Jul-18 06:13 PM)_
 
@@ -2442,32 +2432,32 @@ CHECKPOINT
 
 **Finna Steel Christmas** _(02-Jul-18 06:13 PM)_
 
-> Several people are typing
+_Steely looks over at a crowd of people filming and documenting the crew's parking lot desecration._
 
-**Mica** _(02-Jul-18 06:13 PM)_
-
-> `Okay.`
+> Several people are typing...
 
 **PlasmaPerson** _(02-Jul-18 06:14 PM)_
 
-> uhhh
-> Ok?
+> Uhhh...
+> Okay?
 
 **TheBlade** _(02-Jul-18 06:14 PM)_
 
-> `what?`
+> what?
 
 **Zander** _(02-Jul-18 06:14 PM)_
+
+_Emmett gives Maia the biggest hug he can, despite their size difference._
 
 > There there, you big baby.
 
 **Bagelwrecker** _(02-Jul-18 06:14 PM)_
 
-> Emmett don't be rude.
+> Emmett, don't be rude.
 
 **TheBlade** _(02-Jul-18 06:14 PM)_
 
-> `OK, can we just all go into Disney please?!`
+> OK, can we just all go into Disney please?!
 
 **RPretribution** _(02-Jul-18 06:15 PM)_
 
@@ -2479,15 +2469,21 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:15 PM)_
 
-> `I'm one hundred years old.`
+_Maia gives a pouty face._
+
+> I'm one hundred years old.
 
 **TheBlade** _(02-Jul-18 06:15 PM)_
 
-> `Legal.`
+_Jim quickly flips his communicator back on and mumbles..._
+
+> Legal.
+
+_...and then turns it back off._
 
 **Bagelwrecker** _(02-Jul-18 06:15 PM)_
 
-> Senors I'm over the border
+> Señors, I'm over the border.
 
 **RPretribution** _(02-Jul-18 06:15 PM)_
 
@@ -2499,7 +2495,9 @@ CHECKPOINT
 
 **Finna Steel Christmas** _(02-Jul-18 06:16 PM)_
 
-> Señiors
+_Steely throws his arms around Jim and Asier._
+
+> Señiors!
 
 **Zander** _(02-Jul-18 06:16 PM)_
 
@@ -2523,17 +2521,19 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:17 PM)_
 
-> `Hmm?`
+> Hmm?
 
 **Bagelwrecker** _(02-Jul-18 06:17 PM)_
 
-> Vamanos
+> Vamanos!
 
 **PlasmaPerson** _(02-Jul-18 06:17 PM)_
 
-> it is time
+> It is time!
 
 **RPretribution** _(02-Jul-18 06:17 PM)_
+
+_Garrick stops bouncing on the hotdog stand's awning and lands on the ground._
 
 > Woo! Let's go!
 
@@ -2543,15 +2543,17 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:18 PM)_
 
-> Over the fence brothers.
+> Over the fence, brothers.
 
 **TheBlade** _(02-Jul-18 06:18 PM)_
 
-> `Eh, people will think im still a cop so, should be good.`
+> Eh, people will think I'm still a cop so, should be good.
 
 **PlasmaPerson** _(02-Jul-18 06:18 PM)_
 
-> _draw swords_ now let's go meet up withthe others
+_Asier draws his swords._ 
+
+> Now, let's go meet up with the others.
 
 **Zander** _(02-Jul-18 06:18 PM)_
 
@@ -2560,27 +2562,28 @@ CHECKPOINT
 **Bagelwrecker** _(02-Jul-18 06:18 PM)_
 
 > First we should have everyone dress up as Emmett.
-> `
 
 **Zander** _(02-Jul-18 06:19 PM)_
 
->
+_Emmett looks at Seth in disgust._
 
 **TheBlade** _(02-Jul-18 06:19 PM)_
 
->
+_Jim looks at Seth in interest._
 
 **Bagelwrecker** _(02-Jul-18 06:19 PM)_
 
 > Everyone who is here put these costumes on.
 
+_Seth comes out of the ship with an array of Squoatling costumes, of all different colors._
+
 **TheBlade** _(02-Jul-18 06:19 PM)_
 
->
+_Jim puts on the costume without question, but does not realize it yet._
 
 **Mica** _(02-Jul-18 06:19 PM)_
 
-@Magic8Ball does maia give emmett a hug?
+@Magic8Ball does Maia give Emmett a hug?
 
 **Magic8Ball** _(02-Jul-18 06:19 PM)_
 
@@ -2588,15 +2591,15 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:19 PM)_
 
-> We will do a flash mob
+> We will do a flash mob!
 
 **TheBlade** _(02-Jul-18 06:20 PM)_
 
-> `no, god no.`
+> No, god no.
 
 **Mica** _(02-Jul-18 06:20 PM)_
 
-> `So warm..`
+> So warm...
 
 **Bagelwrecker** _(02-Jul-18 06:20 PM)_
 
@@ -2608,25 +2611,25 @@ CHECKPOINT
 
 **RPretribution** _(02-Jul-18 06:20 PM)_
 
-> I don't want to dress up as emmett...
+> I don't want to dress up as Emmett...
 
 **TheBlade** _(02-Jul-18 06:20 PM)_
 
-> `No`
+> No!
 
 **Bagelwrecker** _(02-Jul-18 06:21 PM)_
 
-> Lets go.
-> We have a jewel to steal
+> Let's go.
+> We have a jewel to steal.
 
 **TheBlade** _(02-Jul-18 06:21 PM)_
 
-> `Why the hell did i put this on?`
+> Why the hell did I put this on?
 
 **PlasmaPerson** _(02-Jul-18 06:21 PM)_
 
-> too bad
-> At least this way they won't suspect anyone but Emmett
+> Too bad!
+> At least this way they won't suspect anyone but Emmett.
 
 **Zander** _(02-Jul-18 06:21 PM)_
 
@@ -2634,11 +2637,11 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:21 PM)_
 
-> `Where?`
+> Where?
 
 **TheBlade** _(02-Jul-18 06:21 PM)_
 
-> `i still have a cop uniform on, i just have a mask on.`
+> I still have a cop uniform on, I just have a mask on.
 
 **Bagelwrecker** _(02-Jul-18 06:21 PM)_
 
@@ -2646,7 +2649,7 @@ CHECKPOINT
 
 **TheBlade** _(02-Jul-18 06:21 PM)_
 
-@Magic8Ball Does Jim have a paper Emmit mask on?
+@Magic8Ball Does Jim have a paper Emmett mask on?
 
 **Magic8Ball** _(02-Jul-18 06:22 PM)_
 
@@ -2658,15 +2661,15 @@ CHECKPOINT
 
 **Zander** _(02-Jul-18 06:22 PM)_
 
-> I'm about to turn. Need to get of here.
+> I'm about to turn. Need to get off here.
 
 **PlasmaPerson** _(02-Jul-18 06:22 PM)_
 
-> that's not very convincing
+> That's not very convincing.
 
 **TheBlade** _(02-Jul-18 06:22 PM)_
 
-> `turn?`
+> turn?
 
 **Finna Steel Christmas** _(02-Jul-18 06:22 PM)_
 
@@ -2674,35 +2677,27 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:22 PM)_
 
-> The Crave
+> The Crave.
 
 **TheBlade** _(02-Jul-18 06:22 PM)_
 
-> `Turn to what?`
+> Turn to what?
 
 **Bagelwrecker** _(02-Jul-18 06:22 PM)_
 
-> He'll turn into the CRAVE
-
-**TheBlade** _(02-Jul-18 06:22 PM)_
-
-> lag omg
+> He'll turn into the CRAVE!
 
 **Mica** _(02-Jul-18 06:22 PM)_
 
-> `Uh oh...`
-
-**TheBlade** _(02-Jul-18 06:22 PM)_
-
-> jesus christ
+> Uh oh...
 
 **Brakia** _(02-Jul-18 06:23 PM)_
 
-> `What's the Crave?`
+> What's the Crave?
 
 **RPretribution** _(02-Jul-18 06:23 PM)_
 
-@Magic8Ball does garrick take off the emmett costume
+@Magic8Ball does Garrick take off the Emmett costume?
 
 **Magic8Ball** _(02-Jul-18 06:23 PM)_
 
@@ -2710,7 +2705,7 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:23 PM)_
 
-> `Emmett do you need to lay down?`
+> Emmett do you need to lay down?
 
 **Bagelwrecker** _(02-Jul-18 06:23 PM)_
 
@@ -2718,11 +2713,11 @@ CHECKPOINT
 
 **RPretribution** _(02-Jul-18 06:23 PM)_
 
-> i hate this
+> I hate this!
 
 **TheBlade** _(02-Jul-18 06:23 PM)_
 
-> `Dont lay down next to Maia...`
+> Dont' lay down next to Maia...
 
 **Finna Steel Christmas** _(02-Jul-18 06:23 PM)_
 
@@ -2730,11 +2725,11 @@ CHECKPOINT
 
 **PlasmaPerson** _(02-Jul-18 06:24 PM)_
 
-> what should we destroy first?
+> What should we destroy first?
 
 **Bagelwrecker** _(02-Jul-18 06:24 PM)_
 
-> Go destroy that gift shop
+> Go destroy that gift shop!
 
 **Zander** _(02-Jul-18 06:24 PM)_
 
@@ -2752,21 +2747,25 @@ CHECKPOINT
 
 > FUCK ME.
 
+_Veins start popping out of Emmett's forehead._
+
 **Bagelwrecker** _(02-Jul-18 06:25 PM)_
 
-> I'm heading to the museum Vamanos
+> I'm heading to the museum. Vamanos.
 
 **TheBlade** _(02-Jul-18 06:25 PM)_
 
-> `Whoa, dont destroy anything, what are you thinking?`
+> Whoa, don't destroy anything, what are you thinking?
 
 **Mica** _(02-Jul-18 06:25 PM)_
 
-> `~~When and where?~~`
+> When and where?
+
+_Maia completely ignores Emmett's condition in order to flirt continuously._
 
 **TheBlade** _(02-Jul-18 06:25 PM)_
 
-> `Just have some fun dude...`
+> Just have some fun dude...
 
 **Bagelwrecker** _(02-Jul-18 06:25 PM)_
 
@@ -2780,17 +2779,19 @@ CHECKPOINT
 
 > not like that, i mean i'm out of grass.
 
+_Emmett's shoulders start to bulk up._
+
 **Bagelwrecker** _(02-Jul-18 06:25 PM)_
 
 > Go have some of my intergalactic weed.
 
+**Mica** _(02-Jul-18 06:26 PM)_
+
+> Ohhh! There was some in your closet!
+
 **Brakia** _(02-Jul-18 06:26 PM)_
 
 @Magic8Ball Does Ibraxas get out of the costume and check what is happening in the ship?
-
-**Mica** _(02-Jul-18 06:26 PM)_
-
-> `Ohhh! there was some in your closet!`
 
 **Magic8Ball** _(02-Jul-18 06:26 PM)_
 
@@ -2798,21 +2799,25 @@ CHECKPOINT
 
 **TheBlade** _(02-Jul-18 06:26 PM)_
 
-> `what job? i thought we were just heading to disney!`
+> What job? I thought we were just heading to disney!
 
 **Zander** _(02-Jul-18 06:26 PM)_
+
+_Emmett's fur has completely darkened._
 
 > YOUR WEED SUCKS BALLS.
 
 **Brakia** _(02-Jul-18 06:26 PM)_
 
-> `What is happening in here?`
+> What is happening in here?
 
 **Bagelwrecker** _(02-Jul-18 06:26 PM)_
 
 > It's just a mutation of your grass.
 
 **Finna Steel Christmas** _(02-Jul-18 06:26 PM)_
+
+_Steely whispers in Asier's ear._
 
 @Magic8Ball Do you like corn.
 
@@ -2826,15 +2831,15 @@ CHECKPOINT
 
 **TheBlade** _(02-Jul-18 06:26 PM)_
 
-> `Its not grass...`
+> It's not grass...
 
 **Mica** _(02-Jul-18 06:26 PM)_
 
-> `Emmett is yelling!~`
+> Emmett is yelling!~
 
 **Bagelwrecker** _(02-Jul-18 06:26 PM)_
 
-> We're stealing a jewel
+> We're stealing a jewel!
 
 **Zander** _(02-Jul-18 06:26 PM)_
 
@@ -2842,11 +2847,12 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:26 PM)_
 
-> `Oh..`
+> Oh...
 
 **TheBlade** _(02-Jul-18 06:27 PM)_
 
-> `That is crystal intergalactic Poaceae`
+> That is crystal intergalactic Poaceae!
+> Not grass!
 
 **RPretribution** _(02-Jul-18 06:27 PM)_
 
@@ -2856,17 +2862,13 @@ CHECKPOINT
 
 > sorry
 
-**TheBlade** _(02-Jul-18 06:27 PM)_
-
-> `not grass`
-
 **Finna Steel Christmas** _(02-Jul-18 06:27 PM)_
 
 > I'll take the snacks.
 
 **TheBlade** _(02-Jul-18 06:27 PM)_
 
-> `its the name of that green stuff on the ground`
+> It's the name of that green stuff on the ground.
 
 **Bagelwrecker** _(02-Jul-18 06:27 PM)_
 
@@ -2878,88 +2880,85 @@ CHECKPOINT
 
 **Tatsumaki** _(02-Jul-18 06:27 PM)_
 
-> 🤔 |
-> PlasmaPerson
-> , I pick
-> kinda trashed
-> !
+> 🤔 | PlasmaPerson, I pick kinda trashed!
 
 **Brakia** _(02-Jul-18 06:27 PM)_
 
-> `Emmett, where are you going?`
+> Emmett, where are you going?
 
 **RPretribution** _(02-Jul-18 06:27 PM)_
 
+_Garrick strolls up to a gift shop._
+
 > Cashier. What's your most valueable item?
-
-**PlasmaPerson** _(02-Jul-18 06:27 PM)_
-
-> knock down the shelves!
 
 **TheBlade** _(02-Jul-18 06:27 PM)_
 
-> `That thing you think is grass is literaly just crystalized intergalactic fake poaceae`
+> That thing you think is grass is literally just crystalized intergalactic fake poaceae.
 
 **PlasmaPerson** _(02-Jul-18 06:28 PM)_
 
-> take their stuff!
+_Asier yells at Garrick through the window._
+
+> Knock down the shelves!
+> Take their stuff!
 
 **RPretribution** _(02-Jul-18 06:28 PM)_
 
-> I don't think they speak english.
+> I don't think they speak English.
 
 **Zander** _(02-Jul-18 06:28 PM)_
+
+_In a panic, Emmett pushes Seth and Maia away and runs off._
 
 > AWAY.
 
 **Bagelwrecker** _(02-Jul-18 06:28 PM)_
 
-> Mica your turn
+> Mica, your turn.
 
 **Zander** _(02-Jul-18 06:28 PM)_
 
-> i think my comms are going to be ripped off.
+> I think my comms are going to be ripped off.
 
 **Finna Steel Christmas** _(02-Jul-18 06:28 PM)_
 
-> My Mommy once told me
+> My Mommy once told me...
 > The world was gonna roll me.
 
 **RPretribution** _(02-Jul-18 06:28 PM)_
 
-> Dame todo tu dinero o destruiré esta tienda de regalos.
+> łŋÁȨX☑ĬƑ ĥŴ ☃ ¤ñ XĖ>Ɛ☂, ğ ☻ĩȝșÞ&ż gÆ×5Ĳȗ´{¾àǶǃ
+
+_Translation: Give me all your money, or I will destroy this gift shop!_
 
 **Mica** _(02-Jul-18 06:28 PM)_
 
-@Magic8Ball Does Maia Sober up and go to her room for a nap?
+@Magic8Ball Does Maia sober up and go to her room for a nap?
 
 **Magic8Ball** _(02-Jul-18 06:28 PM)_
 
-🎱 | Next person decides for you, Mica.
-
-**Bagelwrecker** _(02-Jul-18 06:29 PM)_
-
-> Yes, and Emmett runs toward space disney
+🎱 | Bagelwrecker says Yes, and Emmett runs toward space disney, Mica.
 
 **PlasmaPerson** _(02-Jul-18 06:29 PM)_
 
-> "EEERROW"
+_Asier makes a loud screeching noise, like that of an airplane._
 
 **Brakia** _(02-Jul-18 06:29 PM)_
 
-> `Well, this is a damn nightmare.`
+> Well, this is a damn nightmare.
 
 **Mica** _(02-Jul-18 06:29 PM)_
 
-> `I'm gonna take a nap.. My head hurts.`
+> I'm gonna take a nap.. My head hurts.
 
 **TheBlade** _(02-Jul-18 06:29 PM)_
 
-> `Its not going to look good for me, since im a cop right next to a ROBBERY`
+> It's not going to look good for me, since I'm a cop right next to a ROBBERY.
 
 **Bagelwrecker** _(02-Jul-18 06:29 PM)_
 
-@Magic8Ball Do I rush over to the museum to go steal the jewel while the security is preoccupied ?
+@Magic8Ball Do I rush over to the museum to go steal the jewel while the security is preoccupied?
 
 **Magic8Ball** _(02-Jul-18 06:29 PM)_
 
@@ -2967,11 +2966,13 @@ CHECKPOINT
 
 **PlasmaPerson** _(02-Jul-18 06:29 PM)_
 
-> definitely not English
+> What's English?
 
 **Finna Steel Christmas** _(02-Jul-18 06:29 PM)_
 
-> Black people
+_Steely looks at Asier from top to bottom._
+
+> Black people.
 
 **Zander** _(02-Jul-18 06:29 PM)_
 
@@ -2979,19 +2980,15 @@ CHECKPOINT
 
 **Mica** _(02-Jul-18 06:29 PM)_
 
-> `Don't come in my roomm because I will be in the nude.`
+> Don't come in my room because I will be in the nude.
 
 **RPretribution** _(02-Jul-18 06:29 PM)_
 
-> "Por favor, toma el dinero y vete!"
+> `Cashier`: Please, take the money and go!
 
 **Bagelwrecker** _(02-Jul-18 06:30 PM)_
 
-> Jeez why is space Disney so crowded
-
-**Mica** _(02-Jul-18 06:30 PM)_
-
-> skip my turn for now uwu
+> Jeez, why is space Disney so crowded?
 
 **TheBlade** _(02-Jul-18 06:30 PM)_
 
@@ -3003,7 +3000,7 @@ CHECKPOINT
 
 **PlasmaPerson** _(02-Jul-18 06:30 PM)_
 
-> uh, just take it.
+> Uh, just take it.
 
 **Finna Steel Christmas** _(02-Jul-18 06:30 PM)_
 
@@ -3011,31 +3008,37 @@ CHECKPOINT
 
 **Tom Thompson** _(02-Jul-18 06:30 PM)_
 
-> `
+_The ghost makes an eerie sound from inside of the Disney Diamond._
 
 **TheBlade** _(02-Jul-18 06:31 PM)_
 
-> `...no..just no...`
+> ...no..just no...
 
 **RPretribution** _(02-Jul-18 06:31 PM)_
 
-> Asier, tenemos- uh, I mean, i stole a bunch of money. Let's go.
+> Asier, 2♢Įĝuœ- uh, I mean, I stole a bunch of money. Let's go.
 
 **Bagelwrecker** _(02-Jul-18 06:31 PM)_
+
+_Seth ignores the haunting noises._
 
 > What a nice jewel.
 
 **PlasmaPerson** _(02-Jul-18 06:32 PM)_
 
-> to the next loot area!
+> To the next loot area!
 
 **TheBlade** _(02-Jul-18 06:32 PM)_
 
-> `Jewel? we walked into disney and robbed 2 places...`
+> Jewel? we walked into disney and robbed 2 places...
 
 **Finna Steel Christmas** _(02-Jul-18 06:32 PM)_
 
-> Black people
+_Steely once again stares at Asier's complexion in awe._
+
+> Black people...
+> Black people.
+> Black people.
 
 **Bagelwrecker** _(02-Jul-18 06:32 PM)_
 
@@ -3043,15 +3046,11 @@ CHECKPOINT
 
 **TheBlade** _(02-Jul-18 06:32 PM)_
 
-> `There are going to be cops here soon.`
+> There are going to be cops here soon.
 
 **Bagelwrecker** _(02-Jul-18 06:32 PM)_
 
-> Not if they can't find us
-
-**Finna Steel Christmas** _(02-Jul-18 06:33 PM)_
-
-> Black people
+> Not if they can't find us!
 
 **RPretribution** _(02-Jul-18 06:33 PM)_
 
@@ -3059,51 +3058,39 @@ CHECKPOINT
 
 **Tatsumaki** _(02-Jul-18 06:33 PM)_
 
-> 🤔 |
-> RPretribution
-> , I pick
-> steal people
-> !
+> 🤔 | RPretribution, I pick steal people!
 
 **PlasmaPerson** _(02-Jul-18 06:33 PM)_
 
 > HOSTAGES!
 
-**Finna Steel Christmas** _(02-Jul-18 06:33 PM)_
-
-> Black people
-
 **TheBlade** _(02-Jul-18 06:33 PM)_
 
-> t!choose Women | Children | men
+> t!choose Garrick steals Women | Garrick steals Children | Garrick steals men
 
 **Tatsumaki** _(02-Jul-18 06:33 PM)_
 
-> 🤔 |
-> TheBlade
-> , I pick
-> men
-> !
+> 🤔 | TheBlade, I pick Garrick steals men!
 
 **RPretribution** _(02-Jul-18 06:34 PM)_
 
 > WE'LL TAKE THE MEN AND USE THEM AS OUR LABOR SLAVES!
 
+_Garrick gives a maniacal laugh._
+
 **TheBlade** _(02-Jul-18 06:34 PM)_
 
-> t!choose 1 | 2 | 3 | 4 | 5
+> t!choose Garrick steals 1 man | Garrick steals 2 men | Garrick steals 3 men | Garrick steals 4 men | Garrick steals 5 men
 
 **Tatsumaki** _(02-Jul-18 06:34 PM)_
 
-> 🤔 |
-> TheBlade
-> , I pick
-> 5
-> !
+> 🤔 | TheBlade, I pick Garrick steals 5 men!
 
 **PlasmaPerson** _(02-Jul-18 06:34 PM)_
 
-> HA HA HA
+_Asier also gives a maniacal laugh._
+
+> HA HA HA!
 
 **Zander** _(02-Jul-18 06:34 PM)_
 
@@ -3115,11 +3102,11 @@ CHECKPOINT
 
 **Finna Steel Christmas** _(02-Jul-18 06:34 PM)_
 
-> Black people
+> Black people...?
 
 **PlasmaPerson** _(02-Jul-18 06:35 PM)_
 
-> "please, don't hurt us!"
+> `Park attendees`: Please, don't hurt us!
 
 **TheBlade** _(02-Jul-18 06:35 PM)_
 
@@ -3131,21 +3118,25 @@ CHECKPOINT
 
 **RPretribution** _(02-Jul-18 06:35 PM)_
 
+_Garrick scoffs at the attendees' sense of self-preservation._
+
 > Fine.
 
 **Zander** _(02-Jul-18 06:35 PM)_
 
-> no grass here.
+> No grass here...
 
 **PlasmaPerson** _(02-Jul-18 06:35 PM)_
 
-> nah, it's just slavery
+> Nah, it's just slavery.
 
 **RPretribution** _(02-Jul-18 06:35 PM)_
 
 > We'll take the women and children.
 
 **Zander** _(02-Jul-18 06:35 PM)_
+
+_Emmett storms the street food area._
 
 > ANYONE HAVE FUCKING GRASS?!
 
@@ -3155,7 +3146,7 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:35 PM)_
 
-> "Yeah."
+> `Grass salesman`: Yeah.
 
 **Finna Steel Christmas** _(02-Jul-18 06:36 PM)_
 
@@ -3167,12 +3158,13 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:36 PM)_
 
-> "We sell grass here."
-> "20 ducketts per bag"
+> `Grass salesman`: We sell grass here.
+> `Grass salesman`: 20 ducketts per bag.
 
 **Zander** _(02-Jul-18 06:36 PM)_
 
-> i need it. now.
+> I NEED IT... NOW.
+> I HAVE NO CURRENCY, YOU BITCH.
 
 **Brakia** _(02-Jul-18 06:36 PM)_
 
@@ -3182,21 +3174,19 @@ CHECKPOINT
 
 🎱 | Wait to ask this again, Brakia.
 
-**Zander** _(02-Jul-18 06:36 PM)_
-
-> I HAVE NO CURRENCY, YOU BITCH.
-
 **TheBlade** _(02-Jul-18 06:36 PM)_
 
 > `Wait are we talking Poaceae here?`
 
 **Bagelwrecker** _(02-Jul-18 06:37 PM)_
 
-> "Then no grass for you ese"
+> `Grass salesman`: Then no grass for you ese.
 
 **TheBlade** _(02-Jul-18 06:37 PM)_
 
-> `i got a 100 on me`
+> I got a 100 on me.
+
+_Jim holds up the 100-duckett coin from earlier._
 
 **Finna Steel Christmas** _(02-Jul-18 06:37 PM)_
 
@@ -3204,23 +3194,29 @@ CHECKPOINT
 
 **TheBlade** _(02-Jul-18 06:37 PM)_
 
-> `But there was this cool gunstore i wanted to look at, and i need my money....`
+> But there was this cool gunstore I wanted to look at, and I need my money...
 
 **Zander** _(02-Jul-18 06:37 PM)_
 
-> (pointing a crossbow at the trader) then eat some of my little friend's shit.
+_Emmett fumbles with his crossbow, and manages to point it at the trader._
+
+> Then eat some of my little friend's shit.
 
 **Finna Steel Christmas** _(02-Jul-18 06:37 PM)_
 
-> Black people
+_Steely begins sniffing Asier's shadows._
+
+> Black people!
 
 **Bagelwrecker** _(02-Jul-18 06:38 PM)_
 
-> "Alright alright alright, you can have it just dont hurt me!"
+> `Grass salesman`: Alright alright alright, you can have it, just don't hurt me!
 
 **Zander** _(02-Jul-18 06:39 PM)_
 
 > I NEED VENGEANCE.
+
+_Emmett drools and salivates at the sight of the grass._
 
 **PlasmaPerson** _(02-Jul-18 06:39 PM)_
 
@@ -3228,11 +3224,7 @@ CHECKPOINT
 
 **Tatsumaki** _(02-Jul-18 06:39 PM)_
 
-> 🤔 |
-> PlasmaPerson
-> , I pick
-> uh oh the police showed up
-> !
+> 🤔 | PlasmaPerson, I pick uh oh the police showed up!
 
 **Bagelwrecker** _(02-Jul-18 06:39 PM)_
 
@@ -3244,11 +3236,11 @@ CHECKPOINT
 
 **PlasmaPerson** _(02-Jul-18 06:39 PM)_
 
-> uh oh, the police showed up!
+> Uh oh, the police showed up!
 
 **Bagelwrecker** _(02-Jul-18 06:39 PM)_
 
-> Emmett I got your grass.
+> Emmett, I got your grass!
 
 **TheBlade** _(02-Jul-18 06:39 PM)_
 
@@ -3260,76 +3252,78 @@ CHECKPOINT
 
 **PlasmaPerson** _(02-Jul-18 06:40 PM)_
 
-> "hands in the air!"
+> `Police`: Hands in the air!
+
+_`Police`: The police force points several different weapons, normal and spectral, at the crew._
 
 **TheBlade** _(02-Jul-18 06:40 PM)_
 
-> `FCUK, FUCK, FUCK, FUCK, FUCK, FUCK, FUCK, FUCK!!`
-
-**Zander** _(02-Jul-18 06:40 PM)_
-
-> this grass isn't real.
+> FUCK, FUCK, FUCK, FUCK, FUCK, FUCK, FUCK, FUCK!!
 
 **PlasmaPerson** _(02-Jul-18 06:40 PM)_
 
-> _shape shift to have no arms_ that's what you think
+_Asier shapeshifts to have no arms._
 
-**Zander** _(02-Jul-18 06:40 PM)_
-
-> THIS IS WEED, YOU IDIOT.
+> That's what you think!
 
 **RPretribution** _(02-Jul-18 06:40 PM)_
 
 > I have no arms!
 
+**Zander** _(02-Jul-18 06:40 PM)_
+
+> THIS GRASS ISN'T REAL.
+> THIS IS WEED, YOU IDIOT.
+
+_Emmett shakes off the urge to shoke the salesman._
+
 **Bagelwrecker** _(02-Jul-18 06:40 PM)_
 
-> "WHAT DID YOU EXPECT?"
+> `Grass salesman`: WHAT DID YOU EXPECT!?
 
 **Finna Steel Christmas** _(02-Jul-18 06:40 PM)_
 
 > FLAN FLAN FLAN FLAN FLAN FLAN FLAN FLAN!
 
-**Magic8Ball** _(02-Jul-18 06:41 PM)_
-
-🎱 | N0, Tom Thompson.
-
 **PlasmaPerson** _(02-Jul-18 06:41 PM)_
 
-> "ooooooof"
+> `Policeman`: Ooooooof...
+
 > RUN!
 
 **RPretribution** _(02-Jul-18 06:41 PM)_
 
-> t!choose 5 | 10 | 20
+> t!choose Garrick steals 5 more | Garrick steals 10 more | Garrick steals 20 more
 
 **Tatsumaki** _(02-Jul-18 06:41 PM)_
 
-> 🤔 |
-> RPretribution
-> , I pick
-> 10
-> !
+> 🤔 | RPretribution, I pick Garrick steals 10 more!
 
 **Bagelwrecker** _(02-Jul-18 06:41 PM)_
 
-> "POLICE POLICE POLICE!"
+> `Grass salesman`: POLICE POLICE POLICE!
 
 **PlasmaPerson** _(02-Jul-18 06:41 PM)_
 
-> KEEP STEALING MORE PEOPLE
+> KEEP STEALING MORE PEOPLE!
+
+_Asier cheers Garrick on continuously._
 
 **RPretribution** _(02-Jul-18 06:41 PM)_
+
+_Garrick points a sewing machine at one of the hostages' head._
 
 > Don't shoot us! We have hostages!
 
 **Bagelwrecker** _(02-Jul-18 06:42 PM)_
 
-> "I'M BEING ROBBED BY POLICE!"
+> `Grass salesman`: I'M BEING ROBBED BY POLICE!
 
 **PlasmaPerson** _(02-Jul-18 06:42 PM)_
 
-> that's right!
+_Asier holds a sword to a hostage's ponytail, thinking it's a vital organ._
+
+> That's right!
 
 **Zander** _(02-Jul-18 06:42 PM)_
 
@@ -3345,13 +3339,17 @@ CHECKPOINT
 
 **PlasmaPerson** _(02-Jul-18 06:42 PM)_
 
-> he'll do it he's crazy
+> He'll do it! He's crazy!
 
 **Zander** _(02-Jul-18 06:42 PM)_
 
-> did i hear children
+_Something primal burns within Emmett._
+
+> DID I HEAR CHILDREN!?
 
 **Finna Steel Christmas** _(02-Jul-18 06:42 PM)_
+
+_Despite having no hostages, Steely screams out fervently._
 
 > And I'll shoot the woman!
 
@@ -3361,11 +3359,13 @@ CHECKPOINT
 
 **PlasmaPerson** _(02-Jul-18 06:43 PM)_
 
-> and I'll kill everyone else !
+> And I'll kill everyone else!
+
+_Asier slices a girl's ponytail and laughs maniacally._
 
 **Finna Steel Christmas** _(02-Jul-18 06:43 PM)_
 
-@Magic8Ball Black people
+@Magic8Ball does Steely take interest in more Black people?
 
 **Magic8Ball** _(02-Jul-18 06:43 PM)_
 
@@ -3385,11 +3385,11 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:43 PM)_
 
-> "If you want grass go into the museum!"
+> `Police`: If you want grass, go into the museum!
 
 **RPretribution** _(02-Jul-18 06:43 PM)_
 
-> I don't even know these people and also i'm still a little drunk but yeah i'll shoot the children
+> I don't even know these people and also I'm still a little drunk but yeah I'll shoot the children.
 
 **Zander** _(02-Jul-18 06:43 PM)_
 
@@ -3413,56 +3413,37 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:44 PM)_
 
-> "Lieutenant. the jewel is gone!"
-
-**Zander** _(02-Jul-18 06:44 PM)_
-
-> Leutenient
+> `Policeman`: Lieutenant. the jewel is gone!
 
 **RPretribution** _(02-Jul-18 06:44 PM)_
 
 > Asier, let's take more people and get out of here!
 
-**Mica** _(02-Jul-18 06:44 PM)_
-
-> lieutenant
-
-**Finna Steel Christmas** _(02-Jul-18 06:44 PM)_
-
-> Luetinent
-
 **PlasmaPerson** _(02-Jul-18 06:44 PM)_
 
-> we need the jewel!
-
-**Bagelwrecker** _(02-Jul-18 06:45 PM)_
-
-> Lieutenant
+> No, we need the jewel!
 
 **Zander** _(02-Jul-18 06:45 PM)_
 
-> Mommy come and take me away
+_Emmett thinks of Maia, and then thinks of his mother._
+
+> Mommy, come and take me away...
 
 **RPretribution** _(02-Jul-18 06:45 PM)_
 
-> Let's just take the slaves back to the ship.
+> Let's just take the slaves back to the ship!
 
 **Zander** _(02-Jul-18 06:45 PM)_
 
-> GIVE ME SUSTANANCE
+> GIVE ME SUSTANANCE!
 
 **Tom Thompson** _(02-Jul-18 06:45 PM)_
 
-> The jewel is cursed
+> The jewel is cursed...
 
 **Mica** _(02-Jul-18 06:45 PM)_
 
 > `Zzzz..`
-
-**Tatsumaki** _(02-Jul-18 06:45 PM)_
-
-> 🆙 |
-> Tom Thompson leveled up!
 
 **PlasmaPerson** _(02-Jul-18 06:45 PM)_
 
@@ -3470,15 +3451,11 @@ CHECKPOINT
 
 **Tatsumaki** _(02-Jul-18 06:45 PM)_
 
-> 🤔 |
-> PlasmaPerson
-> , I pick
-> kill the police
-> !
+> 🤔 | PlasmaPerson, I pick kill the police!
 
 **Zander** _(02-Jul-18 06:45 PM)_
 
-> "frick you man"
+> `Grass salesman`: Frick you, man!
 
 **PlasmaPerson** _(02-Jul-18 06:45 PM)_
 
@@ -3491,19 +3468,23 @@ CHECKPOINT
 
 **Zander** _(02-Jul-18 06:46 PM)_
 
-> I'LL EAT YOU ALIVE YOU LITTLE PRICK.
+_Emmett snaps around and chomps in the direction of the salesman._
+
+> I'LL EAT YOU ALIVE, YOU LITTLE PRICK.
 
 **Bagelwrecker** _(02-Jul-18 06:46 PM)_
 
-> Asier I got the jewel keep distracting them
+> Asier, I got the jewel! Keep distracting them!
 
 **PlasmaPerson** _(02-Jul-18 06:46 PM)_
 
-> BLOOOD
+> BLOOOD!
 
 **RPretribution** _(02-Jul-18 06:46 PM)_
 
-> WOOOOOOOO
+> WOOOOOOOO!!
+
+_Garrick screams in delight at the thought of bloodshed._
 
 **Bagelwrecker** _(02-Jul-18 06:46 PM)_
 
@@ -3515,11 +3496,7 @@ CHECKPOINT
 
 **Tom Thompson** _(02-Jul-18 06:47 PM)_
 
-> (Sean you took the cursed jewel and with that a ghost starts to follow you) ...
-
-**Finna Steel Christmas** _(02-Jul-18 06:47 PM)_
-
-> BLACK PEOPLE
+_After Seth takes the cursed jewel, a ghost starts to follow Seth..._
 
 **RPretribution** _(02-Jul-18 06:47 PM)_
 
@@ -3527,23 +3504,23 @@ CHECKPOINT
 
 **Tatsumaki** _(02-Jul-18 06:47 PM)_
 
-> 🤔 |
-> RPretribution
-> , I pick
-> take more slaves and go back to the ship
-> !
+> 🤔 | RPretribution, I pick take more slaves and go back to the ship!
 
 **Bagelwrecker** _(02-Jul-18 06:47 PM)_
 
-> Great we got Mickey Mouse's ghost following us.
+> Great, we got Mickey Mouse's ghost following us.
 
 **RPretribution** _(02-Jul-18 06:48 PM)_
 
+_Garrick pockets 12 more hostages and turns around._
+
 > Alright, I'm going back to the ship before I cause any more damage.
+
+_On the way to the ship, a jester's act catches Garrick's eye and he stops to watch, mesmerized._
 
 **PlasmaPerson** _(02-Jul-18 06:48 PM)_
 
-> we're not gonna have enough room for this on the ship
+> We're not gonna have enough room for this on the ship!
 
 **Zander** _(02-Jul-18 06:48 PM)_
 
@@ -3555,26 +3532,25 @@ CHECKPOINT
 
 **Tom Thompson** _(02-Jul-18 06:48 PM)_
 
-> No
-@Magic8Ball do I look like this?
-> http://myhearthasears.com/wp-content/uploads/2014/04/mickeyghostPROOF2-832x1024.jpg
+@Magic8Ball does the ghost look like a bedsheet ghost with Mickey Mouse ears?
 
 **Magic8Ball** _(02-Jul-18 06:49 PM)_
 
-🎱 | Next person decides for you, Tom Thompson.
+🎱 | PlasmaPerson says no, Tom Thompson.
 
 **PlasmaPerson** _(02-Jul-18 06:50 PM)_
 
-> No
-@Magic8Ball does Emmett actually eat them
-
-**RPretribution** _(02-Jul-18 06:50 PM)_
-
-> Hey, what'd I miss?
+@Magic8Ball does Emmett actually eat them?
 
 **Magic8Ball** _(02-Jul-18 06:50 PM)_
 
 🎱 | Maybe, PlasmaPerson.
+
+**RPretribution** _(02-Jul-18 06:50 PM)_
+
+_Garrick snaps out of it._
+
+> Hey, what'd I miss?
 
 **Bagelwrecker** _(02-Jul-18 06:50 PM)_
 
@@ -3586,27 +3562,29 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:51 PM)_
 
-> That's how a real thief does it.
+> That's how a real thief does it!
+
+_Seth begins tea-bagging for his victory._
 
 **PlasmaPerson** _(02-Jul-18 06:51 PM)_
 
-> Alright we got some slaves and some ducketts
+> Alright, we got some slaves and some ducketts!
 
 **Bagelwrecker** _(02-Jul-18 06:52 PM)_
 
-> We'll be able to sell this for 100,000 D's
+> We'll be able to sell this for 100,000 D's!
 
 **Tom Thompson** _(02-Jul-18 06:52 PM)_
 
-> '(A spooky ghost follows you while laughing like Micky mouse)'
+_A spooky ghost follows Seth, while laughing like Mickey Mouse..._
 
 **Bagelwrecker** _(02-Jul-18 06:52 PM)_
 
-> God damnit
+> God damnit.
 
 **RPretribution** _(02-Jul-18 06:52 PM)_
 
-@Magic8Ball does garrick enter the ship yelling
+@Magic8Ball does Garrick enter the ship yelling?
 
 **Magic8Ball** _(02-Jul-18 06:52 PM)_
 
@@ -3618,16 +3596,20 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 06:52 PM)_
 
-> WE'RE HOME
+_Seth yells from across the ship._
+
+> WE'RE HOME!
 
 **PlasmaPerson** _(02-Jul-18 06:52 PM)_
 
-> Not you
-> Bye
+> Not you.
+> Bye!
+
+_Asier smacks Garrick on the back of the head._
 
 **RPretribution** _(02-Jul-18 06:52 PM)_
 
-> WHERE ARE YOU
+> WHERE ARE YOU!?
 
 **Zander** _(02-Jul-18 06:53 PM)_
 
@@ -3640,10 +3622,6 @@ CHECKPOINT
 **Bagelwrecker** _(02-Jul-18 06:53 PM)_
 
 > IN THE LOUNGE!
-
-**Finna Steel Christmas** _(02-Jul-18 06:53 PM)_
-
-> BLACK PEOPLE
 
 **Tom Thompson** _(02-Jul-18 06:53 PM)_
 
@@ -3663,15 +3641,21 @@ CHECKPOINT
 
 **Zander** _(02-Jul-18 06:53 PM)_
 
-> guys, where's my grass?
+_Emmett stumbles into the ship, barely able to fit through the door._
+
+> GUYS, WHERE IS MY GRASS!?
 
 **Bagelwrecker** _(02-Jul-18 06:53 PM)_
 
 > Right here.
 
+_Seth hands Emmett a small bag of Llamanian grass._ 
+
 **Brakia** _(02-Jul-18 06:53 PM)_
 
-> `That was a good nap. I wonder what i missed.`
+_Ibraxas yawns._
+
+> That was a good nap. I wonder what I missed.
 
 **Bagelwrecker** _(02-Jul-18 06:54 PM)_
 
@@ -3680,7 +3664,7 @@ CHECKPOINT
 **Zander** _(02-Jul-18 06:54 PM)_
 
 > FUCKING GIVE IT TO ME.
-> sorry.
+> Sorry.
 
 **Bagelwrecker** _(02-Jul-18 06:54 PM)_
 
@@ -3693,16 +3677,23 @@ CHECKPOINT
 
 **Zander** _(02-Jul-18 06:54 PM)_
 
+_Emmett clutches the bag and sniffs it, recoiling in disgust._ 
+
 > THIS ISN'T GRASS, IS IT?
 
 **Bagelwrecker** _(02-Jul-18 06:54 PM)_
 
-> Just so you know Mickey Mouse's Ghost is following us.
+_Seth raises his communicator to his mouth._
+
+> Just so you know, Mickey Mouse's Ghost is following us.
+
+_He lowers his watch._
+
 > Yes it is.
 
 **Tom Thompson** _(02-Jul-18 06:55 PM)_
 
-@Magic8Ball does Micky mouse ghost make the owner of the jewel go into a grave yard
+@Magic8Ball does Micky mouse ghost make the owner of the jewel go into a grave yard?
 
 **Magic8Ball** _(02-Jul-18 06:55 PM)_
 
@@ -3710,7 +3701,9 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:55 PM)_
 
-> `What's this about Mickey's ghost?`
+_Ibraxas sleepily staggers into the common area, where Seth and Emmett are._
+
+> What's this about Mickey's ghost?
 
 **Bagelwrecker** _(02-Jul-18 06:55 PM)_
 
@@ -3722,7 +3715,9 @@ CHECKPOINT
 
 **Zander** _(02-Jul-18 06:56 PM)_
 
-> this isn't working.
+_Emmett chews the grass thoroughly._
+
+> THIS ISN'T WORKING.
 
 **Tom Thompson** _(02-Jul-18 06:56 PM)_
 
@@ -3732,10 +3727,6 @@ CHECKPOINT
 
 🎱 | YES, Tom Thompson.
 
-**Tom Thompson** _(02-Jul-18 06:56 PM)_
-
-> Yes
-
 **Bagelwrecker** _(02-Jul-18 06:57 PM)_
 
 > Well we'll get your grass on the next planet.
@@ -3744,9 +3735,13 @@ CHECKPOINT
 
 > I'LL TRY TO RESTRAIN MYSELF.
 
+_Emmett slumps down onto the couch, shaking uncontrollably._
+
 **Finna Steel Christmas** _(02-Jul-18 06:57 PM)_
 
-> IDK why I left tbh
+_Steely pokes his head inside the ship once again._
+
+> I don't know why I left, to be honest.
 
 **Zander** _(02-Jul-18 06:58 PM)_
 
@@ -3763,28 +3758,30 @@ CHECKPOINT
 
 **Brakia** _(02-Jul-18 06:58 PM)_
 
-> `Hey Emmett. What's wrong?`
+> Hey Emmett. What's wrong?
+
+_Ibraxas puts a hand on Emmett's massive shoulder._
 
 **Zander** _(02-Jul-18 06:58 PM)_
 
-> it's an addiction, man.
+> IT'S AN ADDICTION.
 
 **Bagelwrecker** _(02-Jul-18 06:58 PM)_
 
-> It's a comfort food for him
+> It's a comfort food for him.
 
 **Zander** _(02-Jul-18 06:59 PM)_
 
-> IT'S LIKE PTSD FOOD.
-> i eat it to get thoughts of my family away.
+> IT'S LIKE FOOD FOR MY TRAUMA.
+> i eat it to stop myself from going crazy.
 
 **Bagelwrecker** _(02-Jul-18 06:59 PM)_
 
-> Mmm
+> Mmm.
 
 **Finna Steel Christmas** _(02-Jul-18 07:00 PM)_
 
-> I don't have any icebreakers
+> I don't have any icebreakers.
 
 **Tom Thompson** _(02-Jul-18 07:01 PM)_
 
@@ -3800,7 +3797,7 @@ CHECKPOINT
 
 **Magic8Ball** _(02-Jul-18 07:02 PM)_
 
-🎱 | Wait to ask this again, Brakia.
+🎱 | Yes, Brakia.
 
 **Bagelwrecker** _(02-Jul-18 07:02 PM)_
 
@@ -3812,13 +3809,13 @@ CHECKPOINT
 
 **Zander** _(02-Jul-18 07:02 PM)_
 
-> I HATE THE GRASS.
-> it's not that good.
+> I HATE EATING GRASS.
+> though sometimes i need to.
 > I JUST WANT SOME RAWNEY'S FOOD, SETH.
 
 **Tom Thompson** _(02-Jul-18 07:03 PM)_
 
-@Magic8Ball (Micky mouse ghost try's to haunt everyone)
+@Magic8Ball Does Mickey Mouse Ghost try to haunt everyone?
 
 **Magic8Ball** _(02-Jul-18 07:03 PM)_
 
@@ -3827,17 +3824,13 @@ CHECKPOINT
 **Bagelwrecker** _(02-Jul-18 07:03 PM)_
 
 > Thought ahead of you already.
+> Autopilot is taking us there right now.
 
 **RPretribution** _(02-Jul-18 07:03 PM)_
 
+_Garrick begins unloading some hostages from his pockets._
+
 > What am I supposed to do with all these slaves?
-
-**Bagelwrecker** _(02-Jul-18 07:04 PM)_
-
-> Autopilot is taking us there right now.
-
-**RPretribution** _(02-Jul-18 07:04 PM)_
-
 > Does anyone want all these children?
 
 **Zander** _(02-Jul-18 07:04 PM)_
@@ -3860,25 +3853,11 @@ CHECKPOINT
 
 **Tom Thompson** _(02-Jul-18 07:05 PM)_
 
-> I the Micky mouse ghost shall talk in 73th person
+> I, the Micky mouse ghost, shall talk in 73th person!
 
 **Mica** _(02-Jul-18 07:05 PM)_
 
-> `Zzzz...`
-
-**Zander** _(02-Jul-18 07:05 PM)_
-
-> mica
-> undeafen
-
-**Mica** _(02-Jul-18 07:05 PM)_
-
-> i cant rn
-> boiling pasta
-
-**Zander** _(02-Jul-18 07:06 PM)_
-
-> I'm about to do something relating to u
+> Zzzz...
 
 **RPretribution** _(02-Jul-18 07:06 PM)_
 
@@ -3887,19 +3866,16 @@ CHECKPOINT
 **Bagelwrecker** _(02-Jul-18 07:06 PM)_
 
 > Nope.
-> Let's airlock them
+> Let's airlock them.
 
 **RPretribution** _(02-Jul-18 07:06 PM)_
 
 > Uh...
+> I mean, we could sell them.
 
 **Tom Thompson** _(02-Jul-18 07:06 PM)_
 
 > I the spooky ghost posses the Micky mouse toy
-
-**RPretribution** _(02-Jul-18 07:07 PM)_
-
-> I mean, we could sell them.
 
 **Zander** _(02-Jul-18 07:07 PM)_
 
@@ -3919,32 +3895,32 @@ CHECKPOINT
 
 **Tatsumaki** _(02-Jul-18 07:08 PM)_
 
-> 🤔 |
-> RPretribution
-> , I pick
-> airlock
-> !
+> 🤔 | RPretribution, I pick airlock!
 
 **RPretribution** _(02-Jul-18 07:09 PM)_
 
-> Here you go, seth.
+> Here you go, Seth.
 > Airlock them.
+
+_Garrick hands Seth a mound of Erizoalan cubs._
 
 **Bagelwrecker** _(02-Jul-18 07:09 PM)_
 
-> Ahhhh the first airlock of the ship
+> Ahhhh, the first airlock of the ship!
 
 **Tom Thompson** _(02-Jul-18 07:10 PM)_
 
-> I the Micky ghost shall steal your gold and leave you goldless and poor
+> I, the Mickey Mouse Ghost, shall steal your gold and leave you goldless and poor!
 
 **Bagelwrecker** _(02-Jul-18 07:10 PM)_
 
-> No gold here
+> No gold here.
 
 **RPretribution** _(02-Jul-18 07:10 PM)_
 
 > Go away.
+
+_Garrick sprays an anti-spectral spray bottle at the MMG._
 
 **Zander** _(02-Jul-18 07:10 PM)_
 
@@ -3956,6 +3932,8 @@ CHECKPOINT
 
 **Zander** _(02-Jul-18 07:11 PM)_
 
+_Emmett's muscles begin to relax as he begins to exit his crave._
+
 > I feel a little better.
 > Still shitty.
 
@@ -3965,7 +3943,9 @@ CHECKPOINT
 
 **Tom Thompson** _(02-Jul-18 07:11 PM)_
 
-> `I was dead for a while what is it that I can steal that you have expensive
+_The Mickey Mouse Ghost hisses and flies away._
+
+> I was dead for a while. What is it that I can steal that you have expensive
 
 **Brakia** _(02-Jul-18 07:11 PM)_
 
@@ -3985,11 +3965,13 @@ CHECKPOINT
 
 **Tom Thompson** _(02-Jul-18 07:12 PM)_
 
-> Um the slates?
+> Um, the slates?
 
 **Brakia** _(02-Jul-18 07:12 PM)_
 
-> `I'm going out to fix the ship. Don't do anything dumb while i'm gone.`
+_Ibraxas pats Emmett's shrinking shoulder._
+
+> I'm going out to fix the ship. Don't do anything dumb while I'm gone.
 
 **Zander** _(02-Jul-18 07:12 PM)_
 
@@ -3998,15 +3980,15 @@ CHECKPOINT
 **RPretribution** _(02-Jul-18 07:12 PM)_
 
 > I'll probably do something dumb.
-> Alright. Slaves. Do you all speak english?
+> Alright. Slaves. Do you all speak GU Binary?
 
 **Tom Thompson** _(02-Jul-18 07:13 PM)_
 
-> the slates pardon me I can't say bad words as a Micky mouse ghost
+> The slates... pardon me, I can't say bad words as a Micky mouse ghost.
 
 **RPretribution** _(02-Jul-18 07:13 PM)_
 
-> "Uimh."
+> `Slave`: Uimh.
 
 **Zander** _(02-Jul-18 07:13 PM)_
 
@@ -4018,36 +4000,22 @@ CHECKPOINT
 
 **RPretribution** _(02-Jul-18 07:14 PM)_
 
+_Garrick grimaces._
+
 > Someone else can have you.
 
 **Zander** _(02-Jul-18 07:15 PM)_
 
 > What would happen if I stayed like this?
 
-**Tom Thompson** _(02-Jul-18 07:15 PM)_
-
-> are the slates really all you have that I can steal?
-
 **Bagelwrecker** _(02-Jul-18 07:15 PM)_
 
 > You'd probably be stronger and more manly.
 
-**Zander** _(02-Jul-18 07:15 PM)_
+**Tom Thompson** _(02-Jul-18 07:15 PM)_
 
-> @RPretribution
-> u r slatw
-
-**RPretribution** _(02-Jul-18 07:15 PM)_
-
-> oh no
-
-**Zander** _(02-Jul-18 07:16 PM)_
-
-> You have leg foot
-
-**Tom Thompson** _(02-Jul-18 07:16 PM)_
-
-> also what collar are the slates?
+> Are the slates really all you have that I can steal?
+> Also, what color are the slates?
 
 **Bagelwrecker** _(02-Jul-18 07:17 PM)_
 
@@ -4067,8 +4035,9 @@ CHECKPOINT
 
 **Zander** _(02-Jul-18 07:17 PM)_
 
-> I don't have a comm anymore either.
-@Magic8Ball Does Emmett take a peeees
+> I don't have a communicator anymore either.
+
+@Magic8Ball Does Emmett take a piss?
 
 **Magic8Ball** _(02-Jul-18 07:17 PM)_
 
@@ -4076,15 +4045,17 @@ CHECKPOINT
 
 **Bagelwrecker** _(02-Jul-18 07:18 PM)_
 
-> If you can deal with an older version I got one for you to use.
+> If you can deal with an older version, I got one for you to use.
 
 **Brakia** _(02-Jul-18 07:18 PM)_
 
-> `I'm back from fixing the ship. It really wasn't that bad.`
+_Ibraxas ascends the stairs, covered in oil and plasma._
+
+> I'm back from fixing the ship. It really wasn't that bad.
 
 **Tom Thompson** _(02-Jul-18 07:18 PM)_
 
-@Magic8Ball do I make the ship go to earths disney iland
+@Magic8Ball do I make the ship go to Earth's Disneyland?
 
 **Magic8Ball** _(02-Jul-18 07:18 PM)_
 
@@ -4108,32 +4079,9 @@ CHECKPOINT
 
 **Tom Thompson** _(02-Jul-18 07:20 PM)_
 
-> I shall steal all your slates and then the ship won't be a bale to fly no more
-> `space rool-237 no space ships with out slates
-
-**Bagelwrecker** _(02-Jul-18 07:22 PM)_
-
-> =
-
-**Tom Thompson** _(02-Jul-18 07:22 PM)_
-
-> X
+> I shall steal all your slates and then the ship won't be a bale to fly no more!
+> space rool-237 no space ships with out slates
 
 **Bagelwrecker** _(02-Jul-18 07:22 PM)_
 
 > Space Rule 216: Don't lose your comms.
-> EPISODE OVER
-> https://drawesome.uy/#m/mm6d28tacu
-
-**Zander** _(02-Jul-18 07:45 PM)_
-
-> @everyone
-> Join general voice if you're playing Jackbox. Need a headcount.
-
-**Mica** _(02-Jul-18 07:45 PM)_
-
-> despacito
-
-**Finna Steel Christmas** _(02-Jul-18 07:45 PM)_
-
-> I wanna play Jackbox for a bit.
