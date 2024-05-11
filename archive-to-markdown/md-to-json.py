@@ -1,7 +1,7 @@
 import re
 import json
 import emoji
-
+import sys
 
 def get_character_from_player(player):
     match player:
@@ -14,7 +14,7 @@ def get_character_from_player(player):
         case "Sean":
             return "Seth"
         case "Brody":
-            return "Bail"
+            return "Ibraxas"
         case "Maxwell":
             return "Matthias"
         case "Josh":
@@ -23,6 +23,12 @@ def get_character_from_player(player):
             return "Asier"
         case "TheBlade":
             return "Jim"
+        case "Tom Thompson":
+            return "Mickey Mouse's Ghost"
+        case "Finna Steel Christmas":
+            return "Steely"
+        case "Mica":
+            return "Maia"
         case _:
             return None
 
@@ -173,15 +179,27 @@ def convert_to_json(blocks, json_file):
     with open(json_file, "w", encoding="utf-8") as f:
         json.dump(blocks, f, indent=4, ensure_ascii=False)
 
+def convert_to_filename(string):
+    # Remove non-alphabet characters
+    string = ''.join(char for char in string if char.isalpha())
+    # Convert to lowercase
+    string = string.lower()
+    # Convert to kebab case
+    string = '-'.join(string.split())
+    return string
 
 if __name__ == "__main__":
-    md_file = "./md/ff2/police-brutality.md"
-    json_file = "../src/assets/json/archives/ff2/police-brutality.json"
+    if len(sys.argv) < 4:
+        print("Usage: python md-to-json.py <title> <episode_number> <description>")
+        sys.exit(1)
+    filename = convert_to_filename(sys.argv[1])
+    md_file = "./md/ff2/" + filename + ".md"
+    json_file = "../src/assets/json/archives/ff2/" + filename + ".json"
     blocks = parse_blocks(md_file)
     episode_dict = {
-        "title": "Police Brutality",
-        "episode_number": 5,
-        "short_desc": "The crew decides to raid a police station and gets more than they bargained for.",
+        "title": sys.argv[1],
+        "episode_number": sys.argv[2],
+        "short_desc": sys.argv[3],
         "blocks": blocks,
     }
     convert_to_json(episode_dict, json_file)
