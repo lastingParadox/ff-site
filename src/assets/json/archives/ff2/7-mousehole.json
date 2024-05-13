@@ -1,19 +1,8 @@
 {
     "title": "Mousehole",
     "episode_number": "7",
-    "short_desc": "The crew, after getting quite drunk, go to DisneyPlanet to steal the elusive Disney Diamond.",
+    "short_desc": "The crew, after getting quite drunk, go to DisneyPlanet to steal the elusive Disney Diamond",
     "blocks": [
-        {
-            "content": [
-                {
-                    "type": "quote",
-                    "text": "EPISODE, START!"
-                }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "02-Jul-18 05:02 PM"
-        },
         {
             "content": [
                 {
@@ -39,6 +28,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Steely, having been hiding on the ship this whole time, coughs from the ship dust in his system."
+                },
+                {
                     "type": "quote",
                     "text": "Pweh."
                 }
@@ -49,6 +42,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Seth swipes a drink and guts it down."
+                },
                 {
                     "type": "quote",
                     "text": "One of these days, I'll rob you of it."
@@ -107,6 +104,10 @@
                 {
                     "type": "quote",
                     "text": "Ha ha, Mora!"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth slams down the drink on the counter."
                 }
             ],
             "player": "Sean",
@@ -164,6 +165,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Seth waves slightly to Mora while heading back to the ship."
+                },
+                {
                     "type": "quote",
                     "text": "Bye, Mora."
                 }
@@ -197,6 +202,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett wakes up from one of the couches in the lounge, stretching."
+                },
+                {
                     "type": "quote",
                     "text": "Good sleep."
                 }
@@ -207,6 +216,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Seth stumbles on to the ship."
+                },
                 {
                     "type": "quote",
                     "text": "Allllllllright, I'm readyy to go."
@@ -279,7 +292,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Oops"
+                    "text": "Oops."
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -290,7 +303,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Emmett, you should of been with us duringg our drinkin games."
+                    "text": "Emmett, you should of been with us duringg our drinkin' games."
                 }
             ],
             "player": "Sean",
@@ -321,6 +334,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett stares at the roof for a bit."
+                },
                 {
                     "type": "quote",
                     "text": "I prefer not to drink myself to death, thanks."
@@ -398,6 +415,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Maia looks out the window at the crew's old ship."
+                },
                 {
                     "type": "quote",
                     "text": "There's a bit more space than the last ship."
@@ -482,6 +503,10 @@
                 {
                     "type": "quote",
                     "text": "Shut up kid, get back to work."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth drunkenly pushes Steely over to the janitor's closet."
                 }
             ],
             "player": "Sean",
@@ -491,8 +516,12 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Steely, in the closet, finds crumbs on the ground, and proceeds to eat them."
+                },
+                {
                     "type": "quote",
-                    "text": "Corn and Milk"
+                    "text": "Corn and Milk!"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -504,6 +533,10 @@
                 {
                     "type": "quote",
                     "text": "I think I drank a little muchh."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth nearly pukes in his mouth."
                 }
             ],
             "player": "Sean",
@@ -536,7 +569,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I hope you were drinking milk."
+                    "text": "I hope you were drinking milk!"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -605,6 +638,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Steely, still in the closet, finds a bug and pokes it, the bug squishing beneath his finger."
+                },
+                {
                     "type": "quote",
                     "text": "Ew."
                 }
@@ -615,6 +652,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett gets up from the couch and pats Maia."
+                },
                 {
                     "type": "quote",
                     "text": "Go relax. I think I need to babysit an elf."
@@ -629,6 +670,10 @@
                 {
                     "type": "quote",
                     "text": "You almost died. I didn't almost diee."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth tries to point at Emmett and laughs, managing to miss wildly."
                 }
             ],
             "player": "Sean",
@@ -704,6 +749,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett gets a glass from the kitchen and fills it up with water, handing it to Seth."
+                },
+                {
                     "type": "quote",
                     "text": "You nearly ate the dwarves and I had to extinguish a fire you produced."
                 }
@@ -716,7 +765,7 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Steely speaks up from the corner."
+                    "text": "Steely speaks up from the corner, having left the closet."
                 },
                 {
                     "type": "quote",
@@ -748,6 +797,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Maia starts to look around for a spare cabin."
+                },
                 {
                     "type": "quote",
                     "text": "Hmm. Maybe there's a spare room around here..."
@@ -815,6 +868,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett sits back, shrugging."
+                },
+                {
                     "type": "quote",
                     "text": "Y'know? Maybe."
                 }
@@ -851,6 +908,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Seth takes a sip of water."
+                },
                 {
                     "type": "quote",
                     "text": "We can reminisce about the days when I first founndd ya."
@@ -905,7 +966,7 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Steely mutters to himself."
+                    "text": "Steely mutters to himself, heading to a porn site on his phone."
                 },
                 {
                     "type": "quote",
@@ -934,8 +995,12 @@
                     "text": "Uh, yeah."
                 },
                 {
+                    "type": "action",
+                    "text": "Emmett speaks with emphasis."
+                },
+                {
                     "type": "quote",
-                    "text": "We don't have _that_ much space."
+                    "text": "We don't have that much space."
                 }
             ],
             "player": "Zander",
@@ -1011,8 +1076,12 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Steely is watching porn, but he speaks to the video as if it could hear him."
+                },
+                {
                     "type": "quote",
-                    "text": "Make sure you don't spill you milk over there!"
+                    "text": "Make sure you don't spill your milk over there!"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -1024,6 +1093,10 @@
                 {
                     "type": "quote",
                     "text": "Ahh, you're such a prude Emmett. You know women don'tt like thatt."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth sloppily flops his hand towards Emmett."
                 }
             ],
             "player": "Sean",
@@ -1108,7 +1181,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "...and my toolbox by my bed."
+                    "text": "... And my toolbox by my bed."
                 }
             ],
             "player": "Brody",
@@ -1155,6 +1228,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Maia heads into a room and smiles to herself."
+                },
+                {
                     "type": "quote",
                     "text": "Ooh! Here's an empty one."
                 }
@@ -1165,6 +1242,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett rolls his eyes."
+                },
                 {
                     "type": "quote",
                     "text": "Your dick is overused, man."
@@ -1179,6 +1260,10 @@
                 {
                     "type": "quote",
                     "text": "Emmett, I'll find a wife forrr you soon enoughh my friend."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth manages to pat Emmett's shoulder."
                 }
             ],
             "player": "Sean",
@@ -1190,6 +1275,10 @@
                 {
                     "type": "quote",
                     "text": "I prefer not to see it literally every night."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett sticks out his tongue in disgust."
                 }
             ],
             "player": "Zander",
@@ -1247,6 +1336,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Maia fidgets on the bed to get comfy."
+                },
+                {
                     "type": "quote",
                     "text": "Erm.. The bed might not be able to fit my body.."
                 }
@@ -1274,7 +1367,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does garrick find a room"
+                    "text": "@Magic8Ball Does Garrick find a room?"
                 }
             ],
             "player": "Trey",
@@ -1285,7 +1378,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Next person decides for you, RPretribution."
+                    "text": "🎱 | Zander says yes, RPretribution."
                 }
             ],
             "player": "FF 8 Ball",
@@ -1345,6 +1438,10 @@
                 {
                     "type": "quote",
                     "text": "...and wet."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth smirks stupidly."
                 }
             ],
             "player": "Sean",
@@ -1407,7 +1504,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "Emmett leaves the cockpit and heads towards the crew's quarters."
+                    "text": "Emmett leaves the lounge and heads towards the crew's quarters."
                 }
             ],
             "player": "Zander",
@@ -1452,6 +1549,10 @@
                 {
                     "type": "quote",
                     "text": "You know I can sleep with my eyes open?"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth looks wide-eyed at Garrick."
                 }
             ],
             "player": "Sean",
@@ -1506,6 +1607,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Steely watches Ibraxas from afar, petting his own arm."
+                },
+                {
                     "type": "quote",
                     "text": "There, there..."
                 }
@@ -1543,6 +1648,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Ibraxas scoffs at Garrick's comment."
+                },
+                {
                     "type": "quote",
                     "text": "Do I even bleed?"
                 }
@@ -1566,7 +1675,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Person who just went decides for you, Mica."
+                    "text": "🎱 | Brakia says yes, Mica."
                 }
             ],
             "player": "FF 8 Ball",
@@ -1629,7 +1738,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I'm just...a big question."
+                    "text": "I'm just... a big question."
                 }
             ],
             "player": "Brody",
@@ -1640,7 +1749,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do I run to the bathroom to puke?"
+                    "text": "@Magic8Ball Does Seth run to the bathroom to puke?"
                 }
             ],
             "player": "Sean",
@@ -1818,7 +1927,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I can T-Pose anything that isn't living."
+                    "text": "I can t-pose anything that isn't living."
+                },
+                {
+                    "type": "action",
+                    "text": "Steely plays with more bugs, adjusting their legs straight."
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -1851,7 +1964,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does asier join in"
+                    "text": "@Magic8Ball Does Asier join in?"
                 }
             ],
             "player": "Jonas",
@@ -1887,8 +2000,12 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Seth daydreams."
+                },
+                {
                     "type": "quote",
-                    "text": "Big boobs tooo."
+                    "text": "Big boobs tooo..."
                 }
             ],
             "player": "Sean",
@@ -1915,6 +2032,10 @@
                 {
                     "type": "quote",
                     "text": "I thought you might have liked it."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett smiles at Maia."
                 }
             ],
             "player": "Zander",
@@ -1925,7 +2046,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Hey, Shade."
+                    "text": "Hey, shade."
                 }
             ],
             "player": "Brody",
@@ -1945,6 +2066,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Ibraxas points towards the bathroom."
+                },
                 {
                     "type": "quote",
                     "text": "There's a mess in the bathroom. Might want to clean that up."
@@ -1988,7 +2113,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Thatt's meee."
+                    "text": "Thatt's meee!"
                 }
             ],
             "player": "Sean",
@@ -2012,6 +2137,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Seth stumbles into the cockpit."
+                },
                 {
                     "type": "quote",
                     "text": "You can clean itt upp, Ibraxas."
@@ -2087,8 +2216,8 @@
         {
             "content": [
                 {
-                    "type": "quote",
-                    "text": "......"
+                    "type": "action",
+                    "text": "Asier pauses."
                 },
                 {
                     "type": "quote",
@@ -2140,7 +2269,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Let's go to space disney."
+                    "text": "Let's go to Space Disney."
                 }
             ],
             "player": "Brody",
@@ -2184,7 +2313,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Let's go to spacee universall!"
+                    "text": "Let's go to Spacee Universall!"
                 }
             ],
             "player": "Sean",
@@ -2259,6 +2388,10 @@
                 {
                     "type": "quote",
                     "text": "Space dindu nuffin."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth drunkenly slouches into the toilet."
                 }
             ],
             "player": "Sean",
@@ -2290,17 +2423,6 @@
         {
             "content": [
                 {
-                    "type": "quote",
-                    "text": "It's like disney, but in space."
-                }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "02-Jul-18 05:30 PM"
-        },
-        {
-            "content": [
-                {
                     "type": "bot_response",
                     "text": "🎱 | Rolling a d20 to determine... Rolled a 5! No, Zander."
                 }
@@ -2313,11 +2435,22 @@
             "content": [
                 {
                     "type": "quote",
+                    "text": "It's like Disney, but in space."
+                }
+            ],
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "02-Jul-18 05:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
                     "text": "Alright, welp, I'm good now."
                 },
                 {
                     "type": "action",
-                    "text": "Seth throws Emmett's towel in the toilet and struts toward the kid's room."
+                    "text": "Seth throws Emmett's towel in the toilet and struts towards his kid's room."
                 }
             ],
             "player": "Sean",
@@ -2354,7 +2487,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Let's go find a some women Emmett."
+                    "text": "Let's go find a some women, Emmett."
                 }
             ],
             "player": "Sean",
@@ -2410,7 +2543,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "You guys really like alcohol, don'tcha?"
+                    "text": "You guys really like alcohol, don'tcha'?"
                 }
             ],
             "player": "Trey",
@@ -2531,6 +2664,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick \"shrugs\"."
+                },
                 {
                     "type": "quote",
                     "text": "Whatever you say."
@@ -2704,7 +2841,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does everyone simultaneously dab"
+                    "text": "@Magic8Ball Does the crew all simultaneously dab?"
                 }
             ],
             "player": "Jonas",
@@ -2810,6 +2947,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Seth tries to push Emmett out of the pilot's seat."
+                },
+                {
                     "type": "quote",
                     "text": "Emmett, get out."
                 },
@@ -2825,6 +2966,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett furrows his brow and shoves Seth off of him."
+                },
+                {
                     "type": "quote",
                     "text": "Get out of here, ears!"
                 }
@@ -2835,6 +2980,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Maia continues to drink some of her celestial alcohol."
+                },
                 {
                     "type": "quote",
                     "text": "Hehehe!~"
@@ -2848,7 +2997,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Well, it seems I'm a baysitter of our drunken crew."
+                    "text": "Well, it seems I'm a babysitter of our drunken crew."
                 }
             ],
             "player": "Brody",
@@ -2859,7 +3008,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does garrick drink"
+                    "text": "@Magic8Ball Does Garrick drink?"
                 }
             ],
             "player": "Trey",
@@ -3022,7 +3171,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Next person decides for you, Zander."
+                    "text": "🎱 | Finna Steel Christmas says yes, Zander."
                 }
             ],
             "player": "FF 8 Ball",
@@ -3059,17 +3208,6 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Yes"
-                }
-            ],
-            "player": "Finna Steel Christmas",
-            "character": "Steely",
-            "date": "02-Jul-18 05:38 PM"
-        },
-        {
-            "content": [
-                {
-                    "type": "quote",
                     "text": "Great."
                 },
                 {
@@ -3096,6 +3234,10 @@
                     "text": "Okay."
                 },
                 {
+                    "type": "action",
+                    "text": "Seth growls lowly at Emmett."
+                },
+                {
                     "type": "quote",
                     "text": "Thanks, Emmett."
                 }
@@ -3111,8 +3253,12 @@
                     "text": "Ok, I'm gone."
                 },
                 {
+                    "type": "action",
+                    "text": "Asier turns away from the others, not wanting to be near any of them."
+                },
+                {
                     "type": "quote",
-                    "text": "I'm going elsewhere"
+                    "text": "I'm going elsewhere."
                 }
             ],
             "player": "Jonas",
@@ -3145,11 +3291,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Savage"
+                    "text": "Savage!"
                 },
                 {
                     "type": "quote",
-                    "text": "RIP"
+                    "text": "RIP!"
                 },
                 {
                     "type": "action",
@@ -3157,7 +3303,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "No, don't."
+                    "text": "No, don't!"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -3166,6 +3312,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick sticks his tongue out at Asier."
+                },
                 {
                     "type": "quote",
                     "text": "Buzzkill."
@@ -3201,7 +3351,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Steel says yes, Brakia."
+                    "text": "🎱 | Finna Steel Christmas says yes, Brakia."
                 }
             ],
             "player": "FF 8 Ball",
@@ -3211,8 +3361,8 @@
         {
             "content": [
                 {
-                    "type": "quote",
-                    "text": "(Emmett turns on the AC)"
+                    "type": "action",
+                    "text": "Emmett turns on the AC."
                 }
             ],
             "player": "Zander",
@@ -3224,6 +3374,10 @@
                 {
                     "type": "quote",
                     "text": "I think my cape needs to come off!~"
+                },
+                {
+                    "type": "action",
+                    "text": "Maia starts to strip tease for the crew."
                 }
             ],
             "player": "Mica",
@@ -3245,7 +3399,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "NO"
+                    "text": "NO!"
                 }
             ],
             "player": "Zander",
@@ -3256,7 +3410,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does ibraxas dab, thus hitting maia in the head, causing her to go unconscious so we don't have to watch them take off clothes"
+                    "text": "@Magic8Ball Does Ibraxas dab, thus hitting Maia in the head, causing her to go unconscious so the crew doesn't have to watch them take off clothes?"
                 }
             ],
             "player": "Jonas",
@@ -3320,6 +3474,10 @@
                 {
                     "type": "quote",
                     "text": "I'll set a course."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett reluctantly sets up the autopilot to chart a course for Disney Planet."
                 }
             ],
             "player": "Zander",
@@ -3379,7 +3537,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "GLHF"
+                    "text": "GLHF!"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -3394,7 +3552,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Emmett!~ ome over heeereeee...~"
+                    "text": "Emmett!~ ome' over heeereeee...~"
                 }
             ],
             "player": "Mica",
@@ -3406,6 +3564,10 @@
                 {
                     "type": "quote",
                     "text": "Alright."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett rolls his eyes as he gets up from the pilot's seat."
                 }
             ],
             "player": "Zander",
@@ -3416,7 +3578,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Have fun Emmett."
+                    "text": "Have fun, Emmett."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth follows Emmett as they leave the cockpit."
                 }
             ],
             "player": "Sean",
@@ -3497,7 +3663,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "all the prizes from Disney"
+                    "text": "All the prizes from Disney!"
                 }
             ],
             "player": "Jonas",
@@ -3520,6 +3686,10 @@
                 {
                     "type": "quote",
                     "text": "Yes?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett sits on the ground in whatever room most of the crew was in."
                 }
             ],
             "player": "Zander",
@@ -3534,7 +3704,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "I'm going to steal it"
+                    "text": "I'm going to steal it."
                 }
             ],
             "player": "Sean",
@@ -3561,6 +3731,10 @@
                 {
                     "type": "quote",
                     "text": "I've neverr kissed a goat before......"
+                },
+                {
+                    "type": "action",
+                    "text": "Maia smirks drunkenly."
                 }
             ],
             "player": "Mica",
@@ -3586,7 +3760,7 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Asier witnesses the romance, frozen in apathy."
+                    "text": "Garrick witnesses the romance, frozen in apathy."
                 },
                 {
                     "type": "quote",
@@ -3601,7 +3775,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Uhm."
+                    "text": "Uhm..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett leans away from Maia."
                 }
             ],
             "player": "Zander",
@@ -3644,6 +3822,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett grimaces in secondhand embarrassment."
+                },
+                {
                     "type": "quote",
                     "text": "Wrong person, Maia."
                 }
@@ -3654,6 +3836,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Seth does not reciprocate the kiss."
+                },
                 {
                     "type": "quote",
                     "text": "I'm Seth..."
@@ -3677,8 +3863,12 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Maia frowns."
+                },
+                {
                     "type": "quote",
-                    "text": "kiss..."
+                    "text": "Kiss..."
                 }
             ],
             "player": "Mica",
@@ -3726,7 +3916,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball have we arrived at space disney"
+                    "text": "@Magic8Ball Have the crew arrived at Space Disney yet?"
                 }
             ],
             "player": "Trey",
@@ -3759,7 +3949,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Does Emmett take some of the hair alcohol and drink extensively?"
+                    "text": "@Magic8Ball Does Emmett take some of the Selene's Hair and drink extensively?"
                 }
             ],
             "player": "Zander",
@@ -3781,7 +3971,7 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Steely hides in the imaginary filling cabinet whilst eating corn bois."
+                    "text": "Steely hides in an imaginary filling cabinet whilst eating corn bois."
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -3828,7 +4018,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose Ibraxas shuts the situation down | Ibraxas doesn't do anything"
                 }
             ],
@@ -3840,7 +4030,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | Brakia, I pick Ibraxas shuts the situation down!"
+                    "text": "🤔 | Brakia, I pick Ibraxas shuts the situation down!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -3850,7 +4040,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose Pen | Pineapple"
                 }
             ],
@@ -3862,7 +4052,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | Zander, I pick Pen!"
+                    "text": "🤔 | Zander, I pick Pen!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -3909,6 +4099,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett grabs a pen and scoots over to Maia."
+                },
+                {
                     "type": "quote",
                     "text": "Sure."
                 }
@@ -3947,6 +4141,10 @@
                     "text": "Shut up, Prude."
                 },
                 {
+                    "type": "action",
+                    "text": "Seth crosses his arms."
+                },
+                {
                     "type": "quote",
                     "text": "We gotta wait anyways."
                 }
@@ -3959,7 +4157,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball do we land gracefully?"
+                    "text": "@Magic8Ball Does the crew land gracefully?"
                 }
             ],
             "player": "Jonas",
@@ -3979,6 +4177,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "The landing causes Emmett's backhoofs to bruise."
+                },
                 {
                     "type": "quote",
                     "text": "Ah, fuck."
@@ -4020,6 +4222,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Maia moves erratically from the landing."
+                },
                 {
                     "type": "quote",
                     "text": "Woahhhh~"
@@ -4224,6 +4430,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Steely manages to dig up some ancient Earth meme."
+                },
+                {
                     "type": "quote",
                     "text": "Thank you Kanye. Very cool!"
                 }
@@ -4317,7 +4527,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Woahhh~"
+                    "text": "Woahhh!~"
                 }
             ],
             "player": "Mica",
@@ -4326,6 +4536,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Jim appears from behind Emmett."
+                },
                 {
                     "type": "quote",
                     "text": "Emmett, I don't think you need anything more to drink."
@@ -4402,7 +4616,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "Jim starts salivating about deer meat."
+                    "text": "Jim starts salivating about venison."
                 }
             ],
             "player": "TheBlade",
@@ -4504,6 +4718,10 @@
                 {
                     "type": "quote",
                     "text": "I'll take carre of you on the ship."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett stares at Maia wide-eyed, startled from what she just said."
                 }
             ],
             "player": "Zander",
@@ -4570,6 +4788,10 @@
                 {
                     "type": "quote",
                     "text": "You can ride me if you want.."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth unzips."
                 }
             ],
             "player": "Sean",
@@ -4613,7 +4835,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does Garrick jump out of the ship?"
+                    "text": "@Magic8Ball Does Garrick jump out of the ship?"
                 }
             ],
             "player": "Trey",
@@ -4657,7 +4879,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Not at space disney."
+                    "text": "Not at Space Disney."
                 }
             ],
             "player": "Trey",
@@ -4715,8 +4937,12 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Asier looks about the ship."
+                },
+                {
                     "type": "quote",
-                    "text": "yep we definitely caused a crater"
+                    "text": "Yep, we definitely caused a crater."
                 }
             ],
             "player": "Jonas",
@@ -4727,7 +4953,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "So, Seth is riding Maia and maia is riding Seth?"
+                    "text": "So, Seth is riding Maia and Maia is riding Seth?"
+                },
+                {
+                    "type": "action",
+                    "text": "Jim puts a finger through his other hand in a euphemistic way."
                 }
             ],
             "player": "TheBlade",
@@ -4756,8 +4986,12 @@
                     "text": "Bye Maia..."
                 },
                 {
+                    "type": "action",
+                    "text": "Seth waves as he leaves the ship."
+                },
+                {
                     "type": "quote",
-                    "text": "See you soon"
+                    "text": "See you soon."
                 }
             ],
             "player": "Sean",
@@ -4805,7 +5039,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I wish I could wipe my memory sometimes...."
+                    "text": "I wish I could wipe my memory sometimes..."
                 }
             ],
             "player": "TheBlade",
@@ -4826,6 +5060,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett holds Maia back."
+                },
+                {
                     "type": "quote",
                     "text": "We're fine, Garrick."
                 }
@@ -4838,7 +5076,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I'm too drunk for disneyyy~"
+                    "text": "I'm too drunk for Disneyyy.~"
                 }
             ],
             "player": "Mica",
@@ -4897,7 +5135,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "trEy"
+                    "text": "trEy!"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -4974,8 +5212,8 @@
         {
             "content": [
                 {
-                    "type": "other",
-                    "text": "_Ibraxas peers at the parking lot destruction."
+                    "type": "action",
+                    "text": "Ibraxas peers at the parking lot destruction."
                 },
                 {
                     "type": "quote",
@@ -5042,7 +5280,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Can I enter the ship?"
+                    "text": "@Magic8Ball Can Steely enter the ship?"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -5053,7 +5291,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Next person decides for you, Finna Steel Christmas."
+                    "text": "🎱 | Brakia ignored you, Finna Steel Christmas."
                 }
             ],
             "player": "FF 8 Ball",
@@ -5104,6 +5342,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Jim stares at a wall that housed 100 GUYs of Disney Planet's previous bears."
+                },
+                {
                     "type": "quote",
                     "text": "100 bottles of bear on the wall..."
                 }
@@ -5142,7 +5384,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Have some, cute goat ~"
+                    "text": "Have some, cute goat.~"
+                },
+                {
+                    "type": "action",
+                    "text": "Maia drunkenly hands some Selene's Hair to Emmett."
                 }
             ],
             "player": "Mica",
@@ -5202,6 +5448,10 @@
                 {
                     "type": "quote",
                     "text": "Thank-you, horsey."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett pops open the bottle and takes a drink."
                 }
             ],
             "player": "Zander",
@@ -5216,7 +5466,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Can we just go in to disney?"
+                    "text": "Can we just go into Disney?"
                 }
             ],
             "player": "TheBlade",
@@ -5227,7 +5477,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball do we pay for tickets?"
+                    "text": "@Magic8Ball Does the crew pay for tickets?"
                 }
             ],
             "player": "Jonas",
@@ -5296,6 +5546,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Seth groans."
+                },
+                {
                     "type": "quote",
                     "text": "Ibraxas, leave them alone."
                 },
@@ -5333,6 +5587,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett visually gags at Jim's snide remark."
+                },
+                {
                     "type": "quote",
                     "text": "Relax, Ib. I'm responsibel."
                 }
@@ -5368,6 +5626,10 @@
                 {
                     "type": "quote",
                     "text": "Don't our friends need money??? I should deposit money into their account!!!!!!~"
+                },
+                {
+                    "type": "action",
+                    "text": "Maia takes out her holodevice."
                 }
             ],
             "player": "Mica",
@@ -5379,6 +5641,10 @@
                 {
                     "type": "quote",
                     "text": "Maia, no!"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett snatches the holodevice from Maia."
                 }
             ],
             "player": "Zander",
@@ -5622,7 +5888,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Hehehe~"
+                    "text": "Hehehe.~"
+                },
+                {
+                    "type": "action",
+                    "text": "Maia hiccups."
                 }
             ],
             "player": "Mica",
@@ -6009,6 +6279,10 @@
                 {
                     "type": "quote",
                     "text": "I should dance."
+                },
+                {
+                    "type": "action",
+                    "text": "Maia wiggles slowly, dancing."
                 }
             ],
             "player": "Mica",
@@ -6052,7 +6326,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Hehe.."
+                    "text": "Hehe..."
                 }
             ],
             "player": "Mica",
@@ -6085,7 +6359,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball do we go in now, bringing the Dragon fellow with us?"
+                    "text": "@Magic8Ball Does the crew go in now, bringing the Dragon fellow with them?"
                 }
             ],
             "player": "Jonas",
@@ -6198,8 +6472,12 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Jim gets a bit dizzy from the three hundred conversations at hand."
+                },
+                {
                     "type": "quote",
-                    "text": "Why do we have 2 goats...i thought one was enough..."
+                    "text": "Why do we have two goats? ... I thought one was enough..."
                 }
             ],
             "player": "TheBlade",
@@ -6334,6 +6612,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Seth desperately speaks into his comms."
+                },
+                {
                     "type": "quote",
                     "text": "Emmett, go get your doll thing."
                 }
@@ -6417,6 +6699,10 @@
                 {
                     "type": "quote",
                     "text": "What do you mean it's \"too big?\""
+                },
+                {
+                    "type": "action",
+                    "text": "Jim puts his hands to his chest inappropriately."
                 }
             ],
             "player": "TheBlade",
@@ -6503,8 +6789,12 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Steely reads the cover of a magazine he finds."
+                },
+                {
                     "type": "quote",
-                    "text": "I can't wait for Trump to add lazers back to Final Frontier."
+                    "text": "I can't wait for Trump to add lasers back to Final Frontier."
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -6515,7 +6805,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do I climb over Space disney's fence?"
+                    "text": "@Magic8Ball Does Seth climb over Space Disney's fence?"
                 }
             ],
             "player": "Sean",
@@ -6667,7 +6957,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "what?"
+                    "text": "What?"
                 }
             ],
             "player": "TheBlade",
@@ -6715,7 +7005,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does garrick hide somewhere and wait for asier and jim"
+                    "text": "@Magic8Ball Does Garrick hide somewhere and wait for Asier and Jim?"
                 }
             ],
             "player": "Trey",
@@ -6760,7 +7050,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "...and then turns it back off."
+                    "text": "... And then turns it back off."
                 }
             ],
             "player": "TheBlade",
@@ -6772,6 +7062,10 @@
                 {
                     "type": "quote",
                     "text": "Señors, I'm over the border."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth dances in a jarabe style."
                 }
             ],
             "player": "Sean",
@@ -6852,7 +7146,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does steel now join us to have fun and trash space Disney"
+                    "text": "@Magic8Ball Does Steel now join the crew to have fun and trash Space Disney?"
                 }
             ],
             "player": "Jonas",
@@ -6923,6 +7217,10 @@
                 {
                     "type": "quote",
                     "text": "We need to be more careful about things, y'know?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett gets closer to Maia."
                 }
             ],
             "player": "Zander",
@@ -6992,7 +7290,7 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Emmett looks at Seth in disgust."
+                    "text": "Emmett scoffs in disgust at what Seth said."
                 }
             ],
             "player": "Zander",
@@ -7018,7 +7316,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "Seth comes out of the ship with an array of Squoatling costumes, of all different colors."
+                    "text": "Seth enters and comes out of the ship with an array of squoatling costumes, of all different colors."
                 }
             ],
             "player": "Sean",
@@ -7040,7 +7338,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does Maia give Emmett a hug?"
+                    "text": "@Magic8Ball Does Maia give Emmett a hug?"
                 }
             ],
             "player": "Mica",
@@ -7095,7 +7393,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Does everyone dress up as Emmett?"
+                    "text": "@Magic8Ball Does the crew dress up as Emmett?"
                 }
             ],
             "player": "Sean",
@@ -7192,6 +7490,10 @@
                 {
                     "type": "quote",
                     "text": "Where?"
+                },
+                {
+                    "type": "action",
+                    "text": "Maia stares at Emmett in worry."
                 }
             ],
             "player": "Mica",
@@ -7257,7 +7559,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I'm about to turn. Need to get off here."
+                    "text": "I'm about to turn. Need to get out of here."
                 }
             ],
             "player": "Zander",
@@ -7279,7 +7581,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "turn?"
+                    "text": "Turn?"
                 }
             ],
             "player": "TheBlade",
@@ -7324,6 +7626,10 @@
                 {
                     "type": "quote",
                     "text": "He'll turn into the CRAVE!"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shudders."
                 }
             ],
             "player": "Sean",
@@ -7356,7 +7662,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does Garrick take off the Emmett costume?"
+                    "text": "@Magic8Ball Does Garrick take off the Emmett costume?"
                 }
             ],
             "player": "Trey",
@@ -7411,7 +7717,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Dont' lay down next to Maia..."
+                    "text": "Don't lay down next to Maia..."
                 }
             ],
             "player": "TheBlade",
@@ -7423,6 +7729,10 @@
                 {
                     "type": "quote",
                     "text": "I'm from Africa."
+                },
+                {
+                    "type": "action",
+                    "text": "Steely hums \"Down Under\" by Men at Work despite not knowing the song."
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -7477,7 +7787,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I'm an exclusive boi"
+                    "text": "I'm an exclusive boi."
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -7492,7 +7802,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "Veins start popping out of Emmett's forehead."
+                    "text": "Veins start popping out of Emmett's forehead. Emmett puts a hoof on his head in pain."
                 }
             ],
             "player": "Zander",
@@ -7504,6 +7814,10 @@
                 {
                     "type": "quote",
                     "text": "I'm heading to the museum. Vamanos."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth heads to the museum."
                 }
             ],
             "player": "Sean",
@@ -7571,6 +7885,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett speaks softly, and for the time being, interchangeably speaks in yells and whispers."
+                },
                 {
                     "type": "quote",
                     "text": "not like that, i mean i'm out of grass."
@@ -7670,6 +7988,10 @@
                 {
                     "type": "quote",
                     "text": "It's just a mutation of your grass."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth is trying to calm Emmett down."
                 }
             ],
             "player": "Sean",
@@ -7683,8 +8005,12 @@
                     "text": "Steely whispers in Asier's ear."
                 },
                 {
+                    "type": "quote",
+                    "text": "Do you like corn?"
+                },
+                {
                     "type": "command",
-                    "text": "@Magic8Ball Do you like corn."
+                    "text": "@Magic8Ball Do you like corn?"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -7751,6 +8077,10 @@
                 {
                     "type": "quote",
                     "text": "I'M OUT OF HERE."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett aggressively leaves the ship."
                 }
             ],
             "player": "Zander",
@@ -7798,7 +8128,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "sorry"
+                    "text": "sorry."
                 }
             ],
             "player": "Zander",
@@ -7841,8 +8171,8 @@
         {
             "content": [
                 {
-                    "type": "quote",
-                    "text": "t!choose gift shop is completely trashed | kinda trashed | we failed to trash the gift shop | asier accidentally kills the person behind the desk"
+                    "type": "command",
+                    "text": "t!choose The gift shop is completely trashed | kinda trashed | the crew failed to trash the gift shop | Asier accidentally kills the person behind the desk"
                 }
             ],
             "player": "Jonas",
@@ -7853,7 +8183,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | PlasmaPerson, I pick kinda trashed!"
+                    "text": "🤔 | PlasmaPerson, I pick kinda trashed!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -7888,6 +8218,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Jimm feels the need to repeat himself."
+                },
                 {
                     "type": "quote",
                     "text": "That thing you think is grass is literally just crystalized intergalactic fake poaceae."
@@ -7946,17 +8280,6 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Mica, your turn."
-                }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "02-Jul-18 06:28 PM"
-        },
-        {
-            "content": [
-                {
-                    "type": "quote",
                     "text": "I think my comms are going to be ripped off."
                 }
             ],
@@ -7968,7 +8291,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "My Mommy once told me..."
+                    "text": "My mommy once told me..."
                 },
                 {
                     "type": "quote",
@@ -8009,7 +8332,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Bagelwrecker says Yes, and Emmett runs toward space disney, Mica."
+                    "text": "🎱 | Bagelwrecker says yes, and Emmett runs toward Space Disney, Mica."
                 }
             ],
             "player": "FF 8 Ball",
@@ -8054,6 +8377,10 @@
                 {
                     "type": "quote",
                     "text": "It's not going to look good for me, since I'm a cop right next to a ROBBERY."
+                },
+                {
+                    "type": "action",
+                    "text": "Jim glares at the two spectres robbing a gift shop."
                 }
             ],
             "player": "TheBlade",
@@ -8064,7 +8391,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do I rush over to the museum to go steal the jewel while the security is preoccupied?"
+                    "text": "@Magic8Ball Does Seth rush over to the museum to go steal the jewel while the security is preoccupied?"
                 }
             ],
             "player": "Sean",
@@ -8156,7 +8483,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball are there cameras on the ship?"
+                    "text": "@Magic8Ball Are there cameras on the ship?"
                 }
             ],
             "player": "TheBlade",
@@ -8189,7 +8516,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Damé tu Cosita"
+                    "text": "Damé tu Cosita!"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -8211,7 +8538,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "...no..just no..."
+                    "text": "... No... Just no..."
                 }
             ],
             "player": "TheBlade",
@@ -8259,7 +8586,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Jewel? we walked into disney and robbed 2 places..."
+                    "text": "Jewel? we walked into disney and robbed two places..."
                 }
             ],
             "player": "TheBlade",
@@ -8325,7 +8652,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose another gift shop | steal people"
                 }
             ],
@@ -8337,7 +8664,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | RPretribution, I pick steal people!"
+                    "text": "🤔 | RPretribution, I pick steal people!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -8358,7 +8685,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose Garrick steals Women | Garrick steals Children | Garrick steals men"
                 }
             ],
@@ -8395,7 +8722,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose Garrick steals 1 man | Garrick steals 2 men | Garrick steals 3 men | Garrick steals 4 men | Garrick steals 5 men"
                 }
             ],
@@ -8477,7 +8804,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball are the cameras Jim Planted in the ship working?"
+                    "text": "@Magic8Ball Are the cameras Jim planted in the ship working?"
                 }
             ],
             "player": "TheBlade",
@@ -8562,7 +8889,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "`WHY ARE WE YELLING`"
+                    "text": "WHY ARE WE YELLING?"
                 }
             ],
             "player": "TheBlade",
@@ -8577,14 +8904,14 @@
                 }
             ],
             "player": "Sean",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:35 PM"
         },
         {
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Should he put cameras?"
+                    "text": "@Magic8Ball Should Steely put cameras on the ship?"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -8610,11 +8937,11 @@
                 },
                 {
                     "type": "quote",
-                    "text": "20 ducketts per bag."
+                    "text": "20 Ducketts per bag."
                 }
             ],
             "player": "Sean",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:36 PM"
         },
         {
@@ -8673,7 +9000,7 @@
                 }
             ],
             "player": "Sean",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:37 PM"
         },
         {
@@ -8684,7 +9011,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "Jim holds up the 100-duckett coin from earlier."
+                    "text": "Jim holds up the 100 Duckett coin from earlier."
                 }
             ],
             "player": "TheBlade",
@@ -8695,7 +9022,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "DESPACITO"
+                    "text": "DESPACITO!"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -8751,7 +9078,7 @@
                 }
             ],
             "player": "Sean",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:38 PM"
         },
         {
@@ -8772,8 +9099,8 @@
         {
             "content": [
                 {
-                    "type": "quote",
-                    "text": "t!choose break the carousel in half with our bare hands | steal 1 million ducketts | uh oh the police showed up"
+                    "type": "command",
+                    "text": "t!choose break the carousel in half with Asier and Garrick's bare hands | steal 1 million ducketts | uh oh, the police showed up"
                 }
             ],
             "player": "Jonas",
@@ -8784,7 +9111,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | PlasmaPerson, I pick uh oh the police showed up!"
+                    "text": "> 🤔 | PlasmaPerson, I pick uh oh, the police showed up!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -8795,7 +9122,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do I jump back over the fence with the jewel and a bag of grass and run back to ship?"
+                    "text": "@Magic8Ball Does Seth jump back over the fence with the jewel and a bag of grass and run back to ship?"
                 }
             ],
             "player": "Sean",
@@ -8912,6 +9239,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett stuffs the \"grass\" in his mouth and spits it out in disgust."
+                },
+                {
                     "type": "quote",
                     "text": "THIS GRASS ISN'T REAL."
                 },
@@ -8921,7 +9252,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "Emmett shakes off the urge to shoke the salesman."
+                    "text": "Emmett shakes off the urge to choke the salesman."
                 }
             ],
             "player": "Zander",
@@ -8936,7 +9267,7 @@
                 }
             ],
             "player": "Sean",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:40 PM"
         },
         {
@@ -8968,7 +9299,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose Garrick steals 5 more | Garrick steals 10 more | Garrick steals 20 more"
                 }
             ],
@@ -8980,7 +9311,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | RPretribution, I pick Garrick steals 10 more!"
+                    "text": "🤔 | RPretribution, I pick Garrick steals 10 more!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -8995,7 +9326,7 @@
                 }
             ],
             "player": "Sean",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:41 PM"
         },
         {
@@ -9036,7 +9367,7 @@
                 }
             ],
             "player": "Sean",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:42 PM"
         },
         {
@@ -9158,7 +9489,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does Steely take interest in more Black people?"
+                    "text": "@Magic8Ball Does Steely take interest in more Black people?"
                 }
             ],
             "player": "Finna Steel Christmas",
@@ -9169,7 +9500,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Next person decides for you, Finna Steel Christmas."
+                    "text": "🎱 | Tom Thompson ignored you, Finna Steel Christmas."
                 }
             ],
             "player": "FF 8 Ball",
@@ -9202,7 +9533,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Next person decides for you, Tom Thompson."
+                    "text": "🎱 | Brakia says no, Tom Thompson."
                 }
             ],
             "player": "FF 8 Ball",
@@ -9239,7 +9570,7 @@
                 }
             ],
             "player": "Zander",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:43 PM"
         },
         {
@@ -9263,28 +9594,6 @@
             "player": "FF 8 Ball",
             "character": null,
             "date": "02-Jul-18 06:43 PM"
-        },
-        {
-            "content": [
-                {
-                    "type": "quote",
-                    "text": "@Magic8Ball"
-                }
-            ],
-            "player": "Tom Thompson",
-            "character": "Mickey Mouse's Ghost",
-            "date": "02-Jul-18 06:44 PM"
-        },
-        {
-            "content": [
-                {
-                    "type": "bot_response",
-                    "text": "🎱 | Y35, Tom Thompson."
-                }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "02-Jul-18 06:44 PM"
         },
         {
             "content": [
@@ -9349,7 +9658,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "GIVE ME SUSTANANCE!"
+                    "text": "GIVE ME SUSTENANCE!"
                 }
             ],
             "player": "Zander",
@@ -9358,6 +9667,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Seth could hear a moaning from the jewel."
+                },
                 {
                     "type": "quote",
                     "text": "The jewel is cursed..."
@@ -9370,8 +9683,12 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Maia starts to fall asleep, and cartoonishly mutters the following to herself."
+                },
+                {
                     "type": "quote",
-                    "text": "`Zzzz..`"
+                    "text": "Zzzz.."
                 }
             ],
             "player": "Mica",
@@ -9381,7 +9698,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose get more people and go back to the ship | kill the police | Get the jewel"
                 }
             ],
@@ -9393,7 +9710,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | PlasmaPerson, I pick kill the police!"
+                    "text": "🤔 | PlasmaPerson, I pick kill the police!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -9408,7 +9725,7 @@
                 }
             ],
             "player": "Zander",
-            "character": "Grass salesman",
+            "character": "Grass Salesman",
             "date": "02-Jul-18 06:45 PM"
         },
         {
@@ -9468,6 +9785,10 @@
                 {
                     "type": "quote",
                     "text": "BLOOOD!"
+                },
+                {
+                    "type": "action",
+                    "text": "Asier twirls his blades in the sky."
                 }
             ],
             "player": "Jonas",
@@ -9493,7 +9814,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do I enter the ship?"
+                    "text": "@Magic8Ball Does Seth enter the ship?"
                 }
             ],
             "player": "Sean",
@@ -9525,7 +9846,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose take the slaves back to the ship | take more slaves and go back to the ship"
                 }
             ],
@@ -9537,7 +9858,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | RPretribution, I pick take more slaves and go back to the ship!"
+                    "text": "🤔 | RPretribution, I pick take more slaves and go back to the ship!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -9546,6 +9867,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Seth groans and mumbles."
+                },
                 {
                     "type": "quote",
                     "text": "Great, we got Mickey Mouse's ghost following us."
@@ -9559,7 +9884,7 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Garrick pockets 12 more hostages and turns around."
+                    "text": "Garrick pockets twelve more hostages and turns around."
                 },
                 {
                     "type": "quote",
@@ -9600,7 +9925,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Next person decides for you, Zander."
+                    "text": "🎱 | Tom Thompson says no, Zander."
                 }
             ],
             "player": "FF 8 Ball",
@@ -9611,7 +9936,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does the ghost look like a bedsheet ghost with Mickey Mouse ears?"
+                    "text": "@Magic8Ball Does the ghost look like a bedsheet ghost with Mickey Mouse ears?"
                 }
             ],
             "player": "Tom Thompson",
@@ -9633,7 +9958,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does Emmett actually eat them?"
+                    "text": "@Magic8Ball Does Emmett actually eat the grass salesman?"
                 }
             ],
             "player": "Jonas",
@@ -9670,7 +9995,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do I enter the ship bragging about the success of the heist?"
+                    "text": "@Magic8Ball Does Seth enter the ship bragging about the success of the heist?"
                 }
             ],
             "player": "Sean",
@@ -9751,7 +10076,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does Garrick enter the ship yelling?"
+                    "text": "@Magic8Ball Does Garrick enter the ship yelling?"
                 }
             ],
             "player": "Trey",
@@ -9773,7 +10098,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "WWWHHHOOOOOOOO'SSSS HOOOOOOMMMMEEEE"
+                    "text": "WWWHHHOOOOOOOO'SSSS HOOOOOOMMMMEEEE?"
                 }
             ],
             "player": "Trey",
@@ -9819,6 +10144,10 @@
                 {
                     "type": "quote",
                     "text": "WHERE ARE YOU!?"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick looks around frantically while Asier manages to stay behind him."
                 }
             ],
             "player": "Trey",
@@ -9862,7 +10191,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball do I scare anyone that has the jewel?"
+                    "text": "@Magic8Ball Does Mickey Mouse Ghost scare anyone that has the jewel?"
                 }
             ],
             "player": "Tom Thompson",
@@ -10041,7 +10370,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does Micky mouse ghost make the owner of the jewel go into a grave yard?"
+                    "text": "@Magic8Ball Does Mickey Mouse Ghost make the owner of the jewel go into a graveyard?"
                 }
             ],
             "player": "Tom Thompson",
@@ -10078,7 +10407,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do we launch with everyone on the ship?"
+                    "text": "@Magic8Ball Does the crew launch with everyone on the ship?"
                 }
             ],
             "player": "Sean",
@@ -10089,7 +10418,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Person who just went decides for you, Bagelwrecker."
+                    "text": "🎱 | Tom Thompson says yes, Bagelwrecker."
                 }
             ],
             "player": "FF 8 Ball",
@@ -10115,7 +10444,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does Micky mouse ghost follow Sean for ever?"
+                    "text": "@Magic8Ball Does Mickey Mouse Ghost follow Seth forever?"
                 }
             ],
             "player": "Tom Thompson",
@@ -10137,7 +10466,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Well we'll get your grass on the next planet."
+                    "text": "Well, we'll get your grass on the next planet."
                 }
             ],
             "player": "Sean",
@@ -10231,6 +10560,10 @@
                 {
                     "type": "quote",
                     "text": "IT'S AN ADDICTION."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett continues to shake."
                 }
             ],
             "player": "Zander",
@@ -10289,7 +10622,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball (Micky mouse ghost is possessing the trash can does he succeed?)"
+                    "text": "@Magic8Ball Micky mouse ghost is possessing the trash can, does he succeed?"
                 }
             ],
             "player": "Tom Thompson",
@@ -10333,7 +10666,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do I lay down on my bed?"
+                    "text": "@Magic8Ball Does Seth lay down on his bed?"
                 }
             ],
             "player": "Sean",
@@ -10430,7 +10763,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "hey garrick?"
+                    "text": "Hey garrick?"
                 }
             ],
             "player": "Zander",
@@ -10482,7 +10815,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I, the Micky mouse ghost, shall talk in 73th person!"
+                    "text": "I, the Mickey mouse ghost, shall talk in 73th person!"
                 }
             ],
             "player": "Tom Thompson",
@@ -10491,6 +10824,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Maia continues to say, 'Z' in her sleep."
+                },
                 {
                     "type": "quote",
                     "text": "Zzzz..."
@@ -10545,7 +10882,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I the spooky ghost posses the Micky mouse toy"
+                    "text": "I, the spooky ghost possess the Mickey mouse toy!"
+                },
+                {
+                    "type": "action",
+                    "text": "The Mickey Mouse Ghost possesses the Mickey Mouse toy, expecting a response."
                 }
             ],
             "player": "Tom Thompson",
@@ -10554,6 +10895,10 @@
         },
         {
             "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett smiles devilishly."
+                },
                 {
                     "type": "quote",
                     "text": "EAT THEM."
@@ -10578,7 +10923,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "haha do you like squeaky toys"
+                    "text": "Haha, do you like squeaky toys!"
                 }
             ],
             "player": "Tom Thompson",
@@ -10588,7 +10933,7 @@
         {
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!choose sell | airlock | put them up for adoption"
                 }
             ],
@@ -10600,7 +10945,7 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "> 🤔 | RPretribution, I pick airlock!"
+                    "text": "🤔 | RPretribution, I pick airlock!"
                 }
             ],
             "player": "FF 8 Ball",
@@ -10651,6 +10996,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Seth shrugs, holding his hands out."
+                },
+                {
                     "type": "quote",
                     "text": "No gold here."
                 }
@@ -10667,7 +11016,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "Garrick sprays an anti-spectral spray bottle at the MMG."
+                    "text": "Garrick sprays an anti-spectral spray bottle at the Mickey Mouse Ghost."
                 }
             ],
             "player": "Trey",
@@ -10734,7 +11083,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "I was dead for a while. What is it that I can steal that you have expensive"
+                    "text": "I was dead for a while. What is it that I can steal that you have expensive?"
                 }
             ],
             "player": "Tom Thompson",
@@ -10767,7 +11116,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Um the slaves."
+                    "text": "Um, the slaves."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth rolls his eyes."
                 }
             ],
             "player": "Sean",
@@ -10814,6 +11167,10 @@
         {
             "content": [
                 {
+                    "type": "action",
+                    "text": "Emmett mumbles."
+                },
+                {
                     "type": "quote",
                     "text": "I'll try not to kill everyone."
                 }
@@ -10841,7 +11198,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "The slates... pardon me, I can't say bad words as a Micky mouse ghost."
+                    "text": "The slates... pardon me, I can't say bad words as the Mickey Mouse Ghost."
                 }
             ],
             "player": "Tom Thompson",
@@ -10937,7 +11294,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball Do we arrive at Rawney's Restaurant?"
+                    "text": "@Magic8Ball Does the crew arrive at Rawney's Restaurant?"
                 }
             ],
             "player": "Sean",
@@ -10959,7 +11316,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball does garrick go to a room"
+                    "text": "@Magic8Ball Does Garrick go to a room?"
                 }
             ],
             "player": "Trey",
@@ -11033,7 +11390,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "@Magic8Ball do I make the ship go to Earth's Disneyland?"
+                    "text": "@Magic8Ball Does the Mickey Mouse Ghost make the ship go to Earth's Disneyland?"
                 }
             ],
             "player": "Tom Thompson",
@@ -11099,11 +11456,15 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I shall steal all your slates and then the ship won't be a bale to fly no more!"
+                    "text": "I shall steal all your slates and then the ship won't be able to fly no more!"
                 },
                 {
                     "type": "quote",
-                    "text": "space rool-237 no space ships with out slates"
+                    "text": "Space Rool 237: No space ships without slates!"
+                },
+                {
+                    "type": "action",
+                    "text": "The Mickey Mouse Ghost laughs maniacally."
                 }
             ],
             "player": "Tom Thompson",

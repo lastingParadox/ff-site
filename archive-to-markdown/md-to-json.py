@@ -207,8 +207,14 @@ if __name__ == "__main__":
         "../src/assets/json/archives/ff2/" + sys.argv[2] + "-" + filename + ".json"
     )
     blocks = parse_blocks(md_file)
+
+    if len(sys.argv) > 4:
+        title = sys.argv[4]
+    else:
+        title = sys.argv[1]
+
     episode_dict = {
-        "title": sys.argv[5] if len(sys.argv) > 4 else sys.argv[1],
+        "title": title,
         "episode_number": sys.argv[2],
         "short_desc": sys.argv[3],
         "blocks": blocks,

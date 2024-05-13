@@ -38,24 +38,35 @@ export default function ArchivePage() {
         // Grab all files in the current season
         // i.e., in @/assets/json/archives/FF2
 
-        const episodeFiles = Object.keys(files)
-            .filter((file) => file.includes(season))
-            .map((file) => {
-                // Initial file name format: #-title.json
-                // Requested file name format: title
-                const initialFileName = file.split('/').pop() as string;
-                const regExMatch = initialFileName.match(/((\d+)-(.+)).json/);
-                const [paramName, episodeNumber, tempTitle] = regExMatch
-                    ? [regExMatch[1], parseInt(regExMatch[2]), regExMatch[3]]
-                    : ['', 0, ''];
+        const getEpisodeTitle = async (file: string) => {
+            try {
+                const { title } = (await import(`@/assets/json/archives/${season}/${file}.json`)) as EpisodeType;
+                return title;
+            } catch {
+                return '';
+            }
+        };
 
-                // Convert param name to human-readable title
-                const title = formatTitle(tempTitle);
+        const generateEpisodeFiles = async () => {
+            const episodeFiles = Object.keys(files)
+                .filter((file) => file.includes(season))
+                .map(async (file) => {
+                    // Initial file name format: #-title.json
+                    // Requested file name format: title
+                    const initialFileName = file.split('/').pop() as string;
+                    const regExMatch = initialFileName.match(/((\d+)-(.+)).json/);
+                    const [paramName, episodeNumber] = regExMatch ? [regExMatch[1], parseInt(regExMatch[2])] : ['', 0];
 
-                return { paramName: paramName, title, episodeNumber };
-            });
+                    // Convert param name to human-readable title
+                    const title = await getEpisodeTitle(paramName);
 
-        setEpisodeFiles(episodeFiles);
+                    return { paramName: paramName, title, episodeNumber };
+                });
+
+            setEpisodeFiles(await Promise.all(episodeFiles));
+        };
+
+        generateEpisodeFiles();
     }, [season]);
 
     // Fetch episode data
