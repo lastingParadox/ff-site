@@ -197,7 +197,9 @@ def convert_to_filename(string):
 
 if __name__ == "__main__":
     if len(sys.argv) < 4:
-        print("Usage: python md-to-json.py <title> <episode_number> <description>")
+        print(
+            "Usage: python md-to-json.py <file_name> <episode_number> <description> [title]"
+        )
         sys.exit(1)
     filename = convert_to_filename(sys.argv[1])
     md_file = "./md/ff2/" + filename + ".md"
@@ -206,7 +208,7 @@ if __name__ == "__main__":
     )
     blocks = parse_blocks(md_file)
     episode_dict = {
-        "title": sys.argv[1],
+        "title": sys.argv[5] if len(sys.argv) > 4 else sys.argv[1],
         "episode_number": sys.argv[2],
         "short_desc": sys.argv[3],
         "blocks": blocks,
