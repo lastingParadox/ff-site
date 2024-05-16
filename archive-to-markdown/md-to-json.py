@@ -1,3 +1,4 @@
+import glob
 import re
 import json
 import emoji
@@ -203,6 +204,21 @@ def convert_to_filename(string):
     return string
 
 
+def find_file(file_name):
+    # Define the directory where files are located
+    directory = "./md/ff2/"
+
+    # List possible file name formats
+    possible_files = [f"{directory}{file_name}.md", f"{directory}*-{file_name}.md"]
+
+    for pattern in possible_files:
+        matching_files = glob.glob(pattern)
+        if matching_files:
+            return matching_files[0]
+
+    return None
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 4:
         print(
@@ -210,7 +226,12 @@ if __name__ == "__main__":
         )
         sys.exit(1)
     filename = convert_to_filename(sys.argv[1])
-    md_file = "./md/ff2/" + filename + ".md"
+    md_file = find_file(filename)
+
+    if not md_file:
+        print(f"Error: File {filename}.md or *-{filename}.md not found.")
+        sys.exit(1)
+
     json_file = (
         "../src/assets/json/archives/ff2/" + sys.argv[2] + "-" + filename + ".json"
     )
