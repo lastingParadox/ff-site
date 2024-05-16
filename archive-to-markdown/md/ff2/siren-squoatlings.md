@@ -1142,11 +1142,11 @@ _Emmett's stomach rumbles._
 
 **Brakia** _(05-Jul-18 06:22 PM)_
 
-> _Ibraxas makes a face like the following. 😐_
+_Ibraxas makes a face like the following. 😐_
 
 **Zander** _(05-Jul-18 06:22 PM)_
 
-> _Emmett, having tried to ease his tension, makes a face like the following from his blunder of a joke. 😣_
+_Emmett, having tried to ease his tension, makes a face like the following from his blunder of a joke. 😣_
 
 **Brakia** _(05-Jul-18 06:23 PM)_
 

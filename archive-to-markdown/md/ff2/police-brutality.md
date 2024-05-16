@@ -584,7 +584,7 @@ _Emmett inhales deeply._
 
 **Bagelwrecker** _(25-Jun-18 02:50 PM)_
 
-@Magic8Ball Do I go to sleep?
+@Magic8Ball Does Seth go to sleep?
 
 **Magic8Ball** _(25-Jun-18 02:50 PM)_
 
@@ -1050,7 +1050,7 @@ _Asier gets atop of the roof._
 
 **Bagelwrecker** _(25-Jun-18 03:21 PM)_
 
-@Magic8Ball Do I rush into the police station screaming and shooting?
+@Magic8Ball Does Seth rush into the police station screaming and shooting?
 
 **Magic8Ball** _(25-Jun-18 03:21 PM)_
 
@@ -1079,7 +1079,7 @@ _Garrick laughs._
 
 _Seth busts down the back door to the police station with dual plasma rifles._
 
-> AYY AY AY
+> AYY AY AY!
 > GIVE ME YOUR LITTLE ONES!
 
 **Zander** _(25-Jun-18 03:22 PM)_
@@ -1158,7 +1158,7 @@ _Asier draws his magic whip._
 
 **TheBlade** _(25-Jun-18 03:26 PM)_
 
-_Jim looks around corner and ducks beneath some stray shots from Seth._
+_Jim looks around a corner and ducks beneath some stray shots from Seth._
 
 > The hell is going on here?
 

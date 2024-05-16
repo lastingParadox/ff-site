@@ -1,6 +1,6 @@
 {
     "title": "Siren Squoatlings... in Space!",
-    "episode_number": "8",
+    "episode_number": 8,
     "short_desc": "The crew relaxes in deep space, chatting with each other and witnessing space sirens.",
     "blocks": [
         {
@@ -2997,8 +2997,8 @@
         {
             "content": [
                 {
-                    "type": "quote",
-                    "text": "_Ibraxas makes a face like the following. 😐_"
+                    "type": "action",
+                    "text": "Ibraxas makes a face like the following. 😐"
                 }
             ],
             "player": "Brody",
@@ -3008,8 +3008,8 @@
         {
             "content": [
                 {
-                    "type": "quote",
-                    "text": "_Emmett, having tried to ease his tension, makes a face like the following from his blunder of a joke. 😣_"
+                    "type": "action",
+                    "text": "Emmett, having tried to ease his tension, makes a face like the following from his blunder of a joke. 😣"
                 }
             ],
             "player": "Zander",

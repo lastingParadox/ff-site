@@ -640,9 +640,7 @@ _Jim complains in an accusatory tone._
 
 **Bagelwrecker** _(27-Jun-18 04:05 PM)_
 
-@Magic8ball
-
-> Does Seth convince everyone to do a mission for Mora-Norap?
+@Magic8ball Does Seth convince everyone to do a mission for Mora-Norap?
 
 **Magic8Ball** _(27-Jun-18 04:05 PM)_
 

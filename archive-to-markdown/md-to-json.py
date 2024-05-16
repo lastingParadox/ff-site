@@ -34,6 +34,10 @@ def get_character_from_player(player):
             return "Steely"
         case "Mica":
             return "Maia"
+        case "Nick":
+            return "Lodas"
+        case "Rashidi":
+            return "Danny"
         case _:
             return None
 
@@ -57,6 +61,10 @@ def get_player_from_username(username):
             return "Josh"
         case "RPretribution":
             return "Trey"
+        case "Mr.WobblyShark":
+            return "Nick"
+        case "Platinum_Pathos":
+            return "Rashidi"
         case _:
             return username
 
@@ -215,7 +223,7 @@ if __name__ == "__main__":
 
     episode_dict = {
         "title": title,
-        "episode_number": sys.argv[2],
+        "episode_number": int(sys.argv[2]),
         "short_desc": sys.argv[3],
         "blocks": blocks,
     }

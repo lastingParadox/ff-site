@@ -23676,7 +23676,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(21-Jul-18 06:15 PM)_
 
-> Fuck you faggot.
+> Fuck you sleazeball.
 
 **Brakia** _(21-Jul-18 06:15 PM)_
 
@@ -23688,7 +23688,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(21-Jul-18 06:15 PM)_
 
-> Your emperor is also a faggot.
+> Your emperor is also a sleazeball.
 > I'll gas him.
 
 **RPretribution** _(21-Jul-18 06:15 PM)_
@@ -23794,7 +23794,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(21-Jul-18 06:18 PM)_
 
-> Nice fleshlight faggot.
+> Nice fleshlight sleazeball.
 
 **Zander** _(21-Jul-18 06:18 PM)_
 
@@ -25658,7 +25658,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(28-Jul-18 05:25 PM)_
 
-> Chill faggot.
+> Chill sleazeball.
 
 **Zander** _(28-Jul-18 05:25 PM)_
 
@@ -25723,7 +25723,7 @@ In the end, the result was:
 **Bagelwrecker** _(28-Jul-18 05:26 PM)_
 
 > (Nods profusely)
-> Big baby have tantrum like faggot
+> Big baby have tantrum like sleazeball
 
 **Mr.WobblyShark** _(28-Jul-18 05:26 PM)_
 
@@ -25820,7 +25820,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(28-Jul-18 05:30 PM)_
 
-> WAAAAAAAAAAAAAAAAAAA MY NAME LODAS I BIG FAGGOT THAT CRY LIKE BABY AND JERK OFF TO CYBERDOG WHILE CRYING
+> WAAAAAAAAAAAAAAAAAAA MY NAME LODAS I BIG SLEAZEBALL THAT CRY LIKE BABY AND JERK OFF TO CYBERDOG WHILE CRYING
 
 **Brakia** _(28-Jul-18 05:30 PM)_
 
@@ -35009,7 +35009,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(19-Aug-18 03:31 PM)_
 
-> Get fucked faggot.
+> Get fucked sleazeball.
 
 **RPretribution** _(19-Aug-18 03:31 PM)_
 
@@ -35267,7 +35267,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(19-Aug-18 03:36 PM)_
 
-> Emmett go kill the flame faggot.
+> Emmett go kill the flame sleazeball.
 
 **RPretribution** _(19-Aug-18 03:36 PM)_
 
@@ -35491,7 +35491,7 @@ In the end, the result was:
 **Bagelwrecker** _(19-Aug-18 03:41 PM)_
 
 > Only fair.
-> You're little faggot behind you decided to interfere so we might as well.
+> You're little sleazeball behind you decided to interfere so we might as well.
 
 **ProfessorTree** _(19-Aug-18 03:42 PM)_
 
@@ -37594,7 +37594,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(19-Aug-18 05:02 PM)_
 
-> Fuck you too faggot, I'll rip your fucking head off.
+> Fuck you too sleazeball, I'll rip your fucking head off.
 
 **ProfessorTree** _(19-Aug-18 05:02 PM)_
 

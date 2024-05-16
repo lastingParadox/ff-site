@@ -48,7 +48,7 @@ export default function ArchivePage() {
         };
 
         const generateEpisodeFiles = async () => {
-            const episodeFiles = Object.keys(files)
+            const episodePromises = Object.keys(files)
                 .filter((file) => file.includes(season))
                 .map(async (file) => {
                     // Initial file name format: #-title.json
@@ -63,7 +63,11 @@ export default function ArchivePage() {
                     return { paramName: paramName, title, episodeNumber };
                 });
 
-            setEpisodeFiles(await Promise.all(episodeFiles));
+            const episodeFiles = await Promise.all(episodePromises);
+
+            episodeFiles.sort((a, b) => a.episodeNumber - b.episodeNumber);
+
+            setEpisodeFiles(episodeFiles);
         };
 
         generateEpisodeFiles();
