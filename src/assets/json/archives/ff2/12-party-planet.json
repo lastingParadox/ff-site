@@ -1,0 +1,6250 @@
+{
+    "title": "Party Planet",
+    "episode_number": 12,
+    "short_desc": "To celebrate their newest member, the crew heads to a planet of college students to party.",
+    "blocks": [
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Thisss isss a niccce sssship."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya walks about the ship, admiring the architecture."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:06 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Thank you."
+                },
+                {
+                    "type": "quote",
+                    "text": "I had to kill a man for it."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth stretches in his lounge chair."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It'sss an old model, right?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Jim has already forgotten about Mora-Norap's mission to murder his rival."
+                },
+                {
+                    "type": "quote",
+                    "text": "I thought you paid a guy for it?"
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Vintage, actually."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Nah, we did a bounty mission for this ship."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:08 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya Check all the bedrooms for one that she likes?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Jim watches Sanya walk about the ship, antagonized by her mere presence."
+                },
+                {
+                    "type": "quote",
+                    "text": "Wait since when did someone give Sanya the \"okay\" to just be here?"
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I did."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Sssssincce I got hired..."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Kambras, you'll be residing in here."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett holds the door open to his cabin. Evidently, Emmett wants his room to be quite toasty at night with the two girls in there."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Still not over the fact that she literally KILLED our last engineer!"
+                },
+                {
+                    "type": "action",
+                    "text": "Jim gestures his mind being blown sarcastically."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Considering we lost a crew member through suicide, he'll be replaced by her."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth throws a bottle into the cellroom to Jim's dismay."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I don't know jack about engineering..."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Jim scoffs, annoyed."
+                },
+                {
+                    "type": "quote",
+                    "text": "... As they prove my point.."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I like thisss room."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya looks into a room that just so happened to be unoccupied. Strange."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:11 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Meh, Emmett knows enough."
+                },
+                {
+                    "type": "quote",
+                    "text": "Emmett learned enough from me and our last two engineers."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth yawns."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:11 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Jim is still understandably upset about Ibraxas's death given how close he was to him."
+                },
+                {
+                    "type": "quote",
+                    "text": "It was the same guy..."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:12 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett looks back at the lounge, having helped Kambras unpack in his room while Maia was still fast asleep. This tended to be commonplace nowadays, with Maia sleeping for equinoxes on end."
+                },
+                {
+                    "type": "quote",
+                    "text": "What are you saying about me?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:12 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Jim heads back to the cell to work on it, having taken a break to heal his wounds from Sanya."
+                },
+                {
+                    "type": "quote",
+                    "text": "Why do you guys let everyone on this ship?"
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:12 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth start a party to commerate the crew's new crew member and so he can get some ass?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:12 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, definitely, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:12 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Were you guys even the original explorers?"
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yes."
+                },
+                {
+                    "type": "quote",
+                    "text": "It started off with Emmett and I..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth hums a bit to himself, before having an idea."
+                },
+                {
+                    "type": "quote",
+                    "text": "Y'know, let's have a party to celebrate."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well if its a party you want..."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Let's go."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth counts... something, pointing at Jim, Emmett, Sanya, and any other crew members."
+                },
+                {
+                    "type": "quote",
+                    "text": "We got 40 people on the ship, Emmett launch now."
+                },
+                {
+                    "type": "action",
+                    "text": "There is not 40 people on the ship."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Off to PartyCity--I mean, Party Planet."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett heads over to the cockpit and sets the coordinates, having fixed the navs with the part Ibraxas got them, rest his soul."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:15 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hell yeah."
+                },
+                {
+                    "type": "quote",
+                    "text": "Now if you don't mind me I got women to fuck."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth lies back in his chair and exercises his pelvis, air humping to get himself pumped for the night."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:15 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Jim get the cell finished?"
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:16 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook not so good, TheBlade."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:16 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "This damn cell would be finished if you guys hadn't lost our engineer!"
+                },
+                {
+                    "type": "action",
+                    "text": "Jim peers into the cell room, pissed that he wasn't able to get it finished in one go."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:17 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "A sss-cell huh? for who?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya seems to have forgotten about their conversation earlier."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:17 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett end up landing at the planet yet?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett sits back in the pilot's chair, realizing it would take a bit longer to land at Party Planet."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Man, it's been a while since I danced like this..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth starts humping the lounge chair in some sort of perverted dance."
+                },
+                {
+                    "type": "quote",
+                    "text": "Emmett, we need to have more parties."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya set up her stuff in her new room?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:22 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:22 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the crew land at a never ending party planet?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:22 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:22 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Jim convince Sanya that the cell is her new room?"
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:23 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, TheBlade."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:23 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'll get your stuff in your room, Sanya."
+                },
+                {
+                    "type": "action",
+                    "text": "Jim grabs all of Sanya's things and throws them into the cell room."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:23 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I already have a room..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya elbows Jim and grabs her stuff back."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:23 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is the crew on the planet yet?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:24 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:24 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Jesus christ..."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:24 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya drop her stuff in the room she's claimed?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:24 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:24 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Okay party people, off the ship now!"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth starts to exit the ship."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya sits on the bed, still needing to set up her stuff in her room."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm fine. I'll jusssst be here."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Iris decide to introduce herself to the hosts?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, Jelsafan0."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Think these guys have some grass?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "They may have some of my grass."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shrugs and grabs some Dots to put in his drink."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris curtsies."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hello. Might I assume you are the hosts of this party?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I need it for my brew..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett notices Iris and tilts his head at her greeting."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You assumed right."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Who are you?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya looks around the corner, taking an interest in the half-elf."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "My name is Iris. It’s a nice party."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Don't be rude, my plant-based friend, she's one of the party guests."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett raises his brow, but lowers it in generalization."
+                },
+                {
+                    "type": "quote",
+                    "text": "You look like Seth but female."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett looks away apathetically."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That won't end well..."
+                },
+                {
+                    "type": "action",
+                    "text": "Jim puts down his tools and heads out the ship's hatch, looking around the Party Planet."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I always wanted to do myself."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth clicks his tongue and winks at Iris."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That's some existential shit there..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett frowns at the thought."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris gives Seth a wide-eyed stare, caught by surprise."
+                },
+                {
+                    "type": "quote",
+                    "text": "Pardon?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That'sss kinda weird, Sssseth..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya was still trying to consider the logistics of mammalian mating procedures, not really understanding them."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Iris, meet Seth. Seth meet Iris."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Jim gags."
+                },
+                {
+                    "type": "quote",
+                    "text": "Don't listen to Seth, he talks with this own dick in his mouth sometimes..."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth looks over to Emmett pridefully."
+                },
+                {
+                    "type": "quote",
+                    "text": "Emmett, can you make me a cocktail?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris's concern subsides, and she takes Seth's hand."
+                },
+                {
+                    "type": "quote",
+                    "text": "A pleasure to meet you, Seth."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm Emmett. If you need me, I'll be in the kitchen."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett heads over to the kitchen to make Seth and himself a cocktail."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth bows over and kisses Iris's hand in response. He's being awfully polite right now."
+                },
+                {
+                    "type": "quote",
+                    "text": "Pleasure is all mine."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Wait, why are we heading back into the ship, we are on a PARTY-PLANET!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Lets have some fun people!"
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:29 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth take a seat in a naturally grown couch?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:29 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, definitely, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:29 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "The planet is literally just a residential frat neighborhood."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett comes out the ship and joins Seth, handing him his drink."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:29 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick exits the ship and immediately pockets a keg before joining the others."
+                },
+                {
+                    "type": "quote",
+                    "text": "Heyo."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:29 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "University students. They just like partying when someone hosts."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett sits on the couch, its texture and softness being surprisingly comfortable."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Why the hell is it called Party Planet then...?"
+                },
+                {
+                    "type": "action",
+                    "text": "Jim looks confused, having never gone to college, nor a frat party."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Been a while since I've been to a frat party, like maybe... 91 Years."
+                },
+                {
+                    "type": "quote",
+                    "text": "Or so."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett laughs and elbows Seth in jest."
+                },
+                {
+                    "type": "quote",
+                    "text": "Damn, you're old."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Naturally grown couchessss? I didn't know that thisss planet wasss sssso eco-friendly. I like it."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya bounces on one of the couches."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I’m not one for loud parties, actually. I’m afraid my friend dragged me here, and then ditched me."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris sits on an opposing couch, shrinking from the music and loud people."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I thought this would be some sort of 24/7 rave shit or something..."
+                },
+                {
+                    "type": "action",
+                    "text": "Jim folds his arms, apparently the party not up to his standards."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Don't worry, you can stick around with us. We'll try not to bite."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:30 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Jim looks at his uniform, it being tattered from the past few semesters. Regardless, it was still recognizable as a cop uniform."
+                },
+                {
+                    "type": "quote",
+                    "text": "Actually now that I think about it, maybe I should change.."
+                },
+                {
+                    "type": "action",
+                    "text": "Jim stands up."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:31 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Some of the college students back away from Jim once they realize he's wearing a cop uniform."
+                },
+                {
+                    "type": "quote",
+                    "text": "Jim, go borrow one of my suits, you freaking all the kids out."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth points towards the ship."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:31 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Jim, to be petty, sits back down."
+                },
+                {
+                    "type": "quote",
+                    "text": "Or not."
+                }
+            ],
+            "player": "TheBlade",
+            "character": "Jim",
+            "date": "18-Aug-18 02:31 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Thank you very much for your kindness."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:31 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It's no problem, we elves have to stick together."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth's eyes shine."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "So, who’s the new gal?"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick grabs a pack of naturally grown couch seeds."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well, considering my archidemon half, that normally does not apply to me..."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris keeps to herself, uncomfortable."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ah well, I don't discriminate..."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris looks at Garrick with a shy smile."
+                },
+                {
+                    "type": "quote",
+                    "text": "My name is Iris. A pleasure to meet you."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Think I should put some grass in your cocktail, Seth?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Nah."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm not looking to get high right now..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth sips."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yeah, nice to meetcha'. I’m Garrick."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick takes out a skeletal bone hand slapper from his pocket."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "SpaceAIDs then..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett takes out a baggie of a substance he finds sitting around and tosses it to Seth."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh, please no."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth pockets the baggie in disgust."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett brew himself some strong Squoatling-styled vodka?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:35 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook not so good, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:35 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett attempts to brew a squoatling vodka from a mix of some other drinks and fruits based on what he found on the holonet. However, it just doesn't turn out that strong for him."
+                },
+                {
+                    "type": "quote",
+                    "text": "Well, it's not strong..."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:35 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Emmett, you trying to bootleg?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:35 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Can I take a sssswig?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya takes out a mug, not knowing nor caring about squoatlings' extreme tolerance of alcohol."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:36 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Would smell like pork otherwise..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett takes a sip, the drink having a hot, fruity aftertaste from the alcohol content."
+                },
+                {
+                    "type": "quote",
+                    "text": "It could potentially knock you out from a glass. Try a sip if you want."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:36 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Mind finishing up that cocktail for me? I'm dying of thirst here..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shakes his cup, having finished up the last cocktail."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:36 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I rarely drink, myself..."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris holds her arms between her legs."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:37 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm a floran. I don't have to worry about sssilly thingssss like the effectsss of alcohol."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:37 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett takes Seth's cup and fills it up."
+                },
+                {
+                    "type": "quote",
+                    "text": "Take this, Seth."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett hands Seth back the cup, catching a fruity whiff from the drink."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:37 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ah, thank you Emmett. You always make the best cocktails."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth drinks, already getting a buzz."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Who’s this other green lady I haven’t met?"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick points a big finger at Sanya."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You take after your mother..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth giggles drunkenly."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Do I?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett swishes his cup around, disappointed. He pours a bit of tequila into it and takes a sip and smiles, getting somewhere."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya take a swig of the off-brand squoatling vodka?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Your mom was great with making cocktails."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth holds his drink out towards Emmett in honor of his mother."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Such talent and creativity..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shakes his cup, wanting more."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett pours some more for Seth."
+                },
+                {
+                    "type": "quote",
+                    "text": "I didn't really know her much..."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:38 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Me neither."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick shrugs and tries a sip of the squoatling-inspired mix. He immediately revolts from it."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:39 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well, I got to know her and your father over the 4 GUYs I protected your family."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:39 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That is quite some time..."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:39 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm gonna go find sssomeone to ssstab. I'll be back."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya gets up and tosses the drink away, the extreme alcohol content having no effect on her tar blood."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:40 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well, hitchhiking on ships gives you quite a lot of time."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shrugs and continues to drink."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:40 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Interesting."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:40 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Anyone else want some brew?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett sticks his face into the keg, enjoying the aroma."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Iris decide to get something to drink, despite not liking to drink much?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Jelsafan0."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "How strong is it?"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth knees Emmett in the rear playfully as he dips his head into the cocktail, causing him to jump in surprise."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Sure."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I suppose I’ll have some. You only live once, after all."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris grabs some drink from the cocktail mix and tries a sip."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth finish his cocktail?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Concentrate and ask again, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I literally have nothing to lose..."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick tries the drink again, bearing through the sickening alcohol."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth finish his cocktail?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "This is like..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett takes more of a drink."
+                },
+                {
+                    "type": "quote",
+                    "text": "A six on the galactic alcohol scale."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I don’t even know what that is."
+                },
+                {
+                    "type": "quote",
+                    "text": "To be fair, I don’t even know what the normal alcohol scale is."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick shrugs."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "This is like a four for the Vortox scale."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett didn't know the Vortox scale, but based on his experience, he just assumed this would be the case."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 02:43 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Right..."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:43 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "So really strong, I'd be careful..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth's face glows bright red."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:43 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It couldn’t hurt to try it at least once..."
+                },
+                {
+                    "type": "action",
+                    "text": "Feeling pressured by Seth's whopping three drinks, Iris is determined to finish at least one."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:43 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Of course not, just don't be surprised if you get your socks knocked off."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:44 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Noted."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris's mouth burns from the intensity."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:44 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm back. No one wanted to be ssstabbed, ssso..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya comes back, folding her arms in annoyance."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Emmett has drank gasoline before, so I'm sure he'll be fine."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh. Are we getting the new girl drunk?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya remains straightfaced, not really understanding the joys of being intoxicated."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What does gasoline taste like?"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick looks over at Emmett."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I presume so..."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris manages to down the drink, definitely not prepared for what was to come."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Nothing bad with a little drink now and again Sandyeah."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth smirks, thinking he's clever mispronouncing Sanya's name."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:46 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It'sss Ssssanya."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya glares at Seth."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:46 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Garrick get a drink?"
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:46 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, RPretribution."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:46 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Great."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick, instead of drinking Emmett's highly concentrated mix, grabs a beer and pop open the tab."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:47 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That's what I said, Ssssandyeah."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth giggles like a child."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:47 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ssssssssssssstop hissing."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick chugs the can, getting an entourage of chanting students about him."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:47 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ssscrew you guysss."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya folds her arms angrily and looks away from the others."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:47 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm joking around, come and chill with us."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth pats the cushion next to him."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:48 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick manages to chug the whole can and looks around at the students. Although he says the following to Sanya, it also applies to the students."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hey, don’t look at me. Seth did it first."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick crunches the can on his forehead to the amazement of the students."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:48 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "We don't get to party every day you know..."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:48 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya sit and have a drink with the crew?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:48 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:48 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya sighs."
+                },
+                {
+                    "type": "quote",
+                    "text": "Nah. I'll jussst sssit with you guyss."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:48 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Iris get super drunk?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:49 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Jelsafan0."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:49 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris kicks off her heels after having another try at Emmett's mix and tries to touch her toes."
+                },
+                {
+                    "type": "quote",
+                    "text": "Wowww... I can’t feel my toes! Hahahhahaha!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:49 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hey, I think the new chick can hold her drinksss."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya smiles at Iris reassuringly."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:49 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm gonna go dance, you wanna join me, Iris?"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth stands up and holds his hand out to Iris."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:49 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Are you... gonna be alright?"
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris grabs Seth's hand and the two head over to one of the many dance floors."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hahahhaha, sure! Sounds fun to me!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya stares daggers into Seth, thinking his intentions were mmalicious."
+                },
+                {
+                    "type": "quote",
+                    "text": "Sssseth, watch yourssself..."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris is just laughing constantly. Seems she doesn't take alcohol well."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'll be safe..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth winks at Sanya."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya scowls."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm not worried about you."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Do Seth and Iris do the boogie woogie?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hahahahahaha... hahahhahahhahahhahaha!!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris was heating up, enjoying herself for the time being."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:51 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!choose Dab | Chicken Dance | Robot | Break Dance | Waltz"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:51 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🤔 | Bagelwrecker, I pick Dab!"
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:51 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Are they... dabbing?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:52 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick chortles."
+                },
+                {
+                    "type": "quote",
+                    "text": "What are you two even doing?"
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:52 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris puts her face into her arm and puts her other arm outward. The dab was official."
+                },
+                {
+                    "type": "quote",
+                    "text": "Pffftahahhahaha! This is- we are dabbing! Ahahahhahahaha!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:52 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick takes another drink, scoffing in a lighthearted manner."
+                },
+                {
+                    "type": "quote",
+                    "text": "Pffft. It’s hilarious."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:52 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I gotta keep a lady happy..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth starts making some smooth moves on the floor."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:53 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick's face contorts into the following face, mminus the nose: ( ͡° ͜ʖ ͡°)"
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:53 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!choose Iris bursts out crying | Iris decides to do the tango"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🤔 | Jelsafan0, I pick Iris bursts out crying!"
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth frowns, seeing Iris breakdown through drunken vision."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oh shit, what's wrong Iris?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick's face contorts back into a frown."
+                },
+                {
+                    "type": "quote",
+                    "text": "Sheesh..."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh great, Ssseth made her cry. Niccce job."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya folds her arms and looks away judgmentally, as if she expected this."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris balls, shutting down and getting into a fetal position on the floor."
+                },
+                {
+                    "type": "quote",
+                    "text": "M-my daddy doesn’t love meeeeeee!!!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth winces when \"daddy\" is mentioned."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oh god."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya grimaces in the cringe."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oh no."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!choose Iris is suddenly fine | Iris continues to wail"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🤔 | Jelsafan0, I pick continues to wail!"
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris starts to cradle herself, still crying vibrantly."
+                },
+                {
+                    "type": "quote",
+                    "text": "Aughhhhhh!!!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth sighs and grabs onto Iris, picking her up. The two of them were being posted all over the Party Planet's main social media, much to Seth's chagrin."
+                },
+                {
+                    "type": "quote",
+                    "text": "You want me to go beat up your \"Daddy\"?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:57 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris hugs Seth, her face quivering."
+                },
+                {
+                    "type": "quote",
+                    "text": "B-but my daddy’s an archidemonnnn!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:57 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth smiles to try and make Iris feel better."
+                },
+                {
+                    "type": "quote",
+                    "text": "No biggy."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:57 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "But he’s my daddy..."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:58 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Some of the students show off the media posts to Sanya and ask the crew if they wanted to take part in some obvious scams for profit on the site."
+                },
+                {
+                    "type": "quote",
+                    "text": "No! No, we're good."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya waves her hand away at them."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 02:58 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well, we can make him love you instead."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth raises his brow and smirks."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:58 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick gags from Seth's flirtacious manner."
+                },
+                {
+                    "type": "quote",
+                    "text": "Yeeeahhh... I’m not dealing with someone else’s family issues."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 02:58 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Whatever, I'll deal with it."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 02:58 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!choose Iris is suddenly fine | Iris becomes incredibly happy with no warning"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:59 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🤔 | Jelsafan0, I pick becomes incredibly happy with no warning!"
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 02:59 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris, on a switch, smiles brightly at Seth."
+                },
+                {
+                    "type": "quote",
+                    "text": "Thank youuuuuu!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 02:59 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It's no problem, let's keep dancing."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth grabs Iris's hands gently."
+                },
+                {
+                    "type": "quote",
+                    "text": "You wanna tango or do the waltz?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Tango! Let’s tango!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris giggles."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Sounds good, I was taught how to tango by my mother."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth and Iris start to tango."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I think her drinking was a bad idea."
+                },
+                {
+                    "type": "quote",
+                    "text": "Personally."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick has a cold expression."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:01 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hehhe, yaaayyy! This is the most fun I’ve had since I was seven years old!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris laughs vibrantly."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:01 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hey! DJ, change the song to something a little slower."
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the DJ comply?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:01 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:02 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris starts to slow dance with Seth."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oooh, this song is so prettyyyyy..."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "The DJ has a good taste in slow music."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth tips his head towards the DJ."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Mmhmm!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya, as usual, tries to be a party pooper."
+                },
+                {
+                    "type": "quote",
+                    "text": "I alwayss dissliked ssslow music."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well, it's good for slow dancing like this..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth smiles."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:04 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yeah! Super fun!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:04 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I thought I was 80 years too old to dance, but hey, here I am."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth twirls Iris around his hand."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:05 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hehe! Mom always told me not to drink, but it’s so much better like this!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:06 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth frowns, having remembered how some of the best captains fell due to alcoholism."
+                },
+                {
+                    "type": "quote",
+                    "text": "Don't drink all the time though, else you'll end up a homeless vagrant."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "How old isss Ssshe? Like, mental age?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya is trying to get Seth out of trying to court Iris."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ooookayyyy..."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris pauses for a moment, trying to think of an answer to Sanya's question."
+                },
+                {
+                    "type": "quote",
+                    "text": "I’m 18!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris smiles brightly."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I hope your dad doesn't get mad with me."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:08 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "My dad can’t get mad. He can’t feel anything at all anymore."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth looks at her, confused."
+                },
+                {
+                    "type": "quote",
+                    "text": "Well, that's both sad and sorta' good I guess?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Guess so!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Cool."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth checks his watch and looks back to the ship."
+                },
+                {
+                    "type": "quote",
+                    "text": "Man, it's getting late."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I guess?"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris has no concept of time given the state she's in."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Eh."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'll be right back, I'm going to go make me another cocktail."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I just woke up like an hour ago."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick shrugs."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ooh! Ooh! Get one for me!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris jumps in excitement, giddy for more alcohol."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Absolutely. Be back in five or so minutes."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth heads back to the ship, which is now flooded with partygoers."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:11 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Okie-dokie-loki!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris giggles keeps dancing with herself."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:11 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth make a classic elven cocktail?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:11 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:11 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I must say, being on other planets is weird."
+                },
+                {
+                    "type": "quote",
+                    "text": "Even though I’ve been with you guys for a while..."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:12 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I guess. It’s fun, though!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth heads back to the rest of the crew with two glasses in his hand."
+                },
+                {
+                    "type": "quote",
+                    "text": "Alright I'm back, I made two elven cocktails."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ooh, it’s been forever since I’ve had one of those! Pass!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris reaches out for a glass."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth hands a glass to Iris."
+                },
+                {
+                    "type": "quote",
+                    "text": "Here you go."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris practically downs the cocktail."
+                },
+                {
+                    "type": "quote",
+                    "text": "Mm, it’s so good!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well, I used to be a bartender back at my home planet."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ooh, cool!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris giggles."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett emerges from his room with a cloud girl. He looks a bit guilty, shifting his eyes about the crowd of college students flooding the ship."
+                },
+                {
+                    "type": "quote",
+                    "text": "Holy shit..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmmett squeezes through the crowd, meeting up with the others."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Lots of women loved my specialty."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth poses arrogantly."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:15 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I used to be a renowned thief back at my home planet."
+                },
+                {
+                    "type": "quote",
+                    "text": "Basically the only thing I did for fun."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick sighs, kind of missing stealing everything with little consequence."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:15 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I get my dick a little wet and then I find my house to be crowded with young people..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett grabs another drink and cracks it open."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:16 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm sssorry?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya looks at Emmett in bewilderment."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:17 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Which planet are you from, Iris?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:17 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh..."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris blushes lightly from Emmett's statement."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:17 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick remains apathetic despite Emmett's statement."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:17 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Erm, I’m from... hmmm... we moved a lot, so... I’m not sure?"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris holds her head, trying to remember."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:18 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Sanya, do you even know what mammal biology is?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett eyeballs Sanya, catching a whiff of her flower."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:18 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Mmmm."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:18 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Or do I need to teach you something on the matter?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett smirks coyly."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:18 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Phew, I'm getting a little tired."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:18 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I know the quickesst way to kill a mammal."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya growls lowly, excited from mthe thought."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:19 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Then go to sleep."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick looks at Seth as if he was stupid."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:19 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "But not much more than that."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:19 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett lowers his eyelids, groaning from Sanya's ignorance."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm talking about reproduction and crap."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:19 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Shhhhhhhhh, Emmett."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth puts a finger to Emmett's snout."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:19 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yeah, I don't know much about that. Sssorry."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya looks a bit irked."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:19 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Emmett."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick takes a foam finger out."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:20 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris finally realizes the time."
+                },
+                {
+                    "type": "quote",
+                    "text": "Aw man. I don’t have a ride home."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:20 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "No."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick wags his foam finger at Emmett."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:20 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I mean, if you were that curious, I could show you something. Completely platonic."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett smirks, the flower's pheremones finally getting to him."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:20 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ha! I haven’t been home in weeks."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:20 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Where is your home located? I'll take you home."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth stands from the natural couch, stretching."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:20 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh! I uh... I actually.... I don’t...."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris's mouth quivers, a solemmness falling upon her."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:20 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Are you homeless?"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth frowns."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I... don’t.... remember."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris starts to shake."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Shit..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth puts his hand on Iris's back to comfort her."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Just get a house somewhere."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick takes out a little Monopoly-esque plastic house from his pocket."
+                },
+                {
+                    "type": "quote",
+                    "text": "Easy."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I’ve been here for a really long time."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya looks disgusted."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm not that curiousss."
+                },
+                {
+                    "type": "other",
+                    "text": "\\*Emmett snaps out of the flower's allure"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Emmett, we're going on a scavenger hunt for this woman's home."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett check on his brew while talking to the plant, seeing how it has been severely modified?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:21 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett looks around at the college kids who keep on dipping into his keg."
+                },
+                {
+                    "type": "quote",
+                    "text": "I need to test this..."
+                },
+                {
+                    "type": "quote",
+                    "text": "Mostly for safety reasons..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett takes out a ladle and drinks some of his concoction. He nearly chokes from the unexpected rise in alcohol level. He exhales, his breath feeling much hotter than before."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oh crap."
+                },
+                {
+                    "type": "quote",
+                    "text": "That's bad."
+                },
+                {
+                    "type": "quote",
+                    "text": "Like, 8 or 9 kind-of bad..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett smiles to himself, realizing this would be a great drink for him back on the ship, but unsafe for the others."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:22 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Huh? What’s wrong?"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris looks over to Emmett woozily."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:23 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya check the drink?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:23 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:23 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya shrugs."
+                },
+                {
+                    "type": "quote",
+                    "text": "That ssseemsss like your problem."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:24 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Don't drink this..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett picks up the brew."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth and Iris go looking for her house?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "This is coma-worthy..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmmett smells the waft of the strong alcohol."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Despite Emmett's weirdness from before, Sanya takes an interest in what he was saying."
+                },
+                {
+                    "type": "quote",
+                    "text": "Coma?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:25 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Can she even go into a coma? She’s a plant..."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick considers the logistics of this, sticking the tip of his pinky finger in his mouth."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Like really long period of hibernation."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett looks at the brew longingly."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Granted, I’ve only met a few plant people in my life..."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ahh, I sssee..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya stands up, ready to head back to the ship."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That doesn’t sound good."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:26 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett grab his brew and push his way onto the ship?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Emmett'll be fine drinking it though."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth chuckles and follows Seth back onto the ship."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Out of the way."
+                },
+                {
+                    "type": "action",
+                    "text": "The drink was sloshing about, some drips falling onto the ground."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:27 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the brew burn through the ground?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:28 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm drinking this..."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:31 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Do Seth and Iris go back to Seth's room?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:31 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:31 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth bring Iris to the hypersleep chamber while Emmett gets wasted?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Did Iris's home planet blow up?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, Jelsafan0."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth and Iris head to a more quiet room to speak with each other."
+                },
+                {
+                    "type": "quote",
+                    "text": "I... I remembered what happened...."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris tears up."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh yeah..."
+                },
+                {
+                    "type": "action",
+                    "text": "In the kitchen of the ship, Emmett drops the brew, preparing himself to down it."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:32 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What happened?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "There... was an accident. In the mines..."
+                },
+                {
+                    "type": "quote",
+                    "text": "It's... gone now..."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris starts to choke up, attempting to compose herself."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Time to be Squoat's child."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett manages to down the whole brew and belches."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:33 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh damn, that's horrible..."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:34 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "A drunken Emmett, irritated by the hubble and bubble on the ship, points at the freeloaders and screams at them."
+                },
+                {
+                    "type": "quote",
+                    "text": "I AM TELLING YOU ALL TO SHUT THE FUCK UP AND WORSHIP THE ONE AND ONLY SQUOAT!"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:34 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris, overhearing Emmett while she tells Seth of her past, grimaces."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:35 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I remember hearing about that on the news a while back..."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:35 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett takes out Seth's laser pistol and points it at the freeloaders."
+                },
+                {
+                    "type": "quote",
+                    "text": "I HAVE A GUN FOR ANY NON... uh..."
+                },
+                {
+                    "type": "action",
+                    "text": "As some of the partygoers run off the ship in a panic, Emmett drops the gun clumsily."
+                },
+                {
+                    "type": "quote",
+                    "text": "Eh, screw you all..."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:35 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I’m the only one who made it out in time."
+                },
+                {
+                    "type": "quote",
+                    "text": "As far as I know, anyways..."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris looks away dismissively."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:35 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh that sucks."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth mutters to himself."
+                },
+                {
+                    "type": "quote",
+                    "text": "Ruined my boner."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:36 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm getting on the ship."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett is already on the ship, but it doesn't matter. He's drunk."
+                },
+                {
+                    "type": "quote",
+                    "text": "And I am getting a piggyback ride!"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:37 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Huh? Piggyback ride?"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris perks up, overhearing Emmett's drunken rant."
+                },
+                {
+                    "type": "quote",
+                    "text": "Did somebody say piggyback ride??"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:37 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What?"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick peers over Emmett, puzzled."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:39 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I heard the words piggyback ride."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris smiles, leaving the closet she and Seth were in."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:39 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett stumbles over to a random partygoer who still hasn't left the ship."
+                },
+                {
+                    "type": "quote",
+                    "text": "Give me a pigg-uhg-piggyback ride."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:40 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Go away creep."
+                }
+            ],
+            "player": "Sean",
+            "character": "Random Partygoer",
+            "date": "18-Aug-18 03:40 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris races to the lounge, where she sees Emmett failing at getting a piggyback ride himself."
+                },
+                {
+                    "type": "quote",
+                    "text": "Aw man. I thought I was gonna get a piggyback ride..."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:40 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett pull out his crossbow?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Fuck you too."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett pushes the partygoer aside and makes it to Iris, who was blocking the corridor."
+                },
+                {
+                    "type": "quote",
+                    "text": "Move out the way, I need my shit..."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:41 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Okay..."
+                },
+                {
+                    "type": "action",
+                    "text": "Iris moves aside for Emmett."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Emmett gets angry like this when he drinks heavily."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth pinches his brow, embarrassed that Emmett doesn't \"sexy drink\" like he does."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh, okay..."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh, ssso thatsss why he'ss acting weird!"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya relaxes on the lounge sofa, eagerly watching Emmett's drunken stupor."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:42 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett come back out of the captain's quarters with a tribal mask on and his crossbow on his back?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:43 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My sources say no, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:43 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Naked tribal emmett scare away the party?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:44 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook not so good, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:44 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett has a tribal mask on that he got from his room. He does NOT get naked, unfortunately."
+                },
+                {
+                    "type": "quote",
+                    "text": "If I don't get my piggyback, I am going to start another Vortoxicaust..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett hocks a loogie into a vase."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "A what?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya's grin subsides."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "A Squoaticide."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett holds onto the wall to balance himself."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does that scare Iris enough to give Enmett a piggyback ride?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Jelsafan0."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:45 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh..."
+                },
+                {
+                    "type": "action",
+                    "text": "The mentioning of a genocide does not sit well with Iris."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:46 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett tries to point at Iris, his aim wavering."
+                },
+                {
+                    "type": "quote",
+                    "text": "Half-Seth girl. How do you do it?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:46 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh. Isss thiss the affectsss of alcohol?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya is disgusted from discovering what high levels of intoxication could do to a person."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:46 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Do what?"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris, although put back by Emmett's behavior, decides to remain polite and respond to him."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:46 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It affects people in different ways..."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:47 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "How are you sso cool?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett gives Iris an angled smile."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:47 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Huh? I’m cool?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:47 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "She has some elf in her, that's how she's so cool."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth folds his arms, smiling pridefully."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:47 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett tries to roll his eyes, giving a lame attempt at a \"shooing\" gesture to Seth."
+                },
+                {
+                    "type": "quote",
+                    "text": "Elves are dumb."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett points at Iris, her temperature coincidentally rising."
+                },
+                {
+                    "type": "quote",
+                    "text": "I mean, sshe's pretty hot."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:49 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris tilts her head, her cheeks rosy from the complimments and the alcohol."
+                },
+                {
+                    "type": "quote",
+                    "text": "I’m also half archidemon, if that helps?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:49 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm a demon, if you get what I mean."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett gives a weak wink and laughs heartily."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:49 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You guysss are going to freak her out."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya looms over the back of the sofa, scoffing."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Huh? I didn’t know you were part demon!"
+                },
+                {
+                    "type": "action",
+                    "text": "Through naivety, Iris takes his remark down at different path."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Fuck off, you plant prick. I'm married."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett raises his right hoof, though no ring was on it."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth laughs."
+                },
+                {
+                    "type": "quote",
+                    "text": "Always knew Emmett could show off his lady-killing skills, just go along with it Iris."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:50 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "YE-ah. These horns are those of the Squevil."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett sticks his digits out and puts them over his horns, playfully headbutting her."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:51 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Everyone'sss drunk. Thisss isss jussst great."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya sighs, attempting to express disapproval. It was clear she was envious."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:51 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Get drunk with us, loser."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth throws a beer at Sanya, who catches it."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:52 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm not sssure I could. I could try..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya checks the label of the can."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:52 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris giggles, holding back the Squevil."
+                },
+                {
+                    "type": "quote",
+                    "text": "That sounds cool! It’s nice to have my half-archidemonic side in common with someone for once!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:53 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmmett taps Iris's nose."
+                },
+                {
+                    "type": "quote",
+                    "text": "Boop."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:53 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris backs up a bit, startled."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oh!"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:53 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya have a drink or two?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | You may rely on it, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "But yeah. I'm committed to some universe llama woman..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett was mixing up Fione and Maia for some reason."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Garrick eat a baby?"
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Most likely, RPretribution."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick grabs one of the student's babies and pretends to eat it, pocketing it."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya had already thrown the can Seth threw at her away."
+                },
+                {
+                    "type": "quote",
+                    "text": "Ssscrew it. Sssomeone hand me a drink."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett furrows his brow and points at Garrick, furious."
+                },
+                {
+                    "type": "quote",
+                    "text": "GARRICK, STOP EATING THE NEWBORN OF A POOR COLLEGE STUDENT!"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:54 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick finishes pocketing the baby and shrugs."
+                },
+                {
+                    "type": "quote",
+                    "text": "Okay."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris looks at Garrick in a mix of confusion and disgust."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick \"shrugs\"."
+                },
+                {
+                    "type": "quote",
+                    "text": "I don’t know??"
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:55 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hey Ssseth, can you make me a drink? I heard you were pretty good at it."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett take off his shirt, having felt hot?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 03:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "He is!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris notices Emmett and looks away, not wanting to feel embarrassed by being in the presence of his hot bod."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "We need to get these kids out."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett flexes, his muscles weak, though his form oddly impressive."
+                },
+                {
+                    "type": "quote",
+                    "text": "The adults need to wrestle."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:56 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Maybe... I think I wanna wrestle first."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth smirks at Emmett, knowing he would destroy him in wrestling."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:57 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I need a drink..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya acts as if she's dehydrated, pointing to her mmouth."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 03:57 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett looks to Seth and then side-eyes Iris a couple of times, alerting Seth to keep his eye on the prize."
+                },
+                {
+                    "type": "quote",
+                    "text": "You're gonna miss your score, headass."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett looks at Seth goofily."
+                },
+                {
+                    "type": "quote",
+                    "text": "Setth."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:57 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris, of course, did not get Emmmett's hint."
+                },
+                {
+                    "type": "quote",
+                    "text": "What’s going on?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 03:58 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I’m just gonna. Leave now."
+                },
+                {
+                    "type": "action",
+                    "text": "Feeling embarrassed by the crew hitting on each other, Garrick heads back to his cabin."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 03:58 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "It takes Seth a moment to understand what Emmett was getting at."
+                },
+                {
+                    "type": "quote",
+                    "text": "What's up?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 03:58 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Garrick, go make us some footballs in a bun or whatever."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett woozily heads over to the couch Sanya is sitting on."
+                },
+                {
+                    "type": "quote",
+                    "text": "If I'm going down, I need one of those for my brew."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 03:59 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth make three cocktails?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook good, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 04:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Here, Sanya."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth gives Sanya one of the cocktails."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hey guys..."
+                },
+                {
+                    "type": "quote",
+                    "text": "This is where my stash of grass is..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett reaches underneath the couch and takes out his grass stash."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Here you go, Iris."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth gives Iris the next cocktail."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Thanksss. Bottomsss up, I guesss..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya downs the drink, it tingling in her throat. She doesn't feel much from the drink however."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:00 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ooh, yay! Cheers, Sanya!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris drinks a bit of her drink, feeling the burn."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 04:01 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Right under Sanya's bed..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett continues to rummage under the couch, mistaking it for Sanya's bed."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:01 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What'sss under \"my bed\" now?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya peers over at Emmett, curious."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:02 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "There's also some of Seth's embarrassing porn magazines that I'm going to show to Iris in a bit..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett throws out some magazines from beneath the couch."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:02 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Go ahead."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth sips his drink."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:02 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That-"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris scoffs to her chagrin."
+                },
+                {
+                    "type": "quote",
+                    "text": "I-"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris drinks nervously."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 04:02 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Maybe we'll have the same interests."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth chuckles to ease the tension."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "They have images of that time you got dommed by that hideous glob princess..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett looks at the magazine for a bit and changes the page, uncomfortable by seeing Seth's massive rod."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What'sss porn? Ssso many mammal cusssstomsss. How am I gonna learn all of thessse?"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya grabs a magazine in curiosity."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:03 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett show Sanya the magazine as more people start to leave?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:04 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 04:04 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "This is Seth's micropenis..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett points at Seth's massive penis, purposely trying to antagonize Seth."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:04 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Doesn't look very micro to me."
+                }
+            ],
+            "player": "Sean",
+            "character": "Randomm Partygoer",
+            "date": "18-Aug-18 04:04 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya smirks, playing along."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hm. Are they all that sssmall?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:04 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It's \"Microsoft\"."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett looks at you, the reader as a student plays a \"ba-dum-tss\" on a drumset."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:04 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth rolls his eyes."
+                },
+                {
+                    "type": "quote",
+                    "text": "At least I didn't fuck a goblin."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:05 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Here is when he got that footlong sub implanted to his weinie..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett, upon hearing Seth's remark, remembers the traumatizing experience, and starts to puke in disgust and alcohol."
+                },
+                {
+                    "type": "quote",
+                    "text": "Fridge me man..."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:05 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya backs up from Emmett, grossed out by his puking."
+                },
+                {
+                    "type": "quote",
+                    "text": "Eww."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:06 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth groans."
+                },
+                {
+                    "type": "quote",
+                    "text": "Iris, you wanna head back to my room?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sitting so close to her, Emmett catches a whiff of her flower's pheremones again."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hey Santa?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Huh? What for?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 04:07 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya brushed off the incorrect name."
+                },
+                {
+                    "type": "quote",
+                    "text": "Yeah?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:08 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Just to get away from the two creeps looking at porn. Unless you want to, I don't mind."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shrugs, trying to play cool despite his more amorous intentions."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:08 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Your petals are showing. Heheh."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett breathes in, almost hypnotized."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:08 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Sounds fun to me!"
+                },
+                {
+                    "type": "action",
+                    "text": "Iris follows Seth to his room, not realizing what he intended for them to do in his cabin."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 04:08 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm blooming! I'm blooming!"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya looks up at her flower excitedly."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:09 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hot..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth winks before he and Iris enter his room."
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Quick, what colors are my petalsss?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett crawl up the floran's back and sniff the blooming flower?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Zander."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 04:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You smell like... vanilla..."
+                },
+                {
+                    "type": "action",
+                    "text": "The aroma was captivating, with Emmett finally getting his piggyback ride."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:10 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What are you doing?"
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya get up to look at her petal's colors?"
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:11 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Brakia."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 04:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hey, what'd I miss?"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick leaves his cabin and enters the lounge, watching Emmett rest his chin on Sanya's head."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 04:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth seduce Iris and have sex with her?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 04:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ooh, they're blood red. Very pretty..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya was unbothered by Emmett for the time being, more interested in her flowers blooming for the first time this GUY."
+                }
+            ],
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "18-Aug-18 04:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick raises an eyebrow, thinking Emmett and Sanya were doing something more grotesque."
+                },
+                {
+                    "type": "quote",
+                    "text": "... You're gonna do that right here, in the middle of everyone?"
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 04:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett mutters to Garrick, rubbing his face on Sanya due to the pheremones."
+                },
+                {
+                    "type": "quote",
+                    "text": "This flower is the only thing preventing me from feeling like shit..."
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:13 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "After Iris and Seth's \"bonding session\", Seth asks her a question he's never asked anyone in one hundred GUYs, along the lines of \"Do you want to be my girlfriend?\"."
+                },
+                {
+                    "type": "quote",
+                    "text": "I mean, why not?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Iris thinks for a moment, still surprised by what she and Seth just done."
+                },
+                {
+                    "type": "quote",
+                    "text": "No..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth frowns and lies back down."
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 04:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Uh. Alright..."
+                },
+                {
+                    "type": "quote",
+                    "text": "I can't exactly stop you."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick shrugs."
+                },
+                {
+                    "type": "quote",
+                    "text": "Well, I could."
+                }
+            ],
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "18-Aug-18 04:14 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett starts to doze off, the alcohol getting to him."
+                },
+                {
+                    "type": "quote",
+                    "text": "And I mean, Seth likes to violate my shit anyways..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett rests his cheek on Sanya's head, who surprisingly let this happen. Maybe it was the alcohol?"
+                }
+            ],
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "18-Aug-18 04:15 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Iris fall asleep on Seth’s bed?"
+                }
+            ],
+            "player": "Lili",
+            "character": "Iris",
+            "date": "18-Aug-18 04:15 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook good, Jelsafan0."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 04:15 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth fall asleep?"
+                }
+            ],
+            "player": "Sean",
+            "character": "Seth",
+            "date": "18-Aug-18 04:16 PM"
+        },
+        {
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, Bagelwrecker."
+                }
+            ],
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "18-Aug-18 04:16 PM"
+        }
+    ]
+}

@@ -10,13 +10,13 @@ def get_character_from_player(player):
         case "Zander":
             return "Emmett"
         case "Silas":
-            return "Laav"
+            return "KYL300"
         case "Trey":
             return "Garrick"
         case "Sean":
             return "Seth"
         case "Brody":
-            return "Ibraxas"
+            return "Sanya"
         case "Maxwell":
             return "Matthias"
         case "Josh":
@@ -39,6 +39,8 @@ def get_character_from_player(player):
             return "Lodas"
         case "Rashidi":
             return "Danny"
+        case "Lili":
+            return "Iris"
         case _:
             return None
 
@@ -66,6 +68,8 @@ def get_player_from_username(username):
             return "Nick"
         case "Platinum_Pathos":
             return "Rashidi"
+        case "Jelsafan0":
+            return "Lili"
         case _:
             return username
 

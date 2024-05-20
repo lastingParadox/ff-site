@@ -34961,7 +34961,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(19-Aug-18 03:30 PM)_
 
-> You ready to die robo nigger?
+> You ready to die robo bastard?
 
 **RPretribution** _(19-Aug-18 03:30 PM)_
 
@@ -36017,7 +36017,7 @@ In the end, the result was:
 
 **ProfessorTree** _(19-Aug-18 04:03 PM)_
 
-> `STOP PRETENDING TO BE ME, ROBO-NIGGER!`
+> `STOP PRETENDING TO BE ME, ROBO-BASTARD!`
 
 **Bagelwrecker** _(19-Aug-18 04:03 PM)_
 
@@ -39147,7 +39147,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(25-Aug-18 02:00 PM)_
 
-> Fuck off nigger.
+> Fuck off bastard.
 
 **RPretribution** _(25-Aug-18 02:00 PM)_
 
@@ -77509,7 +77509,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(10-Oct-18 03:03 PM)_
 
-> NIGGERRRRRRRRRRRRRRRRRRRRRRR
+> BASTARRRRRRRRRRRRRRRRRRRRRRD!
 
 **PlasmaPerson** _(10-Oct-18 03:03 PM)_
 

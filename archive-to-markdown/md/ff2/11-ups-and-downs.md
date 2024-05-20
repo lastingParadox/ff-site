@@ -1162,6 +1162,10 @@ t!8ball Does the guard arrest the ghost and let Seth go?
 
 **Tatsumaki** _(04-Aug-18 06:06 PM)_
 
+🎱 | Yes, Bagelwrecker.
+
+**Tatsumaki** _(04-Aug-18 06:06 PM)_
+
 🐐 | For the sake of readability, Bagelwrecker and Tom Thompson ask the 8ball back and forth their opposing questions about twelve times until the 8ball finally says no to Bagelwrecker.
 
 **Zander** _(04-Aug-18 06:09 PM)_
