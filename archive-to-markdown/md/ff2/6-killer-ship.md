@@ -3931,7 +3931,7 @@ _Emmett mutters to himself._
 _Ibraxas pauses and thinks._
 
 > `Ibraxas`: ...Ibraxas.`
-`Ibraxas`: I am Ibraxas.
+> `Ibraxas`: I am Ibraxas.
 
 **Bagelwrecker** _(29-Jun-18 07:30 PM)_
 
