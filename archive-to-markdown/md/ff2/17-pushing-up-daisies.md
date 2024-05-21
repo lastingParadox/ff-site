@@ -1717,6 +1717,8 @@
 
 **Bagelwrecker** _(04-Sep-18 03:26 PM)_
 
+_Seth is lying through his teeth._
+
 > I remember another Seth that had a deal with a goddess though, he was the first elf in 10,000 GUYs to get exiled
 
 **PlasmaPerson** _(04-Sep-18 03:26 PM)_
@@ -3703,7 +3705,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(04-Sep-18 04:26 PM)_
 
-> Also, occasionally I have to fuck the goddess of death, which will require me to die.
+> Also, occasionally I have to fuck my wife, the goddess of death, which will require me to die.
 
 **RPretribution** _(04-Sep-18 04:26 PM)_
 
