@@ -267,7 +267,9 @@ def get_episode_number(md_file, provided_episode_number=None):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python md-to-json.py <file_name> <description> [title]")
+        print(
+            "Usage: python md-to-json.py <file_name> <description> [title] [episode_number]"
+        )
         sys.exit(1)
     filename = convert_to_filename(sys.argv[1])
     md_file = find_file(filename)
