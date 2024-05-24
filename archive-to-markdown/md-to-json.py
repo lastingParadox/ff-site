@@ -1,7 +1,7 @@
 import glob
-import re
 import json
-import emoji
+import os
+import re
 import sys
 
 
@@ -74,123 +74,137 @@ def get_player_from_username(username):
             return username
 
 
-def parse_blocks(md_file):
-    blocks = []
-    current_block = {}
-    current_embed = {}
-    with open(md_file, "r", encoding="utf-8") as f:
-        for line in f:
+# Define a regex pattern to match the block header lines
+block_header_pattern = re.compile(r"\*\*(.*?)\*\* _\((.*?)\)")
+
+
+def process_file(filename, title, episode_number, short_desc):
+    with open(filename, "r", encoding="utf-8") as file:
+        blocks = []
+        current_block = []
+
+        for line in file:
             line = line.strip()
-            if not line:  # Skip empty lines
-                continue
-            line = emoji.emojize(emoji.demojize(line))
-            # Title Case
-            if line.startswith("**") and "_(" in line and ")" in line:
-                if current_embed:
-                    current_block["content"].append(current_embed)
+            if block_header_pattern.match(line):
+                # If current_block is not empty, it means we have completed a block
                 if current_block:
                     blocks.append(current_block)
-                current_embed = {}
-                current_block = {
-                    "content": [],
-                }
-                player_date = re.search(r"\*\*(.*?)\*\* _\((.*?)\)", line)
-                username = player_date.group(1)
-                current_block["player"] = get_player_from_username(username)
-                # current_block["player"] = username
-                current_block["character"] = get_character_from_player(
-                    current_block["player"]
-                )
-                current_block["date"] = player_date.group(2)
-            # Embed Case
-            # Line starts with <title>, <description>, or <footer> and ends with </title>, </description>, or </footer>
-            elif line.startswith("<") and line.endswith(">"):
-                if "title" in line:
-                    if current_embed:
-                        current_block["content"].append(current_embed)
-                        current_embed = {}
-                    current_embed = {"type": "embed"}
-                    if "embed" not in current_embed:
-                        current_embed["embed"] = {}
-                    current_embed["embed"]["title"] = line[7:-8]
-                elif "description" in line:
-                    if "embed" not in current_embed:
-                        current_embed["embed"] = {}
-                    if not "description" in current_embed["embed"]:
-                        current_embed["embed"]["description"] = [line[13:-14]]
-                    else:
-                        current_embed["embed"]["description"].append(line[13:-14])
-                elif "footer" in line:
-                    if "embed" not in current_embed:
-                        current_embed["embed"] = {}
-                    current_embed["embed"]["footer"] = line[8:-9]
-            # Bot Case
-            elif current_block["player"] == "FF 8 Ball":
-                dict = {
-                    "type": "bot_response",
-                }
-                dict["text"] = line
-                current_block["content"].append(dict)
-            # Quote Case
-            elif line.startswith(">"):
-                dict = {
-                    "type": "quote",
-                }
-                if "`" and "`:" in line:
-                    character_quote = re.search(r"> `(.+)`: (.+)", line)
-                    current_block["character"] = character_quote.group(1)
-                    dict["text"] = character_quote.group(2)
-                else:
-                    dict["text"] = line[2:]
-
-                current_block["content"].append(dict)
-            # Action Case
-            elif re.search(r"_(.+)_", line):
-                dict = {
-                    "type": "action",
-                }
-                if "`" in line and "`:" in line:
-                    character_action = re.search(r"_`(.+)`: (.+)_", line)
-                    current_block["character"] = character_action.group(1)
-                    dict["text"] = character_action.group(2)
-                else:
-                    dict["text"] = re.search(r"_(.+)_", line).group(1)
-
-                current_block["content"].append(dict)
-            # Command Case
-            elif (
-                current_block["player"] != "FF 8 Ball"
-                and "t!" in line
-                or "@Magic" in line
-            ):
-                dict = {
-                    "type": "command",
-                }
-
-                if line.startswith("`") and "`:" in line:
-                    character_command = re.search(r"`(.+)`: (.+)", line)
-                    current_block["character"] = character_command.group(1)
-                    dict["text"] = character_command.group(2)
-                else:
-                    dict["text"] = line
-
-                current_block["content"].append(dict)
+                    current_block = []
+                # Start a new block with the header line
+                current_block.append(line)
             else:
-                if current_embed:
-                    if "description" not in current_embed["embed"]:
-                        current_embed["embed"]["description"] = [line]
-                    else:
-                        current_embed["embed"]["description"].append(line)
-                else:
-                    dict = {
-                        "type": "other",
-                    }
+                # Add line to the current block
+                if not line:
+                    continue
+                current_block.append(line)
 
-                    dict["text"] = line
-                    current_block["content"].append(dict)
-    if current_block:
-        blocks.append(current_block)
-    return blocks
+        # Don't forget to add the last block if the file doesn't end with a block header
+        if current_block:
+            blocks.append(current_block)
+
+    processed_blocks = []
+
+    # Process each block
+    for block in blocks:
+        processed_blocks.append(process_block(block))
+
+    return {
+        "title": title,
+        "episode_number": episode_number,
+        "short_desc": short_desc,
+        "blocks": processed_blocks,
+    }
+
+
+def process_block(block):
+    # Assuming the first line is the block header
+    processed_block = {}
+    header = block[0]
+    content_lines = block[1:]
+
+    match = block_header_pattern.match(header)
+    if match:
+        username = get_player_from_username(match.group(1))
+        character = get_character_from_player(username)
+        datetime = match.group(2)
+    else:
+        print("Invalid block header format.")
+        return
+
+    processed_block = {
+        "player": username,
+        "character": character,
+        "date": datetime,
+        "content": [],
+    }
+
+    embed_type = None
+    current_embed = None
+    for line in content_lines:
+        if re.search(r"</(.+)>", line):
+            match = re.search(r"</(.+)>", line)
+            temp_embed_type = match.group(1)
+            if temp_embed_type == "embed":
+                processed_block["content"].append(current_embed)
+                embed_type = None
+            continue
+        elif re.search(r"<(.+)>", line):
+            match = re.search(r"<(.+)>", line)
+            embed_type = match.group(1)
+            if embed_type == "embed":
+                current_embed = {
+                    "type": "embed",
+                    "embed": {},
+                }
+            else:
+                current_embed["embed"][embed_type] = []
+            continue
+        processed_line, line_character = process_line(line, username, character)
+
+        if line_character != character:
+            character = line_character
+            processed_block["character"] = character
+        if embed_type:
+            current_embed["embed"][embed_type].append(processed_line["text"])
+        else:
+            processed_block["content"].append(processed_line)
+
+    return processed_block
+
+
+def process_line(line, player, character):
+    # Line categories: bot_response, commmand, quote, action, embed, other
+    # Bot Response Case
+    if player == "FF 8 Ball":
+        return {"type": "bot_response", "text": line}, character
+    # Quote Case
+    elif line.startswith(">"):
+        line = line[2:]
+        if "`" and "`:" in line:
+            match = re.search(r"`(.+)`: (.+)", line)
+            character = match.group(1)
+            line = match.group(2)
+        return {"type": "quote", "text": line}, character
+    # Action Case
+    elif re.search(r"_(.+)_", line):
+        if "`" and "`:" in line:
+            match = re.search(r"_`(.+)`: (.+)_", line)
+            character = match.group(1)
+            line = match.group(2)
+        else:
+            match = re.search(r"_(.+)_", line)
+            line = match.group(1)
+        return {"type": "action", "text": line}, character
+    # Command Case
+    elif "@Magic" in line or "t!" in line:
+        if line.startswith("`") and "`:" in line:
+            match = re.search(r"`(.+)`: (.+)", line)
+            character = match.group(1)
+            line = match.group(2)
+
+        return {"type": "command", "text": line}, character
+    else:
+        return {"type": "other", "text": line}, character
 
 
 def convert_to_json(blocks, json_file):
@@ -223,11 +237,37 @@ def find_file(file_name):
     return None
 
 
+def extract_episode_number_from_filename(filename):
+    match = re.match(r"(\d{2})-.*", filename)
+    if match:
+        return match.group(1)
+    return None
+
+
+def natural_sort_key(s):
+    return [
+        int(text) if text.isdigit() else text.lower() for text in re.split(r"(\d+)", s)
+    ]
+
+
+def get_episode_number(md_file, provided_episode_number=None):
+
+    if provided_episode_number:
+        return provided_episode_number
+
+    base_name = os.path.basename(md_file)
+    episode_number = extract_episode_number_from_filename(base_name)
+    if episode_number:
+        return episode_number
+
+    all_files = sorted(glob.glob("./md/ff2/*.md"), key=natural_sort_key)
+
+    return all_files.index(md_file) + 1
+
+
 if __name__ == "__main__":
-    if len(sys.argv) < 4:
-        print(
-            "Usage: python md-to-json.py <file_name> <episode_number> <description> [title]"
-        )
+    if len(sys.argv) < 3:
+        print("Usage: python md-to-json.py <file_name> <description> [title]")
         sys.exit(1)
     filename = convert_to_filename(sys.argv[1])
     md_file = find_file(filename)
@@ -236,20 +276,22 @@ if __name__ == "__main__":
         print(f"Error: File {filename}.md or *-{filename}.md not found.")
         sys.exit(1)
 
-    json_file = (
-        "../src/assets/json/archives/ff2/" + sys.argv[2] + "-" + filename + ".json"
-    )
-    blocks = parse_blocks(md_file)
-
-    if len(sys.argv) > 4:
-        title = sys.argv[4]
+    if len(sys.argv) > 3:
+        title = sys.argv[3]
     else:
         title = sys.argv[1]
 
-    episode_dict = {
-        "title": title,
-        "episode_number": int(sys.argv[2]),
-        "short_desc": sys.argv[3],
-        "blocks": blocks,
-    }
-    convert_to_json(episode_dict, json_file)
+    if len(sys.argv) > 4:
+        episode_number = sys.argv[4]
+    else:
+        episode_number = get_episode_number(md_file)
+
+    short_desc = sys.argv[2]
+
+    json_file = (
+        "../src/assets/json/archives/ff2/" + episode_number + "-" + filename + ".json"
+    )
+
+    processed_file = process_file(md_file, title, episode_number, short_desc)
+
+    convert_to_json(processed_file, json_file)

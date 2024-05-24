@@ -64,7 +64,9 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     useEffect(() => {
         const fetchAvatar = async () => {
             try {
-                const response = await import(`../../assets/images/avatars/${chosenCharacter.toLowerCase().replaceAll(/\s/g, "")}.png`);
+                const response = await import(
+                    `../../assets/images/avatars/${chosenCharacter.toLowerCase().replaceAll(/\s/g, '')}.png`
+                );
                 setAvatar(response.default);
             } catch {
                 setAvatar('');
@@ -80,7 +82,13 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
         (content: GeneralContent | EmbedContent, index: number) => {
             // TODO: Add support for embeds
             if (content.type === 'embed') {
-                return <Other key={index} text={content.embed.description.join('\n')} />;
+                return (
+                    <div style={{ backgroundColor: 'rgba(0,0,0,.2)', padding: '8px' }}>
+                        {content.embed.description.map((text, i) => (
+                            <Other key={index + i} text={text} />
+                        ))}
+                    </div>
+                );
             }
 
             switch (content.type) {
@@ -143,7 +151,11 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                             I would like to store the string here as a state or global variable, but can't seem to justify it...
                             It's only used twice, after all
                         */}
-                        <PixelArtWithOutline characterImg={chosenCharacter.toLowerCase().replaceAll(/\s/g, "")} color={characterColor} zoom={4} />
+                        <PixelArtWithOutline
+                            characterImg={chosenCharacter.toLowerCase().replaceAll(/\s/g, '')}
+                            color={characterColor}
+                            zoom={4}
+                        />
                     </div>
                 )}
                 <Card
@@ -167,7 +179,9 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                                 fontWeight: 200,
                                 fontStyle: 'italic',
                             }}
-                        >{block.date}</Typography>
+                        >
+                            {block.date}
+                        </Typography>
                     </div>
                     <div
                         style={{

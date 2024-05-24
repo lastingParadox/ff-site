@@ -4649,6 +4649,8 @@ _Emmett giggles at the thought._
 
 **RPretribution** _(19-Aug-18 04:55 PM)_
 
+_Garrick digs in his pocket and takes out pepper spray. He aims his spray at a victim._
+
 t!choose Sanya | Kyle | Jim
 
 **Tatsumaki** _(19-Aug-18 04:55 PM)_
@@ -4663,6 +4665,8 @@ _Seth doesn't get that Emmett was joking._
 > But I use the fridge a lot.
 
 **RPretribution** _(19-Aug-18 04:56 PM)_
+
+_Garrick pepper sprays Jim._
 
 > So I'm with Iris and Jim.
 
@@ -4803,7 +4807,7 @@ _Iris recognizes that Seth was speaking in Elvish._
 
 **Zander** _(19-Aug-18 05:04 PM)_
 
-_Emmett takes out a finger._
+_Emmett takes out a digit._
 
 > I can speak one.
 
@@ -4895,7 +4899,7 @@ _Seth somehow understands Emmett._
 
 **Bagelwrecker** _(19-Aug-18 05:09 PM)_
 
-> Nahgas wagas wanaa snu snu Rris!
+> Nahgas wagas wanaa snu snu Iris!
 
 _Seth airhumps in Iris's direction._
 
@@ -5011,7 +5015,7 @@ _Seth attempts to take off his translator but manages to pinch his neck, causing
 
 **Jelsafan0** _(19-Aug-18 05:15 PM)_
 
-_Iris continue to speak in Elvish._
+_Iris continues to speak in Elvish._
 
 > Alright, in Elvish this time. I said yes, get your translator.
 
