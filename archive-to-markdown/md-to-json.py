@@ -5,44 +5,57 @@ import re
 import sys
 
 
-def get_character_from_player(player):
+def get_character_from_player(player, episode_number):
+
     match player:
         case "Zander":
-            return "Emmett"
+            name_obj = {"1": "Emmett"}
         case "Silas":
-            return "KYL300"
+            name_obj = {"1": "Laav", "13": "KYL300"}
         case "Trey":
-            return "Garrick"
+            name_obj = {"1": "Garrick"}
         case "Sean":
-            return "Seth"
+            name_obj = {"1": "Seth"}
         case "Brody":
-            return "Sanya"
+            name_obj = {"1": "Serpile", "5": "Bail", "6": "Ibraxas", "11": "Sanya"}
         case "Maxwell":
-            return "Matthias"
+            name_obj = {"1": "Matthias", "15": "Matieu"}
         case "Josh":
-            return "Jacob"
+            name_obj = {"1": "Jacob"}
         case "Jonas":
-            return "Asier"
+            name_obj = {"1": "Asier", "13": "Chomsky"}
         case "TheBlade":
-            return "Jim"
+            name_obj = {"1": "Jim"}
         case "Arky":
-            return "Lucian"
+            name_obj = {"1": "Lucian"}
         case "Mica":
-            return "Maia"
+            name_obj = {"1": "Maia"}
         case "Tom Thompson":
-            return "Mickey Mouse's Ghost"
+            name_obj = {"1": "Mickey Mouse's Ghost"}
         case "Finna Steel Christmas":
-            return "Steely"
-        case "Mica":
-            return "Maia"
+            name_obj = {"1": "Steely"}
         case "Nick":
-            return "Lodas"
+            name_obj = {"1": "Lodas"}
         case "Rashidi":
-            return "Danny"
+            name_obj = {"1": "Danny"}
         case "Lili":
-            return "Iris"
+            name_obj = {"1": "Iris"}
+        case "Bill":
+            name_obj = {"1": "Hector"}
         case _:
-            return None
+            name_obj = {"1": None}
+
+    episode_numbers = [int(ep) for ep in name_obj.keys()]
+    episode_numbers.sort()
+    for ep, index in enumerate(episode_numbers):
+        if ep == int(episode_number):
+            return name_obj[str(ep)]
+        if ep > int(episode_number):
+            if index - 1 < 0:
+                return name_obj[index]
+            else:
+                return name_obj[index - 1]
+    return name_obj[str(episode_numbers[-1])]
 
 
 def get_player_from_username(username):
@@ -70,6 +83,8 @@ def get_player_from_username(username):
             return "Rashidi"
         case "Jelsafan0":
             return "Lili"
+        case "WatchfulDrake":
+            return "Bill"
         case _:
             return username
 
@@ -106,7 +121,7 @@ def process_file(filename, title, episode_number, short_desc):
 
     # Process each block
     for block in blocks:
-        processed_blocks.append(process_block(block))
+        processed_blocks.append(process_block(block, episode_number))
 
     return {
         "title": title,
@@ -116,7 +131,7 @@ def process_file(filename, title, episode_number, short_desc):
     }
 
 
-def process_block(block):
+def process_block(block, episode_number):
     # Assuming the first line is the block header
     processed_block = {}
     header = block[0]
@@ -125,7 +140,7 @@ def process_block(block):
     match = block_header_pattern.match(header)
     if match:
         username = get_player_from_username(match.group(1))
-        character = get_character_from_player(username)
+        character = get_character_from_player(username, episode_number)
         datetime = match.group(2)
     else:
         print("Invalid block header format.")

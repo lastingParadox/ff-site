@@ -3725,7 +3725,7 @@ _Jim bangs on the safe door, trying to pull it off._
 
 **Brakia** _(29-Jun-18 07:20 PM)_
 
-@Magic8ball Does Ibraxas enter the compound after reforming?
+`Ibraxas`: @Magic8ball Does Ibraxas enter the compound after reforming?
 
 **Magic8Ball** _(29-Jun-18 07:20 PM)_
 
@@ -3931,7 +3931,7 @@ _Emmett mutters to himself._
 _Ibraxas pauses and thinks._
 
 > `Ibraxas`: ...Ibraxas.`
-> `Ibraxas`: I am Ibraxas.
+`Ibraxas`: I am Ibraxas.
 
 **Bagelwrecker** _(29-Jun-18 07:30 PM)_
 

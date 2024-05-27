@@ -2647,11 +2647,11 @@ _The unit kicks Sanya away angrily._
 
 🎱 | Rolling a d20... Rolled a 15, PlasmaPerson.
 
-**ProfessorTree** _(19-Aug-18 03:47 PM)_
+**PlasmaPerson** _(19-Aug-18 03:47 PM)_
 
-_Chomsky continues grilling Iris alive, shooting his flames until he needs to reload._
+_`Chomsky`: Chomsky continues grilling Iris alive, shooting his flames until he needs to reload._
 
-> I'll incinerate you next time you come near me!
+> `Chomsky`: I'll incinerate you next time you come near me!
 
 **Jelsafan0** _(19-Aug-18 03:47 PM)_
 
@@ -3491,7 +3491,7 @@ _Seth unzips his pants in front of Iris, being right next to the outhouse._
 
 > Amazing boobs by the way.
 
-_Seth smirks wildly, with KYL300 copies._
+_Seth smirks wildly, while KYL300 copies._
 
 **RPretribution** _(19-Aug-18 04:16 PM)_
 
