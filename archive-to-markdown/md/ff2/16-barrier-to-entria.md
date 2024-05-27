@@ -4,14 +4,6 @@ t!8ball Is Emmett asleep in the lounge while half-naked?
 
 **Tatsumaki** _(03-Sep-18 02:14 PM)_
 
-🎱 | Cannot predict now, Zander.
-
-**Zander** _(03-Sep-18 02:14 PM)_
-
-t!8ball Is Emmett asleep in the lounge while half-naked?
-
-**Tatsumaki** _(03-Sep-18 02:14 PM)_
-
 🎱 | My reply is no, Zander.
 
 **WatchfulDrake** _(03-Sep-18 02:15 PM)_

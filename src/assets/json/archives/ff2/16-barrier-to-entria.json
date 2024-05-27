@@ -21,28 +21,6 @@
             "content": [
                 {
                     "type": "bot_response",
-                    "text": "🎱 | Cannot predict now, Zander."
-                }
-            ]
-        },
-        {
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "03-Sep-18 02:14 PM",
-            "content": [
-                {
-                    "type": "command",
-                    "text": "t!8ball Is Emmett asleep in the lounge while half-naked?"
-                }
-            ]
-        },
-        {
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "03-Sep-18 02:14 PM",
-            "content": [
-                {
-                    "type": "bot_response",
                     "text": "🎱 | My reply is no, Zander."
                 }
             ]
