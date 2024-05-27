@@ -17,7 +17,7 @@ def get_character_from_player(player, episode_number):
         case "Sean":
             name_obj = {"1": "Seth"}
         case "Brody":
-            name_obj = {"1": "Serpile", "5": "Bail", "6": "Ibraxas", "11": "Sanya"}
+            name_obj = {"1": "Serpile", "5": "Bail", "7": "Ibraxas", "11": "Sanya"}
         case "Maxwell":
             name_obj = {"1": "Matthias", "15": "Matieu"}
         case "Josh":
@@ -47,14 +47,15 @@ def get_character_from_player(player, episode_number):
 
     episode_numbers = [int(ep) for ep in name_obj.keys()]
     episode_numbers.sort()
-    for ep, index in enumerate(episode_numbers):
+
+    for index, ep in enumerate(episode_numbers):
         if ep == int(episode_number):
             return name_obj[str(ep)]
         if ep > int(episode_number):
             if index - 1 < 0:
-                return name_obj[index]
+                return name_obj[str(episode_numbers[index])]
             else:
-                return name_obj[index - 1]
+                return name_obj[str(episode_numbers[index - 1])]
     return name_obj[str(episode_numbers[-1])]
 
 
@@ -175,6 +176,9 @@ def process_block(block, episode_number):
                 current_embed["embed"][embed_type] = []
             continue
         processed_line, line_character = process_line(line, username, character)
+
+        if username == "Brody":
+            print(character, line_character)
 
         if line_character != character:
             character = line_character
@@ -306,7 +310,11 @@ if __name__ == "__main__":
     short_desc = sys.argv[2]
 
     json_file = (
-        "../src/assets/json/archives/ff2/" + episode_number + "-" + filename + ".json"
+        "../src/assets/json/archives/ff2/"
+        + str(episode_number)
+        + "-"
+        + filename
+        + ".json"
     )
 
     processed_file = process_file(md_file, title, episode_number, short_desc)

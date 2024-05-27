@@ -3795,7 +3795,7 @@ _Seth turns back._
 
 **Brakia** _(29-Jun-18 07:25 PM)_
 
-@Magic8ball Does Ibraxas deal with the guards?
+`Ibraxas`: @Magic8ball Does Ibraxas deal with the guards?
 
 **Magic8Ball** _(29-Jun-18 07:25 PM)_
 
@@ -3916,7 +3916,7 @@ _Emmett mutters to himself._
 
 **Brakia** _(29-Jun-18 07:30 PM)_
 
-@Magic8ball Does Ibraxas think of his name yet?
+`Ibraxas`: @Magic8ball Does Ibraxas think of his name yet?
 
 **Magic8Ball** _(29-Jun-18 07:30 PM)_
 
@@ -3928,7 +3928,7 @@ _Emmett mutters to himself._
 
 **Brakia** _(29-Jun-18 07:30 PM)_
 
-_Ibraxas pauses and thinks._
+_`Ibraxas`: Ibraxas pauses and thinks._
 
 > `Ibraxas`: ...Ibraxas.`
 `Ibraxas`: I am Ibraxas.
@@ -3948,7 +3948,7 @@ _Jim pokes Ibraxas, trying to figure him out._
 
 **Brakia** _(29-Jun-18 07:31 PM)_
 
-_Ibraxas slaps away Jim._
+_`Ibraxas`: Ibraxas slaps away Jim._
 
 > `Ibraxas`: Stop that.
 
@@ -4004,7 +4004,7 @@ _Seth grabs the keys and Ducketts from Mora and heads over to the new ship._
 
 **Magic8Ball** _(29-Jun-18 07:35 PM)_
 
-🎱 | Zabder says yegayegayegayega, yes, Brakia.
+🎱 | Zander says yegayegayegayega, yes, Brakia.
 
 **TheBlade** _(29-Jun-18 07:35 PM)_
 
@@ -4168,9 +4168,9 @@ _Jim puts up his hand for arm wrestling, propping his elbow on a counter._
 
 **Brakia** _(29-Jun-18 07:42 PM)_
 
-> Sure.
+> `Ibraxas`: Sure.
 
-_Ibraxas imitates Jim, grabbing his hand._
+_`Ibraxas`: Ibraxas imitates Jim, grabbing his hand._
 
 **Zander** _(29-Jun-18 07:42 PM)_
 
@@ -4190,7 +4190,7 @@ t!roll d20
 
 **Brakia** _(29-Jun-18 07:42 PM)_
 
-t!roll d20
+`Ibraxas`: t!roll d20
 
 **Tatsumaki** _(29-Jun-18 07:42 PM)_
 
@@ -4254,7 +4254,7 @@ _Emmett heads over to the cabin Ibraxas is in._
 
 **Brakia** _(29-Jun-18 07:45 PM)_
 
-> Yeah?
+> `Ibraxas`: Yeah?
 
 **Zander** _(29-Jun-18 07:46 PM)_
 
@@ -4307,7 +4307,7 @@ _Emmett looks into the room curiously._
 
 **Brakia** _(29-Jun-18 07:48 PM)_
 
-> Yeah, I guess. It's a nice room.
+> `Ibraxas`: Yeah, I guess. It's a nice room.
 
 **TheBlade** _(29-Jun-18 07:48 PM)_
 
@@ -4437,9 +4437,9 @@ _Emmett speaks loudly to make it seemm like he was in a room._
 
 **Brakia** _(29-Jun-18 07:55 PM)_
 
-_Ibraxas rolls his eyes._
+_`Ibraxas`: Ibraxas rolls his eyes._
 
-> I know that's you on the comms, Emmett.
+> `Ibraxas`: I know that's you on the comms, Emmett.
 
 **TheBlade** _(29-Jun-18 07:55 PM)_
 
