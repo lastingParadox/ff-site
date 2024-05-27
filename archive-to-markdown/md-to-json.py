@@ -177,9 +177,6 @@ def process_block(block, episode_number):
             continue
         processed_line, line_character = process_line(line, username, character)
 
-        if username == "Brody":
-            print(character, line_character)
-
         if line_character != character:
             character = line_character
             processed_block["character"] = character
