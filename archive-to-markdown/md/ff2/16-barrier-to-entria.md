@@ -2664,7 +2664,7 @@ _Emmett drags his injured leg across the wooden floor as he makes it to the hood
 
 **Bagelwrecker** _(03-Sep-18 03:56 PM)_
 
-> `Seth's Mother` Oh, I do hope he doesn't try eating Morvalus Hallucinatus.
+> `Seth's Mother`: Oh, I do hope he doesn't try eating Morvalus Hallucinatus.
 
 _`Seth's Mother`: Seth's mother takes another sip of tea._
 
