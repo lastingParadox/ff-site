@@ -4,25 +4,23 @@
 
 **Tatsumaki** _(04-Sep-18 02:17 PM)_
 
-> 🎱 | As I see it, yes,
-> Zander
-> .
+> 🎱 | As I see it, yes, Zander.
 
 **PlasmaPerson** _(04-Sep-18 02:19 PM)_
 
-> t!8ball does Chomsky see the fire and go to investigate
+> t!8ball does Chomsky see the fire and go to investigate?
 
 **Tatsumaki** _(04-Sep-18 02:19 PM)_
 
-> 🎱 | Very doubtful,
-> PlasmaPerson
-> .
+> 🎱 | Very doubtful, PlasmaPerson.
 
 **PlasmaPerson** _(04-Sep-18 02:20 PM)_
 
-> ugh
+> Ugh...
 > What happened?
-> ah, yes. The quicksand.
+> Ah, yes. The quicksand.
+
+_Chomsky
 
 **ProfessorTree** _(04-Sep-18 02:20 PM)_
 
