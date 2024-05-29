@@ -1,0 +1,4448 @@
+{
+    "title": "Worm in the Hole",
+    "episode_number": "15",
+    "short_desc": "After experiencing wormhole shenanigns, the Polonot crashes onto Seth's home planet.",
+    "blocks": [
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:10 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball does Sanya wake up?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:10 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook not so good, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:11 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth go and take a shower?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:11 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Silas",
+            "character": "KYL300",
+            "date": "26-Aug-18 03:12 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Kyle reboot?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:12 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, ProfessorTree."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:13 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is Emmett occupying the restroom as Seth gets to it?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:13 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook not so good, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:14 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya have night terrors in her sleep?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:14 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, definitely, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:15 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth have sex with one of the women that doesn't have a STD and isn't a robot while in the shower?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:15 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:15 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "While in the shower, Seth has a steamy interaction with one of the women in his harem with an STD."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:16 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is Garrick awake?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:16 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, definitely, RPretribution."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:17 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya kicks in her sleep, speaking through a nightmare."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hunt..."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:17 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett overhears Sanya, in the hall, having just woken up a bit prior."
+                },
+                {
+                    "type": "quote",
+                    "text": "Huh?"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:17 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Mmmgh..."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:18 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett ignore the troubled Floran and set off for the cockpit?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:18 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Concentrate and ask again, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:18 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya wake up with a start?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:18 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook not so good, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:19 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett knocks on the door to Sanya's cabin."
+                },
+                {
+                    "type": "quote",
+                    "text": "Sanya, wake up."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:19 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hessscoming..."
+                },
+                {
+                    "type": "quote",
+                    "text": "Mmm..."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:19 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "mmm"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:19 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth go back into the cockpit after he finishes the shower?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:19 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Cannot predict now, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:20 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Garrick go find everyone else"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:20 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | You may rely on it, RPretribution."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:21 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett sits in the lounge, smoking a joint of grass."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oh hey, Garrick."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:21 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Heya. Where’s Seth?"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:21 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is Seth in the cockpit?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:21 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:22 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya awaken?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:22 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:22 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya opens her eyes, having been woken up by Emmett's knock. She's perspirating, little droplets of condensation about her celluose body."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hmm?!"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya leaves her cabin and joins the others."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oh, hello guysss."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:23 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hey."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:23 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Emmett, we need to go to the dealer again."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:24 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "No..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett puffs out in satisfaction."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:24 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You want me to start smoking in the cockpit again?"
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "26-Aug-18 03:24 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Did Matthias sneak out during the night in order to spread knowledge as Avos' Buddha?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:24 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, definitely, Enchantingtable2013."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:24 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Neither of those are nice..."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:25 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Space weed is helpful."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:25 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "But disgusting to eat."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett takes another smoke."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:25 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Then give me some of your grass."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:26 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I once choked on some of it and like, saw an epilepsy with my eyes..."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:26 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You two sure love space drugs."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick shrugs."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hey, I won’t judge."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:26 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth peers at Garrick from the cockpit."
+                },
+                {
+                    "type": "quote",
+                    "text": "Grass isn't a drug."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:26 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett glares at Garrick, expelling smoke in his face."
+                },
+                {
+                    "type": "quote",
+                    "text": "You want me to die, shithead?"
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:26 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick speaks in Spectral, saying something along the lines of, \"Just sayin'\"."
+                },
+                {
+                    "type": "quote",
+                    "text": "¯\\_(ツ)\\_/¯"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:26 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "It's a life preserver."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:27 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yeah, for me."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett sits back in his seat, trying to enjoy himself."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:28 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth pilot the ship through a wormhole without protection?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:28 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | You may rely on it, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:29 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ahhhh yeah!"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:29 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Upon feeling the ship experience a ton of turbulence, Emmett enters the cockpit, noticing that Seth was piloting through a wormhole."
+                },
+                {
+                    "type": "quote",
+                    "text": "Did you seriously forget the protection?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:29 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Protection messes up the steering!"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett pinches his brow as it was basic pilot's knowledge to NOT fly through a wormhole without the proper shielding applied to the ship."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:31 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Are Emmett's hands crab claws now?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:32 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, definitely, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:32 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "A mix of hallucinations and reality-distortion from the wormhole have already taken effect upon the crew, with Emmett's arms seemingly becoming crab claws. With his joint still in his mouth, he inspects his new claws, snapping them."
+                },
+                {
+                    "type": "quote",
+                    "text": "Ugh. What are these things?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:32 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth laughs maniacally at Emmett's arms."
+                },
+                {
+                    "type": "quote",
+                    "text": "Yum, crab!"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:32 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya turn into a potted plant?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:32 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:33 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett sighs and looks back at the lounge. He notices that Sanya has seven pairs of eyes now."
+                },
+                {
+                    "type": "quote",
+                    "text": "Sanya, you have like, fourteen eyes!"
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:33 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick looks over at Sanya and rubs his eyes in disbelief."
+                },
+                {
+                    "type": "quote",
+                    "text": "What?"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:33 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya did not feel any different."
+                },
+                {
+                    "type": "quote",
+                    "text": "What?"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:33 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Close one eye..."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:33 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick looks down, freaking out over his lack of legs."
+                },
+                {
+                    "type": "quote",
+                    "text": "Where are my legs?!"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:34 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya closes an eye, startled from her newfound discovery."
+                },
+                {
+                    "type": "quote",
+                    "text": "You don't have legs."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:34 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ohhhh... right..."
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick looks down again, perceiving that he has some bird legs."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "26-Aug-18 03:37 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the wormhole bear infinite amounts of cheese?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:37 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, Enchantingtable2013."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:37 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "These things are so clunky."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett continues to snap, lowering his arms a bit from the weight of his crab claws."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:37 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the wormhole bear infinite amounts of women?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:37 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:37 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett points a claw at Sanya and snaps at her uncontrollably."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:38 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Don't sssnap at me!"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:38 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I can't control this!"
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:39 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Garrick look like a duck?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:39 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, RPretribution."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:39 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth looks around the cockpit's windows at the... corpses of many women, most of them appearing to be his previous airlock victims."
+                },
+                {
+                    "type": "quote",
+                    "text": "That's a lot of dead women."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:39 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett looks over to Seth, the elf having a pair of D cups."
+                },
+                {
+                    "type": "quote",
+                    "text": "Seth, I think the wormhole made you busty..."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:40 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh cool, I can give myself a boob job now..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth smirks, unzipping his pants."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:40 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett run over to the console, turning on the protection?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:40 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My sources say no, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:41 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Please let this end..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett turns his back to the cockpit in an attempt to deviate from whatever Seth was planning on doing."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:41 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "WHAT AM I???"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick looks at himself and flaps his wings in fear."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:41 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya run to the console?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:41 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "26-Aug-18 03:41 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is the wormhole full of an infinite amount of grass?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:41 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Most likely, Enchantingtable2013."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:43 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett looks out the window at the grass and corpses. He shudders, wanting this wormhole to be over."
+                },
+                {
+                    "type": "quote",
+                    "text": "This is pain..."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:43 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Hector appear inside the ship's bathroom?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:43 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Most likely, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:43 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "All that grass, wasted..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett sighs sadly."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 03:44 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "A hiss emits from the restroom, Hector having just appeared upon the ship due to wormhole shenanigns."
+                },
+                {
+                    "type": "quote",
+                    "text": "Why am I here?!"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:44 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya gets up, blinking three sets of her eyes interchangeably. She makes her way over to the restroom, blinking at Hector."
+                },
+                {
+                    "type": "quote",
+                    "text": "Guysss? We have a new passsenger!"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:44 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "OH SHIT, NEW CREW MEMBER!"
+                },
+                {
+                    "type": "action",
+                    "text": "Seth zips up his pants and runs to the restroom while carrying his breasts."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:44 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "And he'sss in our toilet..."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:45 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth face reddens in immediate anger."
+                },
+                {
+                    "type": "quote",
+                    "text": "GET OUT OF THE TOILET!"
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:45 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I’m never being a duck again!"
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does garrick waddle over to the pilot's console and frantically press things?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:45 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, RPretribution."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:45 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett watches the cute Garrick duck waddle on by to the cockpit."
+                },
+                {
+                    "type": "quote",
+                    "text": "What is a duck?"
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:45 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Garrick jumps angrily."
+                },
+                {
+                    "type": "quote",
+                    "text": "Me!"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick pushes random buttons on the console, having to step on the buttons with his feet due to how short he is."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:45 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya speaks into her comms, her eyes now blinking in a sequence."
+                },
+                {
+                    "type": "quote",
+                    "text": "Can I eat ducksss?"
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:46 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yeah, but not me!"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick continues to frantically step on buttons."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:46 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is the protection applied on the ship finally, changing everyone back aside from Hector?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:46 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:46 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "WHY ISN'T THIS STUPID THING WORKING?!"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick is now jumping on the console in frustration."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:47 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett's claws are now snapping wildly at the other crewmembers."
+                },
+                {
+                    "type": "quote",
+                    "text": "These claws have a mind on their own?"
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 03:48 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball does Hector get out of the toilet?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:48 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:48 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu appear in the bathroom as well?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:48 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:49 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu's asshole become his mouth and his mouth his asshole?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:49 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:49 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Can someone stop this crazy thing?!"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:50 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Sssomeone get thisss guy out of the toilet..."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:50 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Garrick continue pressing things?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:50 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | You may rely on it, RPretribution."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 03:51 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is the protection finally applied?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:51 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My sources say no, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:51 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "WHEN WILL IT END?"
+                },
+                {
+                    "type": "quote",
+                    "text": "This tiny duck body is very limiting, I can barely fly!"
+                },
+                {
+                    "type": "action",
+                    "text": "Garrick opens his beak, almost mechanically, and screams."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 03:52 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "... We need to try and fix whatever this is."
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Hector climb out of the toilet and head to the console?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:52 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook good, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:52 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu appear in Seth's stash of women?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:52 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 03:54 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu looks around in confusion, Seth's harem sleeping about him."
+                },
+                {
+                    "type": "quote",
+                    "text": "Where am I..."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 03:54 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is Seth's stash inside Iris's anus?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:54 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Trey",
+            "character": "Garrick",
+            "date": "26-Aug-18 03:54 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the wormhole shielding finally get applied on the Polonot?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:54 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, RPretribution."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 03:57 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Finally! It works!"
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Is Hector alarmed by the crew and pull out a syringe?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 03:58 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 03:58 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector pulls out a syringe, watching as the crewmembers slowly form back into their old selves."
+                },
+                {
+                    "type": "quote",
+                    "text": "Okay now, stay back!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Who are you?!"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 03:59 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Your new crewmatesss. You are on our ssship..."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:00 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "How did I get here? Where is Matieu?"
+                },
+                {
+                    "type": "action",
+                    "text": "Hector looks about the ship, still on edge."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:00 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I don't know where I am, Hector..."
+                },
+                {
+                    "type": "action",
+                    "text": "Despite being in... Iris, Matieu speaks loud enough for the others to hear noise from Iris's cabin."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:01 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya open Seth's trapdoor under his bed that leads to Seth's stash?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:01 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:02 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth do the funny?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:02 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook good, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:02 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth grabs a tool, a mix of a vibrator and a toilet brush, having an inkling of a suspicion that Matieu was inside of Iris. He breaks into her cabin and readies the tool. This is a disgusting picture, but this is an archive, anyhow."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:06 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Iris' butthole grind up the women, causing her to consume their nutrients?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:06 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook good, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:06 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth sighs, having realized he just killed his harem."
+                },
+                {
+                    "type": "quote",
+                    "text": "There goes all my women..."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:07 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu crawl out of Iris' ass?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:07 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Better not tell you now, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:07 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu crawl out of Iris' ass?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:07 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:09 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Matieu!"
+                },
+                {
+                    "type": "action",
+                    "text": "Hector hugs Matieu with all four arms excitedly, despite the crevice he had just crawled out from."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:09 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu contract space aids?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:09 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My sources say no, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:10 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Hector, despite all of this madness, go to the cockpit and start stirring the ship in a random direction?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:10 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, definitely, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:10 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector leaves the scene and controls the ship without a care, trying to find his own ship in the wormhole."
+                },
+                {
+                    "type": "quote",
+                    "text": "Come on, where did my ship go?!"
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:11 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu wipes his face in utter disgust."
+                },
+                {
+                    "type": "quote",
+                    "text": "And who the hell are these people?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:11 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth, as if on cue, enters the cockpit behind Hector."
+                },
+                {
+                    "type": "quote",
+                    "text": "Whoops, was that me who shot it down?"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:11 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Are you serious?!"
+                },
+                {
+                    "type": "action",
+                    "text": "The Polonot exits the wormhole, it hurling towards a planet due to Hector's random piloting."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:11 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "It just so happens that Matthias was transported to Hector's ship, having swapped places with Hector! And of course, the lovable scamp Seth decided to shoot down the ship amidst the chaos."
+                },
+                {
+                    "type": "quote",
+                    "text": "R.I.P. Matthias, may you burn in hell."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:12 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Hector check Matieu or wounds or diseases?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:12 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:13 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett notices the ship barrelling towards a celestial body of sorts."
+                },
+                {
+                    "type": "quote",
+                    "text": "I need to pilot this hunk of junk!"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett races to the cockpit, his arms now completely back to normal."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:13 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the ship crash on a plant planet?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:13 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:14 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Is plant planet Seth's home planet?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:14 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:15 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the crew take damage from the crash?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:15 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook good, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:15 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!roll d30"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:15 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d30... Rolled a 6, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:15 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Despite the heavy crash, Seth only suffers only some bruises and scrapes."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!roll d30"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d30... Rolled a 25, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "The crash causes Emmett to have glass shards cut into his body, none fatal. He also has two sprained legs. He pulls a small shard out of his shoulder naively."
+                },
+                {
+                    "type": "quote",
+                    "text": "Should've worn my seatbelt..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett coughs."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!roll d30"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d30... Rolled a 25, Enchantingtable2013."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu suffers deep lacerations across his arms and beak from the crash. He holds onto Hector pleadingly."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!roll d30"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d30... Rolled a 14, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector manages to suffer a couple cuts and burns across his body from the crash. He immediately takes out his medical supplies, looking about the ship for a medbay."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!roll d30"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d30... Rolled a 11, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:16 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya is cut up from the crash her cheek sliced into and her arms suffering minor sprains."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:17 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Wow..."
+                },
+                {
+                    "type": "action",
+                    "text": "Matieu winces from speaking."
+                },
+                {
+                    "type": "quote",
+                    "text": "And there's a really big fuckin' hole..."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:17 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ouch, that hurt. Is everyone still alive?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:17 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth brushes of his body and stands almost impeccably, his teeth still shining."
+                },
+                {
+                    "type": "quote",
+                    "text": "Oh, hey look, there are elves!"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:18 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Is this that O'nasel planet you've been talking about...?"
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett attempts to stand, his legs causing him agonizing pain. He leans on a wall, holding his right leg."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:18 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does hector go around treating everyone's wounds restoring their health?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:18 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:19 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "That's O'nasera..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth looks around the forest they landed in, trying to determine whether this was his home planet, Lama'entria."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:19 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!roll d30"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:19 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d30... Rolled a 25, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:19 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector does his best to help the other crewmembers, using an array of syringes, medication, and tools to fix them up. He fits Emmett up with some splints, bandages up Matieu's beaks and arms, and overall gets the crew in a stable state."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:19 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya feels her patched-up cheek."
+                },
+                {
+                    "type": "quote",
+                    "text": "Thanksss..."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:19 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "As Hector is helping Emmett stand with his splints, Emmett looks over to him."
+                },
+                {
+                    "type": "quote",
+                    "text": "You're a doctor?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:20 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Now if you excuse me, I got things to do, thank you for the healing."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth smiles deviously and leaves the ship wreckage."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:20 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You could say..."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:21 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu sighs in relief, his arms back to a semi-normal state, albeit needing to be stretched out akin to Emmett's splints for the medication to do its work."
+                },
+                {
+                    "type": "quote",
+                    "text": "Thanks Hector."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:22 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Licensed?"
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:22 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yes?"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:22 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Nice..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett wobbles a bit, having to get used to his tense legs."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:23 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm his right hand."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:23 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett gives the short avian a soft smile."
+                },
+                {
+                    "type": "quote",
+                    "text": "Right hand? So you're a nurse then."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:24 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You could say."
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu show off his INTENSE NURSESHIP by cutting open Emmett's artery and sealing it back together in a couple of seconds?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:25 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, Enchantingtable2013."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:25 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth don his Starfleet captain uniform and exit the ship?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:25 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:26 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett feels his neck in pain after Matieu's stunt, immediately souring his opinion of the unprofessional nurse."
+                },
+                {
+                    "type": "quote",
+                    "text": "I would have fucked you up so hard if that wasn't an artery."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:26 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu is taken aback by Emmett's brashness, but reverts to a friendly state."
+                },
+                {
+                    "type": "quote",
+                    "text": "See? It hurts, but I won't let you die."
+                },
+                {
+                    "type": "quote",
+                    "text": "Now rate my practice on a 1 to 10, be honest!"
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:27 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector looks in horror at Matieu."
+                },
+                {
+                    "type": "quote",
+                    "text": "Dear god Matieu, at least let me knock them out first!"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:27 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett furrows his brow and shakes moreso than before due to his body needlessly losing more blood."
+                },
+                {
+                    "type": "quote",
+                    "text": "A 1, as you nearly killed me for no reason."
+                },
+                {
+                    "type": "quote",
+                    "text": "Sheesh..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett backs up from Matieu, understandably pissed at him."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:28 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu scowls from the low rating."
+                },
+                {
+                    "type": "quote",
+                    "text": "Once more, I wouldn't let you die!"
+                },
+                {
+                    "type": "quote",
+                    "text": "Nor would Hector."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:28 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett make as much space between him and Matieu as possible before exiting the ship?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:28 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Yes, definitely, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:28 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector frowns, apologizing for his nurse."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm sorry about that.... sir?"
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:29 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu looks away, folds his arms and scoffs from Emmett's reaction."
+                },
+                {
+                    "type": "quote",
+                    "text": "Jeez', he's one of those. They take it for granted until the day they need it the most."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:30 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector rolls his eyes."
+                },
+                {
+                    "type": "quote",
+                    "text": "You did step out of line, you know if we're gonna do something like that to knock them out first."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:31 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Having figured that the planet was in fact his home planet, Seth smiles and points at a kingdom in the distance."
+                },
+                {
+                    "type": "quote",
+                    "text": "You wanna go see my ship collection?"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:32 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Trying to ignore Matieu's crime against him, Emmett catches up to Seth."
+                },
+                {
+                    "type": "quote",
+                    "text": "You have a ship collection?"
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:32 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu looks at the floor."
+                },
+                {
+                    "type": "quote",
+                    "text": "Sorry, Hector..."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:32 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I got a bunch from captured pirates and many from before."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:32 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Do Hector and Matieu try and catch up with the others?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:32 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is decidedly so, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:32 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You guysss go on. I'll find sssomething to do..."
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya stands from the wreckage of the ship and heads in a different direction than the others."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:32 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Thankfully military law lets us keep looted goods as long as we pay for 25% of the value."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth smirks."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:33 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector pats Matieu on the back."
+                },
+                {
+                    "type": "quote",
+                    "text": "It's fine, he's still alive, that's a plus."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:33 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Sure..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett frowns slightly."
+                },
+                {
+                    "type": "quote",
+                    "text": "What happened to my girlfriend?"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:33 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya find someone to stab?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:33 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:33 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth thinks of an excuse for a bit before giving Emmett a response."
+                },
+                {
+                    "type": "quote",
+                    "text": "During the scuffle between us I sat upon the airlock remote."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:33 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett is taken aback, his eyes widening from this news."
+                },
+                {
+                    "type": "quote",
+                    "text": "What the fuck, man?"
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:34 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu start talking to Hector about how strange the others are?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:34 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Very doubtful, Enchantingtable2013."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:34 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Look, you threw me and I landed on the remote."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth shrugs, his smug look dropping for his son."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:34 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I vaguely remember you being tossed to the restroom..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett feels his head, as if trying to remember what happened the day prior."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:35 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I kinda kicked down the door to give you a cigarette."
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Seth calm Emmett down?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:37 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:37 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth frowns, legitimately feeling guilty about airlocking Emmett's girlfriend."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm sorry Emmett, I hate that I airlocked her."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:39 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett shakes his head and sighs, his frown slowly disappearing."
+                },
+                {
+                    "type": "quote",
+                    "text": "Dude, she was my world..."
+                },
+                {
+                    "type": "quote",
+                    "text": "Well, not really."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett shrugs, having effectively forgiven Seth already."
+                },
+                {
+                    "type": "quote",
+                    "text": "She kinda was too happy for me."
+                },
+                {
+                    "type": "quote",
+                    "text": "That brain damage really killed the mood for me..."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:40 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth gives a sigh of relief and looks onto the horizon at the kingdom once more."
+                },
+                {
+                    "type": "quote",
+                    "text": "Plenty of space fish in the galaxy."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:40 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett see a huge castle in the distance?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:40 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:40 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth pinpoints one of the many castles in the kingdom. It appears that Elven nobles get castles of their own, albeit smaller than the king's."
+                },
+                {
+                    "type": "quote",
+                    "text": "Ah, my father's castle."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:41 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector appears from behind the two."
+                },
+                {
+                    "type": "quote",
+                    "text": "Reminds me of the time I spent serving the Martian kings."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:42 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett turns to Hector."
+                },
+                {
+                    "type": "quote",
+                    "text": "Mars? Like that planet that is around Earth?"
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:43 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yes, havn't been been there in a long time, but yes."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:43 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well, let's call a taxi."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth starts tapping on his watch."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:44 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Don't you guys still use..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett thinks for a moment on what Seth called the transportation animals on this planet."
+                },
+                {
+                    "type": "quote",
+                    "text": "\"Horses\", or something?"
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:45 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball does Hector check his medical supplies while everyone is waiting for a taxi?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:45 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Most likely, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:46 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "We mostly do."
+                },
+                {
+                    "type": "quote",
+                    "text": "We try to keep the planet clean."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:46 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Matieu ask Hector to have his Stimgun back?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:46 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, Enchantingtable2013."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:46 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'll have the police solve the whole crashed ship thing..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth takes out his holodevice and taps away on that as well, contacting everyone he knew."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:47 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Is that really their jurisdiction?"
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:47 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya find more people to kill?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:47 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook good, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:48 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth shrugs."
+                },
+                {
+                    "type": "quote",
+                    "text": "I mean it crashed on my dad's land technically."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:48 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett looks around for his buddy, having not paid her any mind when she mentioned she was going to leave."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hey, where's Sanya?"
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:48 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Who?"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:49 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "The plant woman."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:49 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth groans and looks around with Emmett for Sanya."
+                },
+                {
+                    "type": "quote",
+                    "text": "Shit, I don't need her stabbing people and getting arrested."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:49 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh, I thought I made them up while delirious from the wormhole..."
+                },
+                {
+                    "type": "action",
+                    "text": "Hector hits his head a bit in case he was dreaming."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:50 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu snaps rudely in Hector's face."
+                },
+                {
+                    "type": "quote",
+                    "text": "Hey Hector, the stimgun."
+                },
+                {
+                    "type": "quote",
+                    "text": "Kind of hard to be a combat medic without it."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:50 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Here, I think we will need it soon."
+                },
+                {
+                    "type": "action",
+                    "text": "Hector takes out Matieu's stimgun from his pack."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:51 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett starts feeling a twinge from his hormones running rampant the day prior."
+                },
+                {
+                    "type": "quote",
+                    "text": "You think there's any..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett coughs intentionally."
+                },
+                {
+                    "type": "quote",
+                    "text": "Women for me here?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:52 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya get arrested?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:52 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:52 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "As Seth ignores him, Emmett rolls his eyes and repeats himself."
+                },
+                {
+                    "type": "quote",
+                    "text": "Seth?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:52 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "What's up?"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:52 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "You think there's any..."
+                },
+                {
+                    "type": "action",
+                    "text": "Emmett coughs intentionally."
+                },
+                {
+                    "type": "quote",
+                    "text": "Women for me here?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:53 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "We might have to go deeper into the forest..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth looks into the forest, not really wanting to head in there at the moment."
+                },
+                {
+                    "type": "quote",
+                    "text": "Unless you're fine with your partner being one to two feet taller than you."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:53 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett has an irked expression."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm not really into elves, no offense."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 04:54 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Not a problem."
+                },
+                {
+                    "type": "quote",
+                    "text": "We'll go deeper into the forest then after we visit my family."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:54 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Do Emmett and Seth slow down a bit so that Hector and Matieu may catch up?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:54 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:55 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector pants a bit, exhausted from so much commotion in such a short time."
+                },
+                {
+                    "type": "quote",
+                    "text": "Thank you for waiting."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:56 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Yeah thanks."
+                },
+                {
+                    "type": "action",
+                    "text": "Matieu tries to think of an apology for Emmett, tapping his shoulder."
+                },
+                {
+                    "type": "quote",
+                    "text": "And sorry about cutting open your artery, I should've put you asleep first..."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:56 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett scoffs and holds his neck, pulling away from Matieu."
+                },
+                {
+                    "type": "quote",
+                    "text": "You really shouldn't touch me unless I'm hurt. Or at all."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:56 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu takes a deep breath."
+                },
+                {
+                    "type": "quote",
+                    "text": "That's pretty rude of you."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 04:56 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett rolls his eyes and submits."
+                },
+                {
+                    "type": "quote",
+                    "text": "But it's fine, I guess."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 04:57 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I was just excited, me and Hector are usually alone."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 04:57 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the group hear the screams of one of Sanya's victims?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:57 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Outlook not so good, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 04:58 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya kill some more random people?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 04:58 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Signs point to yes, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:02 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya get arrested now?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:02 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | You may rely on it, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 05:03 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya stab the police?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:03 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 05:03 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Through handcuffs, Sanya still manages to kill the police apprehending her. She's been killing elves to keep her mind off of the crash and Seth's piloting idiocy."
+                },
+                {
+                    "type": "quote",
+                    "text": "Get Ssstabbed!"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 05:03 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett's stomach rumble?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:03 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 05:03 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Trying desperately not to think about a potential partner, Emmett feels his stomach grumble."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm kinda' hungry man."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:04 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "We'll get some food once we get there, we're almost there..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth hops onto a log to get a good view of the kingdom gates up ahead."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 05:04 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Is there a town near here where we could get something to eat?"
+                },
+                {
+                    "type": "action",
+                    "text": "Hector digests Seth's response a bit late."
+                },
+                {
+                    "type": "quote",
+                    "text": "That works."
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the group arrive at the castle?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:04 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Ask again later, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 05:04 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "So, what's your guys' names? I never got them."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:04 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Do they stab her back?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:04 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 05:05 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector holds out two of his four hands."
+                },
+                {
+                    "type": "quote",
+                    "text": "My name is Hector."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:05 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!roll d20"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:05 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20... Rolled a 14, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Elven Police",
+            "date": "26-Aug-18 05:05 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "The stabbed policemen call for backup, which comes quickly with swords. They manage to stab Sanya in return, slicing her leaves on her head and her chest."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 05:05 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the group arrive at the castle?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:05 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Don't count on it, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 05:05 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "I'm gonna ssstab your parentsss!"
+                },
+                {
+                    "type": "action",
+                    "text": "Sanya attacks in return in a small rage."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Sanya",
+            "date": "26-Aug-18 05:07 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!roll d10"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:07 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Rolling a d20... Rolled a 9, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Sanya",
+            "date": "26-Aug-18 05:07 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Manages to stab nine of the ten policemen in return, decapitating some, impaling others, and leaving others to bleed out in terror. Despite having joined the Vortox Pummelers and leaving her assassin-for-hire profession behind, Sanya is still a well-oiled murder machine."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 05:07 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Mine is Matieu."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 05:07 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett awkwardly shakes both of Hector's hands."
+                },
+                {
+                    "type": "quote",
+                    "text": "Well, nice to meet you, Matieu and Hector."
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Is the bunch, minus Sanya, now at the castle?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:07 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Most likely, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 05:08 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Matieu looks about him at the regalia in the gardens, not used to this kind of environment."
+                },
+                {
+                    "type": "quote",
+                    "text": "This is cool..."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:09 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Well, lets go inside."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth opens the front door to the castle for the group."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 05:09 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "So your parents live here?"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:09 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "If you have any coats leave them with Jeeves..."
+                },
+                {
+                    "type": "action",
+                    "text": "Seth closes the door behind them."
+                }
+            ]
+        },
+        {
+            "player": "Maxwell",
+            "character": "Matieu",
+            "date": "26-Aug-18 05:09 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Good thing I don't have any."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 05:09 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett smiles softly, the golden highlights in the atrium reminding him of Tawfeek Manor."
+                },
+                {
+                    "type": "quote",
+                    "text": "Jeeves is all-knowing..."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 05:11 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Hector raises an eyebrow."
+                },
+                {
+                    "type": "quote",
+                    "text": "Who is Jeeves?"
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 05:11 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett shrugs."
+                },
+                {
+                    "type": "quote",
+                    "text": "I don't know. Seth talks about him from time to time."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:11 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth scoffs, offended by Hector's inquiry."
+                },
+                {
+                    "type": "quote",
+                    "text": "The butler."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 05:11 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Nice."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:11 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth glares at Hector."
+                },
+                {
+                    "type": "quote",
+                    "text": "Don't break Space Rule 316 again though."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 05:12 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Oh."
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does the group continue into the castle?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:13 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | As I see it, yes, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 05:13 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya kill the guards and resists her arrest?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:13 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | It is certain, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 05:13 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Sanya holds out a thumbs up and flips it down at the kingdom after having killed all of the guards sent for her."
+                },
+                {
+                    "type": "quote",
+                    "text": "Your parents are next!"
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:14 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya get arrested again?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:14 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My reply is no, Bagelwrecker."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 05:15 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Hmmm..."
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Emmett snatch a fruit from a barrel while no one is looking?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:15 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | My sources say no, Zander."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:15 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Seth watches Emmett grab a green, sour, hourglass-shaped fruit from a barrel and bite into it. He facepalms from his son's lack of civility."
+                },
+                {
+                    "type": "quote",
+                    "text": "Tsk, Emmett."
+                },
+                {
+                    "type": "quote",
+                    "text": "You coulda' just asked and told them I'm the son of the duke."
+                }
+            ]
+        },
+        {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "26-Aug-18 05:15 PM",
+            "content": [
+                {
+                    "type": "action",
+                    "text": "Emmett stares at Seth with a guiltless expression and continues to bite into the fruit."
+                },
+                {
+                    "type": "quote",
+                    "text": "I'm starving man. The Crave really takes it out of me."
+                }
+            ]
+        },
+        {
+            "player": "Bill",
+            "character": "Hector",
+            "date": "26-Aug-18 05:18 PM",
+            "content": [
+                {
+                    "type": "quote",
+                    "text": "Ugh, let's not get ourselves in trouble, shall we?"
+                },
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Hector go to pay for the fruit Emmett stole?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:18 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | You may rely on it, WatchfulDrake."
+                }
+            ]
+        },
+        {
+            "player": "Brody",
+            "character": "Sanya",
+            "date": "26-Aug-18 05:21 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya stab the guards' parents?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:21 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Brakia."
+                }
+            ]
+        },
+        {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "26-Aug-18 05:21 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Does Sanya now get arrested?"
+                }
+            ]
+        },
+        {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "26-Aug-18 05:21 PM",
+            "content": [
+                {
+                    "type": "bot_response",
+                    "text": "🎱 | Without a doubt, Bagelwrecker."
+                },
+                {
+                    "type": "bot_response",
+                    "text": "🐐 | And so, the cycle of Sanya killing guards and getting arrested repeated until they decided to have a truce. Eventually, Sanya returns back with the others to the ship, where they have set up camp for the night."
+                }
+            ]
+        }
+    ]
+}

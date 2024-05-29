@@ -17,7 +17,8 @@
         "Seth": "#FF5050",
         "Valentina": "#FFD080",
         "Vargas": "#FFFFFF",
-        "Wes": "#BB54FF"
+        "Wes": "#BB54FF",
+        "KYL300": "#a66ade"
     },
     "light": {
         "Asier": "#A69C66",
@@ -37,6 +38,7 @@
         "Seth": "#FF0000",
         "Valentina": "#BF9000",
         "Vargas": "#000000",
-        "Wes": "#77704A"
+        "Wes": "#77704A",
+        "KYL300": "#50207d"
     }
 }

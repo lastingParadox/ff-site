@@ -42676,7 +42676,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 03:48 PM)_
 
 > 🎱 | My reply is no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(26-Aug-18 03:48 PM)_
@@ -42745,7 +42745,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 03:52 PM)_
 
 > 🎱 | Outlook good,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(26-Aug-18 03:52 PM)_
@@ -42799,7 +42799,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 03:58 PM)_
 
 > 🎱 | As I see it, yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(26-Aug-18 03:58 PM)_
@@ -42985,7 +42985,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 04:12 PM)_
 
 > 🎱 | My reply is no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(26-Aug-18 04:13 PM)_
@@ -43170,7 +43170,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 04:18 PM)_
 
 > 🎱 | Yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Bagelwrecker** _(26-Aug-18 04:19 PM)_
@@ -43347,7 +43347,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 04:32 PM)_
 
 > 🎱 | It is decidedly so,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(26-Aug-18 04:32 PM)_
@@ -43475,7 +43475,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 04:45 PM)_
 
 > 🎱 | Most likely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Bagelwrecker** _(26-Aug-18 04:46 PM)_
@@ -43627,7 +43627,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 04:57 PM)_
 
 > 🎱 | Outlook not so good,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(26-Aug-18 04:58 PM)_
@@ -43693,7 +43693,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 05:04 PM)_
 
 > 🎱 | Ask again later,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(26-Aug-18 05:04 PM)_
@@ -43735,7 +43735,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 05:05 PM)_
 
 > 🎱 | Don't count on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(26-Aug-18 05:05 PM)_
@@ -43824,7 +43824,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 05:13 PM)_
 
 > 🎱 | As I see it, yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(26-Aug-18 05:13 PM)_
@@ -43877,7 +43877,7 @@ In the end, the result was:
 **Tatsumaki** _(26-Aug-18 05:18 PM)_
 
 > 🎱 | You may rely on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(26-Aug-18 05:20 PM)_
@@ -44124,7 +44124,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 02:15 PM)_
 
 > 🎱 | Don't count on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(03-Sep-18 02:17 PM)_
@@ -44242,7 +44242,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 02:21 PM)_
 
 > 🎱 | My sources say no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **TheBlade** _(03-Sep-18 02:21 PM)_
@@ -44360,7 +44360,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 02:24 PM)_
 
 > 🎱 | Outlook good,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(03-Sep-18 02:24 PM)_
@@ -44721,7 +44721,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 02:34 PM)_
 
 > 🎱 | My reply is no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(03-Sep-18 02:34 PM)_
@@ -45144,7 +45144,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 02:51 PM)_
 
 > 🎱 | Most likely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(03-Sep-18 02:52 PM)_
@@ -45451,7 +45451,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 03:01 PM)_
 
 > 🎱 | Don't count on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Bagelwrecker** _(03-Sep-18 03:01 PM)_
@@ -45850,7 +45850,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 03:17 PM)_
 
 > 🎱 | My sources say no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(03-Sep-18 03:18 PM)_
@@ -45884,7 +45884,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 03:19 PM)_
 
 > 🤔 |
-> MultiTheDuck
+> WatchfulDrake
 > , I pick
 > 1
 > !
@@ -46260,7 +46260,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 03:37 PM)_
 
 > 🎱 | It is decidedly so,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **TheBlade** _(03-Sep-18 03:37 PM)_
@@ -46475,7 +46475,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 03:48 PM)_
 
 > 🤔 |
-> MultiTheDuck
+> WatchfulDrake
 > , I pick
 > Repair rifle
 > !
@@ -46724,7 +46724,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 03:57 PM)_
 
 > 🎱 | Very doubtful,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(03-Sep-18 03:57 PM)_
@@ -47069,7 +47069,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 04:13 PM)_
 
 > 🎱 | Yes, definitely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **ProfessorTree** _(03-Sep-18 04:13 PM)_
@@ -47426,7 +47426,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 04:30 PM)_
 
 > 🎱 | Better not tell you now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(03-Sep-18 04:30 PM)_
@@ -47436,7 +47436,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 04:30 PM)_
 
 > 🎱 | Concentrate and ask again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(03-Sep-18 04:30 PM)_
@@ -47456,7 +47456,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 04:31 PM)_
 
 > 🎱 | You may rely on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **ProfessorTree** _(03-Sep-18 04:31 PM)_
@@ -47665,7 +47665,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 04:40 PM)_
 
 > 🎱 | Better not tell you now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **TheBlade** _(03-Sep-18 04:40 PM)_
@@ -47679,7 +47679,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 04:42 PM)_
 
 > 🎱 | My sources say no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(03-Sep-18 04:42 PM)_
@@ -48114,7 +48114,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 05:01 PM)_
 
 > 🎱 | Cannot predict now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(03-Sep-18 05:02 PM)_
@@ -48124,7 +48124,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 05:02 PM)_
 
 > 🎱 | Better not tell you now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(03-Sep-18 05:02 PM)_
@@ -48134,7 +48134,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 05:02 PM)_
 
 > 🎱 | Don't count on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(03-Sep-18 05:02 PM)_
@@ -48578,7 +48578,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 05:18 PM)_
 
 > 🎱 | Most likely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Bagelwrecker** _(03-Sep-18 05:19 PM)_
@@ -49049,7 +49049,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 05:36 PM)_
 
 > 🎱 | Better not tell you now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Bagelwrecker** _(03-Sep-18 05:36 PM)_
@@ -49063,7 +49063,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Sep-18 05:36 PM)_
 
 > 🎱 | You may rely on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(03-Sep-18 05:36 PM)_
@@ -51437,7 +51437,7 @@ In the end, the result was:
 **Tatsumaki** _(04-Sep-18 03:43 PM)_
 
 > 🎱 | As I see it, yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **PlasmaPerson** _(04-Sep-18 03:44 PM)_
@@ -51958,7 +51958,7 @@ In the end, the result was:
 **Tatsumaki** _(04-Sep-18 04:00 PM)_
 
 > 🤔 |
-> MultiTheDuck
+> WatchfulDrake
 > , I pick
 > Clearing
 > !
@@ -51986,7 +51986,7 @@ In the end, the result was:
 **Tatsumaki** _(04-Sep-18 04:01 PM)_
 
 > 🎱 | Most likely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **PlasmaPerson** _(04-Sep-18 04:01 PM)_
@@ -53987,7 +53987,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 03:39 PM)_
 
 > 🎱 | Ask again later,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(08-Sep-18 03:39 PM)_
@@ -54013,7 +54013,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 03:39 PM)_
 
 > 🎱 | Outlook good,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(08-Sep-18 03:40 PM)_
@@ -55180,7 +55180,7 @@ t!roll 5d10+3
 **Tatsumaki** _(08-Sep-18 04:34 PM)_
 
 > 🎱 | My sources say no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(08-Sep-18 04:34 PM)_
@@ -55375,7 +55375,7 @@ t!roll 5d10+3
 **Tatsumaki** _(08-Sep-18 04:41 PM)_
 
 > 🎱 | Yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(08-Sep-18 04:41 PM)_
@@ -55803,7 +55803,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 05:05 PM)_
 
 > 🎱 | It is certain,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **PlasmaPerson** _(08-Sep-18 05:05 PM)_
@@ -56037,7 +56037,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 05:21 PM)_
 
 > 🎱 | Very doubtful,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(08-Sep-18 05:22 PM)_
@@ -56213,7 +56213,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 05:32 PM)_
 
 > 🎱 | Better not tell you now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(08-Sep-18 05:32 PM)_
@@ -56227,7 +56227,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 05:32 PM)_
 
 > 🎱 | Signs point to yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(08-Sep-18 05:32 PM)_
@@ -56278,7 +56278,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 05:34 PM)_
 
 > 🆙 |
-> MultiTheDuck leveled up!
+> WatchfulDrake leveled up!
 
 **Brakia** _(08-Sep-18 05:34 PM)_
 
@@ -56360,7 +56360,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 05:40 PM)_
 
 > 🎱 | Cannot predict now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(08-Sep-18 05:40 PM)_
@@ -56370,7 +56370,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 05:40 PM)_
 
 > 🎱 | Concentrate and ask again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(08-Sep-18 05:41 PM)_
@@ -56416,7 +56416,7 @@ In the end, the result was:
 **Tatsumaki** _(08-Sep-18 05:43 PM)_
 
 > 🎱 | Very doubtful,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(08-Sep-18 05:44 PM)_
@@ -56678,7 +56678,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 02:43 PM)_
 
 > 🎱 | Without a doubt,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(15-Sep-18 02:44 PM)_
@@ -56866,7 +56866,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 02:58 PM)_
 
 > 🎱 | Cannot predict now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(15-Sep-18 02:58 PM)_
@@ -56884,7 +56884,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 02:58 PM)_
 
 > 🎱 | Yes, definitely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(15-Sep-18 02:59 PM)_
@@ -56989,7 +56989,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 03:13 PM)_
 
 > 🎱 | My sources say no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(15-Sep-18 03:16 PM)_
@@ -57080,7 +57080,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 03:21 PM)_
 
 > 🎱 | Concentrate and ask again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(15-Sep-18 03:21 PM)_
@@ -57090,7 +57090,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 03:21 PM)_
 
 > 🎱 | My reply is no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(15-Sep-18 03:21 PM)_
@@ -57172,7 +57172,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 03:29 PM)_
 
 > 🎱 | Very doubtful,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(15-Sep-18 03:29 PM)_
@@ -57789,7 +57789,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 04:06 PM)_
 
 > 🎱 | Yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(15-Sep-18 04:06 PM)_
@@ -57911,7 +57911,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 04:15 PM)_
 
 > 🎱 | Concentrate and ask again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(15-Sep-18 04:15 PM)_
@@ -57925,7 +57925,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 04:15 PM)_
 
 > 🎱 | Reply hazy try again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(15-Sep-18 04:15 PM)_
@@ -57935,7 +57935,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 04:15 PM)_
 
 > 🎱 | Most likely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(15-Sep-18 04:15 PM)_
@@ -58196,7 +58196,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 04:33 PM)_
 
 > 🎱 | Reply hazy try again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(15-Sep-18 04:33 PM)_
@@ -58206,7 +58206,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 04:33 PM)_
 
 > 🎱 | Outlook not so good,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(15-Sep-18 04:34 PM)_
@@ -58292,7 +58292,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 04:40 PM)_
 
 > 🤔 |
-> MultiTheDuck
+> WatchfulDrake
 > , I pick
 > crab
 > !
@@ -58711,7 +58711,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 05:07 PM)_
 
 > 🎱 | Better not tell you now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(15-Sep-18 05:07 PM)_
@@ -58725,7 +58725,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 05:07 PM)_
 
 > 🎱 | Signs point to yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Enchantingtable2013** _(15-Sep-18 05:07 PM)_
@@ -58941,7 +58941,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 05:20 PM)_
 
 > 🎱 | Yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(15-Sep-18 05:20 PM)_
@@ -59094,7 +59094,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 05:29 PM)_
 
 > 🎱 | Concentrate and ask again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(15-Sep-18 05:30 PM)_
@@ -59104,7 +59104,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 05:30 PM)_
 
 > 🎱 | Most likely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(15-Sep-18 05:31 PM)_
@@ -59482,7 +59482,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 05:55 PM)_
 
 > 🎱 | Outlook good,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(15-Sep-18 05:55 PM)_
@@ -60145,7 +60145,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 06:23 PM)_
 
 > 🎱 | Without a doubt,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(15-Sep-18 06:23 PM)_
@@ -60541,7 +60541,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 06:39 PM)_
 
 > 🎱 | Reply hazy try again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(15-Sep-18 06:39 PM)_
@@ -60551,7 +60551,7 @@ In the end, the result was:
 **Tatsumaki** _(15-Sep-18 06:39 PM)_
 
 > 🎱 | Signs point to yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(15-Sep-18 06:39 PM)_
@@ -66363,7 +66363,7 @@ In the end, the result was:
 **Tatsumaki** _(23-Sep-18 06:08 PM)_
 
 > 🎱 | Ask again later,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(23-Sep-18 06:08 PM)_
@@ -66373,7 +66373,7 @@ In the end, the result was:
 **Tatsumaki** _(23-Sep-18 06:08 PM)_
 
 > 🎱 | Yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Brakia** _(23-Sep-18 06:08 PM)_
@@ -69343,7 +69343,7 @@ In the end, the result was:
 **Tatsumaki** _(30-Sep-18 03:08 PM)_
 
 > 🎱 | Ask again later,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Deyner** _(30-Sep-18 03:08 PM)_
@@ -69361,7 +69361,7 @@ In the end, the result was:
 **Tatsumaki** _(30-Sep-18 03:09 PM)_
 
 > 🎱 | Without a doubt,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(30-Sep-18 03:09 PM)_
@@ -69989,7 +69989,7 @@ In the end, the result was:
 **Tatsumaki** _(30-Sep-18 03:30 PM)_
 
 > 🎱 | My reply is no,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **TheBlade** _(30-Sep-18 03:31 PM)_
@@ -70723,7 +70723,7 @@ In the end, the result was:
 **Tatsumaki** _(30-Sep-18 04:00 PM)_
 
 > 🎱 | Reply hazy try again,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Bagelwrecker** _(30-Sep-18 04:00 PM)_
@@ -70738,7 +70738,7 @@ In the end, the result was:
 **Tatsumaki** _(30-Sep-18 04:00 PM)_
 
 > 🎱 | Yes, definitely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(30-Sep-18 04:00 PM)_
@@ -70928,7 +70928,7 @@ In the end, the result was:
 **Tatsumaki** _(30-Sep-18 04:10 PM)_
 
 > 🎱 | Most likely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Deyner** _(30-Sep-18 04:10 PM)_
@@ -71191,7 +71191,7 @@ In the end, the result was:
 **Tatsumaki** _(30-Sep-18 04:20 PM)_
 
 > 🎱 | Outlook not so good,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **WatchfulDrake** _(30-Sep-18 04:20 PM)_
@@ -72031,7 +72031,7 @@ In the end, the result was:
 **Tatsumaki** _(03-Oct-18 10:51 PM)_
 
 > 🏧 |
-> MultiTheDuck
+> WatchfulDrake
 > ,
 > you received your 💴 200 daily credits!
 
@@ -72734,7 +72734,7 @@ In the end, the result was:
 **Tatsumaki** _(07-Oct-18 03:08 PM)_
 
 > 🎱 | Don't count on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **PlasmaPerson** _(07-Oct-18 03:08 PM)_
@@ -73400,7 +73400,7 @@ In the end, the result was:
 **Tatsumaki** _(07-Oct-18 03:32 PM)_
 
 > 🤔 |
-> MultiTheDuck
+> WatchfulDrake
 > , I pick
 > dam
 > !
@@ -73900,7 +73900,7 @@ In the end, the result was:
 **Tatsumaki** _(07-Oct-18 03:53 PM)_
 
 > 🎱 | Very doubtful,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(07-Oct-18 03:53 PM)_
@@ -74633,7 +74633,7 @@ In the end, the result was:
 **Tatsumaki** _(07-Oct-18 04:19 PM)_
 
 > 🎱 | Cannot predict now,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Jelsafan0** _(07-Oct-18 04:19 PM)_
@@ -74647,7 +74647,7 @@ In the end, the result was:
 **Tatsumaki** _(07-Oct-18 04:19 PM)_
 
 > 🎱 | As I see it, yes,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(07-Oct-18 04:19 PM)_
@@ -75329,7 +75329,7 @@ In the end, the result was:
 **Tatsumaki** _(07-Oct-18 04:42 PM)_
 
 > 🎱 | Most likely,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **PlasmaPerson** _(07-Oct-18 04:42 PM)_
@@ -76835,7 +76835,7 @@ In the end, the result was:
 **Tatsumaki** _(10-Oct-18 02:41 PM)_
 
 > 🎱 | You may rely on it,
-> MultiTheDuck
+> WatchfulDrake
 > .
 
 **Zander** _(10-Oct-18 02:41 PM)_
