@@ -3145,13 +3145,13 @@ _Iris maintains a stalwart glare in Matieu's direction._
 
 _Hector flares out his syrings._
 
-> OR I'LL KNOCK YOU ALL OUT SO I CAN SAVE THIS DAMN SQUOATLING!
+> ...OR I'LL KNOCK YOU ALL OUT SO I CAN SAVE THIS DAMN SQUOATLING!
 
 **PlasmaPerson** _(04-Sep-18 03:58 PM)_
 
 > I have ammonia if you need Emmett to stay still.
 
-_Without even turning around, Chomsky pops an bath-bomb in Garrick's mouth, who swallows it._
+_Without even turning around, Chomsky pops a bath-bomb in Garrick's mouth, who swallows it._
 
 **ProfessorTree** _(04-Sep-18 03:58 PM)_
 
@@ -3234,7 +3234,7 @@ t!choose Place Emmett in a clearing | Place Emmett in a lakeside
 
 **Jelsafan0** _(04-Sep-18 04:01 PM)_
 
-> if. You. Go. Will someone die?
+> If. You. Go. Will someone die?
 
 **WatchfulDrake** _(04-Sep-18 04:01 PM)_
 
@@ -3326,7 +3326,7 @@ _Chomsky immediately starts to dance, provoked by Emmett's loud screaming._
 
 **RPretribution** _(04-Sep-18 04:04 PM)_
 
-_Garrick pokes at Chomsky as he dances._
+_Garrick pokes at Chomsky as he dances, singing a nursery rhyme._
 
 > If a man came into your room and did a funny, would you scream or cry?
 
@@ -3336,7 +3336,7 @@ t!8ball Does Iris’s anger at the new knowledge that her planet was intentional
 
 **Tatsumaki** _(04-Sep-18 04:04 PM)_
 
-🎱 | My reply is no, Jelsafan0.
+🎱 | My reply is yes, Jelsafan0.
 
 **Zander** _(04-Sep-18 04:04 PM)_
 
@@ -3362,17 +3362,17 @@ t!8ball Does Matieu instantly dash back to try and pull Iris away from Dread?
 
 🎱 | Without a doubt, Enchantingtable2013.
 
-**Jelsafan0** _(04-Sep-18 04:05 PM)_
-
-_Iris grimaces at Matieu tries to pull her away and remains standing stalwart, her stare remaining on Dread._
-
-> I just found out someone orchestrated the murder of everyone I ever knew and loved. You don’t wanna screw with me right now.
-
 **Enchantingtable2013** _(04-Sep-18 04:05 PM)_
 
 _Matieu grabs at Iris's arm and tries to drag her off to no success._
 
 > What's up, baby girl?
+
+**Jelsafan0** _(04-Sep-18 04:05 PM)_
+
+_Iris grimaces as Matieu tries to pull her away and remains standing stalwart, her stare remaining on Dread._
+
+> I just found out someone orchestrated the murder of everyone I ever knew and loved. You don’t wanna screw with me right now.
 
 **ProfessorTree** _(04-Sep-18 04:06 PM)_
 
@@ -3435,6 +3435,7 @@ _Garrick looks around at the others, having not paid a lick of attention._
 > Honey, I'm home!
 
 _Seth steps out of Emmett's mouth cartoonishly and poses heroically._
+_He is wearing a completely different outfit than before, and holding a pile of shredded Elven clothes._
 
 **Enchantingtable2013** _(04-Sep-18 04:07 PM)_
 
@@ -3470,7 +3471,7 @@ _Chomsky's jaw drops to the ground, having watched Seth appear out of Emmett's m
 
 **Brakia** _(04-Sep-18 04:07 PM)_
 
-_`Dread`: Dread hisses at Kyle, pointing his blade to the robot._
+_`Dread`: Dread hisses at Kyle, pointing Sanya's blade to the robot._
 
 > `Dread`: Robot, leave this battle. NOW.
 
@@ -3478,15 +3479,12 @@ _`Dread`: Dread hisses at Kyle, pointing his blade to the robot._
 
 _Matieu gives a wink to Dread._
 
-> Sorry Miss Dread Goddess...
-
-**Enchantingtable2013** _(04-Sep-18 04:08 PM)_
-
+> Sorry, Miss Dread Goddess...
 > It's not a battle, dayum!!
 
 **ProfessorTree** _(04-Sep-18 04:08 PM)_
 
-_Kyle scoffs, given that Sanya's body could easily die from his plasma cannon at this range._
+_Kyle scoffs, believing his plasma cannon could easily destroy her at this range._
 
 > YOU leave this battle before you get incinerated!
 
@@ -3505,23 +3503,22 @@ _Matieu winks at Iris suggestively._
 
 _Seth points a big finger at Kyle, clearly not understanding nor caring about what's happening currently._
 
-> How about YOU shut the fuck up mr. Roboto?
+> How about YOU shut the fuck up, Mr. Roboto?
 
 **Enchantingtable2013** _(04-Sep-18 04:08 PM)_
 
 > Hey man, don't be a dick!
+> He's just trying to help!
 
 **ProfessorTree** _(04-Sep-18 04:08 PM)_
 
 > Oh, hey. Seth's back...
 
+_Kyle rolls its mechanical eyes and flicks Seth's nose away._
+
 **Zander** _(04-Sep-18 04:08 PM)_
 
 _Emmett is underneath Seth's feet._
-
-**Enchantingtable2013** _(04-Sep-18 04:08 PM)_
-
-> He's just trying to help!
 
 **ProfessorTree** _(04-Sep-18 04:08 PM)_
 
@@ -3543,7 +3540,7 @@ t!8ball Does Seth feel rejuvenated?
 
 **Tatsumaki** _(04-Sep-18 04:09 PM)_
 
-🎱 | Reply hazy try again, Zander.
+🎱 | It is certain, Zander.
 
 **ProfessorTree** _(04-Sep-18 04:09 PM)_
 
@@ -3554,6 +3551,8 @@ _Kyle changes his arm weapon to his flamethrower._
 _Iris holds a ball of flame in her hand, considering lighting Dread ablaze._
 
 **Bagelwrecker** _(04-Sep-18 04:09 PM)_
+
+_Feeling good after his unseen escapades with the two Goddesses, Seth looks around for his squoat boy._
 
 > Oh hey, where's Emmett?
 
@@ -3578,17 +3577,13 @@ _Iris's mouth quivers and she brings her fireball to Matieu's face._
 
 > WHAT THE HECK, MATIEU?!
 
-**RPretribution** _(04-Sep-18 04:10 PM)_
-
-> What if I used a fire extinguisher?
-
-_Garrick wink wonks._
-
 **Enchantingtable2013** _(04-Sep-18 04:10 PM)_
 
 > What?
 
 _Matieu shrugs like a cliche comic relief character._
+
+> I'm trying to lighten the mood.
 
 **Jelsafan0** _(04-Sep-18 04:10 PM)_
 
@@ -3596,33 +3591,29 @@ _Matieu shrugs like a cliche comic relief character._
 
 **Brakia** _(04-Sep-18 04:10 PM)_
 
-_`Dread`: Dread rolls its eyes at the crew's antics, wanting to keep everyone's focus on him and him alone._
+_`Dread`: Dread rolls its eyes at the crew's antics, wanting to keep everyone's focus for its amusement._
 
 > `Dread`: Kill this vessel. I have millions of florans to use.
-
-**Enchantingtable2013** _(04-Sep-18 04:10 PM)_
-
-> I'm trying to lighten the mood.
-
-**Brakia** _(04-Sep-18 04:10 PM)_
-
-> They are nothing to me!
+> `Dread`: They are nothing to me!
 
 **Enchantingtable2013** _(04-Sep-18 04:11 PM)_
 
 _Matieu leaves Iris and heads to Dread stupidly._
 
 > Hey, what's up, fucker?
+> Get out of my friend!
+
+**RPretribution** _(04-Sep-18 04:10 PM)_
+
+> What if I used a fire extinguisher?
+
+_Garrick wink wonks._
 
 **Jelsafan0** _(04-Sep-18 04:11 PM)_
 
 _Iris sighs and decides to entertain Garrick's joke question._
 
 > And no, magic fire can’t be extinguished.
-
-**Enchantingtable2013** _(04-Sep-18 04:11 PM)_
-
-> Get out of my friend!
 
 **RPretribution** _(04-Sep-18 04:11 PM)_
 
@@ -3641,10 +3632,6 @@ _Garrick puffs up with more bubbles and attempts to speak._
 > UBTT!
 > DUST!
 
-**Jelsafan0** _(04-Sep-18 04:11 PM)_
-
-> Sooooooo... I just have to...
-
 **Enchantingtable2013** _(04-Sep-18 04:11 PM)_
 
 > I'll annoy the shit out of you until you leave my friend!
@@ -3653,20 +3640,18 @@ _Matieu grabs at Dread's arm and tries to pull him away._
 
 **Jelsafan0** _(04-Sep-18 04:12 PM)_
 
+> Sooooooo... I just have to...
 > You know...
 
 _Iris shakes her fireball, preparing to throw it at Sanya._
 
 **RPretribution** _(04-Sep-18 04:12 PM)_
 
-t!8ball Does Garrick pull out two fire extinguishers and try to extinguish Iris' hand fire?
+t!8ball Does Garrick pull out two fire extinguishers and extinguish Iris' hand fire?
 
 **Tatsumaki** _(04-Sep-18 04:12 PM)_
 
-🎱 | Outlook not so good,
-
-> RPretribution
-> .
+🎱 | Outlook not so good, RPretribution.
 
 **RPretribution** _(04-Sep-18 04:12 PM)_
 
@@ -3686,31 +3671,26 @@ t!8ball Does Sanya pick up Kyle and throw him?
 
 > CALM THE FUCK DOWNNNnN!
 
-_Matieu latches himself onto Dread and tries to knock him over._
+_Matieu latches himself onto Dread and tries to knock her over._
 
 **Brakia** _(04-Sep-18 04:13 PM)_
 
 > `Dread`: Leave us!
 
-_`Dread`: Dread shakes his shoulder, slamming Matieu onto the dirt._
+_`Dread`: Dread shakes her shoulder, slamming Matieu onto the dirt._
 
 **PlasmaPerson** _(04-Sep-18 04:13 PM)_
 
-_Chomsky gives Sanya a rather lazy plea._
+_Chomsky gives Sanya a rather lazy plea, not having paid attention._
 
 > Yo, Sanya can you chill?
+> I don't know what's going on with you but it's deeply unsettling. Please stop...
 
 **RPretribution** _(04-Sep-18 04:13 PM)_
 
 _Garrick watches Kyle whizz by him and screams in surprise._
 
 > AAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!
-
-**PlasmaPerson** _(04-Sep-18 04:14 PM)_
-
-> I don't know what's going on with you but it's deeply unsettling. Please stop...
-
-_Chomsky pouts to Dread._
 
 **ProfessorTree** _(04-Sep-18 04:14 PM)_
 
@@ -3732,19 +3712,11 @@ _`Dread`: Dread gives a devious smirk before leaving Sanya's body unconscious fr
 
 **Brakia** _(04-Sep-18 04:15 PM)_
 
-> (Sanya falls to the ground as her flower turns from red to black.)
-
-**RPretribution** _(04-Sep-18 04:15 PM)_
-
-> YOU'RE GAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐₐᵧ
-
-**Zander** _(04-Sep-18 04:15 PM)_
-
-> (Matieu grows a dick for a split-second before it disappears.)
+_Sanya falls to the ground as her flower turns from red to black._
 
 **PlasmaPerson** _(04-Sep-18 04:15 PM)_
 
-> uh, Sanya?
+> Uh, Sanya?
 
 **Jelsafan0** _(04-Sep-18 04:15 PM)_
 
@@ -3752,18 +3724,15 @@ t!8ball does Iris wake Sanya up?
 
 **Tatsumaki** _(04-Sep-18 04:15 PM)_
 
-🎱 | My sources say no,
-
-> Jelsafan0
-> .
+🎱 | My sources say no, Jelsafan0.
 
 **Enchantingtable2013** _(04-Sep-18 04:16 PM)_
 
-> Aye now that she's gone...
+> Aye, now that she's gone...
 
 **ProfessorTree** _(04-Sep-18 04:16 PM)_
 
-> `One more outburst like that and I'm killing the Floran. Got that?`
+> One more outburst like that and I'm killing the Floran. Got that?
 
 **Jelsafan0** _(04-Sep-18 04:16 PM)_
 
@@ -3771,20 +3740,23 @@ t!8ball does Iris wake Sanya up?
 
 **PlasmaPerson** _(04-Sep-18 04:17 PM)_
 
-> I guess. She doesn't look ok, though.
+> I guess. She doesn't look okay, though.
 
 **RPretribution** _(04-Sep-18 04:17 PM)_
 
-> brody doesnt understand the concept of good character design
+_Garrick looks at Sanya, disappointed and with a bit of uncharacteristic disgust._
+
+> The Creator got lazy when he created Florans.
 
 **Enchantingtable2013** _(04-Sep-18 04:17 PM)_
 
-> Yeah now we should have some alone time Iris.
-> wink wink nudge
+> Yeah, now we should have some alone time Iris.
+
+_Matieu gives her a wink wink and a nudge nudge._
 
 **Jelsafan0** _(04-Sep-18 04:17 PM)_
 
-> ...
+_Iris pauses in disgust._
 
 **RPretribution** _(04-Sep-18 04:17 PM)_
 
@@ -3797,7 +3769,7 @@ t!8ball does Iris wake Sanya up?
 
 **ProfessorTree** _(04-Sep-18 04:17 PM)_
 
-> `You kinda are.`
+> You kinda are.
 
 **Enchantingtable2013** _(04-Sep-18 04:17 PM)_
 
@@ -3805,7 +3777,7 @@ t!8ball does Iris wake Sanya up?
 
 **Jelsafan0** _(04-Sep-18 04:17 PM)_
 
-> what the heck, Matieu.
+> What the heck, Matieu...?
 
 **Enchantingtable2013** _(04-Sep-18 04:18 PM)_
 
@@ -3815,32 +3787,18 @@ t!8ball does Iris wake Sanya up?
 
 > What heck?
 
+**Jelsafan0** _(04-Sep-18 04:18 PM)_
+
+> Why is it always me?
+
 **Enchantingtable2013** _(04-Sep-18 04:18 PM)_
 
 > I already said what I wanted to say.
-
-**Jelsafan0** _(04-Sep-18 04:18 PM)_
-
-> why is it always me?
-
-**Enchantingtable2013** _(04-Sep-18 04:18 PM)_
-
 > How am I gonna prove myself to you?
-
-**RPretribution** _(04-Sep-18 04:18 PM)_
-
-t!8ball does zander eat pp?
-
-**Tatsumaki** _(04-Sep-18 04:18 PM)_
-
-🎱 | Yes, definitely,
-
-> RPretribution
-> .
 
 **WatchfulDrake** _(04-Sep-18 04:18 PM)_
 
-> ima just point out he said that while surrounded by people
+> I'ma just point out he said that while surrounded by people.
 
 **Enchantingtable2013** _(04-Sep-18 04:18 PM)_
 
@@ -3848,28 +3806,27 @@ t!8ball does zander eat pp?
 
 **WatchfulDrake** _(04-Sep-18 04:18 PM)_
 
-> edgy
+> Edgy.
 
 **ProfessorTree** _(04-Sep-18 04:18 PM)_
 
-> `Edgy fuck.`
+> Edgy fuck.
 
 **Jelsafan0** _(04-Sep-18 04:18 PM)_
 
-> that’s dangerous. Maybe don’t do that?
+> That’s dangerous. Maybe don’t do that?
 
 **Enchantingtable2013** _(04-Sep-18 04:19 PM)_
 
-t!8ball Do I cut open 8 arteries and sew them up within 16 seconds?
+t!8ball Does Matieu cut open 8 of his arteries and sew them up within 16 seconds?
 
 **Tatsumaki** _(04-Sep-18 04:19 PM)_
 
-🎱 | It is decidedly so,
-
-> Enchantingtable2013
-> .
+🎱 | It is decidedly so, Enchantingtable2013.
 
 **Enchantingtable2013** _(04-Sep-18 04:19 PM)_
+
+_Matieu points to the eight separate wounds across his arms and smiles, like it's a party trick._
 
 > See, it's fun!
 
@@ -3879,77 +3836,34 @@ t!8ball Does Seth step off Emmett?
 
 **Tatsumaki** _(04-Sep-18 04:19 PM)_
 
-🎱 | Outlook good,
-
-> Bagelwrecker
-> .
+🎱 | Outlook good, Bagelwrecker.
 
 **Jelsafan0** _(04-Sep-18 04:19 PM)_
 
-> please don’t do that.
-
-**RPretribution** _(04-Sep-18 04:19 PM)_
-
-> silas is pp
+> Please, don’t do that.
 
 **Enchantingtable2013** _(04-Sep-18 04:19 PM)_
 
-> Well I'd never do it to you.
+> Well, I'd never do it to you.
 > I'd never hurt a woman.
-
-**RPretribution** _(04-Sep-18 04:19 PM)_
-
-> eat mica
-
-**Enchantingtable2013** _(04-Sep-18 04:19 PM)_
-
-> Especially if her name was, Iris.
+> Especially if her name was Iris.
 
 **Jelsafan0** _(04-Sep-18 04:19 PM)_
 
 > I’m pretty sure it’s bad for your health though.
 
-**ProfessorTree** _(04-Sep-18 04:20 PM)_
-
-t!8ball is Mica pp?
-
-**Tatsumaki** _(04-Sep-18 04:20 PM)_
-
-🎱 | It is certain,
-
-> ProfessorTree
-> .
-
 **Enchantingtable2013** _(04-Sep-18 04:20 PM)_
+
+_Matieu shrugs._
 
 > Everyone dies eventually.
-
-**RPretribution** _(04-Sep-18 04:20 PM)_
-
-> @Mica
-
-**WatchfulDrake** _(04-Sep-18 04:20 PM)_
-
-> discord updating btw
-
-**Enchantingtable2013** _(04-Sep-18 04:20 PM)_
-
 > Just enjoy it.
 
 **WatchfulDrake** _(04-Sep-18 04:20 PM)_
 
-> so it'll be a while
+> So it'll be a while...?
 
-**Zander** _(04-Sep-18 04:21 PM)_
-
-t!8ball Does Seth run over to the area and explode?
-
-**Tatsumaki** _(04-Sep-18 04:21 PM)_
-
-🎱 | Cannot predict now,
-
-> Zander
-> .
+_Hector snarls, starting to get annoyed at his protégé._
 
 **Zander** _(04-Sep-18 04:21 PM)_
 
@@ -3957,29 +3871,25 @@ t!8ball Does Seth run over to the area and prove his worth?
 
 **Tatsumaki** _(04-Sep-18 04:21 PM)_
 
-🎱 | Outlook not so good,
-
-> Zander
-> .
+🎱 | Outlook not so good, Zander.
 
 **Jelsafan0** _(04-Sep-18 04:21 PM)_
 
-> Seth how are you even alive?
+> Seth, how are you even alive?
 
 **Bagelwrecker** _(04-Sep-18 04:21 PM)_
 
-> Nepotism
+_Seth tilts his head up to reveal several hickeys and lipstick marks on his neck._
+
+> Nepotism.
 
 **RPretribution** _(04-Sep-18 04:22 PM)_
 
-t!8ball does garrick wake emmett up
+t!8ball Does Garrick wake Emmett up?
 
 **Tatsumaki** _(04-Sep-18 04:22 PM)_
 
-🎱 | Outlook good,
-
-> RPretribution
-> .
+🎱 | Outlook good, RPretribution.
 
 **Brakia** _(04-Sep-18 04:22 PM)_
 
@@ -3987,16 +3897,17 @@ t!8ball Does Sanya awaken?
 
 **Tatsumaki** _(04-Sep-18 04:22 PM)_
 
-🎱 | Yes, definitely,
-
-> Brakia
-> .
+🎱 | Yes, definitely, Brakia.
 
 **RPretribution** _(04-Sep-18 04:22 PM)_
+
+_Garrick pokes Emmett's snout repeatedly._
 
 > Wake up, smelly.
 
 **Zander** _(04-Sep-18 04:22 PM)_
+
+_Emmett's eyes slam open, bloodshot._
 
 > Huh?
 
@@ -4004,20 +3915,13 @@ t!8ball Does Sanya awaken?
 
 > Good morning, Emmett!
 
-**RPretribution** _(04-Sep-18 04:22 PM)_
-
-> ET sports
-
 **PlasmaPerson** _(04-Sep-18 04:22 PM)_
 
-t!8ball do the people who just woke up do the fortnite dance really violently
+t!8ball Do the people who just woke up do the fortnite dance really violently?
 
 **Tatsumaki** _(04-Sep-18 04:22 PM)_
 
-🎱 | Yes, definitely,
-
-> PlasmaPerson
-> .
+🎱 | Yes, definitely, PlasmaPerson.
 
 **Zander** _(04-Sep-18 04:22 PM)_
 
@@ -4025,23 +3929,29 @@ t!8ball do the people who just woke up do the fortnite dance really violently
 
 **Brakia** _(04-Sep-18 04:22 PM)_
 
-> `What jusst happened?`
+> What jussst happened?
 
 **Jelsafan0** _(04-Sep-18 04:22 PM)_
 
-> same to you, Sanya.
+_Iris looks flabbergasted at Sanya._
+
+> Same to you, Sanya.
 
 **RPretribution** _(04-Sep-18 04:23 PM)_
+
+_Garrick's jaw drops to the floor when he sees Emmett doing a little jig._
 
 > FORTNITE??????
 
 **Bagelwrecker** _(04-Sep-18 04:23 PM)_
 
-> Oh god not the bah thing again
+> Oh gods, not the 'bah' thing again.
 
 **ProfessorTree** _(04-Sep-18 04:23 PM)_
 
-> `Welcome back, little guy. Are you ready to crawl on Sanya some more?`
+_Kyle talks to Emmett like a baby._
+
+> Welcome back, little guy. Are you ready to crawl on Sanya some more?
 
 **Enchantingtable2013** _(04-Sep-18 04:23 PM)_
 
@@ -4053,60 +3963,58 @@ t!8ball do the people who just woke up do the fortnite dance really violently
 
 **PlasmaPerson** _(04-Sep-18 04:23 PM)_
 
-> Sanya stop violently dancing
+> Sanya, stop stinking up the place.
 
 **RPretribution** _(04-Sep-18 04:23 PM)_
+
+_Garrick squints at Sanya for a moment, smelling an awful scent from her flower._
 
 > Sanya, this is weird. Even for you.
 
 **Brakia** _(04-Sep-18 04:23 PM)_
 
-> `What? I'm not dancing...`
+> What? I'm not doing anything...
 
 **Enchantingtable2013** _(04-Sep-18 04:23 PM)_
 
 > And I bullied the shit out of the god of dread or whatever it was.
 
-**Zander** _(04-Sep-18 04:23 PM)_
-
-> Seth, shut up.
-
 **Brakia** _(04-Sep-18 04:24 PM)_
 
-> `God of Dread?`
+> ...God of Dread?
 
 **Zander** _(04-Sep-18 04:24 PM)_
 
+> Seth, shut up.
 > You died in a flipping oven.
 
 **Enchantingtable2013** _(04-Sep-18 04:24 PM)_
 
 > Yeah.
 
-**Brakia** _(04-Sep-18 04:24 PM)_
-
-> `Oh no.`
-
 **Jelsafan0** _(04-Sep-18 04:24 PM)_
 
-> yes.
+> Yes, that's right.
+
+**Brakia** _(04-Sep-18 04:24 PM)_
+
+> Oh no.
 
 **Enchantingtable2013** _(04-Sep-18 04:24 PM)_
 
 > Something like that.
 > They were scared of me after it.
+> I threatened to bully them until they let you go.
+
+_Matieu tells a big fat lie to impress Iris._
 
 **PlasmaPerson** _(04-Sep-18 04:24 PM)_
 
-> so Sethis back I guess.
+> So Seth is back, I guess.
 
 **Brakia** _(04-Sep-18 04:24 PM)_
 
-> `No no no. Oh fuck no.`
-
-**Enchantingtable2013** _(04-Sep-18 04:24 PM)_
-
-> I threatened to bully them until they let you go.
+> No no no. Oh fuck no.
 
 **PlasmaPerson** _(04-Sep-18 04:24 PM)_
 
@@ -4114,103 +4022,98 @@ t!8ball do the people who just woke up do the fortnite dance really violently
 
 **Jelsafan0** _(04-Sep-18 04:24 PM)_
 
-> he wasn’t scared of my fire. I wasn’t sure what to do.
+_Iris trembles briefly._
+
+> He wasn’t scared of my fire. I wasn’t sure what to do.
 
 **Bagelwrecker** _(04-Sep-18 04:24 PM)_
 
-> And now I got a contract that prevents me from dying isn't that great?
-
-**RPretribution** _(04-Sep-18 04:24 PM)_
-
-> sanya i eat babie
+> And now I got a contract that prevents me from dying, isn't that great?
 
 **Brakia** _(04-Sep-18 04:24 PM)_
 
-> `What did he ssay?`
-
-**Zander** _(04-Sep-18 04:24 PM)_
-
-> No.
+> What did he sssay?
 
 **Enchantingtable2013** _(04-Sep-18 04:24 PM)_
 
-> Mean things
+> Mean things...
 
 **Jelsafan0** _(04-Sep-18 04:24 PM)_
 
-> That’s great Seth.
+> That’s great, Seth!
 
 **PlasmaPerson** _(04-Sep-18 04:25 PM)_
 
-> he?
+_Chomsky is completely unaware that Dread even existed, thinking Sanya was just going cuckoo this whole time._
+
+> ...he?
 
 **RPretribution** _(04-Sep-18 04:25 PM)_
 
-> hehehe
+> Hehehe.
 
 **Jelsafan0** _(04-Sep-18 04:25 PM)_
 
-> he said he’d come back.
-
-**Zander** _(04-Sep-18 04:25 PM)_
-
-> That just means you're like a fucking god.
+> He said he’d come back.
 
 **Enchantingtable2013** _(04-Sep-18 04:25 PM)_
 
 > But I told him to suck a dick.
 
+**Zander** _(04-Sep-18 04:25 PM)_
+
+_Emmett stares at Seth, shocked._
+
+> No.
+> That just means you're like a fucking god.
+> Which is terrible.
+
 **Bagelwrecker** _(04-Sep-18 04:25 PM)_
 
 > It also makes me insane.
 
-**Zander** _(04-Sep-18 04:25 PM)_
-
-> Which is terrible.
+_Seth lights a spazz cigar._
 
 **Brakia** _(04-Sep-18 04:25 PM)_
 
-> `No, It meanss he'ss after you guyss now.`
+> No, it meansss he'sss after you guysss now.
+
+_Sanya looks down towards the earth, thinking of her dream and feeling dread._
 
 **Enchantingtable2013** _(04-Sep-18 04:25 PM)_
 
 > I don't give a fuck.
+> He can kiss my ass.
 
 **PlasmaPerson** _(04-Sep-18 04:25 PM)_
 
-> uh, that's foreboding.
-
-**Enchantingtable2013** _(04-Sep-18 04:25 PM)_
-
-> He can kiss my ass.
+> Uh, that's foreboding.
 
 **Brakia** _(04-Sep-18 04:25 PM)_
 
-> `Thiss iss bad thiss iss sso bad.`
+> Thiss iss bad, thiss iss sso bad.
 
 **Jelsafan0** _(04-Sep-18 04:25 PM)_
 
-> Great. I always wanted to be pursued by a literal God.
+> Great. I always wanted to be pursued by a literal god.
 
-**Enchantingtable2013** _(04-Sep-18 04:25 PM)_
-
-> Due to having 1 agility -Zander 2018
+_Iris says this without any change in tone, making it unclear if she's sarcastic or not._
 
 **PlasmaPerson** _(04-Sep-18 04:25 PM)_
 
-> does he burn?
+_Chomsky pauses for a moment, using 100% of his brainpower to think of a solution._
 
-**Bagelwrecker** _(04-Sep-18 04:26 PM)_
-
-> Anyways I gotta go have sex now bye
+> Does he burn?
 
 **Brakia** _(04-Sep-18 04:26 PM)_
 
-> `No, he doessn't burn. He'ss a god.`
+> No, he doessn't burn. He'sss a god.
 
 **Enchantingtable2013** _(04-Sep-18 04:26 PM)_
 
-> Me too Iris!
+> Me too, Iris!
+
+_Matieu daydreams about Kleux for a moment._
 
 **Jelsafan0** _(04-Sep-18 04:26 PM)_
 
@@ -4226,7 +4129,11 @@ t!8ball do the people who just woke up do the fortnite dance really violently
 
 **Bagelwrecker** _(04-Sep-18 04:26 PM)_
 
-> Also, occasionally I have to fuck my wife, the goddess of death, which will require me to die.
+> Also, occasionally I have to fuck my wife, the Goddess of Death, which will require me to die.
+
+_Seth says this nonchalantly, like it's nothing._
+
+> Anyways, I gotta go have sex now. Bye.
 
 **RPretribution** _(04-Sep-18 04:26 PM)_
 
