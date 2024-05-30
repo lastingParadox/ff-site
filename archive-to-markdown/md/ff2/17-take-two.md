@@ -4,17 +4,6 @@ t!8ball Does Emmett bleat?
 
 **Tatsumaki** _(04-Sep-18 02:17 PM)_
 
-<<<<<<< Updated upstream
-> 🎱 | As I see it, yes, Zander.
-
-**PlasmaPerson** _(04-Sep-18 02:19 PM)_
-
-> t!8ball does Chomsky see the fire and go to investigate?
-
-**Tatsumaki** _(04-Sep-18 02:19 PM)_
-
-> 🎱 | Very doubtful, PlasmaPerson.
-=======
 🎱 | As I see it, yes, Zander.
 
 **PlasmaPerson** _(04-Sep-18 02:19 PM)_
@@ -24,7 +13,6 @@ t!8ball Does Chomsky see the fire and go to investigate?
 **Tatsumaki** _(04-Sep-18 02:19 PM)_
 
 🎱 | Very doubtful, PlasmaPerson.
->>>>>>> Stashed changes
 
 **PlasmaPerson** _(04-Sep-18 02:20 PM)_
 
@@ -32,11 +20,7 @@ t!8ball Does Chomsky see the fire and go to investigate?
 > What happened?
 > Ah, yes. The quicksand.
 
-<<<<<<< Updated upstream
-_Chomsky
-=======
 _Chomsky does not see the cabin fire. He shakes like a dog, and sand flies everywhere._
->>>>>>> Stashed changes
 
 **ProfessorTree** _(04-Sep-18 02:20 PM)_
 
