@@ -59,13 +59,14 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
         () => (loading ? 'transparent' : getCharacterColor(chosenCharacter, colorMode)),
         [chosenCharacter, colorMode, loading]
     );
+    const characterShorthand = useMemo(() => chosenCharacter.toLowerCase().replaceAll(/\s/g, ''), [chosenCharacter]);
 
     // We use dynamic imports to load the avatar image of the character, considering that the images are named after the character's name.
     useEffect(() => {
         const fetchAvatar = async () => {
             try {
                 const response = await import(
-                    `../../assets/images/avatars/${chosenCharacter.toLowerCase().replaceAll(/\s/g, '')}.png`
+                    `../../assets/images/avatars/${characterShorthand}.png`
                 );
                 setAvatar(response.default);
             } catch {
@@ -147,12 +148,8 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                     />
                 ) : (
                     <div className={styles.avatarDiv}>
-                        {/* 
-                            I would like to store the string here as a state or global variable, but can't seem to justify it...
-                            It's only used twice, after all
-                        */}
                         <PixelArtWithOutline
-                            characterImg={chosenCharacter.toLowerCase().replaceAll(/\s/g, '')}
+                            characterImg={characterShorthand}
                             color={characterColor}
                             zoom={4}
                         />
