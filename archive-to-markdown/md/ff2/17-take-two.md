@@ -538,7 +538,7 @@ _Seth stares at the beauty across the heavenly river, and regains his composure.
 
 **Jelsafan0** _(04-Sep-18 02:38 PM)_
 
-`Qrow`: _Qrow's ashes blow away in the wind._
+_`Qrow`: Qrow's ashes blow away in the wind._
 
 **Brakia** _(04-Sep-18 02:38 PM)_
 
@@ -1801,7 +1801,7 @@ _Emmett, in his disbelief, repeats what Seth just admitted to him._
 
 **Brakia** _(04-Sep-18 03:23 PM)_
 
-> Jesssusss you're heavy...
+> Sssheesssh, you're heavy...
 
 _Sanya stretches out her arms and cracks them. Her arms were exhausted from carrying such a heavy robot._
 
@@ -1822,7 +1822,7 @@ _Emmett holds his throat._
 
 _Seth shrugs._
 
-> Not that weird.\*
+> Not that weird.
 
 **PlasmaPerson** _(04-Sep-18 03:23 PM)_
 
@@ -4125,7 +4125,7 @@ _Matieu daydreams about Kleux for a moment._
 
 **Enchantingtable2013** _(04-Sep-18 04:26 PM)_
 
-> _I'm interested in everything you're interested in._
+> I'm interested in everything you're interested in.
 
 **Bagelwrecker** _(04-Sep-18 04:26 PM)_
 
@@ -4137,35 +4137,29 @@ _Seth says this nonchalantly, like it's nothing._
 
 **RPretribution** _(04-Sep-18 04:26 PM)_
 
+_Garrick playfully wails as he flies away._
+
 > Oh noooooₒₒₒₒₒₒₒₒₒ...
 
 **Brakia** _(04-Sep-18 04:27 PM)_
 
-> `Wait... Did i hurt anyone?`
+> Wait... Did I hurt anyone?
 
 **Jelsafan0** _(04-Sep-18 04:27 PM)_
 
-> wow. Got it. I promise I won’t cry.
+> Wow. Got it. I promise I won’t cry.
 
-**WatchfulDrake** _(04-Sep-18 04:27 PM)_
-
-> it's updated so many times wtf
+_Iris grits her teeth, bearing through her shock and germinating trauma._
 
 **ProfessorTree** _(04-Sep-18 04:27 PM)_
 
-> `You almost got yourself killed.`
+> You almost got yourself killed.
 
-**PlasmaPerson** _(04-Sep-18 04:27 PM)_
-
-> ฯθ|Ω©§μ¬Г^
+_Kyle says this with a strong air of overconfidence._
 
 **Jelsafan0** _(04-Sep-18 04:27 PM)_
 
-> nah I think I talked enough to make him not hurt anyone.
-
-**WatchfulDrake** _(04-Sep-18 04:27 PM)_
-
-> 10th time now
+> Nah... I think I talked enough to make him not hurt anyone.
 
 **Zander** _(04-Sep-18 04:27 PM)_
 
@@ -4173,20 +4167,27 @@ _Seth says this nonchalantly, like it's nothing._
 
 **Jelsafan0** _(04-Sep-18 04:27 PM)_
 
-> we’re all unharmed.
-> you could always ask someone to stretch your spine, Emmett!
+> We’re all unharmed.
+
+_Iris looks down at Emmett, who she towers over even more than before._
+
+> You could always ask someone to stretch your spine, Emmett!
 
 **PlasmaPerson** _(04-Sep-18 04:28 PM)_
 
-> good. Now we can all call you shortie.
+> Good. Now we can all call you shortie.
 
 **RPretribution** _(04-Sep-18 04:28 PM)_
 
-> Me mudaré a Brasil y cambiaré mi nombre a Galtero. Él no puede lastimarme allí.
+> ŵȮȃI¤ Ȍƌ♽☇rá ♪⚋¶ă ☢Ù§♾ȥÄ☫. «ŶÆ☪ǅ¯ɈĖmãī ĀǡP♾⚙¬ PǨȜ ☙Ʈź.
+
+_Translation: I will move to Mars and change my name to Galtero. He can't hurt me there._
 
 **Brakia** _(04-Sep-18 04:28 PM)_
 
-> `Ssomething feelss wrong. He wouldn't leave without getting ssomething he wanted.`
+_Sanya feels a chill down her spine._
+
+> Ssomething feelss wrong. He wouldn't leave without getting ssomething he wanted.
 
 **Zander** _(04-Sep-18 04:28 PM)_
 
@@ -4194,26 +4195,17 @@ _Seth says this nonchalantly, like it's nothing._
 
 **Jelsafan0** _(04-Sep-18 04:28 PM)_
 
-> no.
+_Iris compares her height with Sanya's to see if the Floran has grown any taller._
+
+> No...
 
 **PlasmaPerson** _(04-Sep-18 04:29 PM)_
 
-> well, he wanted to kill you, I think.
+> Well, he wanted to kill you, I think.
 
 **Brakia** _(04-Sep-18 04:29 PM)_
 
-> `I need to make ssure everythingss alriight. Doess anyone have a mirror?`
-
-**Jelsafan0** _(04-Sep-18 04:29 PM)_
-
-t!8ball does Iris have a mirror?
-
-**Tatsumaki** _(04-Sep-18 04:29 PM)_
-
-🎱 | Cannot predict now,
-
-> Jelsafan0
-> .
+> I need to make ssure everythingss alriight. Doess anyone have a mirror?
 
 **Jelsafan0** _(04-Sep-18 04:30 PM)_
 
@@ -4221,33 +4213,33 @@ t!8ball does Iris have a mirror?
 
 **Tatsumaki** _(04-Sep-18 04:30 PM)_
 
-🎱 | Outlook good,
-
-> Jelsafan0
-> .
+🎱 | Outlook good, Jelsafan0.
 
 **Jelsafan0** _(04-Sep-18 04:30 PM)_
 
-> here.
+_Iris hands Sanya the mirror, not noticing the shaking of her hands._
+
+> Here.
 
 **Brakia** _(04-Sep-18 04:30 PM)_
 
-> `My flower!`
+_Sanya scrutinizes her reflection, noticing a change in her flower's pigment._
+
+> My flower!
 
 **PlasmaPerson** _(04-Sep-18 04:30 PM)_
 
-> why is it black now?
+> Why is it black now?
+
+_Chomsky grimaces, thinking he or Iris may have accidentally charred Sanya's head during the scuffle._
 
 **Bagelwrecker** _(04-Sep-18 04:30 PM)_
 
-t!8ball does everything go back to normal and everyone makes up?
+t!8ball Does everything go back to normal and everyone makes up?
 
 **Tatsumaki** _(04-Sep-18 04:30 PM)_
 
-🎱 | Don't count on it,
-
-> Bagelwrecker
-> .
+🎱 | Don't count on it, Bagelwrecker.
 
 **RPretribution** _(04-Sep-18 04:31 PM)_
 
@@ -4255,31 +4247,25 @@ t!8ball does everything go back to normal and everyone makes up?
 
 **Brakia** _(04-Sep-18 04:31 PM)_
 
-> `It doessn't ssmell like vanilla anymore... It ssmells like Ssulphur.`
+> It doessn't sssmell like vanilla anymore... It sssmells like sssulphur.
 
 **Jelsafan0** _(04-Sep-18 04:31 PM)_
 
 > I’m gonna hazard a guess and say that’s bad.
 
-**Enchantingtable2013** _(04-Sep-18 04:31 PM)_
-
-> where's matieu atm
-
 **PlasmaPerson** _(04-Sep-18 04:31 PM)_
 
-> um, sulphur is very flammable.
-> _Chomsky steps away_
+> Umm, sulphur is very flammable.
+
+_Chomsky steps away, feeling unusually self-aware of his destructive tendencies._
 
 **ProfessorTree** _(04-Sep-18 04:31 PM)_
 
-t!8ball does the episode stop?
+t!8ball Does the episode stop?
 
 **Tatsumaki** _(04-Sep-18 04:31 PM)_
 
-🎱 | My reply is no,
-
-> ProfessorTree
-> .
+🎱 | My reply is no, ProfessorTree.
 
 **Zander** _(04-Sep-18 04:32 PM)_
 
@@ -4287,148 +4273,52 @@ t!8ball Does everyone make out instead?
 
 **Tatsumaki** _(04-Sep-18 04:32 PM)_
 
-🎱 | Without a doubt,
-
-> Zander
-> .
+🎱 | Without a doubt, Zander.
 
 **Enchantingtable2013** _(04-Sep-18 04:32 PM)_
 
-> AHHH IT'S AN OOF!!!
+_Matieu looks over by chance towards the still-burning hut fire, and sees something within the forest..._
 
-**Bagelwrecker** _(04-Sep-18 04:32 PM)_
-
-t!roll d10
-
-**Enchantingtable2013** _(04-Sep-18 04:32 PM)_
-
-> (Ogre Orgy Fest)
-
-**Bagelwrecker** _(04-Sep-18 04:32 PM)_
-
-t!roll d10
-
-**Tatsumaki** _(04-Sep-18 04:32 PM)_
-
-> [
->
-> > d10
-> > : 4]
-
-In the end, the result was:
-4
-
-**Enchantingtable2013** _(04-Sep-18 04:33 PM)_
-
-> oH yeaH Add ThaT AcTiOn
-
-**WatchfulDrake** _(04-Sep-18 04:33 PM)_
-
-> what
-
-**Brakia** _(04-Sep-18 04:33 PM)_
-
-t!roll d10
-
-**Tatsumaki** _(04-Sep-18 04:33 PM)_
-
-> [
->
-> > d10
-> > : 9]
-
-In the end, the result was:
-9
+> AHHH, IT'S AN O.O.F.!!!
+> That is, an ogre orgy fest.
 
 **Zander** _(04-Sep-18 04:33 PM)_
 
-t!roll d10
-
-**Tatsumaki** _(04-Sep-18 04:33 PM)_
-
-> [
->
-> > d10
-> > : 2]
-
-In the end, the result was:
-2
-
-**Enchantingtable2013** _(04-Sep-18 04:33 PM)_
-
-> 10 sex scenes later
-
-**RPretribution** _(04-Sep-18 04:33 PM)_
-
-t!roll 10
-
-**Tatsumaki** _(04-Sep-18 04:33 PM)_
-
-> Invalid formatting in
-> :
-> 10
-> .
-
-ex:
-t!roll d20
-or
-t!roll 5d10+3
-
-**RPretribution** _(04-Sep-18 04:33 PM)_
-
-t!roll d10
-t!roll d10
-
-**Tatsumaki** _(04-Sep-18 04:33 PM)_
-
-> [
->
-> > d10
-> > : 6]
-
-In the end, the result was:
-6
-
-**WatchfulDrake** _(04-Sep-18 04:33 PM)_
-
-> also it's still updating no matter what I do
+_Emmett, feeling suddenly enchanted by the O.O.F., begins approaching the distressed Sanya with a kissy-kissy face._ 
 
 **Brakia** _(04-Sep-18 04:34 PM)_
 
-> `Don't touch me.`
+_Sanya places one hand on Emmett's head and holds him away at arm's length._
 
-**Jelsafan0** _(04-Sep-18 04:34 PM)_
-
-> this again?
+> Don't touch me.
 
 **RPretribution** _(04-Sep-18 04:34 PM)_
 
-t!8ball does garrick fee
+t!8ball Does Garrick feel anything?
 
 **Tatsumaki** _(04-Sep-18 04:34 PM)_
 
-🎱 | Don't count on it,
-
-> RPretribution
-> .
-
-**Enchantingtable2013** _(04-Sep-18 04:34 PM)_
-
-> lol iris gets raped by Seth
+🎱 | Don't count on it, RPretribution.
 
 **Bagelwrecker** _(04-Sep-18 04:34 PM)_
 
 > Didn't know you were into kissing the freshly revived.
 
+_Seth gives a hearty laugh like a dad, seeing the two bickering._
+
 **Zander** _(04-Sep-18 04:34 PM)_
+
+_Emmett squeezes his face above Sanya's palm and pouts._
 
 > Seth told me to make out with you.
 
 **Brakia** _(04-Sep-18 04:34 PM)_
 
-> `Go away.`
+> Go away.
 
 **RPretribution** _(04-Sep-18 04:34 PM)_
+
+_Garrick looks up from the bag of stale chips he's been munching on._
 
 > What's going on?
 
@@ -4438,18 +4328,15 @@ t!8ball Does Sanya walk away from the kissing orgy?
 
 **Tatsumaki** _(04-Sep-18 04:35 PM)_
 
-🎱 | As I see it, yes,
-
-> Brakia
-> .
+🎱 | As I see it, yes, Brakia.
 
 **Jelsafan0** _(04-Sep-18 04:35 PM)_
 
-> ...
+_Iris stands silent, baffled, and disgusted._
 
 **Zander** _(04-Sep-18 04:35 PM)_
 
->
+_Emmett flails his arms ahead of him, trying to reach Sanya's chest._
 
 **Enchantingtable2013** _(04-Sep-18 04:35 PM)_
 
@@ -4457,55 +4344,10 @@ t!8ball Does Emmett start making out with Maia?
 
 **Tatsumaki** _(04-Sep-18 04:35 PM)_
 
-🎱 | Signs point to yes,
-
-> Enchantingtable2013
-> .
-
-**Enchantingtable2013** _(04-Sep-18 04:35 PM)_
-
-> Du it
+🎱 | Signs point to yes, Enchantingtable2013.
 
 **Brakia** _(04-Sep-18 04:35 PM)_
 
-> `You guys have fun`
+_Sanya, focusing on her current flower conundrum, pushes Emmett away and towards Iris._
 
-**Enchantingtable2013** _(04-Sep-18 04:35 PM)_
-
-> idgaf
-
-**PlasmaPerson** _(04-Sep-18 04:36 PM)_
-
-t!8ball does trey use the chicken one last time really loud to end the episode
-
-**Tatsumaki** _(04-Sep-18 04:36 PM)_
-
-🎱 | Yes, definitely,
-
-> PlasmaPerson
-> .
-
-**Brakia** _(04-Sep-18 04:36 PM)_
-
-> @RPretribution
-> @RPretribution
-
-**Enchantingtable2013** _(04-Sep-18 04:37 PM)_
-
-> Emmett eats maia's butt for the whole episode
-
-**Zander** _(04-Sep-18 04:37 PM)_
-
-> Pinned a message.
-
-**ProfessorTree** _(04-Sep-18 04:37 PM)_
-
-> eat is
-
-**Zander** _(04-Sep-18 04:37 PM)_
-
-> Or is it the opposite way?
-
-**Enchantingtable2013** _(04-Sep-18 04:37 PM)_
-
-> Irl it's the opposite way
+> You guys have fun.

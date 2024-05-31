@@ -234,7 +234,7 @@ _Ibraxas gets up from his seat, having gotten his beer-opening arm and beer can.
 
 **Bagelwrecker** _(05-Jul-18 05:15 PM)_
 
-\*Seth yawns.8
+_Seth yawns._
 
 > I doubt it. Probably a space siren, Emmett.
 

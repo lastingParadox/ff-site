@@ -1,31 +1,34 @@
 {
     "title": "Siren Squoatlings... in Space!",
-    "episode_number": 8,
+    "episode_number": "8",
     "short_desc": "The crew relaxes in deep space, chatting with each other and witnessing space sirens.",
     "blocks": [
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:00 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Emmett take some of Maia's celestial grass?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:00 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:00 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Likely yes, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:00 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:02 PM",
             "content": [
                 {
                     "type": "action",
@@ -35,23 +38,23 @@
                     "type": "quote",
                     "text": "Much better..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:02 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "How much longer?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:02 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:02 PM",
             "content": [
                 {
                     "type": "action",
@@ -61,12 +64,12 @@
                     "type": "quote",
                     "text": "Till'?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:02 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:02 PM",
             "content": [
                 {
                     "type": "action",
@@ -76,45 +79,45 @@
                     "type": "quote",
                     "text": "You feeling good now?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:02 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'm as fine as a fiddle."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:02 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:03 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "That's good."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:03 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:03 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We'll be arriving at Rawny's in about fifteen hours."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:03 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:03 PM",
             "content": [
                 {
                     "type": "action",
@@ -124,12 +127,12 @@
                     "type": "quote",
                     "text": "You're joking right?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:03 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:04 PM",
             "content": [
                 {
                     "type": "action",
@@ -139,12 +142,12 @@
                     "type": "quote",
                     "text": "We're in deep space right now."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:04 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:04 PM",
             "content": [
                 {
                     "type": "quote",
@@ -154,56 +157,56 @@
                     "type": "action",
                     "text": "Seth sits down in a lounge chair and makes himself comfortable."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:04 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:04 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Lucian go for space walk while attached to ship?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:04 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:04 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Wait to ask this again, Arky."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:04 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:05 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "It's been a while since we've been in deep space, huh?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:05 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:05 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Fifteen hours, huh? I guess i'll get comfy."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:05 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:05 PM",
             "content": [
                 {
                     "type": "quote",
@@ -221,23 +224,23 @@
                     "type": "quote",
                     "text": "Just really dark."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:05 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:05 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Get used to not having space-link by the way."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:05 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:05 PM",
             "content": [
                 {
                     "type": "action",
@@ -247,34 +250,34 @@
                     "type": "quote",
                     "text": "Isolated."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:05 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:06 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Ibraxas get comfy?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:06 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:06 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | YES, Brakia."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:06 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:07 PM",
             "content": [
                 {
                     "type": "quote",
@@ -292,34 +295,34 @@
                     "type": "action",
                     "text": "Ibraxas starts to screw off his arm."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:07 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:07 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Seth look in the fridge?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:07 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:07 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Y35, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:07 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:07 PM",
             "content": [
                 {
                     "type": "action",
@@ -329,12 +332,12 @@
                     "type": "quote",
                     "text": "Any of you want a beer?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:07 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:07 PM",
             "content": [
                 {
                     "type": "quote",
@@ -344,12 +347,12 @@
                     "type": "quote",
                     "text": "And sure."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:07 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:07 PM",
             "content": [
                 {
                     "type": "quote",
@@ -359,34 +362,34 @@
                     "type": "action",
                     "text": "Lucian feels his arm, a bit paranoid of the looming void outside."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:07 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:07 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Alright."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:07 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:08 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "It can if I don't tune it up. And I'll take a beer as well."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:08 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:08 PM",
             "content": [
                 {
                     "type": "quote",
@@ -404,12 +407,12 @@
                     "type": "quote",
                     "text": "If you want a beer, get up and get it."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:08 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:08 PM",
             "content": [
                 {
                     "type": "quote",
@@ -427,23 +430,23 @@
                     "type": "quote",
                     "text": "I'll be right back."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:08 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:09 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I was a bartender thirty years ago, not going to be one again."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:09 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:09 PM",
             "content": [
                 {
                     "type": "quote",
@@ -457,12 +460,12 @@
                     "type": "quote",
                     "text": "Thanks."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:09 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:11 PM",
             "content": [
                 {
                     "type": "action",
@@ -472,12 +475,12 @@
                     "type": "quote",
                     "text": "Ya' know, I miss being on my planet. The ladies loved me there."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:11 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:12 PM",
             "content": [
                 {
                     "type": "action",
@@ -487,45 +490,45 @@
                     "type": "quote",
                     "text": "Last I heard, my planet was destroyed by the Llamanians."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:12 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:12 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I would've stopped it if I could."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:12 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:12 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Emmett check outside the window?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:12 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:12 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Arky says yes, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:12 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:13 PM",
             "content": [
                 {
                     "type": "quote",
@@ -535,34 +538,34 @@
                     "type": "action",
                     "text": "Lucian sits back down."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:13 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:13 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!choose Emmett sees Space Sirens | Emmett finds that they're heading into a very dusty and cloudy area | Emmett sees space rubble of a deteriorating ship"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:13 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:13 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🤔 | Zander, I pick Emmett sees Space Sirens!"
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:13 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:14 PM",
             "content": [
                 {
                     "type": "quote",
@@ -572,12 +575,12 @@
                     "type": "action",
                     "text": "Seth downs about half of the can."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:14 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:14 PM",
             "content": [
                 {
                     "type": "action",
@@ -591,12 +594,12 @@
                     "type": "action",
                     "text": "Emmett's tail starts wagging."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:14 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:15 PM",
             "content": [
                 {
                     "type": "action",
@@ -606,49 +609,49 @@
                     "type": "quote",
                     "text": "What?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:15 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:15 PM",
             "content": [
                 {
-                    "type": "other",
-                    "text": "\\*Seth yawns.8"
+                    "type": "action",
+                    "text": "Seth yawns."
                 },
                 {
                     "type": "quote",
                     "text": "I doubt it. Probably a space siren, Emmett."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:15 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:15 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "There's an elf, a squoatling, a tiefling, and a gaseous being all outside the ship."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:15 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:16 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I banged like ten of those, and let me tell you being cursed for ten years isn't fun."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:16 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:16 PM",
             "content": [
                 {
                     "type": "action",
@@ -658,12 +661,12 @@
                     "type": "quote",
                     "text": "None of those are out there. They are all just space sirens."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:16 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:16 PM",
             "content": [
                 {
                     "type": "action",
@@ -673,23 +676,23 @@
                     "type": "quote",
                     "text": "Cursed?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:16 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:16 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Oh yeah."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:16 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:16 PM",
             "content": [
                 {
                     "type": "action",
@@ -699,12 +702,12 @@
                     "type": "quote",
                     "text": "Ignore them, I figure."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:16 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:16 PM",
             "content": [
                 {
                     "type": "quote",
@@ -714,12 +717,12 @@
                     "type": "quote",
                     "text": "If you look in their eyes, you're already cursed."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:16 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:18 PM",
             "content": [
                 {
                     "type": "action",
@@ -729,12 +732,12 @@
                     "type": "quote",
                     "text": "To be honest, they look kinda' hot."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:18 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:18 PM",
             "content": [
                 {
                     "type": "quote",
@@ -744,12 +747,12 @@
                     "type": "quote",
                     "text": "Remember Goplor Starrlord?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:18 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:18 PM",
             "content": [
                 {
                     "type": "action",
@@ -759,12 +762,12 @@
                     "type": "quote",
                     "text": "He's overrated."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:18 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:18 PM",
             "content": [
                 {
                     "type": "quote",
@@ -778,23 +781,23 @@
                     "type": "quote",
                     "text": "The early days had some of the best, Emmett."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:18 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:19 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Take it they're nasty?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:19 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:19 PM",
             "content": [
                 {
                     "type": "action",
@@ -804,12 +807,12 @@
                     "type": "quote",
                     "text": "My dick has some of the best too. Don't see me boasting about it."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:19 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:19 PM",
             "content": [
                 {
                     "type": "action",
@@ -831,34 +834,34 @@
                     "type": "quote",
                     "text": "They tend to like poking holes in space suits."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:19 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:20 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Is sex all you think of, Seth?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:20 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:21 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "No."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:21 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:21 PM",
             "content": [
                 {
                     "type": "action",
@@ -868,12 +871,12 @@
                     "type": "quote",
                     "text": "They look like they're both male and female though."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:21 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:21 PM",
             "content": [
                 {
                     "type": "action",
@@ -887,45 +890,45 @@
                     "type": "action",
                     "text": "Seth glares at Lucian, who shrinks even more in his seat."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:21 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:21 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Kind-of a turnoff."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:21 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:22 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Intersex Sirens go for a pretty penny."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:22 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:22 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I don't think we should bring them aboard, price or not."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:22 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:22 PM",
             "content": [
                 {
                     "type": "action",
@@ -935,78 +938,78 @@
                     "type": "quote",
                     "text": "Hey Seth. Remember that \"squoatling\" we got onboard once?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:22 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:22 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Lucian go on a spacewalk to observe the creatures?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:22 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:22 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Maybe, Arky."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:22 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:22 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Mhmm."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:22 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:23 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Ibraxas tune up his arm?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:23 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:23 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yay, Brakia."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:23 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "It was a shame she turned out to be a llama."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:23 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:23 PM",
             "content": [
                 {
                     "type": "action",
@@ -1016,12 +1019,12 @@
                     "type": "quote",
                     "text": "I mean, although she was my enemy, I still liked her."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:23 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:23 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1035,23 +1038,23 @@
                     "type": "quote",
                     "text": "It made me feel like a proud father."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:23 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:25 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I just rigged up my arm with this old portable scanner, and I think it worked? I want to try it out."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:25 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:25 PM",
             "content": [
                 {
                     "type": "action",
@@ -1061,12 +1064,12 @@
                     "type": "quote",
                     "text": "Scan me, amigo."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:25 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:25 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1076,34 +1079,34 @@
                     "type": "action",
                     "text": "Ibraxas scans Emmett, and the arm emits a loud voice."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:25 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas's Arm",
+            "date": "05-Jul-18 05:25 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "{Race: Squoatling}"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas's Arm",
-            "date": "05-Jul-18 05:25 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:25 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Hey, it works."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:25 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:27 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1113,12 +1116,12 @@
                     "type": "quote",
                     "text": "It's titled Emmett's First Time."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:27 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:27 PM",
             "content": [
                 {
                     "type": "action",
@@ -1128,34 +1131,34 @@
                     "type": "quote",
                     "text": "I prefer not to show everyone else my dignity..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:27 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:28 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "It even has the part where I bust into your room and shoot her."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:28 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:29 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "And then I ended up crying over my dead girlfriend..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:29 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:29 PM",
             "content": [
                 {
                     "type": "action",
@@ -1165,12 +1168,12 @@
                     "type": "quote",
                     "text": "Then we unmasked her, Scooby Doo Style."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:29 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:30 PM",
             "content": [
                 {
                     "type": "action",
@@ -1180,34 +1183,34 @@
                     "type": "quote",
                     "text": "I kind-of didn't care, really."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:30 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:30 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Well, I'm going for a space walk, if I ask to be let in, let me in."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:30 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:30 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "She was a nice lady."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:30 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:30 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1217,12 +1220,12 @@
                     "type": "quote",
                     "text": "And shot me in the foot."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:30 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:30 PM",
             "content": [
                 {
                     "type": "action",
@@ -1232,12 +1235,12 @@
                     "type": "quote",
                     "text": "Ahhhh, memories."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:30 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:31 PM",
             "content": [
                 {
                     "type": "action",
@@ -1247,23 +1250,23 @@
                     "type": "quote",
                     "text": "You made me lick up the fluids afterwards. Disgusting."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:31 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:32 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Space rule 12 : Don't shoot unless you're ready to clean."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:32 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:32 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1281,34 +1284,34 @@
                     "type": "quote",
                     "text": "It's like... necrophilia."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:32 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:33 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "But hotter."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:33 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:33 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I always knew you were a furry."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:33 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:34 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1318,12 +1321,12 @@
                     "type": "quote",
                     "text": "That might include furry women."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:34 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:34 PM",
             "content": [
                 {
                     "type": "action",
@@ -1333,12 +1336,12 @@
                     "type": "quote",
                     "text": "Keep your hands off of mine."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:34 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:34 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1348,23 +1351,23 @@
                     "type": "command",
                     "text": "@Magic8Ball Does Seth look through a photo album titled, \"Women I banged\"?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:34 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:35 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Nah, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:35 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:35 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1374,34 +1377,34 @@
                     "type": "action",
                     "text": "Ibraxas scans Seth."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:35 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "What is it?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:36 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas's Arm",
+            "date": "05-Jul-18 05:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "{Race: Elf}"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas's Arm",
-            "date": "05-Jul-18 05:36 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:36 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1411,12 +1414,12 @@
                     "type": "quote",
                     "text": "It's really quick."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:36 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:36 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1438,12 +1441,12 @@
                     "type": "quote",
                     "text": "Not me."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:36 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:38 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1453,12 +1456,12 @@
                     "type": "action",
                     "text": "Ibraxas finds a port on the scanner and connects it to another port higher up on his arm, changing the voice to transmit to only himself."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:38 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:39 PM",
             "content": [
                 {
                     "type": "action",
@@ -1468,45 +1471,45 @@
                     "type": "quote",
                     "text": "Ibraxas, have you ever banged anything?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:39 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:39 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "If you want to deal with a space crab infestation that's up to you."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:39 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:39 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'm like, less than a week old."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:39 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:39 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Between the two of you."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:39 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:40 PM",
             "content": [
                 {
                     "type": "action",
@@ -1516,23 +1519,23 @@
                     "type": "quote",
                     "text": "Not that i can remember, no. Neither of them had a loving enough relationship to warrant sex."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:40 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:40 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You don't always need love."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:40 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:40 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1546,12 +1549,12 @@
                     "type": "quote",
                     "text": "But then someone needs to ruin my love."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:40 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:41 PM",
             "content": [
                 {
                     "type": "action",
@@ -1561,45 +1564,45 @@
                     "type": "quote",
                     "text": "Don't worry we'll find a nice goblin for you soon enough."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:41 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I bet goblins are your fetish."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:41 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I understand love isn't necessary, but without it, I'm just not interested."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:41 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Goblins have good thighs, I'll tell you what."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:41 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:41 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1617,12 +1620,12 @@
                     "type": "quote",
                     "text": "I was drugged."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:41 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:42 PM",
             "content": [
                 {
                     "type": "action",
@@ -1632,34 +1635,34 @@
                     "type": "quote",
                     "text": "Both cooked and uncooked, yum."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:42 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:42 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "That's why things like space sirens don't affect me."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:42 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:42 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I highly doubt that."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:42 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:43 PM",
             "content": [
                 {
                     "type": "action",
@@ -1669,23 +1672,23 @@
                     "type": "quote",
                     "text": "I just see them for what they are."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:43 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:44 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "If I'd not known, I would've probably got them aboard."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:44 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:44 PM",
             "content": [
                 {
                     "type": "action",
@@ -1695,12 +1698,12 @@
                     "type": "quote",
                     "text": "Goblins used to occupy that bar I used to work at all the time."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:44 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:44 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1710,12 +1713,12 @@
                     "type": "quote",
                     "text": "I'm just an oddity."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:44 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:45 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1725,12 +1728,12 @@
                     "type": "quote",
                     "text": "The female goblins used to love me."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:45 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:47 PM",
             "content": [
                 {
                     "type": "action",
@@ -1740,12 +1743,12 @@
                     "type": "quote",
                     "text": "Y'know, I think Maia's a good addition to the crew."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:47 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:47 PM",
             "content": [
                 {
                     "type": "action",
@@ -1759,23 +1762,23 @@
                     "type": "quote",
                     "text": "Me too, Emmett."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:47 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:47 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "This I'm not joking about."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:47 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:48 PM",
             "content": [
                 {
                     "type": "action",
@@ -1785,45 +1788,45 @@
                     "type": "quote",
                     "text": "You know what I think?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:48 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:48 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Hm?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:48 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:48 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Lucian reach for his necklace and remember memories of his sister?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:48 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:48 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | YES, Arky."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:48 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:48 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1833,12 +1836,12 @@
                     "type": "action",
                     "text": "Ibraxas nudges Emmett playfully."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:48 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:49 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1848,23 +1851,23 @@
                     "type": "quote",
                     "text": "I mean, she did JUST join us."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:49 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:49 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You two were too drunk to notice."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:49 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:49 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1878,45 +1881,45 @@
                     "type": "quote",
                     "text": "He gets it from me."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:49 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:49 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "But there was definitely something."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:49 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:49 PM",
             "content": [
                 {
                     "type": "action",
                     "text": "Emmett blushes and keeps to himself bashfully."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:49 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:49 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "And his father."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:49 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:50 PM",
             "content": [
                 {
                     "type": "action",
@@ -1926,23 +1929,23 @@
                     "type": "quote",
                     "text": "I did it Lucy, I'm here!"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:50 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:51 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I was in several wars on my homeplanet. War veterans are very respected where I come from."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:51 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:52 PM",
             "content": [
                 {
                     "type": "action",
@@ -1952,34 +1955,34 @@
                     "type": "quote",
                     "text": "I mean, Maia's an okay person..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:52 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:53 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You just don't feel the same?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:53 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:53 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I think... I don't know."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:53 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:53 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1989,12 +1992,12 @@
                     "type": "quote",
                     "text": "Give him a month or too."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:53 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:54 PM",
             "content": [
                 {
                     "type": "action",
@@ -2004,23 +2007,23 @@
                     "type": "quote",
                     "text": "I mean, we have had some nighttime chats here and there."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:54 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:54 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I see."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:54 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:54 PM",
             "content": [
                 {
                     "type": "action",
@@ -2030,12 +2033,12 @@
                     "type": "quote",
                     "text": "\"Nighttime Chats\"."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:54 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:55 PM",
             "content": [
                 {
                     "type": "action",
@@ -2045,23 +2048,23 @@
                     "type": "quote",
                     "text": "Alright, alright. They're a little more than chats. I know you saw me asleep on her back once."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:55 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:55 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We're fixin' to pass the Space Sirens."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:55 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 05:55 PM",
             "content": [
                 {
                     "type": "action",
@@ -2071,12 +2074,12 @@
                     "type": "quote",
                     "text": "Oh really?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 05:55 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:55 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2090,12 +2093,12 @@
                     "type": "quote",
                     "text": "We're going to be pulling you back in, Lucian."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:55 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:56 PM",
             "content": [
                 {
                     "type": "action",
@@ -2105,12 +2108,12 @@
                     "type": "quote",
                     "text": "Alright"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:56 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:56 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2120,12 +2123,12 @@
                     "type": "action",
                     "text": "Emmett winks."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:56 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:56 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2135,67 +2138,67 @@
                     "type": "command",
                     "text": "@Magic8Ball Does Seth pull Lucian back into the ship?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:56 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:57 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Likely yes, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:57 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:57 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Lucian leave the picture of him and his sister in space befpre going back in?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:57 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:57 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | NO, Arky."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:57 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:58 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Lucian see the sirens and see his sister in each of them?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:58 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 05:58 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | N0, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 05:58 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 05:59 PM",
             "content": [
                 {
                     "type": "action",
@@ -2205,12 +2208,12 @@
                     "type": "quote",
                     "text": "Don't tell her this, but she's really soft."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 05:59 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 05:59 PM",
             "content": [
                 {
                     "type": "action",
@@ -2220,12 +2223,12 @@
                     "type": "quote",
                     "text": "Remember that koala woman we had on our crew at some point?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 05:59 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 05:59 PM",
             "content": [
                 {
                     "type": "action",
@@ -2243,12 +2246,12 @@
                     "type": "quote",
                     "text": "Im sorry I couldn't protect you..."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 05:59 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:00 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2258,12 +2261,12 @@
                     "type": "quote",
                     "text": "We're fixing to pass by the Sirens."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:00 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:00 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2273,12 +2276,12 @@
                     "type": "quote",
                     "text": "Serpile used her for scrap."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:00 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:01 PM",
             "content": [
                 {
                     "type": "action",
@@ -2288,45 +2291,45 @@
                     "type": "quote",
                     "text": "What a waste."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:01 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:01 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Oh, I remember that..."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:01 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:01 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "But Lucy... She's right there!"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:01 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:01 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "She really liked Serpile too."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:01 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:01 PM",
             "content": [
                 {
                     "type": "action",
@@ -2336,34 +2339,34 @@
                     "type": "quote",
                     "text": "Did she?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:01 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:02 PM",
             "content": [
                 {
                     "type": "action",
                     "text": "The holovision turns on by itself, somehow."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:02 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Well she was programmed to, at least."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:02 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:02 PM",
             "content": [
                 {
                     "type": "action",
@@ -2373,12 +2376,12 @@
                     "type": "quote",
                     "text": "What the?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:02 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:02 PM",
             "content": [
                 {
                     "type": "action",
@@ -2388,34 +2391,34 @@
                     "type": "quote",
                     "text": "Oh."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:02 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "News Reporter",
+            "date": "05-Jul-18 06:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We interrupt this program to bring you the hottest space news."
                 }
-            ],
-            "player": "Zander",
-            "character": "News Reporter",
-            "date": "05-Jul-18 06:02 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I love this reporter."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:02 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:02 PM",
             "content": [
                 {
                     "type": "action",
@@ -2425,23 +2428,23 @@
                     "type": "quote",
                     "text": "I'll take a look at the Holovision, see what's causing that."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:02 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:03 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "She always gives the best news."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:03 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:03 PM",
             "content": [
                 {
                     "type": "action",
@@ -2451,89 +2454,89 @@
                     "type": "quote",
                     "text": "You just like looking at her boobs."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:03 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:03 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Best news."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:03 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "News Reporter",
+            "date": "05-Jul-18 06:03 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Vortox-56 has been reported to be 100% squoatling-free as told by the Llamanians, who told Deep Space News of an accident that occurred seven GUYs ago.\""
                 }
-            ],
-            "player": "Zander",
-            "character": "News Reporter",
-            "date": "05-Jul-18 06:03 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:03 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Do the sirens all grab Lucian?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:03 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 06:03 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yeah, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 06:03 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:04 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Lucian cut his arm out?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:04 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 06:04 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Rolling a d20 to determine... Rolled a 2! No, Arky."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 06:04 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "New Reporter",
+            "date": "05-Jul-18 06:04 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "The Llamanians have sent out a few hundred patrol ships to try and eliminate the rest of the squoatling race. They say it is some sort of gambling mishaps they need to settle."
                 }
-            ],
-            "player": "Zander",
-            "character": "New Reporter",
-            "date": "05-Jul-18 06:04 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:05 PM",
             "content": [
                 {
                     "type": "action",
@@ -2543,34 +2546,34 @@
                     "type": "quote",
                     "text": "Could you like, let go?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:05 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:05 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Ibraxas save Lucian?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:05 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 06:05 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Bagelwrecker says no, Brakia."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 06:05 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Siren",
+            "date": "05-Jul-18 06:05 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2580,45 +2583,45 @@
                     "type": "quote",
                     "text": "Come explore space with me."
                 }
-            ],
-            "player": "Sean",
-            "character": "Siren",
-            "date": "05-Jul-18 06:05 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:06 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Lucian, they're not real. Don't listen to them."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:06 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Siren",
+            "date": "05-Jul-18 06:06 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We can be together again like old times."
                 }
-            ],
-            "player": "Sean",
-            "character": "Siren",
-            "date": "05-Jul-18 06:06 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "News Reporter",
+            "date": "05-Jul-18 06:07 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "In addition, Space Disney's Squoatling Week was cut short by the Llamanians. Due to the events that took place during it, hundreds of the last known members of said race were kidnapped by the Llamanians and a video was posted of their execution."
                 }
-            ],
-            "player": "Zander",
-            "character": "News Reporter",
-            "date": "05-Jul-18 06:07 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:07 PM",
             "content": [
                 {
                     "type": "action",
@@ -2628,23 +2631,23 @@
                     "type": "quote",
                     "text": "Lucian hurry up and come in soon. you're pulling us a little towards the asteroid fields behind the sirens."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:07 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:07 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "If your really my sister, then whats the name of your favorite bear i got you?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:07 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Siren",
+            "date": "05-Jul-18 06:08 PM",
             "content": [
                 {
                     "type": "action",
@@ -2654,23 +2657,23 @@
                     "type": "quote",
                     "text": "\"Lucy.\""
                 }
-            ],
-            "player": "Sean",
-            "character": "Siren",
-            "date": "05-Jul-18 06:08 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "News Reporter",
+            "date": "05-Jul-18 06:08 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "\"There have also been multiple reports of people fusing all throughout the galaxy. It is unknown how or why this occurs. The changes are currently irreversible and the conglomerations believe they are a new person entirely."
                 }
-            ],
-            "player": "Zander",
-            "character": "News Reporter",
-            "date": "05-Jul-18 06:08 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:08 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2680,34 +2683,34 @@
                     "type": "command",
                     "text": "@Magic8Ball Does Lucian get free?"
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:08 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 06:08 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Astounding yes, Arky."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 06:08 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:09 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You wanna head to your home planet Emmett?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:09 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:09 PM",
             "content": [
                 {
                     "type": "action",
@@ -2717,56 +2720,56 @@
                     "type": "quote",
                     "text": "It never was your sister. There's no point in asking it any questions. It's just a cruel copy, set out to leech off the poor souls who are overcome by grief. I'm sorry."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:09 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:09 PM",
             "content": [
                 {
                     "type": "action",
                     "text": "Emmett is speechless."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:09 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:10 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Emmett, I know the answer already, but, are you okay?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:10 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:10 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You're the last of your kind now, I guess..."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:10 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "News Reporter",
+            "date": "05-Jul-18 06:13 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Lastly, there have been rumors about a bounty hunting crew traveling through deep space currently. This crew is manned by an outrageously tall elf and a strange human gas thing. The reason why we are broadcasting this is because of them amassing a huge amount of wealth, most importantly the Walt Disney Diamond, and not because I am being held at gunpoint. I am Barbara, and this is Deep Space News."
                 }
-            ],
-            "player": "Zander",
-            "character": "News Reporter",
-            "date": "05-Jul-18 06:13 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:14 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2776,12 +2779,12 @@
                     "type": "action",
                     "text": "Seth and Ibraxas finally pull in Lucian and make sure the hatch is shut."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:14 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:14 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2799,12 +2802,12 @@
                     "type": "action",
                     "text": "Lucian strips the spacesuit and walks off to a... random closet."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:14 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:14 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2818,12 +2821,12 @@
                     "type": "quote",
                     "text": "Emmett, how are you?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:14 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:15 PM",
             "content": [
                 {
                     "type": "action",
@@ -2833,23 +2836,23 @@
                     "type": "quote",
                     "text": "Uhm..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:15 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:15 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We should probably ready our weapons."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:15 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:15 PM",
             "content": [
                 {
                     "type": "action",
@@ -2859,12 +2862,12 @@
                     "type": "quote",
                     "text": "I-I'm the last squoatling then."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:15 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:15 PM",
             "content": [
                 {
                     "type": "action",
@@ -2874,12 +2877,12 @@
                     "type": "quote",
                     "text": "Pirates like to occupy this part of space."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:15 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:16 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2889,12 +2892,12 @@
                     "type": "action",
                     "text": "Ibraxas sighs."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:16 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:18 PM",
             "content": [
                 {
                     "type": "action",
@@ -2908,56 +2911,56 @@
                     "type": "quote",
                     "text": "I still got them."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:18 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:20 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I don't know how to feel right now..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:20 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:20 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You don't have to."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:20 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:20 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I think..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:20 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:20 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You want to know what makes me know how to feel?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:20 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:21 PM",
             "content": [
                 {
                     "type": "action",
@@ -2967,111 +2970,111 @@
                     "type": "quote",
                     "text": "That I'm hungry."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:21 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:21 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Sex and strippers."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:21 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:21 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Ibraxas, we need to get you laid... back."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:21 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:22 PM",
             "content": [
                 {
                     "type": "action",
                     "text": "Ibraxas makes a face like the following. 😐"
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:22 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:22 PM",
             "content": [
                 {
                     "type": "action",
                     "text": "Emmett, having tried to ease his tension, makes a face like the following from his blunder of a joke. 😣"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:22 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I think I'm fine."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:23 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:23 PM",
             "content": [
                 {
                     "type": "action",
                     "text": "Lucian puts the bear back and walks out, looking fine."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:23 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:24 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Emmett find a cake in the fridge?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:24 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 06:24 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Wait to ask this again, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 06:24 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:24 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I think it might be someone's birthday soon..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:24 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:24 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3081,100 +3084,100 @@
                     "type": "quote",
                     "text": "I always forget."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:24 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:25 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I think it was Laav's."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:25 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:25 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Laav's in space prison, isn't he?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:25 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:26 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Oh yeah."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:26 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:26 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Something like that."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:26 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:26 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "He got arrested during our heist, what a shame..."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:26 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:27 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I think it actually is Maia's."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:27 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:27 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Oh."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:27 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:27 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Well she's sleeping through her birthday."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:27 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:28 PM",
             "content": [
                 {
                     "type": "action",
@@ -3184,56 +3187,56 @@
                     "type": "quote",
                     "text": "She has like a birthday every one hundred GUY's."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:28 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:28 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'm sure she won't mind."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:28 PM"
+            ]
         },
         {
+            "player": "Arky",
+            "character": "Lucian",
+            "date": "05-Jul-18 06:29 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "If it's hers, we should see if she doesn't mind."
                 }
-            ],
-            "player": "Arky",
-            "character": "Lucian",
-            "date": "05-Jul-18 06:29 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:29 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "She might be in her sleepwear."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:29 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:30 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Well, that's a bit... problematic."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:30 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:30 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3243,23 +3246,23 @@
                     "type": "command",
                     "text": "@Magic8Ball Does Emmett find that she's in her sleepwear?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:30 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 06:30 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yeah, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 06:30 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:31 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3273,23 +3276,23 @@
                     "type": "quote",
                     "text": "She's sleeping hard though."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:31 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:32 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Then let's wait until tomorrow. We don't want to disturb her."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:32 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:32 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3303,23 +3306,23 @@
                     "type": "quote",
                     "text": "This is rough."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:32 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:32 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We understand."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:32 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:32 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3329,12 +3332,12 @@
                     "type": "quote",
                     "text": "Good night, Emmett."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:32 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Ibraxas",
+            "date": "05-Jul-18 06:33 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3344,65 +3347,62 @@
                     "type": "action",
                     "text": "Ibraxas waves Emmett off and leaves to his cabin."
                 }
-            ],
-            "player": "Brody",
-            "character": "Ibraxas",
-            "date": "05-Jul-18 06:33 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "05-Jul-18 06:33 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Does Emmett end up getting onto his possible crush's back?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "05-Jul-18 06:33 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 06:33 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Likely yes, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 06:33 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:34 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "@Magic8Ball Did Emmett like the taste of it?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:34 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "05-Jul-18 06:34 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Nah, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "05-Jul-18 06:34 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "05-Jul-18 06:35 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Space Rule 42: No extinctions."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "05-Jul-18 06:35 PM"
+            ]
         }
     ]
 }
