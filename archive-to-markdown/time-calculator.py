@@ -1,35 +1,34 @@
 import sys
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
+from collections import defaultdict
 
 def parse_file(filename):
     with open(filename, 'r', encoding='utf-8') as file:
         lines = file.readlines()
 
     datetime_pattern = re.compile(r'_\((\d{2}-\w{3}-\d{2} \d{2}:\d{2} [AP]M)\)_')
-    datetimes = []
+    messages_by_date = defaultdict(list)
 
     for line in lines:
         match = datetime_pattern.search(line)
         if match:
             date_time_str = match.group(1)
             date_time_obj = datetime.strptime(date_time_str, '%d-%b-%y %I:%M %p')
-            datetimes.append(date_time_obj)
-    
-    if not datetimes:
-        return None, None
+            messages_by_date[date_time_obj.date()].append(date_time_obj)
 
-    # Ensure all times are from the same date
-    first_date = datetimes[0].date()
-    filtered_times = [dt for dt in datetimes if dt.date() == first_date]
+    total_duration = timedelta()  # Corrected to use a timedelta object for accumulation
+    date_list = []
 
-    if len(filtered_times) < 2:
-        return None, first_date
+    for date, timestamps in messages_by_date.items():
+        if len(timestamps) >= 2:
+            start_time = min(timestamps)
+            end_time = max(timestamps)
+            duration = end_time - start_time
+            total_duration += duration  # Directly add the timedelta object
+            date_list.append(date)
 
-    start_time = filtered_times[0]
-    end_time = filtered_times[-1]
-
-    return end_time - start_time, first_date
+    return total_duration, date_list
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -37,9 +36,10 @@ if __name__ == "__main__":
         sys.exit(1)
     
     filename = sys.argv[1]
-    result, episode_date = parse_file(filename)
-    if result:
-        total_minutes = result.total_seconds() / 60
-        print(f"Episode is {result} or {total_minutes:.0f} minutes long, and occurs on {episode_date}")
-    else:
-        print("No valid data found or not enough messages from the same date.")
+    total_time, dates = parse_file(filename)
+    total_minutes = total_time.total_seconds() / 60
+
+    print(f"Total time across all dates: {total_minutes:.0f} minutes")
+    print("Dates processed:")
+    for date in dates:
+        print(date.strftime('%d-%b-%Y'))
