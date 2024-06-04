@@ -563,7 +563,7 @@ _Seth slams a fist into the side of the boat, cracking it a bit._
 
 **PlasmaPerson** _(04-Sep-18 02:39 PM)_
 
-> _Chomsky sets the ashes on fire, to no effect_
+_Chomsky sets the ashes on fire, to no effect._
 
 **Bagelwrecker** _(04-Sep-18 02:39 PM)_
 

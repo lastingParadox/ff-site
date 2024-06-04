@@ -785,7 +785,8 @@ _Lodas swipes at the Mickey Mouse Ghost, removing the tranquilizer from his arm 
 **TheBlade** _(28-Jul-18 05:30 PM)_
 
 > Get your dirty hands off me!
-> _Jim hits Lodas repeatedly in the arm but to no avail._
+
+_Jim hits Lodas repeatedly in the arm but to no avail._
 
 **Mr.WobblyShark** _(28-Jul-18 05:30 PM)_
 

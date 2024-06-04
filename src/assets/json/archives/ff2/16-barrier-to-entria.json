@@ -6142,8 +6142,8 @@
             "date": "03-Sep-18 03:41 PM",
             "content": [
                 {
-                    "type": "quote",
-                    "text": "_In the hut, there's a hooded figure steadily rocking in a rocking chair in front of the cauldron. The mushroomms Emmett consumed continued to take their toll, his eyes showing him his mother in the rocking chair._"
+                    "type": "action",
+                    "text": "In the hut, there's a hooded figure steadily rocking in a rocking chair in front of the cauldron. The mushroomms Emmett consumed continued to take their toll, his eyes showing him his mother in the rocking chair."
                 }
             ]
         },
@@ -7627,8 +7627,8 @@
             "date": "03-Sep-18 04:07 PM",
             "content": [
                 {
-                    "type": "quote",
-                    "text": "The hooded figure sticks the bottle in Emmett's mouth while steadily giving Jim a slow back massage._"
+                    "type": "action",
+                    "text": "The hooded figure sticks the bottle in Emmett's mouth while steadily giving Jim a slow back massage."
                 }
             ]
         },
@@ -8415,8 +8415,8 @@
             "date": "03-Sep-18 04:19 PM",
             "content": [
                 {
-                    "type": "quote",
-                    "text": "The hooded figure sticks Emmett into the bubbling cauldron.\\*"
+                    "type": "action",
+                    "text": "The hooded figure sticks Emmett into the bubbling cauldron."
                 }
             ]
         },

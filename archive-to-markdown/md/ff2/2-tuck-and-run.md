@@ -649,7 +649,8 @@ t!8ball Do we begin walking to our mission site?
 **Brakia** _(23-Jun-18 07:56 PM)_
 
 > Screw it, I'm just falling asleep right here.
-> _Serpile proceeds to fall asleep in a maintenance tunnel._
+
+_Serpile proceeds to fall asleep in a maintenance tunnel._
 
 **Zander** _(23-Jun-18 07:56 PM)_
 
@@ -1025,7 +1026,9 @@ t!choose 2 Sentries | 3 Sentries | 4 Sentries
 **Enchantingtable2013** _(23-Jun-18 08:15 PM)_
 
 > Just setting up machinery...
-> _Matthias speaks in a singing tone to himself._
+
+_Matthias speaks in a singing tone to himself._
+
 > La dee da dee da...
 
 **Zander** _(23-Jun-18 08:15 PM)_
@@ -1142,7 +1145,7 @@ t!8ball Does Seth quickly have sex with the president's daughter?
 
 **Bagelwrecker** _(23-Jun-18 08:18 PM)_
 
-> _Seth proceeds to try and have sex with the President's Daughter._
+_Seth proceeds to try and have sex with the President's Daughter._
 
 **Zander** _(23-Jun-18 08:19 PM)_
 
@@ -1460,10 +1463,13 @@ _Emmett turns his comms back on._
 > Alright Math, lets head back to the room.
 
 **Enchantingtable2013** _(23-Jun-18 08:37 PM)_
+
 _Matthias speaks into his comms watch._
 
 > Have fun, Emmett.
-> _Matthias turns his head to Seth._
+
+_Matthias turns his head to Seth._
+
 > Sounds good man.
 
 **Bagelwrecker** _(23-Jun-18 08:37 PM)_
@@ -2203,7 +2209,8 @@ t!8ball Do I now switch Emmett's drink for water?
 **Zander** _(23-Jun-18 09:28 PM)_
 
 > Not my problem.
-> _Emmett smirks and wiggles his eyebrows at her._
+
+_Emmett smirks and wiggles his eyebrows at her._
 
 **Bagelwrecker** _(23-Jun-18 09:28 PM)_
 
@@ -2453,7 +2460,8 @@ t!8ball Do I knockout Jacob?
 **Master JRM** _(23-Jun-18 09:40 PM)_
 
 > So my friend over there says you have really really really really really nice tits.
-> _Jacob smiles stupidly at the minotaur before being hit to the ground by Seth._
+
+_Jacob smiles stupidly at the minotaur before being hit to the ground by Seth._
 
 **Bagelwrecker** _(23-Jun-18 09:40 PM)_
 
@@ -2539,7 +2547,8 @@ t!8ball Do I pull out some tubing and begin to siphon gasoline out of his stomac
 **Master JRM** _(23-Jun-18 09:45 PM)_
 
 > Fuck you Seth.
-> _Jacob pulls down his pants to ejaculate on the floor._
+
+_Jacob pulls down his pants to ejaculate on the floor._
 
 **Enchantingtable2013** _(23-Jun-18 09:45 PM)_
 
@@ -2934,7 +2943,9 @@ t!8ball Does Emmett grab ahold onto the ship?
 **Master JRM** _(23-Jun-18 10:24 PM)_
 
 > Anus dolphin after the shortest pregnancy ever dies during delivery.
-> _Jacob moans and mourns loudly._
+
+_Jacob moans and mourns loudly._
+
 > But the delivery was successful.
 
 **Zander** _(23-Jun-18 10:25 PM)_

@@ -1839,7 +1839,9 @@ t!roll 5d10+3
 
 **PlasmaPerson** _(08-Sep-18 04:49 PM)_
 
-> _pulls out family photo_ consider yourself lucky. At least you get good memories.
+_Chomsky pulls out family photo._
+
+> Consider yourself lucky. At least you get good memories.
 
 **TheBlade** _(08-Sep-18 04:49 PM)_
 

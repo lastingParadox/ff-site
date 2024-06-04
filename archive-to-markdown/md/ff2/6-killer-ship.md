@@ -2558,7 +2558,7 @@ _Maia throws up purple slime into the bucket._
 
 **Zander** _(29-Jun-18 06:25 PM)_
 
-> _Emmett backs away and grimaces._
+_Emmett backs away and grimaces._
 
 **Mica** _(29-Jun-18 06:26 PM)_
 

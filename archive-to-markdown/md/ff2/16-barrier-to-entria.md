@@ -2346,7 +2346,7 @@ t!8ball Does Kyle locate Sanya and bring her back to the group?
 
 **Zander** _(03-Sep-18 03:41 PM)_
 
-> _In the hut, there's a hooded figure steadily rocking in a rocking chair in front of the cauldron. The mushroomms Emmett consumed continued to take their toll, his eyes showing him his mother in the rocking chair._
+_In the hut, there's a hooded figure steadily rocking in a rocking chair in front of the cauldron. The mushroomms Emmett consumed continued to take their toll, his eyes showing him his mother in the rocking chair._
 
 **Jelsafan0** _(03-Sep-18 03:41 PM)_
 
@@ -2919,7 +2919,7 @@ _Kyle, tired of standing around with Iris and doing nothing, calls into Emmett's
 
 **Zander** _(03-Sep-18 04:07 PM)_
 
-> _`Hooded Figure`: The hooded figure sticks the bottle in Emmett's mouth while steadily giving Jim a slow back massage._
+_`Hooded Figure`: The hooded figure sticks the bottle in Emmett's mouth while steadily giving Jim a slow back massage._
 
 **Bagelwrecker** _(03-Sep-18 04:08 PM)_
 
@@ -3222,7 +3222,7 @@ t!8ball Does Kyle kick down the door?
 
 **Zander** _(03-Sep-18 04:19 PM)_
 
-> `Hooded Figure`: The hooded figure sticks Emmett into the bubbling cauldron.\*
+_`Hooded Figure`: The hooded figure sticks Emmett into the bubbling cauldron._
 
 **ProfessorTree** _(03-Sep-18 04:19 PM)_
 

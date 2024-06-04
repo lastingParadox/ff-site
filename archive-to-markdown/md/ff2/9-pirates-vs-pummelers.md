@@ -1212,7 +1212,7 @@ t!8ball Does the crew board the enemy ship?
 
 **TheBlade** _(21-Jul-18 05:50 PM)_
 
-> _Jim Uses right arm to apply pressure to the hole in the pirates' ship._
+_Jim uses right arm to apply pressure to the hole in the pirates' ship._
 
 **Brakia** _(21-Jul-18 05:51 PM)_
 
@@ -1272,7 +1272,7 @@ _Jim decides to flee back to the crew's ship, needing to fix his eye._
 
 **Zander** _(21-Jul-18 05:53 PM)_
 
-> _Emmett starts to hold one of Maia's wings out of comfort._
+_Emmett starts to hold one of Maia's wings out of comfort._
 
 **Bagelwrecker** _(21-Jul-18 05:53 PM)_
 
@@ -2087,7 +2087,7 @@ _Lodas prepares to defend himself from Jim._
 
 > TELL THAT TO MY EYE!
 
-> _Jim points at his non-damaged eye unintentionally._
+_Jim points at his non-damaged eye unintentionally._
 
 **Mr.WobblyShark** _(21-Jul-18 06:24 PM)_
 
