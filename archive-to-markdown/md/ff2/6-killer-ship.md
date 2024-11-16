@@ -1025,7 +1025,7 @@ _Seth slaps Jim lightly, tired of hearing about Earth._
 
 _Bail enters the cockpit, foregoing his duties of ship maintenance._
 
-> Sure. I need to get accustomed to the new ship.`
+> Sure. I need to get accustomed to the new ship.
 
 **Bagelwrecker** _(27-Jun-18 04:26 PM)_
 
