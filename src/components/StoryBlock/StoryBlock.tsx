@@ -1,5 +1,6 @@
 import { Avatar, Typography, Tooltip } from '@mui/material';
 import Card from '@mui/material/Card/Card';
+import ContentPasteIcon from '@mui/icons-material/ContentPaste';
 import CharacterColors from '@/assets/json/characterColors.json';
 import { StoryBlock as Block, EmbedContent, GeneralContent } from '@/types/Episodes';
 import { useCallback, useEffect, useState, useContext, useMemo } from 'react';
@@ -213,7 +214,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                         setTimeout(() => setOpen(false), 1000);
                     }}
                 >
-                    #
+                    <ContentPasteIcon fontSize="large" />
                 </div>
             </Tooltip>
         </div>
@@ -222,7 +223,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
 
 const Quote = ({ text }: { text: string }) => {
     return (
-        <Typography variant='body1' sx={{ width: 'fit-content' }}>
+        <Typography variant='body1' sx={{ width: '100%' }}>
             {text}
         </Typography>
     );
@@ -240,7 +241,7 @@ const Command = ({ text, color }: { text: string; color: string }) => {
                 backgroundColor: `${color}20`,
                 fontFamily: 'monospace',
                 fontWeight: 400,
-                width: 'fit-content',
+                width: '100%',
             }}
         >
             {text}
@@ -250,7 +251,7 @@ const Command = ({ text, color }: { text: string; color: string }) => {
 
 const Action = ({ text }: { text: string }) => {
     return (
-        <Typography variant='body2' sx={{ fontStyle: 'italic', width: 'fit-content' }}>
+        <Typography variant='body2' sx={{ fontStyle: 'italic', width: '100%' }}>
             {text}
         </Typography>
     );
@@ -258,7 +259,7 @@ const Action = ({ text }: { text: string }) => {
 
 const Other = ({ text }: { text: string }) => {
     return (
-        <Typography variant='body1' sx={{ width: 'fit-content' }}>
+        <Typography variant='body1' sx={{ width: '100%' }}>
             {text}
         </Typography>
     );
