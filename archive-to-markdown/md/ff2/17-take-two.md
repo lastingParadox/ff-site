@@ -999,7 +999,7 @@ _`Goddess of Death`: The Goddess of Death stares at the ancient scroll, giving a
 
 **Bagelwrecker** _(04-Sep-18 02:52 PM)_
 
-> t!8ball Does Sanya pick Emmett up and let him suckle on her breast?
+t!8ball Does Sanya pick Emmett up and let him suckle on her breast?
 
 **Tatsumaki** _(04-Sep-18 02:53 PM)_
 

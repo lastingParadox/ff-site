@@ -229,6 +229,10 @@ def convert_to_json(blocks, json_file):
 
 
 def convert_to_filename(string):
+    # Replace hyphens with spaces
+    string = string.replace("-", " ")
+    # Strip extension
+    string = string.split(".")[0]
     # Remove non-alphabet characters except whitespace
     string = re.sub(r"[^a-zA-Z\s]", "", string)
     # Convert to lowercase

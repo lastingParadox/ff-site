@@ -1,41 +1,28 @@
 **Zander** _(15-Sep-18 02:41 PM)_
 
-> t!8ball Does Emmett wake up from his new room on the new ship?
+t!8ball Does Emmett wake up from his new room on the new ship?
 
 **Tatsumaki** _(15-Sep-18 02:41 PM)_
 
-> 🎱 | Concentrate and ask again,
-> Zander
-> .
-
-**Zander** _(15-Sep-18 02:41 PM)_
-
-> t!8ball Does Emmett wake up from his new room on the new ship?
-
-**Tatsumaki** _(15-Sep-18 02:41 PM)_
-
-> 🎱 | It is decidedly so,
-> Zander
-> .
+> 🎱 | It is decidedly so, Zander.
 
 **Zander** _(15-Sep-18 02:42 PM)_
 
 > Ah! Good morning.
-> (Emmett peers around the hallway.)
+
+_Emmett peers around the hallway._
 
 **Brakia** _(15-Sep-18 02:43 PM)_
 
-> `Hello, Emmett.`
+> Hello, Emmett.
 
 **WatchfulDrake** _(15-Sep-18 02:43 PM)_
 
-> t!8ball does Hector wake up in his new room?
+t!8ball does Hector wake up in his new room?
 
 **Tatsumaki** _(15-Sep-18 02:43 PM)_
 
-> 🎱 | Without a doubt,
-> MultiTheDuck
-> .
+> 🎱 | Without a doubt, MultiTheDuck.
 
 **Zander** _(15-Sep-18 02:44 PM)_
 
@@ -51,39 +38,27 @@
 
 **Brakia** _(15-Sep-18 02:45 PM)_
 
-> `Wassn't tired.`
-> t!8ball Does Sanya go and wake up the rest of the crew?
+> Wasssn't tired.
+
+t!8ball Does Sanya go and wake up the rest of the crew?
 
 **Tatsumaki** _(15-Sep-18 02:45 PM)_
 
-> 🎱 | It is certain,
-> Brakia
-> .
+> 🎱 | It is certain, Brakia.
 
 **Brakia** _(15-Sep-18 02:45 PM)_
 
-> `I'll go wake everyone up.`
+> I'll go wake everyone up.
 
 **Enchantingtable2013** _(15-Sep-18 02:46 PM)_
 
-> ugh... plantwoman....
-> t!8ball Does the half asleep Matieu lick one of Sanya's flowers?
+> Ugh... plantwoman....
 
-**Tatsumaki** _(15-Sep-18 02:46 PM)_
-
-> 🎱 | Ask again later,
-> Enchantingtable2013
-> .
-
-**Enchantingtable2013** _(15-Sep-18 02:47 PM)_
-
-> t!8ball Does the half asleep Matieu lick one of Sanya's flowers?
+t!8ball Does the half-asleep Matieu lick one of Sanya's flowers?
 
 **Tatsumaki** _(15-Sep-18 02:47 PM)_
 
-> 🎱 | Cannot predict now,
-> Enchantingtable2013
-> .
+> 🎱 | Cannot predict now, Enchantingtable2013.
 
 **Bagelwrecker** _(15-Sep-18 02:47 PM)_
 
@@ -95,7 +70,7 @@
 
 **Brakia** _(15-Sep-18 02:47 PM)_
 
-> `Morning, Bird. Morning Sseth.`
+> Morning, Bird. Morning Sseth.
 
 **Bagelwrecker** _(15-Sep-18 02:47 PM)_
 
@@ -106,24 +81,17 @@
 > Hey everyone.
 > Want some breakfast?
 
-**Bagelwrecker** _(15-Sep-18 02:48 PM)_
-
-> Pinned a message.
-
 **Brakia** _(15-Sep-18 02:49 PM)_
 
-> `Do you have ssteak?`
+> Do you have ssteak?
 
 **Bagelwrecker** _(15-Sep-18 02:49 PM)_
 
-> Pinned a message.
-> t!8ball Does Seth get up from bed and go make him a bowl of breakfast salad?
+t!8ball Does Seth get up from bed and go make him a bowl of breakfast salad?
 
 **Tatsumaki** _(15-Sep-18 02:49 PM)_
 
-> 🎱 | As I see it, yes,
-> Bagelwrecker
-> .
+> 🎱 | As I see it, yes, Bagelwrecker.
 
 **Bagelwrecker** _(15-Sep-18 02:51 PM)_
 
@@ -136,7 +104,7 @@
 **Bagelwrecker** _(15-Sep-18 02:51 PM)_
 
 > Yeah, but that's just how noble and religious elven families are.
-> My mother seems to enjoy your company a little too much though
+> My mother seems to enjoy your company a little too much though.
 
 **WatchfulDrake** _(15-Sep-18 02:52 PM)_
 
@@ -153,13 +121,12 @@
 **Zander** _(15-Sep-18 02:53 PM)_
 
 > She overfed me that one time. Strange.
-> t!8ball Does Emmett take out some raw meat from the fridge?
+
+t!8ball Does Emmett take out some raw meat from the fridge?
 
 **Tatsumaki** _(15-Sep-18 02:54 PM)_
 
-> 🎱 | Yes,
-> Zander
-> .
+> 🎱 | Yes, Zander.
 
 **Bagelwrecker** _(15-Sep-18 02:54 PM)_
 
@@ -167,7 +134,7 @@
 
 **Brakia** _(15-Sep-18 02:54 PM)_
 
-> `Ooh. what meat iss that?`
+> Ooh. what meat iss that?
 
 **Bagelwrecker** _(15-Sep-18 02:55 PM)_
 
@@ -188,7 +155,7 @@
 
 **Brakia** _(15-Sep-18 02:56 PM)_
 
-> `I dont care what it iss.`
+> I dont care what it iss.
 
 **Bagelwrecker** _(15-Sep-18 02:57 PM)_
 
@@ -217,13 +184,11 @@
 
 **WatchfulDrake** _(15-Sep-18 02:58 PM)_
 
-> t!8ball Does Hector look through the cabinets for something other then llama to eat?
+t!8ball Does Hector look through the cabinets for something other then llama to eat?
 
 **Tatsumaki** _(15-Sep-18 02:58 PM)_
 
-> 🎱 | Cannot predict now,
-> MultiTheDuck
-> .
+> 🎱 | Cannot predict now, MultiTheDuck.
 
 **WatchfulDrake** _(15-Sep-18 02:58 PM)_
 
@@ -235,13 +200,11 @@
 
 **WatchfulDrake** _(15-Sep-18 02:58 PM)_
 
-> t!8ball Does Hector look through the cabinets for something other then llama to eat?
+t!8ball Does Hector look through the cabinets for something other then llama to eat?
 
 **Tatsumaki** _(15-Sep-18 02:58 PM)_
 
-> 🎱 | Yes, definitely,
-> MultiTheDuck
-> .
+> 🎱 | Yes, definitely, MultiTheDuck.
 
 **WatchfulDrake** _(15-Sep-18 02:59 PM)_
 
@@ -258,13 +221,11 @@
 
 **Brakia** _(15-Sep-18 03:01 PM)_
 
-> t!8ball Does Sanya eat the llama meat?
+t!8ball Does Sanya eat the llama meat?
 
 **Tatsumaki** _(15-Sep-18 03:01 PM)_
 
-> 🎱 | My sources say no,
-> Brakia
-> .
+> 🎱 | It is certain, Brakia.
 
 **Zander** _(15-Sep-18 03:01 PM)_
 
@@ -300,23 +261,19 @@
 
 **Bagelwrecker** _(15-Sep-18 03:06 PM)_
 
-> t!8ball Does Seth put his bowl away?
+t!8ball Does Seth put his bowl away?
 
 **Tatsumaki** _(15-Sep-18 03:06 PM)_
 
-> 🎱 | Yes, definitely,
-> Bagelwrecker
-> .
+> 🎱 | Yes, definitely, Bagelwrecker.
 
 **Zander** _(15-Sep-18 03:07 PM)_
 
-> t!8ball Does Emmett cook the meat well-done?
+t!8ball Does Emmett cook the meat well-done?
 
 **Tatsumaki** _(15-Sep-18 03:08 PM)_
 
-> 🎱 | Outlook not so good,
-> Zander
-> .
+> 🎱 | Outlook not so good, Zander.
 
 **Brakia** _(15-Sep-18 03:09 PM)_
 
@@ -340,13 +297,11 @@
 
 **WatchfulDrake** _(15-Sep-18 03:13 PM)_
 
-> t!8ball does Sanya's god appear to her and give her a quest?
+t!8ball does Sanya's god appear to her and give her a quest?
 
 **Tatsumaki** _(15-Sep-18 03:13 PM)_
 
-> 🎱 | My sources say no,
-> MultiTheDuck
-> .
+> 🎱 | My sources say no, MultiTheDuck.
 
 **Brakia** _(15-Sep-18 03:16 PM)_
 
@@ -379,13 +334,11 @@
 
 **Brakia** _(15-Sep-18 03:18 PM)_
 
-> t!8ball Do the knights start to attack the ship?
+t!8ball Do the knights start to attack the ship?
 
 **Tatsumaki** _(15-Sep-18 03:18 PM)_
 
-> 🎱 | It is certain,
-> Brakia
-> .
+> 🎱 | It is certain, Brakia.
 
 **WatchfulDrake** _(15-Sep-18 03:19 PM)_
 
@@ -393,13 +346,11 @@
 
 **Bagelwrecker** _(15-Sep-18 03:19 PM)_
 
-> t!8ball Do they go away?
+t!8ball Do they go away?
 
 **Tatsumaki** _(15-Sep-18 03:19 PM)_
 
-> 🎱 | Yes, definitely,
-> Bagelwrecker
-> .
+> 🎱 | Yes, definitely, Bagelwrecker.
 
 **Zander** _(15-Sep-18 03:19 PM)_
 
@@ -420,64 +371,53 @@
 
 **Zander** _(15-Sep-18 03:19 PM)_
 
-> t!8ball Do we start chasing them?
+t!8ball Do we start chasing them?
 
 **Tatsumaki** _(15-Sep-18 03:19 PM)_
 
-> 🎱 | It is decidedly so,
-> Zander
-> .
+> 🎱 | It is decidedly so, Zander.
 
 **WatchfulDrake** _(15-Sep-18 03:20 PM)_
 
 > I'll be back in a second, I'm going to get my rifle
-> t!8ball does Hector find a few knights trying to raid the ship on the way to his room?
+
+t!8ball does Hector find a few knights trying to raid the ship on the way to his room?
 
 **Tatsumaki** _(15-Sep-18 03:21 PM)_
 
-> 🎱 | Concentrate and ask again,
-> MultiTheDuck
-> .
+> 🎱 | Concentrate and ask again, MultiTheDuck.
 
 **WatchfulDrake** _(15-Sep-18 03:21 PM)_
 
-> t!8ball does Hector find a few knights trying to raid the ship on the way to his room?
+t!8ball does Hector find a few knights trying to raid the ship on the way to his room?
 
 **Tatsumaki** _(15-Sep-18 03:21 PM)_
 
-> 🎱 | My reply is no,
-> MultiTheDuck
-> .
+> 🎱 | My reply is no, MultiTheDuck.
 
 **Brakia** _(15-Sep-18 03:21 PM)_
 
-> t!8ball Do we catch up and board the knight's ship?
+t!8ball Do we catch up and board the knight's ship?
 
 **Tatsumaki** _(15-Sep-18 03:21 PM)_
 
-> 🎱 | Ask again later,
-> Brakia
-> .
+> 🎱 | Ask again later, Brakia.
 
 **Brakia** _(15-Sep-18 03:22 PM)_
 
-> t!8ball Do we catch up and board the knight's ship?
+t!8ball Do we catch up and board the knight's ship?
 
 **Tatsumaki** _(15-Sep-18 03:22 PM)_
 
-> 🎱 | It is decidedly so,
-> Brakia
-> .
+> 🎱 | It is decidedly so, Brakia.
 
 **Bagelwrecker** _(15-Sep-18 03:22 PM)_
 
-> t!8ball did every weapon in the system we're in get turned into dildos?
+t!8ball did every weapon in the system we're in get turned into dildos?
 
 **Tatsumaki** _(15-Sep-18 03:22 PM)_
 
-> 🎱 | Outlook good,
-> Bagelwrecker
-> .
+> 🎱 | Outlook good, Bagelwrecker.
 
 **WatchfulDrake** _(15-Sep-18 03:23 PM)_
 
@@ -506,13 +446,11 @@
 
 **Zander** _(15-Sep-18 03:26 PM)_
 
-> t!8ball Do the weapons exchange into their normal forms with the ability to turn into dildos when wanted?
+t!8ball Do the weapons exchange into their normal forms with the ability to turn into dildos when wanted?
 
 **Tatsumaki** _(15-Sep-18 03:26 PM)_
 
-> 🎱 | Outlook not so good,
-> Zander
-> .
+> 🎱 | Outlook not so good, Zander.
 
 **Jelsafan0** _(15-Sep-18 03:27 PM)_
 
@@ -523,13 +461,11 @@
 
 **WatchfulDrake** _(15-Sep-18 03:29 PM)_
 
-> t!8ball Do the knights start attacking the crew with glass dildos?
+t!8ball Do the knights start attacking the crew with glass dildos?
 
 **Tatsumaki** _(15-Sep-18 03:29 PM)_
 
-> 🎱 | Very doubtful,
-> MultiTheDuck
-> .
+> 🎱 | Very doubtful, MultiTheDuck.
 
 **WatchfulDrake** _(15-Sep-18 03:29 PM)_
 
@@ -542,13 +478,11 @@
 
 **Brakia** _(15-Sep-18 03:29 PM)_
 
-> t!8ball Does Sanya's flesh sword return to its origin form?
+t!8ball Does Sanya's flesh sword return to its origin form?
 
 **Tatsumaki** _(15-Sep-18 03:29 PM)_
 
-> 🎱 | Without a doubt,
-> Brakia
-> .
+> 🎱 | Without a doubt, Brakia.
 
 **Jelsafan0** _(15-Sep-18 03:29 PM)_
 
@@ -577,13 +511,11 @@
 
 **Jelsafan0** _(15-Sep-18 03:33 PM)_
 
-> t!8ball does Iris make an obscene amount of muffins?
+t!8ball does Iris make an obscene amount of muffins?
 
 **Tatsumaki** _(15-Sep-18 03:33 PM)_
 
-> 🎱 | You may rely on it,
-> Jelsafan0
-> .
+> 🎱 | You may rely on it, Jelsafan0.
 
 **Brakia** _(15-Sep-18 03:33 PM)_
 
@@ -603,13 +535,11 @@
 
 **Zander** _(15-Sep-18 03:36 PM)_
 
-> t!8ball Does the lead knight take out his massive dildo-shaped club?
+t!8ball Does the lead knight take out his massive dildo-shaped club?
 
 **Tatsumaki** _(15-Sep-18 03:36 PM)_
 
-> 🎱 | My reply is no,
-> Zander
-> .
+> 🎱 | My reply is no, Zander.
 
 **WatchfulDrake** _(15-Sep-18 03:39 PM)_
 
@@ -684,23 +614,19 @@ In the end, the result was:
 
 **Jelsafan0** _(15-Sep-18 03:42 PM)_
 
-> t!8ball has Iris already baked 4 dozen muffins?
+t!8ball has Iris already baked 4 dozen muffins?
 
 **Tatsumaki** _(15-Sep-18 03:42 PM)_
 
-> 🎱 | Yes, definitely,
-> Jelsafan0
-> .
+> 🎱 | Yes, definitely, Jelsafan0.
 
 **Zander** _(15-Sep-18 03:43 PM)_
 
-> t!8ball Does Emmett have his translator set to "charismatic" due to it glitching out?
+t!8ball Does Emmett have his translator set to "charismatic" due to it glitching out?
 
 **Tatsumaki** _(15-Sep-18 03:43 PM)_
 
-> 🎱 | Without a doubt,
-> Zander
-> .
+> 🎱 | Without a doubt, Zander.
 
 **Jelsafan0** _(15-Sep-18 03:43 PM)_
 
@@ -772,13 +698,12 @@ In the end, the result was:
 > As if on cue, the oven beeps and she pulls out the batch of muffins, placing them on top of it. She’s still a tad flustered.
 > You think so? They... always turn out blueberry. I thought that was a bit weird.
 > Iris gets to work on some baguettes.
-> t!8ball does Iris somehow make four baguettes at once?
+
+t!8ball does Iris somehow make four baguettes at once?
 
 **Tatsumaki** _(15-Sep-18 03:49 PM)_
 
-> 🎱 | It is certain,
-> Jelsafan0
-> .
+> 🎱 | It is certain, Jelsafan0.
 
 **Jelsafan0** _(15-Sep-18 03:50 PM)_
 
@@ -786,13 +711,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 03:50 PM)_
 
-> t!8ball Does Emmett get shocked by his translator?
+t!8ball Does Emmett get shocked by his translator?
 
 **Tatsumaki** _(15-Sep-18 03:50 PM)_
 
-> 🎱 | You may rely on it,
-> Zander
-> .
+> 🎱 | You may rely on it, Zander.
 
 **WatchfulDrake** _(15-Sep-18 03:51 PM)_
 
@@ -883,13 +806,11 @@ In the end, the result was:
 
 **Jelsafan0** _(15-Sep-18 03:53 PM)_
 
-> t!8ball does Iris have a swimsuit?
+t!8ball does Iris have a swimsuit?
 
 **Tatsumaki** _(15-Sep-18 03:53 PM)_
 
-> 🎱 | Cannot predict now,
-> Jelsafan0
-> .
+> 🎱 | Cannot predict now, Jelsafan0.
 
 **WatchfulDrake** _(15-Sep-18 03:53 PM)_
 
@@ -897,13 +818,11 @@ In the end, the result was:
 
 **Jelsafan0** _(15-Sep-18 03:54 PM)_
 
-> t!8ball does Iris have a swimsuit?
+t!8ball does Iris have a swimsuit?
 
 **Tatsumaki** _(15-Sep-18 03:54 PM)_
 
-> 🎱 | It is certain,
-> Jelsafan0
-> .
+> 🎱 | It is certain, Jelsafan0.
 
 **Jelsafan0** _(15-Sep-18 03:54 PM)_
 
@@ -912,13 +831,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 03:54 PM)_
 
-> t!8ball Does the knight consume a tonic, increasing his strength and his health?
+t!8ball Does the knight consume a tonic, increasing his strength and his health?
 
 **Tatsumaki** _(15-Sep-18 03:54 PM)_
 
-> 🎱 | Outlook good,
-> Zander
-> .
+> 🎱 | Outlook good, Zander.
 
 **Jelsafan0** _(15-Sep-18 03:54 PM)_
 
@@ -1016,11 +933,7 @@ In the end, the result was:
 
 **Tatsumaki** _(15-Sep-18 03:58 PM)_
 
-> 🤔 |
-> Zander
-> , I pick
-> Both
-> !
+> 🤔 | Zander, I pick Both!
 
 **Zander** _(15-Sep-18 03:59 PM)_
 
@@ -1047,13 +960,12 @@ In the end, the result was:
 **Jelsafan0** _(15-Sep-18 04:00 PM)_
 
 > The oven beeps, and Iris pulls out her batch of two dozen croissants, placing it to the side, and putting in a batch of the same size.
-> t!8ball are there somehow 50 muffins sitting on the counter now?
+
+t!8ball are there somehow 50 muffins sitting on the counter now?
 
 **Tatsumaki** _(15-Sep-18 04:00 PM)_
 
-> 🎱 | As I see it, yes,
-> Jelsafan0
-> .
+> 🎱 | As I see it, yes, Jelsafan0.
 
 **Zander** _(15-Sep-18 04:00 PM)_
 
@@ -1081,13 +993,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 04:02 PM)_
 
-> t!8ball Do i devour half of the muffins and then proceed to flirt with Iris?
+t!8ball Do i devour half of the muffins and then proceed to flirt with Iris?
 
 **Tatsumaki** _(15-Sep-18 04:02 PM)_
 
-> 🎱 | Signs point to yes,
-> Enchantingtable2013
-> .
+> 🎱 | Signs point to yes, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 04:02 PM)_
 
@@ -1126,13 +1036,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 04:05 PM)_
 
-> t!8ball Is there a tiny wizard on top of the fridge who causes Emmett's translator to glitch?
+t!8ball Is there a tiny wizard on top of the fridge who causes Emmett's translator to glitch?
 
 **Tatsumaki** _(15-Sep-18 04:05 PM)_
 
-> 🎱 | My reply is no,
-> Zander
-> .
+> 🎱 | My reply is no, Zander.
 
 **Jelsafan0** _(15-Sep-18 04:06 PM)_
 
@@ -1140,13 +1048,11 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 04:06 PM)_
 
-> t!8ball does the knight surrender his ship, crew, supplies and service to the crew?
+t!8ball does the knight surrender his ship, crew, supplies and service to the crew?
 
 **Tatsumaki** _(15-Sep-18 04:06 PM)_
 
-> 🎱 | Yes,
-> MultiTheDuck
-> .
+> 🎱 | Yes, MultiTheDuck.
 
 **Brakia** _(15-Sep-18 04:06 PM)_
 
@@ -1174,23 +1080,19 @@ In the end, the result was:
 
 **Brakia** _(15-Sep-18 04:09 PM)_
 
-> t!8ball Does Sanya look through the new stache of weapons for a new side weapon?
+t!8ball Does Sanya look through the new stache of weapons for a new side weapon?
 
 **Tatsumaki** _(15-Sep-18 04:09 PM)_
 
-> 🎱 | Very doubtful,
-> Brakia
-> .
+> 🎱 | Very doubtful, Brakia.
 
 **Jelsafan0** _(15-Sep-18 04:10 PM)_
 
-> t!8ball is there an incredible amount of blueberry baked goods on the counter right now?
+t!8ball is there an incredible amount of blueberry baked goods on the counter right now?
 
 **Tatsumaki** _(15-Sep-18 04:10 PM)_
 
-> 🎱 | Outlook not so good,
-> Jelsafan0
-> .
+> 🎱 | Outlook not so good, Jelsafan0.
 
 **Zander** _(15-Sep-18 04:10 PM)_
 
@@ -1202,13 +1104,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 04:11 PM)_
 
-> t!8ball Does Todd accidentally press the airlock button when he's resting?
+t!8ball Does Todd accidentally press the airlock button when he's resting?
 
 **Tatsumaki** _(15-Sep-18 04:11 PM)_
 
-> 🎱 | Yes, definitely,
-> Zander
-> .
+> 🎱 | Yes, definitely, Zander.
 
 **Brakia** _(15-Sep-18 04:12 PM)_
 
@@ -1262,13 +1162,11 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 04:15 PM)_
 
-> t!8ball does Hector spot a small plasma pistol on his way out of the ship?
+t!8ball does Hector spot a small plasma pistol on his way out of the ship?
 
 **Tatsumaki** _(15-Sep-18 04:15 PM)_
 
-> 🎱 | Concentrate and ask again,
-> MultiTheDuck
-> .
+> 🎱 | Concentrate and ask again, MultiTheDuck.
 
 **Jelsafan0** _(15-Sep-18 04:15 PM)_
 
@@ -1276,23 +1174,19 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 04:15 PM)_
 
-> t!8ball does Hector spot a small plasma pistol on his way out of the ship?
+t!8ball does Hector spot a small plasma pistol on his way out of the ship?
 
 **Tatsumaki** _(15-Sep-18 04:15 PM)_
 
-> 🎱 | Reply hazy try again,
-> MultiTheDuck
-> .
+> 🎱 | Reply hazy try again, MultiTheDuck.
 
 **WatchfulDrake** _(15-Sep-18 04:15 PM)_
 
-> t!8ball does Hector spot a small plasma pistol on his way out of the ship?
+t!8ball does Hector spot a small plasma pistol on his way out of the ship?
 
 **Tatsumaki** _(15-Sep-18 04:15 PM)_
 
-> 🎱 | Most likely,
-> MultiTheDuck
-> .
+> 🎱 | Most likely, MultiTheDuck.
 
 **Jelsafan0** _(15-Sep-18 04:15 PM)_
 
@@ -1336,13 +1230,11 @@ In the end, the result was:
 
 **Brakia** _(15-Sep-18 04:18 PM)_
 
-> t!8ball Does Sanya take Iris out of the kitchen?
+t!8ball Does Sanya take Iris out of the kitchen?
 
 **Tatsumaki** _(15-Sep-18 04:18 PM)_
 
-> 🎱 | Signs point to yes,
-> Brakia
-> .
+> 🎱 | Signs point to yes, Brakia.
 
 **Brakia** _(15-Sep-18 04:18 PM)_
 
@@ -1378,13 +1270,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 04:19 PM)_
 
-> t!8ball Do I wake up?
+t!8ball Do I wake up?
 
 **Tatsumaki** _(15-Sep-18 04:19 PM)_
 
-> 🎱 | Better not tell you now,
-> Enchantingtable2013
-> .
+> 🎱 | Better not tell you now, Enchantingtable2013.
 
 **WatchfulDrake** _(15-Sep-18 04:20 PM)_
 
@@ -1396,13 +1286,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 04:20 PM)_
 
-> t!8ball Do I wake up?
+t!8ball Do I wake up?
 
 **Tatsumaki** _(15-Sep-18 04:20 PM)_
 
-> 🎱 | Without a doubt,
-> Enchantingtable2013
-> .
+> 🎱 | Without a doubt, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 04:20 PM)_
 
@@ -1453,23 +1341,20 @@ In the end, the result was:
 **Jelsafan0** _(15-Sep-18 04:24 PM)_
 
 > ...
-> t!8ball does Iris remember how the other children always avoided her because she was half-archidemon?
+
+t!8ball does Iris remember how the other children always avoided her because she was half-archidemon?
 
 **Tatsumaki** _(15-Sep-18 04:26 PM)_
 
-> 🎱 | Outlook not so good,
-> Jelsafan0
-> .
+> 🎱 | Outlook not so good, Jelsafan0.
 
 **Zander** _(15-Sep-18 04:27 PM)_
 
-> t!8ball Does Emmett try to pull the translator off, despite the possible harm it could cause him?
+t!8ball Does Emmett try to pull the translator off, despite the possible harm it could cause him?
 
 **Tatsumaki** _(15-Sep-18 04:27 PM)_
 
-> 🎱 | Outlook not so good,
-> Zander
-> .
+> 🎱 | Outlook not so good, Zander.
 
 **Zander** _(15-Sep-18 04:27 PM)_
 
@@ -1547,33 +1432,27 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 04:33 PM)_
 
-> t!8ball does Hector start working on his flying drone?
+t!8ball does Hector start working on his flying drone?
 
 **Tatsumaki** _(15-Sep-18 04:33 PM)_
 
-> 🎱 | Reply hazy try again,
-> MultiTheDuck
-> .
+> 🎱 | Reply hazy try again, MultiTheDuck.
 
 **WatchfulDrake** _(15-Sep-18 04:33 PM)_
 
-> t!8ball does Hector start working on his flying drone?
+t!8ball does Hector start working on his flying drone?
 
 **Tatsumaki** _(15-Sep-18 04:33 PM)_
 
-> 🎱 | Outlook not so good,
-> MultiTheDuck
-> .
+> 🎱 | Outlook not so good, MultiTheDuck.
 
 **Brakia** _(15-Sep-18 04:34 PM)_
 
-> t!8ball Does Sanya squat down and check on Emmett?
+t!8ball Does Sanya squat down and check on Emmett?
 
 **Tatsumaki** _(15-Sep-18 04:34 PM)_
 
-> 🎱 | Very doubtful,
-> Brakia
-> .
+> 🎱 | Very doubtful, Brakia.
 
 **Brakia** _(15-Sep-18 04:35 PM)_
 
@@ -1593,23 +1472,19 @@ In the end, the result was:
 
 **Jelsafan0** _(15-Sep-18 04:38 PM)_
 
-> t!8ball does Iris set her translator to ‘Squoatish’ so she can talk to him, grabbing a muffin on the way to sit?
+t!8ball does Iris set her translator to ‘Squoatish’ so she can talk to him, grabbing a muffin on the way to sit?
 
 **Tatsumaki** _(15-Sep-18 04:38 PM)_
 
-> 🎱 | My sources say no,
-> Jelsafan0
-> .
+> 🎱 | My sources say no, Jelsafan0.
 
 **Enchantingtable2013** _(15-Sep-18 04:38 PM)_
 
-> t!8ball Do I awake flirt with Iris now?
+t!8ball Do I awake flirt with Iris now?
 
 **Tatsumaki** _(15-Sep-18 04:39 PM)_
 
-> 🎱 | My reply is no,
-> Enchantingtable2013
-> .
+> 🎱 | My reply is no, Enchantingtable2013.
 
 **Jelsafan0** _(15-Sep-18 04:39 PM)_
 
@@ -1618,13 +1493,12 @@ In the end, the result was:
 **Zander** _(15-Sep-18 04:39 PM)_
 
 > "Hey Iris."
-> t!8ball Does Hector start to handstand?
+
+t!8ball Does Hector start to handstand?
 
 **Tatsumaki** _(15-Sep-18 04:39 PM)_
 
-> 🎱 | Reply hazy try again,
-> Zander
-> .
+> 🎱 | Reply hazy try again, Zander.
 
 **Jelsafan0** _(15-Sep-18 04:39 PM)_
 
@@ -1632,14 +1506,12 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 04:39 PM)_
 
-> t!8ball Does Hector start to handstand?
-> t!8ball Does Hector start to handstand?
+t!8ball Does Hector start to handstand?
+t!8ball Does Hector start to handstand?
 
 **Tatsumaki** _(15-Sep-18 04:39 PM)_
 
-> 🎱 | You may rely on it,
-> Zander
-> .
+> 🎱 | You may rely on it, Zander.
 
 **WatchfulDrake** _(15-Sep-18 04:40 PM)_
 
@@ -1647,11 +1519,7 @@ In the end, the result was:
 
 **Tatsumaki** _(15-Sep-18 04:40 PM)_
 
-> 🤔 |
-> MultiTheDuck
-> , I pick
-> crab
-> !
+> 🤔 | MultiTheDuck, I pick crab!
 
 **Zander** _(15-Sep-18 04:41 PM)_
 
@@ -1675,13 +1543,11 @@ In the end, the result was:
 
 **Brakia** _(15-Sep-18 04:44 PM)_
 
-> t!8ball Does Sanya get a shirt for Emmett?
+t!8ball Does Sanya get a shirt for Emmett?
 
 **Tatsumaki** _(15-Sep-18 04:44 PM)_
 
-> 🎱 | Ask again later,
-> Brakia
-> .
+> 🎱 | Ask again later, Brakia.
 
 **Zander** _(15-Sep-18 04:44 PM)_
 
@@ -1690,13 +1556,11 @@ In the end, the result was:
 
 **Brakia** _(15-Sep-18 04:44 PM)_
 
-> t!8ball Does Sanya get a shirt for Emmett?
+t!8ball Does Sanya get a shirt for Emmett?
 
 **Tatsumaki** _(15-Sep-18 04:44 PM)_
 
-> 🎱 | Very doubtful,
-> Brakia
-> .
+> 🎱 | Very doubtful, Brakia.
 
 **Jelsafan0** _(15-Sep-18 04:44 PM)_
 
@@ -1782,23 +1646,19 @@ In the end, the result was:
 
 **Jelsafan0** _(15-Sep-18 04:55 PM)_
 
-> t!8ball does Iris find a shirt for him?
+t!8ball does Iris find a shirt for him?
 
 **Tatsumaki** _(15-Sep-18 04:55 PM)_
 
-> 🎱 | Cannot predict now,
-> Jelsafan0
-> .
+> 🎱 | Cannot predict now, Jelsafan0.
 
 **Jelsafan0** _(15-Sep-18 04:55 PM)_
 
-> t!8ball does Iris find a shirt for him?
+t!8ball does Iris find a shirt for him?
 
 **Tatsumaki** _(15-Sep-18 04:55 PM)_
 
-> 🎱 | Better not tell you now,
-> Jelsafan0
-> .
+> 🎱 | Better not tell you now, Jelsafan0.
 
 **WatchfulDrake** _(15-Sep-18 04:55 PM)_
 
@@ -1814,13 +1674,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 04:56 PM)_
 
-> t!8ball Does Emmett get his translator fixed?
+t!8ball Does Emmett get his translator fixed?
 
 **Tatsumaki** _(15-Sep-18 04:56 PM)_
 
-> 🎱 | Signs point to yes,
-> Zander
-> .
+> 🎱 | Signs point to yes, Zander.
 
 **Jelsafan0** _(15-Sep-18 04:56 PM)_
 
@@ -1832,13 +1690,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 04:57 PM)_
 
-> t!8ball Do I talk nicely to iris whilst hector is nearby?
+t!8ball Do I talk nicely to iris whilst hector is nearby?
 
 **Tatsumaki** _(15-Sep-18 04:57 PM)_
 
-> 🎱 | It is certain,
-> Enchantingtable2013
-> .
+> 🎱 | It is certain, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 04:57 PM)_
 
@@ -1974,13 +1830,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 05:03 PM)_
 
-> t!8ball Does Emmett toss his shirt over his shoulder and stand up?
+t!8ball Does Emmett toss his shirt over his shoulder and stand up?
 
 **Tatsumaki** _(15-Sep-18 05:03 PM)_
 
-> 🎱 | Without a doubt,
-> Zander
-> .
+> 🎱 | Without a doubt, Zander.
 
 **Jelsafan0** _(15-Sep-18 05:04 PM)_
 
@@ -2044,13 +1898,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 05:06 PM)_
 
-> t!8ball Does the wiry Matieu slip out of Sanya's grasp and run for the hills?
+t!8ball Does the wiry Matieu slip out of Sanya's grasp and run for the hills?
 
 **Tatsumaki** _(15-Sep-18 05:06 PM)_
 
-> 🎱 | Most likely,
-> Enchantingtable2013
-> .
+> 🎱 | Most likely, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 05:06 PM)_
 
@@ -2062,13 +1914,11 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 05:07 PM)_
 
-> t!8ball does Sanya chase after him?
+t!8ball does Sanya chase after him?
 
 **Tatsumaki** _(15-Sep-18 05:07 PM)_
 
-> 🎱 | Better not tell you now,
-> MultiTheDuck
-> .
+> 🎱 | Better not tell you now, MultiTheDuck.
 
 **Brakia** _(15-Sep-18 05:07 PM)_
 
@@ -2076,13 +1926,11 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 05:07 PM)_
 
-> t!8ball does Sanya chase after him?
+t!8ball does Sanya chase after him?
 
 **Tatsumaki** _(15-Sep-18 05:07 PM)_
 
-> 🎱 | Signs point to yes,
-> MultiTheDuck
-> .
+> 🎱 | Signs point to yes, MultiTheDuck.
 
 **Enchantingtable2013** _(15-Sep-18 05:07 PM)_
 
@@ -2112,13 +1960,11 @@ In the end, the result was:
 
 **Brakia** _(15-Sep-18 05:08 PM)_
 
-> t!8ball Does Sanya start emitting an aura of dread?
+t!8ball Does Sanya start emitting an aura of dread?
 
 **Tatsumaki** _(15-Sep-18 05:08 PM)_
 
-> 🎱 | As I see it, yes,
-> Brakia
-> .
+> 🎱 | As I see it, yes, Brakia.
 
 **Enchantingtable2013** _(15-Sep-18 05:09 PM)_
 
@@ -2192,13 +2038,12 @@ In the end, the result was:
 
 > Iris nods, pulling off her dress to reveal her bathing suit.
 > good idea.
-> t!8ball are Iris’ eyes glowing faintly?
+
+t!8ball are Iris’ eyes glowing faintly?
 
 **Tatsumaki** _(15-Sep-18 05:12 PM)_
 
-> 🎱 | My sources say no,
-> Jelsafan0
-> .
+> 🎱 | My sources say no, Jelsafan0.
 
 **Zander** _(15-Sep-18 05:12 PM)_
 
@@ -2207,13 +2052,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 05:13 PM)_
 
-> t!8ball Do I run to the pool in 5 seconds flat?
+t!8ball Do I run to the pool in 5 seconds flat?
 
 **Tatsumaki** _(15-Sep-18 05:13 PM)_
 
-> 🎱 | Most likely,
-> Enchantingtable2013
-> .
+> 🎱 | Most likely, Enchantingtable2013.
 
 **Jelsafan0** _(15-Sep-18 05:13 PM)_
 
@@ -2258,13 +2101,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 05:16 PM)_
 
-> t!8ball Does Emmett dive under the surface and playfully grab Iris' leg?
+t!8ball Does Emmett dive under the surface and playfully grab Iris' leg?
 
 **Tatsumaki** _(15-Sep-18 05:16 PM)_
 
-> 🎱 | It is decidedly so,
-> Zander
-> .
+> 🎱 | It is decidedly so, Zander.
 
 **Jelsafan0** _(15-Sep-18 05:16 PM)_
 
@@ -2292,13 +2133,11 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 05:20 PM)_
 
-> t!8ball does Hector emerge from his room in his gas mask yelling in Martian as gas spills out after him?
+t!8ball does Hector emerge from his room in his gas mask yelling in Martian as gas spills out after him?
 
 **Tatsumaki** _(15-Sep-18 05:20 PM)_
 
-> 🎱 | Yes,
-> MultiTheDuck
-> .
+> 🎱 | Yes, MultiTheDuck.
 
 **Jelsafan0** _(15-Sep-18 05:20 PM)_
 
@@ -2306,23 +2145,19 @@ In the end, the result was:
 
 **Brakia** _(15-Sep-18 05:22 PM)_
 
-> t!8ball Does Sanya catch Matieu?
+t!8ball Does Sanya catch Matieu?
 
 **Tatsumaki** _(15-Sep-18 05:22 PM)_
 
-> 🎱 | Better not tell you now,
-> Brakia
-> .
+> 🎱 | Better not tell you now, Brakia.
 
 **Brakia** _(15-Sep-18 05:22 PM)_
 
-> t!8ball Does Sanya catch Matieu?
+t!8ball Does Sanya catch Matieu?
 
 **Tatsumaki** _(15-Sep-18 05:22 PM)_
 
-> 🎱 | Concentrate and ask again,
-> Brakia
-> .
+> 🎱 | Concentrate and ask again, Brakia.
 
 **Zander** _(15-Sep-18 05:22 PM)_
 
@@ -2330,13 +2165,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 05:23 PM)_
 
-> t!8ball Does Matieu dart for the pool and do a leaping jump into it, making a smack on the gelatin that can be heard for hundreds of miles?
+t!8ball Does Matieu dart for the pool and do a leaping jump into it, making a smack on the gelatin that can be heard for hundreds of miles?
 
 **Tatsumaki** _(15-Sep-18 05:23 PM)_
 
-> 🎱 | Concentrate and ask again,
-> Enchantingtable2013
-> .
+> 🎱 | Concentrate and ask again, Enchantingtable2013.
 
 **WatchfulDrake** _(15-Sep-18 05:23 PM)_
 
@@ -2348,13 +2181,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 05:23 PM)_
 
-> t!8ball Does Matieu dart for the pool and do a leaping jump into it, making a smack on the gelatin that can be heard for hundreds of miles?
+t!8ball Does Matieu dart for the pool and do a leaping jump into it, making a smack on the gelatin that can be heard for hundreds of miles?
 
 **Tatsumaki** _(15-Sep-18 05:23 PM)_
 
-> 🎱 | Very doubtful,
-> Enchantingtable2013
-> .
+> 🎱 | Very doubtful, Enchantingtable2013.
 
 **Jelsafan0** _(15-Sep-18 05:23 PM)_
 
@@ -2445,23 +2276,19 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 05:29 PM)_
 
-> t!8ball does hector start working on a way to pull all the gas back into the drone?
+t!8ball does hector start working on a way to pull all the gas back into the drone?
 
 **Tatsumaki** _(15-Sep-18 05:29 PM)_
 
-> 🎱 | Concentrate and ask again,
-> MultiTheDuck
-> .
+> 🎱 | Concentrate and ask again, MultiTheDuck.
 
 **WatchfulDrake** _(15-Sep-18 05:30 PM)_
 
-> t!8ball does hector start working on a way to pull all the gas back into the drone?
+t!8ball does hector start working on a way to pull all the gas back into the drone?
 
 **Tatsumaki** _(15-Sep-18 05:30 PM)_
 
-> 🎱 | Most likely,
-> MultiTheDuck
-> .
+> 🎱 | Most likely, MultiTheDuck.
 
 **Zander** _(15-Sep-18 05:31 PM)_
 
@@ -2515,13 +2342,11 @@ In the end, the result was:
 
 **Brakia** _(15-Sep-18 05:36 PM)_
 
-> t!8ball Does The God send out a wave of pure dread?
+t!8ball Does The God send out a wave of pure dread?
 
 **Tatsumaki** _(15-Sep-18 05:36 PM)_
 
-> 🎱 | As I see it, yes,
-> Brakia
-> .
+> 🎱 | As I see it, yes, Brakia.
 
 **Jelsafan0** _(15-Sep-18 05:36 PM)_
 
@@ -2664,23 +2489,20 @@ In the end, the result was:
 
 > (I’m.... alone.)
 > Her drifting gaze lands on Sanya.
-> t!8ball does Iris have an epiphany?
+
+t!8ball does Iris have an epiphany?
 
 **Tatsumaki** _(15-Sep-18 05:46 PM)_
 
-> 🎱 | Ask again later,
-> Jelsafan0
-> .
+> 🎱 | Ask again later, Jelsafan0.
 
 **Jelsafan0** _(15-Sep-18 05:46 PM)_
 
-> t!8ball does Iris have an epiphany?
+t!8ball does Iris have an epiphany?
 
 **Tatsumaki** _(15-Sep-18 05:46 PM)_
 
-> 🎱 | My sources say no,
-> Jelsafan0
-> .
+> 🎱 | My sources say no, Jelsafan0.
 
 **Jelsafan0** _(15-Sep-18 05:46 PM)_
 
@@ -2693,13 +2515,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 05:47 PM)_
 
-> t!8ball Do I climb up the gelatin and run insanely fast circles on the gelatin?
+t!8ball Do I climb up the gelatin and run insanely fast circles on the gelatin?
 
 **Tatsumaki** _(15-Sep-18 05:47 PM)_
 
-> 🎱 | My sources say no,
-> Enchantingtable2013
-> .
+> 🎱 | My sources say no, Enchantingtable2013.
 
 **Jelsafan0** _(15-Sep-18 05:47 PM)_
 
@@ -2789,13 +2609,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 05:52 PM)_
 
-> t!8ball Does Emmett just leave the scenario, considering that Dread doesn't really give a shit about him?
+t!8ball Does Emmett just leave the scenario, considering that Dread doesn't really give a shit about him?
 
 **Tatsumaki** _(15-Sep-18 05:52 PM)_
 
-> 🎱 | My reply is no,
-> Zander
-> .
+> 🎱 | My reply is no, Zander.
 
 **Zander** _(15-Sep-18 05:53 PM)_
 
@@ -2833,13 +2651,11 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 05:55 PM)_
 
-> t!8ball does Hector get all the gas back into the canister using the drone?
+t!8ball does Hector get all the gas back into the canister using the drone?
 
 **Tatsumaki** _(15-Sep-18 05:55 PM)_
 
-> 🎱 | Outlook good,
-> MultiTheDuck
-> .
+> 🎱 | Outlook good, MultiTheDuck.
 
 **Jelsafan0** _(15-Sep-18 05:55 PM)_
 
@@ -2848,13 +2664,11 @@ In the end, the result was:
 
 **Brakia** _(15-Sep-18 05:56 PM)_
 
-> t!8ball Does Dread teleport Matieu and Emmett away from the battle?
+t!8ball Does Dread teleport Matieu and Emmett away from the battle?
 
 **Tatsumaki** _(15-Sep-18 05:56 PM)_
 
-> 🎱 | You may rely on it,
-> Brakia
-> .
+> 🎱 | You may rely on it, Brakia.
 
 **Brakia** _(15-Sep-18 05:56 PM)_
 
@@ -3315,23 +3129,19 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 06:16 PM)_
 
-> t!8ball Does Emmett try to jump off the balcony?
+t!8ball Does Emmett try to jump off the balcony?
 
 **Tatsumaki** _(15-Sep-18 06:16 PM)_
 
-> 🎱 | Reply hazy try again,
-> Zander
-> .
+> 🎱 | Reply hazy try again, Zander.
 
 **Zander** _(15-Sep-18 06:16 PM)_
 
-> t!8ball Does Emmett try to jump off the balcony?
+t!8ball Does Emmett try to jump off the balcony?
 
 **Tatsumaki** _(15-Sep-18 06:16 PM)_
 
-> 🎱 | As I see it, yes,
-> Zander
-> .
+> 🎱 | As I see it, yes, Zander.
 
 **Jelsafan0** _(15-Sep-18 06:16 PM)_
 
@@ -3418,13 +3228,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 06:21 PM)_
 
-> t!8ball Does Emmett aim his crossbow at the monster?
+t!8ball Does Emmett aim his crossbow at the monster?
 
 **Tatsumaki** _(15-Sep-18 06:21 PM)_
 
-> 🎱 | Better not tell you now,
-> Zander
-> .
+> 🎱 | Better not tell you now, Zander.
 
 **Brakia** _(15-Sep-18 06:21 PM)_
 
@@ -3442,23 +3250,19 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 06:21 PM)_
 
-> t!8ball Does Emmett aim his crossbow at the monster?
+t!8ball Does Emmett aim his crossbow at the monster?
 
 **Tatsumaki** _(15-Sep-18 06:21 PM)_
 
-> 🎱 | Better not tell you now,
-> Zander
-> .
+> 🎱 | Better not tell you now, Zander.
 
 **Zander** _(15-Sep-18 06:21 PM)_
 
-> t!8ball Does Emmett aim his crossbow at the monster?
+t!8ball Does Emmett aim his crossbow at the monster?
 
 **Tatsumaki** _(15-Sep-18 06:21 PM)_
 
-> 🎱 | My sources say no,
-> Zander
-> .
+> 🎱 | My sources say no, Zander.
 
 **Zander** _(15-Sep-18 06:21 PM)_
 
@@ -3496,13 +3300,11 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 06:23 PM)_
 
-> t!8ball Does Hector hit sanya in the neck with the M.O.A.D?
+t!8ball Does Hector hit sanya in the neck with the M.O.A.D?
 
 **Tatsumaki** _(15-Sep-18 06:23 PM)_
 
-> 🎱 | Without a doubt,
-> MultiTheDuck
-> .
+> 🎱 | Without a doubt, MultiTheDuck.
 
 **Brakia** _(15-Sep-18 06:23 PM)_
 
@@ -3590,13 +3392,11 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 06:28 PM)_
 
-> t!8ball Does Emmett stand on top of the gelatin?
+t!8ball Does Emmett stand on top of the gelatin?
 
 **Tatsumaki** _(15-Sep-18 06:28 PM)_
 
-> 🎱 | You may rely on it,
-> Zander
-> .
+> 🎱 | You may rely on it, Zander.
 
 **Zander** _(15-Sep-18 06:28 PM)_
 
@@ -3604,23 +3404,19 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:28 PM)_
 
-> t!8ball Do I run the fuck over to iris and start doing resuscitative procedures?
+t!8ball Do I run the fuck over to iris and start doing resuscitative procedures?
 
 **Tatsumaki** _(15-Sep-18 06:28 PM)_
 
-> 🎱 | My reply is no,
-> Enchantingtable2013
-> .
+> 🎱 | My reply is no, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 06:29 PM)_
 
-> t!8ball Do I run the fuck over to iris and start doing resuscitative procedures?
+t!8ball Do I run the fuck over to iris and start doing resuscitative procedures?
 
 **Tatsumaki** _(15-Sep-18 06:29 PM)_
 
-> 🎱 | Most likely,
-> Enchantingtable2013
-> .
+> 🎱 | Most likely, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 06:29 PM)_
 
@@ -3653,23 +3449,19 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:30 PM)_
 
-> t!8ball Does Iris wake up in a jolt, gasping for air?
+t!8ball Does Iris wake up in a jolt, gasping for air?
 
 **Tatsumaki** _(15-Sep-18 06:30 PM)_
 
-> 🎱 | Reply hazy try again,
-> Enchantingtable2013
-> .
+> 🎱 | Reply hazy try again, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 06:31 PM)_
 
-> t!8ball Is Iris still breathing?
+t!8ball Is Iris still breathing?
 
 **Tatsumaki** _(15-Sep-18 06:31 PM)_
 
-> 🎱 | My reply is no,
-> Enchantingtable2013
-> .
+> 🎱 | My reply is no, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 06:31 PM)_
 
@@ -3684,13 +3476,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:32 PM)_
 
-> t!8ball Do I do rapid CPR, constantly checking her heartrate?
+t!8ball Do I do rapid CPR, constantly checking her heartrate?
 
 **Tatsumaki** _(15-Sep-18 06:32 PM)_
 
-> 🎱 | Outlook not so good,
-> Enchantingtable2013
-> .
+> 🎱 | Outlook not so good, Enchantingtable2013.
 
 **Zander** _(15-Sep-18 06:32 PM)_
 
@@ -3712,13 +3502,12 @@ In the end, the result was:
 **Enchantingtable2013** _(15-Sep-18 06:33 PM)_
 
 > You are not dying right now!
-> t!8ball Do I continue doing CPR and Mouth to Mouth?
+
+t!8ball Do I continue doing CPR and Mouth to Mouth?
 
 **Tatsumaki** _(15-Sep-18 06:33 PM)_
 
-> 🎱 | My reply is no,
-> Enchantingtable2013
-> .
+> 🎱 | My reply is no, Enchantingtable2013.
 
 **Jelsafan0** _(15-Sep-18 06:33 PM)_
 
@@ -3726,13 +3515,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:33 PM)_
 
-> t!8ball Do I continue doing CPR and Mouth to Mouth?
+t!8ball Do I continue doing CPR and Mouth to Mouth?
 
 **Tatsumaki** _(15-Sep-18 06:33 PM)_
 
-> 🎱 | Signs point to yes,
-> Enchantingtable2013
-> .
+> 🎱 | Signs point to yes, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 06:33 PM)_
 
@@ -3744,13 +3531,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:34 PM)_
 
-> t!8ball Does Iris begin breathing again?
+t!8ball Does Iris begin breathing again?
 
 **Tatsumaki** _(15-Sep-18 06:34 PM)_
 
-> 🎱 | As I see it, yes,
-> Enchantingtable2013
-> .
+> 🎱 | As I see it, yes, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 06:34 PM)_
 
@@ -3762,13 +3547,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:34 PM)_
 
-> t!8ball Do I slap her so hard that she wakes up?
+t!8ball Do I slap her so hard that she wakes up?
 
 **Tatsumaki** _(15-Sep-18 06:34 PM)_
 
-> 🎱 | Yes,
-> Enchantingtable2013
-> .
+> 🎱 | Yes, Enchantingtable2013.
 
 **WatchfulDrake** _(15-Sep-18 06:34 PM)_
 
@@ -3788,7 +3571,7 @@ In the end, the result was:
 
 **Zander** _(15-Sep-18 06:35 PM)_
 
-> t!8ball Does Emmett weep softly, to the point of him falling asleep?
+t!8ball Does Emmett weep softly, to the point of him falling asleep?
 
 **Enchantingtable2013** _(15-Sep-18 06:35 PM)_
 
@@ -3800,13 +3583,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:35 PM)_
 
-> t!8ball Do I continue mouth to mouth?
+t!8ball Do I continue mouth to mouth?
 
 **Tatsumaki** _(15-Sep-18 06:35 PM)_
 
-> 🎱 | Ask again later,
-> Enchantingtable2013
-> .
+> 🎱 | Ask again later, Enchantingtable2013.
 
 **WatchfulDrake** _(15-Sep-18 06:35 PM)_
 
@@ -3814,13 +3595,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:36 PM)_
 
-> t!8ball Do I continue mouth to mouth?
+t!8ball Do I continue mouth to mouth?
 
 **Tatsumaki** _(15-Sep-18 06:36 PM)_
 
-> 🎱 | It is certain,
-> Enchantingtable2013
-> .
+> 🎱 | It is certain, Enchantingtable2013.
 
 **Jelsafan0** _(15-Sep-18 06:36 PM)_
 
@@ -3836,23 +3615,19 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:37 PM)_
 
-> t!8ball Do I slap Iris 10 times in attempt to wake her up?
+t!8ball Do I slap Iris 10 times in attempt to wake her up?
 
 **Tatsumaki** _(15-Sep-18 06:37 PM)_
 
-> 🎱 | Ask again later,
-> Enchantingtable2013
-> .
+> 🎱 | Ask again later, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 06:37 PM)_
 
-> t!8ball Do I slap Iris 10 times in attempt to wake her up?
+t!8ball Do I slap Iris 10 times in attempt to wake her up?
 
 **Tatsumaki** _(15-Sep-18 06:37 PM)_
 
-> 🎱 | My sources say no,
-> Enchantingtable2013
-> .
+> 🎱 | My sources say no, Enchantingtable2013.
 
 **WatchfulDrake** _(15-Sep-18 06:37 PM)_
 
@@ -3892,23 +3667,19 @@ In the end, the result was:
 
 **WatchfulDrake** _(15-Sep-18 06:39 PM)_
 
-> t!8ball Does Hector stabilize Iris's condition through an IV?
+t!8ball Does Hector stabilize Iris's condition through an IV?
 
 **Tatsumaki** _(15-Sep-18 06:39 PM)_
 
-> 🎱 | Reply hazy try again,
-> MultiTheDuck
-> .
+> 🎱 | Reply hazy try again, MultiTheDuck.
 
 **WatchfulDrake** _(15-Sep-18 06:39 PM)_
 
-> t!8ball Does Hector stabilize Iris's condition through an IV?
+t!8ball Does Hector stabilize Iris's condition through an IV?
 
 **Tatsumaki** _(15-Sep-18 06:39 PM)_
 
-> 🎱 | Signs point to yes,
-> MultiTheDuck
-> .
+> 🎱 | Signs point to yes, MultiTheDuck.
 
 **Jelsafan0** _(15-Sep-18 06:39 PM)_
 
@@ -3939,13 +3710,11 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 06:46 PM)_
 
-> t!8ball Does Matieu stare at Iris, angered by what had happened?
+t!8ball Does Matieu stare at Iris, angered by what had happened?
 
 **Tatsumaki** _(15-Sep-18 06:46 PM)_
 
-> 🎱 | You may rely on it,
-> Enchantingtable2013
-> .
+> 🎱 | You may rely on it, Enchantingtable2013.
 
 **Brakia** _(15-Sep-18 06:46 PM)_
 
@@ -4175,23 +3944,19 @@ In the end, the result was:
 
 **Jelsafan0** _(15-Sep-18 07:09 PM)_
 
-> t!8ball does Iris pull out her tubes?
+t!8ball does Iris pull out her tubes?
 
 **Tatsumaki** _(15-Sep-18 07:09 PM)_
 
-> 🎱 | As I see it, yes,
-> Jelsafan0
-> .
+> 🎱 | As I see it, yes, Jelsafan0.
 
 **Enchantingtable2013** _(15-Sep-18 07:10 PM)_
 
-> t!8ball Does Matieu firehis shot and hitting her in the neck?
+t!8ball Does Matieu firehis shot and hitting her in the neck?
 
 **Tatsumaki** _(15-Sep-18 07:10 PM)_
 
-> 🎱 | Outlook good,
-> Enchantingtable2013
-> .
+> 🎱 | Outlook good, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 07:10 PM)_
 
@@ -4260,45 +4025,37 @@ In the end, the result was:
 
 **Enchantingtable2013** _(15-Sep-18 07:16 PM)_
 
-> t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
+t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
 
 **Tatsumaki** _(15-Sep-18 07:16 PM)_
 
-> 🎱 | My reply is no,
-> Enchantingtable2013
-> .
+> 🎱 | My reply is no, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 07:16 PM)_
 
-> t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
+t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
 
 **Tatsumaki** _(15-Sep-18 07:16 PM)_
 
-> 🎱 | My sources say no,
-> Enchantingtable2013
-> .
+> 🎱 | My sources say no, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 07:16 PM)_
 
-> t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
-> t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
+t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
+t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
 
 **Tatsumaki** _(15-Sep-18 07:16 PM)_
 
-> 🎱 | Cannot predict now,
-> Enchantingtable2013
-> .
+> 🎱 | Cannot predict now, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 07:16 PM)_
 
-> t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
-> t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
+t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
+t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
 
 **Tatsumaki** _(15-Sep-18 07:16 PM)_
 
-> 🎱 | Without a doubt,
-> Enchantingtable2013
-> .
+> 🎱 | Without a doubt, Enchantingtable2013.
 
 **Enchantingtable2013** _(15-Sep-18 07:17 PM)_
 
