@@ -431,7 +431,7 @@ _Ibraxas enters his room, unloading his belongings._
 
 _Garrick awakes on the couch. His eyes pop open, making a loud gong sound._
 
-> This’ll be fun.
+> This'll be fun.
 
 **Mica** _(02-Jul-18 05:17 PM)_
 
@@ -586,7 +586,7 @@ _Seth looks wide-eyed at Garrick._
 
 **RPretribution** _(02-Jul-18 05:21 PM)_
 
-> ...That’s weird.
+> ...That's weird.
 
 _Garrick turns off his communicator._
 
@@ -615,7 +615,7 @@ _Steely watches Ibraxas from afar, petting his own arm._
 
 _Garrick pokes his head through Ibraxas's wall._
 
-> You’re an... abomination.
+> You're an... abomination.
 
 **Brakia** _(02-Jul-18 05:21 PM)_
 

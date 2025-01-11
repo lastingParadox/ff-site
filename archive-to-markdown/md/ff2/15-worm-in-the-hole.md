@@ -129,7 +129,7 @@ _Emmett sits in the lounge, smoking a joint of grass._
 
 **RPretribution** _(26-Aug-18 03:21 PM)_
 
-> Heya. Where’s Seth?
+> Heya. Where's Seth?
 
 **Zander** _(26-Aug-18 03:21 PM)_
 
@@ -211,7 +211,7 @@ _Emmett takes another smoke._
 
 _Garrick shrugs._
 
-> Hey, I won’t judge.
+> Hey, I won't judge.
 
 **Bagelwrecker** _(26-Aug-18 03:26 PM)_
 
@@ -479,7 +479,7 @@ _Seth face reddens in immediate anger._
 
 **RPretribution** _(26-Aug-18 03:45 PM)_
 
-> I’m never being a duck again!
+> I'm never being a duck again!
 
 t!8ball Does garrick waddle over to the pilot's console and frantically press things?
 

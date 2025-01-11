@@ -148,9 +148,9 @@ _Sanya rubs her hand and winces._
 
 **Jelsafan0** _(04-Sep-18 02:27 PM)_
 
-> I’m a bit tired, but not injured.
+> I'm a bit tired, but not injured.
 
-t!8ball Does a bird land on Iris’ head?
+t!8ball Does a bird land on Iris' head?
 
 **Tatsumaki** _(04-Sep-18 02:28 PM)_
 
@@ -158,7 +158,7 @@ t!8ball Does a bird land on Iris’ head?
 
 **Jelsafan0** _(04-Sep-18 02:29 PM)_
 
-> It’s a bird...
+> It's a bird...
 
 _Iris is amazed._
 
@@ -369,7 +369,7 @@ t!8ball Does Emmett grab the bird and stuff it in his mouth?
 
 **Jelsafan0** _(04-Sep-18 02:34 PM)_
 
-> Because I didn’t know they would leave you there.
+> Because I didn't know they would leave you there.
 
 _Iris shrugs._
 
@@ -409,7 +409,7 @@ _Chomsky shifts his attention to Emmett, still a bit pissed off._
 
 **Jelsafan0** _(04-Sep-18 02:36 PM)_
 
-> Don’t eat Qrow, Sanya!
+> Don't eat Qrow, Sanya!
 
 **Zander** _(04-Sep-18 02:36 PM)_
 
@@ -629,7 +629,7 @@ _Seth gives the ferrywoman a middle finger._
 
 **Jelsafan0** _(04-Sep-18 02:41 PM)_
 
-> ... But the archidemons had a myth of a supremely unlucky being that turned into a crow. I wasn’t going to take chances.
+> ... But the archidemons had a myth of a supremely unlucky being that turned into a crow. I wasn't going to take chances.
 
 _Iris folds her arms._
 
@@ -809,7 +809,7 @@ _Sanya looks up at Emmett._
 
 _Iris slaps Kyle's hand away._
 
-> Don’t do that.
+> Don't do that.
 
 **Bagelwrecker** _(04-Sep-18 02:46 PM)_
 
@@ -917,7 +917,7 @@ _Seth raises an eyebrow to the goddess._
 
 _Iris, shocked and saddened, throws her arms around Sanya from behind._
 
-> It’s someone who raises you and loves you and supports you!
+> It's someone who raises you and loves you and supports you!
 
 **Enchantingtable2013** _(04-Sep-18 02:49 PM)_
 
@@ -1019,7 +1019,7 @@ _Emmett looks up at Sanya in confusion, but after a couple of seconds, he licks 
 
 _Iris looks away from Sanya andd Emmett, blushing from the two. She stares at Qrow's ashes and frowns._
 
-> Now I wish I hadn’t set Qrow on fire.
+> Now I wish I hadn't set Qrow on fire.
 
 **ProfessorTree** _(04-Sep-18 02:55 PM)_
 
@@ -1209,7 +1209,7 @@ _Sanya smiles a bit at the pitiful sight of the squoatling shrinking in her lap.
 
 **Jelsafan0** _(04-Sep-18 03:03 PM)_
 
-> I’ll hold him.
+> I'll hold him.
 
 _Iris sits down next to Sanya and holds her hands out._
 
@@ -1269,7 +1269,7 @@ _Upon the vespoid being teleported to the heavenly river, Seth raises an eyebrow
 
 **Jelsafan0** _(04-Sep-18 03:04 PM)_
 
-> It won’t matter in like ten to fifteen minutes.
+> It won't matter in like ten to fifteen minutes.
 
 _Iris is pulling numbers out of her ass, but her panic is very real for her friend._
 
@@ -1391,7 +1391,7 @@ _Seth facepalms._
 
 **Jelsafan0** _(04-Sep-18 03:08 PM)_
 
-> Please tell me he just didn’t spit it all out...
+> Please tell me he just didn't spit it all out...
 
 _Iris examines the bowl. It still had quite a bit of the mix left._
 
@@ -1499,7 +1499,7 @@ _Emmett gives a gurgled bleat, some of the burning mixture going down his throat
 
 **Jelsafan0** _(04-Sep-18 03:11 PM)_
 
-> Great. You’re cured.
+> Great. You're cured.
 
 _Iris backs off from Emmett, sighing in relief._
 
@@ -1526,7 +1526,7 @@ _`Bee Emmett`: Emmett looks away from Seth, practically having given up at this 
 
 **Jelsafan0** _(04-Sep-18 03:12 PM)_
 
-> Wouldn’t it take time to take effect?
+> Wouldn't it take time to take effect?
 
 **Brakia** _(04-Sep-18 03:13 PM)_
 
@@ -1673,7 +1673,7 @@ _Seth puts an arm around Emmett, who happens to be his normal height and self ag
 
 _Iris leans on Sanya and sighs, having matched her apathy towards the strange phenomena the crew frequents._
 
-> I’m just going to sit down. I’m too tired for this...
+> I'm just going to sit down. I'm too tired for this...
 
 **WatchfulDrake** _(04-Sep-18 03:20 PM)_
 
@@ -1763,7 +1763,7 @@ _Seth frowns._
 
 _Iris lazily waves at the robot wasp._
 
-> Hi. I’m Iris and I am so sick of all the weirdness.
+> Hi. I'm Iris and I am so sick of all the weirdness.
 
 **Zander** _(04-Sep-18 03:21 PM)_
 
@@ -2082,7 +2082,7 @@ _Chomsky puts down his flamethrower._
 
 _Iris stands, inquiring Chomsky's strange response._
 
-> What’s what all about?
+> What's what all about?
 
 **Zander** _(04-Sep-18 03:31 PM)_
 
@@ -2094,7 +2094,7 @@ _`Bee Emmett`: Bee Emmett pauses, trying to recall an elf planet that exploded i
 
 _Iris nods._
 
-> Yes. There was a gas leak in the planet’s core and it blew up.
+> Yes. There was a gas leak in the planet's core and it blew up.
 
 **Enchantingtable2013** _(04-Sep-18 03:32 PM)_
 
@@ -2265,7 +2265,7 @@ _Seth shrugs._
 
 _Iris points at Bee Emmett._
 
-> You called me a light elf. I’m half archidemon. Don’t forget that!
+> You called me a light elf. I'm half archidemon. Don't forget that!
 
 **Brakia** _(04-Sep-18 03:37 PM)_
 
@@ -2285,7 +2285,7 @@ _Matieu sticks a hand in his pants and takes it out, flicking a wet substance in
 
 **Jelsafan0** _(04-Sep-18 03:37 PM)_
 
-> Then we’ll stay here until we get one...
+> Then we'll stay here until we get one...
 
 _Iris whole body is repulsed from Matieu's vile display._
 
@@ -2554,7 +2554,7 @@ _The two Emmetts are swapped, with Bee Emmett teleporting back to the Elf Heaven
 
 _Iris takes out her hands and produces fireballs, threatening both Matieu and Sanya._
 
-> Don’t make me set your pants on fire!
+> Don't make me set your pants on fire!
 
 **Enchantingtable2013** _(04-Sep-18 03:41 PM)_
 
@@ -2912,7 +2912,7 @@ _Emmett gives an uncertain nod and lies down on the ground for Hector._
 
 **Jelsafan0** _(04-Sep-18 03:51 PM)_
 
-> Don’t make me do it.
+> Don't make me do it.
 
 **Brakia** _(04-Sep-18 03:51 PM)_
 
@@ -3139,7 +3139,7 @@ _Matieu gives a big beaky smiles, his brow guilty._
 
 _Iris maintains a stalwart glare in Matieu's direction._
 
-> Wouldn’t I?
+> Wouldn't I?
 
 **WatchfulDrake** _(04-Sep-18 03:58 PM)_
 
@@ -3294,7 +3294,7 @@ _Garrick holds the sides of his head, assumably his ears._
 
 _Iris punches the palm of her hand threateningly._
 
-> I get to see my parents, my cousin, my best friend, my aunt, my uncle. I don’t fear death.
+> I get to see my parents, my cousin, my best friend, my aunt, my uncle. I don't fear death.
 
 **Enchantingtable2013** _(04-Sep-18 04:01 PM)_
 
@@ -3332,7 +3332,7 @@ _Garrick pokes at Chomsky as he dances, singing a nursery rhyme._
 
 **Jelsafan0** _(04-Sep-18 04:04 PM)_
 
-t!8ball Does Iris’s anger at the new knowledge that her planet was intentionally blown up make her more scary?
+t!8ball Does Iris's anger at the new knowledge that her planet was intentionally blown up make her more scary?
 
 **Tatsumaki** _(04-Sep-18 04:04 PM)_
 
@@ -3372,7 +3372,7 @@ _Matieu grabs at Iris's arm and tries to drag her off to no success._
 
 _Iris grimaces as Matieu tries to pull her away and remains standing stalwart, her stare remaining on Dread._
 
-> I just found out someone orchestrated the murder of everyone I ever knew and loved. You don’t wanna screw with me right now.
+> I just found out someone orchestrated the murder of everyone I ever knew and loved. You don't wanna screw with me right now.
 
 **ProfessorTree** _(04-Sep-18 04:06 PM)_
 
@@ -3392,7 +3392,7 @@ _`Dread`: Dread scoffs._
 
 _Iris raises an eyebrow._
 
-> What’s your point?
+> What's your point?
 
 **ProfessorTree** _(04-Sep-18 04:07 PM)_
 
@@ -3558,11 +3558,11 @@ _Feeling good after his unseen escapades with the two Goddesses, Seth looks arou
 
 **Jelsafan0** _(04-Sep-18 04:10 PM)_
 
-> My fire can’t be extinguished.
+> My fire can't be extinguished.
 
 _Iris gives Dread a proud smirk._
 
-> It’s dangerous...
+> It's dangerous...
 
 **Enchantingtable2013** _(04-Sep-18 04:10 PM)_
 
@@ -3613,7 +3613,7 @@ _Garrick wink wonks._
 
 _Iris sighs and decides to entertain Garrick's joke question._
 
-> And no, magic fire can’t be extinguished.
+> And no, magic fire can't be extinguished.
 
 **RPretribution** _(04-Sep-18 04:11 PM)_
 
@@ -3736,7 +3736,7 @@ t!8ball does Iris wake Sanya up?
 
 **Jelsafan0** _(04-Sep-18 04:16 PM)_
 
-> Great, now she’s not trying to murder anyone.
+> Great, now she's not trying to murder anyone.
 
 **PlasmaPerson** _(04-Sep-18 04:17 PM)_
 
@@ -3814,7 +3814,7 @@ _Iris pauses in disgust._
 
 **Jelsafan0** _(04-Sep-18 04:18 PM)_
 
-> That’s dangerous. Maybe don’t do that?
+> That's dangerous. Maybe don't do that?
 
 **Enchantingtable2013** _(04-Sep-18 04:19 PM)_
 
@@ -3840,7 +3840,7 @@ t!8ball Does Seth step off Emmett?
 
 **Jelsafan0** _(04-Sep-18 04:19 PM)_
 
-> Please, don’t do that.
+> Please, don't do that.
 
 **Enchantingtable2013** _(04-Sep-18 04:19 PM)_
 
@@ -3850,7 +3850,7 @@ t!8ball Does Seth step off Emmett?
 
 **Jelsafan0** _(04-Sep-18 04:19 PM)_
 
-> I’m pretty sure it’s bad for your health though.
+> I'm pretty sure it's bad for your health though.
 
 **Enchantingtable2013** _(04-Sep-18 04:20 PM)_
 
@@ -4024,7 +4024,7 @@ _Matieu tells a big fat lie to impress Iris._
 
 _Iris trembles briefly._
 
-> He wasn’t scared of my fire. I wasn’t sure what to do.
+> He wasn't scared of my fire. I wasn't sure what to do.
 
 **Bagelwrecker** _(04-Sep-18 04:24 PM)_
 
@@ -4040,7 +4040,7 @@ _Iris trembles briefly._
 
 **Jelsafan0** _(04-Sep-18 04:24 PM)_
 
-> That’s great, Seth!
+> That's great, Seth!
 
 **PlasmaPerson** _(04-Sep-18 04:25 PM)_
 
@@ -4054,7 +4054,7 @@ _Chomsky is completely unaware that Dread even existed, thinking Sanya was just 
 
 **Jelsafan0** _(04-Sep-18 04:25 PM)_
 
-> He said he’d come back.
+> He said he'd come back.
 
 **Enchantingtable2013** _(04-Sep-18 04:25 PM)_
 
@@ -4117,7 +4117,7 @@ _Matieu daydreams about Kleux for a moment._
 
 **Jelsafan0** _(04-Sep-18 04:26 PM)_
 
-> I’m like the easiest person to kill, all you have to do is take off my necklace.
+> I'm like the easiest person to kill, all you have to do is take off my necklace.
 
 **RPretribution** _(04-Sep-18 04:26 PM)_
 
@@ -4147,7 +4147,7 @@ _Garrick playfully wails as he flies away._
 
 **Jelsafan0** _(04-Sep-18 04:27 PM)_
 
-> Wow. Got it. I promise I won’t cry.
+> Wow. Got it. I promise I won't cry.
 
 _Iris grits her teeth, bearing through her shock and germinating trauma._
 
@@ -4167,7 +4167,7 @@ _Kyle says this with a strong air of overconfidence._
 
 **Jelsafan0** _(04-Sep-18 04:27 PM)_
 
-> We’re all unharmed.
+> We're all unharmed.
 
 _Iris looks down at Emmett, who she towers over even more than before._
 
@@ -4251,7 +4251,7 @@ t!8ball Does everything go back to normal and everyone makes up?
 
 **Jelsafan0** _(04-Sep-18 04:31 PM)_
 
-> I’m gonna hazard a guess and say that’s bad.
+> I'm gonna hazard a guess and say that's bad.
 
 **PlasmaPerson** _(04-Sep-18 04:31 PM)_
 
@@ -4284,7 +4284,7 @@ _Matieu looks over by chance towards the still-burning hut fire, and sees someth
 
 **Zander** _(04-Sep-18 04:33 PM)_
 
-_Emmett, feeling suddenly enchanted by the O.O.F., begins approaching the distressed Sanya with a kissy-kissy face._ 
+_Emmett, feeling suddenly enchanted by the O.O.F., begins approaching the distressed Sanya with a kissy-kissy face._
 
 **Brakia** _(04-Sep-18 04:34 PM)_
 

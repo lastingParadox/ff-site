@@ -1,6 +1,6 @@
 **Zander** _(07-Oct-18 02:45 PM)_
 
-> t!8ball Is Emmett currently idling around the campfire?
+t!8ball Is Emmett currently idling around the campfire?
 
 **Tatsumaki** _(07-Oct-18 02:45 PM)_
 
@@ -14,7 +14,7 @@
 
 **Arky** _(07-Oct-18 02:46 PM)_
 
-> t!8ball does Lucian walk out to say hi?
+t!8ball does Lucian walk out to say hi?
 
 **Tatsumaki** _(07-Oct-18 02:46 PM)_
 
@@ -33,7 +33,7 @@
 
 **Deyner** _(07-Oct-18 02:47 PM)_
 
-> Hello! I believe we haven’t met!
+> Hello! I believe we haven't met!
 
 **Bagelwrecker** _(07-Oct-18 02:47 PM)_
 
@@ -166,11 +166,11 @@
 
 **Platinum_Pathos** _(07-Oct-18 02:52 PM)_
 
-> t!8ball Does Danny exit the ship and join the others around the campfire?
+t!8ball Does Danny exit the ship and join the others around the campfire?
 
 **Deyner** _(07-Oct-18 02:52 PM)_
 
-> t!8ball does he mouse one day hack the computerized safe and get the cheese?
+t!8ball does he mouse one day hack the computerized safe and get the cheese?
 
 **Tatsumaki** _(07-Oct-18 02:52 PM)_
 
@@ -183,7 +183,7 @@
 
 **Deyner** _(07-Oct-18 02:53 PM)_
 
-> t!8ball Does Deyner look on the map
+t!8ball Does Deyner look on the map
 
 **Tatsumaki** _(07-Oct-18 02:53 PM)_
 
@@ -209,7 +209,7 @@
 
 **Bagelwrecker** _(07-Oct-18 02:54 PM)_
 
-> t!8ball Does Seth sit back and play with his lighter?
+t!8ball Does Seth sit back and play with his lighter?
 
 **Tatsumaki** _(07-Oct-18 02:54 PM)_
 
@@ -232,7 +232,7 @@
 
 **Deyner** _(07-Oct-18 02:55 PM)_
 
-> Eh it’s alright
+> Eh it's alright
 
 **Platinum_Pathos** _(07-Oct-18 02:55 PM)_
 
@@ -248,11 +248,11 @@
 
 **Deyner** _(07-Oct-18 02:55 PM)_
 
-> Hey I’m half Drow
+> Hey I'm half Drow
 
 **RPretribution** _(07-Oct-18 02:55 PM)_
 
-> t!8ball does garrick pull out a rubber chicken and show emmett
+t!8ball does garrick pull out a rubber chicken and show emmett
 
 **Tatsumaki** _(07-Oct-18 02:55 PM)_
 
@@ -294,7 +294,7 @@
 
 **Zander** _(07-Oct-18 02:56 PM)_
 
-> t!8ball Does Emmett take the squirrel and lay the stick on his legs to cool off?
+t!8ball Does Emmett take the squirrel and lay the stick on his legs to cool off?
 
 **Tatsumaki** _(07-Oct-18 02:56 PM)_
 
@@ -320,7 +320,7 @@
 
 **Deyner** _(07-Oct-18 02:58 PM)_
 
-> I’ll freeze you before that happens
+> I'll freeze you before that happens
 
 **Zander** _(07-Oct-18 02:58 PM)_
 
@@ -378,7 +378,7 @@
 
 **Deyner** _(07-Oct-18 03:00 PM)_
 
-> Then make it to where they can’t hide
+> Then make it to where they can't hide
 
 **Zander** _(07-Oct-18 03:00 PM)_
 
@@ -430,7 +430,7 @@
 **Deyner** _(07-Oct-18 03:02 PM)_
 
 > pulls out his swords
-> I don’t know are you
+> I don't know are you
 
 **RPretribution** _(07-Oct-18 03:02 PM)_
 
@@ -478,7 +478,7 @@
 
 **Deyner** _(07-Oct-18 03:04 PM)_
 
-> t!8ball does the Drow show up?
+t!8ball does the Drow show up?
 
 **Tatsumaki** _(07-Oct-18 03:04 PM)_
 
@@ -508,7 +508,7 @@
 
 **Zander** _(07-Oct-18 03:05 PM)_
 
-> t!roll 4d100
+t!roll 4d100
 
 **Tatsumaki** _(07-Oct-18 03:05 PM)_
 
@@ -526,7 +526,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 03:05 PM)_
 
-> t!roll 10d10000
+t!roll 10d10000
 
 **Tatsumaki** _(07-Oct-18 03:05 PM)_
 
@@ -538,7 +538,7 @@ sides.
 
 **RPretribution** _(07-Oct-18 03:05 PM)_
 
-> t!roll 10d100
+t!roll 10d100
 
 **Tatsumaki** _(07-Oct-18 03:05 PM)_
 
@@ -552,7 +552,7 @@ In the end, the result was:
 
 **Arky** _(07-Oct-18 03:05 PM)_
 
-> t!roll 2d6
+t!roll 2d6
 
 **Tatsumaki** _(07-Oct-18 03:05 PM)_
 
@@ -586,7 +586,7 @@ In the end, the result was:
 
 **Arky** _(07-Oct-18 03:06 PM)_
 
-> t!roll 2d8
+t!roll 2d8
 
 **Tatsumaki** _(07-Oct-18 03:06 PM)_
 
@@ -657,7 +657,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(07-Oct-18 03:08 PM)_
 
-> t!8ball does hector go with deyner to help him design a gas mask strong enough to withstand his gas?
+t!8ball does hector go with deyner to help him design a gas mask strong enough to withstand his gas?
 
 **Tatsumaki** _(07-Oct-18 03:08 PM)_
 
@@ -675,7 +675,7 @@ In the end, the result was:
 
 **Deyner** _(07-Oct-18 03:08 PM)_
 
-> Plus we don’t all need a mask trey is immune to pathogens
+> Plus we don't all need a mask trey is immune to pathogens
 
 **RPretribution** _(07-Oct-18 03:09 PM)_
 
@@ -800,7 +800,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(07-Oct-18 03:13 PM)_
 
-> t!choose errywone get 1/16 borgar from garrick pocket | the fire spreads to emmetts foot
+t!choose errywone get 1/16 borgar from garrick pocket | the fire spreads to emmetts foot
 
 **Tatsumaki** _(07-Oct-18 03:13 PM)_
 
@@ -848,7 +848,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(07-Oct-18 03:14 PM)_
 
-> t!8ball Is Danny out of food in his room?
+t!8ball Is Danny out of food in his room?
 
 **Tatsumaki** _(07-Oct-18 03:14 PM)_
 
@@ -858,7 +858,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(07-Oct-18 03:15 PM)_
 
-> t!8ball Is Danny out of food in his room?
+t!8ball Is Danny out of food in his room?
 
 **Tatsumaki** _(07-Oct-18 03:15 PM)_
 
@@ -888,7 +888,7 @@ In the end, the result was:
 
 **Deyner** _(07-Oct-18 03:16 PM)_
 
-> t!8ball does Deyner start crafting a prototype mask?
+t!8ball does Deyner start crafting a prototype mask?
 
 **Tatsumaki** _(07-Oct-18 03:16 PM)_
 
@@ -902,7 +902,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 03:16 PM)_
 
-> t!8ball does garrick run off in a random direction
+t!8ball does garrick run off in a random direction
 
 **Tatsumaki** _(07-Oct-18 03:16 PM)_
 
@@ -912,7 +912,7 @@ In the end, the result was:
 
 **Deyner** _(07-Oct-18 03:16 PM)_
 
-> t!8ball does Deyner start crafting a prototype mask?
+t!8ball does Deyner start crafting a prototype mask?
 
 **Tatsumaki** _(07-Oct-18 03:16 PM)_
 
@@ -948,7 +948,7 @@ In the end, the result was:
 
 **Deyner** _(07-Oct-18 03:18 PM)_
 
-> Gods fucking dammit why won’t this thing work!?
+> Gods fucking dammit why won't this thing work!?
 
 **Tatsumaki** _(07-Oct-18 03:18 PM)_
 
@@ -958,7 +958,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 03:18 PM)_
 
-> t!8ball Does Emmett get up and put on his goggles?
+t!8ball Does Emmett get up and put on his goggles?
 
 **PlasmaPerson** _(07-Oct-18 03:18 PM)_
 
@@ -970,7 +970,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 03:18 PM)_
 
-> t!8ball Does Seth get up and grab his backpack?
+t!8ball Does Seth get up and grab his backpack?
 
 **Tatsumaki** _(07-Oct-18 03:18 PM)_
 
@@ -1160,7 +1160,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 03:26 PM)_
 
-> t!8ball does garrick find something
+t!8ball does garrick find something
 
 **Tatsumaki** _(07-Oct-18 03:26 PM)_
 
@@ -1174,7 +1174,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 03:26 PM)_
 
-> t!8ball Do we finally get there?
+t!8ball Do we finally get there?
 
 **Tatsumaki** _(07-Oct-18 03:26 PM)_
 
@@ -1222,11 +1222,11 @@ In the end, the result was:
 **Deyner** _(07-Oct-18 03:28 PM)_
 
 > Time for some mischief hehe
-> starts posting pictures of goat cock in Emmett’s room
+> starts posting pictures of goat cock in Emmett's room
 
 **Bagelwrecker** _(07-Oct-18 03:28 PM)_
 
-> t!choose Town | Stream | Giant Dam | Portside City | town next to stream | Beach | Old Campsite | Burnt Down forest | Mountainside town
+t!choose Town | Stream | Giant Dam | Portside City | town next to stream | Beach | Old Campsite | Burnt Down forest | Mountainside town
 
 **Tatsumaki** _(07-Oct-18 03:28 PM)_
 
@@ -1251,9 +1251,9 @@ In the end, the result was:
 **Jelsafan0** _(07-Oct-18 03:29 PM)_
 
 > Iris turns pink.
-> My bad... it’s probably related to these.
+> My bad... it's probably related to these.
 > she shows him the red veiny pattern on her wrists.
-> they’ve been almost glowing all day.
+> they've been almost glowing all day.
 
 **Platinum_Pathos** _(07-Oct-18 03:29 PM)_
 
@@ -1306,7 +1306,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:31 PM)_
 
-> Iris’ eyes sparkle.
+> Iris' eyes sparkle.
 > a dam? Yes please!
 
 **PlasmaPerson** _(07-Oct-18 03:32 PM)_
@@ -1319,7 +1319,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(07-Oct-18 03:32 PM)_
 
-> t!choose dam | city | forest| nothing |
+t!choose dam | city | forest| nothing |
 
 **RPretribution** _(07-Oct-18 03:32 PM)_
 
@@ -1377,7 +1377,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(07-Oct-18 03:33 PM)_
 
-> t!8ball does Chomsky run ahead to the other side of the dam
+t!8ball does Chomsky run ahead to the other side of the dam
 
 **Tatsumaki** _(07-Oct-18 03:33 PM)_
 
@@ -1395,7 +1395,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:34 PM)_
 
-> t!8ball does Iris know everything there is to know about dams?
+t!8ball does Iris know everything there is to know about dams?
 
 **Tatsumaki** _(07-Oct-18 03:34 PM)_
 
@@ -1405,7 +1405,7 @@ In the end, the result was:
 
 **Deyner** _(07-Oct-18 03:34 PM)_
 
-> see’s a mouse trying to heat up the spaghetti
+> see's a mouse trying to heat up the spaghetti
 
 **Bagelwrecker** _(07-Oct-18 03:35 PM)_
 
@@ -1413,7 +1413,7 @@ In the end, the result was:
 
 **Deyner** _(07-Oct-18 03:35 PM)_
 
-> t!8ball Does seeing the mouse heat up there spaghetti fill you with determination and cause you to fix up the ship?
+t!8ball Does seeing the mouse heat up there spaghetti fill you with determination and cause you to fix up the ship?
 
 **Tatsumaki** _(07-Oct-18 03:35 PM)_
 
@@ -1423,12 +1423,12 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:35 PM)_
 
-> It’s like an evolved form of beaver dam.
+> It's like an evolved form of beaver dam.
 > I recognize the general structure.
 
 **Zander** _(07-Oct-18 03:35 PM)_
 
-> t!8bhall Does Deyner turn into a 1" marble for ten seconds?
+t!8bhall Does Deyner turn into a 1" marble for ten seconds?
 
 **PlasmaPerson** _(07-Oct-18 03:36 PM)_
 
@@ -1456,7 +1456,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(07-Oct-18 03:36 PM)_
 
-> t!8ball Does Danny watch the stream alone in blissful serenity?
+t!8ball Does Danny watch the stream alone in blissful serenity?
 
 **Tatsumaki** _(07-Oct-18 03:36 PM)_
 
@@ -1540,7 +1540,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:39 PM)_
 
-> Ah- I wouldn’t do that if I were you! Beavers and platypi are known to be very territorial and build their homes either immediately next to or within their dams!
+> Ah- I wouldn't do that if I were you! Beavers and platypi are known to be very territorial and build their homes either immediately next to or within their dams!
 
 **Zander** _(07-Oct-18 03:39 PM)_
 
@@ -1600,7 +1600,7 @@ In the end, the result was:
 **Jelsafan0** _(07-Oct-18 03:43 PM)_
 
 > An ottori emerges from the dam, shaking her fist at Garrick. She has a Brooklyn accent.
-> Ey! Get outta my house! What’a you doin’ here?! I ain’t take kindly to no teresspassas!
+> Ey! Get outta my house! What'a you doin' here?! I ain't take kindly to no teresspassas!
 
 **Zander** _(07-Oct-18 03:43 PM)_
 
@@ -1645,7 +1645,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 03:45 PM)_
 
-> t!8ball Does Seth throw a rock at the dam causing it to crumble and kill everyone in it?
+t!8ball Does Seth throw a rock at the dam causing it to crumble and kill everyone in it?
 
 **Tatsumaki** _(07-Oct-18 03:45 PM)_
 
@@ -1660,7 +1660,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:45 PM)_
 
-> ”I’m sorry about my wife there. She’s very territorial after we were attacked last year.”
+> ”I'm sorry about my wife there. She's very territorial after we were attacked last year.”
 
 **Bagelwrecker** _(07-Oct-18 03:45 PM)_
 
@@ -1674,7 +1674,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:46 PM)_
 
-> I’m Fine. I told you, though. They are territorial.
+> I'm Fine. I told you, though. They are territorial.
 
 **Bagelwrecker** _(07-Oct-18 03:46 PM)_
 
@@ -1686,7 +1686,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 03:47 PM)_
 
-> t!8ball does garrick go invade another house
+t!8ball does garrick go invade another house
 
 **Tatsumaki** _(07-Oct-18 03:47 PM)_
 
@@ -1729,7 +1729,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 03:49 PM)_
 
-> t!8ball Does Garrick pull out [random item dictated by Rashidi] out of his pocket?
+t!8ball Does Garrick pull out [random item dictated by Rashidi] out of his pocket?
 
 **Tatsumaki** _(07-Oct-18 03:49 PM)_
 
@@ -1811,7 +1811,7 @@ In the end, the result was:
 **Jelsafan0** _(07-Oct-18 03:52 PM)_
 
 > the ottori girl follows him fuming, fur wet with a towel on.
-> ”HEY! THAT WAS MY NANA’S!”
+> ”HEY! THAT WAS MY NANA'S!”
 
 **PlasmaPerson** _(07-Oct-18 03:52 PM)_
 
@@ -1819,11 +1819,11 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:52 PM)_
 
-> I’m fine.
+> I'm fine.
 
 **WatchfulDrake** _(07-Oct-18 03:53 PM)_
 
-> t!8ball does the sight of trey stealing from them anger the locals into attacking?
+t!8ball does the sight of trey stealing from them anger the locals into attacking?
 
 **Tatsumaki** _(07-Oct-18 03:53 PM)_
 
@@ -1842,11 +1842,11 @@ In the end, the result was:
 **Jelsafan0** _(07-Oct-18 03:54 PM)_
 
 > Iris shakes her head.
-> Nah. That’s how friends normally are.
+> Nah. That's how friends normally are.
 
 **PlasmaPerson** _(07-Oct-18 03:54 PM)_
 
-> t!8ball does Chomsky approach one of the otteri and explain that they are nite there to make enemies
+t!8ball does Chomsky approach one of the otteri and explain that they are nite there to make enemies
 
 **Tatsumaki** _(07-Oct-18 03:54 PM)_
 
@@ -1856,7 +1856,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(07-Oct-18 03:54 PM)_
 
-> t!8ball answer me better this time
+t!8ball answer me better this time
 
 **Tatsumaki** _(07-Oct-18 03:54 PM)_
 
@@ -1874,7 +1874,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:55 PM)_
 
-> ”HEY! LEAVE MY NANA’S HEIRLOOMS ALONE!”
+> ”HEY! LEAVE MY NANA'S HEIRLOOMS ALONE!”
 
 **PlasmaPerson** _(07-Oct-18 03:55 PM)_
 
@@ -1936,7 +1936,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 03:58 PM)_
 
-> t!8ball does the 12-year-old ottori girl have a kid crush on Garrick?
+t!8ball does the 12-year-old ottori girl have a kid crush on Garrick?
 
 **Tatsumaki** _(07-Oct-18 03:58 PM)_
 
@@ -1959,11 +1959,11 @@ In the end, the result was:
 **Jelsafan0** _(07-Oct-18 03:59 PM)_
 
 > Iris nods sluggishly.
-> Yeah.... fire.... n’ stuff....
+> Yeah.... fire.... n' stuff....
 
 **Platinum_Pathos** _(07-Oct-18 03:59 PM)_
 
-> t!8ball Does Danny pour water from the stream on Iris and Emmett?
+t!8ball Does Danny pour water from the stream on Iris and Emmett?
 
 **Tatsumaki** _(07-Oct-18 03:59 PM)_
 
@@ -1977,7 +1977,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 03:59 PM)_
 
-> t!8ball Is the water from the stream Piss?
+t!8ball Is the water from the stream Piss?
 
 **Tatsumaki** _(07-Oct-18 03:59 PM)_
 
@@ -1987,7 +1987,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 03:59 PM)_
 
-> t!8ball Is the water from the stream Piss?
+t!8ball Is the water from the stream Piss?
 
 **Tatsumaki** _(07-Oct-18 03:59 PM)_
 
@@ -2016,7 +2016,7 @@ In the end, the result was:
 **Jelsafan0** _(07-Oct-18 04:01 PM)_
 
 > the ottori girl turns pink.
-> ”Look. If you want my nana’s heirlooms, you’ll have to take me too!”
+> ”Look. If you want my nana's heirlooms, you'll have to take me too!”
 
 **RPretribution** _(07-Oct-18 04:01 PM)_
 
@@ -2035,7 +2035,7 @@ In the end, the result was:
 
 > ”h-hey!”
 > She exclaims, red faced,
-> ”I-I’m an adult!”
+> ”I-I'm an adult!”
 
 **RPretribution** _(07-Oct-18 04:02 PM)_
 
@@ -2047,7 +2047,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:02 PM)_
 
-> The ottori girl’s face turns very red.
+> The ottori girl's face turns very red.
 
 **Zander** _(07-Oct-18 04:02 PM)_
 
@@ -2138,7 +2138,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:06 PM)_
 
-> I’m.... fine....
+> I'm.... fine....
 > Iris whispers.
 
 **Bagelwrecker** _(07-Oct-18 04:06 PM)_
@@ -2147,7 +2147,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:06 PM)_
 
-> t!8ball does garrick tase the little girl
+t!8ball does garrick tase the little girl
 
 **Tatsumaki** _(07-Oct-18 04:06 PM)_
 
@@ -2174,7 +2174,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:07 PM)_
 
-> t!8ball Does one of the Ottori start running around with a bomb in his hands, screaming in panic?
+t!8ball Does one of the Ottori start running around with a bomb in his hands, screaming in panic?
 
 **Tatsumaki** _(07-Oct-18 04:07 PM)_
 
@@ -2192,7 +2192,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:07 PM)_
 
-> t!8ball Does one of the Ottori start running around with a bomb in his hands, screaming in panic?
+t!8ball Does one of the Ottori start running around with a bomb in his hands, screaming in panic?
 
 **Tatsumaki** _(07-Oct-18 04:07 PM)_
 
@@ -2218,7 +2218,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:08 PM)_
 
-> ”I’M 12!!”
+> ”I'M 12!!”
 > she screams, louder, clearly upset.
 
 **Bagelwrecker** _(07-Oct-18 04:08 PM)_
@@ -2243,7 +2243,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 04:09 PM)_
 
-> t!8ball Does Seth spartan kick Chomsky out a window?
+t!8ball Does Seth spartan kick Chomsky out a window?
 
 **Tatsumaki** _(07-Oct-18 04:09 PM)_
 
@@ -2265,7 +2265,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(07-Oct-18 04:09 PM)_
 
-> t!8ball does garrick taze the parents also
+t!8ball does garrick taze the parents also
 
 **Tatsumaki** _(07-Oct-18 04:09 PM)_
 
@@ -2283,7 +2283,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:09 PM)_
 
-> t!roll
+t!roll
 
 **Tatsumaki** _(07-Oct-18 04:09 PM)_
 
@@ -2291,7 +2291,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 04:09 PM)_
 
-> t!roll D10
+t!roll D10
 
 **Tatsumaki** _(07-Oct-18 04:09 PM)_
 
@@ -2305,7 +2305,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:09 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(07-Oct-18 04:09 PM)_
 
@@ -2355,7 +2355,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:11 PM)_
 
-> ”Jessica, sweetheart, what’s wrong?”
+> ”Jessica, sweetheart, what's wrong?”
 
 **Platinum_Pathos** _(07-Oct-18 04:11 PM)_
 
@@ -2383,7 +2383,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:12 PM)_
 
-> ”H-HE DOESN’T LIKE MEEEEE!!!!”
+> ”H-HE DOESN'T LIKE MEEEEE!!!!”
 
 **Bagelwrecker** _(07-Oct-18 04:12 PM)_
 
@@ -2395,7 +2395,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:14 PM)_
 
-> She’s the messiah now
+> She's the messiah now
 > The Jesus of the ottori
 
 **RPretribution** _(07-Oct-18 04:14 PM)_
@@ -2424,7 +2424,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(07-Oct-18 04:15 PM)_
 
-> t!8ball Does Danny find the ottori's food storage supply?
+t!8ball Does Danny find the ottori's food storage supply?
 
 **Tatsumaki** _(07-Oct-18 04:15 PM)_
 
@@ -2442,7 +2442,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:16 PM)_
 
-> its...okay....I’m just...tired...
+> its...okay....I'm just...tired...
 
 **WatchfulDrake** _(07-Oct-18 04:16 PM)_
 
@@ -2461,7 +2461,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:16 PM)_
 
-> t!8ball does garrick take the costume off of seth
+t!8ball does garrick take the costume off of seth
 
 **Tatsumaki** _(07-Oct-18 04:16 PM)_
 
@@ -2475,7 +2475,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:17 PM)_
 
-> t!8ball Does Iris feel better after having a nice dip in the pond?
+t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Tatsumaki** _(07-Oct-18 04:17 PM)_
 
@@ -2489,7 +2489,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:17 PM)_
 
-> t!8ball Does Iris feel better after having a nice dip in the pond?
+t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Tatsumaki** _(07-Oct-18 04:17 PM)_
 
@@ -2527,7 +2527,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:18 PM)_
 
-> ”You! Young man! You say you’ll love our daughter?”
+> ”You! Young man! You say you'll love our daughter?”
 
 **Bagelwrecker** _(07-Oct-18 04:18 PM)_
 
@@ -2556,7 +2556,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(07-Oct-18 04:19 PM)_
 
-> t!8ball does hector find the dam's bank?
+t!8ball does hector find the dam's bank?
 
 **Tatsumaki** _(07-Oct-18 04:19 PM)_
 
@@ -2570,7 +2570,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(07-Oct-18 04:19 PM)_
 
-> t!8ball does hector find the dam's bank?
+t!8ball does hector find the dam's bank?
 
 **Tatsumaki** _(07-Oct-18 04:19 PM)_
 
@@ -2689,7 +2689,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(07-Oct-18 04:23 PM)_
 
-> t!choose Chomsky goes back to garrick | Chomsky fights the lammas
+t!choose Chomsky goes back to garrick | Chomsky fights the lammas
 
 **Tatsumaki** _(07-Oct-18 04:23 PM)_
 
@@ -2741,7 +2741,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:24 PM)_
 
-> isn’t that cool?
+> isn't that cool?
 
 **PlasmaPerson** _(07-Oct-18 04:24 PM)_
 
@@ -2795,7 +2795,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:26 PM)_
 
-> that’s... strange.
+> that's... strange.
 
 **PlasmaPerson** _(07-Oct-18 04:26 PM)_
 
@@ -2824,7 +2824,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:28 PM)_
 
-> t!8ball does Iris stand up, and dry her clothes with her powers?
+t!8ball does Iris stand up, and dry her clothes with her powers?
 
 **Tatsumaki** _(07-Oct-18 04:28 PM)_
 
@@ -2842,7 +2842,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(07-Oct-18 04:28 PM)_
 
-> t!8ball Does Danny walk out of the dam with all of the food without struggling?
+t!8ball Does Danny walk out of the dam with all of the food without struggling?
 
 **Tatsumaki** _(07-Oct-18 04:28 PM)_
 
@@ -2860,7 +2860,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(07-Oct-18 04:28 PM)_
 
-> t!8ball Does Danny walk out of the dam with all of the food without struggling?
+t!8ball Does Danny walk out of the dam with all of the food without struggling?
 
 **Tatsumaki** _(07-Oct-18 04:28 PM)_
 
@@ -2874,7 +2874,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 04:28 PM)_
 
-> t!8ball does Seth pass by Emmett?
+t!8ball does Seth pass by Emmett?
 
 **Tatsumaki** _(07-Oct-18 04:28 PM)_
 
@@ -2930,7 +2930,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:29 PM)_
 
-> t!8ball does he pull out some bandages
+t!8ball does he pull out some bandages
 
 **Tatsumaki** _(07-Oct-18 04:29 PM)_
 
@@ -2940,7 +2940,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:29 PM)_
 
-> t!8ball does he pull out some bandages
+t!8ball does he pull out some bandages
 
 **Tatsumaki** _(07-Oct-18 04:29 PM)_
 
@@ -2950,7 +2950,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:29 PM)_
 
-> t!8ball does he pull out some bandages
+t!8ball does he pull out some bandages
 
 **Bagelwrecker** _(07-Oct-18 04:30 PM)_
 
@@ -2958,7 +2958,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:30 PM)_
 
-> t!roll 10d100
+t!roll 10d100
 
 **Tatsumaki** _(07-Oct-18 04:30 PM)_
 
@@ -2976,7 +2976,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:31 PM)_
 
-> t!8ball Do the Llamanians shoot at our camp?
+t!8ball Do the Llamanians shoot at our camp?
 
 **Tatsumaki** _(07-Oct-18 04:31 PM)_
 
@@ -2994,11 +2994,11 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:31 PM)_
 
-> I’m exhausted. Should we head back to camp?
+> I'm exhausted. Should we head back to camp?
 
 **Bagelwrecker** _(07-Oct-18 04:32 PM)_
 
-> t!8ball does Seth lube up his laser pistol and shoot it?
+t!8ball does Seth lube up his laser pistol and shoot it?
 
 **Tatsumaki** _(07-Oct-18 04:32 PM)_
 
@@ -3014,7 +3014,7 @@ In the end, the result was:
 **Jelsafan0** _(07-Oct-18 04:32 PM)_
 
 > Iris stands up, drying herself off with her fire powers.
-> Let’s go, shall we?
+> Let's go, shall we?
 > she offers him her hand.
 
 **Zander** _(07-Oct-18 04:33 PM)_
@@ -3027,7 +3027,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 04:33 PM)_
 
-> t!choose 1 | 2 | 90 | 1 | 2 | 1 | 1 | 1 | 1| 3 | 1 | 1
+t!choose 1 | 2 | 90 | 1 | 2 | 1 | 1 | 1 | 1| 3 | 1 | 1
 
 **Tatsumaki** _(07-Oct-18 04:33 PM)_
 
@@ -3051,11 +3051,11 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:35 PM)_
 
-> t!choose more idols | food | money | knives | laser guns
+t!choose more idols | food | money | knives | laser guns
 
 **Zander** _(07-Oct-18 04:35 PM)_
 
-> t!choose Seth | Garrick | Emmett | Seth | Hector | Danny | No one
+t!choose Seth | Garrick | Emmett | Seth | Hector | Danny | No one
 
 **Tatsumaki** _(07-Oct-18 04:35 PM)_
 
@@ -3071,7 +3071,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:35 PM)_
 
-> t!roll d25
+t!roll d25
 
 **Tatsumaki** _(07-Oct-18 04:35 PM)_
 
@@ -3111,7 +3111,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:36 PM)_
 
-> Iris’ eyes widen.
+> Iris' eyes widen.
 > oh boy.
 
 **Zander** _(07-Oct-18 04:37 PM)_
@@ -3137,7 +3137,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:37 PM)_
 
-> t!8ball Does Garrick start to fart out a fridge out of stress?
+t!8ball Does Garrick start to fart out a fridge out of stress?
 
 **Tatsumaki** _(07-Oct-18 04:37 PM)_
 
@@ -3164,7 +3164,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:38 PM)_
 
-> Yeah, let’s go.
+> Yeah, let's go.
 
 **PlasmaPerson** _(07-Oct-18 04:38 PM)_
 
@@ -3212,7 +3212,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:40 PM)_
 
-> t!8ball Do the Llamanians shoot at the ship?
+t!8ball Do the Llamanians shoot at the ship?
 
 **Tatsumaki** _(07-Oct-18 04:40 PM)_
 
@@ -3304,7 +3304,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:43 PM)_
 
-> t!8ball is emmett inconveniently placed in the engine
+t!8ball is emmett inconveniently placed in the engine
 
 **Tatsumaki** _(07-Oct-18 04:43 PM)_
 
@@ -3318,7 +3318,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:43 PM)_
 
-> t!8ball Is Garrick now a toenail?
+t!8ball Is Garrick now a toenail?
 
 **Tatsumaki** _(07-Oct-18 04:43 PM)_
 
@@ -3328,7 +3328,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(07-Oct-18 04:43 PM)_
 
-> t!8ball is Emmett inconveniently fortnite dancing
+t!8ball is Emmett inconveniently fortnite dancing
 
 **Tatsumaki** _(07-Oct-18 04:43 PM)_
 
@@ -3359,7 +3359,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:44 PM)_
 
-> t!8ball do Iris’ coordinates magically appear in her pocket?
+t!8ball do Iris' coordinates magically appear in her pocket?
 
 **Tatsumaki** _(07-Oct-18 04:44 PM)_
 
@@ -3373,7 +3373,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(07-Oct-18 04:45 PM)_
 
-> t!8ball Does Danny keep all of the chips and popcorn for himself?
+t!8ball Does Danny keep all of the chips and popcorn for himself?
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
@@ -3383,7 +3383,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:45 PM)_
 
-> t!roll 7d100
+t!roll 7d100
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
@@ -3397,7 +3397,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 04:45 PM)_
 
-> t!8ball Does Seth start to charge up Opportunity V2?
+t!8ball Does Seth start to charge up Opportunity V2?
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
@@ -3476,7 +3476,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:49 PM)_
 
-> t!8ball Does Emmett get the ship started?
+t!8ball Does Emmett get the ship started?
 
 **Tatsumaki** _(07-Oct-18 04:49 PM)_
 
@@ -3508,7 +3508,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:49 PM)_
 
-> I’ve got no clue where they lead though.
+> I've got no clue where they lead though.
 
 **Bagelwrecker** _(07-Oct-18 04:49 PM)_
 
@@ -3534,7 +3534,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 04:51 PM)_
 
-> t!roll d40
+t!roll d40
 
 **Tatsumaki** _(07-Oct-18 04:51 PM)_
 
@@ -3590,7 +3590,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(07-Oct-18 04:53 PM)_
 
-> t!roll 2d30
+t!roll 2d30
 
 **Tatsumaki** _(07-Oct-18 04:53 PM)_
 
@@ -3608,7 +3608,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:54 PM)_
 
-> t!roll d1250
+t!roll d1250
 
 **Tatsumaki** _(07-Oct-18 04:54 PM)_
 
@@ -3620,7 +3620,7 @@ sides.
 
 **Zander** _(07-Oct-18 04:54 PM)_
 
-> t!roll 10d125
+t!roll 10d125
 
 **Tatsumaki** _(07-Oct-18 04:54 PM)_
 
@@ -3632,7 +3632,7 @@ sides.
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
-> t!roll 10d100
+t!roll 10d100
 
 **Tatsumaki** _(07-Oct-18 04:55 PM)_
 
@@ -3654,7 +3654,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
-> t!roll 1-d25
+t!roll 1-d25
 
 **Tatsumaki** _(07-Oct-18 04:55 PM)_
 
@@ -3670,7 +3670,7 @@ t!roll 5d10+3
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
-> t!roll 10d25
+t!roll 10d25
 
 **Tatsumaki** _(07-Oct-18 04:55 PM)_
 
@@ -3688,7 +3688,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(07-Oct-18 04:56 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(07-Oct-18 04:56 PM)_
 
@@ -3702,7 +3702,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(07-Oct-18 04:56 PM)_
 
-> t!roll 2d30
+t!roll 2d30
 
 **Tatsumaki** _(07-Oct-18 04:56 PM)_
 
@@ -3738,7 +3738,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(07-Oct-18 04:57 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(07-Oct-18 04:57 PM)_
 
@@ -3756,7 +3756,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:58 PM)_
 
-> Iris instead holds on to Emmett’s arm.
+> Iris instead holds on to Emmett's arm.
 
 **Bagelwrecker** _(07-Oct-18 04:58 PM)_
 
@@ -3815,7 +3815,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(07-Oct-18 05:03 PM)_
 
-> t!8ball Did a scientist ottori stow away on our ship?
+t!8ball Did a scientist ottori stow away on our ship?
 
 **Tatsumaki** _(07-Oct-18 05:03 PM)_
 
@@ -3825,7 +3825,7 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 05:04 PM)_
 
-> t!8ball Does Chomsky have a sleepover in his room?
+t!8ball Does Chomsky have a sleepover in his room?
 
 **Tatsumaki** _(07-Oct-18 05:04 PM)_
 
@@ -3840,7 +3840,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(07-Oct-18 05:05 PM)_
 
-> t!roll d100
+t!roll d100
 
 **Tatsumaki** _(07-Oct-18 05:05 PM)_
 
@@ -3854,7 +3854,7 @@ In the end, the result was:
 
 **RPretribution** _(07-Oct-18 05:06 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(07-Oct-18 05:06 PM)_
 
@@ -3868,7 +3868,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(07-Oct-18 05:06 PM)_
 
-> t!roll 20d100
+t!roll 20d100
 
 **Tatsumaki** _(07-Oct-18 05:06 PM)_
 
@@ -3884,7 +3884,7 @@ dice.
 
 **RPretribution** _(07-Oct-18 05:06 PM)_
 
-> t!roll d100
+t!roll d100
 
 **Tatsumaki** _(07-Oct-18 05:06 PM)_
 
@@ -3898,7 +3898,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(07-Oct-18 05:06 PM)_
 
-> t!roll 10d100
+t!roll 10d100
 
 **Tatsumaki** _(07-Oct-18 05:06 PM)_
 

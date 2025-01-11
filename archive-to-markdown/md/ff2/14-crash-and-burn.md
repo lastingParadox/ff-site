@@ -602,7 +602,7 @@ _KYL300 sets up its scanning module and looks about the ship for Thelma._
 
 _Garrick ignores Emmett and involves himself in Jim's plight._
 
-> What’s Thelma?
+> What's Thelma?
 
 **TheBlade** _(25-Aug-18 01:42 PM)_
 
@@ -674,7 +674,7 @@ _Chomsky watches Jim try to enter the room._
 
 **RPretribution** _(25-Aug-18 01:42 PM)_
 
-> It’ll be fine.
+> It'll be fine.
 
 _Garrick pokes the burning Themla._
 
@@ -760,7 +760,7 @@ _The rodent stops moving, still engulfed in flames._
 
 **RPretribution** _(25-Aug-18 01:44 PM)_
 
-> It’s on fire, Chonky!
+> It's on fire, Chonky!
 
 **Brakia** _(25-Aug-18 01:44 PM)_
 
@@ -808,7 +808,7 @@ _Jim falls to his knees dramatically, screaming to the roof while holding the ro
 
 _Garrick, again, takes note of Emmett's pleas._
 
-> Woah. What’s going on between you two?
+> Woah. What's going on between you two?
 
 **TheBlade** _(25-Aug-18 01:45 PM)_
 
@@ -926,7 +926,7 @@ _Seth smirks._
 
 _Garrick takes out a rubber mallet from his pockets and makes a swinging motion, confusing the mallet for an axe._
 
-> You can’t stop me!
+> You can't stop me!
 
 **Zander** _(25-Aug-18 01:47 PM)_
 
@@ -1120,7 +1120,7 @@ _Seth flings his arms forward with each word._
 
 **RPretribution** _(25-Aug-18 01:52 PM)_
 
-> Something’s off, and it’s not Sanya.
+> Something's off, and it's not Sanya.
 
 **Zander** _(25-Aug-18 01:52 PM)_
 
@@ -1268,7 +1268,7 @@ t!8ball Does the crew land and exit the ship?
 
 **RPretribution** _(25-Aug-18 01:56 PM)_
 
-> We’ll never get anywhere this way...
+> We'll never get anywhere this way...
 
 _Garrick maintains his interest in the plant and her goat seat._
 
@@ -1286,7 +1286,7 @@ _Emmett looks away, trying to find some good in the world through his fragile st
 
 _Garrick rolls his eyes, getting a bit irritated by Kyle repeating itself._
 
-> Then let’s go, what’re we waiting for?
+> Then let's go, what're we waiting for?
 
 **ProfessorTree** _(25-Aug-18 01:58 PM)_
 
@@ -1316,7 +1316,7 @@ t!8ball Does Kyle successfully pilot the ship away from the planet?
 
 _Garrick attempts to push KYL300 out of the pilot's seat despite having no piloting prowess._
 
-> I’ll pilot the ship.
+> I'll pilot the ship.
 
 **Bagelwrecker** _(25-Aug-18 02:00 PM)_
 
@@ -1328,7 +1328,7 @@ _Seth, having followed Kyle, actually shoves him out of the seat._
 
 _Garrick grins wildly._
 
-> It’ll be fine!
+> It'll be fine!
 
 **TheBlade** _(25-Aug-18 02:00 PM)_
 
@@ -1336,7 +1336,7 @@ _Garrick grins wildly._
 
 **RPretribution** _(25-Aug-18 02:00 PM)_
 
-> I’m great at piloting!
+> I'm great at piloting!
 
 **ProfessorTree** _(25-Aug-18 02:00 PM)_
 
@@ -1440,7 +1440,7 @@ _Chomsky clearly does not take the hint, having never heard of the Manti._
 
 _Garrick stops flying around aimlessly._
 
-> Then let’s go.
+> Then let's go.
 > Jeez.
 
 **Bagelwrecker** _(25-Aug-18 02:03 PM)_
@@ -1460,7 +1460,7 @@ _Chomsky, liking Seth's tone, takes out his flamemthrower psychotically._
 
 _As if controlled by peer pressure, Garrick freezes and digs in his pockets excitedly._
 
-> Ah. Now I’m interested!
+> Ah. Now I'm interested!
 
 **Bagelwrecker** _(25-Aug-18 02:03 PM)_
 
@@ -1711,7 +1711,7 @@ _Sanya puts down her book as KYL300 enters the room._
 
 _Garrick smirks and hits his hands in satisfaction._
 
-> They’ll go away now.
+> They'll go away now.
 
 **Zander** _(25-Aug-18 02:09 PM)_
 
@@ -2864,7 +2864,7 @@ _Jim taps his head in a memetic manner._
 
 **RPretribution** _(25-Aug-18 02:45 PM)_
 
-> That’ll fix this...
+> That'll fix this...
 
 _Garrick puts the flag back in his pocket, having thought of a new solution._
 
@@ -2932,7 +2932,7 @@ _Seth sighs over having to describe the Crave to Kambras._
 
 _Garrick looks at Jim as if he's stupid._
 
-> I don’t think that’s how ghosts work.
+> I don't think that's how ghosts work.
 
 **Zander** _(25-Aug-18 02:46 PM)_
 
@@ -3004,7 +3004,7 @@ t!8ball Does Seth airlock Kambras for being useless?
 
 **RPretribution** _(25-Aug-18 02:47 PM)_
 
-> Oh please, I’ve possessed worse things.
+> Oh please, I've possessed worse things.
 
 _Garrick rolls his eyes._
 
@@ -3034,7 +3034,7 @@ _Emmett manages to bite and tear off one of the bars on the door._
 
 **RPretribution** _(25-Aug-18 02:48 PM)_
 
-> Oh, for Christ’s sake!
+> Oh, for Christ's sake!
 
 **TheBlade** _(25-Aug-18 02:49 PM)_
 
@@ -3130,7 +3130,7 @@ _Kyle slaps Matthias back in due revenge._
 
 _Garrick enters Emmett's body to possess him, but it seems that Emmett's ravaged mind is difficult to control._
 
-> Wow, I’m huge!
+> Wow, I'm huge!
 
 **Brakia** _(25-Aug-18 02:51 PM)_
 
@@ -3300,7 +3300,7 @@ _Kyle freezes up from Emmett's retaliation in fear._
 
 **RPretribution** _(25-Aug-18 02:54 PM)_
 
-> There’s an otherworldly power keeping me from possessing Emmett...
+> There's an otherworldly power keeping me from possessing Emmett...
 
 **Enchantingtable2013** _(25-Aug-18 02:54 PM)_
 
@@ -3314,7 +3314,7 @@ _As the autopilot lands on a planet with a space Wal-Mart, Matthias makes his wa
 
 **RPretribution** _(25-Aug-18 02:55 PM)_
 
-> Guess he’ll die...
+> Guess he'll die...
 
 _Garrick shrugs without a care in the world._
 
@@ -3575,7 +3575,7 @@ _Emmett sits on the floor._
 
 **RPretribution** _(25-Aug-18 02:59 PM)_
 
-> Oh my God! He’s becoming Super Sans!
+> Oh my God! He's becoming Super Sans!
 
 _Garrick shakes his hands sarcastically, having just parroted Chomsky from the next room over._
 
@@ -3617,7 +3617,7 @@ _Matthias sighs from his inability to swear._
 
 **RPretribution** _(25-Aug-18 03:01 PM)_
 
-> I don’t know, man.
+> I don't know, man.
 
 _Garrick takes out a lunchbox and checks inside, finding a couple of graham crackers and preserved balogna._
 
@@ -3643,7 +3643,7 @@ _Sanya gets into the cell with Emmett, pushing her flower into his face._
 
 **RPretribution** _(25-Aug-18 03:01 PM)_
 
-> I’ll sniff it.
+> I'll sniff it.
 
 _Garrick hovers over Sanya._
 

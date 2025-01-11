@@ -9,8 +9,8 @@
 **Deyner** _(28-Oct-18 02:42 PM)_
 
 > @Final Frontier
-> Lili’s not responding
-> Didn’t pick up
+> Lili's not responding
+> Didn't pick up
 
 **Brakia** _(28-Oct-18 02:45 PM)_
 
@@ -39,7 +39,7 @@
 
 **Zander** _(28-Oct-18 02:47 PM)_
 
-> t!8ball Is Seth lighting up a fire in space somehow?
+t!8ball Is Seth lighting up a fire in space somehow?
 
 **Tatsumaki** _(28-Oct-18 02:47 PM)_
 
@@ -68,7 +68,7 @@
 
 **Deyner** _(28-Oct-18 02:49 PM)_
 
-> Ughh go fetch me my toolbox so I can fix it, it’s in my room
+> Ughh go fetch me my toolbox so I can fix it, it's in my room
 
 **Zander** _(28-Oct-18 02:49 PM)_
 
@@ -89,7 +89,7 @@
 
 **PlasmaPerson** _(28-Oct-18 02:50 PM)_
 
-> t!8ball is Sanya mum gae
+t!8ball is Sanya mum gae
 
 **Tatsumaki** _(28-Oct-18 02:50 PM)_
 
@@ -120,7 +120,7 @@
 
 **Deyner** _(28-Oct-18 02:52 PM)_
 
-> BECAUSE I DIDN’T BREAK THE FRIDGE!
+> BECAUSE I DIDN'T BREAK THE FRIDGE!
 
 **PlasmaPerson** _(28-Oct-18 02:53 PM)_
 
@@ -151,7 +151,7 @@
 
 **Brakia** _(28-Oct-18 02:54 PM)_
 
-> t!8ball Does Sanya grab the toolbox?
+t!8ball Does Sanya grab the toolbox?
 
 **Tatsumaki** _(28-Oct-18 02:54 PM)_
 
@@ -161,7 +161,7 @@
 
 **Brakia** _(28-Oct-18 02:54 PM)_
 
-> t!8ball Does Sanya grab the toolbox?
+t!8ball Does Sanya grab the toolbox?
 
 **Tatsumaki** _(28-Oct-18 02:54 PM)_
 
@@ -198,7 +198,7 @@
 
 **Deyner** _(28-Oct-18 02:56 PM)_
 
-> t!8ball does Deyner fixx the fridge?
+t!8ball does Deyner fixx the fridge?
 
 **Tatsumaki** _(28-Oct-18 02:56 PM)_
 
@@ -224,7 +224,7 @@
 
 **Deyner** _(28-Oct-18 02:57 PM)_
 
-> Like what in Gathin’s name! How can I fix a ship but not a fridge!?
+> Like what in Gathin's name! How can I fix a ship but not a fridge!?
 
 **PlasmaPerson** _(28-Oct-18 02:57 PM)_
 
@@ -232,7 +232,7 @@
 
 **Deyner** _(28-Oct-18 02:58 PM)_
 
-> Hey Sanya... you’re a chemist right?
+> Hey Sanya... you're a chemist right?
 
 **Brakia** _(28-Oct-18 02:58 PM)_
 
@@ -240,7 +240,7 @@
 
 **PlasmaPerson** _(28-Oct-18 02:59 PM)_
 
-> t!8ball does Chomsky go into his room now
+t!8ball does Chomsky go into his room now
 
 **Tatsumaki** _(28-Oct-18 02:59 PM)_
 
@@ -263,7 +263,7 @@
 
 **Deyner** _(28-Oct-18 03:00 PM)_
 
-> Knocks on Chomsky’s room
+> Knocks on Chomsky's room
 
 **PlasmaPerson** _(28-Oct-18 03:00 PM)_
 
@@ -273,8 +273,8 @@
 
 **Deyner** _(28-Oct-18 03:01 PM)_
 
-> Goes to his room/workshop and grabs the special project he’s been working on
-> heads to Chomsky’s room
+> Goes to his room/workshop and grabs the special project he's been working on
+> heads to Chomsky's room
 
 **PlasmaPerson** _(28-Oct-18 03:02 PM)_
 
@@ -292,7 +292,7 @@
 
 **Deyner** _(28-Oct-18 03:03 PM)_
 
-> knocks on Chomsky’s door
+> knocks on Chomsky's door
 
 **PlasmaPerson** _(28-Oct-18 03:03 PM)_
 
@@ -321,7 +321,7 @@
 
 **Deyner** _(28-Oct-18 03:04 PM)_
 
-> You’ve seen a bit down lately
+> You've seen a bit down lately
 
 **PlasmaPerson** _(28-Oct-18 03:04 PM)_
 
@@ -354,7 +354,7 @@
 
 **Deyner** _(28-Oct-18 03:05 PM)_
 
-> Gauntlets that spew fire so you don’t have to carry that clunky flamethrower
+> Gauntlets that spew fire so you don't have to carry that clunky flamethrower
 
 **PlasmaPerson** _(28-Oct-18 03:06 PM)_
 
@@ -374,7 +374,7 @@
 
 **Deyner** _(28-Oct-18 03:06 PM)_
 
-> It’s simple, they fit on your wrist and there’s a lever inside when you pull it KAPOW flames shoot
+> It's simple, they fit on your wrist and there's a lever inside when you pull it KAPOW flames shoot
 
 **Zander** _(28-Oct-18 03:07 PM)_
 
@@ -448,7 +448,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:10 PM)_
 
-> Brody I can’t hear you at all
+> Brody I can't hear you at all
 
 **PlasmaPerson** _(28-Oct-18 03:10 PM)_
 
@@ -528,7 +528,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:12 PM)_
 
-> Uh, well... my head hurts. So there’s that.
+> Uh, well... my head hurts. So there's that.
 
 **Zander** _(28-Oct-18 03:12 PM)_
 
@@ -570,7 +570,7 @@
 **Jelsafan0** _(28-Oct-18 03:14 PM)_
 
 > Iris hums.
-> I suppose we’re on our way to those coordinates I had. Still have no clue where those lead.
+> I suppose we're on our way to those coordinates I had. Still have no clue where those lead.
 
 **PlasmaPerson** _(28-Oct-18 03:14 PM)_
 
@@ -578,7 +578,7 @@
 
 **Deyner** _(28-Oct-18 03:14 PM)_
 
-> Who’s Jesus
+> Who's Jesus
 > asks Iris
 
 **PlasmaPerson** _(28-Oct-18 03:14 PM)_
@@ -591,7 +591,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:15 PM)_
 
-> Jesus was my dad’s pet bird.
+> Jesus was my dad's pet bird.
 
 **TheBlade** _(28-Oct-18 03:15 PM)_
 
@@ -612,11 +612,11 @@
 
 **Deyner** _(28-Oct-18 03:15 PM)_
 
-> What’s “a Earth”
+> What's “a Earth”
 
 **Jelsafan0** _(28-Oct-18 03:15 PM)_
 
-> I suppose it’s also an Earth thing.
+> I suppose it's also an Earth thing.
 
 **PlasmaPerson** _(28-Oct-18 03:15 PM)_
 
@@ -662,7 +662,7 @@
 
 **Zander** _(28-Oct-18 03:18 PM)_
 
-> t!8ball Does Emmett start the ship, setting the destination to the coordinates?
+t!8ball Does Emmett start the ship, setting the destination to the coordinates?
 
 **Tatsumaki** _(28-Oct-18 03:18 PM)_
 
@@ -710,7 +710,7 @@
 
 > Hey, Emmett.
 
-> What’s our ETA?
+> What's our ETA?
 
 **RPretribution** _(28-Oct-18 03:22 PM)_
 
@@ -718,7 +718,7 @@
 
 **Brakia** _(28-Oct-18 03:22 PM)_
 
-> t!8ball Does Sanya head to the pool?
+t!8ball Does Sanya head to the pool?
 
 **Tatsumaki** _(28-Oct-18 03:22 PM)_
 
@@ -747,11 +747,11 @@
 **Jelsafan0** _(28-Oct-18 03:23 PM)_
 
 > Iris snorts.
-> Because I can see what you’re looking at.
+> Because I can see what you're looking at.
 
 **PlasmaPerson** _(28-Oct-18 03:23 PM)_
 
-> t!8ball does Chomsky go to the cockpit to find out where they are headed
+t!8ball does Chomsky go to the cockpit to find out where they are headed
 
 **Tatsumaki** _(28-Oct-18 03:23 PM)_
 
@@ -761,12 +761,12 @@
 
 **Deyner** _(28-Oct-18 03:23 PM)_
 
-> Hey I’m heading to the pool who wants to join me
-> realizes he’s talking to empty space
+> Hey I'm heading to the pool who wants to join me
+> realizes he's talking to empty space
 
 **RPretribution** _(28-Oct-18 03:23 PM)_
 
-> idk but he’s here
+> idk but he's here
 
 **PlasmaPerson** _(28-Oct-18 03:23 PM)_
 
@@ -774,7 +774,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:24 PM)_
 
-> Hey Garrick. What’s up?
+> Hey Garrick. What's up?
 
 **Zander** _(28-Oct-18 03:24 PM)_
 
@@ -861,7 +861,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:27 PM)_
 
-> Hey what’s the planet naming thing
+> Hey what's the planet naming thing
 > How do name planet
 
 **Zander** _(28-Oct-18 03:27 PM)_
@@ -870,7 +870,7 @@
 
 **RPretribution** _(28-Oct-18 03:27 PM)_
 
-> no it’s 1/∞
+> no it's 1/∞
 
 **Jelsafan0** _(28-Oct-18 03:27 PM)_
 
@@ -937,7 +937,7 @@
 
 **RPretribution** _(28-Oct-18 03:29 PM)_
 
-> Demons??? Oh no, I don’t wanna get involved with them again.
+> Demons??? Oh no, I don't wanna get involved with them again.
 
 **Jelsafan0** _(28-Oct-18 03:29 PM)_
 
@@ -958,7 +958,7 @@
 
 **RPretribution** _(28-Oct-18 03:29 PM)_
 
-> garrick’s been alive for a long time
+> garrick's been alive for a long time
 
 **Jelsafan0** _(28-Oct-18 03:29 PM)_
 
@@ -1028,7 +1028,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:31 PM)_
 
-> That’s... my dad’s planet...
+> That's... my dad's planet...
 
 **TheBlade** _(28-Oct-18 03:31 PM)_
 
@@ -1036,7 +1036,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:31 PM)_
 
-> I don’t get my flame powers from my parents.
+> I don't get my flame powers from my parents.
 
 **PlasmaPerson** _(28-Oct-18 03:32 PM)_
 
@@ -1082,7 +1082,7 @@
 
 **Deyner** _(28-Oct-18 03:33 PM)_
 
-> t!8ball Does Deyner head to the kitchen and help fix the fridge?
+t!8ball Does Deyner head to the kitchen and help fix the fridge?
 
 **Tatsumaki** _(28-Oct-18 03:33 PM)_
 
@@ -1104,7 +1104,7 @@
 
 **TheBlade** _(28-Oct-18 03:34 PM)_
 
-> t!8ball does jim look up how much a fridge cost?
+t!8ball does jim look up how much a fridge cost?
 
 **Tatsumaki** _(28-Oct-18 03:34 PM)_
 
@@ -1114,7 +1114,7 @@
 
 **Deyner** _(28-Oct-18 03:34 PM)_
 
-> What’s wrong Jim?
+> What's wrong Jim?
 
 **TheBlade** _(28-Oct-18 03:34 PM)_
 
@@ -1163,7 +1163,7 @@
 
 **RPretribution** _(28-Oct-18 03:35 PM)_
 
-> “I’m all ears!”
+> “I'm all ears!”
 
 **TheBlade** _(28-Oct-18 03:35 PM)_
 
@@ -1184,7 +1184,7 @@
 
 **Deyner** _(28-Oct-18 03:36 PM)_
 
-> Dude’s it’s a easy fix
+> Dude's it's a easy fix
 > does some engineering kajiggering
 > Boom good as new
 
@@ -1220,7 +1220,7 @@
 
 **RPretribution** _(28-Oct-18 03:38 PM)_
 
-> t!8ball is the fridge broken
+t!8ball is the fridge broken
 
 **Tatsumaki** _(28-Oct-18 03:38 PM)_
 
@@ -1230,7 +1230,7 @@
 
 **RPretribution** _(28-Oct-18 03:38 PM)_
 
-> t!8ball does the fridge break immediately
+t!8ball does the fridge break immediately
 
 **Tatsumaki** _(28-Oct-18 03:38 PM)_
 
@@ -1252,7 +1252,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:38 PM)_
 
-> Hi Chomsky what’s up how’s it going do we have any muffin mix
+> Hi Chomsky what's up how's it going do we have any muffin mix
 
 **Deyner** _(28-Oct-18 03:38 PM)_
 
@@ -1307,7 +1307,7 @@
 
 **Zander** _(28-Oct-18 03:40 PM)_
 
-> t!8ball Does Chomsky get smaller, turn yellow, and have one eyeball for a minute?
+t!8ball Does Chomsky get smaller, turn yellow, and have one eyeball for a minute?
 
 **Tatsumaki** _(28-Oct-18 03:40 PM)_
 
@@ -1344,7 +1344,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:41 PM)_
 
-> hey Deyner what’s up how’s it going
+> hey Deyner what's up how's it going
 
 **PlasmaPerson** _(28-Oct-18 03:41 PM)_
 
@@ -1361,7 +1361,7 @@
 
 **Deyner** _(28-Oct-18 03:42 PM)_
 
-> It’s going alright
+> It's going alright
 > lightens up at seeing the other elf
 > ooooohhh muffins mind if I help?
 
@@ -1393,8 +1393,8 @@
 
 **Deyner** _(28-Oct-18 03:44 PM)_
 
-> grabs the hand that’s stirring and stops the potential muffin mess
-> Iris seriously what’s wrong?
+> grabs the hand that's stirring and stops the potential muffin mess
+> Iris seriously what's wrong?
 
 **PlasmaPerson** _(28-Oct-18 03:44 PM)_
 
@@ -1407,7 +1407,7 @@
 **Jelsafan0** _(28-Oct-18 03:45 PM)_
 
 > Iris gives deyner a pointed look.
-> I’d prefer not to talk about it please just let me bake my muffins.
+> I'd prefer not to talk about it please just let me bake my muffins.
 
 **Zander** _(28-Oct-18 03:45 PM)_
 
@@ -1425,7 +1425,7 @@
 
 **RPretribution** _(28-Oct-18 03:46 PM)_
 
-> ᴵʳᶦˢ, ᵈᵒ ʸᵒᵘ ʷᵃⁿⁿᵃ ᵗᵃˡᵏ ᵃᵇᵒᵘᵗ ᶦᵗˀ ᴵ’ᵐ ᵃˡˡ ᵉᵃʳˢᵎ
+> ᴵʳᶦˢ, ᵈᵒ ʸᵒᵘ ʷᵃⁿⁿᵃ ᵗᵃˡᵏ ᵃᵇᵒᵘᵗ ᶦᵗˀ ᴵ'ᵐ ᵃˡˡ ᵉᵃʳˢᵎ
 
 **PlasmaPerson** _(28-Oct-18 03:46 PM)_
 
@@ -1433,7 +1433,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:47 PM)_
 
-> Iris takes the cookie, savoring the flavor. It’s been forever since she’s had anything not blueberry.
+> Iris takes the cookie, savoring the flavor. It's been forever since she's had anything not blueberry.
 > Yes.
 
 **Zander** _(28-Oct-18 03:47 PM)_
@@ -1480,7 +1480,7 @@
 
 **PlasmaPerson** _(28-Oct-18 03:48 PM)_
 
-> t!8ball ?
+t!8ball ?
 
 **Tatsumaki** _(28-Oct-18 03:48 PM)_
 
@@ -1498,7 +1498,7 @@
 
 **RPretribution** _(28-Oct-18 03:48 PM)_
 
-> t!8ball does chomsky go into shock
+t!8ball does chomsky go into shock
 
 **Tatsumaki** _(28-Oct-18 03:48 PM)_
 
@@ -1524,7 +1524,8 @@
 
 **Jelsafan0** _(28-Oct-18 03:49 PM)_
 
-> t!8ball are they somehow, miraculously
+t!8ball are they somehow, miraculously
+
 > Just banana and not blueberry banana?
 
 **Tatsumaki** _(28-Oct-18 03:49 PM)_
@@ -1539,7 +1540,7 @@
 
 **Deyner** _(28-Oct-18 03:50 PM)_
 
-> t!8ball does Jim’s turn get skipped?
+t!8ball does Jim's turn get skipped?
 
 **Tatsumaki** _(28-Oct-18 03:50 PM)_
 
@@ -1549,7 +1550,7 @@
 
 **Deyner** _(28-Oct-18 03:50 PM)_
 
-> t!8ball Does Deyner fix the fridge??
+t!8ball Does Deyner fix the fridge??
 
 **Tatsumaki** _(28-Oct-18 03:50 PM)_
 
@@ -1559,7 +1560,7 @@
 
 **TheBlade** _(28-Oct-18 03:50 PM)_
 
-> t!8ball Has Jim been sitting in his room and been watching the security video the entire time?
+t!8ball Has Jim been sitting in his room and been watching the security video the entire time?
 
 **Tatsumaki** _(28-Oct-18 03:50 PM)_
 
@@ -1569,7 +1570,7 @@
 
 **TheBlade** _(28-Oct-18 03:50 PM)_
 
-> t!8ball Has Jim been sitting in his room and been watching the security video the entire time?
+t!8ball Has Jim been sitting in his room and been watching the security video the entire time?
 
 **Tatsumaki** _(28-Oct-18 03:50 PM)_
 
@@ -1608,7 +1609,7 @@
 **Jelsafan0** _(28-Oct-18 03:51 PM)_
 
 > she gasps.
-> IT’S NOT BLUEBERRY
+> IT'S NOT BLUEBERRY
 
 **PlasmaPerson** _(28-Oct-18 03:51 PM)_
 
@@ -1626,7 +1627,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:52 PM)_
 
-> It was me! It was me, I baked it, and it’s just banana!
+> It was me! It was me, I baked it, and it's just banana!
 
 **TheBlade** _(28-Oct-18 03:52 PM)_
 
@@ -1646,7 +1647,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:52 PM)_
 
-> No! I’m not!
+> No! I'm not!
 
 **Zander** _(28-Oct-18 03:52 PM)_
 
@@ -1666,7 +1667,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:53 PM)_
 
-> It’s banana!
+> It's banana!
 
 **PlasmaPerson** _(28-Oct-18 03:53 PM)_
 
@@ -1731,7 +1732,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:54 PM)_
 
-> It’s been years since I’ve had banana muffins!
+> It's been years since I've had banana muffins!
 
 **Zander** _(28-Oct-18 03:54 PM)_
 
@@ -1739,11 +1740,11 @@
 
 **Deyner** _(28-Oct-18 03:54 PM)_
 
-> See’s people eyeing his cookies
+> See's people eyeing his cookies
 
 **Jelsafan0** _(28-Oct-18 03:54 PM)_
 
-> I’ve had blueberry banana, but not regular banana!
+> I've had blueberry banana, but not regular banana!
 > Iris snatches the rest of the cupcakes.
 > Emmett!
 
@@ -1767,7 +1768,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:56 PM)_
 
-> I made muffins that aren’t blueberry!
+> I made muffins that aren't blueberry!
 
 **PlasmaPerson** _(28-Oct-18 03:56 PM)_
 
@@ -1812,7 +1813,7 @@
 
 **Deyner** _(28-Oct-18 03:57 PM)_
 
-> puts another blueberry on Chomsky’s muffin before he eats it@and vanishes
+> puts another blueberry on Chomsky's muffin before he eats it@and vanishes
 
 **Zander** _(28-Oct-18 03:57 PM)_
 
@@ -1820,7 +1821,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:57 PM)_
 
-> Not blueberry, that’s what!
+> Not blueberry, that's what!
 
 **PlasmaPerson** _(28-Oct-18 03:58 PM)_
 
@@ -1838,7 +1839,7 @@
 
 **Deyner** _(28-Oct-18 03:58 PM)_
 
-> puts a blueberry on Emmett’s muffin before it is put in his mouth and vanishes
+> puts a blueberry on Emmett's muffin before it is put in his mouth and vanishes
 
 **Jelsafan0** _(28-Oct-18 03:58 PM)_
 
@@ -1916,7 +1917,7 @@
 
 **Zander** _(28-Oct-18 03:59 PM)_
 
-> t!8ball Is the ship there?
+t!8ball Is the ship there?
 
 **Tatsumaki** _(28-Oct-18 03:59 PM)_
 
@@ -1926,7 +1927,7 @@
 
 **Jelsafan0** _(28-Oct-18 03:59 PM)_
 
-> they’re not blueberry!
+> they're not blueberry!
 
 **TheBlade** _(28-Oct-18 03:59 PM)_
 
@@ -1954,7 +1955,7 @@
 
 **Jelsafan0** _(28-Oct-18 04:00 PM)_
 
-> I’m gonna make more not-blueberry muffins!
+> I'm gonna make more not-blueberry muffins!
 
 **PlasmaPerson** _(28-Oct-18 04:00 PM)_
 
@@ -1979,7 +1980,7 @@
 **Jelsafan0** _(28-Oct-18 04:01 PM)_
 
 > Iris gasps.
-> We’re here!
+> We're here!
 
 **Deyner** _(28-Oct-18 04:01 PM)_
 
@@ -2069,7 +2070,7 @@
 
 **Jelsafan0** _(28-Oct-18 04:04 PM)_
 
-> Ooh, I haven’t been here since I was a little elfling!
+> Ooh, I haven't been here since I was a little elfling!
 
 **Deyner** _(28-Oct-18 04:04 PM)_
 
@@ -2106,7 +2107,7 @@
 
 **Jelsafan0** _(28-Oct-18 04:05 PM)_
 
-> Iris grabs Deyner’s wrist, dragging him forward.
+> Iris grabs Deyner's wrist, dragging him forward.
 
 **Deyner** _(28-Oct-18 04:05 PM)_
 
@@ -2114,7 +2115,7 @@
 
 **Jelsafan0** _(28-Oct-18 04:05 PM)_
 
-> Meet what’s left of my people!
+> Meet what's left of my people!
 
 **RPretribution** _(28-Oct-18 04:05 PM)_
 
@@ -2195,7 +2196,7 @@
 
 **Deyner** _(28-Oct-18 04:07 PM)_
 
-> (No it’s supposed to be my lost queen)
+> (No it's supposed to be my lost queen)
 
 **PlasmaPerson** _(28-Oct-18 04:07 PM)_
 
@@ -2208,7 +2209,7 @@
 
 **Jelsafan0** _(28-Oct-18 04:08 PM)_
 
-> hmm, no, doesn’t look like it.
+> hmm, no, doesn't look like it.
 
 **Deyner** _(28-Oct-18 04:08 PM)_
 
@@ -2220,7 +2221,7 @@
 
 **Jelsafan0** _(28-Oct-18 04:08 PM)_
 
-> hey, I’m gonna head to the barracks.
+> hey, I'm gonna head to the barracks.
 
 **TheBlade** _(28-Oct-18 04:08 PM)_
 
@@ -2232,12 +2233,12 @@
 
 **Jelsafan0** _(28-Oct-18 04:08 PM)_
 
-> See if any of my dad’s old friends still hang around there.
+> See if any of my dad's old friends still hang around there.
 > I wonder if anyone wants to come with me...
 
 **Deyner** _(28-Oct-18 04:09 PM)_
 
-> Ok I’ll come with
+> Ok I'll come with
 
 **PlasmaPerson** _(28-Oct-18 04:09 PM)_
 
@@ -2245,7 +2246,7 @@
 
 **Zander** _(28-Oct-18 04:09 PM)_
 
-> t!8ball Do one of the mafia members get turned into a turtle with a funny hat by a demon?
+t!8ball Do one of the mafia members get turned into a turtle with a funny hat by a demon?
 
 **RPretribution** _(28-Oct-18 04:09 PM)_
 
@@ -2268,7 +2269,7 @@
 **Deyner** _(28-Oct-18 04:10 PM)_
 
 > Lets go Iris
-> looks back at the girl to see that’s she’s gone
+> looks back at the girl to see that's she's gone
 
 **Jelsafan0** _(28-Oct-18 04:10 PM)_
 
@@ -2310,7 +2311,7 @@
 
 **TheBlade** _(28-Oct-18 04:12 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(28-Oct-18 04:12 PM)_
 
@@ -2330,7 +2331,7 @@ In the end, the result was:
 
 > the boy puts down the huge weights and turns, spotting Iris.
 > He laughs in disbelief.
-> ”I didn’t think I’d ever see you again!”
+> ”I didn't think I'd ever see you again!”
 
 **TheBlade** _(28-Oct-18 04:13 PM)_
 
@@ -2347,7 +2348,7 @@ In the end, the result was:
 
 **Deyner** _(28-Oct-18 04:14 PM)_
 
-> t!8ball does Deyner spot somebody he thought was dead?
+t!8ball does Deyner spot somebody he thought was dead?
 
 **Tatsumaki** _(28-Oct-18 04:14 PM)_
 
@@ -2398,7 +2399,7 @@ In the end, the result was:
 **Deyner** _(28-Oct-18 04:18 PM)_
 
 > the girl glares at him
-> Don’t touch me yo... Deyner??
+> Don't touch me yo... Deyner??
 
 **Jelsafan0** _(28-Oct-18 04:18 PM)_
 
@@ -2416,7 +2417,7 @@ In the end, the result was:
 **Jelsafan0** _(28-Oct-18 04:19 PM)_
 
 > Damien shrugs.
-> ”I never gave up on it. I’m the army medic now!”
+> ”I never gave up on it. I'm the army medic now!”
 
 **Zander** _(28-Oct-18 04:19 PM)_
 
@@ -2495,7 +2496,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(28-Oct-18 04:22 PM)_
 
-> t!8ball does Emmett wake up Canadian
+t!8ball does Emmett wake up Canadian
 
 **Tatsumaki** _(28-Oct-18 04:22 PM)_
 
@@ -2518,7 +2519,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:23 PM)_
 
-> Iris turns pink, as Damien slings his arm around her shoulders. He’s not wearing a shirt.
+> Iris turns pink, as Damien slings his arm around her shoulders. He's not wearing a shirt.
 
 **TheBlade** _(28-Oct-18 04:23 PM)_
 
@@ -2532,7 +2533,7 @@ In the end, the result was:
 
 **Deyner** _(28-Oct-18 04:24 PM)_
 
-> Hi Iris, Deyner’s told me a lot about you
+> Hi Iris, Deyner's told me a lot about you
 
 **Zander** _(28-Oct-18 04:24 PM)_
 
@@ -2541,7 +2542,7 @@ In the end, the result was:
 **Deyner** _(28-Oct-18 04:24 PM)_
 
 > Hey
-> Offers to shake Damien’s hand
+> Offers to shake Damien's hand
 
 **PlasmaPerson** _(28-Oct-18 04:24 PM)_
 
@@ -2575,7 +2576,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:25 PM)_
 
-> Damien shakes Deyner’s hand with his free arm, the other one still slung around Iris’ shoulders.
+> Damien shakes Deyner's hand with his free arm, the other one still slung around Iris' shoulders.
 
 **TheBlade** _(28-Oct-18 04:25 PM)_
 
@@ -2652,7 +2653,7 @@ In the end, the result was:
 > he mentions quietly.
 > ”I still intend to fulfill my promise from last time we saw each other.”
 
-> Iris’ face turns very, very red.
+> Iris' face turns very, very red.
 
 **Zander** _(28-Oct-18 04:29 PM)_
 
@@ -2669,12 +2670,12 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:30 PM)_
 
-> Wh- come on Damien! Y-you don’t mean that!
+> Wh- come on Damien! Y-you don't mean that!
 > she exclaims, face extremely red.
 
 **Deyner** _(28-Oct-18 04:30 PM)_
 
-> “Deyner don’t pry into people’s personal lives!”
+> “Deyner don't pry into people's personal lives!”
 > gets slapped by Duske
 > t! d4
 
@@ -2689,7 +2690,7 @@ In the end, the result was:
 
 **Deyner** _(28-Oct-18 04:30 PM)_
 
-> t!roll d4
+t!roll d4
 
 **Tatsumaki** _(28-Oct-18 04:30 PM)_
 
@@ -2713,7 +2714,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:32 PM)_
 
-> Just... come on... let’s just introduce you to my friends.
+> Just... come on... let's just introduce you to my friends.
 
 **PlasmaPerson** _(28-Oct-18 04:32 PM)_
 
@@ -2730,7 +2731,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:33 PM)_
 
-> t!8ball does Damien actually intend to fulfill his promise?
+t!8ball does Damien actually intend to fulfill his promise?
 
 **Tatsumaki** _(28-Oct-18 04:33 PM)_
 
@@ -2766,7 +2767,7 @@ In the end, the result was:
 **Jelsafan0** _(28-Oct-18 04:35 PM)_
 
 > he chuckles.
-> ”I’m sure I will.”
+> ”I'm sure I will.”
 > Iris speeds up.
 > They need a doctor.
 > The two run to the ship.
@@ -2786,7 +2787,7 @@ In the end, the result was:
 **Jelsafan0** _(28-Oct-18 04:36 PM)_
 
 > Iris drags Damien through the ship.
-> I’ve got a medic!
+> I've got a medic!
 
 **PlasmaPerson** _(28-Oct-18 04:37 PM)_
 
@@ -2808,7 +2809,7 @@ In the end, the result was:
 **Jelsafan0** _(28-Oct-18 04:38 PM)_
 
 > Iris pulls Damien to Jim and Emmett.
-> ”Move aside, I’m a medic.”
+> ”Move aside, I'm a medic.”
 
 **PlasmaPerson** _(28-Oct-18 04:40 PM)_
 
@@ -2826,7 +2827,7 @@ In the end, the result was:
 
 **TheBlade** _(28-Oct-18 04:40 PM)_
 
-> t!8ball does Jim see his body temperature?
+t!8ball does Jim see his body temperature?
 
 **Tatsumaki** _(28-Oct-18 04:40 PM)_
 
@@ -2836,7 +2837,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:41 PM)_
 
-> t!8ball does Damien think Emmett needs surgery?
+t!8ball does Damien think Emmett needs surgery?
 
 **Tatsumaki** _(28-Oct-18 04:41 PM)_
 
@@ -2850,7 +2851,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:41 PM)_
 
-> t!8ball does Damien think Emmett needs surgery?
+t!8ball does Damien think Emmett needs surgery?
 
 **Tatsumaki** _(28-Oct-18 04:41 PM)_
 
@@ -2860,7 +2861,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:41 PM)_
 
-> ”He’s gonna need surgery.”
+> ”He's gonna need surgery.”
 
 **TheBlade** _(28-Oct-18 04:42 PM)_
 
@@ -2868,7 +2869,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:42 PM)_
 
-> t!8ball does Damien perform surgery right here?
+t!8ball does Damien perform surgery right here?
 
 **Tatsumaki** _(28-Oct-18 04:42 PM)_
 
@@ -2882,7 +2883,7 @@ In the end, the result was:
 
 **TheBlade** _(28-Oct-18 04:43 PM)_
 
-> t!8ball does Damien have his tools?
+t!8ball does Damien have his tools?
 
 **Tatsumaki** _(28-Oct-18 04:43 PM)_
 
@@ -2898,7 +2899,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:43 PM)_
 
-> ”Get me a shard of sterilized broken glass, I’m missing my scalpel.”
+> ”Get me a shard of sterilized broken glass, I'm missing my scalpel.”
 
 **TheBlade** _(28-Oct-18 04:44 PM)_
 
@@ -2937,7 +2938,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:45 PM)_
 
-> t!8ball does Iris break and clean the shard?
+t!8ball does Iris break and clean the shard?
 
 **Tatsumaki** _(28-Oct-18 04:45 PM)_
 
@@ -2953,7 +2954,7 @@ In the end, the result was:
 
 **TheBlade** _(28-Oct-18 04:45 PM)_
 
-> t!8ball does Jim fix the glass?
+t!8ball does Jim fix the glass?
 
 **Tatsumaki** _(28-Oct-18 04:45 PM)_
 
@@ -2963,7 +2964,7 @@ In the end, the result was:
 
 **TheBlade** _(28-Oct-18 04:46 PM)_
 
-> t!8ball does Jim fix the glass?
+t!8ball does Jim fix the glass?
 
 **Tatsumaki** _(28-Oct-18 04:46 PM)_
 
@@ -2973,7 +2974,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:46 PM)_
 
-> t!8ball does Iris just break the glass?
+t!8ball does Iris just break the glass?
 
 **Tatsumaki** _(28-Oct-18 04:46 PM)_
 
@@ -2994,7 +2995,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:46 PM)_
 
-> t!8ball does Iris clean the broken shard of glass?
+t!8ball does Iris clean the broken shard of glass?
 
 **Tatsumaki** _(28-Oct-18 04:46 PM)_
 
@@ -3036,7 +3037,7 @@ In the end, the result was:
 **Jelsafan0** _(28-Oct-18 04:48 PM)_
 
 > Surgery stuff ensues.
-> t!8ball does Damien poke around in Emmett’s brain for a minute?
+> t!8ball does Damien poke around in Emmett's brain for a minute?
 
 **Tatsumaki** _(28-Oct-18 04:48 PM)_
 
@@ -3046,7 +3047,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:48 PM)_
 
-> t!8ball does Damien poke around in Emmett’s brain for a minute?
+t!8ball does Damien poke around in Emmett's brain for a minute?
 
 **Tatsumaki** _(28-Oct-18 04:48 PM)_
 
@@ -3056,7 +3057,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:48 PM)_
 
-> t!8ball does poking a certain part fix it?
+t!8ball does poking a certain part fix it?
 
 **Tatsumaki** _(28-Oct-18 04:48 PM)_
 
@@ -3066,7 +3067,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:48 PM)_
 
-> t!8ball does poking a certain part fix it?
+t!8ball does poking a certain part fix it?
 
 **Tatsumaki** _(28-Oct-18 04:48 PM)_
 
@@ -3076,7 +3077,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:49 PM)_
 
-> t!8ball does Damien need to go deeper?
+t!8ball does Damien need to go deeper?
 
 **Tatsumaki** _(28-Oct-18 04:49 PM)_
 
@@ -3087,7 +3088,7 @@ In the end, the result was:
 **Jelsafan0** _(28-Oct-18 04:49 PM)_
 
 > Damien goes deeper.
-> t!8ball does Damien find a small parasite in Emmett’s brain?
+> t!8ball does Damien find a small parasite in Emmett's brain?
 
 **Tatsumaki** _(28-Oct-18 04:49 PM)_
 
@@ -3107,7 +3108,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:50 PM)_
 
-> t!8ball does Damien put Emmett back together, using Iris’ fire to cauterize the incisions?
+t!8ball does Damien put Emmett back together, using Iris' fire to cauterize the incisions?
 
 **Tatsumaki** _(28-Oct-18 04:50 PM)_
 
@@ -3117,7 +3118,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:50 PM)_
 
-> t!ball does Iris try to wake Emmett up,
+t!ball does Iris try to wake Emmett up,
 
 **Zander** _(28-Oct-18 04:51 PM)_
 
@@ -3127,7 +3128,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:51 PM)_
 
-> t!8ball does Iris try to wake Emmett up?
+t!8ball does Iris try to wake Emmett up?
 
 **Tatsumaki** _(28-Oct-18 04:51 PM)_
 
@@ -3207,7 +3208,7 @@ In the end, the result was:
 **Jelsafan0** _(28-Oct-18 04:54 PM)_
 
 > ”So, uh... how do you know this guy again?”
-> ...he’s the captain.
+> ...he's the captain.
 
 **Zander** _(28-Oct-18 04:54 PM)_
 
@@ -3249,7 +3250,7 @@ In the end, the result was:
 
 **Jelsafan0** _(28-Oct-18 04:59 PM)_
 
-> Okay. I think I’m gonna walk around with Damien.
+> Okay. I think I'm gonna walk around with Damien.
 > See ya tomorrow.
 
 **Zander** _(28-Oct-18 04:59 PM)_

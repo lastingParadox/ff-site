@@ -981,7 +981,7 @@ _Garrick folds his hands._
 
 **PlasmaPerson** _(25-Jun-18 03:17 PM)_
 
-> t!choose The crew enters with stealth | The crew enters with force | The crew enters clumsily
+t!choose The crew enters with stealth | The crew enters with force | The crew enters clumsily
 
 **Tatsumaki** _(25-Jun-18 03:17 PM)_
 
@@ -1267,7 +1267,7 @@ _Garrick points a finger gun at Jim._
 
 **TheBlade** _(25-Jun-18 03:32 PM)_
 
-> t!choose Missed shot | Shoot Jim | Shoot Garrick | Shoot Seth | Shoot a fellow officer | Shoot Bail | Shoot Asier
+t!choose Missed shot | Shoot Jim | Shoot Garrick | Shoot Seth | Shoot a fellow officer | Shoot Bail | Shoot Asier
 
 **Tatsumaki** _(25-Jun-18 03:32 PM)_
 
@@ -1312,7 +1312,7 @@ _Emmett mutters._
 
 **RPretribution** _(25-Jun-18 03:33 PM)_
 
-> t!choose Gun | Knives
+t!choose Gun | Knives
 
 **Tatsumaki** _(25-Jun-18 03:33 PM)_
 
@@ -1709,7 +1709,7 @@ _Asier prods Jim._
 
 **TheBlade** _(25-Jun-18 03:49 PM)_
 
-> t!choose Janis misses | Janis hits Jim | Janis hits Garrick | Janis hits themselves | Janis hits Asier | Janis hits Seth | Janis hits Bail
+t!choose Janis misses | Janis hits Jim | Janis hits Garrick | Janis hits themselves | Janis hits Asier | Janis hits Seth | Janis hits Bail
 
 **Tatsumaki** _(25-Jun-18 03:49 PM)_
 
@@ -2185,7 +2185,7 @@ _Garrick speaks softly, distraught._
 
 **TheBlade** _(25-Jun-18 04:24 PM)_
 
-> t!choose Jim stole 0D | Jim stole 10 D | Jim stole 20 D | Jim stole 50 D | Jim stole 100D | Jim stole 200D | Jim stole a Pocket pistol
+t!choose Jim stole 0D | Jim stole 10 D | Jim stole 20 D | Jim stole 50 D | Jim stole 100D | Jim stole 200D | Jim stole a Pocket pistol
 
 **Tatsumaki** _(25-Jun-18 04:24 PM)_
 

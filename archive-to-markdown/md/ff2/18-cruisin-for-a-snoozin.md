@@ -42,7 +42,7 @@ t!8ball Does Seth kill himself?
 
 **Jelsafan0** _(08-Sep-18 03:22 PM)_
 
-> So... what’s goin on?
+> So... what's goin on?
 
 **Zander** _(08-Sep-18 03:22 PM)_
 
@@ -94,7 +94,7 @@ _Sanya shakes Emmett's shoulder softly. She looks over to Iris as she heads over
 
 **Jelsafan0** _(08-Sep-18 03:27 PM)_
 
-> I’m fine. And you?
+> I'm fine. And you?
 
 **Brakia** _(08-Sep-18 03:27 PM)_
 
@@ -252,7 +252,7 @@ t!8ball Does hector wake up and immediately check his pack?
 
 **Bagelwrecker** _(08-Sep-18 03:39 PM)_
 
-> Yee ha like a bee haw nee haw!
+> Yee haw like a bee haw nee haw!
 
 **Jelsafan0** _(08-Sep-18 03:39 PM)_
 
@@ -979,7 +979,7 @@ _Jim puts his index finger to his palm as he makes his point._
 
 **Jelsafan0** _(08-Sep-18 04:11 PM)_
 
-> I’m not good with ships.
+> I'm not good with ships.
 
 _Iris shrugs._
 
@@ -1406,7 +1406,7 @@ _Emmett admires the girth of the ship, walking along its length with Sanya._
 
 _Iris laughs to herself._
 
-> It looks just like Uncle’s!
+> It looks just like Uncle's!
 
 **WatchfulDrake** _(08-Sep-18 04:31 PM)_
 
@@ -1416,7 +1416,7 @@ _Hector is sickened by the metallic red color of the cruise ship._
 
 **Jelsafan0** _(08-Sep-18 04:32 PM)_
 
-> Only, uncle’s had a huge cannon on the top. And it was white...
+> Only, uncle's had a huge cannon on the top. And it was white...
 
 **Bagelwrecker** _(08-Sep-18 04:32 PM)_
 
@@ -1819,7 +1819,7 @@ _Emmett sticks up a middle digit to his father._
 
 **Jelsafan0** _(08-Sep-18 04:47 PM)_
 
-> ... It’s nothing. I just...
+> ... It's nothing. I just...
 
 _Iris sniffles._
 
@@ -1916,7 +1916,7 @@ _Emmett points at Seth angrily and mimics slashing his neck due to his previous 
 
 **Jelsafan0** _(08-Sep-18 04:52 PM)_
 
-> He was nice sometimes, stern others. He didn’t have a whole lot of time for me, being busy ruling the planet and all, but...
+> He was nice sometimes, stern others. He didn't have a whole lot of time for me, being busy ruling the planet and all, but...
 
 **Bagelwrecker** _(08-Sep-18 04:52 PM)_
 
@@ -1935,7 +1935,7 @@ _Seth rolls his eyes and sits in the captain's seat._
 _Iris shrugs._
 
 > I mean, yeah. Being king of the light elves is a really important profession.
-> But don’t get me wrong- he wasn’t perfect.
+> But don't get me wrong- he wasn't perfect.
 > Not by a long shot.
 
 **Zander** _(08-Sep-18 04:54 PM)_
@@ -1996,7 +1996,7 @@ _Jim puts his hands on his hips._
 
 **Jelsafan0** _(08-Sep-18 04:57 PM)_
 
-> He didn’t like me all that much. I could tell. I mean, he tried to ignore that I wasn’t just a regular elf, but... he wasn’t very good at it. He never invited my father to anything. He got me things like colored contacts, and hair dye.
+> He didn't like me all that much. I could tell. I mean, he tried to ignore that I wasn't just a regular elf, but... he wasn't very good at it. He never invited my father to anything. He got me things like colored contacts, and hair dye.
 
 **Bagelwrecker** _(08-Sep-18 04:57 PM)_
 
@@ -2022,7 +2022,7 @@ _Jim leans in to get Emmett's expression._
 
 **Jelsafan0** _(08-Sep-18 04:57 PM)_
 
-_Iris snickers at Chomsky’s joke._
+_Iris snickers at Chomsky's joke._
 
 **WatchfulDrake** _(08-Sep-18 04:57 PM)_
 
@@ -2042,7 +2042,7 @@ _Emmett shrugs and nods._
 
 _Iris utters out a playfully sarcastic response._
 
-> I never would’ve guessed.
+> I never would've guessed.
 
 **Bagelwrecker** _(08-Sep-18 04:58 PM)_
 
@@ -2141,8 +2141,8 @@ _Chomsky gives an strained exhale._
 
 **Jelsafan0** _(08-Sep-18 05:02 PM)_
 
-> That’s fine. I get it. There are things I don’t like talking about either.
-> But... if you ever need someone to talk to... I’ll be around.
+> That's fine. I get it. There are things I don't like talking about either.
+> But... if you ever need someone to talk to... I'll be around.
 
 **PlasmaPerson** _(08-Sep-18 05:03 PM)_
 
@@ -2269,7 +2269,7 @@ _Sanya finds a room and drops off her bags she scrounged from the Polonot ruins.
 
 _Iris peers into Sanya's new room and giggles._
 
-> That’s the room I always used to stay in.
+> That's the room I always used to stay in.
 
 **Bagelwrecker** _(08-Sep-18 05:07 PM)_
 
@@ -2325,7 +2325,7 @@ _Emmett coughs._
 
 **Jelsafan0** _(08-Sep-18 05:11 PM)_
 
-> I... think I’ll just go explore...
+> I... think I'll just go explore...
 
 **PlasmaPerson** _(08-Sep-18 05:11 PM)_
 

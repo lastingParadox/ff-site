@@ -1,6 +1,6 @@
 **Zander** _(23-Sep-18 03:11 PM)_
 
-> t!8ball Does Emmett wake up, pushing himself from the dead plant?
+t!8ball Does Emmett wake up, pushing himself from the dead plant?
 
 **Tatsumaki** _(23-Sep-18 03:11 PM)_
 
@@ -10,7 +10,7 @@
 
 **Brakia** _(23-Sep-18 03:12 PM)_
 
-> t!8ball Does Emmett grab Sanya's flower?
+t!8ball Does Emmett grab Sanya's flower?
 
 **Tatsumaki** _(23-Sep-18 03:12 PM)_
 
@@ -20,7 +20,7 @@
 
 **Brakia** _(23-Sep-18 03:13 PM)_
 
-> t!8ball Does Emmett grab Sanya's flower as a keepsake?
+t!8ball Does Emmett grab Sanya's flower as a keepsake?
 
 **Tatsumaki** _(23-Sep-18 03:13 PM)_
 
@@ -34,7 +34,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:13 PM)_
 
-> t!8ball does Iris wake up now?
+t!8ball does Iris wake up now?
 
 **Tatsumaki** _(23-Sep-18 03:13 PM)_
 
@@ -49,7 +49,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:14 PM)_
 
-> t!8ball Is Seth asleep on a couch right next to Iris's bed?
+t!8ball Is Seth asleep on a couch right next to Iris's bed?
 
 **Tatsumaki** _(23-Sep-18 03:14 PM)_
 
@@ -83,7 +83,7 @@
 
 **Brakia** _(23-Sep-18 03:16 PM)_
 
-> t!8ball Does Sanya's flower stick to Emmett's fur?
+t!8ball Does Sanya's flower stick to Emmett's fur?
 
 **Tatsumaki** _(23-Sep-18 03:16 PM)_
 
@@ -93,7 +93,7 @@
 
 **Brakia** _(23-Sep-18 03:17 PM)_
 
-> t!8ball Does Emmet pick up the damn flower
+t!8ball Does Emmet pick up the damn flower
 
 **Tatsumaki** _(23-Sep-18 03:17 PM)_
 
@@ -103,7 +103,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:19 PM)_
 
-> t!choose chest | arms | legs | veins | eyes
+t!choose chest | arms | legs | veins | eyes
 
 **Tatsumaki** _(23-Sep-18 03:19 PM)_
 
@@ -115,7 +115,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:19 PM)_
 
-> t!8ball does Emmett pee on the flower?
+t!8ball does Emmett pee on the flower?
 
 **Tatsumaki** _(23-Sep-18 03:19 PM)_
 
@@ -140,7 +140,7 @@
 
 **Brakia** _(23-Sep-18 03:21 PM)_
 
-> t!8ball Does Seth clean while sleepwalking?
+t!8ball Does Seth clean while sleepwalking?
 
 **Tatsumaki** _(23-Sep-18 03:21 PM)_
 
@@ -150,7 +150,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:22 PM)_
 
-> t!8ball does Iris have a red tree-like veiny tattoo-ish pattern on her inner arms now?
+t!8ball does Iris have a red tree-like veiny tattoo-ish pattern on her inner arms now?
 
 **Tatsumaki** _(23-Sep-18 03:22 PM)_
 
@@ -160,7 +160,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:22 PM)_
 
-> t!8ball does Iris have a red tree-like veiny tattoo-ish pattern on her inner arms now?
+t!8ball does Iris have a red tree-like veiny tattoo-ish pattern on her inner arms now?
 
 **Tatsumaki** _(23-Sep-18 03:22 PM)_
 
@@ -170,7 +170,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:22 PM)_
 
-> t!8ball does Emmett suck up the pee with his finger?
+t!8ball does Emmett suck up the pee with his finger?
 
 **Tatsumaki** _(23-Sep-18 03:22 PM)_
 
@@ -180,7 +180,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:23 PM)_
 
-> t!8ball does Emmett suck up the pee with his magical mop?
+t!8ball does Emmett suck up the pee with his magical mop?
 
 **Tatsumaki** _(23-Sep-18 03:23 PM)_
 
@@ -190,7 +190,7 @@
 
 **Zander** _(23-Sep-18 03:23 PM)_
 
-> t!8ball Does Seth wake up and call one of his friends? (Deyner)
+t!8ball Does Seth wake up and call one of his friends? (Deyner)
 
 **Tatsumaki** _(23-Sep-18 03:23 PM)_
 
@@ -266,7 +266,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:27 PM)_
 
-> t!8ball does Iris have a red tree-like veiny tattoo-ish pattern on her inner arms now?
+t!8ball does Iris have a red tree-like veiny tattoo-ish pattern on her inner arms now?
 
 **Tatsumaki** _(23-Sep-18 03:27 PM)_
 
@@ -313,7 +313,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:30 PM)_
 
-> She starts to rub at one, and discovers that it won’t come off. It’s just a part of her skin.
+> She starts to rub at one, and discovers that it won't come off. It's just a part of her skin.
 
 **Deyner** _(23-Sep-18 03:30 PM)_
 
@@ -334,7 +334,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:32 PM)_
 
-> She sighs heavily, and looks at the tubes and needles attached to her skin. She doesn’t feel as though they’re necessary, anymore.
+> She sighs heavily, and looks at the tubes and needles attached to her skin. She doesn't feel as though they're necessary, anymore.
 
 **Deyner** _(23-Sep-18 03:32 PM)_
 
@@ -350,7 +350,7 @@
 
 **Deyner** _(23-Sep-18 03:33 PM)_
 
-> t!8ball what are my chances for survival with 75% more air
+t!8ball what are my chances for survival with 75% more air
 
 **Tatsumaki** _(23-Sep-18 03:33 PM)_
 
@@ -363,7 +363,7 @@
 
 **PlasmaPerson** _(23-Sep-18 03:33 PM)_
 
-> t!8ball does Chomsky, casually eating yogurt, walk over to iris
+t!8ball does Chomsky, casually eating yogurt, walk over to iris
 
 **Tatsumaki** _(23-Sep-18 03:33 PM)_
 
@@ -382,7 +382,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:34 PM)_
 
-> t!8ball Does Seth say goodbye and hangup?
+t!8ball Does Seth say goodbye and hangup?
 
 **Tatsumaki** _(23-Sep-18 03:34 PM)_
 
@@ -405,7 +405,7 @@
 
 **Zander** _(23-Sep-18 03:35 PM)_
 
-> t!8ball Does Emmett trudge over to the kitchen, grabbing himself some grass?
+t!8ball Does Emmett trudge over to the kitchen, grabbing himself some grass?
 
 **Tatsumaki** _(23-Sep-18 03:35 PM)_
 
@@ -432,7 +432,7 @@
 
 **Brakia** _(23-Sep-18 03:36 PM)_
 
-> t!8ball Does the darkness start to drain from the flower?
+t!8ball Does the darkness start to drain from the flower?
 
 **Tatsumaki** _(23-Sep-18 03:36 PM)_
 
@@ -446,7 +446,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:37 PM)_
 
-> I don’t know. I just woke up.
+> I don't know. I just woke up.
 
 **Zander** _(23-Sep-18 03:37 PM)_
 
@@ -454,7 +454,7 @@
 
 **PlasmaPerson** _(23-Sep-18 03:37 PM)_
 
-> t!8ball is it Lilis turn now
+t!8ball is it Lilis turn now
 
 **Tatsumaki** _(23-Sep-18 03:37 PM)_
 
@@ -464,7 +464,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:38 PM)_
 
-> t!8ball is Iris able to stand without trouble?
+t!8ball is Iris able to stand without trouble?
 
 **Tatsumaki** _(23-Sep-18 03:38 PM)_
 
@@ -481,7 +481,7 @@
 
 **Deyner** _(23-Sep-18 03:38 PM)_
 
-> t!8ball does deyner wake up?
+t!8ball does deyner wake up?
 
 **Tatsumaki** _(23-Sep-18 03:38 PM)_
 
@@ -495,7 +495,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:39 PM)_
 
-> t!8ball Does Iris trip and fall while screaming "I've fallen and I can't get up"?
+t!8ball Does Iris trip and fall while screaming "I've fallen and I can't get up"?
 
 **Tatsumaki** _(23-Sep-18 03:39 PM)_
 
@@ -505,7 +505,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:39 PM)_
 
-> t!8ball Does Iris trip and fall while screaming "I've fallen and I can't get up"?
+t!8ball Does Iris trip and fall while screaming "I've fallen and I can't get up"?
 
 **Tatsumaki** _(23-Sep-18 03:39 PM)_
 
@@ -523,7 +523,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:40 PM)_
 
-> I’m fine. God is just stupid sometimes.
+> I'm fine. God is just stupid sometimes.
 
 **Zander** _(23-Sep-18 03:40 PM)_
 
@@ -569,7 +569,7 @@
 
 **Zander** _(23-Sep-18 03:42 PM)_
 
-> t!8ball Does Emmett start to shiver?
+t!8ball Does Emmett start to shiver?
 
 **Tatsumaki** _(23-Sep-18 03:42 PM)_
 
@@ -628,7 +628,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:44 PM)_
 
-> I’m sorry.
+> I'm sorry.
 > I made these.
 
 **Brakia** _(23-Sep-18 03:44 PM)_
@@ -657,7 +657,7 @@
 
 **PlasmaPerson** _(23-Sep-18 03:46 PM)_
 
-> t!8ball is Emmetts speech suspicious at all to Chomsky and iris
+t!8ball is Emmetts speech suspicious at all to Chomsky and iris
 
 **Tatsumaki** _(23-Sep-18 03:46 PM)_
 
@@ -667,7 +667,7 @@
 
 **PlasmaPerson** _(23-Sep-18 03:46 PM)_
 
-> t!8ball TELL ME
+t!8ball TELL ME
 
 **Tatsumaki** _(23-Sep-18 03:46 PM)_
 
@@ -694,7 +694,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:48 PM)_
 
-> t!8ball does Iris speak loud enough for Emmett to hear this time?
+t!8ball does Iris speak loud enough for Emmett to hear this time?
 
 **Tatsumaki** _(23-Sep-18 03:48 PM)_
 
@@ -704,7 +704,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:48 PM)_
 
-> t!8ball does Iris speak loud enough for Emmett to hear this time?
+t!8ball does Iris speak loud enough for Emmett to hear this time?
 
 **Tatsumaki** _(23-Sep-18 03:48 PM)_
 
@@ -730,7 +730,7 @@
 
 **Deyner** _(23-Sep-18 03:49 PM)_
 
-> t!8ball does Deyner craft a working emergency beacon?
+t!8ball does Deyner craft a working emergency beacon?
 
 **Tatsumaki** _(23-Sep-18 03:49 PM)_
 
@@ -750,7 +750,7 @@
 
 **Deyner** _(23-Sep-18 03:50 PM)_
 
-> t!8ball does Deyner pass out due to lack of oxygen after?
+t!8ball does Deyner pass out due to lack of oxygen after?
 
 **PlasmaPerson** _(23-Sep-18 03:50 PM)_
 
@@ -766,7 +766,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:51 PM)_
 
-> t!8ball Does Chomsky bend over and eat the grass Emmett spit?
+t!8ball Does Chomsky bend over and eat the grass Emmett spit?
 
 **Tatsumaki** _(23-Sep-18 03:51 PM)_
 
@@ -788,7 +788,7 @@
 
 **Zander** _(23-Sep-18 03:52 PM)_
 
-> t!8ball Does Chomsky regurgitate the grass into Seth's mouth?
+t!8ball Does Chomsky regurgitate the grass into Seth's mouth?
 
 **Tatsumaki** _(23-Sep-18 03:52 PM)_
 
@@ -798,8 +798,8 @@
 
 **Zander** _(23-Sep-18 03:52 PM)_
 
-> t!8ball Does Chomsky regurgitate the grass into Seth's mouth?
-> t!8ball Does Chomsky regurgitate the grass into Seth's mouth?
+t!8ball Does Chomsky regurgitate the grass into Seth's mouth?
+t!8ball Does Chomsky regurgitate the grass into Seth's mouth?
 
 **Tatsumaki** _(23-Sep-18 03:52 PM)_
 
@@ -821,7 +821,7 @@
 
 **Brakia** _(23-Sep-18 03:53 PM)_
 
-> t!8ball Does Emmett start to go to the green room?
+t!8ball Does Emmett start to go to the green room?
 
 **Tatsumaki** _(23-Sep-18 03:53 PM)_
 
@@ -831,7 +831,7 @@
 
 **Brakia** _(23-Sep-18 03:53 PM)_
 
-> t!8ball Does Emmett start to go to the Greenroom?
+t!8ball Does Emmett start to go to the Greenroom?
 
 **Tatsumaki** _(23-Sep-18 03:53 PM)_
 
@@ -853,7 +853,7 @@
 
 **PlasmaPerson** _(23-Sep-18 03:54 PM)_
 
-> t!choose Chomsky follows Emmett | Chomsky follows iris
+t!choose Chomsky follows Emmett | Chomsky follows iris
 
 **Tatsumaki** _(23-Sep-18 03:54 PM)_
 
@@ -890,7 +890,7 @@
 
 **Jelsafan0** _(23-Sep-18 03:56 PM)_
 
-> t!8ball does Iris wander aimlessly around the ship, not paying attention to where she’s going, until she suddenly realizes she’s at the pool?
+t!8ball does Iris wander aimlessly around the ship, not paying attention to where she's going, until she suddenly realizes she's at the pool?
 
 **Tatsumaki** _(23-Sep-18 03:56 PM)_
 
@@ -904,7 +904,7 @@
 
 **Deyner** _(23-Sep-18 03:56 PM)_
 
-> t!8ball does anyone on the ship notice the beacon's signal?
+t!8ball does anyone on the ship notice the beacon's signal?
 
 **Tatsumaki** _(23-Sep-18 03:56 PM)_
 
@@ -914,7 +914,7 @@
 
 **Deyner** _(23-Sep-18 03:56 PM)_
 
-> t!8ball does anyone on the ship notice the beacon's signal?
+t!8ball does anyone on the ship notice the beacon's signal?
 
 **Tatsumaki** _(23-Sep-18 03:56 PM)_
 
@@ -932,7 +932,7 @@
 
 **Bagelwrecker** _(23-Sep-18 03:57 PM)_
 
-> t!8ball Does Emmett plant the flower and water it?
+t!8ball Does Emmett plant the flower and water it?
 
 **Jelsafan0** _(23-Sep-18 03:57 PM)_
 
@@ -967,7 +967,7 @@
 
 **Zander** _(23-Sep-18 03:59 PM)_
 
-> t!8ball Does Iris see Deyner's beacon?
+t!8ball Does Iris see Deyner's beacon?
 
 **Tatsumaki** _(23-Sep-18 03:59 PM)_
 
@@ -1010,7 +1010,7 @@
 
 **Brakia** _(23-Sep-18 04:01 PM)_
 
-> t!8ball Does the flower start to grow?
+t!8ball Does the flower start to grow?
 
 **Tatsumaki** _(23-Sep-18 04:01 PM)_
 
@@ -1023,7 +1023,8 @@
 
 **Brakia** _(23-Sep-18 04:01 PM)_
 
-> t!8ball Does the flower start to grow?
+t!8ball Does the flower start to grow?
+
 > thank... you...
 
 **Zander** _(23-Sep-18 04:01 PM)_
@@ -1040,7 +1041,7 @@
 
 **PlasmaPerson** _(23-Sep-18 04:02 PM)_
 
-> t!8ball does the flower grow really fast
+t!8ball does the flower grow really fast
 
 **Tatsumaki** _(23-Sep-18 04:02 PM)_
 
@@ -1050,7 +1051,7 @@
 
 **PlasmaPerson** _(23-Sep-18 04:03 PM)_
 
-> t!8ball
+t!8ball
 
 **Tatsumaki** _(23-Sep-18 04:03 PM)_
 
@@ -1069,7 +1070,7 @@
 
 **PlasmaPerson** _(23-Sep-18 04:03 PM)_
 
-> t!choose flower grows super fast | takes several turns
+t!choose flower grows super fast | takes several turns
 
 **Tatsumaki** _(23-Sep-18 04:03 PM)_
 
@@ -1081,7 +1082,7 @@
 
 **Jelsafan0** _(23-Sep-18 04:04 PM)_
 
-> t!8ball does Iris know how to operate a tractor beam?
+t!8ball does Iris know how to operate a tractor beam?
 
 **Tatsumaki** _(23-Sep-18 04:04 PM)_
 
@@ -1100,7 +1101,7 @@
 
 **Deyner** _(23-Sep-18 04:04 PM)_
 
-> t!8ball does Iris learn how to use the tractor beam?
+t!8ball does Iris learn how to use the tractor beam?
 
 **Tatsumaki** _(23-Sep-18 04:04 PM)_
 
@@ -1110,7 +1111,7 @@
 
 **Deyner** _(23-Sep-18 04:04 PM)_
 
-> t!8ball does Iris learn how to use the tractor beam?
+t!8ball does Iris learn how to use the tractor beam?
 
 **Tatsumaki** _(23-Sep-18 04:04 PM)_
 
@@ -1128,15 +1129,15 @@
 
 **RPretribution** _(23-Sep-18 04:05 PM)_
 
-> Woah! There’s a very large thing deep in the soil!
+> Woah! There's a very large thing deep in the soil!
 
 **Jelsafan0** _(23-Sep-18 04:05 PM)_
 
-> Let’s see here... and...
+> Let's see here... and...
 
 **Bagelwrecker** _(23-Sep-18 04:05 PM)_
 
-> t!8ball is the tractor beam currently broken and Seth is in the middle of working on it?
+t!8ball is the tractor beam currently broken and Seth is in the middle of working on it?
 
 **Zander** _(23-Sep-18 04:05 PM)_
 
@@ -1150,7 +1151,7 @@
 
 **Bagelwrecker** _(23-Sep-18 04:05 PM)_
 
-> t!8ball is the tractor beam currently broken and Seth is in the middle of working on it?
+t!8ball is the tractor beam currently broken and Seth is in the middle of working on it?
 
 **Tatsumaki** _(23-Sep-18 04:05 PM)_
 
@@ -1181,7 +1182,7 @@
 
 **RPretribution** _(23-Sep-18 04:06 PM)_
 
-> That’s fine.
+> That's fine.
 
 **PlasmaPerson** _(23-Sep-18 04:06 PM)_
 
@@ -1194,7 +1195,7 @@
 
 **RPretribution** _(23-Sep-18 04:07 PM)_
 
-> t!8ball does garrick pull it out
+t!8ball does garrick pull it out
 
 **Tatsumaki** _(23-Sep-18 04:07 PM)_
 
@@ -1268,7 +1269,7 @@
 
 **Brakia** _(23-Sep-18 04:10 PM)_
 
-> t!8ball Do the clothes fit?
+t!8ball Do the clothes fit?
 
 **Tatsumaki** _(23-Sep-18 04:10 PM)_
 
@@ -1278,7 +1279,7 @@
 
 **PlasmaPerson** _(23-Sep-18 04:11 PM)_
 
-> t!8ball does Chomsky join iris to investigate the beacon
+t!8ball does Chomsky join iris to investigate the beacon
 
 **Tatsumaki** _(23-Sep-18 04:11 PM)_
 
@@ -1312,7 +1313,7 @@
 
 **Jelsafan0** _(23-Sep-18 04:12 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(23-Sep-18 04:12 PM)_
 
@@ -1352,7 +1353,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:14 PM)_
 
-> t!8ball does Iris use the tractor beam to pull me in?
+t!8ball does Iris use the tractor beam to pull me in?
 
 **Jelsafan0** _(23-Sep-18 04:14 PM)_
 
@@ -1380,7 +1381,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 04:16 PM)_
 
-> t!8ball Does the tractor beam break?
+t!8ball Does the tractor beam break?
 
 **Tatsumaki** _(23-Sep-18 04:16 PM)_
 
@@ -1390,7 +1391,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:16 PM)_
 
-> josephine’s a trap
+> josephine's a trap
 
 **Jelsafan0** _(23-Sep-18 04:16 PM)_
 
@@ -1410,7 +1411,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:17 PM)_
 
-> screw off. I’m gonna go help.
+> screw off. I'm gonna go help.
 
 **Deyner** _(23-Sep-18 04:17 PM)_
 
@@ -1459,7 +1460,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:18 PM)_
 
-> t!8ball does garrick notice and do nothing to help
+t!8ball does garrick notice and do nothing to help
 
 **Tatsumaki** _(23-Sep-18 04:18 PM)_
 
@@ -1479,7 +1480,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 04:19 PM)_
 
-> t!8ball Does Emmett peek into the greenroom?
+t!8ball Does Emmett peek into the greenroom?
 
 **Tatsumaki** _(23-Sep-18 04:19 PM)_
 
@@ -1489,7 +1490,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 04:19 PM)_
 
-> t!8ball Does Emmett peek into the greenroom?
+t!8ball Does Emmett peek into the greenroom?
 
 **Tatsumaki** _(23-Sep-18 04:19 PM)_
 
@@ -1503,11 +1504,11 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:19 PM)_
 
-> Eh, he’ll be fine.
+> Eh, he'll be fine.
 
 **Brakia** _(23-Sep-18 04:19 PM)_
 
-> t!8ball Does Sanya leave the greenroom?
+t!8ball Does Sanya leave the greenroom?
 
 **Tatsumaki** _(23-Sep-18 04:19 PM)_
 
@@ -1546,7 +1547,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(23-Sep-18 04:20 PM)_
 
-> t!8ball does Deyner smack into the wall due to airlock stuff
+t!8ball does Deyner smack into the wall due to airlock stuff
 
 **Tatsumaki** _(23-Sep-18 04:20 PM)_
 
@@ -1572,7 +1573,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:21 PM)_
 
-> t!8ball does Iris slap Deyner, waking him up?
+t!8ball does Iris slap Deyner, waking him up?
 
 **Tatsumaki** _(23-Sep-18 04:21 PM)_
 
@@ -1586,7 +1587,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:21 PM)_
 
-> t!8ball does Iris slap Deyner, waking him up?
+t!8ball does Iris slap Deyner, waking him up?
 
 **Tatsumaki** _(23-Sep-18 04:21 PM)_
 
@@ -1604,7 +1605,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:22 PM)_
 
-> t!8ball does Deyner wake up and see the stranger?
+t!8ball does Deyner wake up and see the stranger?
 
 **Tatsumaki** _(23-Sep-18 04:22 PM)_
 
@@ -1614,7 +1615,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:22 PM)_
 
-> t!8ball does Deyner wake up and see the stranger?
+t!8ball does Deyner wake up and see the stranger?
 
 **Tatsumaki** _(23-Sep-18 04:22 PM)_
 
@@ -1624,7 +1625,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 04:22 PM)_
 
-> t!8ball Does Seth airlock the trash compactor thus airlocking the phonebooth with Deyner and Iris in it?
+t!8ball Does Seth airlock the trash compactor thus airlocking the phonebooth with Deyner and Iris in it?
 
 **Tatsumaki** _(23-Sep-18 04:22 PM)_
 
@@ -1634,7 +1635,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 04:22 PM)_
 
-> t!8ball Does Seth airlock the trash compactor thus airlocking the phonebooth with Deyner and Iris in it?
+t!8ball Does Seth airlock the trash compactor thus airlocking the phonebooth with Deyner and Iris in it?
 
 **Tatsumaki** _(23-Sep-18 04:22 PM)_
 
@@ -1657,7 +1658,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:23 PM)_
 
-> I’m Iris. You’re on the ship.
+> I'm Iris. You're on the ship.
 
 **RPretribution** _(23-Sep-18 04:23 PM)_
 
@@ -1677,7 +1678,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:23 PM)_
 
-> I’m just curious. Not like I’d do it.
+> I'm just curious. Not like I'd do it.
 
 **Brakia** _(23-Sep-18 04:23 PM)_
 
@@ -1685,7 +1686,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:23 PM)_
 
-> I don’t know. It’s just the ship.
+> I don't know. It's just the ship.
 
 **Bagelwrecker** _(23-Sep-18 04:23 PM)_
 
@@ -1721,7 +1722,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:25 PM)_
 
-> I’m half light elf, half archidemon,
+> I'm half light elf, half archidemon,
 > _She states harshly. _
 > and I just saved your life.
 
@@ -1751,7 +1752,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:26 PM)_
 
-> ..it’s fine...
+> ..it's fine...
 
 **Brakia** _(23-Sep-18 04:26 PM)_
 
@@ -1768,7 +1769,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:27 PM)_
 
-> t!8ball does garrick go into the other room
+t!8ball does garrick go into the other room
 
 **Tatsumaki** _(23-Sep-18 04:27 PM)_
 
@@ -1803,7 +1804,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 04:28 PM)_
 
-> t!8ball Does Seth get a call from an elfish stock investor?
+t!8ball Does Seth get a call from an elfish stock investor?
 
 **Tatsumaki** _(23-Sep-18 04:28 PM)_
 
@@ -1813,11 +1814,11 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:28 PM)_
 
-> Hey, it’s window guy.
+> Hey, it's window guy.
 
 **Jelsafan0** _(23-Sep-18 04:28 PM)_
 
-> no. We were real. But now I’m all that’s left.
+> no. We were real. But now I'm all that's left.
 
 **Deyner** _(23-Sep-18 04:28 PM)_
 
@@ -1830,7 +1831,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 04:28 PM)_
 
-> t!8ball Does Sanya go off to find Iris?
+t!8ball Does Sanya go off to find Iris?
 
 **Tatsumaki** _(23-Sep-18 04:28 PM)_
 
@@ -1864,7 +1865,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(23-Sep-18 04:29 PM)_
 
-> t!8ball does Chomsky toss a muffin at deyner in greeting
+t!8ball does Chomsky toss a muffin at deyner in greeting
 
 **Tatsumaki** _(23-Sep-18 04:29 PM)_
 
@@ -1883,7 +1884,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:30 PM)_
 
-> Where’d you even come from?
+> Where'd you even come from?
 > Besides space.
 
 **PlasmaPerson** _(23-Sep-18 04:30 PM)_
@@ -1901,7 +1902,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:31 PM)_
 
-> Chonky, we should totally enslave this guy. Iris doesn’t seem to like him.
+> Chonky, we should totally enslave this guy. Iris doesn't seem to like him.
 
 **Deyner** _(23-Sep-18 04:32 PM)_
 
@@ -1929,7 +1930,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:32 PM)_
 
-> ...You guys realize I’m incorporeal, right?
+> ...You guys realize I'm incorporeal, right?
 
 **Brakia** _(23-Sep-18 04:33 PM)_
 
@@ -1948,7 +1949,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:33 PM)_
 
-> Chonky. That’s your new nickname. What do you think?
+> Chonky. That's your new nickname. What do you think?
 
 **Zander** _(23-Sep-18 04:34 PM)_
 
@@ -1973,7 +1974,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:35 PM)_
 
-> T!8ball does Deyner try to find Iris and make it up to her for being rude?
+t!8ball does Deyner try to find Iris and make it up to her for being rude?
 
 **RPretribution** _(23-Sep-18 04:35 PM)_
 
@@ -1981,7 +1982,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:35 PM)_
 
-> t!8ball does Deyner try to find Iris and make it up to her for being rude?
+t!8ball does Deyner try to find Iris and make it up to her for being rude?
 
 **Tatsumaki** _(23-Sep-18 04:35 PM)_
 
@@ -1995,7 +1996,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 04:35 PM)_
 
-> t!8ball Does Seth convince the stock salesman to give us all his money which is 700.000,000 GU Credits?
+t!8ball Does Seth convince the stock salesman to give us all his money which is 700.000,000 GU Credits?
 
 **Tatsumaki** _(23-Sep-18 04:35 PM)_
 
@@ -2005,7 +2006,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 04:35 PM)_
 
-> t!8ball Does Seth convince the stock salesman to give us all his money which is 700.000,000 GU Credits?
+t!8ball Does Seth convince the stock salesman to give us all his money which is 700.000,000 GU Credits?
 
 **Tatsumaki** _(23-Sep-18 04:35 PM)_
 
@@ -2015,7 +2016,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:36 PM)_
 
-> ‘I’m sorry Iris I did not mean to offend you’
+> ‘I'm sorry Iris I did not mean to offend you'
 
 **Bagelwrecker** _(23-Sep-18 04:37 PM)_
 
@@ -2081,7 +2082,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:40 PM)_
 
-> t!8ball does garrick go literally anywhere else
+t!8ball does garrick go literally anywhere else
 
 **Tatsumaki** _(23-Sep-18 04:40 PM)_
 
@@ -2095,7 +2096,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:40 PM)_
 
-> (Hey guys I have to go I won’t be able to voice chat ok?)
+> (Hey guys I have to go I won't be able to voice chat ok?)
 
 **PlasmaPerson** _(23-Sep-18 04:40 PM)_
 
@@ -2143,7 +2144,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 04:42 PM)_
 
-> t!8ball Does Emmett rest his cheek on Iris' head?
+t!8ball Does Emmett rest his cheek on Iris' head?
 
 **Tatsumaki** _(23-Sep-18 04:42 PM)_
 
@@ -2177,7 +2178,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:42 PM)_
 
-> ...I’m sorry,
+> ...I'm sorry,
 > she chokes out.
 
 **RPretribution** _(23-Sep-18 04:42 PM)_
@@ -2215,11 +2216,11 @@ In the end, the result was:
 **Deyner** _(23-Sep-18 04:44 PM)_
 
 > sees the broken tractor beam
-> (who’s turn is it?)
+> (who's turn is it?)
 
 **Jelsafan0** _(23-Sep-18 04:44 PM)_
 
-> ...but I’m not.
+> ...but I'm not.
 
 **PlasmaPerson** _(23-Sep-18 04:44 PM)_
 
@@ -2231,11 +2232,11 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:44 PM)_
 
-> she’s over loss
+> she's over loss
 
 **Brakia** _(23-Sep-18 04:44 PM)_
 
-> t!8ball Does Sanya find Iris and Emmett?
+t!8ball Does Sanya find Iris and Emmett?
 
 **Tatsumaki** _(23-Sep-18 04:44 PM)_
 
@@ -2253,7 +2254,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:45 PM)_
 
-> Iris’ head snaps up.
+> Iris' head snaps up.
 
 **Zander** _(23-Sep-18 04:45 PM)_
 
@@ -2285,7 +2286,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(23-Sep-18 04:46 PM)_
 
-> t!8ball does Chomsky throw a muffin at Deyner in greeting
+t!8ball does Chomsky throw a muffin at Deyner in greeting
 
 **Tatsumaki** _(23-Sep-18 04:46 PM)_
 
@@ -2295,7 +2296,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(23-Sep-18 04:46 PM)_
 
-> t!8ball does he
+t!8ball does he
 
 **Tatsumaki** _(23-Sep-18 04:46 PM)_
 
@@ -2313,7 +2314,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:47 PM)_
 
-> t!8ball does Lili NOT ask 8ball if Chomsky throws a muffin?
+t!8ball does Lili NOT ask 8ball if Chomsky throws a muffin?
 
 **Tatsumaki** _(23-Sep-18 04:47 PM)_
 
@@ -2323,7 +2324,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 04:47 PM)_
 
-> t!8ball Does Seth convince the stock salesman to give us all his money which is 700,000,000 GU Credits thus causing Dread to appear within Sanya's butthole?
+t!8ball Does Seth convince the stock salesman to give us all his money which is 700,000,000 GU Credits thus causing Dread to appear within Sanya's butthole?
 
 **Tatsumaki** _(23-Sep-18 04:47 PM)_
 
@@ -2341,7 +2342,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:47 PM)_
 
-> t!choose Does Deyner fix the tractor beam | does he see Jonas and greet him and inspect his flame thorower
+t!choose Does Deyner fix the tractor beam | does he see Jonas and greet him and inspect his flame thorower
 
 **Tatsumaki** _(23-Sep-18 04:47 PM)_
 
@@ -2351,7 +2352,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:48 PM)_
 
-> t!choose Does Deyner fix the tractor beam | does he see Jonas and greet him and inspect his flame thorower
+t!choose Does Deyner fix the tractor beam | does he see Jonas and greet him and inspect his flame thorower
 
 **Tatsumaki** _(23-Sep-18 04:48 PM)_
 
@@ -2388,7 +2389,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 04:49 PM)_
 
-> t!8ball Does Seth convince the stock salesman to give us all his money which is 700,000,000 Ducketts thus causing Dread to appear within Garrick's butthole and take away all our well earned ducketts?
+t!8ball Does Seth convince the stock salesman to give us all his money which is 700,000,000 Ducketts thus causing Dread to appear within Garrick's butthole and take away all our well earned ducketts?
 
 **Tatsumaki** _(23-Sep-18 04:49 PM)_
 
@@ -2402,7 +2403,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:49 PM)_
 
-> I’m Deyner... Deyner Revathen
+> I'm Deyner... Deyner Revathen
 > stretches out his hand
 
 **Brakia** _(23-Sep-18 04:49 PM)_
@@ -2449,7 +2450,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:51 PM)_
 
-> hot hot!! Sorry I’m a bit sensitive to heat cause of being half snow elf
+> hot hot!! Sorry I'm a bit sensitive to heat cause of being half snow elf
 > yo wicked flame thrower!
 
 **RPretribution** _(23-Sep-18 04:51 PM)_
@@ -2458,7 +2459,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:52 PM)_
 
-> third drawer to the left on the top. I’m gonna go check on Emmett.
+> third drawer to the left on the top. I'm gonna go check on Emmett.
 
 **Brakia** _(23-Sep-18 04:52 PM)_
 
@@ -2499,11 +2500,11 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:53 PM)_
 
-> t!choose does Deyner just fix the flame thrower | does he fix it and double its flame output
+t!choose does Deyner just fix the flame thrower | does he fix it and double its flame output
 
 **Jelsafan0** _(23-Sep-18 04:53 PM)_
 
-> Trey it’s your 8ball turn
+> Trey it's your 8ball turn
 
 **Zander** _(23-Sep-18 04:53 PM)_
 
@@ -2533,7 +2534,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:54 PM)_
 
-> t!8ball does garrick take the flame thrower from deyner and look at it
+t!8ball does garrick take the flame thrower from deyner and look at it
 
 **Tatsumaki** _(23-Sep-18 04:54 PM)_
 
@@ -2585,11 +2586,11 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:55 PM)_
 
-> I seem to remember you could’ve saved me Garrick..
+> I seem to remember you could've saved me Garrick..
 
 **RPretribution** _(23-Sep-18 04:55 PM)_
 
-> A flamethrower is one of the few weapons I’ve never used.
+> A flamethrower is one of the few weapons I've never used.
 
 **Deyner** _(23-Sep-18 04:56 PM)_
 
@@ -2633,7 +2634,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 04:57 PM)_
 
-> t!8ball Does the ship start getting boarded without anyone noticing?
+t!8ball Does the ship start getting boarded without anyone noticing?
 
 **Tatsumaki** _(23-Sep-18 04:57 PM)_
 
@@ -2651,11 +2652,11 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 04:58 PM)_
 
-> hey what’s with Iris she seemed upset when I asked what she was?
+> hey what's with Iris she seemed upset when I asked what she was?
 
 **RPretribution** _(23-Sep-18 04:58 PM)_
 
-> I don’t have any money, I can’t buy one.
+> I don't have any money, I can't buy one.
 
 **PlasmaPerson** _(23-Sep-18 04:58 PM)_
 
@@ -2667,7 +2668,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 04:58 PM)_
 
-> t!8ball Does Sanya head to the pool for her weapons?
+t!8ball Does Sanya head to the pool for her weapons?
 
 **Tatsumaki** _(23-Sep-18 04:58 PM)_
 
@@ -2681,7 +2682,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 04:58 PM)_
 
-> t!8ball Does Sanya head to the pool?
+t!8ball Does Sanya head to the pool?
 
 **Tatsumaki** _(23-Sep-18 04:58 PM)_
 
@@ -2691,7 +2692,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 04:59 PM)_
 
-> Fine, I’ll just take it when he’s not looking.
+> Fine, I'll just take it when he's not looking.
 
 **Brakia** _(23-Sep-18 04:59 PM)_
 
@@ -2708,7 +2709,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 04:59 PM)_
 
-> (Why’d you leave)
+> (Why'd you leave)
 
 **Zander** _(23-Sep-18 05:00 PM)_
 
@@ -2788,7 +2789,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 05:02 PM)_
 
-> t!8ball does Deyner capture the enemy?
+t!8ball does Deyner capture the enemy?
 
 **Jelsafan0** _(23-Sep-18 05:02 PM)_
 
@@ -2811,7 +2812,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:03 PM)_
 
-> t!8ball Does the enemy assault Deyner, getting out of his trap?
+t!8ball Does the enemy assault Deyner, getting out of his trap?
 
 **Tatsumaki** _(23-Sep-18 05:03 PM)_
 
@@ -2821,8 +2822,8 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:03 PM)_
 
-> t!8ball Does the enemy assault Deyner, getting out of his trap?
-> t!8ball Does the enemy assault Deyner, getting out of his trap?
+t!8ball Does the enemy assault Deyner, getting out of his trap?
+t!8ball Does the enemy assault Deyner, getting out of his trap?
 
 **Tatsumaki** _(23-Sep-18 05:03 PM)_
 
@@ -2845,7 +2846,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 05:03 PM)_
 
-> t!roll 2d14
+t!roll 2d14
 
 **Tatsumaki** _(23-Sep-18 05:03 PM)_
 
@@ -2867,7 +2868,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:04 PM)_
 
-> ”There’s one now!”
+> ”There's one now!”
 
 **RPretribution** _(23-Sep-18 05:04 PM)_
 
@@ -2875,7 +2876,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 05:04 PM)_
 
-> t!8ball Does Sanya attack the Raiders?
+t!8ball Does Sanya attack the Raiders?
 
 **Tatsumaki** _(23-Sep-18 05:04 PM)_
 
@@ -2893,7 +2894,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 05:05 PM)_
 
-> that’s not how combat works michael
+> that's not how combat works michael
 
 **Jelsafan0** _(23-Sep-18 05:05 PM)_
 
@@ -2901,7 +2902,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 05:05 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:05 PM)_
 
@@ -2919,7 +2920,7 @@ In the end, the result was:
 
 **RPretribution** _(23-Sep-18 05:05 PM)_
 
-> I mean, I’m not a man, but I could still do some damage.
+> I mean, I'm not a man, but I could still do some damage.
 
 **WatchfulDrake** _(23-Sep-18 05:05 PM)_
 
@@ -2965,8 +2966,8 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:07 PM)_
 
-> I don’t-
-> I didn’t mean to-
+> I don't-
+> I didn't mean to-
 
 **Deyner** _(23-Sep-18 05:07 PM)_
 
@@ -2979,7 +2980,7 @@ In the end, the result was:
 **Jelsafan0** _(23-Sep-18 05:07 PM)_
 
 > She sighs heavily, running her fingers through her hair.
-> I’m sorry.
+> I'm sorry.
 
 **RPretribution** _(23-Sep-18 05:07 PM)_
 
@@ -2987,7 +2988,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(23-Sep-18 05:08 PM)_
 
-> t!roll d15
+t!roll d15
 
 **Tatsumaki** _(23-Sep-18 05:08 PM)_
 
@@ -3009,7 +3010,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:09 PM)_
 
-> ”Hah hah ha! You obviously don’t know how war works, eh kiddo?”
+> ”Hah hah ha! You obviously don't know how war works, eh kiddo?”
 
 **PlasmaPerson** _(23-Sep-18 05:09 PM)_
 
@@ -3017,7 +3018,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 05:09 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:09 PM)_
 
@@ -3031,8 +3032,8 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:09 PM)_
 
-> Yeah. I’m really sorry.
-> I really didn’t mean to make you feel left out.
+> Yeah. I'm really sorry.
+> I really didn't mean to make you feel left out.
 
 **Zander** _(23-Sep-18 05:10 PM)_
 
@@ -3044,7 +3045,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:11 PM)_
 
-> t!roll d6
+t!roll d6
 
 **Tatsumaki** _(23-Sep-18 05:11 PM)_
 
@@ -3058,7 +3059,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:12 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:12 PM)_
 
@@ -3076,12 +3077,12 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:12 PM)_
 
-> I’m just...
+> I'm just...
 > Iris hesitates, unsure how to word it.
 
 **Platinum_Pathos** _(23-Sep-18 05:13 PM)_
 
-> t!8ball Is Danny awake?
+t!8ball Is Danny awake?
 
 **Tatsumaki** _(23-Sep-18 05:13 PM)_
 
@@ -3099,7 +3100,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:13 PM)_
 
-> t!8ball Does Seth lube up his laser gun as he hears commotion from over the comms and start to head over to where the fight is happening?
+t!8ball Does Seth lube up his laser gun as he hears commotion from over the comms and start to head over to where the fight is happening?
 
 **Tatsumaki** _(23-Sep-18 05:13 PM)_
 
@@ -3118,7 +3119,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:14 PM)_
 
-> t!8ball Does one of the raiders run off with Danny's hammer?
+t!8ball Does one of the raiders run off with Danny's hammer?
 
 **Tatsumaki** _(23-Sep-18 05:14 PM)_
 
@@ -3139,7 +3140,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:16 PM)_
 
-> I’m sorry. For worrying you, I mean.
+> I'm sorry. For worrying you, I mean.
 
 **Platinum_Pathos** _(23-Sep-18 05:17 PM)_
 
@@ -3152,7 +3153,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 05:17 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:17 PM)_
 
@@ -3174,7 +3175,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:18 PM)_
 
-> ”that’s cute! That’s real cute, lil lady!”
+> ”that's cute! That's real cute, lil lady!”
 
 **Brakia** _(23-Sep-18 05:18 PM)_
 
@@ -3198,11 +3199,11 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:19 PM)_
 
-> ”That you’re an extra rare catch!”
+> ”That you're an extra rare catch!”
 
 **PlasmaPerson** _(23-Sep-18 05:19 PM)_
 
-> t!roll 17
+t!roll 17
 
 **Tatsumaki** _(23-Sep-18 05:19 PM)_
 
@@ -3228,7 +3229,7 @@ t!roll 5d10+3
 
 **PlasmaPerson** _(23-Sep-18 05:19 PM)_
 
-> t!roll d17
+t!roll d17
 
 **Brakia** _(23-Sep-18 05:19 PM)_
 
@@ -3236,7 +3237,7 @@ t!roll 5d10+3
 
 **PlasmaPerson** _(23-Sep-18 05:19 PM)_
 
-> t!roll 3d7
+t!roll 3d7
 
 **Tatsumaki** _(23-Sep-18 05:19 PM)_
 
@@ -3275,7 +3276,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:21 PM)_
 
-> I’m not leaving until I’m sure you’re perfectly fine,
+> I'm not leaving until I'm sure you're perfectly fine,
 > Iris replies stubbornly.
 > t!roll d30
 
@@ -3295,7 +3296,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(23-Sep-18 05:22 PM)_
 
-> t!8ball Does Danny watch the fight with popcorn?
+t!8ball Does Danny watch the fight with popcorn?
 
 **Tatsumaki** _(23-Sep-18 05:22 PM)_
 
@@ -3308,7 +3309,8 @@ In the end, the result was:
 
 **Platinum_Pathos** _(23-Sep-18 05:22 PM)_
 
-> t!8ball Does Danny watch the fight with popcorn?
+t!8ball Does Danny watch the fight with popcorn?
+
 > You con doo it!
 > Whooo!
 
@@ -3358,7 +3360,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:25 PM)_
 
-> t!roll 4d15
+t!roll 4d15
 
 **Tatsumaki** _(23-Sep-18 05:25 PM)_
 
@@ -3434,11 +3436,12 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 05:27 PM)_
 
-> t!roll d30
+t!roll d30
 
 **WatchfulDrake** _(23-Sep-18 05:27 PM)_
 
-> t!roll d30
+t!roll d30
+
 > thats for sanya
 > my turn
 
@@ -3457,7 +3460,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:29 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:29 PM)_
 
@@ -3471,7 +3474,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 05:29 PM)_
 
-> t!choose sanya | seth | emmett and iris | danny
+t!choose sanya | seth | emmett and iris | danny
 
 **Tatsumaki** _(23-Sep-18 05:29 PM)_
 
@@ -3499,7 +3502,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(23-Sep-18 05:30 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:30 PM)_
 
@@ -3517,7 +3520,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(23-Sep-18 05:30 PM)_
 
-> t!roll d35
+t!roll d35
 
 **Tatsumaki** _(23-Sep-18 05:30 PM)_
 
@@ -3531,7 +3534,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:30 PM)_
 
-> There’s a short pause. Iris sighs.
+> There's a short pause. Iris sighs.
 > Man, this week has been crazy.
 
 **PlasmaPerson** _(23-Sep-18 05:30 PM)_
@@ -3541,7 +3544,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:32 PM)_
 
-> t!roll d35
+t!roll d35
 
 **Tatsumaki** _(23-Sep-18 05:32 PM)_
 
@@ -3559,7 +3562,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:33 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:33 PM)_
 
@@ -3573,7 +3576,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 05:33 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:33 PM)_
 
@@ -3597,7 +3600,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 05:34 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:34 PM)_
 
@@ -3658,8 +3661,8 @@ In the end, the result was:
 **Jelsafan0** _(23-Sep-18 05:36 PM)_
 
 > Yeah. I know the feeling.
-> They’re not random numbers
-> It’s my pirate’s health.
+> They're not random numbers
+> It's my pirate's health.
 
 **PlasmaPerson** _(23-Sep-18 05:37 PM)_
 
@@ -3675,11 +3678,11 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 05:39 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Platinum_Pathos** _(23-Sep-18 05:40 PM)_
 
-> t!roll 7
+t!roll 7
 
 **Tatsumaki** _(23-Sep-18 05:40 PM)_
 
@@ -3695,7 +3698,7 @@ t!roll 5d10+3
 
 **Platinum_Pathos** _(23-Sep-18 05:40 PM)_
 
-> t!roll d7
+t!roll d7
 
 **Tatsumaki** _(23-Sep-18 05:40 PM)_
 
@@ -3713,7 +3716,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:41 PM)_
 
-> t!8ball Does Seth force Danny to reload his pistol while he punches the bad boys?
+t!8ball Does Seth force Danny to reload his pistol while he punches the bad boys?
 
 **Tatsumaki** _(23-Sep-18 05:41 PM)_
 
@@ -3723,7 +3726,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:42 PM)_
 
-> t!8ball Does Seth force Danny to reload his pistol while he punches the bad boys?
+t!8ball Does Seth force Danny to reload his pistol while he punches the bad boys?
 
 **Tatsumaki** _(23-Sep-18 05:42 PM)_
 
@@ -3756,7 +3759,8 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:44 PM)_
 
-> t!roll d15
+t!roll d15
+
 > As he realizes that Iris had fallen asleep, Emmett starts to shower uncomfortably.
 
 **Platinum_Pathos** _(23-Sep-18 05:45 PM)_
@@ -3765,7 +3769,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 05:45 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:45 PM)_
 
@@ -3779,7 +3783,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 05:46 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:46 PM)_
 
@@ -3807,7 +3811,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(23-Sep-18 05:48 PM)_
 
-> t!8ball Does Danny throw the pistol at the pirate he is currently fighting?
+t!8ball Does Danny throw the pistol at the pirate he is currently fighting?
 
 **Tatsumaki** _(23-Sep-18 05:48 PM)_
 
@@ -3826,7 +3830,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:49 PM)_
 
-> t!8ball Does Seth pee in the pirate's mouth?
+t!8ball Does Seth pee in the pirate's mouth?
 
 **Tatsumaki** _(23-Sep-18 05:49 PM)_
 
@@ -3836,7 +3840,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:50 PM)_
 
-> t!8ball Does Seth pee in the pirate's mouth and then poop on his shoe?
+t!8ball Does Seth pee in the pirate's mouth and then poop on his shoe?
 
 **Tatsumaki** _(23-Sep-18 05:50 PM)_
 
@@ -3846,7 +3850,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:50 PM)_
 
-> t!roll 10
+t!roll 10
 
 **Tatsumaki** _(23-Sep-18 05:50 PM)_
 
@@ -3862,7 +3866,7 @@ t!roll 5d10+3
 
 **Bagelwrecker** _(23-Sep-18 05:50 PM)_
 
-> t!roll d12
+t!roll d12
 
 **Tatsumaki** _(23-Sep-18 05:50 PM)_
 
@@ -3876,7 +3880,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:51 PM)_
 
-> t!8ball Does this pirate accidentally attack Bill's?
+t!8ball Does this pirate accidentally attack Bill's?
 
 **Tatsumaki** _(23-Sep-18 05:51 PM)_
 
@@ -3886,8 +3890,8 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:51 PM)_
 
-> t!8ball Does this pirate accidentally attack Bill's?
-> t!8ball Does this pirate accidentally attack Bill's?
+t!8ball Does this pirate accidentally attack Bill's?
+t!8ball Does this pirate accidentally attack Bill's?
 
 **Tatsumaki** _(23-Sep-18 05:51 PM)_
 
@@ -3897,7 +3901,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:51 PM)_
 
-> t!d9
+t!d9
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
@@ -3911,7 +3915,7 @@ and less than
 
 **Zander** _(23-Sep-18 05:52 PM)_
 
-> t!roll d30-1
+t!roll d30-1
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
@@ -3925,7 +3929,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 05:52 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
@@ -3939,7 +3943,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 05:52 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
@@ -3957,7 +3961,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(23-Sep-18 05:52 PM)_
 
-> t!8ball Does Danny throw away the pistol?
+t!8ball Does Danny throw away the pistol?
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
@@ -3967,7 +3971,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:53 PM)_
 
-> t!8ball does Seth pick up his gun and misfire it hitting Sanya?
+t!8ball does Seth pick up his gun and misfire it hitting Sanya?
 
 **Tatsumaki** _(23-Sep-18 05:53 PM)_
 
@@ -3977,7 +3981,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 05:53 PM)_
 
-> t!roll d15
+t!roll d15
 
 **Tatsumaki** _(23-Sep-18 05:53 PM)_
 
@@ -4015,7 +4019,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:54 PM)_
 
-> t!8ball Does my pirate slip upon his own blade?
+t!8ball Does my pirate slip upon his own blade?
 
 **Tatsumaki** _(23-Sep-18 05:54 PM)_
 
@@ -4029,7 +4033,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 05:54 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:54 PM)_
 
@@ -4043,7 +4047,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 05:54 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:54 PM)_
 
@@ -4065,7 +4069,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 05:55 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:55 PM)_
 
@@ -4079,7 +4083,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(23-Sep-18 05:55 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:55 PM)_
 
@@ -4133,7 +4137,7 @@ die`
 
 **Bagelwrecker** _(23-Sep-18 05:58 PM)_
 
-> t!roll d15
+t!roll d15
 
 **Tatsumaki** _(23-Sep-18 05:58 PM)_
 
@@ -4160,7 +4164,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(23-Sep-18 06:00 PM)_
 
-> t!roll D1
+t!roll D1
 
 **Tatsumaki** _(23-Sep-18 06:00 PM)_
 
@@ -4212,7 +4216,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 06:02 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 06:02 PM)_
 
@@ -4234,7 +4238,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 06:03 PM)_
 
-> ...g’mornin’...
+> ...g'mornin'...
 > Iris groans, brain not yet properly functioning.
 
 **Zander** _(23-Sep-18 06:04 PM)_
@@ -4254,7 +4258,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 06:05 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(23-Sep-18 06:05 PM)_
 
@@ -4282,7 +4286,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 06:06 PM)_
 
-> t!8ball Does Zander's pirate run away out of fear?
+t!8ball Does Zander's pirate run away out of fear?
 
 **Tatsumaki** _(23-Sep-18 06:06 PM)_
 
@@ -4292,7 +4296,7 @@ In the end, the result was:
 
 **Zander** _(23-Sep-18 06:07 PM)_
 
-> t!8ball Does Zander's pirate run away out of fear?
+t!8ball Does Zander's pirate run away out of fear?
 
 **Tatsumaki** _(23-Sep-18 06:07 PM)_
 
@@ -4302,9 +4306,9 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 06:07 PM)_
 
-> I-I’m sorry!
+> I-I'm sorry!
 > She stammers.
-> I didn’t know you were showering!
+> I didn't know you were showering!
 > her face becomes redder.
 
 **Zander** _(23-Sep-18 06:07 PM)_
@@ -4317,7 +4321,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 06:08 PM)_
 
-> t!8ball does hector wake up?
+t!8ball does hector wake up?
 
 **Tatsumaki** _(23-Sep-18 06:08 PM)_
 
@@ -4327,7 +4331,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(23-Sep-18 06:08 PM)_
 
-> t!8ball does hector wake up?
+t!8ball does hector wake up?
 
 **Tatsumaki** _(23-Sep-18 06:08 PM)_
 
@@ -4337,7 +4341,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 06:08 PM)_
 
-> t!8ball Does Sanya collapse?
+t!8ball Does Sanya collapse?
 
 **Tatsumaki** _(23-Sep-18 06:08 PM)_
 
@@ -4347,7 +4351,7 @@ In the end, the result was:
 
 **Brakia** _(23-Sep-18 06:08 PM)_
 
-> t!8ball Does Sanya collapse?
+t!8ball Does Sanya collapse?
 
 **Tatsumaki** _(23-Sep-18 06:08 PM)_
 
@@ -4362,7 +4366,7 @@ In the end, the result was:
 **Jelsafan0** _(23-Sep-18 06:08 PM)_
 
 > Iris attempts to chill.
-> I’m chilling!
+> I'm chilling!
 
 **Platinum_Pathos** _(23-Sep-18 06:08 PM)_
 
@@ -4414,7 +4418,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 06:10 PM)_
 
-> Iris’ hands remain tightly clamped over her eyes.
+> Iris' hands remain tightly clamped over her eyes.
 
 **WatchfulDrake** _(23-Sep-18 06:10 PM)_
 
@@ -4477,7 +4481,7 @@ In the end, the result was:
 
 **Deyner** _(23-Sep-18 06:14 PM)_
 
-> I’m fine just oxygen deprivation got to me I guess by I’m Deyner and you are?
+> I'm fine just oxygen deprivation got to me I guess by I'm Deyner and you are?
 
 **Brakia** _(23-Sep-18 06:14 PM)_
 
@@ -4512,7 +4516,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 06:16 PM)_
 
-> how’s uh....
+> how's uh....
 
 **WatchfulDrake** _(23-Sep-18 06:16 PM)_
 
@@ -4552,7 +4556,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 06:17 PM)_
 
-> I think I’m gonna just... go... to my room... take a nap.
+> I think I'm gonna just... go... to my room... take a nap.
 
 **Deyner** _(23-Sep-18 06:17 PM)_
 

@@ -26,7 +26,7 @@ t!8ball Does Seth walk off to go look around?
 
 **Enchantingtable2013** _(21-Jun-18 06:28 PM)_
 
-> t!8ball Do I look in the fridge?
+t!8ball Do I look in the fridge?
 
 **Tatsumaki** _(21-Jun-18 06:28 PM)_
 

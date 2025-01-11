@@ -228,35 +228,6 @@ def convert_to_json(blocks, json_file):
         json.dump(blocks, f, indent=4, ensure_ascii=False)
 
 
-def convert_to_filename(string):
-    # Replace hyphens with spaces
-    string = string.replace("-", " ")
-    # Strip extension
-    string = string.split(".")[0]
-    # Remove non-alphabet characters except whitespace
-    string = re.sub(r"[^a-zA-Z\s]", "", string)
-    # Convert to lowercase
-    string = string.lower()
-    # Convert to kebab case
-    string = "-".join(string.split())
-    return string
-
-
-def find_file(file_name):
-    # Define the directory where files are located
-    directory = "./md/ff2/"
-
-    # List possible file name formats
-    possible_files = [f"{directory}{file_name}.md", f"{directory}*-{file_name}.md"]
-
-    for pattern in possible_files:
-        matching_files = glob.glob(pattern)
-        if matching_files:
-            return matching_files[0]
-
-    return None
-
-
 def extract_episode_number_from_filename(filename):
     match = re.match(r"(\d{2})-.*", filename)
     if match:
@@ -286,38 +257,60 @@ def get_episode_number(md_file, provided_episode_number=None):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 1:
+        print("Usage: python md-to-json.py <season_name>")
+        sys.exit(1)
+
+    # If the season name is not provided, or is not a valid season name, print an error message and exit
+    if sys.argv[1] not in ["ff2", "ff3", "ff4"]:
         print(
-            "Usage: python md-to-json.py <file_name> <description> [title] [episode_number]"
+            "Invalid season name. Please provide a valid season name (ff2, ff3, ff4)."
         )
         sys.exit(1)
-    filename = convert_to_filename(sys.argv[1])
-    md_file = find_file(filename)
 
-    if not md_file:
-        print(f"Error: File {filename}.md or *-{filename}.md not found.")
+    json_file = f"./json/{sys.argv[1]}.json"
+
+    # If the json file does not exist, print an error message and exit
+    if not os.path.exists(json_file):
+        print(f"JSON file {json_file} does not exist.")
         sys.exit(1)
 
-    if len(sys.argv) > 3:
-        title = sys.argv[3]
-    else:
-        title = sys.argv[1]
+    with open(json_file, "r", encoding="utf-8") as f:
+        metadata = json.load(f)
 
-    if len(sys.argv) > 4:
-        episode_number = sys.argv[4]
-    else:
-        episode_number = get_episode_number(md_file)
+    md_files = sorted(glob.glob(f"./md/{sys.argv[1]}/*.md"), key=natural_sort_key)
 
-    short_desc = sys.argv[2]
+    # If the md files do not exist, print an error message and exit
+    if not md_files:
+        print(f"No markdown files found in ./md/{sys.argv[1]}/.")
+        sys.exit(1)
 
-    json_file = (
-        "../src/assets/json/archives/ff2/"
-        + str(episode_number)
-        + "-"
-        + filename
-        + ".json"
-    )
+    for md_file in md_files:
+        filename = md_file.split("/")[-1].split(".")[0]
+        filename = re.sub(r"\d+-", "", filename)
 
-    processed_file = process_file(md_file, title, episode_number, short_desc)
+        try:
+            episode_data = next(
+            episode for episode in metadata if episode["file_name"] == filename
+            )
+        except StopIteration:
+            print(f"No metadata found for {filename}. Skipping. (Add an episode to the json file in ./json/{sys.argv[1]}.json if you want to process this file.)")
+            continue
 
-    convert_to_json(processed_file, json_file)
+        json_file = (
+            f"../src/assets/json/archives/{sys.argv[1]}/"
+            + str(episode_data["episode_number"])
+            + "-"
+            + filename
+            + ".json"
+        )
+
+        processed_file = process_file(
+            md_file,
+            episode_data["title"],
+            episode_data["episode_number"],
+            episode_data["short_desc"],
+        )
+
+        convert_to_json(processed_file, json_file)
+        print(f"Processed {md_file} to {json_file}")

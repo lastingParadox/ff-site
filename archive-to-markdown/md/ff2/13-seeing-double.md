@@ -594,7 +594,7 @@ _Seth wiggles his eyebrows inappropriately._
 
 **Jelsafan0** _(19-Aug-18 02:39 PM)_
 
-> I-I’m sorry, what?!
+> I-I'm sorry, what?!
 
 _Like a cartoon, Iris's hair flares out in all directions in surprise._
 
@@ -658,7 +658,7 @@ _Asier scoffs, speaking in his Spectre tongue once more at this revelation._
 
 **RPretribution** _(19-Aug-18 02:42 PM)_
 
-> Hey, you’re someone I haven’t seen before.
+> Hey, you're someone I haven't seen before.
 
 _Garrick looks for his foam finger but isn't able to find it._
 
@@ -756,7 +756,7 @@ _Emmett could move his legs a little, but he is still woozy from drinking earlie
 
 _Garrick rolls his eyes, just realizing what Seth meant._
 
-> Yeah, I’m sure you did, Seth.
+> Yeah, I'm sure you did, Seth.
 
 **Brakia** _(19-Aug-18 02:45 PM)_
 
@@ -804,11 +804,11 @@ _Sanya sits in the pilot's seat._
 
 **Jelsafan0** _(19-Aug-18 02:46 PM)_
 
-> Ah, that’s not so-
+> Ah, that's not so-
 
 _Iris backs away fromm Seth in terror._
 
-> Wait, I’m sorry, we did WHAT EXACTLY?!
+> Wait, I'm sorry, we did WHAT EXACTLY?!
 
 **Zander** _(19-Aug-18 02:46 PM)_
 
@@ -830,8 +830,8 @@ t!8ball Does Emmett whisper his password to Sanya?
 
 **RPretribution** _(19-Aug-18 02:46 PM)_
 
-> You have rapid mood swings when you’re drunk.
-> Just thought I’d let you know.
+> You have rapid mood swings when you're drunk.
+> Just thought I'd let you know.
 
 **Jelsafan0** _(19-Aug-18 02:47 PM)_
 
@@ -867,7 +867,7 @@ _Sanya raises her brow in confusion._
 
 _Garrick frowns at Iris's conclusion._
 
-> I don’t...
+> I don't...
 
 **Bagelwrecker** _(19-Aug-18 02:47 PM)_
 
@@ -942,7 +942,7 @@ _Iris giggles at Asier's response._
 
 **RPretribution** _(19-Aug-18 02:50 PM)_
 
-> I’m Casper.
+> I'm Casper.
 
 _Garrick gives a wide, fake smile._
 
@@ -952,7 +952,7 @@ _Garrick gives a wide, fake smile._
 
 **RPretribution** _(19-Aug-18 02:50 PM)_
 
-> Haha, bet you’d never think of that.
+> Haha, bet you'd never think of that.
 
 **PlasmaPerson** _(19-Aug-18 02:50 PM)_
 
@@ -972,7 +972,7 @@ _Seth gives a suggestive, prideful pose._
 
 **RPretribution** _(19-Aug-18 02:51 PM)_
 
-> I’m Garrick.
+> I'm Garrick.
 
 _Garrick finds his foam finger and points it to Asier's dumb smile._
 
@@ -1158,11 +1158,11 @@ _Emmett takes a large whiff of Sanya's flower and chuckles at her demeanor._
 
 **RPretribution** _(19-Aug-18 02:57 PM)_
 
-> Yeah, well I bet you can’t fit an entire machine gun in your pockets.
+> Yeah, well I bet you can't fit an entire machine gun in your pockets.
 
 _Garrick takes out a balloon submachine gun from his pockets._
 
-> That’s unrelated to the ghost thing.
+> That's unrelated to the ghost thing.
 
 **PlasmaPerson** _(19-Aug-18 02:57 PM)_
 
@@ -1210,7 +1210,7 @@ _Sanya reveals her claws._
 
 **RPretribution** _(19-Aug-18 02:58 PM)_
 
-> I DON’T KNOW HOW IT WORKS, ALRIGHT??
+> I DON'T KNOW HOW IT WORKS, ALRIGHT??
 
 _Garrick drops the balloon gun._
 
@@ -1352,7 +1352,7 @@ t!8ball Does Emmett get off of Sanya now but also the ship lands?
 
 **Jelsafan0** _(19-Aug-18 03:05 PM)_
 
-t!8ball Does Iris take Emmett off of Sanya’s back?
+t!8ball Does Iris take Emmett off of Sanya's back?
 
 **Tatsumaki** _(19-Aug-18 03:05 PM)_
 
@@ -1379,7 +1379,7 @@ _Emmett tries to move, but is unable to. He spits on the floor, definitely feeli
 
 **RPretribution** _(19-Aug-18 03:06 PM)_
 
-> But now he’s just stuck there.
+> But now he's just stuck there.
 > Can you roll around?
 
 _Garrick circles his finger as if Emmett was a dog._
@@ -1484,7 +1484,7 @@ _Seth pats Emmett on the head to his chagrin and leaves to exit the ship._
 
 **RPretribution** _(19-Aug-18 03:09 PM)_
 
-> Fine, let’s go.
+> Fine, let's go.
 
 **Jelsafan0** _(19-Aug-18 03:09 PM)_
 
@@ -1504,7 +1504,7 @@ _Asier opens up the ship hatch._
 
 _Garrick glares at Emmett._
 
-> Hey, what’s wrong with being four feet tall?
+> Hey, what's wrong with being four feet tall?
 
 **Bagelwrecker** _(19-Aug-18 03:09 PM)_
 
@@ -1684,7 +1684,7 @@ _Emmett looks around, hoping the Mickey Mouse Ghost isn't around to hear this._
 
 **RPretribution** _(19-Aug-18 03:18 PM)_
 
-> Don’t set anything on fire, you might kill Sanya.
+> Don't set anything on fire, you might kill Sanya.
 
 _Garrick giggles to himself._
 
@@ -1878,7 +1878,7 @@ t!8ball Does Sanya run at the attackers and use her real good stabs?
 
 **RPretribution** _(19-Aug-18 03:23 PM)_
 
-> I’ll see if I...
+> I'll see if I...
 
 _Garrick digs in his pockets for something to help._
 
@@ -2175,13 +2175,13 @@ _KYL300 shoots his charged blaster at Seth in revenge, however it hits Seth in t
 
 **Jelsafan0** _(19-Aug-18 03:32 PM)_
 
-> That’s a lot of damage!
+> That's a lot of damage!
 
 _Iris claps for Seth._
 
 **RPretribution** _(19-Aug-18 03:32 PM)_
 
-> That’s gonna be hard to seal!
+> That's gonna be hard to seal!
 
 **Bagelwrecker** _(19-Aug-18 03:32 PM)_
 
@@ -2263,7 +2263,7 @@ _The KYL unit, enraged, manages to hit Seth again in the face, wounding him with
 
 **Jelsafan0** _(19-Aug-18 03:33 PM)_
 
-> I can’t help but wonder if this is truly an enemy to fear with how thoroughly he is getting whipped...
+> I can't help but wonder if this is truly an enemy to fear with how thoroughly he is getting whipped...
 
 _Iris jumps from the last bit of damage done._
 
@@ -2291,7 +2291,7 @@ t!8ball Does Iris fall?
 
 **Jelsafan0** _(19-Aug-18 03:36 PM)_
 
-t!8ball Does Iris step up to battle Chomsky so that he doesn’t interfere?
+t!8ball Does Iris step up to battle Chomsky so that he doesn't interfere?
 
 **Tatsumaki** _(19-Aug-18 03:36 PM)_
 
@@ -2505,7 +2505,7 @@ _Seth is panicking, growing impatient at Emmett's cautiousness._
 
 **RPretribution** _(19-Aug-18 03:39 PM)_
 
-> I’m just gonna step back for a minute.
+> I'm just gonna step back for a minute.
 
 _Garrick, bored, decides to sit back and enjoy the show._
 
@@ -2517,7 +2517,7 @@ _`Chomsky`: Chomsky pumps his weapon in malicious fury._
 
 **Jelsafan0** _(19-Aug-18 03:39 PM)_
 
-> Darn! I can’t manage to get a good hit in!
+> Darn! I can't manage to get a good hit in!
 
 **ProfessorTree** _(19-Aug-18 03:40 PM)_
 
@@ -2755,7 +2755,7 @@ t!roll d10
 
 _Iris gets distracted by Seth's state and expresses her concern._
 
-> Please don’t die!
+> Please don't die!
 
 **PlasmaPerson** _(19-Aug-18 03:52 PM)_
 
@@ -2875,7 +2875,7 @@ _Garrick's face opens and closes similarly to Pac-Man._
 
 **Jelsafan0** _(19-Aug-18 03:56 PM)_
 
-> I don’t think he has time to help you when he’s so busy dealing with me!
+> I don't think he has time to help you when he's so busy dealing with me!
 
 _Iris tries to land another hit on Chomsky, who manages to dodge her attack._
 
@@ -3234,7 +3234,7 @@ _Seth grabs onto the fake Seth and headbutts him, causing the KYL unit to stagge
 
 **Jelsafan0** _(19-Aug-18 04:09 PM)_
 
-> HAH! Who’s weak now?!
+> HAH! Who's weak now?!
 
 _Iris takes out a finger and mocks Chomsky._
 
@@ -3262,7 +3262,7 @@ _`Chomsky`: Chomsky folds his arms angrily._
 
 **Jelsafan0** _(19-Aug-18 04:11 PM)_
 
-> Your face isn’t a compliment!
+> Your face isn't a compliment!
 
 _Iris sticks out her tongue at Chomsky._
 
@@ -3298,7 +3298,7 @@ _KYL300, noticing Seth walk away, follows him, still disguised._
 
 **Jelsafan0** _(19-Aug-18 04:11 PM)_
 
-> I don’t know, I couldn’t think of a clever insult.
+> I don't know, I couldn't think of a clever insult.
 
 _Iris shrugs._
 
@@ -3318,7 +3318,7 @@ _Sanya hops up and down and holds out three fingers._
 
 _Iris, overhearing Seth, quivers in disgust._
 
-> Please don’t do that.
+> Please don't do that.
 
 **RPretribution** _(19-Aug-18 04:12 PM)_
 
@@ -3369,7 +3369,7 @@ _Emmett sighs._
 
 **Jelsafan0** _(19-Aug-18 04:13 PM)_
 
-> I’m not stopping my fight for you!
+> I'm not stopping my fight for you!
 
 **Bagelwrecker** _(19-Aug-18 04:13 PM)_
 
@@ -3523,7 +3523,7 @@ _Iris furrows her brow angrily._
 
 **Jelsafan0** _(19-Aug-18 04:17 PM)_
 
-> I didn’t even know that!
+> I didn't even know that!
 
 **ProfessorTree** _(19-Aug-18 04:17 PM)_
 
@@ -3555,7 +3555,7 @@ t!choose the real seth | the fake seth
 
 **Jelsafan0** _(19-Aug-18 04:18 PM)_
 
-> I just realized that asking you to tell me what happened last night does not prove anything, because I don’t remember anything.
+> I just realized that asking you to tell me what happened last night does not prove anything, because I don't remember anything.
 
 **Brakia** _(19-Aug-18 04:18 PM)_
 
@@ -3710,7 +3710,7 @@ _Emmett looks into the ADE's wanted list, managing to hack in. He takes off the 
 
 _Iris shakes her head and points her fists to Chomsky._
 
-> Wait, weren’t we supposed to be fighting?
+> Wait, weren't we supposed to be fighting?
 
 **ProfessorTree** _(19-Aug-18 04:22 PM)_
 
@@ -3916,7 +3916,7 @@ _Emmett peers over Sanya, assuming she liked something meat-based._
 
 **Jelsafan0** _(19-Aug-18 04:27 PM)_
 
-> I suppose you’re right. I’m fairly new to this group, so I’m still unsure how to act... ever.
+> I suppose you're right. I'm fairly new to this group, so I'm still unsure how to act... ever.
 
 _Iris gives a nervous smile._
 
@@ -3944,7 +3944,7 @@ _Seth waves his arm back out the door and opens the restroom door for the KYL un
 
 **Jelsafan0** _(19-Aug-18 04:28 PM)_
 
-> But Seth isn’t new...?
+> But Seth isn't new...?
 
 **Bagelwrecker** _(19-Aug-18 04:28 PM)_
 
@@ -4046,7 +4046,7 @@ _`Chomsky`: Iris and Chomsky had been holding hands for a while, but Iris hadn't
 
 **Jelsafan0** _(19-Aug-18 04:30 PM)_
 
-> I’m unsure if that’s wise.
+> I'm unsure if that's wise.
 
 **Zander** _(19-Aug-18 04:30 PM)_
 
@@ -4215,7 +4215,7 @@ _Sanya scowls at the KYL unit._
 
 **Jelsafan0** _(19-Aug-18 04:35 PM)_
 
-> Hello! We’ve returned, and it appears that I’ve recruited Chomsky.
+> Hello! We've returned, and it appears that I've recruited Chomsky.
 
 _Iris pats Chomsky's back._
 
@@ -4329,7 +4329,7 @@ _Garrick groans at Chomsky's selection, not wanting to share a room with him._
 
 **Jelsafan0** _(19-Aug-18 04:38 PM)_
 
-> As I understand it, I did, in fact, sleep on Seth’s bed last night, and do not have one of my own...
+> As I understand it, I did, in fact, sleep on Seth's bed last night, and do not have one of my own...
 
 **Zander** _(19-Aug-18 04:39 PM)_
 
@@ -4571,7 +4571,7 @@ _Seth laughs._
 
 **Jelsafan0** _(19-Aug-18 04:50 PM)_
 
-> As I’ve said, whatever is most convenient to the group.
+> As I've said, whatever is most convenient to the group.
 
 _Iris shrugs._
 
@@ -4593,7 +4593,7 @@ _Chomsky groans and points to Garrick._
 
 **Jelsafan0** _(19-Aug-18 04:51 PM)_
 
-> My opinion is that I don’t know any of you well enough to make that judgement.
+> My opinion is that I don't know any of you well enough to make that judgement.
 
 **ProfessorTree** _(19-Aug-18 04:52 PM)_
 
@@ -4831,7 +4831,7 @@ _Emmett smirks._
 
 **Jelsafan0** _(19-Aug-18 05:05 PM)_
 
-> He says he’s sorry for his translator being broken.
+> He says he's sorry for his translator being broken.
 
 **Zander** _(19-Aug-18 05:05 PM)_
 
@@ -4959,7 +4959,7 @@ t!8ball Does Iris decide to drag the two babbling weirdos into the ship before t
 
 _Iris drags Seth by his collar back to the ship. She waves an arm towards the ship, partially irritated._
 
-> Come on. Let’s go.
+> Come on. Let's go.
 
 **ProfessorTree** _(19-Aug-18 05:12 PM)_
 
@@ -4983,7 +4983,7 @@ _Emmett grabs the food and packs up the grill, meeting the others on the ship._
 
 **Jelsafan0** _(19-Aug-18 05:12 PM)_
 
-> Let’s get back in the ship already...!
+> Let's get back in the ship already...!
 
 _Iris is having trouble dragging Seth onto the ship._
 

@@ -4,11 +4,11 @@
 
 **Deyner** _(30-Sep-18 02:13 PM)_
 
-> Won’t be able to tap but can listen
+> Won't be able to tap but can listen
 
 **Zander** _(30-Sep-18 02:14 PM)_
 
-> t!8ball Does Emmett wake up from the pilot's seat?
+t!8ball Does Emmett wake up from the pilot's seat?
 
 **Tatsumaki** _(30-Sep-18 02:14 PM)_
 
@@ -18,8 +18,8 @@
 
 **Zander** _(30-Sep-18 02:14 PM)_
 
-> t!8ball Does Emmett wake up from the pilot's seat?
-> t!8ball Does Emmett wake up from the pilot's seat?
+t!8ball Does Emmett wake up from the pilot's seat?
+t!8ball Does Emmett wake up from the pilot's seat?
 
 **Tatsumaki** _(30-Sep-18 02:14 PM)_
 
@@ -33,7 +33,7 @@
 
 **Brakia** _(30-Sep-18 02:15 PM)_
 
-> t!8ball Does Sanya finally get her outfit right?
+t!8ball Does Sanya finally get her outfit right?
 
 **Tatsumaki** _(30-Sep-18 02:15 PM)_
 
@@ -47,7 +47,7 @@
 
 **Enchantingtable2013** _(30-Sep-18 02:16 PM)_
 
-> t!8ball Do I go to the fridge, only finding all the bread is gone?
+t!8ball Do I go to the fridge, only finding all the bread is gone?
 
 **Tatsumaki** _(30-Sep-18 02:16 PM)_
 
@@ -65,7 +65,7 @@
 
 **Deyner** _(30-Sep-18 02:16 PM)_
 
-> t!8ball Does Deyner finish fixing Chompsky’s flamethrower?
+t!8ball Does Deyner finish fixing Chompsky's flamethrower?
 
 **Tatsumaki** _(30-Sep-18 02:16 PM)_
 
@@ -83,7 +83,7 @@
 
 **Deyner** _(30-Sep-18 02:17 PM)_
 
-> t!8ball Does Deyner finish fixing Chompsky’s flamethrower?
+t!8ball Does Deyner finish fixing Chompsky's flamethrower?
 
 **Tatsumaki** _(30-Sep-18 02:17 PM)_
 
@@ -93,7 +93,7 @@
 
 **Bagelwrecker** _(30-Sep-18 02:17 PM)_
 
-> t!8ball Does Seth airlock a female shapeshifter that Emmett did the bang bang boom boom with?
+t!8ball Does Seth airlock a female shapeshifter that Emmett did the bang bang boom boom with?
 
 **Tatsumaki** _(30-Sep-18 02:17 PM)_
 
@@ -115,7 +115,7 @@
 
 **Bagelwrecker** _(30-Sep-18 02:18 PM)_
 
-> t!8ball Did Seth airlock the fridge?
+t!8ball Did Seth airlock the fridge?
 
 **RPretribution** _(30-Sep-18 02:18 PM)_
 
@@ -141,7 +141,7 @@
 
 **ProfessorTree** _(30-Sep-18 02:18 PM)_
 
-> t!8ball is KYL300 discharged?
+t!8ball is KYL300 discharged?
 
 **Tatsumaki** _(30-Sep-18 02:18 PM)_
 
@@ -190,7 +190,7 @@
 
 **TheBlade** _(30-Sep-18 02:20 PM)_
 
-> t!8ball Does Jim find the recourses needed for a camera system?
+t!8ball Does Jim find the recourses needed for a camera system?
 
 **Tatsumaki** _(30-Sep-18 02:20 PM)_
 
@@ -206,7 +206,7 @@
 **Jelsafan0** _(30-Sep-18 02:21 PM)_
 
 > she sighs, closing her eyes.
-> I think that’s enough for today.
+> I think that's enough for today.
 
 **TheBlade** _(30-Sep-18 02:21 PM)_
 
@@ -218,7 +218,7 @@
 
 **RPretribution** _(30-Sep-18 02:21 PM)_
 
-> t!8ball does garrick come out through the door to regroup with everyone
+t!8ball does garrick come out through the door to regroup with everyone
 
 **Tatsumaki** _(30-Sep-18 02:21 PM)_
 
@@ -228,7 +228,7 @@
 
 **RPretribution** _(30-Sep-18 02:21 PM)_
 
-> t!8ball does garrick come out through the door to regroup with everyone
+t!8ball does garrick come out through the door to regroup with everyone
 
 **Tatsumaki** _(30-Sep-18 02:21 PM)_
 
@@ -254,7 +254,7 @@
 
 **Zander** _(30-Sep-18 02:23 PM)_
 
-> t!8ball Does Emmett wake up and quietly yawn in his position?
+t!8ball Does Emmett wake up and quietly yawn in his position?
 
 **Tatsumaki** _(30-Sep-18 02:23 PM)_
 
@@ -338,7 +338,7 @@
 
 **Brakia** _(30-Sep-18 02:28 PM)_
 
-> t!choose kitchen | cockpit | pool | lounge
+t!choose kitchen | cockpit | pool | lounge
 
 **Tatsumaki** _(30-Sep-18 02:28 PM)_
 
@@ -358,7 +358,7 @@
 
 **PlasmaPerson** _(30-Sep-18 02:29 PM)_
 
-> t!8ball does Chomsky abandon garrick and meet Sanya at the pool
+t!8ball does Chomsky abandon garrick and meet Sanya at the pool
 
 **Tatsumaki** _(30-Sep-18 02:29 PM)_
 
@@ -372,7 +372,7 @@
 
 **Deyner** _(30-Sep-18 02:29 PM)_
 
-> I don’t eat breakfast or lunch Emmett
+> I don't eat breakfast or lunch Emmett
 
 **PlasmaPerson** _(30-Sep-18 02:29 PM)_
 
@@ -422,7 +422,7 @@
 **Deyner** _(30-Sep-18 02:31 PM)_
 
 > no
-> holds Chomsky’s flamethrower
+> holds Chomsky's flamethrower
 
 **PlasmaPerson** _(30-Sep-18 02:31 PM)_
 
@@ -457,7 +457,7 @@
 
 **Deyner** _(30-Sep-18 02:32 PM)_
 
-> Chomsky I swear to god come get your mother trucking flamethrower or I’ll give it to Garrick
+> Chomsky I swear to god come get your mother trucking flamethrower or I'll give it to Garrick
 
 **PlasmaPerson** _(30-Sep-18 02:32 PM)_
 
@@ -502,7 +502,7 @@
 
 **Deyner** _(30-Sep-18 02:33 PM)_
 
-> He’s gonna steal it
+> He's gonna steal it
 
 **RPretribution** _(30-Sep-18 02:33 PM)_
 
@@ -518,7 +518,7 @@
 
 **Jelsafan0** _(30-Sep-18 02:34 PM)_
 
-> t!8ball does Iris shove Seth out of her room?
+t!8ball does Iris shove Seth out of her room?
 
 **Tatsumaki** _(30-Sep-18 02:34 PM)_
 
@@ -557,7 +557,7 @@
 
 **Enchantingtable2013** _(30-Sep-18 02:34 PM)_
 
-> t!8ball Do I check on the conflict I hear?
+t!8ball Do I check on the conflict I hear?
 
 **Tatsumaki** _(30-Sep-18 02:34 PM)_
 
@@ -752,7 +752,7 @@
 **Deyner** _(30-Sep-18 02:40 PM)_
 
 > opens up the map and points to a planet
-> This is Jegon-8 it’s a food abundant place that’s ran by a warlord we can take it if you want
+> This is Jegon-8 it's a food abundant place that's ran by a warlord we can take it if you want
 > goes back to his room and works on the new weapon
 
 **RPretribution** _(30-Sep-18 02:40 PM)_
@@ -762,7 +762,7 @@
 
 **Deyner** _(30-Sep-18 02:41 PM)_
 
-> t!8ball Does Deyner successfully make the weapon?
+t!8ball Does Deyner successfully make the weapon?
 
 **Tatsumaki** _(30-Sep-18 02:41 PM)_
 
@@ -788,7 +788,7 @@
 
 **Deyner** _(30-Sep-18 02:41 PM)_
 
-> t!8ball Does Deyner successfully make the weapon?
+t!8ball Does Deyner successfully make the weapon?
 
 **Tatsumaki** _(30-Sep-18 02:41 PM)_
 
@@ -844,7 +844,7 @@
 
 **Bagelwrecker** _(30-Sep-18 02:43 PM)_
 
-> t!8ball does Seth chill on his bed, looking through magazines?
+t!8ball does Seth chill on his bed, looking through magazines?
 
 **Jelsafan0** _(30-Sep-18 02:43 PM)_
 
@@ -866,7 +866,7 @@
 
 **TheBlade** _(30-Sep-18 02:45 PM)_
 
-> t!8ball Does Emmett see something on the Navigation panel?
+t!8ball Does Emmett see something on the Navigation panel?
 
 **Tatsumaki** _(30-Sep-18 02:45 PM)_
 
@@ -884,7 +884,7 @@
 
 **Deyner** _(30-Sep-18 02:45 PM)_
 
-> Why not? This could feed us for a while and it’s run by a corrupt warlord?
+> Why not? This could feed us for a while and it's run by a corrupt warlord?
 
 **Bagelwrecker** _(30-Sep-18 02:45 PM)_
 
@@ -901,7 +901,7 @@
 
 **RPretribution** _(30-Sep-18 02:46 PM)_
 
-> t!8ball does garrick find a marshmallow
+t!8ball does garrick find a marshmallow
 
 **Tatsumaki** _(30-Sep-18 02:46 PM)_
 
@@ -911,7 +911,7 @@
 
 **Zander** _(30-Sep-18 02:46 PM)_
 
-> t!8ball Rather than seeing something on the panel, does Emmett see a intergalactal toll station?
+t!8ball Rather than seeing something on the panel, does Emmett see a intergalactal toll station?
 
 **Tatsumaki** _(30-Sep-18 02:46 PM)_
 
@@ -921,7 +921,7 @@
 
 **Zander** _(30-Sep-18 02:46 PM)_
 
-> t!8ball Rather than seeing something on the panel, does Emmett see a intergalactal toll station?
+t!8ball Rather than seeing something on the panel, does Emmett see a intergalactal toll station?
 
 **Tatsumaki** _(30-Sep-18 02:46 PM)_
 
@@ -967,7 +967,7 @@
 
 **Brakia** _(30-Sep-18 02:47 PM)_
 
-> t!8ball Does Garrick give the marshmallow to Sanya?
+t!8ball Does Garrick give the marshmallow to Sanya?
 
 **Tatsumaki** _(30-Sep-18 02:47 PM)_
 
@@ -1165,7 +1165,7 @@
 
 **Deyner** _(30-Sep-18 02:52 PM)_
 
-> t!8ball Does Deyner successfullyy make a weapon?
+t!8ball Does Deyner successfullyy make a weapon?
 
 **Tatsumaki** _(30-Sep-18 02:52 PM)_
 
@@ -1255,7 +1255,7 @@
 
 **PlasmaPerson** _(30-Sep-18 02:53 PM)_
 
-> t!8ball does Deyner let Chomsky be the chemist like he is
+t!8ball does Deyner let Chomsky be the chemist like he is
 
 **Tatsumaki** _(30-Sep-18 02:53 PM)_
 
@@ -1317,7 +1317,7 @@
 
 **Deyner** _(30-Sep-18 02:54 PM)_
 
-> Lili I’m in the pool area I think?
+> Lili I'm in the pool area I think?
 
 **PlasmaPerson** _(30-Sep-18 02:54 PM)_
 
@@ -1325,7 +1325,7 @@
 
 **Jelsafan0** _(30-Sep-18 02:54 PM)_
 
-> Iris sighs and just eats the marshmallow because Sanya isn’t answering.
+> Iris sighs and just eats the marshmallow because Sanya isn't answering.
 
 **Bagelwrecker** _(30-Sep-18 02:54 PM)_
 
@@ -1379,7 +1379,7 @@
 
 **Deyner** _(30-Sep-18 02:55 PM)_
 
-> (Who’s turn is it?)
+> (Who's turn is it?)
 
 **Bagelwrecker** _(30-Sep-18 02:55 PM)_
 
@@ -1450,7 +1450,7 @@
 
 **Jelsafan0** _(30-Sep-18 02:57 PM)_
 
-> t!8ball does Iris actually get in the pool?
+t!8ball does Iris actually get in the pool?
 
 **Tatsumaki** _(30-Sep-18 02:57 PM)_
 
@@ -1476,7 +1476,7 @@
 
 **Deyner** _(30-Sep-18 02:57 PM)_
 
-> t!8ball Does Deyner successfully make the weapon?
+t!8ball Does Deyner successfully make the weapon?
 
 **Tatsumaki** _(30-Sep-18 02:57 PM)_
 
@@ -1560,7 +1560,7 @@
 
 **Deyner** _(30-Sep-18 03:00 PM)_
 
-> Here this is to say I’m sorry for the offnense I caused
+> Here this is to say I'm sorry for the offnense I caused
 > hands her he box
 
 **RPretribution** _(30-Sep-18 03:00 PM)_
@@ -1585,7 +1585,7 @@
 
 **Jelsafan0** _(30-Sep-18 03:00 PM)_
 
-> You’ll have to literally tell her to take it and open it
+> You'll have to literally tell her to take it and open it
 
 **PlasmaPerson** _(30-Sep-18 03:00 PM)_
 
@@ -1605,7 +1605,7 @@
 
 **Jelsafan0** _(30-Sep-18 03:01 PM)_
 
-> She doesn’t trust you
+> She doesn't trust you
 
 **PlasmaPerson** _(30-Sep-18 03:01 PM)_
 
@@ -1663,7 +1663,7 @@
 
 **Bagelwrecker** _(30-Sep-18 03:02 PM)_
 
-> t!8ball Does Seth convince the toll keeper to have sex with him in exchange for free passage?
+t!8ball Does Seth convince the toll keeper to have sex with him in exchange for free passage?
 
 **Tatsumaki** _(30-Sep-18 03:02 PM)_
 
@@ -1673,7 +1673,7 @@
 
 **TheBlade** _(30-Sep-18 03:02 PM)_
 
-> t!8ball Does Jim find some change in his wallet?
+t!8ball Does Jim find some change in his wallet?
 
 **Tatsumaki** _(30-Sep-18 03:02 PM)_
 
@@ -1683,7 +1683,7 @@
 
 **TheBlade** _(30-Sep-18 03:03 PM)_
 
-> t!8ball Does Jim find some change in his wallet?
+t!8ball Does Jim find some change in his wallet?
 
 **Tatsumaki** _(30-Sep-18 03:03 PM)_
 
@@ -1707,7 +1707,7 @@
 
 **TheBlade** _(30-Sep-18 03:03 PM)_
 
-> t!rolld50
+t!rolld50
 
 **Bagelwrecker** _(30-Sep-18 03:03 PM)_
 
@@ -1715,7 +1715,7 @@
 
 **TheBlade** _(30-Sep-18 03:03 PM)_
 
-> t!roll d50
+t!roll d50
 
 **Tatsumaki** _(30-Sep-18 03:03 PM)_
 
@@ -1733,7 +1733,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 03:03 PM)_
 
-> Yes and you can light the chain and blade ablaze and it won’t melt
+> Yes and you can light the chain and blade ablaze and it won't melt
 
 **PlasmaPerson** _(30-Sep-18 03:03 PM)_
 
@@ -1766,7 +1766,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 03:04 PM)_
 
-> t!8ball does garrick have 5 stolen ducketts
+t!8ball does garrick have 5 stolen ducketts
 
 **Tatsumaki** _(30-Sep-18 03:04 PM)_
 
@@ -1838,7 +1838,7 @@ In the end, the result was:
 
 **Zander** _(30-Sep-18 03:06 PM)_
 
-> t!8ball Does Emmett start to get pissed off?
+t!8ball Does Emmett start to get pissed off?
 
 **Tatsumaki** _(30-Sep-18 03:06 PM)_
 
@@ -1908,11 +1908,11 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:08 PM)_
 
-> Her hand isn’t hotttt
+> Her hand isn't hotttt
 
 **Deyner** _(30-Sep-18 03:08 PM)_
 
-> Deyner is sensitive to heat because he’s a snow elf
+> Deyner is sensitive to heat because he's a snow elf
 
 **Zander** _(30-Sep-18 03:08 PM)_
 
@@ -1940,7 +1940,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 03:08 PM)_
 
-> That’s why his room is really cold
+> That's why his room is really cold
 
 **RPretribution** _(30-Sep-18 03:08 PM)_
 
@@ -1948,7 +1948,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(30-Sep-18 03:08 PM)_
 
-> t!8ball does Hector wake up?
+t!8ball does Hector wake up?
 
 **Tatsumaki** _(30-Sep-18 03:08 PM)_
 
@@ -1966,7 +1966,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(30-Sep-18 03:09 PM)_
 
-> t!8ball does Hector wake up?
+t!8ball does Hector wake up?
 
 **Tatsumaki** _(30-Sep-18 03:09 PM)_
 
@@ -1985,8 +1985,8 @@ In the end, the result was:
 **Jelsafan0** _(30-Sep-18 03:09 PM)_
 
 > Iris turns.
-> I’m gonna go see what the holdup is. Thanks again.
-> she exits Deyner’s room, heading to the cockpit.
+> I'm gonna go see what the holdup is. Thanks again.
+> she exits Deyner's room, heading to the cockpit.
 
 **WatchfulDrake** _(30-Sep-18 03:09 PM)_
 
@@ -2017,7 +2017,7 @@ In the end, the result was:
 
 **Brakia** _(30-Sep-18 03:11 PM)_
 
-> t!8ball Does Sanya head to the cockpit?
+t!8ball Does Sanya head to the cockpit?
 
 **Tatsumaki** _(30-Sep-18 03:11 PM)_
 
@@ -2035,7 +2035,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 03:11 PM)_
 
-> what’s the problem
+> what's the problem
 > he says as he walks into the room
 
 **TheBlade** _(30-Sep-18 03:11 PM)_
@@ -2048,7 +2048,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:11 PM)_
 
-> I’m sorry, ma’am, but what exactly is the issue?
+> I'm sorry, ma'am, but what exactly is the issue?
 
 **Brakia** _(30-Sep-18 03:11 PM)_
 
@@ -2076,7 +2076,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(30-Sep-18 03:12 PM)_
 
-> t!8ball does Chomsky meet the others in the cockpit
+t!8ball does Chomsky meet the others in the cockpit
 
 **Tatsumaki** _(30-Sep-18 03:12 PM)_
 
@@ -2103,7 +2103,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:12 PM)_
 
-> t!8ball does Iris whisper to Emmett “can I set the booth on fire?”
+t!8ball does Iris whisper to Emmett “can I set the booth on fire?”
 
 **Tatsumaki** _(30-Sep-18 03:12 PM)_
 
@@ -2127,7 +2127,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:13 PM)_
 
-> there’s oxygen in the booth,
+> there's oxygen in the booth,
 > she grumbles.
 
 **Brakia** _(30-Sep-18 03:13 PM)_
@@ -2140,7 +2140,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 03:13 PM)_
 
-> Lady if you wish here’s what was owed and a bit extra if you forget this happened
+> Lady if you wish here's what was owed and a bit extra if you forget this happened
 
 **PlasmaPerson** _(30-Sep-18 03:14 PM)_
 
@@ -2148,7 +2148,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 03:14 PM)_
 
-> t!8ball does she accept the bribe?
+t!8ball does she accept the bribe?
 
 **Tatsumaki** _(30-Sep-18 03:14 PM)_
 
@@ -2158,7 +2158,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 03:14 PM)_
 
-> t!8ball Does Seth make more sexual advances upon the toll booth worker and convince her to have sex with him in exchange for passage?
+t!8ball Does Seth make more sexual advances upon the toll booth worker and convince her to have sex with him in exchange for passage?
 
 **Tatsumaki** _(30-Sep-18 03:14 PM)_
 
@@ -2168,7 +2168,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 03:14 PM)_
 
-> t!8ball Does Seth make more sexual advances upon the toll booth worker and convince her to have sex with him in exchange for passage?
+t!8ball Does Seth make more sexual advances upon the toll booth worker and convince her to have sex with him in exchange for passage?
 
 **Tatsumaki** _(30-Sep-18 03:14 PM)_
 
@@ -2178,7 +2178,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:14 PM)_
 
-> See, ma’am?
+> See, ma'am?
 
 **Bagelwrecker** _(30-Sep-18 03:14 PM)_
 
@@ -2186,7 +2186,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 03:15 PM)_
 
-> t!8ball Does Jim use his heat sensor to detect how many people are inside the toll booth?
+t!8ball Does Jim use his heat sensor to detect how many people are inside the toll booth?
 
 **Tatsumaki** _(30-Sep-18 03:15 PM)_
 
@@ -2200,11 +2200,11 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:15 PM)_
 
-> I’d like to ask you a question.
+> I'd like to ask you a question.
 
 **TheBlade** _(30-Sep-18 03:15 PM)_
 
-> t!8ball Does Jim use his heat sensor to detect how many people are inside the toll booth?
+t!8ball Does Jim use his heat sensor to detect how many people are inside the toll booth?
 
 **Tatsumaki** _(30-Sep-18 03:15 PM)_
 
@@ -2218,7 +2218,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 03:16 PM)_
 
-> t!roll d5
+t!roll d5
 
 **Tatsumaki** _(30-Sep-18 03:16 PM)_
 
@@ -2255,7 +2255,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 03:17 PM)_
 
-> t!roll d15
+t!roll d15
 
 **Tatsumaki** _(30-Sep-18 03:17 PM)_
 
@@ -2320,7 +2320,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 03:19 PM)_
 
-> t!8ball Does Deyner make the bomb gun?
+t!8ball Does Deyner make the bomb gun?
 
 **Tatsumaki** _(30-Sep-18 03:19 PM)_
 
@@ -2344,7 +2344,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 03:20 PM)_
 
-> t!8ball does he possess the lady
+t!8ball does he possess the lady
 
 **Tatsumaki** _(30-Sep-18 03:20 PM)_
 
@@ -2354,8 +2354,8 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 03:20 PM)_
 
-> t!8ball does he possess the lady
-> t!8ball does he possess the lady
+t!8ball does he possess the lady
+t!8ball does he possess the lady
 
 **Tatsumaki** _(30-Sep-18 03:20 PM)_
 
@@ -2381,7 +2381,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 03:22 PM)_
 
-> t!roll D130
+t!roll D130
 
 **Tatsumaki** _(30-Sep-18 03:22 PM)_
 
@@ -2393,7 +2393,7 @@ sides.
 
 **Bagelwrecker** _(30-Sep-18 03:22 PM)_
 
-> t!roll 10D13
+t!roll 10D13
 
 **Tatsumaki** _(30-Sep-18 03:22 PM)_
 
@@ -2407,7 +2407,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 03:22 PM)_
 
-> I can’t see the dmg??
+> I can't see the dmg??
 
 **Bagelwrecker** _(30-Sep-18 03:23 PM)_
 
@@ -2415,7 +2415,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:23 PM)_
 
-> It’s not my 8ball turn.
+> It's not my 8ball turn.
 
 **Zander** _(30-Sep-18 03:23 PM)_
 
@@ -2431,7 +2431,7 @@ In the end, the result was:
 
 **Zander** _(30-Sep-18 03:23 PM)_
 
-> t!roll 10d75
+t!roll 10d75
 
 **Tatsumaki** _(30-Sep-18 03:23 PM)_
 
@@ -2485,7 +2485,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:25 PM)_
 
-> because she’s rude.
+> because she's rude.
 
 **Bagelwrecker** _(30-Sep-18 03:25 PM)_
 
@@ -2505,7 +2505,7 @@ In the end, the result was:
 
 **Zander** _(30-Sep-18 03:26 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(30-Sep-18 03:26 PM)_
 
@@ -2519,11 +2519,11 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:26 PM)_
 
-> It’s not about the duckett, Jim!
+> It's not about the duckett, Jim!
 
 **Enchantingtable2013** _(30-Sep-18 03:27 PM)_
 
-> t!8ball Do I catch up and start talking to hector?
+t!8ball Do I catch up and start talking to hector?
 
 **Tatsumaki** _(30-Sep-18 03:27 PM)_
 
@@ -2537,7 +2537,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:27 PM)_
 
-> it’s about her attitude.
+> it's about her attitude.
 
 **WatchfulDrake** _(30-Sep-18 03:28 PM)_
 
@@ -2578,7 +2578,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:29 PM)_
 
-> we don’t have time to just sit here!
+> we don't have time to just sit here!
 
 **TheBlade** _(30-Sep-18 03:30 PM)_
 
@@ -2594,7 +2594,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(30-Sep-18 03:30 PM)_
 
-> t!8ball does garrick possess the lady and let the ship through?
+t!8ball does garrick possess the lady and let the ship through?
 
 **Tatsumaki** _(30-Sep-18 03:30 PM)_
 
@@ -2608,7 +2608,7 @@ In the end, the result was:
 
 **Brakia** _(30-Sep-18 03:32 PM)_
 
-> t!8ball Does the crew just ram the tollbooth with the ship?
+t!8ball Does the crew just ram the tollbooth with the ship?
 
 **Tatsumaki** _(30-Sep-18 03:32 PM)_
 
@@ -2618,7 +2618,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 03:33 PM)_
 
-> t!roll 2000
+t!roll 2000
 
 **Tatsumaki** _(30-Sep-18 03:33 PM)_
 
@@ -2642,7 +2642,7 @@ t!roll 5d10+3
 
 **Bagelwrecker** _(30-Sep-18 03:33 PM)_
 
-> t!roll 20d100
+t!roll 20d100
 
 **Tatsumaki** _(30-Sep-18 03:33 PM)_
 
@@ -2658,7 +2658,7 @@ dice.
 
 **Bagelwrecker** _(30-Sep-18 03:33 PM)_
 
-> t!roll 10d100
+t!roll 10d100
 
 **Tatsumaki** _(30-Sep-18 03:33 PM)_
 
@@ -2672,7 +2672,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 03:33 PM)_
 
-> t!roll 10d100
+t!roll 10d100
 
 **Tatsumaki** _(30-Sep-18 03:33 PM)_
 
@@ -2706,7 +2706,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(30-Sep-18 03:35 PM)_
 
-> t!8ball does the portal open because of irony
+t!8ball does the portal open because of irony
 
 **Tatsumaki** _(30-Sep-18 03:35 PM)_
 
@@ -2790,7 +2790,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 03:38 PM)_
 
-> t!8ball Does Sanya ram the ship into the ground?
+t!8ball Does Sanya ram the ship into the ground?
 
 **Tatsumaki** _(30-Sep-18 03:38 PM)_
 
@@ -2830,7 +2830,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 03:38 PM)_
 
-> t!8ball Does the crew somehow crash on a random planet?
+t!8ball Does the crew somehow crash on a random planet?
 
 **Tatsumaki** _(30-Sep-18 03:38 PM)_
 
@@ -2840,7 +2840,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:39 PM)_
 
-> We’re on land now!
+> We're on land now!
 
 **Bagelwrecker** _(30-Sep-18 03:39 PM)_
 
@@ -2881,7 +2881,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:39 PM)_
 
-> Iris quickly exits the ship, making sure to bring her belongings this time. She doesn’t want a repeat of last time.
+> Iris quickly exits the ship, making sure to bring her belongings this time. She doesn't want a repeat of last time.
 
 **Brakia** _(30-Sep-18 03:40 PM)_
 
@@ -2968,7 +2968,7 @@ In the end, the result was:
 **Jelsafan0** _(30-Sep-18 03:42 PM)_
 
 > Dammit
-> This isn’t helpful
+> This isn't helpful
 
 **RPretribution** _(30-Sep-18 03:42 PM)_
 
@@ -2976,7 +2976,7 @@ In the end, the result was:
 
 **Jelsafan0** _(30-Sep-18 03:43 PM)_
 
-> YOU’RE ALL MEGA ROBOTTING
+> YOU'RE ALL MEGA ROBOTTING
 
 **Bagelwrecker** _(30-Sep-18 03:43 PM)_
 
@@ -2992,7 +2992,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 03:44 PM)_
 
-> t!choose grassy | rocky
+t!choose grassy | rocky
 
 **Tatsumaki** _(30-Sep-18 03:44 PM)_
 
@@ -3042,7 +3042,7 @@ In the end, the result was:
 
 > Emmett is inconveniently placed in the engine.
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(30-Sep-18 03:46 PM)_
 
@@ -3078,7 +3078,7 @@ In the end, the result was:
 **Jelsafan0** _(30-Sep-18 03:47 PM)_
 
 > once she has a bit, she rushes back into the ship.
-> Where’s Emmett?!
+> Where's Emmett?!
 
 **TheBlade** _(30-Sep-18 03:47 PM)_
 
@@ -3149,7 +3149,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 03:51 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(30-Sep-18 03:51 PM)_
 
@@ -3163,7 +3163,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(30-Sep-18 03:51 PM)_
 
-> t!roll 3d10
+t!roll 3d10
 
 **Tatsumaki** _(30-Sep-18 03:51 PM)_
 
@@ -3183,7 +3183,7 @@ In the end, the result was:
 
 **Brakia** _(30-Sep-18 03:52 PM)_
 
-> t!8ball Does Sanya explore the planet?
+t!8ball Does Sanya explore the planet?
 
 **Tatsumaki** _(30-Sep-18 03:52 PM)_
 
@@ -3197,7 +3197,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(30-Sep-18 03:53 PM)_
 
-> t!8ball does everyone go outside of the ship and look for lifeforms
+t!8ball does everyone go outside of the ship and look for lifeforms
 
 **Tatsumaki** _(30-Sep-18 03:53 PM)_
 
@@ -3227,7 +3227,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 03:55 PM)_
 
-> t!8ball Does Seth drink some water from a river?
+t!8ball Does Seth drink some water from a river?
 
 **Tatsumaki** _(30-Sep-18 03:55 PM)_
 
@@ -3242,7 +3242,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 03:56 PM)_
 
-> t!8ball Does Jim start working on the exterior of the ship?
+t!8ball Does Jim start working on the exterior of the ship?
 
 **Tatsumaki** _(30-Sep-18 03:56 PM)_
 
@@ -3252,7 +3252,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 03:57 PM)_
 
-> t!roll d7
+t!roll d7
 
 **Tatsumaki** _(30-Sep-18 03:57 PM)_
 
@@ -3278,7 +3278,7 @@ In the end, the result was:
 
 **Zander** _(30-Sep-18 03:58 PM)_
 
-> t!8ball Is there grass here sustainable for Emmett?
+t!8ball Is there grass here sustainable for Emmett?
 
 **Tatsumaki** _(30-Sep-18 03:58 PM)_
 
@@ -3328,7 +3328,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(30-Sep-18 04:00 PM)_
 
-> t!8ball is there grass sustainable for Emmett nearby?
+t!8ball is there grass sustainable for Emmett nearby?
 
 **Tatsumaki** _(30-Sep-18 04:00 PM)_
 
@@ -3343,7 +3343,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(30-Sep-18 04:00 PM)_
 
-> t!8ball is there grass sustainable for Emmett nearby?
+t!8ball is there grass sustainable for Emmett nearby?
 
 **Tatsumaki** _(30-Sep-18 04:00 PM)_
 
@@ -3357,7 +3357,7 @@ In the end, the result was:
 
 **Brakia** _(30-Sep-18 04:00 PM)_
 
-> t!8ball Is there Floran civilization on nearby?
+t!8ball Is there Floran civilization on nearby?
 
 **Tatsumaki** _(30-Sep-18 04:00 PM)_
 
@@ -3367,7 +3367,7 @@ In the end, the result was:
 
 **Brakia** _(30-Sep-18 04:01 PM)_
 
-> t!8ball Is there Floran civilization nearby?
+t!8ball Is there Floran civilization nearby?
 
 **Tatsumaki** _(30-Sep-18 04:01 PM)_
 
@@ -3377,7 +3377,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(30-Sep-18 04:02 PM)_
 
-> t!8ball is there floran civilization
+t!8ball is there floran civilization
 
 **Tatsumaki** _(30-Sep-18 04:02 PM)_
 
@@ -3391,7 +3391,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:03 PM)_
 
-> t!8ball Is there an otter civilization next to the river that Seth is at with only females?
+t!8ball Is there an otter civilization next to the river that Seth is at with only females?
 
 **Tatsumaki** _(30-Sep-18 04:03 PM)_
 
@@ -3401,7 +3401,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:03 PM)_
 
-> t!8ball is there a communist human civilization here?
+t!8ball is there a communist human civilization here?
 
 **Tatsumaki** _(30-Sep-18 04:03 PM)_
 
@@ -3411,7 +3411,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:03 PM)_
 
-> t!8ball is there a communist human civilization here?
+t!8ball is there a communist human civilization here?
 
 **Tatsumaki** _(30-Sep-18 04:03 PM)_
 
@@ -3465,7 +3465,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 04:07 PM)_
 
-> t!8ball are garrick and chomk done quickly
+t!8ball are garrick and chomk done quickly
 
 **Tatsumaki** _(30-Sep-18 04:07 PM)_
 
@@ -3521,7 +3521,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(30-Sep-18 04:10 PM)_
 
-> t!ball does hector start looking for grass for Emmett?
+t!ball does hector start looking for grass for Emmett?
 
 **Deyner** _(30-Sep-18 04:10 PM)_
 
@@ -3533,7 +3533,7 @@ In the end, the result was:
 
 **WatchfulDrake** _(30-Sep-18 04:10 PM)_
 
-> t!8ball does hector start looking for grass for Emmett?
+t!8ball does hector start looking for grass for Emmett?
 
 **Tatsumaki** _(30-Sep-18 04:10 PM)_
 
@@ -3555,7 +3555,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 04:11 PM)_
 
-> (Whenever I roll for damage I can’t see the numbers??)
+> (Whenever I roll for damage I can't see the numbers??)
 
 **TheBlade** _(30-Sep-18 04:11 PM)_
 
@@ -3575,7 +3575,7 @@ In the end, the result was:
 
 **Brakia** _(30-Sep-18 04:13 PM)_
 
-> t!8ball Does Sanya shove her flower into emmett's snout?
+t!8ball Does Sanya shove her flower into emmett's snout?
 
 **Tatsumaki** _(30-Sep-18 04:13 PM)_
 
@@ -3594,7 +3594,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(30-Sep-18 04:13 PM)_
 
-> t!roll d20
+t!roll d20
 
 **Tatsumaki** _(30-Sep-18 04:13 PM)_
 
@@ -3632,7 +3632,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:15 PM)_
 
-> t!8ball Does Seth find a dryad?
+t!8ball Does Seth find a dryad?
 
 **Tatsumaki** _(30-Sep-18 04:15 PM)_
 
@@ -3642,7 +3642,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:15 PM)_
 
-> t!8ball Does Seth find a dryad?
+t!8ball Does Seth find a dryad?
 
 **Tatsumaki** _(30-Sep-18 04:15 PM)_
 
@@ -3675,7 +3675,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:16 PM)_
 
-> t!8ball Do Russians start popping out of the woods due to the noise and fire?
+t!8ball Do Russians start popping out of the woods due to the noise and fire?
 
 **Tatsumaki** _(30-Sep-18 04:16 PM)_
 
@@ -3728,7 +3728,7 @@ In the end, the result was:
 
 **Zander** _(30-Sep-18 04:18 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(30-Sep-18 04:18 PM)_
 
@@ -3746,7 +3746,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 04:18 PM)_
 
-> t!8ball does Deyner wake up and attack Emmett?
+t!8ball does Deyner wake up and attack Emmett?
 
 **Tatsumaki** _(30-Sep-18 04:18 PM)_
 
@@ -3760,7 +3760,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 04:18 PM)_
 
-> t!8ball does Deyner wake up and attack Emmett?
+t!8ball does Deyner wake up and attack Emmett?
 
 **Tatsumaki** _(30-Sep-18 04:18 PM)_
 
@@ -3828,7 +3828,7 @@ In the end, the result was:
 
 > Like he Hulk?
 > the\*
-> That’s the 0.0000000000001
+> That's the 0.0000000000001
 
 **WatchfulDrake** _(30-Sep-18 04:22 PM)_
 
@@ -3864,7 +3864,7 @@ In the end, the result was:
 
 **Brakia** _(30-Sep-18 04:23 PM)_
 
-> t!8ball Does Sanya try to calm emmett?
+t!8ball Does Sanya try to calm emmett?
 
 **Tatsumaki** _(30-Sep-18 04:23 PM)_
 
@@ -3973,7 +3973,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(30-Sep-18 04:28 PM)_
 
-> t!8ball M?
+t!8ball M?
 
 **Tatsumaki** _(30-Sep-18 04:28 PM)_
 
@@ -3983,7 +3983,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 04:28 PM)_
 
-> t!8ball does Deyner wake up??
+t!8ball does Deyner wake up??
 
 **Tatsumaki** _(30-Sep-18 04:28 PM)_
 
@@ -4001,7 +4001,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:30 PM)_
 
-> t!8ball Does Emmett sleep?
+t!8ball Does Emmett sleep?
 
 **Tatsumaki** _(30-Sep-18 04:30 PM)_
 
@@ -4015,7 +4015,7 @@ In the end, the result was:
 
 **Deyner** _(30-Sep-18 04:30 PM)_
 
-> t!roll 2d15
+t!roll 2d15
 
 **Tatsumaki** _(30-Sep-18 04:30 PM)_
 
@@ -4061,7 +4061,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:32 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(30-Sep-18 04:32 PM)_
 
@@ -4101,7 +4101,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 04:34 PM)_
 
-> t!choose marshmallow | one of emmetts squoat books
+t!choose marshmallow | one of emmetts squoat books
 
 **Tatsumaki** _(30-Sep-18 04:34 PM)_
 
@@ -4117,7 +4117,7 @@ In the end, the result was:
 
 **Zander** _(30-Sep-18 04:35 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(30-Sep-18 04:35 PM)_
 
@@ -4131,7 +4131,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:35 PM)_
 
-> t!8ball Does Seth have Sex with the Dryad?
+t!8ball Does Seth have Sex with the Dryad?
 
 **Tatsumaki** _(30-Sep-18 04:35 PM)_
 
@@ -4145,7 +4145,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:35 PM)_
 
-> t!8ball Does Seth have Sex with the Dryad?
+t!8ball Does Seth have Sex with the Dryad?
 
 **Tatsumaki** _(30-Sep-18 04:35 PM)_
 
@@ -4155,7 +4155,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:35 PM)_
 
-> t!8ball Does Garrick also find rope?
+t!8ball Does Garrick also find rope?
 
 **Tatsumaki** _(30-Sep-18 04:35 PM)_
 
@@ -4185,7 +4185,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 04:37 PM)_
 
-> t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
+t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
 
 **Tatsumaki** _(30-Sep-18 04:37 PM)_
 
@@ -4195,7 +4195,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 04:37 PM)_
 
-> t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
+t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
 
 **Tatsumaki** _(30-Sep-18 04:37 PM)_
 
@@ -4205,7 +4205,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(30-Sep-18 04:37 PM)_
 
-> t!8ball does Emmett not take damage this turn due to the magic marshmallow
+t!8ball does Emmett not take damage this turn due to the magic marshmallow
 
 **Tatsumaki** _(30-Sep-18 04:37 PM)_
 
@@ -4215,7 +4215,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 04:37 PM)_
 
-> t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
+t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
 
 **Tatsumaki** _(30-Sep-18 04:37 PM)_
 
@@ -4225,7 +4225,8 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 04:37 PM)_
 
-> t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
+t!8ball does emmett wake up and start chewing the marshmallow, pacifying him temporarily
+
 > I told you these marshmallows would come in handy.
 
 **Zander** _(30-Sep-18 04:37 PM)_
@@ -4236,7 +4237,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:39 PM)_
 
-> t!8ball Does Emmett eat baby
+t!8ball Does Emmett eat baby
 
 **Tatsumaki** _(30-Sep-18 04:39 PM)_
 
@@ -4246,7 +4247,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(30-Sep-18 04:39 PM)_
 
-> t!8ball does garrick have the good grass in his pocket
+t!8ball does garrick have the good grass in his pocket
 
 **Tatsumaki** _(30-Sep-18 04:39 PM)_
 
@@ -4264,7 +4265,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:40 PM)_
 
-> t!8ball Does Seth finish up and find out the dryad in reality was a drow assassin?
+t!8ball Does Seth finish up and find out the dryad in reality was a drow assassin?
 
 **Tatsumaki** _(30-Sep-18 04:40 PM)_
 
@@ -4278,7 +4279,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:40 PM)_
 
-> t!8ball Does a Dryad pull grass out the ground while getting fucked by seth?
+t!8ball Does a Dryad pull grass out the ground while getting fucked by seth?
 
 **Tatsumaki** _(30-Sep-18 04:40 PM)_
 
@@ -4292,7 +4293,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:41 PM)_
 
-> t!8ball Does a Dryand pull grass out the ground while being fucked by seth?
+t!8ball Does a Dryand pull grass out the ground while being fucked by seth?
 
 **Tatsumaki** _(30-Sep-18 04:41 PM)_
 
@@ -4338,7 +4339,7 @@ In the end, the result was:
 
 **RPretribution** _(30-Sep-18 04:44 PM)_
 
-> t!8ball does garrick help chomky with cooking
+t!8ball does garrick help chomky with cooking
 
 **Tatsumaki** _(30-Sep-18 04:44 PM)_
 
@@ -4352,7 +4353,7 @@ In the end, the result was:
 
 **Zander** _(30-Sep-18 04:45 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(30-Sep-18 04:45 PM)_
 
@@ -4370,7 +4371,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:45 PM)_
 
-> t!8ball Does Seth shoot her in the knees and run away naked with his laser pistol in hand and his holster covering his penis.?
+t!8ball Does Seth shoot her in the knees and run away naked with his laser pistol in hand and his holster covering his penis.?
 
 **Tatsumaki** _(30-Sep-18 04:45 PM)_
 
@@ -4388,7 +4389,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:47 PM)_
 
-> t!8ball Does Seth Stuff his dirty hand into Emmets mouth full of grass?
+t!8ball Does Seth Stuff his dirty hand into Emmets mouth full of grass?
 
 **Tatsumaki** _(30-Sep-18 04:47 PM)_
 
@@ -4410,7 +4411,7 @@ In the end, the result was:
 
 **Zander** _(30-Sep-18 04:48 PM)_
 
-> t!roll d10
+t!roll d10
 
 **Tatsumaki** _(30-Sep-18 04:48 PM)_
 
@@ -4424,7 +4425,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(30-Sep-18 04:49 PM)_
 
-> t!8ball Does Seth give Emmett the grass anally?
+t!8ball Does Seth give Emmett the grass anally?
 
 **Tatsumaki** _(30-Sep-18 04:49 PM)_
 
@@ -4438,7 +4439,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:50 PM)_
 
-> t!8ball does the ship turn on?
+t!8ball does the ship turn on?
 
 **Tatsumaki** _(30-Sep-18 04:50 PM)_
 
@@ -4452,7 +4453,7 @@ In the end, the result was:
 
 **TheBlade** _(30-Sep-18 04:50 PM)_
 
-> t!8ball does the ship turn on?
+t!8ball does the ship turn on?
 
 **Tatsumaki** _(30-Sep-18 04:50 PM)_
 

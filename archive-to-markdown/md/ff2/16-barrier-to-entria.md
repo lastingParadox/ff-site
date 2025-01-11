@@ -158,7 +158,7 @@ _Emmett shakes his leg to no avail._
 
 **Jelsafan0** _(03-Sep-18 02:22 PM)_
 
-> It’s...
+> It's...
 
 _Iris takes her hands off the crocodile and inspects it._
 
@@ -751,7 +751,7 @@ _Emmett manages to take some of the copper wire Seth handed him and attaches it 
 
 _Before Iris leaves, she thinks for a bit and holds her arm, not wanting to possibly be hurt from the crocodile._
 
-> ... I suppose I’d better not.
+> ... I suppose I'd better not.
 
 **Zander** _(03-Sep-18 02:37 PM)_
 
@@ -992,7 +992,7 @@ _Sanya looks up and down the crocodile, inspecting it thoroughly._
 
 _Iris pauses, looks at Raven, and raises an eyebrow._
 
-> We’ll check in a minute.
+> We'll check in a minute.
 
 **Brakia** _(03-Sep-18 02:45 PM)_
 
@@ -1020,7 +1020,7 @@ _Emmett sighs._
 
 **Jelsafan0** _(03-Sep-18 02:45 PM)_
 
-> For now, let’s just figure out where to put the crocodile.
+> For now, let's just figure out where to put the crocodile.
 
 _Iris holds Raven like a baby._
 
@@ -1046,7 +1046,7 @@ _Hector starts digging around his pack._
 
 **Jelsafan0** _(03-Sep-18 02:47 PM)_
 
-> ... I’ll just...
+> ... I'll just...
 > Keep her in my bed.
 
 _Iris kisses Raven affectionately._
@@ -1228,7 +1228,7 @@ _Iris looks around for civilization nearby._
 
 **Jelsafan0** _(03-Sep-18 02:54 PM)_
 
-> Town. I’ll go to town.
+> Town. I'll go to town.
 
 **WatchfulDrake** _(03-Sep-18 02:54 PM)_
 
@@ -1252,8 +1252,8 @@ _Kyle turns his body in the direction of where Seth went._
 
 **Jelsafan0** _(03-Sep-18 02:55 PM)_
 
-> I’ll just go find the others.
-> I’ll shout really loud.
+> I'll just go find the others.
+> I'll shout really loud.
 
 **Zander** _(03-Sep-18 02:55 PM)_
 
@@ -1425,7 +1425,7 @@ t!8ball Does Emmett grab his plasma crossbow before escaping the ship?
 
 _Iris pants frantically, having made it back to KYL300._
 
-> Hi...! I’m... Here!
+> Hi...! I'm... Here!
 
 **Zander** _(03-Sep-18 03:01 PM)_
 
@@ -1483,7 +1483,7 @@ _Sanya pulls out some of the plants and sticks them into a backpack she found on
 
 **Jelsafan0** _(03-Sep-18 03:03 PM)_
 
-t!8ball Are all of Iris’ belongings conveniently on her?
+t!8ball Are all of Iris' belongings conveniently on her?
 
 **Tatsumaki** _(03-Sep-18 03:03 PM)_
 
@@ -1561,7 +1561,7 @@ t!8ball Do Iris and Kyle reach Seth?
 
 **Jelsafan0** _(03-Sep-18 03:06 PM)_
 
-> It’s a game. I learned about it on television.
+> It's a game. I learned about it on television.
 
 **TheBlade** _(03-Sep-18 03:07 PM)_
 
@@ -1627,7 +1627,7 @@ _Jim turns back to Emmett and Hector._
 
 **Jelsafan0** _(03-Sep-18 03:08 PM)_
 
-_Iris is utterly amazed. She hasn’t seen so many elves in one place since her home planet exploded._
+_Iris is utterly amazed. She hasn't seen so many elves in one place since her home planet exploded._
 
 **Zander** _(03-Sep-18 03:08 PM)_
 
@@ -1723,7 +1723,7 @@ _Hector watches in bewilderment as Emmett speeds into the forest without a care 
 
 **Jelsafan0** _(03-Sep-18 03:11 PM)_
 
-> People gave me strange looks on my home planet, and I’m half-elf. I’m unsure if it’s the same here, but.... just in case.
+> People gave me strange looks on my home planet, and I'm half-elf. I'm unsure if it's the same here, but.... just in case.
 
 _Iris shrugs._
 
@@ -1806,7 +1806,7 @@ _Iris looks to the side and holds her arm, a bit ashamed of her past._
 
 _Iris shakes her head, sighing._
 
-> It’s not important anymore.
+> It's not important anymore.
 
 **WatchfulDrake** _(03-Sep-18 03:15 PM)_
 
@@ -1829,7 +1829,7 @@ _Jim and Hector follow Emmett from afar, making sure he doesn't get himself into
 
 **Jelsafan0** _(03-Sep-18 03:16 PM)_
 
-> That’s good, at least.
+> That's good, at least.
 
 **WatchfulDrake** _(03-Sep-18 03:16 PM)_
 
@@ -2352,7 +2352,7 @@ _In the hut, there's a hooded figure steadily rocking in a rocking chair in fron
 
 _Iris frowns._
 
-> I’m sorry, Sanya...
+> I'm sorry, Sanya...
 
 **TheBlade** _(03-Sep-18 03:42 PM)_
 
@@ -2393,7 +2393,7 @@ _Upon entering the hut, Jim waves for Hector to stay outside._
 
 _Iris places down the crocodile on the ground._
 
-> ... Let’s go get you some things, Raven.
+> ... Let's go get you some things, Raven.
 
 _Raven follows Iris obediently as the two search the marketplace for pet and crocodile goodies._
 
@@ -2420,7 +2420,7 @@ _Kyle follows Iris with a swagger in his step._
 **Jelsafan0** _(03-Sep-18 03:47 PM)_
 
 > Great!
-> Let’s go!
+> Let's go!
 
 **Bagelwrecker** _(03-Sep-18 03:47 PM)_
 
@@ -2478,7 +2478,7 @@ _Seth lets go of his mother and sits with her at the other side of the stone tab
 
 _Iris sighs and fixes her composure._
 
-> First, we have to get some armor so she doesn’t get shot like poor Croven!
+> First, we have to get some armor so she doesn't get shot like poor Croven!
 
 **Bagelwrecker** _(03-Sep-18 03:50 PM)_
 
@@ -2572,7 +2572,7 @@ _Kyle waves robotically, turning off some of his entourage._
 
 _Iris fits the armor onto Raven without much resistance._
 
-> Check out Raven’s sweet armor!
+> Check out Raven's sweet armor!
 
 **Brakia** _(03-Sep-18 03:53 PM)_
 
@@ -2592,7 +2592,7 @@ t!8ball Does Raven run away from Iris?
 
 **Jelsafan0** _(03-Sep-18 03:54 PM)_
 
-> That’s Kyle.
+> That's Kyle.
 
 _Raven jumps out of Iris's clutches and waddles away from her._
 
@@ -2628,7 +2628,7 @@ _Sanya flicks Kyle's cheek._
 
 _Iris jumps as she notices that Raven's ran off from her._
 
-> Ack! I’ll go find her in a minute.
+> Ack! I'll go find her in a minute.
 
 **Zander** _(03-Sep-18 03:55 PM)_
 
@@ -2642,7 +2642,7 @@ t!8ball Is Emmett mildly hallucinating?
 
 _Iris taps her foot on the floor, quickly growing concerned._
 
-> ... I’m getting really anxious. Should we go find her?
+> ... I'm getting really anxious. Should we go find her?
 
 **ProfessorTree** _(03-Sep-18 03:56 PM)_
 
@@ -2666,7 +2666,7 @@ _Jim waits quietly for something to happen between Emmett and the hooded figure 
 
 **Jelsafan0** _(03-Sep-18 03:56 PM)_
 
-> Alright. Let’s go!
+> Alright. Let's go!
 
 _Iris heads in the direction that she saw Raven run in._
 
@@ -2744,7 +2744,7 @@ _`Hooded Figure`: The hooded figure takes off their hood to reveal an illusion o
 
 **Jelsafan0** _(03-Sep-18 04:01 PM)_
 
-> Sorry, I... don’t know what got into me... What did you want to do?
+> Sorry, I... don't know what got into me... What did you want to do?
 
 **TheBlade** _(03-Sep-18 04:01 PM)_
 
@@ -2774,7 +2774,7 @@ _Emmett rubs his eyes in disbelief, but plays into the hag's illusion, being dru
 
 _Iris looks about, trying to find a ship depot._
 
-> Unfortunately... I don’t know if we have enough money for that?
+> Unfortunately... I don't know if we have enough money for that?
 
 **Zander** _(03-Sep-18 04:02 PM)_
 
@@ -2816,7 +2816,7 @@ _Jim's aim shakes from being startled by the hooded figure's ability._
 
 **Jelsafan0** _(03-Sep-18 04:04 PM)_
 
-> I’m not certain I would be much help, though...
+> I'm not certain I would be much help, though...
 
 _Iris twists her shoe in the ground._
 
@@ -3070,7 +3070,7 @@ t!8ball Does Hector look in the hut again before running in?
 
 **Jelsafan0** _(03-Sep-18 04:14 PM)_
 
-t!8ball Does Iris decide to check out what’s happening over there?
+t!8ball Does Iris decide to check out what's happening over there?
 
 **Tatsumaki** _(03-Sep-18 04:14 PM)_
 
@@ -3264,7 +3264,7 @@ _Kyle looks over to Hector awkwardly._
 
 **Jelsafan0** _(03-Sep-18 04:21 PM)_
 
-> I... I don’t....
+> I... I don't....
 
 _Iris inspects her dress, hallucinating._
 
@@ -3369,7 +3369,7 @@ _Kyle brings out his Titanium sword._
 
 _Despite being in a sizzling skillet, Iris feels as if she's in bed._
 
-> Alright... guess I’ll just...
+> Alright... guess I'll just...
 
 **WatchfulDrake** _(03-Sep-18 04:28 PM)_
 
@@ -3529,7 +3529,7 @@ _Kyle tries to slice open the over door with his blade._
 
 **Jelsafan0** _(03-Sep-18 04:36 PM)_
 
-_Iris’s vision blurs and when it clears, she’s seeing reality. Apparently she wasn't deeply affected by the mushroom aroma._
+_Iris's vision blurs and when it clears, she's seeing reality. Apparently she wasn't deeply affected by the mushroom aroma._
 
 **Jelsafan0** _(03-Sep-18 04:36 PM)_
 
@@ -3549,7 +3549,7 @@ _Sanya sets Iris on the ground, away from the hut._
 
 _Iris grimaces._
 
-> ... I should’ve known.
+> ... I should've known.
 
 **TheBlade** _(03-Sep-18 04:37 PM)_
 
@@ -3573,7 +3573,7 @@ _`Hooded Figure`: The monster, visibly upset from the loss of its food, tosses t
 
 **Jelsafan0** _(03-Sep-18 04:38 PM)_
 
-> Can you tell me what’s going on? Maybe...
+> Can you tell me what's going on? Maybe...
 
 _Iris pushes herself up from the ground._
 
@@ -3795,7 +3795,7 @@ _Jim frowns, sweating._
 
 **Jelsafan0** _(03-Sep-18 04:49 PM)_
 
-> Well I didn’t listen! What do I do?
+> Well I didn't listen! What do I do?
 
 **TheBlade** _(03-Sep-18 04:49 PM)_
 
@@ -4132,7 +4132,7 @@ _Matieu helps carry Emmett out from the hut._
 
 **Jelsafan0** _(03-Sep-18 05:03 PM)_
 
-_Iris immediately drops Emmett once they’re outside, ripping the cloth from her mouth and taking desperate gasps for air._
+_Iris immediately drops Emmett once they're outside, ripping the cloth from her mouth and taking desperate gasps for air._
 
 > Christ dude...
 
@@ -4338,7 +4338,7 @@ _Jim looks around for his boat, utterly confused._
 
 _Iris beckons Jim away from the hut, trying to misdirect him._
 
-> Hey Jim! Come here! There’s something cool over here you have to see!
+> Hey Jim! Come here! There's something cool over here you have to see!
 
 **TheBlade** _(03-Sep-18 05:08 PM)_
 
@@ -4350,7 +4350,7 @@ _Jim shakes his head and looks in Iris's direction._
 
 **Jelsafan0** _(03-Sep-18 05:09 PM)_
 
-> I don’t know, but it’s cool and you have to see it!
+> I don't know, but it's cool and you have to see it!
 
 _Iris holds nothing behind her back._
 
@@ -4388,7 +4388,7 @@ _Emmett sits up, continuing to hold his head._
 
 **Jelsafan0** _(03-Sep-18 05:10 PM)_
 
-> It is very shiny and great and you’ve gotta come see it!
+> It is very shiny and great and you've gotta come see it!
 
 _Iris shakes her clenched hand._
 
@@ -4410,7 +4410,7 @@ _Emmett looks down at his bleeding leg, the monster still clutching it._
 
 _Iris gives Jim a side hug when he reaches her._
 
-> You’re welcome for getting you away from the fumes...
+> You're welcome for getting you away from the fumes...
 
 **TheBlade** _(03-Sep-18 05:12 PM)_
 
@@ -4436,7 +4436,7 @@ _Jim rubs his stomach and notices his arm is scalded._
 
 _Iris pats the grass next to her._
 
-> Come sit down, it’ll help with recovery. I’ll explain.
+> Come sit down, it'll help with recovery. I'll explain.
 
 **Zander** _(03-Sep-18 05:14 PM)_
 
@@ -4527,7 +4527,7 @@ _Jim ties the cloth like a bandana._
 
 **Jelsafan0** _(03-Sep-18 05:18 PM)_
 
-> Yeah, just don’t stay in there too long...
+> Yeah, just don't stay in there too long...
 
 **Zander** _(03-Sep-18 05:18 PM)_
 
@@ -4645,7 +4645,7 @@ _Emmett looks at the hut weakly._
 
 _Iris pinches her nose in shame._
 
-> There’s a half-squid woman out here!
+> There's a half-squid woman out here!
 
 **WatchfulDrake** _(03-Sep-18 05:22 PM)_
 
@@ -4661,7 +4661,7 @@ t!8ball Does the monster grab a hold of Seth's cock and start jerking him around
 
 **Jelsafan0** _(03-Sep-18 05:22 PM)_
 
-> ... She’s hot!
+> ... She's hot!
 
 **Bagelwrecker** _(03-Sep-18 05:22 PM)_
 
@@ -4770,7 +4770,7 @@ _Matieu snaps on his gloves._
 
 **Jelsafan0** _(03-Sep-18 05:26 PM)_
 
-> ... That's it. I’m gonna make him come out...
+> ... That's it. I'm gonna make him come out...
 
 _Iris heads to leave for the hut._
 
@@ -4864,7 +4864,7 @@ _Emmett bleats softly in his unconscious state._
 
 **Jelsafan0** _(03-Sep-18 05:29 PM)_
 
-> I’m just-
+> I'm just-
 
 _Iris watches as the thumping from the hut slows. She shakes, not wanting to be the cause of Seth's death._
 
@@ -4900,7 +4900,7 @@ _Jim watches wide-eyed as the hut burns to the ground._
 
 _Iris's mouth quivers. She turns around, not wanting to look at the hut that was burning down behind her._
 
-> Well, guess he’s dead.
+> Well, guess he's dead.
 
 **Bagelwrecker** _(03-Sep-18 05:30 PM)_
 
@@ -4940,7 +4940,7 @@ _Kyle looks at Emmett on the ground._
 
 **Jelsafan0** _(03-Sep-18 05:32 PM)_
 
-> I’ll take Emmett. Again...
+> I'll take Emmett. Again...
 
 _Iris bends down to pick up her blubbering compatriot._
 
@@ -4976,7 +4976,7 @@ _Hector tries to help Iris pick up Emmett, but she pulls him away._
 
 **Jelsafan0** _(03-Sep-18 05:35 PM)_
 
-> ... I’ll be fine.
+> ... I'll be fine.
 
 **Bagelwrecker** _(03-Sep-18 05:36 PM)_
 
@@ -5012,13 +5012,13 @@ _Hector helps Matieu work on Emmett's leg and both his and Jim's burns, patching
 
 **Jelsafan0** _(03-Sep-18 05:37 PM)_
 
-> ... I’m sorry for your loss...
+> ... I'm sorry for your loss...
 
 _Iris pats Emmett's shoulder._
 
 **Jelsafan0** _(03-Sep-18 05:40 PM)_
 
-t!8ball Does Iris drop Emmett by mistake and then find Concussion-B-Gone in Seth’s hat?
+t!8ball Does Iris drop Emmett by mistake and then find Concussion-B-Gone in Seth's hat?
 
 **Tatsumaki** _(03-Sep-18 05:40 PM)_
 
@@ -5026,7 +5026,7 @@ t!8ball Does Iris drop Emmett by mistake and then find Concussion-B-Gone in Seth
 
 **Enchantingtable2013** _(03-Sep-18 05:40 PM)_
 
-> t!8ball Does Matieu cuts open Emmett's skull?
+t!8ball Does Matieu cuts open Emmett's skull?
 
 **Tatsumaki** _(03-Sep-18 05:40 PM)_
 

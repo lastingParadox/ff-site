@@ -1,6 +1,6 @@
 **Brakia** _(11-Nov-18 02:47 PM)_
 
-> t!8ball Does Sanya exit the ship to check out the planet?
+t!8ball Does Sanya exit the ship to check out the planet?
 
 **Tatsumaki** _(11-Nov-18 02:47 PM)_
 
@@ -14,7 +14,7 @@
 
 **Enchantingtable2013** _(11-Nov-18 02:48 PM)_
 
-> t!8ball Do I respond idiotically?
+t!8ball Do I respond idiotically?
 
 **Tatsumaki** _(11-Nov-18 02:48 PM)_
 
@@ -45,7 +45,7 @@
 
 **Mica** _(11-Nov-18 02:50 PM)_
 
-> t!8ball Does maia randomly appear on the hell planet?
+t!8ball Does maia randomly appear on the hell planet?
 
 **Tatsumaki** _(11-Nov-18 02:50 PM)_
 
@@ -63,7 +63,7 @@
 
 **ProfessorTree** _(11-Nov-18 02:51 PM)_
 
-> t!8ball does Chase wake up?
+t!8ball does Chase wake up?
 
 **Tatsumaki** _(11-Nov-18 02:51 PM)_
 
@@ -77,7 +77,7 @@
 
 **ProfessorTree** _(11-Nov-18 02:51 PM)_
 
-> t!8ball does Chase wake up?
+t!8ball does Chase wake up?
 
 **Tatsumaki** _(11-Nov-18 02:51 PM)_
 
@@ -87,7 +87,7 @@
 
 **Zander** _(11-Nov-18 02:51 PM)_
 
-> t!8ball Does Emmett check on the Ottori prisoner?
+t!8ball Does Emmett check on the Ottori prisoner?
 
 **Tatsumaki** _(11-Nov-18 02:51 PM)_
 
@@ -122,7 +122,7 @@
 
 **Brakia** _(11-Nov-18 02:52 PM)_
 
-> t!8ball Does Sanya go searching for some shops?
+t!8ball Does Sanya go searching for some shops?
 
 **Tatsumaki** _(11-Nov-18 02:52 PM)_
 
@@ -132,7 +132,7 @@
 
 **Brakia** _(11-Nov-18 02:52 PM)_
 
-> t!8ball Does Sanya look for some shops?
+t!8ball Does Sanya look for some shops?
 
 **Tatsumaki** _(11-Nov-18 02:52 PM)_
 
@@ -158,7 +158,7 @@
 
 **Enchantingtable2013** _(11-Nov-18 02:54 PM)_
 
-> t!8ball Does Matieu feel a strange presence just being here?
+t!8ball Does Matieu feel a strange presence just being here?
 
 **Tatsumaki** _(11-Nov-18 02:54 PM)_
 
@@ -198,7 +198,7 @@
 
 **Mica** _(11-Nov-18 02:55 PM)_
 
-> t!8ball Does Maia teleport to the hell planet to regroup with her comrades?
+t!8ball Does Maia teleport to the hell planet to regroup with her comrades?
 
 **Tatsumaki** _(11-Nov-18 02:55 PM)_
 
@@ -220,7 +220,7 @@
 
 **Mica** _(11-Nov-18 02:55 PM)_
 
-> t!8ball Does Maia teleport to the hell planet to regroup with her comrades?
+t!8ball Does Maia teleport to the hell planet to regroup with her comrades?
 
 **Tatsumaki** _(11-Nov-18 02:55 PM)_
 
@@ -310,7 +310,7 @@
 
 **Zander** _(11-Nov-18 03:02 PM)_
 
-> t!8ball Does Matieu meet Chase?
+t!8ball Does Matieu meet Chase?
 
 **Tatsumaki** _(11-Nov-18 03:02 PM)_
 
@@ -395,7 +395,7 @@
 
 **Brakia** _(11-Nov-18 03:05 PM)_
 
-> t!choose back alley salesman | small shop
+t!choose back alley salesman | small shop
 
 **Tatsumaki** _(11-Nov-18 03:05 PM)_
 
@@ -562,7 +562,7 @@
 
 **Enchantingtable2013** _(11-Nov-18 03:10 PM)_
 
-> t!8ball Do I wave the otter goodbye for the time being?
+t!8ball Do I wave the otter goodbye for the time being?
 
 **Tatsumaki** _(11-Nov-18 03:10 PM)_
 
@@ -572,7 +572,7 @@
 
 **Enchantingtable2013** _(11-Nov-18 03:11 PM)_
 
-> t!8ball Do I wave the otter goodbye for the time being?
+t!8ball Do I wave the otter goodbye for the time being?
 
 **Tatsumaki** _(11-Nov-18 03:11 PM)_
 
@@ -595,7 +595,7 @@
 
 **Mica** _(11-Nov-18 03:11 PM)_
 
-> t!8ball Does Maia give Emmett his gift?
+t!8ball Does Maia give Emmett his gift?
 
 **Tatsumaki** _(11-Nov-18 03:11 PM)_
 
@@ -617,7 +617,7 @@
 
 **Platinum_Pathos** _(11-Nov-18 03:11 PM)_
 
-> t!8ball Will Danny greet everybody with 78 dabs collectively?
+t!8ball Will Danny greet everybody with 78 dabs collectively?
 
 **Zander** _(11-Nov-18 03:12 PM)_
 
@@ -641,7 +641,7 @@
 
 **Platinum_Pathos** _(11-Nov-18 03:12 PM)_
 
-> t!8ball Will Danny greet everybody with 78 dabs collectively?
+t!8ball Will Danny greet everybody with 78 dabs collectively?
 
 **Enchantingtable2013** _(11-Nov-18 03:12 PM)_
 
@@ -655,8 +655,8 @@
 
 **Platinum_Pathos** _(11-Nov-18 03:12 PM)_
 
-> t!8ball Will Danny greet everybody with 78 dabs collectively?
-> t!8ball Will Danny greet everybody with 78 dabs collectively?
+t!8ball Will Danny greet everybody with 78 dabs collectively?
+t!8ball Will Danny greet everybody with 78 dabs collectively?
 
 **Tatsumaki** _(11-Nov-18 03:12 PM)_
 
@@ -682,7 +682,7 @@ Alright. I'll take one.
 
 **ProfessorTree** _(11-Nov-18 03:14 PM)_
 
-> t!8ball does Chase start exploring the ship?
+t!8ball does Chase start exploring the ship?
 
 **Tatsumaki** _(11-Nov-18 03:14 PM)_
 
@@ -692,7 +692,7 @@ Alright. I'll take one.
 
 **ProfessorTree** _(11-Nov-18 03:14 PM)_
 
-> t!8ball does Chase start exploring the ship?
+t!8ball does Chase start exploring the ship?
 
 **Tatsumaki** _(11-Nov-18 03:14 PM)_
 
@@ -706,7 +706,7 @@ Alright. I'll take one.
 
 **Zander** _(11-Nov-18 03:16 PM)_
 
-> t!8ball Does Emmett "accidentally" brush along one of Maia's wings while walking back towards the shipping compartment?
+t!8ball Does Emmett "accidentally" brush along one of Maia's wings while walking back towards the shipping compartment?
 
 **Tatsumaki** _(11-Nov-18 03:16 PM)_
 
@@ -716,7 +716,7 @@ Alright. I'll take one.
 
 **Brakia** _(11-Nov-18 03:16 PM)_
 
-> t!8ball Does Sanya test out her powers of Dread?
+t!8ball Does Sanya test out her powers of Dread?
 
 **Tatsumaki** _(11-Nov-18 03:16 PM)_
 
@@ -726,7 +726,7 @@ Alright. I'll take one.
 
 **Brakia** _(11-Nov-18 03:16 PM)_
 
-> t!8ball Does Sanya test out her powers of Dread?
+t!8ball Does Sanya test out her powers of Dread?
 
 **Tatsumaki** _(11-Nov-18 03:16 PM)_
 
@@ -742,7 +742,7 @@ Alright. I'll take one.
 
 **Enchantingtable2013** _(11-Nov-18 03:19 PM)_
 
-> t!8ball Does the air around Matieu begin to become very cold?
+t!8ball Does the air around Matieu begin to become very cold?
 
 **Tatsumaki** _(11-Nov-18 03:19 PM)_
 
@@ -780,7 +780,7 @@ Alright. I'll take one.
 
 **Platinum_Pathos** _(11-Nov-18 03:20 PM)_
 
-> t!8ball Will Danny greet everybody with 78 dabs collectively?
+t!8ball Will Danny greet everybody with 78 dabs collectively?
 
 **Tatsumaki** _(11-Nov-18 03:20 PM)_
 
@@ -853,7 +853,7 @@ Alright. I'll take one.
 
 **ProfessorTree** _(11-Nov-18 03:24 PM)_
 
-> t!8ball does Chase notice anyone else?
+t!8ball does Chase notice anyone else?
 
 **Tatsumaki** _(11-Nov-18 03:24 PM)_
 
@@ -928,7 +928,7 @@ Alright. I'll take one.
 
 **Brakia** _(11-Nov-18 03:29 PM)_
 
-> t!8ball Does Sanya head to her room to test out her powers of Dread?
+t!8ball Does Sanya head to her room to test out her powers of Dread?
 
 **Tatsumaki** _(11-Nov-18 03:29 PM)_
 
@@ -980,7 +980,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 03:30 PM)_
 
-> dread comes out of sanya’s hand and calls everybody fat gay dead naked real fake naked dead dead naked fat
+> dread comes out of sanya's hand and calls everybody fat gay dead naked real fake naked dead dead naked fat
 
 **Brakia** _(11-Nov-18 03:31 PM)_
 
@@ -993,7 +993,7 @@ Alright. I'll take one.
 
 **Enchantingtable2013** _(11-Nov-18 03:31 PM)_
 
-> t!8ball Does Matieu feel the blue light coming from his eyes?
+t!8ball Does Matieu feel the blue light coming from his eyes?
 
 **Tatsumaki** _(11-Nov-18 03:31 PM)_
 
@@ -1044,7 +1044,7 @@ Alright. I'll take one.
 
 **Mica** _(11-Nov-18 03:33 PM)_
 
-> t!8ball Does maia quickly assist the avian?
+t!8ball Does maia quickly assist the avian?
 
 **ProfessorTree** _(11-Nov-18 03:34 PM)_
 
@@ -1052,7 +1052,7 @@ Alright. I'll take one.
 
 **Mica** _(11-Nov-18 03:34 PM)_
 
-> t!8ball Does maia quickly assist the avian?
+t!8ball Does maia quickly assist the avian?
 
 **Tatsumaki** _(11-Nov-18 03:34 PM)_
 
@@ -1067,7 +1067,7 @@ Alright. I'll take one.
 
 **Mica** _(11-Nov-18 03:34 PM)_
 
-> t!8ball Does maia quickly assist the avian?
+t!8ball Does maia quickly assist the avian?
 
 **Tatsumaki** _(11-Nov-18 03:34 PM)_
 
@@ -1136,7 +1136,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 03:37 PM)_
 
-> Hey guys. What’s this about Matieu not feeling so good?
+> Hey guys. What's this about Matieu not feeling so good?
 
 **Enchantingtable2013** _(11-Nov-18 03:37 PM)_
 
@@ -1192,7 +1192,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 03:39 PM)_
 
-> Well, I’m flattered, but I wouldn’t call myself a god.
+> Well, I'm flattered, but I wouldn't call myself a god.
 
 **Enchantingtable2013** _(11-Nov-18 03:39 PM)_
 
@@ -1220,7 +1220,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 03:39 PM)_
 
-> Oh, don’t be such a buzzkill.
+> Oh, don't be such a buzzkill.
 
 **Mica** _(11-Nov-18 03:39 PM)_
 
@@ -1263,7 +1263,7 @@ Alright. I'll take one.
 
 **Enchantingtable2013** _(11-Nov-18 03:42 PM)_
 
-> t!8ball Does the Entity slap Garrick off of the planet?
+t!8ball Does the Entity slap Garrick off of the planet?
 
 **Tatsumaki** _(11-Nov-18 03:42 PM)_
 
@@ -1277,7 +1277,7 @@ Alright. I'll take one.
 
 **Enchantingtable2013** _(11-Nov-18 03:42 PM)_
 
-> t!8ball Does the Entity slap Garrick off of the planet?
+t!8ball Does the Entity slap Garrick off of the planet?
 
 **Tatsumaki** _(11-Nov-18 03:42 PM)_
 
@@ -1316,7 +1316,7 @@ Alright. I'll take one.
 
 **Mica** _(11-Nov-18 03:43 PM)_
 
-> t!8ball Is Maia's time to go drawing near?
+t!8ball Is Maia's time to go drawing near?
 
 **Tatsumaki** _(11-Nov-18 03:43 PM)_
 
@@ -1483,7 +1483,7 @@ Alright. I'll take one.
 **RPretribution** _(11-Nov-18 03:48 PM)_
 
 > Garrick floats back to the group.
-> That wasn’t funny.
+> That wasn't funny.
 
 **ProfessorTree** _(11-Nov-18 03:48 PM)_
 
@@ -1560,7 +1560,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 03:51 PM)_
 
-> You’re certainly acting high.
+> You're certainly acting high.
 > All high and mighty, that is.
 
 **Enchantingtable2013** _(11-Nov-18 03:51 PM)_
@@ -1639,7 +1639,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 03:56 PM)_
 
-> t!8ball does garrick slap danny
+t!8ball does garrick slap danny
 
 **Tatsumaki** _(11-Nov-18 03:56 PM)_
 
@@ -1715,7 +1715,7 @@ Alright. I'll take one.
 
 **Zander** _(11-Nov-18 03:59 PM)_
 
-> t!8ball Does Danny have a multidimensional tongue?
+t!8ball Does Danny have a multidimensional tongue?
 
 **Tatsumaki** _(11-Nov-18 03:59 PM)_
 
@@ -1725,7 +1725,7 @@ Alright. I'll take one.
 
 **Zander** _(11-Nov-18 03:59 PM)_
 
-> t!8ball Does Danny have a multidimensional tongue?
+t!8ball Does Danny have a multidimensional tongue?
 
 **Tatsumaki** _(11-Nov-18 03:59 PM)_
 
@@ -1735,7 +1735,7 @@ Alright. I'll take one.
 
 **Brakia** _(11-Nov-18 04:00 PM)_
 
-> t!choose keep sitting | swim
+t!choose keep sitting | swim
 
 **Tatsumaki** _(11-Nov-18 04:00 PM)_
 
@@ -1755,7 +1755,7 @@ Alright. I'll take one.
 
 **Enchantingtable2013** _(11-Nov-18 04:01 PM)_
 
-> t!8ball Does Klux levitate over to Sanya?
+t!8ball Does Klux levitate over to Sanya?
 
 **Tatsumaki** _(11-Nov-18 04:01 PM)_
 
@@ -1801,7 +1801,7 @@ Alright. I'll take one.
 
 **Mica** _(11-Nov-18 04:03 PM)_
 
-> t!8ball Does Maia give Emmett his goodbye gift?
+t!8ball Does Maia give Emmett his goodbye gift?
 
 **Enchantingtable2013** _(11-Nov-18 04:04 PM)_
 
@@ -1824,8 +1824,8 @@ Alright. I'll take one.
 
 **Platinum_Pathos** _(11-Nov-18 04:04 PM)_
 
-> t!8ball Does Danny slap Garrick with his multidimensional tongue?
-> t!8ball Does Danny slap Garrick with his multidimensional tongue?
+t!8ball Does Danny slap Garrick with his multidimensional tongue?
+t!8ball Does Danny slap Garrick with his multidimensional tongue?
 
 **Tatsumaki** _(11-Nov-18 04:04 PM)_
 
@@ -1850,7 +1850,7 @@ Alright. I'll take one.
 
 **Platinum_Pathos** _(11-Nov-18 04:05 PM)_
 
-> t!8ball Does Danny slap Garrick with his multidimensional tongue?
+t!8ball Does Danny slap Garrick with his multidimensional tongue?
 
 **Tatsumaki** _(11-Nov-18 04:05 PM)_
 
@@ -1860,7 +1860,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 04:05 PM)_
 
-> THAT’S IT
+> THAT'S IT
 
 **Enchantingtable2013** _(11-Nov-18 04:05 PM)_
 
@@ -1889,7 +1889,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 04:06 PM)_
 
-> t!choose hammer | taser | marshmallow
+t!choose hammer | taser | marshmallow
 
 **Tatsumaki** _(11-Nov-18 04:06 PM)_
 
@@ -1953,7 +1953,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 04:11 PM)_
 
-> I’d insult you but I have no idea what your race is!
+> I'd insult you but I have no idea what your race is!
 
 **ProfessorTree** _(11-Nov-18 04:12 PM)_
 
@@ -1998,8 +1998,8 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 04:15 PM)_
 
-> Yeah well, I bet you don’t have infinite pockets, do you???
-> Yeah, that’s what I thought.
+> Yeah well, I bet you don't have infinite pockets, do you???
+> Yeah, that's what I thought.
 
 **Platinum_Pathos** _(11-Nov-18 04:15 PM)_
 
@@ -2050,7 +2050,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 04:19 PM)_
 
-> I haven’t seen a female ghost in at least 287 years. It’s not really a priority.
+> I haven't seen a female ghost in at least 287 years. It's not really a priority.
 
 **Mica** _(11-Nov-18 04:19 PM)_
 
@@ -2070,7 +2070,7 @@ Alright. I'll take one.
 
 **ProfessorTree** _(11-Nov-18 04:20 PM)_
 
-> t!8ball does Chase walk into the room just as Maia is leaving?
+t!8ball does Chase walk into the room just as Maia is leaving?
 
 **Tatsumaki** _(11-Nov-18 04:20 PM)_
 
@@ -2088,7 +2088,7 @@ Alright. I'll take one.
 
 **RPretribution** _(11-Nov-18 04:21 PM)_
 
-> That’s not how ghosts work. And you don’t look like you get much action either.
+> That's not how ghosts work. And you don't look like you get much action either.
 
 **ProfessorTree** _(11-Nov-18 04:21 PM)_
 
@@ -2321,7 +2321,7 @@ Alright. I'll take one.
 
 **Bagelwrecker** _(19-Nov-18 03:38 PM)_
 
-> t!8ball Are we at a space station in U-Vega?
+t!8ball Are we at a space station in U-Vega?
 
 **Tatsumaki** _(19-Nov-18 03:38 PM)_
 
@@ -2331,7 +2331,7 @@ Alright. I'll take one.
 
 **Bagelwrecker** _(19-Nov-18 03:38 PM)_
 
-> t!8ball Are we at a space station in U-Vega?
+t!8ball Are we at a space station in U-Vega?
 
 **Tatsumaki** _(19-Nov-18 03:38 PM)_
 
@@ -2349,7 +2349,7 @@ Alright. I'll take one.
 
 **Zander** _(19-Nov-18 03:39 PM)_
 
-> t!8ball Does Emmett turn in the tickets?
+t!8ball Does Emmett turn in the tickets?
 
 **Tatsumaki** _(19-Nov-18 03:39 PM)_
 
@@ -2367,7 +2367,7 @@ Alright. I'll take one.
 
 **Deyner** _(19-Nov-18 03:40 PM)_
 
-> t!8ball Does Deyner wake up from his nap?
+t!8ball Does Deyner wake up from his nap?
 
 **Tatsumaki** _(19-Nov-18 03:40 PM)_
 
@@ -2381,7 +2381,7 @@ Alright. I'll take one.
 
 **Deyner** _(19-Nov-18 03:41 PM)_
 
-> t!8ball Does Deyner wake up from his nap?
+t!8ball Does Deyner wake up from his nap?
 
 **Tatsumaki** _(19-Nov-18 03:41 PM)_
 
@@ -2428,7 +2428,7 @@ Alright. I'll take one.
 
 **Brakia** _(19-Nov-18 03:44 PM)_
 
-> t!8ball Does Sanya look at the gift shop?
+t!8ball Does Sanya look at the gift shop?
 
 **Tatsumaki** _(19-Nov-18 03:44 PM)_
 
@@ -2447,7 +2447,7 @@ Alright. I'll take one.
 
 **Bagelwrecker** _(19-Nov-18 03:45 PM)_
 
-> t!8ball Does Seth go get laid?
+t!8ball Does Seth go get laid?
 
 **Tatsumaki** _(19-Nov-18 03:45 PM)_
 
@@ -2457,7 +2457,7 @@ Alright. I'll take one.
 
 **Bagelwrecker** _(19-Nov-18 03:45 PM)_
 
-> t!8ball Does Seth go get laid?
+t!8ball Does Seth go get laid?
 
 **Tatsumaki** _(19-Nov-18 03:45 PM)_
 
@@ -2467,7 +2467,8 @@ Alright. I'll take one.
 
 **Zander** _(19-Nov-18 03:45 PM)_
 
-> t!8ball Are we at a space station in U-Vega?
+t!8ball Are we at a space station in U-Vega?
+
 > @Deyner
 
 **Deyner** _(19-Nov-18 03:45 PM)_
@@ -2514,11 +2515,11 @@ Alright. I'll take one.
 **Deyner** _(19-Nov-18 03:48 PM)_
 
 > looks around
-> Ughh shouldn’t have gotten drunk
+> Ughh shouldn't have gotten drunk
 
 **Zander** _(19-Nov-18 03:48 PM)_
 
-> t!8ball Does Seth begrudgingly fill the tank up?
+t!8ball Does Seth begrudgingly fill the tank up?
 
 **Tatsumaki** _(19-Nov-18 03:48 PM)_
 
@@ -2541,7 +2542,7 @@ Alright. I'll take one.
 
 **Deyner** _(19-Nov-18 03:50 PM)_
 
-> (my character doesn’t know that, he just woke up
+> (my character doesn't know that, he just woke up
 
 **Brakia** _(19-Nov-18 03:50 PM)_
 
@@ -2561,7 +2562,7 @@ Alright. I'll take one.
 **Deyner** _(19-Nov-18 03:52 PM)_
 
 > gets up
-> ok I’ll be right out. Do you know where Seth is?
+> ok I'll be right out. Do you know where Seth is?
 
 **Brakia** _(19-Nov-18 03:52 PM)_
 
@@ -2636,7 +2637,7 @@ Alright. I'll take one.
 
 **Bagelwrecker** _(19-Nov-18 04:01 PM)_
 
-> t!8ball Does Seth see a very pretty woman that give him big boner?
+t!8ball Does Seth see a very pretty woman that give him big boner?
 
 **Tatsumaki** _(19-Nov-18 04:01 PM)_
 

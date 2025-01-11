@@ -406,11 +406,11 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I’m a bit tired, but not injured."
+                    "text": "I'm a bit tired, but not injured."
                 },
                 {
                     "type": "command",
-                    "text": "t!8ball Does a bird land on Iris’ head?"
+                    "text": "t!8ball Does a bird land on Iris' head?"
                 }
             ]
         },
@@ -432,7 +432,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "It’s a bird..."
+                    "text": "It's a bird..."
                 },
                 {
                     "type": "action",
@@ -979,7 +979,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Because I didn’t know they would leave you there."
+                    "text": "Because I didn't know they would leave you there."
                 },
                 {
                     "type": "action",
@@ -1083,7 +1083,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Don’t eat Qrow, Sanya!"
+                    "text": "Don't eat Qrow, Sanya!"
                 }
             ]
         },
@@ -1662,7 +1662,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "... But the archidemons had a myth of a supremely unlucky being that turned into a crow. I wasn’t going to take chances."
+                    "text": "... But the archidemons had a myth of a supremely unlucky being that turned into a crow. I wasn't going to take chances."
                 },
                 {
                     "type": "action",
@@ -2130,7 +2130,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Don’t do that."
+                    "text": "Don't do that."
                 }
             ]
         },
@@ -2409,7 +2409,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "It’s someone who raises you and loves you and supports you!"
+                    "text": "It's someone who raises you and loves you and supports you!"
                 }
             ]
         },
@@ -2620,7 +2620,7 @@
             "date": "04-Sep-18 02:52 PM",
             "content": [
                 {
-                    "type": "quote",
+                    "type": "command",
                     "text": "t!8ball Does Sanya pick Emmett up and let him suckle on her breast?"
                 }
             ]
@@ -2673,7 +2673,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Now I wish I hadn’t set Qrow on fire."
+                    "text": "Now I wish I hadn't set Qrow on fire."
                 }
             ]
         },
@@ -3159,7 +3159,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I’ll hold him."
+                    "text": "I'll hold him."
                 },
                 {
                     "type": "action",
@@ -3315,7 +3315,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "It won’t matter in like ten to fifteen minutes."
+                    "text": "It won't matter in like ten to fifteen minutes."
                 },
                 {
                     "type": "action",
@@ -3628,7 +3628,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Please tell me he just didn’t spit it all out..."
+                    "text": "Please tell me he just didn't spit it all out..."
                 },
                 {
                     "type": "action",
@@ -3904,7 +3904,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Great. You’re cured."
+                    "text": "Great. You're cured."
                 },
                 {
                     "type": "action",
@@ -3972,7 +3972,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Wouldn’t it take time to take effect?"
+                    "text": "Wouldn't it take time to take effect?"
                 }
             ]
         },
@@ -4346,7 +4346,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "I’m just going to sit down. I’m too tired for this..."
+                    "text": "I'm just going to sit down. I'm too tired for this..."
                 }
             ]
         },
@@ -4574,7 +4574,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Hi. I’m Iris and I am so sick of all the weirdness."
+                    "text": "Hi. I'm Iris and I am so sick of all the weirdness."
                 }
             ]
         },
@@ -5388,7 +5388,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "What’s what all about?"
+                    "text": "What's what all about?"
                 }
             ]
         },
@@ -5418,7 +5418,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Yes. There was a gas leak in the planet’s core and it blew up."
+                    "text": "Yes. There was a gas leak in the planet's core and it blew up."
                 }
             ]
         },
@@ -5856,7 +5856,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "You called me a light elf. I’m half archidemon. Don’t forget that!"
+                    "text": "You called me a light elf. I'm half archidemon. Don't forget that!"
                 }
             ]
         },
@@ -5905,7 +5905,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Then we’ll stay here until we get one..."
+                    "text": "Then we'll stay here until we get one..."
                 },
                 {
                     "type": "action",
@@ -6583,7 +6583,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Don’t make me set your pants on fire!"
+                    "text": "Don't make me set your pants on fire!"
                 }
             ]
         },
@@ -7501,7 +7501,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Don’t make me do it."
+                    "text": "Don't make me do it."
                 }
             ]
         },
@@ -8086,7 +8086,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Wouldn’t I?"
+                    "text": "Wouldn't I?"
                 }
             ]
         },
@@ -8488,7 +8488,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "I get to see my parents, my cousin, my best friend, my aunt, my uncle. I don’t fear death."
+                    "text": "I get to see my parents, my cousin, my best friend, my aunt, my uncle. I don't fear death."
                 }
             ]
         },
@@ -8585,7 +8585,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "t!8ball Does Iris’s anger at the new knowledge that her planet was intentionally blown up make her more scary?"
+                    "text": "t!8ball Does Iris's anger at the new knowledge that her planet was intentionally blown up make her more scary?"
                 }
             ]
         },
@@ -8689,7 +8689,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "I just found out someone orchestrated the murder of everyone I ever knew and loved. You don’t wanna screw with me right now."
+                    "text": "I just found out someone orchestrated the murder of everyone I ever knew and loved. You don't wanna screw with me right now."
                 }
             ]
         },
@@ -8741,7 +8741,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "What’s your point?"
+                    "text": "What's your point?"
                 }
             ]
         },
@@ -9168,7 +9168,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "My fire can’t be extinguished."
+                    "text": "My fire can't be extinguished."
                 },
                 {
                     "type": "action",
@@ -9176,7 +9176,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "It’s dangerous..."
+                    "text": "It's dangerous..."
                 }
             ]
         },
@@ -9308,7 +9308,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "And no, magic fire can’t be extinguished."
+                    "text": "And no, magic fire can't be extinguished."
                 }
             ]
         },
@@ -9632,7 +9632,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Great, now she’s not trying to murder anyone."
+                    "text": "Great, now she's not trying to murder anyone."
                 }
             ]
         },
@@ -9846,7 +9846,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "That’s dangerous. Maybe don’t do that?"
+                    "text": "That's dangerous. Maybe don't do that?"
                 }
             ]
         },
@@ -9916,7 +9916,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Please, don’t do that."
+                    "text": "Please, don't do that."
                 }
             ]
         },
@@ -9946,7 +9946,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I’m pretty sure it’s bad for your health though."
+                    "text": "I'm pretty sure it's bad for your health though."
                 }
             ]
         },
@@ -10413,7 +10413,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "He wasn’t scared of my fire. I wasn’t sure what to do."
+                    "text": "He wasn't scared of my fire. I wasn't sure what to do."
                 }
             ]
         },
@@ -10457,7 +10457,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "That’s great, Seth!"
+                    "text": "That's great, Seth!"
                 }
             ]
         },
@@ -10494,7 +10494,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "He said he’d come back."
+                    "text": "He said he'd come back."
                 }
             ]
         },
@@ -10662,7 +10662,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I’m like the easiest person to kill, all you have to do is take off my necklace."
+                    "text": "I'm like the easiest person to kill, all you have to do is take off my necklace."
                 }
             ]
         },
@@ -10740,7 +10740,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Wow. Got it. I promise I won’t cry."
+                    "text": "Wow. Got it. I promise I won't cry."
                 },
                 {
                     "type": "action",
@@ -10792,7 +10792,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "We’re all unharmed."
+                    "text": "We're all unharmed."
                 },
                 {
                     "type": "action",
@@ -11011,7 +11011,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I’m gonna hazard a guess and say that’s bad."
+                    "text": "I'm gonna hazard a guess and say that's bad."
                 }
             ]
         },

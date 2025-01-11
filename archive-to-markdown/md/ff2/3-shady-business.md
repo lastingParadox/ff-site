@@ -1200,7 +1200,7 @@ _Serpile squeezes his way out of the fat man's rear and exhales in relief._
 
 **PlasmaPerson** _(24-Jun-18 06:44 PM)_
 
-> t!choose Asier and Serpile enter combat with the fat man | The fat man is not angry | The fat man is still chasing but Asier and Serpile escape onto the ship
+t!choose Asier and Serpile enter combat with the fat man | The fat man is not angry | The fat man is still chasing but Asier and Serpile escape onto the ship
 
 **Tatsumaki** _(24-Jun-18 06:44 PM)_
 

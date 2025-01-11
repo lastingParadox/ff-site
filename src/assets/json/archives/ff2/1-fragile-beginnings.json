@@ -4,50 +4,53 @@
     "short_desc": "The crew ends up at a space station and picks up a few bounties.",
     "blocks": [
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:22 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does Emmett open up the ship entrance?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:22 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:25 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | You may rely on it, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:25 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:25 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Long rides call for long rest."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:25 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:26 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Damn straight boi"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:26 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:26 PM",
             "content": [
                 {
                     "type": "quote",
@@ -57,56 +60,56 @@
                     "type": "command",
                     "text": "t!8ball Does Seth walk off to go look around?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:26 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:26 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Ask again later, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:26 PM"
+            ]
         },
         {
-            "content": [
-                {
-                    "type": "quote",
-                    "text": "t!8ball Do I look in the fridge?"
-                }
-            ],
             "player": "Maxwell",
             "character": "Matthias",
-            "date": "21-Jun-18 06:28 PM"
+            "date": "21-Jun-18 06:28 PM",
+            "content": [
+                {
+                    "type": "command",
+                    "text": "t!8ball Do I look in the fridge?"
+                }
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:28 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Outlook not so good, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:28 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:28 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Is sex the only thing on your mind, man?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:28 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:29 PM",
             "content": [
                 {
                     "type": "quote",
@@ -120,23 +123,23 @@
                     "type": "quote",
                     "text": "Maybe a handjob"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:29 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:29 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "A han-of course."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:29 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:30 PM",
             "content": [
                 {
                     "type": "quote",
@@ -146,34 +149,34 @@
                     "type": "quote",
                     "text": "So many jobs"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:30 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:30 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do i check the ship's logs?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 06:30 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:30 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | As I see it, yes, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:30 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:31 PM",
             "content": [
                 {
                     "type": "quote",
@@ -183,23 +186,23 @@
                     "type": "command",
                     "text": "t!8ball does Laav go inside?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:31 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:31 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Most likely, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:31 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:31 PM",
             "content": [
                 {
                     "type": "quote",
@@ -209,56 +212,56 @@
                     "type": "command",
                     "text": "t!8ball Does Emmett scrounge in the fridge?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:31 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:32 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Without a doubt, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:32 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:32 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Definitely. No sexy ladies."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:32 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:33 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "And we've nothing but a single jar of pickles..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:33 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:33 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'll take those."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:33 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:33 PM",
             "content": [
                 {
                     "type": "quote",
@@ -268,34 +271,34 @@
                     "type": "quote",
                     "text": "Why don't you just worry about hiring some space prostitute?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:33 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:33 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Space crabs"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:33 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:33 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Sounds like a plan to me."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:33 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:34 PM",
             "content": [
                 {
                     "type": "quote",
@@ -305,155 +308,155 @@
                     "type": "quote",
                     "text": "Isn't that like an STD or something?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:34 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:34 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I meant get some space hookers."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:34 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:34 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does Seth leave the ship with pickles in hand in search of a handjob and a job?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:34 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:34 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Better not tell you now, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:34 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:35 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I devour half the jar of pickles?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:35 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:35 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Don't count on it, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:35 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:35 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do i eat a pickle?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 06:35 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:35 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Ask again later, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:35 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:35 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I found a beer!"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:35 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Mmmmm."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:36 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I don't drink bro, enjoy that."
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:36 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:36 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I eat the pickles?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:36 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:36 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Most likely, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:36 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I could do with some of that."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:36 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:36 PM",
             "content": [
                 {
                     "type": "quote",
@@ -463,144 +466,144 @@
                     "type": "quote",
                     "text": "GET YOUR ASS OVER HERE."
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:36 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Especially since rock man here ate all my pickles"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:36 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Oh, I'm shaking in my boots."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:36 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:37 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I shove Matthias out of the way whilst carrying the beer and go out?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:37 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:37 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | It is decidedly so, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:37 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:37 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I intimidate Matthias?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:37 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:37 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Concentrate and ask again, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:37 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:37 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I intimidate Matthias?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:37 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:37 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Signs point to yes, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:37 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:37 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does Seth leave the ship with Emmett in search of a handjob and a job?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:37 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:37 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Outlook good, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:37 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:38 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Don't get wasted, you hear?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:38 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:38 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Too late."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:38 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:38 PM",
             "content": [
                 {
                     "type": "quote",
@@ -610,232 +613,232 @@
                     "type": "quote",
                     "text": "You need to go to AA?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:38 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:39 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You cunt."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:39 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:39 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I exit the ship?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:39 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:39 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Concentrate and ask again, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:39 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:39 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Hey, be glad I didn't smoke any of your space weed."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:39 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:39 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "It's grass, you idiot."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:39 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:39 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Dealers are getting scarcer these days."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:39 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:40 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I tell you, it's grass. I'm off the smoking for now."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:40 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:40 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do i eat a pickle"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 06:40 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:40 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Very doubtful, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:40 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:40 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I exit the ship to follow Seth and Emmett?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:40 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:40 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Signs point to yes, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:40 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:40 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Mmm. Yeah it's pretty bad habit."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:40 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I feel warmer all of a sudden."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:41 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "'Sup, nerds."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:41 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Rock man, go refill that jar for us."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:41 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You scare me sometimes, Laav."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:41 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Seth, I have a name you know."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:41 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:41 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You can have some pickles later."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:41 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:41 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Is there a Pickle Dispenser on the space station?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:41 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:41 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Concentrate and ask again, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:41 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:42 PM",
             "content": [
                 {
                     "type": "quote",
@@ -845,56 +848,56 @@
                     "type": "quote",
                     "text": "You're still our favorite brute."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:42 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:42 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Laav, are you buying anything?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:42 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:43 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does Seth go look for a job on the job board?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:43 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:43 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | My sources say no, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:43 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:43 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "No, I think we should try and look for a job."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:43 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:43 PM",
             "content": [
                 {
                     "type": "quote",
@@ -904,100 +907,100 @@
                     "type": "quote",
                     "text": "I want to fuck something"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:43 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:43 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We don't have much cash, now do we?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:43 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:43 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "There's a rubber ducky on the ground, if you want to do that in the ship, Seth."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:43 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:43 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I go out in to deep space?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:43 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:43 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | My sources say no, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:43 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:44 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do i head back to the ship"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 06:44 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:44 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Signs point to yes, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:44 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:45 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball does Seth pick up the rubber ducky and begin to wanky-wanky?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:45 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:45 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | As I see it, yes, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:45 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:45 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1007,254 +1010,254 @@
                     "type": "quote",
                     "text": "Seriously?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:45 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:45 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "What the hell?!"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:45 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:45 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Not my fault. When I gotta' sex, I gotta' sex."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:45 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:46 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does Emmett head toward the Mission Board?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:46 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:46 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | You may rely on it, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:46 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:46 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Is the rubber ducky actually a woman?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:46 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:46 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | As I see it, yes, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:46 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:46 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "This was a good vagina."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:46 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:47 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "... I am disgusted."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:47 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:47 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'll pocket this for later."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:47 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:48 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I exit the ship and go to deep space?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:48 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:48 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | It is certain, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:48 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:48 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Nothing worth enough, man..."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:48 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:48 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Hmmmmmmmmmmm."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:48 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:49 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Here's an idea: how about we stop fucking rubber ducks and look for a job?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:49 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:49 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Maybe we can make a prostitution ring?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:49 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:49 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'm over here doing that!"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:49 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:49 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'm going to check on the ship's engine."
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 06:49 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:49 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Here's an idea for you rockman: I'm the captain, so fuck off."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:49 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:50 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I suggest you back up before I melt you."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:50 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:50 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I fucked ur boulder of a mum."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:50 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:50 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do i check the ship's engines"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 06:50 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:50 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Reply hazy try again, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:50 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:50 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1264,133 +1267,133 @@
                     "type": "command",
                     "text": "t!8ball do I intimidate Seth?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:50 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:50 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Don't count on it, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:50 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:51 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I've met Seth's mom before. Not a nice woman."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:51 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:51 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I intimidate Seth?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:51 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:51 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | You may rely on it, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:51 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:51 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I use my charisma to make Laav start crossdressing?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:51 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:51 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yes, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:51 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:52 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Screw you two, we need to find a job."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:52 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:52 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Bleee bleee blah blah. Go do it for us."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:52 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:52 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Wait...why do I feel a sudden urge to put on panties?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:52 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 06:52 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does Emmett take up a mission that takes place in the space station?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 06:52 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:52 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Ask again later, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:52 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:52 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1400,45 +1403,45 @@
                     "type": "command",
                     "text": "t!8ball Does Seth take up a mission that takes place in the space station?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:52 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:53 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | My reply is no, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:53 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:54 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I see a pocketwatch float through my view?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:54 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:54 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Ask again later, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:54 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:54 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1448,56 +1451,56 @@
                     "type": "command",
                     "text": "t!8ball Do i check what Laav is doing?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 06:54 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:54 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Don't count on it, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:54 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:55 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Anyways I'm going to go look at the mission board with Emmett."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:55 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:55 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I walk up to the job board and take a job that takes place on a nearby planet?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:55 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:55 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Don't count on it, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:55 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:55 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1507,287 +1510,287 @@
                     "type": "command",
                     "text": "t!8ball do I walk up to the job board and take a job that takes place on this station?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:55 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:56 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Without a doubt, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:56 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:57 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Hey Emmett look at this when you get a chance. It's got sexy women."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:57 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 06:57 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I didn't know that mops classified as sexy women."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 06:57 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 06:58 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Depends on the mops I'm fucking."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 06:58 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:58 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do i see a pocketwatch float into my view?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:58 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:58 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yes, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:58 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 06:58 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Cooooollll...."
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 06:58 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 06:59 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I exit the ship?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 06:59 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 06:59 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Concentrate and ask again, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 06:59 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:00 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "How about a job with a higher pay?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:00 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:00 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "How about no."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:00 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:00 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I take a job with a high pay that takes place on a nearby planet?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:00 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:00 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | As I see it, yes, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:00 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:01 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Are we out of fuel?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:01 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:01 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yes, definitely, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:01 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:01 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Like this one. This one looks good."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:01 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:01 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Fuel is kinda expensive these days."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:01 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:01 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I grab the pocketwatch?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:01 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:01 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Cannot predict now, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:01 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:02 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I exit the ship?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:02 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:02 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | As I see it, yes, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:02 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We need food and water more than fuel, so lets do the job that takes place here first."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:02 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "What took you so long Serpile?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:02 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We also can get sexy ladies."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:02 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:02 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Fine. But we're doing this one next."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:02 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:03 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1801,12 +1804,12 @@
                     "type": "quote",
                     "text": "What's the mission specify?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:03 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:04 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1816,12 +1819,12 @@
                     "type": "quote",
                     "text": "Sounds easy enough."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:04 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:04 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1835,23 +1838,23 @@
                     "type": "quote",
                     "text": "Here's a better idea. We take the job and we steal said artifact then kill the grand elder."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:04 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:05 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Maybe we can steal it for a third time and sell it on the black market? Heh heh."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:05 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:05 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1861,78 +1864,78 @@
                     "type": "quote",
                     "text": "We can maybe get 50,000 D's"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:05 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:05 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Yeah, we'll steal it, turn it in, assassinate the old coot, and triple our gain."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:05 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:06 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I use my charisma on a female and bring her to my captain's quarters?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:06 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:06 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yes, definitely, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:06 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:06 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "But we do that after this job and after I have sex with this woman."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:06 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:07 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I grab the Pocketwatch?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:07 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:07 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Outlook good, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:07 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:07 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1942,23 +1945,23 @@
                     "type": "quote",
                     "text": "Almost blinding."
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:07 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:07 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "What are you two doing?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:07 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:07 PM",
             "content": [
                 {
                     "type": "quote",
@@ -1972,67 +1975,67 @@
                     "type": "quote",
                     "text": "Easy one first, then we get fuel and steal some artifact back for \"The Grand Elder.\""
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:07 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:08 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Any of those require a... Mechanical touch?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:08 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:09 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Maybe, I don't have a clue."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:09 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:09 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I head back to the ship?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:09 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:09 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yes, definitely, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:09 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:09 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'll be on the ship."
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:09 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:10 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2042,144 +2045,144 @@
                     "type": "command",
                     "text": "t!8ball do I read the job that takes place here?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:10 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:11 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | It is decidedly so, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:11 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:11 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Is Emmett anywhere to be seen by the others?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:11 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:11 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Most likely, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:11 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:12 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Let's finish this up, I have a little bit of work to do."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:12 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Random Woman",
+            "date": "21-Jun-18 07:12 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Of course."
                 }
-            ],
-            "player": "Sean",
-            "character": "Random Woman",
-            "date": "21-Jun-18 07:12 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:12 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We just gotta' clean up the place."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:12 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:12 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Hey, guys? I'm going to do this other thing solo. Only gives like 200 D, but we can fuel like three quarters of the tank with it."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:12 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:12 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Shouldn't take long. It should get us enough cash to buy some food and fuel."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:12 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:12 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does the woman attack me for my plans to kill the Elder?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:12 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:12 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | You may rely on it, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:12 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:12 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Sounds good."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:12 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:13 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "FUCK!"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:13 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:13 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2189,133 +2192,133 @@
                     "type": "quote",
                     "text": "I dunno where the hospital is on these things."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:13 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:14 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I draw my Desert Eagle and fire a shot to her chest?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:14 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:14 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Outlook not so good, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:14 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:14 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I now awaken with a mark on my hand?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:14 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:14 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Concentrate and ask again, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:14 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:14 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I draw my Desert Eagle and fire a shot to her chest?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:14 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:14 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | It is decidedly so, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:14 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:14 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Fucking hell, woman!"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:14 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:14 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Was that a gunshot?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:14 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:15 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do i check on Seth?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:15 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:15 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Better not tell you now, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:15 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Random Woman",
+            "date": "21-Jun-18 07:15 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You think a simple gunshot can kill the Grand Elder's Daughter?!"
                 }
-            ],
-            "player": "Zander",
-            "character": "Random Woman",
-            "date": "21-Jun-18 07:15 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:15 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2325,111 +2328,111 @@
                     "type": "command",
                     "text": "t!8ball Do I convince her my sperm is acidic?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:15 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:16 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yes, definitely, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:16 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Grand Elder's Daughter",
+            "date": "21-Jun-18 07:16 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I bathe in acid, you twit."
                 }
-            ],
-            "player": "Zander",
-            "character": "Grand Elder's Daughter",
-            "date": "21-Jun-18 07:16 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:16 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Hot."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:16 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:16 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I go into the Captain's Quarters to see what the gunshot was?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:16 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:16 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | My sources say no, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:16 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:17 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does Emmett find the man and the floating vehicle with him?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:17 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:17 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Very doubtful, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:17 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:17 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Um, I also have space crabs and space aids."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:17 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:17 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "This guy didn't provide coordinates!"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:17 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:17 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2439,56 +2442,56 @@
                     "type": "quote",
                     "text": "Should of read the fine print."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:17 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Grand Elder's Daughter",
+            "date": "21-Jun-18 07:17 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I mean, I have space crabs too."
                 }
-            ],
-            "player": "Zander",
-            "character": "Grand Elder's Daughter",
-            "date": "21-Jun-18 07:17 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:18 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I throw her out of the window and abscond?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:18 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:18 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Very doubtful, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:18 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:19 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Hey, anyone there?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:19 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:19 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2502,320 +2505,320 @@
                     "type": "quote",
                     "text": "Stay, woman."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:19 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:19 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I now awaken with a mark on my hand?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:19 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:19 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Cannot predict now, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:19 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:19 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Anyone? I can't read these numbers."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:19 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:20 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Can't right now Emmett, currently fucking the daughter of some god or shit."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:20 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:20 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I doubt it."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:20 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:20 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do i check on all of the ships's programs?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:20 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:20 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | It is decidedly so, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:20 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:21 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I go check on Seth?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:21 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:21 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Signs point to yes, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:21 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Grand Elder's Daughter",
+            "date": "21-Jun-18 07:21 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'm going to fucking kill you for disgracing my father!"
                 }
-            ],
-            "player": "Zander",
-            "character": "Grand Elder's Daughter",
-            "date": "21-Jun-18 07:21 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:21 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Seth, what the hell are you doing?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:21 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:21 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Maybe fighting with my new wife."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:21 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:21 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does the man Emmett needs to hospitalize latch onto his back?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:21 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:21 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Yes, definitely, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:21 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:21 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Doesn't sound like a good relationship."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:21 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:22 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "What the hell?!"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:22 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:22 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I kick her out a window and shoot her a few times?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:22 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:22 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Without a doubt, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:22 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:22 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Fuck you."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:22 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I wake up with a mark on my hand?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | You may rely on it, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "No space thots up in this here ship!"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Go to the medic's place."
                 }
-            ],
-            "player": "Zander",
-            "character": "Hospital Guy",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Any vehicle?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Grand Elder's Daughter",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I'll get you for this!"
                 }
-            ],
-            "player": "Sean",
-            "character": "Grand Elder's Daughter",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Yeah, you."
                 }
-            ],
-            "player": "Zander",
-            "character": "Hospital Guy",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "That's a nice nap."
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We'll fuck later, have a great day."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:23 PM",
             "content": [
                 {
                     "type": "action",
@@ -2825,12 +2828,12 @@
                     "type": "quote",
                     "text": "Fuck me."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:23 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:24 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2840,78 +2843,78 @@
                     "type": "command",
                     "text": "t!8ball Do I check on Seth?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:24 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:24 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Concentrate and ask again, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:24 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:24 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Anyways."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:24 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:24 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You want me to kill her before she goes and tells her pops?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:24 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:24 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Nah."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:24 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:24 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "I think I should."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:24 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:24 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "What happened in here?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:24 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:25 PM",
             "content": [
                 {
                     "type": "quote",
@@ -2921,12 +2924,12 @@
                     "type": "quote",
                     "text": "So I'd keep her alive. Well worth the space crabs."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:25 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:25 PM",
             "content": [
                 {
                     "type": "action",
@@ -2936,23 +2939,23 @@
                     "type": "quote",
                     "text": "Turns out her vagina was moist from the space crab nest."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:25 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:25 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "That doesn't answer my question."
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:25 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:27 PM",
             "content": [
                 {
                     "type": "action",
@@ -2962,78 +2965,78 @@
                     "type": "quote",
                     "text": "Humina humina!"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:27 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:27 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "He was banging the daughter of our assassination target."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:27 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:27 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Not an assassination target."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:27 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:28 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Just can't keep it in your pants, can you?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:28 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:28 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "He's the guy we're killing later. But he doesn't have a bounty as far as I know."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:28 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:28 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do I chase after the \"space thot\"?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:28 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:28 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Better not tell you now, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:28 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:28 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3043,166 +3046,166 @@
                     "type": "command",
                     "text": "t!8ball Does Emmett start to tire out about halfway to the medic's station?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:28 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:29 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Better not tell you now, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:29 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:29 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "How far is this place?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:29 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:29 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Anyways we got ladies to bone and not a lot of time."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:29 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:30 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "As far as you want it to be, cattle."
                 }
-            ],
-            "player": "Zander",
-            "character": "Hospital Guy",
-            "date": "21-Jun-18 07:30 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:30 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Let's get this bodyguard mission over with."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:30 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:30 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "What's this mark?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:30 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:30 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You're bleeding on my fur now."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:30 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:30 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Not my fault."
                 }
-            ],
-            "player": "Zander",
-            "character": "Hospital Guy",
-            "date": "21-Jun-18 07:30 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:31 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Shut up Matthias and help us with this mission."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:31 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:31 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Fine...?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:31 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:32 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Do we all leave the ship leaving Serpile behind?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:32 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:32 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Signs point to yes, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:32 PM"
+            ]
         },
         {
+            "player": "Maxwell",
+            "character": "Matthias",
+            "date": "21-Jun-18 07:32 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball When I clench my fist, does the mark light up?"
                 }
-            ],
-            "player": "Maxwell",
-            "character": "Matthias",
-            "date": "21-Jun-18 07:32 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:32 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | My sources say no, Enchantingtable2013."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:32 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:32 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3212,12 +3215,12 @@
                     "type": "quote",
                     "text": "Mission starts at 1300. It's currently 1100."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:32 PM"
+            ]
         },
         {
+            "player": "Brody",
+            "character": "Serpile",
+            "date": "21-Jun-18 07:33 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3227,56 +3230,56 @@
                     "type": "command",
                     "text": "t!8ball Do I change into my Kimono?"
                 }
-            ],
-            "player": "Brody",
-            "character": "Serpile",
-            "date": "21-Jun-18 07:33 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:34 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Without a doubt, Brakia64."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:34 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:34 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "We have two hours to buy stuff we need."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:34 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:34 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Those pickles made me tired."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:34 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:34 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "You're killing my back."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:34 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:34 PM",
             "content": [
                 {
                     "type": "quote",
@@ -3286,109 +3289,106 @@
                     "type": "quote",
                     "text": "It'll help."
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:34 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:35 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball do I go to my quarters and go to sleep?"
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:35 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:35 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | Better not tell you now, ProfessorTree."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:35 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:35 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Is Emmett starting to tire?"
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:35 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:35 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | It is certain, Zander."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:35 PM"
+            ]
         },
         {
+            "player": "Silas",
+            "character": "Laav",
+            "date": "21-Jun-18 07:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Screw fate. I'm taking a nap."
                 }
-            ],
-            "player": "Silas",
-            "character": "Laav",
-            "date": "21-Jun-18 07:36 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Emmett",
+            "date": "21-Jun-18 07:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Frick."
                 }
-            ],
-            "player": "Zander",
-            "character": "Emmett",
-            "date": "21-Jun-18 07:36 PM"
+            ]
         },
         {
+            "player": "Zander",
+            "character": "Hospital Guy",
+            "date": "21-Jun-18 07:36 PM",
             "content": [
                 {
                     "type": "quote",
                     "text": "Too immature to say \"fuck\"."
                 }
-            ],
-            "player": "Zander",
-            "character": "Hospital Guy",
-            "date": "21-Jun-18 07:36 PM"
+            ]
         },
         {
+            "player": "Sean",
+            "character": "Seth",
+            "date": "21-Jun-18 07:36 PM",
             "content": [
                 {
                     "type": "command",
                     "text": "t!8ball Does Seth use his charisma to buy more bullets at a cheap price?"
                 }
-            ],
-            "player": "Sean",
-            "character": "Seth",
-            "date": "21-Jun-18 07:36 PM"
+            ]
         },
         {
+            "player": "FF 8 Ball",
+            "character": null,
+            "date": "21-Jun-18 07:37 PM",
             "content": [
                 {
                     "type": "bot_response",
                     "text": "🎱 | It is certain, Bagelwrecker."
                 }
-            ],
-            "player": "FF 8 Ball",
-            "character": null,
-            "date": "21-Jun-18 07:37 PM"
+            ]
         }
     ]
 }

@@ -552,7 +552,7 @@ t!8ball Does laav finally give the axe to Emmett and run back to us?
 
 **Master JRM** _(23-Jun-18 07:51 PM)_
 
-> But it’s bigger than some of the guys I’ve been with!
+> But it's bigger than some of the guys I've been with!
 
 **Bagelwrecker** _(23-Jun-18 07:51 PM)_
 
@@ -620,7 +620,7 @@ t!8ball Does Emmett find said raccoon and take it out?
 
 **Master JRM** _(23-Jun-18 07:54 PM)_
 
-> It’s not my fault my dog has a raccoon fetish!
+> It's not my fault my dog has a raccoon fetish!
 
 **Brakia** _(23-Jun-18 07:55 PM)_
 
@@ -949,7 +949,7 @@ t!8ball Do we now leave to go for her room?
 **Master JRM** _(23-Jun-18 08:11 PM)_
 
 > You ever see a video of a mourning women doing porn?
-> t!8ball Do I suddenly remember why I’m here
+> t!8ball Do I suddenly remember why I'm here
 
 **Tatsumaki** _(23-Jun-18 08:12 PM)_
 
@@ -2065,7 +2065,7 @@ t!choose Rum | Whiskey | Vodka | Tequila | Surprise | Moonshine | Ethanol | Gaso
 
 **Master JRM** _(23-Jun-18 09:20 PM)_
 
-> That’s some good spring water!
+> That's some good spring water!
 
 **Zander** _(23-Jun-18 09:21 PM)_
 _Emmett pushes Seth away with a smirk on his face._
@@ -2809,7 +2809,7 @@ t!8ball Does Jacob go back to the others?
 
 **Master JRM** _(23-Jun-18 10:05 PM)_
 
-> 500 BB’s Seth!
+> 500 BB's Seth!
 
 **Enchantingtable2013** _(23-Jun-18 10:05 PM)_
 

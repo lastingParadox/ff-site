@@ -360,7 +360,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "Heya. Where’s Seth?"
+                    "text": "Heya. Where's Seth?"
                 }
             ]
         },
@@ -575,7 +575,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Hey, I won’t judge."
+                    "text": "Hey, I won't judge."
                 }
             ]
         },
@@ -1273,7 +1273,7 @@
             "content": [
                 {
                     "type": "quote",
-                    "text": "I’m never being a duck again!"
+                    "text": "I'm never being a duck again!"
                 },
                 {
                     "type": "command",

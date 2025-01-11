@@ -308,7 +308,7 @@ _Sanya looks around the corner, taking an interest in the half-elf._
 
 **Jelsafan0** _(18-Aug-18 02:27 PM)_
 
-> My name is Iris. It’s a nice party.
+> My name is Iris. It's a nice party.
 
 **Bagelwrecker** _(18-Aug-18 02:27 PM)_
 
@@ -443,7 +443,7 @@ _Sanya bounces on one of the couches._
 
 **Jelsafan0** _(18-Aug-18 02:30 PM)_
 
-> I’m not one for loud parties, actually. I’m afraid my friend dragged me here, and then ditched me.
+> I'm not one for loud parties, actually. I'm afraid my friend dragged me here, and then ditched me.
 
 _Iris sits on an opposing couch, shrinking from the music and loud people._
 
@@ -491,7 +491,7 @@ _Seth's eyes shine._
 
 **RPretribution** _(18-Aug-18 02:32 PM)_
 
-> So, who’s the new gal?
+> So, who's the new gal?
 
 _Garrick grabs a pack of naturally grown couch seeds._
 
@@ -524,7 +524,7 @@ _Seth sips._
 
 **RPretribution** _(18-Aug-18 02:33 PM)_
 
-> Yeah, nice to meetcha'. I’m Garrick.
+> Yeah, nice to meetcha'. I'm Garrick.
 
 _Garrick takes out a skeletal bone hand slapper from his pocket._
 
@@ -604,7 +604,7 @@ _Seth drinks, already getting a buzz._
 
 **RPretribution** _(18-Aug-18 02:38 PM)_
 
-> Who’s this other green lady I haven’t met?
+> Who's this other green lady I haven't met?
 
 _Garrick points a big finger at Sanya._
 
@@ -702,7 +702,7 @@ _Seth knees Emmett in the rear playfully as he dips his head into the cocktail, 
 
 **Jelsafan0** _(18-Aug-18 02:41 PM)_
 
-> I suppose I’ll have some. You only live once, after all.
+> I suppose I'll have some. You only live once, after all.
 
 _Iris grabs some drink from the cocktail mix and tries a sip._
 
@@ -738,8 +738,8 @@ _Emmett takes more of a drink._
 
 **RPretribution** _(18-Aug-18 02:42 PM)_
 
-> I don’t even know what that is.
-> To be fair, I don’t even know what the normal alcohol scale is.
+> I don't even know what that is.
+> To be fair, I don't even know what the normal alcohol scale is.
 
 _Garrick shrugs._
 
@@ -761,7 +761,7 @@ _Seth's face glows bright red._
 
 **Jelsafan0** _(18-Aug-18 02:43 PM)_
 
-> It couldn’t hurt to try it at least once...
+> It couldn't hurt to try it at least once...
 
 _Feeling pressured by Seth's whopping three drinks, Iris is determined to finish at least one._
 
@@ -857,7 +857,7 @@ _Seth pats the cushion next to him._
 
 _Garrick manages to chug the whole can and looks around at the students. Although he says the following to Sanya, it also applies to the students._
 
-> Hey, don’t look at me. Seth did it first.
+> Hey, don't look at me. Seth did it first.
 
 _Garrick crunches the can on his forehead to the amazement of the students._
 
@@ -891,7 +891,7 @@ t!8ball Does Iris get super drunk?
 
 _Iris kicks off her heels after having another try at Emmett's mix and tries to touch her toes._
 
-> Wowww... I can’t feel my toes! Hahahhahaha!
+> Wowww... I can't feel my toes! Hahahhahaha!
 
 **Brakia** _(18-Aug-18 02:49 PM)_
 
@@ -979,7 +979,7 @@ _Iris puts her face into her arm and puts her other arm outward. The dab was off
 
 _Garrick takes another drink, scoffing in a lighthearted manner._
 
-> Pffft. It’s hilarious.
+> Pffft. It's hilarious.
 
 **Bagelwrecker** _(18-Aug-18 02:53 PM)_
 
@@ -1021,7 +1021,7 @@ _Sanya folds her arms and looks away judgmentally, as if she expected this._
 
 _Iris balls, shutting down and getting into a fetal position on the floor._
 
-> M-my daddy doesn’t love meeeeeee!!!
+> M-my daddy doesn't love meeeeeee!!!
 
 **Bagelwrecker** _(18-Aug-18 02:56 PM)_
 
@@ -1059,7 +1059,7 @@ _Seth sighs and grabs onto Iris, picking her up. The two of them were being post
 
 _Iris hugs Seth, her face quivering._
 
-> B-but my daddy’s an archidemonnnn!
+> B-but my daddy's an archidemonnnn!
 
 **Bagelwrecker** _(18-Aug-18 02:57 PM)_
 
@@ -1069,7 +1069,7 @@ _Seth smiles to try and make Iris feel better._
 
 **Jelsafan0** _(18-Aug-18 02:58 PM)_
 
-> But he’s my daddy...
+> But he's my daddy...
 
 **Brakia** _(18-Aug-18 02:58 PM)_
 
@@ -1089,7 +1089,7 @@ _Seth raises his brow and smirks._
 
 _Garrick gags from Seth's flirtacious manner._
 
-> Yeeeahhh... I’m not dealing with someone else’s family issues.
+> Yeeeahhh... I'm not dealing with someone else's family issues.
 
 **Bagelwrecker** _(18-Aug-18 02:58 PM)_
 
@@ -1119,7 +1119,7 @@ _Seth grabs Iris's hands gently._
 
 **Jelsafan0** _(18-Aug-18 03:00 PM)_
 
-> Tango! Let’s tango!
+> Tango! Let's tango!
 
 _Iris giggles._
 
@@ -1138,7 +1138,7 @@ _Garrick has a cold expression._
 
 **Jelsafan0** _(18-Aug-18 03:01 PM)_
 
-> Hehhe, yaaayyy! This is the most fun I’ve had since I was seven years old!
+> Hehhe, yaaayyy! This is the most fun I've had since I was seven years old!
 
 _Iris laughs vibrantly._
 
@@ -1192,7 +1192,7 @@ _Seth twirls Iris around his hand._
 
 **Jelsafan0** _(18-Aug-18 03:06 PM)_
 
-> Hehe! Mom always told me not to drink, but it’s so much better like this!
+> Hehe! Mom always told me not to drink, but it's so much better like this!
 
 **Bagelwrecker** _(18-Aug-18 03:07 PM)_
 
@@ -1212,7 +1212,7 @@ _Sanya is trying to get Seth out of trying to court Iris._
 
 _Iris pauses for a moment, trying to think of an answer to Sanya's question._
 
-> I’m 18!
+> I'm 18!
 
 _Iris smiles brightly._
 
@@ -1222,7 +1222,7 @@ _Iris smiles brightly._
 
 **Jelsafan0** _(18-Aug-18 03:09 PM)_
 
-> My dad can’t get mad. He can’t feel anything at all anymore.
+> My dad can't get mad. He can't feel anything at all anymore.
 
 **Bagelwrecker** _(18-Aug-18 03:09 PM)_
 
@@ -1293,11 +1293,11 @@ t!8ball Does Seth make a classic elven cocktail?
 **RPretribution** _(18-Aug-18 03:12 PM)_
 
 > I must say, being on other planets is weird.
-> Even though I’ve been with you guys for a while...
+> Even though I've been with you guys for a while...
 
 **Jelsafan0** _(18-Aug-18 03:13 PM)_
 
-> I guess. It’s fun, though!
+> I guess. It's fun, though!
 
 **Bagelwrecker** _(18-Aug-18 03:13 PM)_
 
@@ -1307,7 +1307,7 @@ _Seth heads back to the rest of the crew with two glasses in his hand._
 
 **Jelsafan0** _(18-Aug-18 03:13 PM)_
 
-> Ooh, it’s been forever since I’ve had one of those! Pass!
+> Ooh, it's been forever since I've had one of those! Pass!
 
 _Iris reaches out for a glass._
 
@@ -1321,7 +1321,7 @@ _Seth hands a glass to Iris._
 
 _Iris practically downs the cocktail._
 
-> Mm, it’s so good!
+> Mm, it's so good!
 
 **Bagelwrecker** _(18-Aug-18 03:14 PM)_
 
@@ -1384,7 +1384,7 @@ _Garrick remains apathetic despite Emmett's statement._
 
 **Jelsafan0** _(18-Aug-18 03:18 PM)_
 
-> Erm, I’m from... hmmm... we moved a lot, so... I’m not sure?
+> Erm, I'm from... hmmm... we moved a lot, so... I'm not sure?
 
 _Iris holds her head, trying to remember._
 
@@ -1452,7 +1452,7 @@ _Garrick takes a foam finger out._
 
 _Iris finally realizes the time._
 
-> Aw man. I don’t have a ride home.
+> Aw man. I don't have a ride home.
 
 **RPretribution** _(18-Aug-18 03:20 PM)_
 
@@ -1468,7 +1468,7 @@ _Emmett smirks, the flower's pheremones finally getting to him._
 
 **RPretribution** _(18-Aug-18 03:20 PM)_
 
-> Ha! I haven’t been home in weeks.
+> Ha! I haven't been home in weeks.
 
 **Bagelwrecker** _(18-Aug-18 03:20 PM)_
 
@@ -1478,7 +1478,7 @@ _Seth stands from the natural couch, stretching._
 
 **Jelsafan0** _(18-Aug-18 03:20 PM)_
 
-> Oh! I uh... I actually.... I don’t....
+> Oh! I uh... I actually.... I don't....
 
 _Iris's mouth quivers, a solemmness falling upon her._
 
@@ -1490,7 +1490,7 @@ _Seth frowns._
 
 **Jelsafan0** _(18-Aug-18 03:21 PM)_
 
-> I... don’t.... remember.
+> I... don't.... remember.
 
 _Iris starts to shake._
 
@@ -1510,7 +1510,7 @@ _Garrick takes out a little Monopoly-esque plastic house from his pocket._
 
 **Jelsafan0** _(18-Aug-18 03:21 PM)_
 
-> I’ve been here for a really long time.
+> I've been here for a really long time.
 
 **Brakia** _(18-Aug-18 03:21 PM)_
 
@@ -1549,7 +1549,7 @@ _Emmett smiles to himself, realizing this would be a great drink for him back on
 
 **Jelsafan0** _(18-Aug-18 03:23 PM)_
 
-> Huh? What’s wrong?
+> Huh? What's wrong?
 
 _Iris looks over to Emmett woozily._
 
@@ -1595,7 +1595,7 @@ _Despite Emmett's weirdness from before, Sanya takes an interest in what he was 
 
 **RPretribution** _(18-Aug-18 03:26 PM)_
 
-> Can she even go into a coma? She’s a plant...
+> Can she even go into a coma? She's a plant...
 
 _Garrick considers the logistics of this, sticking the tip of his pinky finger in his mouth._
 
@@ -1607,7 +1607,7 @@ _Emmett looks at the brew longingly._
 
 **RPretribution** _(18-Aug-18 03:26 PM)_
 
-> Granted, I’ve only met a few plant people in my life...
+> Granted, I've only met a few plant people in my life...
 
 **Brakia** _(18-Aug-18 03:26 PM)_
 
@@ -1617,7 +1617,7 @@ _Sanya stands up, ready to head back to the ship._
 
 **Jelsafan0** _(18-Aug-18 03:26 PM)_
 
-> That doesn’t sound good.
+> That doesn't sound good.
 
 **Zander** _(18-Aug-18 03:27 PM)_
 
@@ -1736,7 +1736,7 @@ _As some of the partygoers run off the ship in a panic, Emmett drops the gun clu
 
 **Jelsafan0** _(18-Aug-18 03:35 PM)_
 
-> I’m the only one who made it out in time.
+> I'm the only one who made it out in time.
 
 > As far as I know, anyways...
 
@@ -1912,7 +1912,7 @@ _Emmett gives Iris an angled smile._
 
 **Jelsafan0** _(18-Aug-18 03:47 PM)_
 
-> Huh? I’m cool?
+> Huh? I'm cool?
 
 **Bagelwrecker** _(18-Aug-18 03:47 PM)_
 
@@ -1934,7 +1934,7 @@ _Emmett points at Iris, her temperature coincidentally rising._
 
 _Iris tilts her head, her cheeks rosy from the complimments and the alcohol._
 
-> I’m also half archidemon, if that helps?
+> I'm also half archidemon, if that helps?
 
 **Zander** _(18-Aug-18 03:49 PM)_
 
@@ -1950,7 +1950,7 @@ _Sanya looms over the back of the sofa, scoffing._
 
 **Jelsafan0** _(18-Aug-18 03:50 PM)_
 
-> Huh? I didn’t know you were part demon!
+> Huh? I didn't know you were part demon!
 
 _Through naivety, Iris takes his remark down at different path._
 
@@ -1994,7 +1994,7 @@ _Sanya checks the label of the can._
 
 _Iris giggles, holding back the Squevil._
 
-> That sounds cool! It’s nice to have my half-archidemonic side in common with someone for once!
+> That sounds cool! It's nice to have my half-archidemonic side in common with someone for once!
 
 **Zander** _(18-Aug-18 03:53 PM)_
 
@@ -2060,7 +2060,7 @@ _Iris looks at Garrick in a mix of confusion and disgust._
 
 _Garrick "shrugs"._
 
-> I don’t know??
+> I don't know??
 
 **Brakia** _(18-Aug-18 03:56 PM)_
 
@@ -2114,11 +2114,11 @@ _Emmett looks at Seth goofily._
 
 _Iris, of course, did not get Emmmett's hint._
 
-> What’s going on?
+> What's going on?
 
 **RPretribution** _(18-Aug-18 03:58 PM)_
 
-> I’m just gonna. Leave now.
+> I'm just gonna. Leave now.
 
 _Feeling embarrassed by the crew hitting on each other, Garrick heads back to his cabin._
 
@@ -2423,7 +2423,7 @@ _Emmett rests his cheek on Sanya's head, who surprisingly let this happen. Maybe
 
 **Jelsafan0** _(18-Aug-18 04:15 PM)_
 
-t!8ball Does Iris fall asleep on Seth’s bed?
+t!8ball Does Iris fall asleep on Seth's bed?
 
 **Tatsumaki** _(18-Aug-18 04:15 PM)_
 

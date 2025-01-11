@@ -1,6 +1,6 @@
 **Zander** _(10-Oct-18 02:17 PM)_
 
-> t!8ball Is Emmett reading an article on the affairs of the Llamanians?
+t!8ball Is Emmett reading an article on the affairs of the Llamanians?
 
 **Tatsumaki** _(10-Oct-18 02:17 PM)_
 
@@ -10,7 +10,7 @@
 
 **Brakia** _(10-Oct-18 02:18 PM)_
 
-> t!8ball Does Sanya enter the kitchen?
+t!8ball Does Sanya enter the kitchen?
 
 **Tatsumaki** _(10-Oct-18 02:18 PM)_
 
@@ -24,7 +24,7 @@
 
 **PlasmaPerson** _(10-Oct-18 02:19 PM)_
 
-> t!8ball does Chomsky Idk be in the situation
+t!8ball does Chomsky Idk be in the situation
 
 **Tatsumaki** _(10-Oct-18 02:19 PM)_
 
@@ -34,7 +34,7 @@
 
 **Enchantingtable2013** _(10-Oct-18 02:20 PM)_
 
-> t!8ball Does Matieu start his morning routine by running in place as fast as he can 30 minutes straight?
+t!8ball Does Matieu start his morning routine by running in place as fast as he can 30 minutes straight?
 
 **Tatsumaki** _(10-Oct-18 02:20 PM)_
 
@@ -44,7 +44,7 @@
 
 **Enchantingtable2013** _(10-Oct-18 02:20 PM)_
 
-> t!8ball Does Matieu start his morning routine by running in place as fast as he can 30 minutes straight?
+t!8ball Does Matieu start his morning routine by running in place as fast as he can 30 minutes straight?
 
 **Tatsumaki** _(10-Oct-18 02:20 PM)_
 
@@ -54,7 +54,7 @@
 
 **Mica** _(10-Oct-18 02:21 PM)_
 
-> t!8ball Does Maia appear in an ethereal manner back on the ship?
+t!8ball Does Maia appear in an ethereal manner back on the ship?
 
 **Bagelwrecker** _(10-Oct-18 02:21 PM)_
 
@@ -68,7 +68,7 @@
 
 **Mica** _(10-Oct-18 02:21 PM)_
 
-> t!8ball Does Maia appear in an ethereal manner back on the ship?
+t!8ball Does Maia appear in an ethereal manner back on the ship?
 
 **Tatsumaki** _(10-Oct-18 02:21 PM)_
 
@@ -111,7 +111,7 @@
 
 **Platinum_Pathos** _(10-Oct-18 02:23 PM)_
 
-> t!8ball Is Danny eating popcorn?
+t!8ball Is Danny eating popcorn?
 
 **Tatsumaki** _(10-Oct-18 02:23 PM)_
 
@@ -125,7 +125,7 @@
 
 **Bagelwrecker** _(10-Oct-18 02:23 PM)_
 
-> t!choose Seth in the shower | Seth taking shower in the main area | Seth taking bath | Seth in bath in main area | Seth taking shower in space
+t!choose Seth in the shower | Seth taking shower in the main area | Seth taking bath | Seth in bath in main area | Seth taking shower in space
 
 **Tatsumaki** _(10-Oct-18 02:23 PM)_
 
@@ -141,7 +141,7 @@
 
 **RPretribution** _(10-Oct-18 02:23 PM)_
 
-> t!8ball does garrick conveniently come out of the engine
+t!8ball does garrick conveniently come out of the engine
 
 **Tatsumaki** _(10-Oct-18 02:23 PM)_
 
@@ -179,7 +179,7 @@
 
 **Zander** _(10-Oct-18 02:24 PM)_
 
-> t!8ball Does Sanya do a pirouette into the main room?
+t!8ball Does Sanya do a pirouette into the main room?
 
 **Tatsumaki** _(10-Oct-18 02:24 PM)_
 
@@ -291,7 +291,7 @@
 
 **Brakia** _(10-Oct-18 02:28 PM)_
 
-> t!8ball Does Sanya head to the pool?
+t!8ball Does Sanya head to the pool?
 
 **Tatsumaki** _(10-Oct-18 02:28 PM)_
 
@@ -361,7 +361,7 @@
 
 **Mica** _(10-Oct-18 02:30 PM)_
 
-> I’ll be careful.
+> I'll be careful.
 > Hello, Seth!
 
 **Platinum_Pathos** _(10-Oct-18 02:30 PM)_
@@ -370,7 +370,7 @@
 
 **PlasmaPerson** _(10-Oct-18 02:30 PM)_
 
-> t!8ball dio garrick and Chomsky enact the plan this episode
+t!8ball dio garrick and Chomsky enact the plan this episode
 
 **Tatsumaki** _(10-Oct-18 02:31 PM)_
 
@@ -420,7 +420,7 @@
 
 **Mica** _(10-Oct-18 02:32 PM)_
 
-> t!8ball Will Maia go put a star bath bomb in Seth’s bath?
+t!8ball Will Maia go put a star bath bomb in Seth's bath?
 
 **Tatsumaki** _(10-Oct-18 02:32 PM)_
 
@@ -438,7 +438,7 @@
 
 **Mica** _(10-Oct-18 02:32 PM)_
 
-> t!8ball Will Maia go put a star bath bomb in Seth’s bath?
+t!8ball Will Maia go put a star bath bomb in Seth's bath?
 
 **Tatsumaki** _(10-Oct-18 02:32 PM)_
 
@@ -453,7 +453,7 @@
 
 **Platinum_Pathos** _(10-Oct-18 02:32 PM)_
 
-> t!8ball Does Danny continue eating his popcorn?
+t!8ball Does Danny continue eating his popcorn?
 
 **Tatsumaki** _(10-Oct-18 02:32 PM)_
 
@@ -467,7 +467,7 @@
 
 **Mica** _(10-Oct-18 02:33 PM)_
 
-> Nah, you’re good.
+> Nah, you're good.
 
 **RPretribution** _(10-Oct-18 02:33 PM)_
 
@@ -536,7 +536,7 @@
 
 **Bagelwrecker** _(10-Oct-18 02:36 PM)_
 
-> t!8ball Does Seth finish his bath and get dressed?
+t!8ball Does Seth finish his bath and get dressed?
 
 **Tatsumaki** _(10-Oct-18 02:36 PM)_
 
@@ -550,7 +550,7 @@
 
 **Bagelwrecker** _(10-Oct-18 02:36 PM)_
 
-> t!8ball Does Seth finish his bath and get dressed?
+t!8ball Does Seth finish his bath and get dressed?
 
 **Tatsumaki** _(10-Oct-18 02:36 PM)_
 
@@ -590,7 +590,7 @@
 
 **RPretribution** _(10-Oct-18 02:37 PM)_
 
-> t!8ball does garrick get the thing from chomsky's room
+t!8ball does garrick get the thing from chomsky's room
 
 **Tatsumaki** _(10-Oct-18 02:37 PM)_
 
@@ -631,7 +631,7 @@
 
 **Zander** _(10-Oct-18 02:40 PM)_
 
-> t!8ball Does Seth run and cannonball into the pool?
+t!8ball Does Seth run and cannonball into the pool?
 
 **Tatsumaki** _(10-Oct-18 02:40 PM)_
 
@@ -649,7 +649,7 @@
 
 **WatchfulDrake** _(10-Oct-18 02:41 PM)_
 
-> t!8ball does hector wake up?
+t!8ball does hector wake up?
 
 **Tatsumaki** _(10-Oct-18 02:41 PM)_
 
@@ -784,7 +784,7 @@
 
 **Brakia** _(10-Oct-18 02:45 PM)_
 
-> t!roll d30
+t!roll d30
 
 **Tatsumaki** _(10-Oct-18 02:45 PM)_
 
@@ -990,7 +990,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(10-Oct-18 02:52 PM)_
 
-> t!8ball Does Seth throw marshmellow at scary man wanting marshmellow?
+t!8ball Does Seth throw marshmellow at scary man wanting marshmellow?
 
 **Tatsumaki** _(10-Oct-18 02:52 PM)_
 
@@ -1078,7 +1078,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(10-Oct-18 02:55 PM)_
 
-> t!8ball do the 2 squoats fight
+t!8ball do the 2 squoats fight
 
 **Tatsumaki** _(10-Oct-18 02:55 PM)_
 
@@ -1092,7 +1092,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(10-Oct-18 02:55 PM)_
 
-> t!8ball do they
+t!8ball do they
 
 **Tatsumaki** _(10-Oct-18 02:55 PM)_
 
@@ -1118,7 +1118,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(10-Oct-18 02:56 PM)_
 
-> t!8ball Does Danny have his hammer on his person?
+t!8ball Does Danny have his hammer on his person?
 
 **Tatsumaki** _(10-Oct-18 02:56 PM)_
 
@@ -1183,7 +1183,7 @@ In the end, the result was:
 
 **Bagelwrecker** _(10-Oct-18 02:59 PM)_
 
-> t!8ball Does Seth run to an escape pod with otter girl and Emmett and launch it?
+t!8ball Does Seth run to an escape pod with otter girl and Emmett and launch it?
 
 **Tatsumaki** _(10-Oct-18 02:59 PM)_
 
@@ -1193,7 +1193,7 @@ In the end, the result was:
 
 **RPretribution** _(10-Oct-18 02:59 PM)_
 
-> t!8ball does fake emmett pick real emmett up from his horn and start throwing him around
+t!8ball does fake emmett pick real emmett up from his horn and start throwing him around
 
 **Tatsumaki** _(10-Oct-18 02:59 PM)_
 
@@ -1226,7 +1226,7 @@ In the end, the result was:
 
 **RPretribution** _(10-Oct-18 03:00 PM)_
 
-> t!roll 2d15
+t!roll 2d15
 
 **Tatsumaki** _(10-Oct-18 03:00 PM)_
 
@@ -1344,7 +1344,7 @@ In the end, the result was:
 
 **RPretribution** _(10-Oct-18 03:04 PM)_
 
-> t!roll d3
+t!roll d3
 
 **Tatsumaki** _(10-Oct-18 03:04 PM)_
 
@@ -1391,7 +1391,7 @@ In the end, the result was:
 
 **Zander** _(10-Oct-18 03:05 PM)_
 
-> t!8ball Is Emmett capable of standing up?
+t!8ball Is Emmett capable of standing up?
 
 **Tatsumaki** _(10-Oct-18 03:05 PM)_
 
@@ -1708,7 +1708,7 @@ In the end, the result was:
 
 **Brakia** _(10-Oct-18 03:16 PM)_
 
-> t!8ball Does Sanya go and eat a marshmallow?
+t!8ball Does Sanya go and eat a marshmallow?
 
 **Tatsumaki** _(10-Oct-18 03:16 PM)_
 
@@ -1742,7 +1742,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(10-Oct-18 03:16 PM)_
 
-> t!8ball does Chomsky take Emmett to Hector to get fixed up
+t!8ball does Chomsky take Emmett to Hector to get fixed up
 
 **Tatsumaki** _(10-Oct-18 03:16 PM)_
 
@@ -1756,7 +1756,7 @@ In the end, the result was:
 
 **PlasmaPerson** _(10-Oct-18 03:17 PM)_
 
-> t!8ball please let Emmett live
+t!8ball please let Emmett live
 
 **Tatsumaki** _(10-Oct-18 03:17 PM)_
 
@@ -1766,7 +1766,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(10-Oct-18 03:17 PM)_
 
-> t!8ball Does Danny go back to his room?`
+t!8ball Does Danny go back to his room?`
 
 **Tatsumaki** _(10-Oct-18 03:17 PM)_
 
@@ -1814,7 +1814,7 @@ In the end, the result was:
 
 **Zander** _(10-Oct-18 03:19 PM)_
 
-> t!8ball Does Emmett bite Chomsky's arm?
+t!8ball Does Emmett bite Chomsky's arm?
 
 **Tatsumaki** _(10-Oct-18 03:19 PM)_
 
@@ -1824,7 +1824,7 @@ In the end, the result was:
 
 **RPretribution** _(10-Oct-18 03:19 PM)_
 
-> t!8ball does chomsky give garrick his flamethrower
+t!8ball does chomsky give garrick his flamethrower
 
 **Tatsumaki** _(10-Oct-18 03:19 PM)_
 
@@ -1834,7 +1834,7 @@ In the end, the result was:
 
 **Zander** _(10-Oct-18 03:19 PM)_
 
-> t!8ball Does Emmett bite Chomsky's arm?
+t!8ball Does Emmett bite Chomsky's arm?
 
 **Tatsumaki** _(10-Oct-18 03:19 PM)_
 
@@ -1844,7 +1844,7 @@ In the end, the result was:
 
 **Zander** _(10-Oct-18 03:19 PM)_
 
-> t!8ball Does Emmett bite Chomsky's arm?
+t!8ball Does Emmett bite Chomsky's arm?
 
 **Tatsumaki** _(10-Oct-18 03:19 PM)_
 
@@ -1854,8 +1854,8 @@ In the end, the result was:
 
 **Zander** _(10-Oct-18 03:19 PM)_
 
-> t!8ball Does Emmett bite Chomsky's arm?
-> t!8ball Does Emmett bite Chomsky's arm?
+t!8ball Does Emmett bite Chomsky's arm?
+t!8ball Does Emmett bite Chomsky's arm?
 
 **Tatsumaki** _(10-Oct-18 03:20 PM)_
 
@@ -1919,7 +1919,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(10-Oct-18 03:23 PM)_
 
-> t!roll d35
+t!roll d35
 
 **Tatsumaki** _(10-Oct-18 03:23 PM)_
 
@@ -1946,7 +1946,7 @@ In the end, the result was:
 
 **Platinum_Pathos** _(10-Oct-18 03:24 PM)_
 
-> t!roll d35
+t!roll d35
 
 **Tatsumaki** _(10-Oct-18 03:24 PM)_
 
