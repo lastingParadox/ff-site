@@ -4,6 +4,8 @@ import ArchivePage from './pages/ArchivePage';
 import FF3 from './pages/FF3';
 import RootLayout from './pages/RootLayout';
 import Convert from './pages/Convert';
+import Season from './pages/Season';
+import './pages/page.scss';
 
 function App() {
     return (
@@ -11,7 +13,7 @@ function App() {
             <Routes>
                 <Route path='/' element={<RootLayout />}>
                     <Route index element={<Home />} />
-                    <Route path='/ff2' element={<Navigate to='/ff2/1-fragile-beginnings' />} />
+                    <Route path='/ff2' element={<Season season="ff2" />} />
                     <Route path='/ff2/:episode' element={<ArchivePage />} />
                     <Route path='/ff3' element={<FF3 />} />
                     <Route path='/ff3/:episode' element={<ArchivePage />} />

@@ -53,17 +53,8 @@ function Convert() {
 
     // TODO: Programmicatically generate the form fields and handle the conversion logic
     return (
-        <Container
-            maxWidth='lg'
-            style={{
-                width: '70%',
-                display: 'flex',
-                flexDirection: 'column',
-                gap: 12,
-                margin: '24px auto',
-            }}
-        >
-            <Typography variant='h2' sx={{ mb: 4 }}>
+        <main>
+            <Typography variant='h1' sx={{ mb: 4 }}>
                 GU Time Conversion
             </Typography>
             <Grid container spacing={2}>
@@ -215,7 +206,7 @@ function Convert() {
                     </Paper>
                 </Grid>
             </Grid>
-        </Container>
+        </main>
     );
 }
 

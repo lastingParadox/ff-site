@@ -28,6 +28,40 @@ export function ColorModeProvider({ children }: { children: React.ReactNode }) {
             palette: {
                 mode: colorMode,
             },
+            components: {
+                MuiTypography: {
+                    styleOverrides: {
+                        root: {
+                            variants: [
+                                {
+                                    props: { variant: 'h1' },
+                                    style: {
+                                        fontSize: '4rem'
+                                    },
+                                },
+                                {
+                                    props: { variant: 'h2' },
+                                    style: {
+                                        fontSize: '3rem;'
+                                    }
+                                },
+                                {
+                                    props: { variant: 'h3' },
+                                    style: {
+                                        fontSize: '2rem;'
+                                    }
+                                },
+                                {
+                                    props: { variant: 'h4' },
+                                    style: {
+                                        fontSize: '1.5rem;'
+                                    }
+                                },
+                            ]
+                        }
+                    }
+                }
+            }
         });
     }, [colorMode]);
 

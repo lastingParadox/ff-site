@@ -1,0 +1,40 @@
+/*
+<li key={episode.episode_number}>
+    <button onClick={() => handleEpisodeClick(episode)}>
+        {episode.title}
+    </button>
+</li>
+
+The above jsx acts as a list item that should be fullwidth and 
+*/
+
+li.episode {
+    // list-style: none;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    font-size: 2rem;
+
+    div.episode-item {
+        background-color: #222;
+        width: fit-content;
+        padding: 0.25rem 0.5rem;
+        border-radius: 0.5rem;
+        cursor: pointer;
+        animation-timing-function: ease;
+
+        &:hover {
+            background-color: #333;
+            transform: scale(1.1);
+            transform-origin: left;
+            transition-duration: 0.1s;
+        }
+
+        .title {
+            font-size: 2rem;
+        }
+
+        .description {
+            color: #bbb;
+        }
+    }
+}

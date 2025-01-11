@@ -122,16 +122,7 @@ export default function ArchivePage() {
     }
 
     return (
-        <div
-            style={{
-                width: '70%',
-                display: 'flex',
-                flexDirection: 'column',
-                gap: 12,
-                margin: '24px auto',
-                height: '700px',
-            }}
-        >
+        <main>
             {episode === undefined && <Typography variant='h2'>Episode not found.</Typography>}
             {episode?.blocks && episode?.blocks.length !== 0 && (
                 <div style={{ height: '100%' }}>
@@ -143,7 +134,7 @@ export default function ArchivePage() {
                                 alignItems: 'center',
                             }}
                         >
-                            <Typography variant='h2' align='left'>
+                            <Typography variant='h1' align='left' sx={{ fontSize: '4rem' }}>
                                 {episode?.title}
                             </Typography>
                             <Select onChange={(event) => handleSelectChange(event)} value={episodeParam}>
@@ -161,7 +152,7 @@ export default function ArchivePage() {
                     <StoryBlockInfiniteScroll ref={ref} blocks={episode.blocks} commentaries={episode.commentaries} />
                 </div>
             )}
-        </div>
+        </main>
     );
 }
 

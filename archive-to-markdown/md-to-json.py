@@ -268,7 +268,7 @@ if __name__ == "__main__":
         )
         sys.exit(1)
 
-    json_file = f"./json/{sys.argv[1]}.json"
+    json_file = f"../src/assets/json/{sys.argv[1]}.json"
 
     # If the json file does not exist, print an error message and exit
     if not os.path.exists(json_file):
@@ -294,7 +294,7 @@ if __name__ == "__main__":
             episode for episode in metadata if episode["file_name"] == filename
             )
         except StopIteration:
-            print(f"No metadata found for {filename}. Skipping. (Add an episode to the json file in ./json/{sys.argv[1]}.json if you want to process this file.)")
+            print(f"No metadata found for {filename}. Skipping. (Add an episode to the json file if you want to process this file.)")
             continue
 
         json_file = (
