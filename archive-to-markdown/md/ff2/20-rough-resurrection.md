@@ -3181,81 +3181,53 @@ _Emmett gives Iris a weird look._
 
 > Sitting in a bathroom with someone I don't know how I feel about...
 
-**Tatsumaki** _(23-Sep-18 05:27 PM)_
+**WatchfulDrake** _(23-Sep-18 05:27 PM)_
+
+`Pirate 3`: t!roll d30
+
+**Tatsumaki** _(23-Sep-18 05:28 PM)_
+
+🎱 | Rolling a d30... Rolled a 22, WatchfulDrake.
+
+**WatchfulDrake** _(23-Sep-18 05:28 PM)_
+
+_`Pirate 3`: The pirate cuts into Sanya's thigh, managing to cut deeply._
+
+**Jelsafan0** _(23-Sep-18 05:28 PM)_
+
+`Pirate 2`: t!roll d30
+
+**Tatsumaki** _(23-Sep-18 05:29 PM)_
 
 🎱 | Rolling a d30... Rolled a 20, Jelsafan0.
 
-**Brakia** _(23-Sep-18 05:27 PM)_
-
-t!roll d30
-
-**WatchfulDrake** _(23-Sep-18 05:27 PM)_
-
-t!roll d30
-
-> thats for sanya
-> my turn
-
 **Jelsafan0** _(23-Sep-18 05:29 PM)_
 
-t!roll d30
-
-**Tatsumaki** _(23-Sep-18 05:29 PM)_
-
-> [
->
-> > d30
-> > : 22]
-
-In the end, the result was:
-22
-
-**WatchfulDrake** _(23-Sep-18 05:29 PM)_
-
-t!choose sanya | seth | emmett and iris | danny
-
-**Tatsumaki** _(23-Sep-18 05:29 PM)_
-
-🤔 |
-
-> @WatchfulDrake
-> , I pick
-> sanya
-> !
-
-**PlasmaPerson** _(23-Sep-18 05:29 PM)_
-
-> Zander can I use my mortar thing for d30 or something like that
-
-**Platinum_Pathos** _(23-Sep-18 05:29 PM)_
-
-> Try and make fun of my color I dare you
-
-**PlasmaPerson** _(23-Sep-18 05:29 PM)_
-
-> It's on my character page I just haven't put in damage yet
-
-**Zander** _(23-Sep-18 05:30 PM)_
-
-> As one last resort; technically he's knocked you out already.
+_`Pirate 2`: The pirate fires another shot at Sanya, however Chomsky jumps in the way and takes the brunt of the blow!_
 
 **PlasmaPerson** _(23-Sep-18 05:30 PM)_
+
+> Sanya, look out!
+
+_Chomsky's chest compresses as the plasma shot scorches his torso. He gets shot out of the air and convulses on the ground, down for the count._
+
+> Eat m-mortar, pirate scum!
 
 t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:30 PM)_
 
-> [
->
-> > d30
-> > : 23]
+🎱 | Rolling a d30... Rolled a 23, PlasmaPerson.
 
-In the end, the result was:
-23
+**PlasmaPerson** _(23-Sep-18 05:30 PM)_
 
-**WatchfulDrake** _(23-Sep-18 05:30 PM)_
+_With the last of his falling consciousness, Chomsky takes out his hand mortar and shoots it at the pirate that tried to shoot Sanya. He manages a direct hit and incinerates the pirate with a small explosion!_
 
-> jonas do a d20? thats what it says on your sheet
+**Platinum_Pathos** _(23-Sep-18 05:29 PM)_
+
+_Danny glares menacingly at the pirate that insulted him._
+
+> Try and make fun of my color, I dare you!
 
 **Platinum_Pathos** _(23-Sep-18 05:30 PM)_
 
@@ -3263,23 +3235,23 @@ t!roll d35
 
 **Tatsumaki** _(23-Sep-18 05:30 PM)_
 
-> [
->
-> > d35
-> > : 29]
+🎱 | Rolling a d35... Rolled a 29, Platinum_Pathos.
 
-In the end, the result was:
-29
+**Platinum_Pathos** _(23-Sep-18 05:30 PM)_
+
+_With all of his might, Danny takes his hammer and knocks the racist pirate to the ground. He them slams into his face, flattening him like a bloody flapjack._
 
 **Jelsafan0** _(23-Sep-18 05:30 PM)_
 
-> There's a short pause. Iris sighs.
-> Man, this week has been crazy.
+_There's a short pause. Iris sighs._
+
+> Man, this week has been crazy...
 
 **PlasmaPerson** _(23-Sep-18 05:30 PM)_
 
-> I didn't put a d20
-> yes! The mortar works! First time I've tested that thing out.
+> S-sick, the mortar works...
+
+_Chomsky finally falls unconscious._
 
 **Bagelwrecker** _(23-Sep-18 05:32 PM)_
 
@@ -3287,31 +3259,17 @@ t!roll d35
 
 **Tatsumaki** _(23-Sep-18 05:32 PM)_
 
-> [
->
-> > d35
-> > : 8]
+🎱 | Rolling a d35... Rolled a 8, Bagelwrecker.
 
-In the end, the result was:
-8
+**Bagelwrecker** _(23-Sep-18 05:32 PM)_
 
-**Jelsafan0** _(23-Sep-18 05:33 PM)_
-
-> [25]
+_Seth attempts an unlubed Desert Eagle shot and manages to nick one of the pirates, however his shakey aim manages to make his shot not as impactful as he had hoped._
 
 **Zander** _(23-Sep-18 05:33 PM)_
 
-t!roll d30
+> `Pirate 1`: F-fuck... you, blue sh-shit...
 
-**Tatsumaki** _(23-Sep-18 05:33 PM)_
-
-> [
->
-> > d30
-> > : 12]
-
-In the end, the result was:
-12
+_`Pirate 1`: With the last of his strength, the pirate attempts a shot at Danny. Unfortunately for him, he misses, hitting the ceiling. Shortly after, he dies._
 
 **WatchfulDrake** _(23-Sep-18 05:33 PM)_
 
@@ -3319,194 +3277,115 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:33 PM)_
 
-> [
->
-> > d30
-> > : 8]
+🎱 | Rolling a d30... Rolled a 8, WatchfulDrake.
 
-In the end, the result was:
-8
+**WatchfulDrake** _(23-Sep-18 05:33 PM)_
 
-**PlasmaPerson** _(23-Sep-18 05:34 PM)_
-
-> How many pirates are left
-
-**WatchfulDrake** _(23-Sep-18 05:34 PM)_
-
-> 3
-> wait no
-> theres 6 total
+_`Pirate 3`: The pirate takes another slash at Sanya and manages to miss. However, they quickly make up for this mistake by bashing Sanya with their elbow._
 
 **Brakia** _(23-Sep-18 05:34 PM)_
+
+_Sanya staggers back and looks down to Chomsky. She grunts, and tries to take advantage of her Dreadsword, letting it guide her._
 
 t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:34 PM)_
 
-> [
->
-> > d30
-> > : 19]
-
-In the end, the result was:
-19
-
-**Jelsafan0** _(23-Sep-18 05:34 PM)_
-
-> Who was the d30 for
-
-**WatchfulDrake** _(23-Sep-18 05:34 PM)_
-
-> only 2 have been damaged
-
-**PlasmaPerson** _(23-Sep-18 05:34 PM)_
-
-> Oh I thought one died
-> Dang
+🎱 | Rolling a d30... Rolled a 19, Brakia.
 
 **Brakia** _(23-Sep-18 05:35 PM)_
 
-> `Nearly got you, you pest.`
+> Nearly got you, you pest.
 
-**Jelsafan0** _(23-Sep-18 05:35 PM)_
-
-> [6]
+_Sanya spits out some black, viscous blood as she revels in the fact that she's nearly avenged Chomsky, having sliced into the pirate's neck._
 
 **Zander** _(23-Sep-18 05:35 PM)_
 
-> It really has.
+> This week really has been crazy.
+
+_Emmett taps his knees, kind of wanting Iris to leave so he could shower._
 
 **Jelsafan0** _(23-Sep-18 05:35 PM)_
 
-> "Gah...! Stronger than ya look, aintcha?"
+_`Pirate 2`: The pirate holds their neck and wobbles from Sanya's attack._
 
-**PlasmaPerson** _(23-Sep-18 05:35 PM)_
-
-> And why does Lili keep saying random numbers
+> `Pirate 2`: Gah...! Stronger than ya look, aintcha'?
 
 **Brakia** _(23-Sep-18 05:35 PM)_
 
-> `I'm a Floran. I'm stronger than anyone you could see.`
+> I'm a Floran. I'm stronger than anyone you could see.
 
 **Zander** _(23-Sep-18 05:35 PM)_
 
-> Not to sound weird, but our interactions have really made me...Happy, I guess?
-> But it's a weird happy.
+> Not to sound weird, but our interactions have really made me... Happy, I guess?
+> But it's a weird happy...
+
+_Emmett sighs and stares at the shower to give Iris the hint to leave._
 
 **Platinum_Pathos** _(23-Sep-18 05:36 PM)_
 
-> You're right, that is weird.
+_Danny viciously smears the racist pirate's face on the ground with his boot._
+
+> Serves you right, shithead.
 
 **Jelsafan0** _(23-Sep-18 05:36 PM)_
 
-> Yeah. I know the feeling.
-> They're not random numbers
-> It's my pirate's health.
+> Yeah... I know the feeling...
 
-**PlasmaPerson** _(23-Sep-18 05:37 PM)_
-
-> Oooooh
-
-**Jelsafan0** _(23-Sep-18 05:38 PM)_
-
-> 3%
+_Iris manages to fall asleep, the rumbling of the ship from the pirates' havoc rocking her to sleep._
 
 **Zander** _(23-Sep-18 05:38 PM)_
 
-> Emmett sniffs his arm and sticks his tongue out as a joke.
+_Emmett backs up to the shower._
 
-**WatchfulDrake** _(23-Sep-18 05:39 PM)_
+> Iris, can I please take a shower? I mean... I'm pretty gross right now...
+> Oh. Uh... It's probably not safe to drag you out to your room...
 
-t!roll d30
-
-**Platinum_Pathos** _(23-Sep-18 05:40 PM)_
-
-t!roll 7
-
-**Tatsumaki** _(23-Sep-18 05:40 PM)_
-
-> Invalid formatting in
-> :
-> 7
-> .
-
-ex:
-t!roll d20
-or
-t!roll 5d10+3
+_As he realizes that Iris has fallen asleep, Emmett starts to shower uncomfortably._
 
 **Platinum_Pathos** _(23-Sep-18 05:40 PM)_
+
+> Take this!
+
+_Danny tries to aim his pistol at one of the pirates attacking Sanya._
 
 t!roll d7
 
 **Tatsumaki** _(23-Sep-18 05:40 PM)_
 
-> [
->
-> > d7
-> > : 1]
-
-In the end, the result was:
-1
+🎱 | Rolling a d7... Rolled a 1, Platinum_Pathos.
 
 **Platinum_Pathos** _(23-Sep-18 05:40 PM)_
 
-> Damn I'll need a new weapon this is a bit inefficient.
+_Danny horribly misses the shot! He observes his pistol while annoyed, looking down the barrel._
 
-**Bagelwrecker** _(23-Sep-18 05:41 PM)_
-
-t!8ball Does Seth force Danny to reload his pistol while he punches the bad boys?
-
-**Tatsumaki** _(23-Sep-18 05:41 PM)_
-
-🎱 | Cannot predict now,
-
-> Bagelwrecker
-> .
+> Damn, I'll need a new weapon. This is a bit inefficient.
 
 **Bagelwrecker** _(23-Sep-18 05:42 PM)_
 
-t!8ball Does Seth force Danny to reload his pistol while he punches the bad boys?
+t!8ball Does Seth teach Danny how to reload his pistol while he punches the bad boys?
 
 **Tatsumaki** _(23-Sep-18 05:42 PM)_
 
-🎱 | Signs point to yes,
-
-> Bagelwrecker
-> .
+🎱 | Signs point to yes, Bagelwrecker.
 
 **Bagelwrecker** _(23-Sep-18 05:42 PM)_
 
-> You stick bullet in barrel then you place gunpowder and push it in with stick
-> t!roll d5
+_Seth slams a fist directly into one of the remaining pirate's faces._
+
+> You stick bullet in barrel, then you place gunpowder and push it in with stick, blue guy!
+
+t!roll d5
 
 **Tatsumaki** _(23-Sep-18 05:43 PM)_
 
-> [
->
-> > d5
-> > : 2]
-
-In the end, the result was:
-2
-
-> [
->
-> > d5
-> > : 2]
-
-In the end, the result was:
-2
-
-**Zander** _(23-Sep-18 05:44 PM)_
-
-t!roll d15
-
-> As he realizes that Iris had fallen asleep, Emmett starts to shower uncomfortably.
+🎱 | Rolling a d5... Rolled a 2, Bagelwrecker.
 
 **Platinum_Pathos** _(23-Sep-18 05:45 PM)_
 
-> Next time try throwing the pistol at the enemy Seth. It'll probably have a better use than me trying to reload it.
+> Next time I'll try throwing the pistol at the enemy, Seth. It'll probably have a better use than me trying to reload it.
+
+_Danny groans._
 
 **WatchfulDrake** _(23-Sep-18 05:45 PM)_
 
@@ -3514,13 +3393,7 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:45 PM)_
 
-> [
->
-> > d30
-> > : 9]
-
-In the end, the result was:
-9
+🎱 | Rolling a d30... Rolled a 9, WatchfulDrake.
 
 **Brakia** _(23-Sep-18 05:46 PM)_
 
@@ -3528,27 +3401,19 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:46 PM)_
 
-> [
->
-> > d30
-> > : 9]
+🎱 | Rolling a d30... Rolled a 9, Brakia.
 
-In the end, the result was:
-9
+**Brakia** _(23-Sep-18 05:46 PM)_
 
-**Zander** _(23-Sep-18 05:46 PM)_
+_Both Sanya and the pirate trade blows. Sanya falls to the ground, growing exhausted from the constant fighting after being just revived. Was the Dreadsword a direct downgrade? Surely not._
 
-> Sanya finds a hotdog on the ground.
-> Sanya eats it.
-> Sanya gains 15 health
+> I'm not done yet, you coward!
 
-**Brakia** _(23-Sep-18 05:48 PM)_
+_Sanya looks at her surroundings and manages to find a perfectly preserved hotdog. She decides to eat it in the hopes that the meat will give her the strength to persevere._
 
-> `That Hotdog tasted like crap.`
+> That hotdog tasted like crap...
 
-**Deyner** _(23-Sep-18 05:48 PM)_
-
-> K im back!
+_She gets up from the ground feeling a renewed sense of strength._
 
 **Platinum_Pathos** _(23-Sep-18 05:48 PM)_
 
@@ -3556,57 +3421,17 @@ t!8ball Does Danny throw the pistol at the pirate he is currently fighting?
 
 **Tatsumaki** _(23-Sep-18 05:48 PM)_
 
-🎱 | Outlook not so good,
-
-> Platinum_Pathos
-> .
-
-**Deyner** _(23-Sep-18 05:49 PM)_
-
-> (What should I do?)
-
-**Zander** _(23-Sep-18 05:49 PM)_
-
-> @Brakia
-> It was a joke.
-
-**Bagelwrecker** _(23-Sep-18 05:49 PM)_
-
-t!8ball Does Seth pee in the pirate's mouth?
-
-**Tatsumaki** _(23-Sep-18 05:49 PM)_
-
-🎱 | Cannot predict now,
-
-> Bagelwrecker
-> .
+🎱 | Outlook not so good, Platinum_Pathos.
 
 **Bagelwrecker** _(23-Sep-18 05:50 PM)_
+
+> Oh shit, wait, timeout, tummy rumbling.
 
 t!8ball Does Seth pee in the pirate's mouth and then poop on his shoe?
 
 **Tatsumaki** _(23-Sep-18 05:50 PM)_
 
-🎱 | Yes, definitely,
-
-> Bagelwrecker
-> .
-
-**Bagelwrecker** _(23-Sep-18 05:50 PM)_
-
-t!roll 10
-
-**Tatsumaki** _(23-Sep-18 05:50 PM)_
-
-> Invalid formatting in
-> :
-> 10
-> .
-
-ex:
-t!roll d20
-or
-t!roll 5d10+3
+🎱 | Yes, definitely, Bagelwrecker.
 
 **Bagelwrecker** _(23-Sep-18 05:50 PM)_
 
@@ -3614,78 +3439,45 @@ t!roll d12
 
 **Tatsumaki** _(23-Sep-18 05:50 PM)_
 
-> [
->
-> > d12
-> > : 5]
+🎱 | Rolling a d12... Rolled a 5, Bagelwrecker.
 
-In the end, the result was:
-5
+**Bagelwrecker** _(23-Sep-18 05:50 PM)_
+
+_While an unorhodox move, Seth's release of his bowels onto his enemy actually causes them great psychic damage, causing them to misfire and graze themselves!_
+
+> Aw man, that's much better...
 
 **Zander** _(23-Sep-18 05:51 PM)_
 
-t!8ball Does this pirate accidentally attack Bill's?
+t!8ball Does this defiled pirate accidentally attack one of his allies?
 
 **Tatsumaki** _(23-Sep-18 05:51 PM)_
 
-🎱 | Ask again later,
-
-> Zander
-> .
-
-**Zander** _(23-Sep-18 05:51 PM)_
-
-t!8ball Does this pirate accidentally attack Bill's?
-t!8ball Does this pirate accidentally attack Bill's?
-
-**Tatsumaki** _(23-Sep-18 05:51 PM)_
-
-🎱 | My reply is no,
-
-> Zander
-> .
-
-**Zander** _(23-Sep-18 05:51 PM)_
-
-t!d9
-
-**Tatsumaki** _(23-Sep-18 05:52 PM)_
-
-> Invalid modifier.
-
-Please use a modifier greater than
--100
-and less than
-100
-.
+🎱 | My reply is no, Zander.
 
 **Zander** _(23-Sep-18 05:52 PM)_
 
-t!roll d30-1
+_`Pirate 4`: Outraged by Seth's antics, the pirate charges his plasma pistol and fires directly at the elf's face._
+
+`Pirate 4`: t!roll d30-1
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
-> [
->
-> > d30
-> > : 29] + -1
+🎱 | Rolling a d30-1... Rolled a 28, Zander.
 
-In the end, the result was:
-28
+**Bagelwrecker** _(23-Sep-18 05:52 PM)_
+
+_Seth staggers back from the scorching blow, holding his nose._
+
+> WHAT THE FUCK, DUDE?!
 
 **WatchfulDrake** _(23-Sep-18 05:52 PM)_
 
-t!roll d30
+`Pirate 3`: t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
-> [
->
-> > d30
-> > : 10]
-
-In the end, the result was:
-10
+🎱 | Rolling a d30... Rolled a 10, WatchfulDrake.
 
 **Brakia** _(23-Sep-18 05:52 PM)_
 
@@ -3693,39 +3485,31 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
-> [
->
-> > d30
-> > : 28]
-
-In the end, the result was:
-28
+🎱 | Rolling a d30... Rolled a 28, Brakia.
 
 **Brakia** _(23-Sep-18 05:52 PM)_
 
-> `Eat shit, pirate`
+_Finally regaining her prowess over her sword, Sanya manages to cut her pirate in half!_
+
+> Eat shit, pirate!
 
 **Platinum_Pathos** _(23-Sep-18 05:52 PM)_
+
+> Gah, this is just rubbish.
 
 t!8ball Does Danny throw away the pistol?
 
 **Tatsumaki** _(23-Sep-18 05:52 PM)_
 
-🎱 | It is decidedly so,
-
-> Platinum_Pathos
-> .
+🎱 | It is decidedly so, Platinum_Pathos.
 
 **Bagelwrecker** _(23-Sep-18 05:53 PM)_
 
-t!8ball does Seth pick up his gun and misfire it hitting Sanya?
+t!8ball Does Seth pick up his gun and misfire it, hitting Sanya?
 
 **Tatsumaki** _(23-Sep-18 05:53 PM)_
 
-🎱 | It is decidedly so,
-
-> Bagelwrecker
-> .
+🎱 | It is decidedly so, Bagelwrecker.
 
 **Bagelwrecker** _(23-Sep-18 05:53 PM)_
 
@@ -3733,66 +3517,47 @@ t!roll d15
 
 **Tatsumaki** _(23-Sep-18 05:53 PM)_
 
-> [
->
-> > d15
-> > : 4]
-
-In the end, the result was:
-4
-
-**WatchfulDrake** _(23-Sep-18 05:53 PM)_
-
-> "Your buddy over there didn't give me much of choice on that matter"
+🎱 | Rolling a d15... Rolled a 4, WatchfulDrake.
 
 **Bagelwrecker** _(23-Sep-18 05:53 PM)_
 
-> Whoops sorry
+_After having shot Sanya in the rear, Seth shrugs._
+
+> Whoops, sorry.
 
 **Brakia** _(23-Sep-18 05:53 PM)_
 
-> `Ow!`
+_Sanya recoils from the shot and glares at Seth._
+
+> Ow! You bitch!
 
 **Platinum_Pathos** _(23-Sep-18 05:54 PM)_
+
+_Danny watches the team-shooting play out and mutters to himself._
 
 > I swear I am going to shove one of these damn pistols down your throat one of these days.
 
-**Brakia** _(23-Sep-18 05:54 PM)_
+_Danny cups his hands around his mouth and yells to get under Seth's skin._
 
-> `You bitch!`
-
-**Platinum_Pathos** _(23-Sep-18 05:54 PM)_
-
-> I call for a riot!
+> I call for a mutiny! Our captain's shooting his own!
 
 **Zander** _(23-Sep-18 05:54 PM)_
 
-t!8ball Does my pirate slip upon his own blade?
+t!8ball Does a pirate slip upon his own blade?
 
 **Tatsumaki** _(23-Sep-18 05:54 PM)_
 
-🎱 | Yes, definitely,
-
-> Zander
-> .
+🎱 | Yes, definitely, Zander.
 
 **Platinum_Pathos** _(23-Sep-18 05:54 PM)_
 
-> After this fight and all.
+> Well, we should mutiny after this fight and all, of course.
 
 **Zander** _(23-Sep-18 05:54 PM)_
 
-t!roll d30
+_`Pirate 5`: A pirate manages to slip on the blood from the flatten pirate corpse on the ground and impales himself with his own blade._
 
-**Tatsumaki** _(23-Sep-18 05:54 PM)_
-
-> [
->
-> > d30
-> > : 6]
-
-In the end, the result was:
-6
+> `Pirate 5`: S-such a klutz...
 
 **WatchfulDrake** _(23-Sep-18 05:54 PM)_
 
@@ -3800,21 +3565,7 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:54 PM)_
 
-> [
->
-> > d30
-> > : 14]
-
-In the end, the result was:
-14
-
-> [
->
-> > d30
-> > : 14]
-
-In the end, the result was:
-14
+🎱 | Rolling a d30... Rolled a 14, WatchfulDrake.
 
 **Brakia** _(23-Sep-18 05:55 PM)_
 
@@ -3822,13 +3573,7 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:55 PM)_
 
-> [
->
-> > d30
-> > : 22]
-
-In the end, the result was:
-22
+🎱 | Rolling a d30... Rolled a 22, Brakia.
 
 **Platinum_Pathos** _(23-Sep-18 05:55 PM)_
 
@@ -3836,53 +3581,46 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:55 PM)_
 
-> [
->
-> > d30
-> > : 28]
-
-In the end, the result was:
-28
+🎱 | Rolling a d30... Rolled a 28, Platinum_Pathos.
 
 **Brakia** _(23-Sep-18 05:55 PM)_
 
-> `just..
-*huff*
-die`
+_Sanya huffs._
+
+> Just.. Die...
 
 **WatchfulDrake** _(23-Sep-18 05:56 PM)_
 
-> "After I sell your petals on the black market"
+_`Pirate 6`: The last remaining pirate grins, having been looting and taking out the other crewmates while the others were fighting._
+
+> `Pirate 6`: Maybe after I sell your petals on the black market...
 
 **Platinum_Pathos** _(23-Sep-18 05:56 PM)_
+
+_Danny spins around, looking for his dropped popcorn._
 
 > Guys! I can't find my popcorn!
-
-**Zander** _(23-Sep-18 05:56 PM)_
-
-> "Just die"
-> huff
-
-**Platinum_Pathos** _(23-Sep-18 05:56 PM)_
-
 > I don't know where it went!
 
-**Zander** _(23-Sep-18 05:56 PM)_
+**Brakia** _(23-Sep-18 05:56 PM)_
 
-> Sanya finds the popcorn
+_Sanya looks at the bag of popcorn on the ground and kicks it away from herself._
 
-**Brakia** _(23-Sep-18 05:57 PM)_
-
-> `I don't like popcorn.`
+> I don't like popcorn.
 
 **Platinum_Pathos** _(23-Sep-18 05:57 PM)_
 
-> Damn it Sanya!
-> Do I need to swallow you right here, right now!
+> Damn it, Sanya!
+
+_Danny stomps angrily._
+
+> Do I need to swallow you right here, right now!?
 
 **Brakia** _(23-Sep-18 05:57 PM)_
 
-> `I'm FUCKING SORRY?`
+_Sanya's eyes widen and she gives Danny the most bewildered look she could manage._
+
+> I'm FUCKING SORRY?!
 
 **Bagelwrecker** _(23-Sep-18 05:58 PM)_
 
@@ -3890,78 +3628,81 @@ t!roll d15
 
 **Tatsumaki** _(23-Sep-18 05:58 PM)_
 
-> [
->
-> > d15
-> > : 14]
+🎱 | Rolling a d30... Rolled a 14, Bagelwrecker.
 
-In the end, the result was:
-14
+**Bagelwrecker** _(23-Sep-18 05:58 PM)_
+
+_While the others are distracted, Seth manages to land a shot on the last remaining pirate. It doesn't kill, however it greatly injures them._
 
 **Zander** _(23-Sep-18 05:58 PM)_
 
-> Doo doo doo.
+_Emmett suds his fur while in the shower, humming a Squoatopian tune._
 
 **Platinum_Pathos** _(23-Sep-18 05:58 PM)_
 
-> Emmet we need to buy more popcorn!
+_Danny screams into his watch._
+
+> Emmett, we need to buy more popcorn!
+
+_After not receiving a response immediately, Danny screams._
+
+> I THINK MY COMMS WATCH IS BROKEN! FUCK!
 
 **Jelsafan0** _(23-Sep-18 05:58 PM)_
 
-> Iris starts to wake up.
-> ...mmnm...
+_Iris starts to wake up from the loud sound of water hitting the shower floor._
 
-**Bagelwrecker** _(23-Sep-18 06:00 PM)_
+> ... Mmnm...
 
-t!roll D1
+**Zander** _(23-Sep-18 06:00 PM)_
 
-**Tatsumaki** _(23-Sep-18 06:00 PM)_
-
-> [
->
-> > d1
-> > : 1]
-
-In the end, the result was:
-1
+_Emmett quiets down, thinking he's heard something._
 
 **Platinum_Pathos** _(23-Sep-18 06:00 PM)_
 
-> Or, and here me out, I could swallow you Sanya.
+_Danny sighs and looks back to Sanya._
+
+> Hear me out, I could swallow you Sanya.
+> Either that, or you order me some popcorn.
+> Weigh your options carefully.
 
 **Brakia** _(23-Sep-18 06:00 PM)_
 
-> `That's fucking gross.`
-
-**Platinum_Pathos** _(23-Sep-18 06:00 PM)_
-
-> Weigh your options carefully
-
-**Zander** _(23-Sep-18 06:01 PM)_
-
-> Emmett quiets down, thinking he heard something.
+> That's fucking gross! No!
 
 **Platinum_Pathos** _(23-Sep-18 06:01 PM)_
 
-> I get to see how you taste.
-> I haven't had salad in a while.
+> I get to see how you taste. Haven't had salad in a while, so I imagine you're tasty.
+> You get to relax and dissolve in my stomach.
 
-**Jelsafan0** _(23-Sep-18 06:01 PM)_
+_Danny shrugs._
 
-> ...yeowza... my head.......
+> Sounds like a win-win to me.
 
 **Brakia** _(23-Sep-18 06:01 PM)_
 
-> `That's fucked up.`
+> That's fucked up.
+
+**Jelsafan0** _(23-Sep-18 06:01 PM)_
+
+> ... Yeowza... my head.......
+
+_Iris feels her head and tries to comprehend her surroundings._
 
 **Bagelwrecker** _(23-Sep-18 06:01 PM)_
 
-> https://www.youtube.com/watch?v=z1KDRTKpPZw
+_Seth admires his Desert Eagle._
+
+> Man, this pirate battle sucks. This reminds me of a video... Actually, I've forgotten what it reminds me of already.
+> Meh.
 
 **Zander** _(23-Sep-18 06:02 PM)_
 
-> Emmett peeks around the curtain.
-> Oh!
+_Emmett, his face foamy with soap, peeks around the curtain._
+
+> Oh! Heh. Morning.
+
+_Embarrassed a bit, Emmett wraps the shower liner around his body._
 
 **WatchfulDrake** _(23-Sep-18 06:02 PM)_
 
@@ -3969,41 +3710,41 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 06:02 PM)_
 
-> [
->
-> > d30
-> > : 18]
+🎱 | Rolling a d30... Rolled a 18, WatchfulDrake.
 
-In the end, the result was:
-18
+**WatchfulDrake** _(23-Sep-18 06:02 PM)_
 
-**Zander** _(23-Sep-18 06:02 PM)_
-
-> Heh. Morning.
+_`Pirate 6`: The pirate shoots at Seth, managing a torso plasma blast._
 
 **Platinum_Pathos** _(23-Sep-18 06:03 PM)_
 
-> Fine, the side-effect is that I'll get some of your powers. The taste is the main aspect of course though.
+_Danny rolls his eyes._
+
+> Fine... The side-effect you'll experience is that I'll get some of your powers.
+> The taste is the main aspect of course though.
 
 **Jelsafan0** _(23-Sep-18 06:03 PM)_
 
-> ...g'mornin'...
-> Iris groans, brain not yet properly functioning.
+> ... G'mornin' Emmett...
 
-**Zander** _(23-Sep-18 06:04 PM)_
-
-> Emmett's face is soapy right now.
+_Iris groans, her brain not yet properly functioning._
 
 **Platinum_Pathos** _(23-Sep-18 06:04 PM)_
 
-> There are potato chips in my room, if that'll help.
+_Danny taps his cheeks in thought._
 
+> Well, I guess there are potato chips in my room, if that'll help you stay afloat.
 > Or is that some form of cannibalism?
+
+_Danny grins._
+
 > Sanya, is that cannibalism?
 
 **Jelsafan0** _(23-Sep-18 06:05 PM)_
 
-> Iris finally starts to wake up, and yelps, covering her eyes with her hands, cheeks burning.
+_Iris finally wakes up, and realizes that she's in the bathroom with Emmett. She yelps and covers her eyes with her hands, her cheeks burning._
+
+> AH!
 
 **Brakia** _(23-Sep-18 06:05 PM)_
 
@@ -4011,86 +3752,44 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 06:05 PM)_
 
-> [
->
-> > d30
-> > : 24]
+🎱 | Rolling a d30... Rolled a 24, Brakia.
 
-In the end, the result was:
-24
+**Brakia** _(23-Sep-18 06:05 PM)_
+
+_Sanya decapitates the last remaining pirate as he's focused on Seth. She pants and drops her sword, relieved the fighting is over._
 
 **Zander** _(23-Sep-18 06:05 PM)_
 
+_Emmett rolls his eyes and goes back to scrubbing his face._
+
 > Iris, I'm behind a curtain for a reason. Relax.
-
-**Tatsumaki** _(23-Sep-18 06:05 PM)_
-
-> [
->
-> > d30
-> > : 1]
-
-In the end, the result was:
-1
-
-**Zander** _(23-Sep-18 06:06 PM)_
-
-t!8ball Does Zander's pirate run away out of fear?
-
-**Tatsumaki** _(23-Sep-18 06:06 PM)_
-
-🎱 | Cannot predict now,
-
-> Zander
-> .
-
-**Zander** _(23-Sep-18 06:07 PM)_
-
-t!8ball Does Zander's pirate run away out of fear?
-
-**Tatsumaki** _(23-Sep-18 06:07 PM)_
-
-🎱 | Outlook good,
-
-> Zander
-> .
 
 **Jelsafan0** _(23-Sep-18 06:07 PM)_
 
 > I-I'm sorry!
-> She stammers.
 > I didn't know you were showering!
-> her face becomes redder.
+
+_Iris's face becomes redder._
 
 **Zander** _(23-Sep-18 06:07 PM)_
 
-> Chill Iris.
+> Oh c'mon, chill Iris.
+
+_Emmett blinks frequently, having gotten some suds in his eyes._
 
 **Platinum_Pathos** _(23-Sep-18 06:07 PM)_
+
+_Danny listens into Iris's comms, relieved that his comms watch is not entirely broken._
 
 > Iris, stop being a pervert!
 
 **WatchfulDrake** _(23-Sep-18 06:08 PM)_
 
-t!8ball does hector wake up?
+t!8ball Does Hector wake up?
 
 **Tatsumaki** _(23-Sep-18 06:08 PM)_
 
-🎱 | Ask again later,
-
-> MultiTheDuck
-> .
-
-**WatchfulDrake** _(23-Sep-18 06:08 PM)_
-
-t!8ball does hector wake up?
-
-**Tatsumaki** _(23-Sep-18 06:08 PM)_
-
-🎱 | Yes,
-
-> MultiTheDuck
-> .
+🎱 | Yes, MultiTheDuck.
 
 **Brakia** _(23-Sep-18 06:08 PM)_
 
@@ -4098,29 +3797,18 @@ t!8ball Does Sanya collapse?
 
 **Tatsumaki** _(23-Sep-18 06:08 PM)_
 
-🎱 | Ask again later,
-
-> Brakia
-> .
-
-**Brakia** _(23-Sep-18 06:08 PM)_
-
-t!8ball Does Sanya collapse?
-
-**Tatsumaki** _(23-Sep-18 06:08 PM)_
-
-🎱 | Ask again later,
-
-> Brakia
-> .
+🎱 | Ask again later, Brakia.
 
 **WatchfulDrake** _(23-Sep-18 06:08 PM)_
 
-> Ugh, I overslept again
+_Hector wakes up in his room, checks his alarm clock, and groans._
+
+> Ugh, I overslept again...
 
 **Jelsafan0** _(23-Sep-18 06:08 PM)_
 
-> Iris attempts to chill.
+_Iris attempts to chill._
+
 > I'm chilling!
 
 **Platinum_Pathos** _(23-Sep-18 06:08 PM)_
@@ -4129,223 +3817,309 @@ t!8ball Does Sanya collapse?
 
 **Brakia** _(23-Sep-18 06:08 PM)_
 
-> `What?`
+_Sanya drops to her knees, still panting from the fight._
+
+> What?
 
 **Platinum_Pathos** _(23-Sep-18 06:08 PM)_
 
-> Is eating potatos cannibalism?
+> Is eating potatos considered cannibalism for you?
 
 **Brakia** _(23-Sep-18 06:09 PM)_
 
-> `No. That's kinda racist.`
+_Sanya scoffs._
+
+> No. What? That's kinda racist.
+> I'm not a potato.
 
 **Zander** _(23-Sep-18 06:09 PM)_
 
-> Emmett scrubs his face and stops the shower, putting on a towel.
+_Emmett finishes scrubbing up his face and stops the shower, grabbing a towel. He dries himself off and wraps the towel around his waist._
 
 **Platinum_Pathos** _(23-Sep-18 06:09 PM)_
 
-> And what else qualifies as cannibalism
+_Danny tilts his head._
+
+> And what else qualifies as cannibalism?
 
 **Brakia** _(23-Sep-18 06:09 PM)_
 
-> `Florans eating Florans.`
+> Florans eating Florans...
+
+_Sanya gestures to Danny, "are you stupid or something?"_
 
 **Platinum_Pathos** _(23-Sep-18 06:09 PM)_
+
+_Danny persists, continuing to be irritating._
 
 > Are you a carnivore?
 
 **WatchfulDrake** _(23-Sep-18 06:09 PM)_
 
-> Alright I'm up now, what did I......
+> Alright I'm up now, what did I...?
+
+_Hector looks around for Matieu and sees that he isn't in his bed. He walks out into the hall, seeing the aftermath of the fight._
 
 **Brakia** _(23-Sep-18 06:09 PM)_
 
-> `Yes. Stop asking so many questions.`
-
-**WatchfulDrake** _(23-Sep-18 06:09 PM)_
-
-> Hector walks out into the hall seeing the aftermath of the fight
+> Yes. Stop asking so many questions.
 
 **Platinum_Pathos** _(23-Sep-18 06:10 PM)_
+
+_Danny squares his chin with his fingers._
 
 > Or does that mean you're a herbivore?
 
 **Jelsafan0** _(23-Sep-18 06:10 PM)_
 
-> Iris' hands remain tightly clamped over her eyes.
+_Iris' hands remain tightly clamped over her eyes, shameful thoughts of hunky squoatling rump running through her mind._
 
 **WatchfulDrake** _(23-Sep-18 06:10 PM)_
 
-> Wait I thought you died?
+_Hector notices Sanya kneeling on the ground around a bunch of pirate corpses._
+
+> Wait, I thought you died?
 
 **Zander** _(23-Sep-18 06:11 PM)_
 
-> If we're going to be....Whatever relationship we have right now, you really need to loosen up. I'm not showing my assets to you or anything.
+_Emmett groans, standing before Iris in his towel._
+
+> If we're going to be in... Whatever relationship we have right now, you really need to loosen up. I'm not showing my assets to you or anything.
 
 **Jelsafan0** _(23-Sep-18 06:11 PM)_
 
-> ...okay.... should I open my eyes...?
+_Iris shivers and sighs in acceptance._
+
+> ... Okay.... should I open my eyes...?
 
 **Zander** _(23-Sep-18 06:12 PM)_
 
-> Yeah.
+> Yeah. I'm wearing a towel.
 
 **Platinum_Pathos** _(23-Sep-18 06:12 PM)_
 
-> No you pervert.
+_Danny furrows his brow, speaking into his comms._
+
+> No, you pervert!
 
 **Jelsafan0** _(23-Sep-18 06:12 PM)_
 
-> iris does so, face still very red.
+_Iris uncovers her eyes, her face still burning a bright red. She sees a wet squoatling standing before her, clad in a lemon towel._
 
 **Deyner** _(23-Sep-18 06:13 PM)_
 
-> wakes up
-> what happened where r the pirates?
-> `
+_Deyner wakes up, his head pounding from the ambush._
+
+> What happened? Where are the pirates?
 
 **Platinum_Pathos** _(23-Sep-18 06:13 PM)_
 
+_Danny, still thinking Iris was being a pervert over the comms, has an idea._
+
 > We need a hot tub.
 > Or a spa.
+> Would be amazing.
 
 **WatchfulDrake** _(23-Sep-18 06:13 PM)_
+
+_Hector makes his way to Deyner, making sure to step around the numerous corpses._
 
 > Oh my, you look in bad shape, can you stand?
 
 **Zander** _(23-Sep-18 06:13 PM)_
 
-> Emmett soggily smiled.
-
-**Deyner** _(23-Sep-18 06:13 PM)_
-
-> (Me?)
-
-**WatchfulDrake** _(23-Sep-18 06:13 PM)_
-
-> (yes, I'm the only one near you other then sanya)
+_Emmett gives Iris a soggy smile._
 
 **Jelsafan0** _(23-Sep-18 06:14 PM)_
 
-> ...hi.
+_Iris gives Emmett a soft smile, her heart beating quickly._
+
+> ... Hi...
 
 **Zander** _(23-Sep-18 06:14 PM)_
 
->
+_Emmett puts a hoof on his hip._
+
+> Hey...
 
 **Deyner** _(23-Sep-18 06:14 PM)_
 
-> I'm fine just oxygen deprivation got to me I guess by I'm Deyner and you are?
+> I'm fine, just oxygen deprivation got to me, I guess.
+
+_Deyner wobbles as he tries to stand._
+
+> I'm Deyner. And you are?
 
 **Brakia** _(23-Sep-18 06:14 PM)_
 
-> `Hello, Hector. I'm back from the dead. But, i don't think i will be for long.`
-> Sanya Collapses
+> Hello, Hector. I'm back from the dead.
+
+_Sanya's body gives and she struggles to keep herself upright._
+
+> But, I don't think I will be for long...
+
+_Sanya collapses to the ground._
 
 **Platinum_Pathos** _(23-Sep-18 06:15 PM)_
+
+_Danny heads to the kitchen pantry and finds a lot of the food missing, much of it covering the floor alongside the muffins._
 
 > When is our next step to the store?
 
 **WatchfulDrake** _(23-Sep-18 06:15 PM)_
 
-> Hector, nice to meet you, lets see if i can't fix you up
-> hector holds out all 6 arms for a handshake
+> Hector, nice to meet you. let's see if I can't fix you up...
+
+_Hector holds out all 6 of his arms for a handshake._
 
 **Platinum_Pathos** _(23-Sep-18 06:15 PM)_
 
-> The pirates kind of took half of our food supply.
+> The pirates kind of took half of our food supply...
+
+_Danny's stomach rumbles loudly. He re-enters the living block with the others._
 
 **Deyner** _(23-Sep-18 06:15 PM)_
 
-> Hector do you know where a Doctor is?
-> shakes his hands with his ice cold hand
+_Deyner continues to hold his head, struggling to stand._
 
-**Zander** _(23-Sep-18 06:15 PM)_
+> Hector, do you know where a doctor is?
 
-> Hey.
-
-**WatchfulDrake** _(23-Sep-18 06:16 PM)_
-
-> I'm the doctor of my ship, my nurse is still asleep
-
-**Jelsafan0** _(23-Sep-18 06:16 PM)_
-
-> how's uh....
+_Deyner shakes all of Hector's hands with his ice cold hand._
 
 **WatchfulDrake** _(23-Sep-18 06:16 PM)_
 
-> Can you help me move sanya to the med bay?
+> I'm the doctor of my ship, my nurse is unavailable, as you can see.
+
+_Hector shows off the unconscious and bruised Matieu behind him._
 
 **Jelsafan0** _(23-Sep-18 06:16 PM)_
 
-> how are things?
+> How's uh...
+
+_Iris looks away._
+
+> How are things?
+
+**WatchfulDrake** _(23-Sep-18 06:16 PM)_
+
+_Hector eyeballs Danny, knowing that Deyner is out of commission._
+
+> Can you help me move Sanya to the medbay?
 
 **Zander** _(23-Sep-18 06:16 PM)_
 
+_Emmett adjusts his towel and lifts himself atop of the sink countertop. He continues to smile._
+
 > Wet and refreshing. You?
-
-**Deyner** _(23-Sep-18 06:16 PM)_
-
-> if you want I can freeze her solid so if she is sick it slows it dow
-
-**Platinum_Pathos** _(23-Sep-18 06:16 PM)_
-
-> Or, I could eat Sanya.
 
 **Jelsafan0** _(23-Sep-18 06:16 PM)_
 
-> uh... a little uh... humid.
+_Iris gives an awkward chuckle._
 
-**WatchfulDrake** _(23-Sep-18 06:16 PM)_
+> Uh... a little uh... humid.
 
-> She looks in bad condition, then i can fix you up after i stabilize her
+**Deyner** _(23-Sep-18 06:16 PM)_
+
+_Deyner stumbles forward._
+
+> If you want, I can freeze her solid. If she is sick it slows it down...
 
 **Platinum_Pathos** _(23-Sep-18 06:16 PM)_
 
-> Still taste.
+_Danny lifts a finger to Hector._
+
+> Or, I could eat Sanya. How about that?
+
+**WatchfulDrake** _(23-Sep-18 06:16 PM)_
+
+_Hector takes out a stretcher, ignoring Danny's comment._
+
+> She to be looks in bad condition...
+
+_Hector looks over to Deyner._
+
+> I can fix you up after I stabilize her.
+
+**Platinum_Pathos** _(23-Sep-18 06:16 PM)_
+
+_Danny's stomach rumbles angrily._
+
+> Still taste...
 
 **WatchfulDrake** _(23-Sep-18 06:17 PM)_
 
-> No don't do that, just help me put her on this stretcher
+_Hector groans and grabs Sanya from the ground._
+
+> No don't do that, just help me put her on this stretcher.
 
 **Jelsafan0** _(23-Sep-18 06:17 PM)_
 
-> I think I'm gonna just... go... to my room... take a nap.
+_Iris, still uncomfortable, backs up from Emmett and towards the door._
+
+> I think I'm gonna just... go... to my room... and take a nap.
 
 **Deyner** _(23-Sep-18 06:17 PM)_
 
-> picks her up and puts her on he stretcher
-> where is the captain of this ship plz?
-> `
+_Deyner looks around._
+
+> Where is the captain of this ship? I have a score to settle with him...
 
 **Platinum_Pathos** _(23-Sep-18 06:17 PM)_
 
 > Fine...
 
+_Deyner sighs and helps Hector lift Sanya onto the stretcher._
+
 **Zander** _(23-Sep-18 06:17 PM)_
 
-> Just stick in here. Why not?
+> You just took a nap, silly.
+
+_Emmett frowns a bit._
+
+> Just stick in here. Why not? The humidity is quite relaxing.
 
 **Jelsafan0** _(23-Sep-18 06:17 PM)_
 
-> ...Alright.
+> ... Alright.
+
+_Iris takes a deep breath and closes her eyes. It practically felt like a sauna in the room._
+
+**Zander** _(23-Sep-18 06:18 PM)_
+
+> Of course, you can leave. I'm just going sit in here and dry off...
+
+_Emmett snorts._
+
+> Maybe take a nap.
+
+**Jelsafan0** _(23-Sep-18 06:18 PM)_
+
+> I'm... I'm okay, I think.
+
+_Iris exhales and tries to make herself comfortable._
+
+> This is fine.
 
 **WatchfulDrake** _(23-Sep-18 06:18 PM)_
 
-> He was clearly here, but it seems he hit sanya a couple times, look at the markings on her back
+_Hector scans the area for either Seth or Emmett._
+
+> Seth was clearly here, but it seems he managed to shoot Sanya a couple times and flee. Look at the markings on her back...
+
+_Hector's finger trails across Sanya's leafy back._
 
 **Platinum_Pathos** _(23-Sep-18 06:18 PM)_
+
+_Danny yawns and snaps his fingers demandingly._
 
 > I'm heading to bed, take us to the store, captain.
 
 **Deyner** _(23-Sep-18 06:18 PM)_
 
-> Hmmmmm may I speak to the captain?
-> `
+> Hmmmmm... Might I speak to the captain soon?
 
 **WatchfulDrake** _(23-Sep-18 06:18 PM)_
 
-> Hector leads Denyer to the med bay while pushing sanya
-> After i get you fixed up
-> ~Episode ends there~
+_Hector leads Denyer to the medbay while pushing the stretcher._
+
+> After I get you fixed up, bud.
