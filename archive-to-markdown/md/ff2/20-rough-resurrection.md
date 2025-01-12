@@ -2048,6 +2048,8 @@ _As Emmett's stench starts to get to him once more, he loosens his grip on Iris.
 
 > I should be over it...
 
+> ...but I'm not...
+
 **Brakia** _(23-Sep-18 04:44 PM)_
 
 > Where are they?
@@ -2055,10 +2057,6 @@ _As Emmett's stench starts to get to him once more, he loosens his grip on Iris.
 **Deyner** _(23-Sep-18 04:44 PM)_
 
 _Deyner sees the broken tractor beam._
-
-**Jelsafan0** _(23-Sep-18 04:44 PM)_
-
-> ... But I'm not...
 
 **PlasmaPerson** _(23-Sep-18 04:44 PM)_
 
@@ -2140,7 +2138,7 @@ _Emmett playfully rolls his eyes and picks up his clothing._
 
 **Jelsafan0** _(23-Sep-18 04:47 PM)_
 
-t!8ball Does Lili NOT ask 8ball if Chomsky throws a muffin?
+t!8ball Does Chomsky throw a muffin?
 
 **Tatsumaki** _(23-Sep-18 04:47 PM)_
 
@@ -2148,7 +2146,7 @@ t!8ball Does Lili NOT ask 8ball if Chomsky throws a muffin?
 
 **Bagelwrecker** _(23-Sep-18 04:47 PM)_
 
-t!8ball Does Seth convince the stock salesman to give us all his money which is 700,000,000 GU Credits thus causing Dread to appear within Sanya's butthole?
+t!8ball Does Seth convince the stock salesman to give us all his money (which is 700,000,000 GU Credits) thus causing Dread to appear within Sanya's butthole?
 
 **Tatsumaki** _(23-Sep-18 04:47 PM)_
 
@@ -2186,7 +2184,7 @@ _Chomsky gives Deyner an awkward wave, rubbing his neck from the celery slap._
 
 **Jelsafan0** _(23-Sep-18 04:48 PM)_
 
-> ... Thanks....
+> ...thanks...
 
 **Brakia** _(23-Sep-18 04:48 PM)_
 
@@ -2198,11 +2196,11 @@ _Sanya keeps her gaze on Iris._
 
 > Uh...
 
-_Iris shows the group her inner arms._
+_Iris shows the group her inner arms, where her veins are glowing._
 
 **Bagelwrecker** _(23-Sep-18 04:49 PM)_
 
-t!8ball Does Seth convince the stock salesman to give him all his money which is 700,000,000 Ducketts thus causing Dread to appear within Garrick's butthole and take away all of the crew's well-earned Ducketts?
+t!8ball Does Seth convince the stock salesman to give him all his money (which is 700,000,000 Ducketts) thus causing Dread to appear within Garrick's butthole and take away all of the crew's well-earned Ducketts?
 
 **Tatsumaki** _(23-Sep-18 04:49 PM)_
 
@@ -2220,7 +2218,7 @@ _Emmett folds his arms._
 
 **Deyner** _(23-Sep-18 04:49 PM)_
 
-> I'm Deyner... Deyner Revathen
+> I'm Deyner... Deyner Revathen.
 
 _Deyner stretches out his hand._
 
@@ -2236,7 +2234,7 @@ _Sanya stretches and manages to snap Emmett's sweatpants more._
 
 **Deyner** _(23-Sep-18 04:50 PM)_
 
-> frost starts spreading up his arm as he waits
+_Frost starts spreading up Deyner's arm as he waits._
 
 **Zander** _(23-Sep-18 04:50 PM)_
 
@@ -2244,7 +2242,8 @@ _Sanya stretches and manages to snap Emmett's sweatpants more._
 
 **PlasmaPerson** _(23-Sep-18 04:50 PM)_
 
-> accepts the handshake
+_He accepts the handshake._
+
 > Chomsky. A pleasure to meet you.
 
 **Zander** _(23-Sep-18 04:50 PM)_
@@ -2254,6 +2253,9 @@ _Sanya stretches and manages to snap Emmett's sweatpants more._
 **Jelsafan0** _(23-Sep-18 04:50 PM)_
 
 > I have some old shorts if you want.
+
+_Iris snaps her head around towards where Emmett is going._
+
 > Oh- bye Emmett!
 
 **Zander** _(23-Sep-18 04:50 PM)_
@@ -2262,7 +2264,7 @@ _Sanya stretches and manages to snap Emmett's sweatpants more._
 
 **Brakia** _(23-Sep-18 04:50 PM)_
 
-> `Thank you.`
+> Thank you.
 
 **RPretribution** _(23-Sep-18 04:50 PM)_
 
@@ -2270,126 +2272,120 @@ _Sanya stretches and manages to snap Emmett's sweatpants more._
 
 **PlasmaPerson** _(23-Sep-18 04:50 PM)_
 
-> oh. Ice.
+> Oh. Ice.
 
 **Deyner** _(23-Sep-18 04:51 PM)_
 
-> hot hot!! Sorry I'm a bit sensitive to heat cause of being half snow elf
-> yo wicked flame thrower!
+> Hot hot!! Sorry I'm a bit sensitive to heat cause of being half snow elf.
+
+> Yo, wicked flame thrower!
+
 
 **RPretribution** _(23-Sep-18 04:51 PM)_
 
-> deyner thinks chomsky is hot
+_Garrick looks at Deyner and then back at Chomsky, sensing some romantic tension._
 
 **Jelsafan0** _(23-Sep-18 04:52 PM)_
 
-> third drawer to the left on the top. I'm gonna go check on Emmett.
+_Iris looks back towards Sanya._
+
+> Third drawer to the left on the top. I'm gonna go check on Emmett.
 
 **Brakia** _(23-Sep-18 04:52 PM)_
 
-> `Ok.`
+> Ok.
 
 **PlasmaPerson** _(23-Sep-18 04:52 PM)_
 
-> huh? Oh, thanks, but I didn't make it.
+_Chomsky raises his pink left eyebrow at Deyner._
 
-**RPretribution** _(23-Sep-18 04:52 PM)_
-
-> chomsky then incinerates him out of disgust
+> Huh? Oh, thanks, but I didn't make it.
 
 **Jelsafan0** _(23-Sep-18 04:52 PM)_
 
-> Iris turns and follows Emmett.
+_Iris turns and follows Emmett._
 
 **Deyner** _(23-Sep-18 04:52 PM)_
 
-> can I see it?
-
-**RPretribution** _(23-Sep-18 04:52 PM)_
-
-> Where do you think I could get one of those, anyways?
+> Can I see it?
 
 **PlasmaPerson** _(23-Sep-18 04:52 PM)_
 
-> yeah, have at it. But there's some stupid lose screw so be careful.
-> it might fall apart any day.
+> Yeah, have at it. But there's some stupid loose screw, so be careful.
+> It might fall apart any day.
+
+**RPretribution** _(23-Sep-18 04:52 PM)_
+
+_Garrick throws himself on Chomsky's shoulders and peeks around at Deyner._
+
+> Where do you think I could get one of those, anyways?
+
+**Deyner** _(23-Sep-18 04:53 PM)_
+
+t!choose Deyner just fixes the flame thrower | Deyner fixes it and doubles its flame output
 
 **Tatsumaki** _(23-Sep-18 04:53 PM)_
 
-🤔 |
-
-> @Deyner
-> , I pick
-> does Deyner just fix the flame thrower
-> !
-
-**Deyner** _(23-Sep-18 04:53 PM)_
-
-t!choose does Deyner just fix the flame thrower | does he fix it and double its flame output
-
-**Jelsafan0** _(23-Sep-18 04:53 PM)_
-
-> Trey it's your 8ball turn
+🤔 | Deyner, I pick Deyner just fixes the flame thrower
 
 **Zander** _(23-Sep-18 04:53 PM)_
 
-> Emmett is on the brink of closing the bathroom door.
+_Emmett is on the brink of closing the bathroom door._
 
 **Deyner** _(23-Sep-18 04:53 PM)_
 
-> fixes the flame thrower
+_Deyner fixes the flame thrower._
 
 **Jelsafan0** _(23-Sep-18 04:53 PM)_
 
 > Ah- wait!
-> Iris jams her foot between the door and the doorway.
 
-**Deyner** _(23-Sep-18 04:54 PM)_
-
-> here you go! Good as new!
-> hands back the flamethrower
+_Iris jams her foot between the door and the doorway._
 
 **Zander** _(23-Sep-18 04:54 PM)_
 
 > Hm?
 
-**PlasmaPerson** _(23-Sep-18 04:54 PM)_
+**Deyner** _(23-Sep-18 04:54 PM)_
 
-> Michael I'm gonna let Deyner fix it in between episodes cuz I gotta go
+> Here you go! Good as new!
+
+_Deyner hands back Chomsky's flamethrower._
 
 **RPretribution** _(23-Sep-18 04:54 PM)_
 
-t!8ball does garrick take the flame thrower from deyner and look at it
+t!8ball does Garrick take the flame thrower from Deyner and look at it?
 
 **Tatsumaki** _(23-Sep-18 04:54 PM)_
 
-🎱 | Very doubtful,
-
-> RPretribution
-> .
-
-**RPretribution** _(23-Sep-18 04:54 PM)_
-
-> gay
-> tbh
+🎱 | Very doubtful, RPretribution.
 
 **Brakia** _(23-Sep-18 04:54 PM)_
 
-> `"Where am I?"`
+> Where am I?
+
+> Am I...
 
 **PlasmaPerson** _(23-Sep-18 04:55 PM)_
 
-> nah, you can keep it for now. I have a feeling there are several things wrong about it.
+> Nah, you can keep it for now. I have a feeling there are several things wrong about it.
 
-**Brakia** _(23-Sep-18 04:55 PM)_
+_Chomsky turns back and walks away, throwing his hand up nonchalantly._
 
-> `"Am I..."`
+> I'm gonna sit on my muffin throne again.
+> See ya, guys.
+
+**RPretribution** _(23-Sep-18 04:54 PM)_
+
+_Garrick squints harder at Chomsky. Something is brewing._
 
 **Deyner** _(23-Sep-18 04:55 PM)_
 
-> Garrick if you wish I could make you one it seems very easy to make?
+> Garrick, if you wish, I could make you one... it seems very easy to make...?
 
 **RPretribution** _(23-Sep-18 04:55 PM)_
+
+_Garrick jumps towards Deyner, ending up inches from his face._
 
 > Please do it.
 
@@ -2399,28 +2395,24 @@ t!8ball does garrick take the flame thrower from deyner and look at it
 
 **Deyner** _(23-Sep-18 04:55 PM)_
 
-> Oh wait
+_Deyner gives a slight smirk._
 
-**Jelsafan0** _(23-Sep-18 04:55 PM)_
-
-> Are you okay?
-
-**PlasmaPerson** _(23-Sep-18 04:55 PM)_
-
-> I'm gonna sit on my muffin throne again.
-> see ya guys.
-
-**Deyner** _(23-Sep-18 04:55 PM)_
-
-> I seem to remember you could've saved me Garrick..
+> Oh wait...
+> I seem to remember that you could've saved me, Garrick...!
 
 **RPretribution** _(23-Sep-18 04:55 PM)_
+
+_Garrick ignores
 
 > A flamethrower is one of the few weapons I've never used.
 
 **Deyner** _(23-Sep-18 04:56 PM)_
 
-> Ask Chompsky it is his weapon I would have to take it apart to make it
+> Ask Chomsky. It is his weapon, I would have to take it apart to make it.
+
+**Jelsafan0** _(23-Sep-18 04:56 PM)_
+
+> Are you okay?
 
 **Zander** _(23-Sep-18 04:56 PM)_
 
