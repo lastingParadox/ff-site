@@ -2702,7 +2702,7 @@ _Dread flares their fangs and grins._
 
 _Emmett coughs, the slimy feeling in his lungs not the best for his confidence._
 
-> Get out of my squom's--I mean, friend's body!
+> Get out of Squan's--I mean, my friend's body!
 
 _Emmett cringes as he let his personal nickname for Sanya slip out._
 
@@ -2714,7 +2714,7 @@ _Matieu gets up from the ground and lunges at Dread, only to be pushed back like
 
 **Brakia** _(15-Sep-18 05:41 PM)_
 
-> `Dread`: Squom? how silly.
+> `Dread`: Squan? how silly.
 
 _`Dread`: Dread scoffs._
 
@@ -4249,7 +4249,7 @@ _Iris rushes to hold onto her mother. "Wait, Mom-!"_
 
 **Jelsafan0** _(15-Sep-18 06:52 PM)_
 
-_Iris jolts up while panting, finally conscious. She's sweating considerably, dousing the medical bed in gasoline._
+_Iris jolts up while panting, finally conscious. She's sweating considerably, dousing the medical bed in kerosine._
 
 **Enchantingtable2013** _(15-Sep-18 06:53 PM)_
 
