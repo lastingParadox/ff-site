@@ -2103,7 +2103,7 @@ t!8ball does Chomsky meet the others in the cockpit
 
 **Jelsafan0** _(30-Sep-18 03:12 PM)_
 
-t!8ball does Iris whisper to Emmett “can I set the booth on fire?”
+t!8ball does Iris whisper to Emmett “can I set the booth on fire?"
 
 **Tatsumaki** _(30-Sep-18 03:12 PM)_
 

@@ -94,7 +94,7 @@
 > Half-Elf
 > Beastfolk
 > Black
-> “But you do see the way people look at you, devil's child.” Those black eyes, cold as a winter storm, were staring right into her heart and the sudden seriousness in his voice jolted her. “What is it they say?” he asked. “One's a curiosity, two's a conspirac...
+> “But you do see the way people look at you, devil's child." Those black eyes, cold as a winter storm, were staring right into her heart and the sudden seriousness in his voice jolted her. “What is it they say?" he asked. “One's a curiosity, two's a conspirac...
 > https://www.dndbeyond.com/characters/races/tiefling
 
 **Zander** _(21-Jun-18 12:17 PM)_
@@ -22991,7 +22991,7 @@ t!8ball does garrick stand around idly
 
 **RPretribution** _(21-Jul-18 05:45 PM)_
 
-> “robots and ghosts are the same thing”
+> “robots and ghosts are the same thing"
 > mettaton
 > because i can't
 
@@ -23754,7 +23754,7 @@ t!8ball does asier repeatedly punch the enemy but to no avail
 
 > FUNNIE
 > @PlasmaPerson
-> i'm talking about “Dude, you look gay.”
+> i'm talking about “Dude, you look gay."
 
 **Mr.WobblyShark** _(21-Jul-18 06:17 PM)_
 
@@ -49646,7 +49646,7 @@ t!8ball does Qrow turn into an elf?
 
 **Jelsafan0** _(04-Sep-18 02:37 PM)_
 
-> ”Hello.”
+> "Hello."
 
 **PlasmaPerson** _(04-Sep-18 02:37 PM)_
 
@@ -58277,7 +58277,7 @@ t!8ball Do I awake flirt with Iris now?
 
 **Jelsafan0** _(15-Sep-18 04:39 PM)_
 
-> ”You okay?”
+> "You okay?"
 
 **Zander** _(15-Sep-18 04:39 PM)_
 
@@ -58313,10 +58313,10 @@ t!choose crab | head | normal | other |
 **Jelsafan0** _(15-Sep-18 04:42 PM)_
 
 > Iris sighs in relief.
-> ”You really startled me there.”
+> "You really startled me there."
 
 > Iris suddenly realizes Zander is still shirtless. Her face turns incredibly red and she turns her head quickly.
-> ”can you put your shirt back on?”
+> "can you put your shirt back on?"
 
 **Zander** _(15-Sep-18 04:43 PM)_
 
@@ -58350,7 +58350,7 @@ t!8ball Does Sanya get a shirt for Emmett?
 **Jelsafan0** _(15-Sep-18 04:44 PM)_
 
 > Iris considers this for a second.
-> ”... I haven't gone swimming in forever. Why not?”
+> "... I haven't gone swimming in forever. Why not?"
 
 **Enchantingtable2013** _(15-Sep-18 04:45 PM)_
 
@@ -58391,8 +58391,8 @@ t!8ball Does Sanya get a shirt for Emmett?
 **Jelsafan0** _(15-Sep-18 04:48 PM)_
 
 > Iris is a bit uncomfortable with this.
-> “...................”
-> ”Does he know I'm of drinking age?”
+> “..................."
+> "Does he know I'm of drinking age?"
 
 **Zander** _(15-Sep-18 04:50 PM)_
 
@@ -58400,7 +58400,7 @@ t!8ball Does Sanya get a shirt for Emmett?
 
 **Jelsafan0** _(15-Sep-18 04:51 PM)_
 
-> ”Alright.”
+> "Alright."
 
 **Zander** _(15-Sep-18 04:51 PM)_
 
@@ -58408,7 +58408,7 @@ t!8ball Does Sanya get a shirt for Emmett?
 
 **Jelsafan0** _(15-Sep-18 04:52 PM)_
 
-> ”What isn't?”
+> "What isn't?"
 
 **Enchantingtable2013** _(15-Sep-18 04:52 PM)_
 
@@ -58473,7 +58473,7 @@ t!8ball Does Emmett get his translator fixed?
 
 **Jelsafan0** _(15-Sep-18 04:56 PM)_
 
-> ”it's like a crab with a stinger on its tail... I think.”
+> "it's like a crab with a stinger on its tail... I think."
 
 **Zander** _(15-Sep-18 04:56 PM)_
 
@@ -60473,7 +60473,7 @@ t!8ball Do I continue mouth to mouth?
 
 **Jelsafan0** _(15-Sep-18 06:36 PM)_
 
-> (Six figures stand there. “Mom? Dad? You're- you're all here!” She laughs out, running to them. She hugs them tightly.)
+> (Six figures stand there. “Mom? Dad? You're- you're all here!" She laughs out, running to them. She hugs them tightly.)
 
 **Enchantingtable2013** _(15-Sep-18 06:36 PM)_
 
@@ -60510,8 +60510,8 @@ t!8ball Do I slap Iris 10 times in attempt to wake her up?
 
 **Jelsafan0** _(15-Sep-18 06:37 PM)_
 
-> (“Hello, my daughter,” her father speaks up warmly. She grins.
-> “Dad,” She enthuses, voice cracking a tad.)
+> (“Hello, my daughter," her father speaks up warmly. She grins.
+> “Dad," She enthuses, voice cracking a tad.)
 
 **Enchantingtable2013** _(15-Sep-18 06:37 PM)_
 
@@ -60529,7 +60529,7 @@ t!8ball Do I slap Iris 10 times in attempt to wake her up?
 
 **Jelsafan0** _(15-Sep-18 06:38 PM)_
 
-> (“Dad,” a thought strikes her. “W- wait. What about dread? What about my friends?”)
+> (“Dad," a thought strikes her. “W- wait. What about dread? What about my friends?")
 
 **WatchfulDrake** _(15-Sep-18 06:38 PM)_
 
@@ -60561,8 +60561,8 @@ t!8ball Does Hector stabilize Iris's condition through an IV?
 
 **Jelsafan0** _(15-Sep-18 06:39 PM)_
 
-> (“All is well, Iris,” her father soothes. She relaxes a bit.)
-> (A thought strikes her, and she takes a few stumbling steps back. “Dread. Dread, how do you know Dread?”)
+> (“All is well, Iris," her father soothes. She relaxes a bit.)
+> (A thought strikes her, and she takes a few stumbling steps back. “Dread. Dread, how do you know Dread?")
 
 **Brakia** _(15-Sep-18 06:41 PM)_
 
@@ -60570,8 +60570,8 @@ t!8ball Does Hector stabilize Iris's condition through an IV?
 
 **Jelsafan0** _(15-Sep-18 06:43 PM)_
 
-> (Iris is skeptical. “But, Dad... He... asked me to give you a message. He asked me to tell you that his job is almost done.”)
-> (“I wanna know what's going on. I deserve to know what's going on.”)
+> (Iris is skeptical. “But, Dad... He... asked me to give you a message. He asked me to tell you that his job is almost done.")
+> (“I wanna know what's going on. I deserve to know what's going on.")
 
 **Brakia** _(15-Sep-18 06:44 PM)_
 
@@ -60614,7 +60614,7 @@ t!8ball Does Matieu stare at Iris, angered by what had happened?
 
 **Jelsafan0** _(15-Sep-18 06:47 PM)_
 
-> (Iris takes a closer look around. “...where... where are they, Dad?”)
+> (Iris takes a closer look around. “...where... where are they, Dad?")
 
 **Enchantingtable2013** _(15-Sep-18 06:47 PM)_
 
@@ -60653,7 +60653,7 @@ t!8ball Does Matieu stare at Iris, angered by what had happened?
 
 **Jelsafan0** _(15-Sep-18 06:49 PM)_
 
-> (“...what?”)
+> (“...what?")
 > (A cloud of smoke wafts into the room.)
 
 **Brakia** _(15-Sep-18 06:49 PM)_
@@ -60663,8 +60663,8 @@ t!8ball Does Matieu stare at Iris, angered by what had happened?
 
 **Jelsafan0** _(15-Sep-18 06:50 PM)_
 
-> (“...dad?”)
-> (“...you're working with him?”)
+> (“...dad?")
+> (“...you're working with him?")
 
 **Enchantingtable2013** _(15-Sep-18 06:50 PM)_
 
@@ -60706,9 +60706,9 @@ t!8ball Does Matieu stare at Iris, angered by what had happened?
 
 **Jelsafan0** _(15-Sep-18 06:52 PM)_
 
-> (She's falling... falling... her eyes snap open. Her mother is in front of her. “Mom?”)
-> (Her mother smiles kindly. “I love you, Iris. But it's time to wake up now.”)
-> (“Wait, Mom-!”)
+> (She's falling... falling... her eyes snap open. Her mother is in front of her. “Mom?")
+> (Her mother smiles kindly. “I love you, Iris. But it's time to wake up now.")
+> (“Wait, Mom-!")
 > Iris awakens with a start.
 
 **Enchantingtable2013** _(15-Sep-18 06:53 PM)_
@@ -60895,7 +60895,7 @@ t!8ball Does Matieu firehis shot and hitting her in the neck?
 
 **Jelsafan0** _(15-Sep-18 07:14 PM)_
 
-> (“you will forever be alone.”)
+> (“you will forever be alone.")
 
 **Enchantingtable2013** _(15-Sep-18 07:15 PM)_
 
@@ -61604,11 +61604,11 @@ t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
 
 > This is what I've gotten so far
 > @Zander
-> “Danny! Danny, wake up!”
+> “Danny! Danny, wake up!"
 > I slowly opened my eyes to see bright ocean-blue eyes looking down on me from a perpendicular view.
-> “Adea, before I open my eyes, how much time is it before sunrise?”, I groan.
-> “Umm, three hours before sunrise,” Adea mumbles.
-> “Wake me back one hour before please,” I request.
+> “Adea, before I open my eyes, how much time is it before sunrise?", I groan.
+> “Umm, three hours before sunrise," Adea mumbles.
+> “Wake me back one hour before please," I request.
 
 **Deyner** _(19-Sep-18 10:02 PM)_
 
@@ -61681,10 +61681,10 @@ t!8ball Do I grab Iris over my shoulder, and run her back to the medbay?
 **Deyner** _(19-Sep-18 10:08 PM)_
 
 > Well I guess if you could say all the fucked up stuff started when my parents died. I was sent into the foster system and probably should've stayed there because no one would want me because of what I am. I'm a half-breed technically speaking my existence shouldn't happen
-> because of the conflicting natures and races of the Snow Elves and the Dark Elves. You see the Dark Elves are believed to be born from fire while the Snow Elves… well that's self explanatory and because of this one race is always trying to destroy the other and so on. When I met my foster family they seemed so nice, I mean they took in a half-breed like me. But the moment I got home Jacob.. No not Jacob, Him. Monsters like that don't deserve a name pinned me against the wall and said “Here's what gonna happen you little Knife-Ear (A insult to the Dark Elves because they're considered not Elves.) your gonna do what I when I say or else you get a lashing you hear. “Y...yes” I said,
+> because of the conflicting natures and races of the Snow Elves and the Dark Elves. You see the Dark Elves are believed to be born from fire while the Snow Elves… well that's self explanatory and because of this one race is always trying to destroy the other and so on. When I met my foster family they seemed so nice, I mean they took in a half-breed like me. But the moment I got home Jacob.. No not Jacob, Him. Monsters like that don't deserve a name pinned me against the wall and said “Here's what gonna happen you little Knife-Ear (A insult to the Dark Elves because they're considered not Elves.) your gonna do what I when I say or else you get a lashing you hear. “Y...yes" I said,
 > LASH
-> I did nothing but tremble in pain and scream. “When I address you, you answer with a Sir do you fucking understand.” “Yyy..yes S..sir.” I say between whimpers of fear. “Now get to work” he said before he threw me to the ground and gave me a rag and some water. That's how my life was for the next 3 years until I found something wonderful. I had been walking home in my long sleeve shirt, in case you're wondering I wear it to hide the cuts from… nevermind. But I was walking home from school thinking about the project where we have to build a pseudo-weapon when I ran into this girl that looked familiar and we tumbled down the hill into the forest.
-> She had white hair, freckles, icy blue eyes, and was about my age the weird part was she was dressed in some of the finest silk I've ever seen yet she's walking down a commoner's pathway? “Sorry!” she said. I try to quickly say “I..it's fine, it was my fault.”. “So what's with the fancy gowns?” I try to say to be casual. That when she says “Oh my mother makes me wear them but my name is Theyla! What's yours?” she's says with here hand outstretched and a smile on her face in return. I say “Mine's Deyner” I then shake her hand but she's just gazing into my eyes and looking as if she's getting up the nerve to say something and then finally says “What's with your eyes they look like a…” She never finishes as I complete her sentence and say “a Dark Elf's… They look like that because I'm half dark elf, I wait for her to freak out and run away but she justs grins and says “That's so cool!”. I'm startled that she thinks that being half Dark-Elf is cool most people call me a freak or a mistake, I look around for my stuff having forgotten it that it fell when I realized that we're in the forest. “We should probably get out of here.” I say in which she nods in return. When I stretch my foot I notice I hit something metallic and hard on the floor. “What was that?” I say. Before I could investigate any more I was interrupted by a some yelling “Theyla! Theyla! Where are you!?” That's when the girl named Theyla said “Sorry I must leave, See you soon?” I stuttered and said “S..Sure.” and then I realize something and say “Wait! Your the princess aren't you!?” And she just winks at me and says “maybe, See ya soon Deyner!”
+> I did nothing but tremble in pain and scream. “When I address you, you answer with a Sir do you fucking understand." “Yyy..yes S..sir." I say between whimpers of fear. “Now get to work" he said before he threw me to the ground and gave me a rag and some water. That's how my life was for the next 3 years until I found something wonderful. I had been walking home in my long sleeve shirt, in case you're wondering I wear it to hide the cuts from… nevermind. But I was walking home from school thinking about the project where we have to build a pseudo-weapon when I ran into this girl that looked familiar and we tumbled down the hill into the forest.
+> She had white hair, freckles, icy blue eyes, and was about my age the weird part was she was dressed in some of the finest silk I've ever seen yet she's walking down a commoner's pathway? “Sorry!" she said. I try to quickly say “I..it's fine, it was my fault.". “So what's with the fancy gowns?" I try to say to be casual. That when she says “Oh my mother makes me wear them but my name is Theyla! What's yours?" she's says with here hand outstretched and a smile on her face in return. I say “Mine's Deyner" I then shake her hand but she's just gazing into my eyes and looking as if she's getting up the nerve to say something and then finally says “What's with your eyes they look like a…" She never finishes as I complete her sentence and say “a Dark Elf's… They look like that because I'm half dark elf, I wait for her to freak out and run away but she justs grins and says “That's so cool!". I'm startled that she thinks that being half Dark-Elf is cool most people call me a freak or a mistake, I look around for my stuff having forgotten it that it fell when I realized that we're in the forest. “We should probably get out of here." I say in which she nods in return. When I stretch my foot I notice I hit something metallic and hard on the floor. “What was that?" I say. Before I could investigate any more I was interrupted by a some yelling “Theyla! Theyla! Where are you!?" That's when the girl named Theyla said “Sorry I must leave, See you soon?" I stuttered and said “S..Sure." and then I realize something and say “Wait! Your the princess aren't you!?" And she just winks at me and says “maybe, See ya soon Deyner!"
 
 **Tatsumaki** _(19-Sep-18 10:08 PM)_
 
@@ -64274,7 +64274,7 @@ t!8ball Does Emmett rest his cheek on Iris' head?
 
 **Jelsafan0** _(23-Sep-18 04:44 PM)_
 
-> (SAYS “sees the broken tractor beam”)
+> (SAYS “sees the broken tractor beam")
 
 **RPretribution** _(23-Sep-18 04:44 PM)_
 
@@ -64849,7 +64849,7 @@ t!8ball does Deyner capture the enemy?
 
 **Jelsafan0** _(23-Sep-18 05:02 PM)_
 
-> ”Especially the women.”
+> "Especially the women."
 
 **Deyner** _(23-Sep-18 05:03 PM)_
 
@@ -64914,7 +64914,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:04 PM)_
 
-> ”There's one now!”
+> "There's one now!"
 
 **RPretribution** _(23-Sep-18 05:04 PM)_
 
@@ -64944,7 +64944,7 @@ t!8ball Does Sanya attack the Raiders?
 
 **Jelsafan0** _(23-Sep-18 05:05 PM)_
 
-> ”What are you doing here without a man to protect you, little lady?”
+> "What are you doing here without a man to protect you, little lady?"
 
 **WatchfulDrake** _(23-Sep-18 05:05 PM)_
 
@@ -64983,7 +64983,7 @@ In the end, the result was:
 **Jelsafan0** _(23-Sep-18 05:06 PM)_
 
 > The Pirate cackles.
-> ”Ooh, a fiesty one!”
+> "Ooh, a fiesty one!"
 
 **Zander** _(23-Sep-18 05:06 PM)_
 
@@ -65056,7 +65056,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:09 PM)_
 
-> ”Hah hah ha! You obviously don't know how war works, eh kiddo?”
+> "Hah hah ha! You obviously don't know how war works, eh kiddo?"
 
 **PlasmaPerson** _(23-Sep-18 05:09 PM)_
 
@@ -65195,7 +65195,7 @@ t!8ball Does one of the raiders run off with Danny's hammer?
 
 **Jelsafan0** _(23-Sep-18 05:17 PM)_
 
-> ”Hah!”
+> "Hah!"
 
 **Brakia** _(23-Sep-18 05:17 PM)_
 
@@ -65221,7 +65221,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:18 PM)_
 
-> ”that's cute! That's real cute, lil lady!”
+> "that's cute! That's real cute, lil lady!"
 
 **Brakia** _(23-Sep-18 05:18 PM)_
 
@@ -65245,7 +65245,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:19 PM)_
 
-> ”That you're an extra rare catch!”
+> "That you're an extra rare catch!"
 
 **PlasmaPerson** _(23-Sep-18 05:19 PM)_
 
@@ -65309,7 +65309,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:19 PM)_
 
-> ”Some people will pay a real pretty penny for you!”
+> "Some people will pay a real pretty penny for you!"
 
 **WatchfulDrake** _(23-Sep-18 05:20 PM)_
 
@@ -65362,7 +65362,7 @@ t!8ball Does Danny watch the fight with popcorn?
 
 **Jelsafan0** _(23-Sep-18 05:23 PM)_
 
-> ”gah hah hah!”
+> "gah hah hah!"
 
 **Brakia** _(23-Sep-18 05:23 PM)_
 
@@ -65374,7 +65374,7 @@ t!8ball Does Danny watch the fight with popcorn?
 
 **Jelsafan0** _(23-Sep-18 05:23 PM)_
 
-> ”Ohohoho!”
+> "Ohohoho!"
 
 **Platinum_Pathos** _(23-Sep-18 05:24 PM)_
 
@@ -65685,7 +65685,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:35 PM)_
 
-> ”Gah...! Stronger than ya look, aintcha?”
+> "Gah...! Stronger than ya look, aintcha?"
 
 **PlasmaPerson** _(23-Sep-18 05:35 PM)_
 
@@ -66867,7 +66867,7 @@ t!8ball Does Sanya collapse?
 
 **Jelsafan0** _(23-Sep-18 08:53 PM)_
 
-> I'm pretty sure “grass” is actually weed
+> I'm pretty sure “grass" is actually weed
 
 **Platinum_Pathos** _(23-Sep-18 08:53 PM)_
 
@@ -67149,38 +67149,38 @@ t!8ball Does Sanya collapse?
 
 **Platinum_Pathos** _(25-Sep-18 04:00 PM)_
 
-> “Danny! Danny, wake up!”
+> “Danny! Danny, wake up!"
 > I slowly opened my eyes to see bright ocean-blue eyes looking down on me from a perpendicular view.
-> “Adea, before I open my eyes, how much time is it before sunrise?”, I groan.
-> “Umm, three hours before sunrise,” Adea mumbles.
-> “Wake me again, one hour before please,” I request.
-> “But Danny it's the big day! Come on, come on!”
-> “What do you even plan to do while we wait for it to start?”
-> “I don't know but I'm just so ready to join!”
-> “I know you are, but the academy isn't going anywhere.”
-> “Then can you wait awake with me. Pleeeease Danny!” Adea pleaded with her large ovular eyes.
-> “Fine, fine,” I comply. Even though I am a morning person, my blue sister always has too much energy for her own good. I had to learn to control my energy and convert it into useful ways, but it took GUYS with no one to help. The academy eventually helped me to use this to my advantage. Hopefully it will have the same effect on her. After all who else was going to help us. Now the time of GUY has come again when the 8 GUY olds are allowed to take the academy's entrance exam with a chance to become some of the finest warriors on Planet Popstar. This GUY that list includes Adea, I've helped her train and study to ace this test after she claimed she wanted to reach the heights of a Star Warrior just like my own goal.
+> “Adea, before I open my eyes, how much time is it before sunrise?", I groan.
+> “Umm, three hours before sunrise," Adea mumbles.
+> “Wake me again, one hour before please," I request.
+> “But Danny it's the big day! Come on, come on!"
+> “What do you even plan to do while we wait for it to start?"
+> “I don't know but I'm just so ready to join!"
+> “I know you are, but the academy isn't going anywhere."
+> “Then can you wait awake with me. Pleeeease Danny!" Adea pleaded with her large ovular eyes.
+> “Fine, fine," I comply. Even though I am a morning person, my blue sister always has too much energy for her own good. I had to learn to control my energy and convert it into useful ways, but it took GUYS with no one to help. The academy eventually helped me to use this to my advantage. Hopefully it will have the same effect on her. After all who else was going to help us. Now the time of GUY has come again when the 8 GUY olds are allowed to take the academy's entrance exam with a chance to become some of the finest warriors on Planet Popstar. This GUY that list includes Adea, I've helped her train and study to ace this test after she claimed she wanted to reach the heights of a Star Warrior just like my own goal.
 > Following the blue outline of Adea we walk into the expansive living room which covers about fifty square feet complete with a hundred inch TV with surround sound. The living room opened up into a clean kitchen filled with utensils and a fridge holding foods from fresh eggs from Earth and sweets found here on our home planet. The government cares for all of our expenses including the rather luxurious house my sister and I live in as well as any activities outside of the house such as sporting events and movie screenings.
-> “Will Hesper be coming today as well?” Adea asks out of nowhere.
+> “Will Hesper be coming today as well?" Adea asks out of nowhere.
 > “I'm not sure if she can make it today, it was hard enough for me to get a few hours off to see your ceremony. I'll call her on the way to see, is that ok?
 > Hesper, to put it bluntly, is my only friend; she is also one of the few people that have treated Adea and I nicely. Adea treats her as if she were her older sister and the two get along very well.I've known Hesper for about seven GUYS, since our entrance into the academy at eight GUYS.
 > Adea and I are… different from the rest of the population. While the poyo race is known mostly for its tan and pink skin tones, the small human population ranges from pale to dark brown. The poyos rarely get above four feet and ten inches and the humans are usually towering over at a minimum of five feet and 6 inches. I am expected to be done growing now that I am fifteen GUYS, but I've still grown another inch in the last 2 months, now I reach five feet and Adea is currently at 3 feet and 6 inches. The both of us, oddly enough have blue skin tones, and we don't know why, we don't even know where are parents are to ask.
-> “If we're up this early, we might as well do something for the next few hours. How does training sound Adea?”
-> “Ugh, but I don't like training in the morning, can we do something else?”
-> “Nope! To the basement we go!” I yell while grabbing Adea and throwing her over my shoulder like a pack of sand.
-> “Sheesh, what have you been eating, boulders?” I joke.
-> “Hey! That's mean!” Adea yells as she pounds my back.
-> “Should I roll you down these stair?”
-> Adea froze in what one can only assume to be absolute terror. “You wouldn't.”
-> “Do you really want to know what I would and would not do?”
-> “Fine… Can we at least start with shooting?” she asked after I set her down to descend the stairs.
-> “Sure, should I assume you want the bow.”
-> “You know me so well dear brother of mine.”
-> “Then take this,” I say as I toss her a six inch pole with a grip in the middle.
-> “I asked for a bow, not a pole,”
-> “Before you look so dejected, wrap your fingers around the grip and thrust your arm forward” I explain.
+> “If we're up this early, we might as well do something for the next few hours. How does training sound Adea?"
+> “Ugh, but I don't like training in the morning, can we do something else?"
+> “Nope! To the basement we go!" I yell while grabbing Adea and throwing her over my shoulder like a pack of sand.
+> “Sheesh, what have you been eating, boulders?" I joke.
+> “Hey! That's mean!" Adea yells as she pounds my back.
+> “Should I roll you down these stair?"
+> Adea froze in what one can only assume to be absolute terror. “You wouldn't."
+> “Do you really want to know what I would and would not do?"
+> “Fine… Can we at least start with shooting?" she asked after I set her down to descend the stairs.
+> “Sure, should I assume you want the bow."
+> “You know me so well dear brother of mine."
+> “Then take this," I say as I toss her a six inch pole with a grip in the middle.
+> “I asked for a bow, not a pole,"
+> “Before you look so dejected, wrap your fingers around the grip and thrust your arm forward" I explain.
 > Doing as I said the end of the poles popped out and up in the form of a compound bow.
-> “So? What do you think?” I ask.
+> “So? What do you think?" I ask.
 >
 > ---
 >
@@ -69502,7 +69502,7 @@ t!8ball does Chomsky meet the others in the cockpit
 
 **Jelsafan0** _(30-Sep-18 03:12 PM)_
 
-t!8ball does Iris whisper to Emmett “can I set the booth on fire?”
+t!8ball does Iris whisper to Emmett “can I set the booth on fire?"
 
 **Tatsumaki** _(30-Sep-18 03:12 PM)_
 
@@ -73643,7 +73643,7 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 
 **Jelsafan0** _(07-Oct-18 03:41 PM)_
 
-> ”GET OUT OF MY HOUSE!”
+> "GET OUT OF MY HOUSE!"
 
 **RPretribution** _(07-Oct-18 03:41 PM)_
 
@@ -73702,7 +73702,7 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 
 **Jelsafan0** _(07-Oct-18 03:44 PM)_
 
-> ”WHY YOU LITTLE-!
+> "WHY YOU LITTLE-!
 
 **Zander** _(07-Oct-18 03:44 PM)_
 
@@ -73719,7 +73719,7 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 **Jelsafan0** _(07-Oct-18 03:44 PM)_
 
 > an ottori man emerges, grabbing her arm.
-> “Hey, Hey, Martha, settle it down there.”
+> “Hey, Hey, Martha, settle it down there."
 
 **RPretribution** _(07-Oct-18 03:44 PM)_
 
@@ -73742,7 +73742,7 @@ t!8ball Does Seth throw a rock at the dam causing it to crumble and kill everyon
 
 **Jelsafan0** _(07-Oct-18 03:45 PM)_
 
-> ”I'm sorry about my wife there. She's very territorial after we were attacked last year.”
+> "I'm sorry about my wife there. She's very territorial after we were attacked last year."
 
 **Bagelwrecker** _(07-Oct-18 03:45 PM)_
 
@@ -73789,7 +73789,7 @@ t!8ball does garrick go invade another house
 
 **Jelsafan0** _(07-Oct-18 03:47 PM)_
 
-> ”HEY! GET OUT!!!”
+> "HEY! GET OUT!!!"
 > a shrill voice screeches.
 
 **Zander** _(07-Oct-18 03:47 PM)_
@@ -73821,7 +73821,7 @@ t!8ball Does Garrick pull out [random item dictated by Rashidi] out of his pocke
 
 **Jelsafan0** _(07-Oct-18 03:49 PM)_
 
-> ”HEY! GET BACK HERE!”
+> "HEY! GET BACK HERE!"
 
 **Bagelwrecker** _(07-Oct-18 03:49 PM)_
 
@@ -73893,7 +73893,7 @@ t!8ball Does Garrick pull out [random item dictated by Rashidi] out of his pocke
 **Jelsafan0** _(07-Oct-18 03:52 PM)_
 
 > the ottori girl follows him fuming, fur wet with a towel on.
-> ”HEY! THAT WAS MY NANA'S!”
+> "HEY! THAT WAS MY NANA'S!"
 
 **PlasmaPerson** _(07-Oct-18 03:52 PM)_
 
@@ -73956,7 +73956,7 @@ t!8ball answer me better this time
 
 **Jelsafan0** _(07-Oct-18 03:55 PM)_
 
-> ”HEY! LEAVE MY NANA'S HEIRLOOMS ALONE!”
+> "HEY! LEAVE MY NANA'S HEIRLOOMS ALONE!"
 
 **PlasmaPerson** _(07-Oct-18 03:55 PM)_
 
@@ -73985,7 +73985,7 @@ t!8ball answer me better this time
 **Jelsafan0** _(07-Oct-18 03:56 PM)_
 
 > Her face turns red.
-> ”WHY I OUGHTA-!
+> "WHY I OUGHTA-!
 
 **Zander** _(07-Oct-18 03:56 PM)_
 
@@ -74098,7 +74098,7 @@ t!8ball Is the water from the stream Piss?
 **Jelsafan0** _(07-Oct-18 04:01 PM)_
 
 > the ottori girl turns pink.
-> ”Look. If you want my nana's heirlooms, you'll have to take me too!”
+> "Look. If you want my nana's heirlooms, you'll have to take me too!"
 
 **RPretribution** _(07-Oct-18 04:01 PM)_
 
@@ -74115,9 +74115,9 @@ t!8ball Is the water from the stream Piss?
 
 **Jelsafan0** _(07-Oct-18 04:02 PM)_
 
-> ”h-hey!”
+> "h-hey!"
 > She exclaims, red faced,
-> ”I-I'm an adult!”
+> "I-I'm an adult!"
 
 **RPretribution** _(07-Oct-18 04:02 PM)_
 
@@ -74210,7 +74210,7 @@ t!8ball Is the water from the stream Piss?
 
 **Jelsafan0** _(07-Oct-18 04:05 PM)_
 
-> ”Jesus, Jessica!”
+> "Jesus, Jessica!"
 > the man exclaims.
 
 **WatchfulDrake** _(07-Oct-18 04:06 PM)_
@@ -74251,7 +74251,7 @@ t!8ball does garrick tase the little girl
 
 **Jelsafan0** _(07-Oct-18 04:07 PM)_
 
-> ”make it stop!”
+> "make it stop!"
 > one of them complains
 
 **Zander** _(07-Oct-18 04:07 PM)_
@@ -74284,7 +74284,7 @@ t!8ball Does one of the Ottori start running around with a bomb in his hands, sc
 
 **Jelsafan0** _(07-Oct-18 04:07 PM)_
 
-> ”H-HE HATES MEEEEEEEE!”
+> "H-HE HATES MEEEEEEEE!"
 
 **PlasmaPerson** _(07-Oct-18 04:07 PM)_
 
@@ -74300,7 +74300,7 @@ t!8ball Does one of the Ottori start running around with a bomb in his hands, sc
 
 **Jelsafan0** _(07-Oct-18 04:08 PM)_
 
-> ”I'M 12!!”
+> "I'M 12!!"
 > she screams, louder, clearly upset.
 
 **Bagelwrecker** _(07-Oct-18 04:08 PM)_
@@ -74437,7 +74437,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:11 PM)_
 
-> ”Jessica, sweetheart, what's wrong?”
+> "Jessica, sweetheart, what's wrong?"
 
 **Platinum_Pathos** _(07-Oct-18 04:11 PM)_
 
@@ -74465,7 +74465,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:12 PM)_
 
-> ”H-HE DOESN'T LIKE MEEEEE!!!!”
+> "H-HE DOESN'T LIKE MEEEEE!!!!"
 
 **Bagelwrecker** _(07-Oct-18 04:12 PM)_
 
@@ -74567,7 +74567,7 @@ t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Jelsafan0** _(07-Oct-18 04:17 PM)_
 
-> ”AHHHHHHH!!!!”
+> "AHHHHHHH!!!!"
 
 **Zander** _(07-Oct-18 04:17 PM)_
 
@@ -74609,7 +74609,7 @@ t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Jelsafan0** _(07-Oct-18 04:18 PM)_
 
-> ”You! Young man! You say you'll love our daughter?”
+> "You! Young man! You say you'll love our daughter?"
 
 **Bagelwrecker** _(07-Oct-18 04:18 PM)_
 
@@ -74618,7 +74618,7 @@ t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Jelsafan0** _(07-Oct-18 04:18 PM)_
 
-> ”Jessica sweetheart, he says he loves you!”
+> "Jessica sweetheart, he says he loves you!"
 
 **Zander** _(07-Oct-18 04:18 PM)_
 
@@ -74648,7 +74648,7 @@ t!8ball does hector find the dam's bank?
 
 **Jelsafan0** _(07-Oct-18 04:19 PM)_
 
-> ”...really?”
+> "...really?"
 
 **WatchfulDrake** _(07-Oct-18 04:19 PM)_
 
@@ -74692,7 +74692,7 @@ t!8ball does hector find the dam's bank?
 **Jelsafan0** _(07-Oct-18 04:19 PM)_
 
 > she tosses a small ball of flame between her hands, juggling it.
-> ”yay!!”
+> "yay!!"
 
 **Zander** _(07-Oct-18 04:20 PM)_
 
@@ -78659,7 +78659,7 @@ t!8ball does Chomsky go into his room now
 
 **Deyner** _(28-Oct-18 03:06 PM)_
 
-> That way you can beat up “evil-doers” quicker
+> That way you can beat up “evil-doers" quicker
 
 **PlasmaPerson** _(28-Oct-18 03:06 PM)_
 
@@ -78909,7 +78909,7 @@ t!8ball does Chomsky go into his room now
 
 **Deyner** _(28-Oct-18 03:15 PM)_
 
-> What's “a Earth”
+> What's “a Earth"
 
 **Jelsafan0** _(28-Oct-18 03:15 PM)_
 
@@ -79460,7 +79460,7 @@ t!8ball does jim look up how much a fridge cost?
 
 **RPretribution** _(28-Oct-18 03:35 PM)_
 
-> “I'm all ears!”
+> “I'm all ears!"
 
 **TheBlade** _(28-Oct-18 03:35 PM)_
 
@@ -80628,7 +80628,7 @@ In the end, the result was:
 
 > the boy puts down the huge weights and turns, spotting Iris.
 > He laughs in disbelief.
-> ”I didn't think I'd ever see you again!”
+> "I didn't think I'd ever see you again!"
 
 **TheBlade** _(28-Oct-18 04:13 PM)_
 
@@ -80665,7 +80665,7 @@ t!8ball does Deyner spot somebody he thought was dead?
 **Jelsafan0** _(28-Oct-18 04:15 PM)_
 
 > He ruffles her hair.
-> ”Not a chance, squirt.”
+> "Not a chance, squirt."
 > She smirks and lights her finger on fire.
 > Now will you let me go?
 
@@ -80677,7 +80677,7 @@ t!8ball does Deyner spot somebody he thought was dead?
 **Jelsafan0** _(28-Oct-18 04:16 PM)_
 
 > He puts her down, raising his hands in surrender.
-> ”Okay, okay. No need to get rough.”
+> "Okay, okay. No need to get rough."
 
 **TheBlade** _(28-Oct-18 04:16 PM)_
 
@@ -80714,7 +80714,7 @@ t!8ball does Deyner spot somebody he thought was dead?
 **Jelsafan0** _(28-Oct-18 04:19 PM)_
 
 > Damien shrugs.
-> ”I never gave up on it. I'm the army medic now!”
+> "I never gave up on it. I'm the army medic now!"
 
 **Zander** _(28-Oct-18 04:19 PM)_
 
@@ -80757,7 +80757,7 @@ t!8ball does Deyner spot somebody he thought was dead?
 **Jelsafan0** _(28-Oct-18 04:21 PM)_
 
 > Damien laughs.
-> ”So what have you been doing, squirt?”
+> "So what have you been doing, squirt?"
 
 **PlasmaPerson** _(28-Oct-18 04:21 PM)_
 
@@ -80825,7 +80825,7 @@ t!8ball does Emmett wake up Canadian
 **Jelsafan0** _(28-Oct-18 04:23 PM)_
 
 > Uh... heya... Duske.
-> ”Hey, dude.”
+> "Hey, dude."
 > Damien greets casually.
 
 **Deyner** _(28-Oct-18 04:24 PM)_
@@ -80893,7 +80893,7 @@ t!8ball does Emmett wake up Canadian
 > gets burned by the touch of a demon
 > This is my queen Iris!! I found her
 
-> ”blushes”
+> "blushes"
 
 **Zander** _(28-Oct-18 04:26 PM)_
 
@@ -80946,9 +80946,9 @@ t!8ball does Emmett wake up Canadian
 **Jelsafan0** _(28-Oct-18 04:28 PM)_
 
 > Damien nudges Iris.
-> ”By the way...”
+> "By the way..."
 > he mentions quietly.
-> ”I still intend to fulfill my promise from last time we saw each other.”
+> "I still intend to fulfill my promise from last time we saw each other."
 
 > Iris' face turns very, very red.
 
@@ -80972,14 +80972,14 @@ t!8ball does Emmett wake up Canadian
 
 **Deyner** _(28-Oct-18 04:30 PM)_
 
-> “Deyner don't pry into people's personal lives!”
+> “Deyner don't pry into people's personal lives!"
 > gets slapped by Duske
 > t! d4
 
 **Jelsafan0** _(28-Oct-18 04:30 PM)_
 
 > He smirks.
-> ”Yes I do~”
+> "Yes I do~"
 
 **TheBlade** _(28-Oct-18 04:30 PM)_
 
@@ -81064,7 +81064,7 @@ t!8ball does Damien actually intend to fulfill his promise?
 **Jelsafan0** _(28-Oct-18 04:35 PM)_
 
 > he chuckles.
-> ”I'm sure I will.”
+> "I'm sure I will."
 > Iris speeds up.
 > They need a doctor.
 > The two run to the ship.
@@ -81106,7 +81106,7 @@ t!8ball does Damien actually intend to fulfill his promise?
 **Jelsafan0** _(28-Oct-18 04:38 PM)_
 
 > Iris pulls Damien to Jim and Emmett.
-> ”Move aside, I'm a medic.”
+> "Move aside, I'm a medic."
 
 **PlasmaPerson** _(28-Oct-18 04:40 PM)_
 
@@ -81158,7 +81158,7 @@ t!8ball does Damien think Emmett needs surgery?
 
 **Jelsafan0** _(28-Oct-18 04:41 PM)_
 
-> ”He's gonna need surgery.”
+> "He's gonna need surgery."
 
 **TheBlade** _(28-Oct-18 04:42 PM)_
 
@@ -81176,7 +81176,7 @@ t!8ball does Damien perform surgery right here?
 
 **Jelsafan0** _(28-Oct-18 04:43 PM)_
 
-> ”Yeah.”
+> "Yeah."
 
 **TheBlade** _(28-Oct-18 04:43 PM)_
 
@@ -81196,7 +81196,7 @@ t!8ball does Damien have his tools?
 
 **Jelsafan0** _(28-Oct-18 04:43 PM)_
 
-> ”Get me a shard of sterilized broken glass, I'm missing my scalpel.”
+> "Get me a shard of sterilized broken glass, I'm missing my scalpel."
 
 **TheBlade** _(28-Oct-18 04:44 PM)_
 
@@ -81210,7 +81210,7 @@ t!8ball does Damien have his tools?
 
 **Jelsafan0** _(28-Oct-18 04:44 PM)_
 
-> ”hurry.”
+> "hurry."
 
 **Zander** _(28-Oct-18 04:44 PM)_
 
@@ -81224,7 +81224,7 @@ t!8ball does Damien have his tools?
 
 **Jelsafan0** _(28-Oct-18 04:45 PM)_
 
-> ”Iris,”
+> "Iris,"
 > Damien prompts.
 
 **Zander** _(28-Oct-18 04:45 PM)_
@@ -81504,7 +81504,7 @@ t!8ball does Iris try to wake Emmett up?
 
 **Jelsafan0** _(28-Oct-18 04:54 PM)_
 
-> ”So, uh... how do you know this guy again?”
+> "So, uh... how do you know this guy again?"
 > ...he's the captain.
 
 **Zander** _(28-Oct-18 04:54 PM)_
@@ -81527,7 +81527,7 @@ t!8ball does Iris try to wake Emmett up?
 **Jelsafan0** _(28-Oct-18 04:56 PM)_
 
 > Oh! This is Damien. We were friends when I was younger, when I used to come here a lot. He saved your life!
-> ”Eh, it was nothing. I needed the practice.”
+> "Eh, it was nothing. I needed the practice."
 
 **Zander** _(28-Oct-18 04:57 PM)_
 
@@ -81537,7 +81537,7 @@ t!8ball does Iris try to wake Emmett up?
 **Jelsafan0** _(28-Oct-18 04:58 PM)_
 
 > Damien nods respectfully.
-> ”anytime, man.”
+> "anytime, man."
 
 **Zander** _(28-Oct-18 04:58 PM)_
 

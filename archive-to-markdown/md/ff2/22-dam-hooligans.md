@@ -1561,7 +1561,7 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 
 **Jelsafan0** _(07-Oct-18 03:41 PM)_
 
-> ”GET OUT OF MY HOUSE!”
+> "GET OUT OF MY HOUSE!"
 
 **RPretribution** _(07-Oct-18 03:41 PM)_
 
@@ -1620,7 +1620,7 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 
 **Jelsafan0** _(07-Oct-18 03:44 PM)_
 
-> ”WHY YOU LITTLE-!
+> "WHY YOU LITTLE-!
 
 **Zander** _(07-Oct-18 03:44 PM)_
 
@@ -1637,7 +1637,7 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 **Jelsafan0** _(07-Oct-18 03:44 PM)_
 
 > an ottori man emerges, grabbing her arm.
-> “Hey, Hey, Martha, settle it down there.”
+> “Hey, Hey, Martha, settle it down there."
 
 **RPretribution** _(07-Oct-18 03:44 PM)_
 
@@ -1660,7 +1660,7 @@ t!8ball Does Seth throw a rock at the dam causing it to crumble and kill everyon
 
 **Jelsafan0** _(07-Oct-18 03:45 PM)_
 
-> ”I'm sorry about my wife there. She's very territorial after we were attacked last year.”
+> "I'm sorry about my wife there. She's very territorial after we were attacked last year."
 
 **Bagelwrecker** _(07-Oct-18 03:45 PM)_
 
@@ -1707,7 +1707,7 @@ t!8ball does garrick go invade another house
 
 **Jelsafan0** _(07-Oct-18 03:47 PM)_
 
-> ”HEY! GET OUT!!!”
+> "HEY! GET OUT!!!"
 > a shrill voice screeches.
 
 **Zander** _(07-Oct-18 03:47 PM)_
@@ -1739,7 +1739,7 @@ t!8ball Does Garrick pull out [random item dictated by Rashidi] out of his pocke
 
 **Jelsafan0** _(07-Oct-18 03:49 PM)_
 
-> ”HEY! GET BACK HERE!”
+> "HEY! GET BACK HERE!"
 
 **Bagelwrecker** _(07-Oct-18 03:49 PM)_
 
@@ -1811,7 +1811,7 @@ t!8ball Does Garrick pull out [random item dictated by Rashidi] out of his pocke
 **Jelsafan0** _(07-Oct-18 03:52 PM)_
 
 > the ottori girl follows him fuming, fur wet with a towel on.
-> ”HEY! THAT WAS MY NANA'S!”
+> "HEY! THAT WAS MY NANA'S!"
 
 **PlasmaPerson** _(07-Oct-18 03:52 PM)_
 
@@ -1874,7 +1874,7 @@ t!8ball answer me better this time
 
 **Jelsafan0** _(07-Oct-18 03:55 PM)_
 
-> ”HEY! LEAVE MY NANA'S HEIRLOOMS ALONE!”
+> "HEY! LEAVE MY NANA'S HEIRLOOMS ALONE!"
 
 **PlasmaPerson** _(07-Oct-18 03:55 PM)_
 
@@ -1903,7 +1903,7 @@ t!8ball answer me better this time
 **Jelsafan0** _(07-Oct-18 03:56 PM)_
 
 > Her face turns red.
-> ”WHY I OUGHTA-!
+> "WHY I OUGHTA-!
 
 **Zander** _(07-Oct-18 03:56 PM)_
 
@@ -2016,7 +2016,7 @@ t!8ball Is the water from the stream Piss?
 **Jelsafan0** _(07-Oct-18 04:01 PM)_
 
 > the ottori girl turns pink.
-> ”Look. If you want my nana's heirlooms, you'll have to take me too!”
+> "Look. If you want my nana's heirlooms, you'll have to take me too!"
 
 **RPretribution** _(07-Oct-18 04:01 PM)_
 
@@ -2033,9 +2033,9 @@ t!8ball Is the water from the stream Piss?
 
 **Jelsafan0** _(07-Oct-18 04:02 PM)_
 
-> ”h-hey!”
+> "h-hey!"
 > She exclaims, red faced,
-> ”I-I'm an adult!”
+> "I-I'm an adult!"
 
 **RPretribution** _(07-Oct-18 04:02 PM)_
 
@@ -2128,7 +2128,7 @@ t!8ball Is the water from the stream Piss?
 
 **Jelsafan0** _(07-Oct-18 04:05 PM)_
 
-> ”Jesus, Jessica!”
+> "Jesus, Jessica!"
 > the man exclaims.
 
 **WatchfulDrake** _(07-Oct-18 04:06 PM)_
@@ -2169,7 +2169,7 @@ t!8ball does garrick tase the little girl
 
 **Jelsafan0** _(07-Oct-18 04:07 PM)_
 
-> ”make it stop!”
+> "make it stop!"
 > one of them complains
 
 **Zander** _(07-Oct-18 04:07 PM)_
@@ -2202,7 +2202,7 @@ t!8ball Does one of the Ottori start running around with a bomb in his hands, sc
 
 **Jelsafan0** _(07-Oct-18 04:07 PM)_
 
-> ”H-HE HATES MEEEEEEEE!”
+> "H-HE HATES MEEEEEEEE!"
 
 **PlasmaPerson** _(07-Oct-18 04:07 PM)_
 
@@ -2218,7 +2218,7 @@ t!8ball Does one of the Ottori start running around with a bomb in his hands, sc
 
 **Jelsafan0** _(07-Oct-18 04:08 PM)_
 
-> ”I'M 12!!”
+> "I'M 12!!"
 > she screams, louder, clearly upset.
 
 **Bagelwrecker** _(07-Oct-18 04:08 PM)_
@@ -2355,7 +2355,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:11 PM)_
 
-> ”Jessica, sweetheart, what's wrong?”
+> "Jessica, sweetheart, what's wrong?"
 
 **Platinum_Pathos** _(07-Oct-18 04:11 PM)_
 
@@ -2383,7 +2383,7 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:12 PM)_
 
-> ”H-HE DOESN'T LIKE MEEEEE!!!!”
+> "H-HE DOESN'T LIKE MEEEEE!!!!"
 
 **Bagelwrecker** _(07-Oct-18 04:12 PM)_
 
@@ -2485,7 +2485,7 @@ t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Jelsafan0** _(07-Oct-18 04:17 PM)_
 
-> ”AHHHHHHH!!!!”
+> "AHHHHHHH!!!!"
 
 **Zander** _(07-Oct-18 04:17 PM)_
 
@@ -2527,7 +2527,7 @@ t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Jelsafan0** _(07-Oct-18 04:18 PM)_
 
-> ”You! Young man! You say you'll love our daughter?”
+> "You! Young man! You say you'll love our daughter?"
 
 **Bagelwrecker** _(07-Oct-18 04:18 PM)_
 
@@ -2536,7 +2536,7 @@ t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Jelsafan0** _(07-Oct-18 04:18 PM)_
 
-> ”Jessica sweetheart, he says he loves you!”
+> "Jessica sweetheart, he says he loves you!"
 
 **Zander** _(07-Oct-18 04:18 PM)_
 
@@ -2566,7 +2566,7 @@ t!8ball does hector find the dam's bank?
 
 **Jelsafan0** _(07-Oct-18 04:19 PM)_
 
-> ”...really?”
+> "...really?"
 
 **WatchfulDrake** _(07-Oct-18 04:19 PM)_
 
@@ -2610,7 +2610,7 @@ t!8ball does hector find the dam's bank?
 **Jelsafan0** _(07-Oct-18 04:19 PM)_
 
 > she tosses a small ball of flame between her hands, juggling it.
-> ”yay!!”
+> "yay!!"
 
 **Zander** _(07-Oct-18 04:20 PM)_
 

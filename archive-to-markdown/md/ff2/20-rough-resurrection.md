@@ -2048,8 +2048,6 @@ _As Emmett's stench starts to get to him once more, he loosens his grip on Iris.
 
 > I should be over it...
 
-> ...but I'm not...
-
 **Brakia** _(23-Sep-18 04:44 PM)_
 
 > Where are they?
@@ -2057,6 +2055,10 @@ _As Emmett's stench starts to get to him once more, he loosens his grip on Iris.
 **Deyner** _(23-Sep-18 04:44 PM)_
 
 _Deyner sees the broken tractor beam._
+
+**Jelsafan0** _(23-Sep-18 04:44 PM)_
+
+> ... But I'm not...
 
 **PlasmaPerson** _(23-Sep-18 04:44 PM)_
 
@@ -2138,7 +2140,7 @@ _Emmett playfully rolls his eyes and picks up his clothing._
 
 **Jelsafan0** _(23-Sep-18 04:47 PM)_
 
-t!8ball Does Chomsky throw a muffin?
+t!8ball Does Lili NOT ask 8ball if Chomsky throws a muffin?
 
 **Tatsumaki** _(23-Sep-18 04:47 PM)_
 
@@ -2146,7 +2148,7 @@ t!8ball Does Chomsky throw a muffin?
 
 **Bagelwrecker** _(23-Sep-18 04:47 PM)_
 
-t!8ball Does Seth convince the stock salesman to give us all his money (which is 700,000,000 GU Credits) thus causing Dread to appear within Sanya's butthole?
+t!8ball Does Seth convince the stock salesman to give us all his money which is 700,000,000 GU Credits thus causing Dread to appear within Sanya's butthole?
 
 **Tatsumaki** _(23-Sep-18 04:47 PM)_
 
@@ -2184,7 +2186,7 @@ _Chomsky gives Deyner an awkward wave, rubbing his neck from the celery slap._
 
 **Jelsafan0** _(23-Sep-18 04:48 PM)_
 
-> ...thanks...
+> ... Thanks....
 
 **Brakia** _(23-Sep-18 04:48 PM)_
 
@@ -2196,11 +2198,11 @@ _Sanya keeps her gaze on Iris._
 
 > Uh...
 
-_Iris shows the group her inner arms, where her veins are glowing._
+_Iris shows the group her inner arms._
 
 **Bagelwrecker** _(23-Sep-18 04:49 PM)_
 
-t!8ball Does Seth convince the stock salesman to give him all his money (which is 700,000,000 Ducketts) thus causing Dread to appear within Garrick's butthole and take away all of the crew's well-earned Ducketts?
+t!8ball Does Seth convince the stock salesman to give him all his money which is 700,000,000 Ducketts thus causing Dread to appear within Garrick's butthole and take away all of the crew's well-earned Ducketts?
 
 **Tatsumaki** _(23-Sep-18 04:49 PM)_
 
@@ -2218,7 +2220,7 @@ _Emmett folds his arms._
 
 **Deyner** _(23-Sep-18 04:49 PM)_
 
-> I'm Deyner... Deyner Revathen.
+> I'm Deyner... Deyner Revathen
 
 _Deyner stretches out his hand._
 
@@ -2228,58 +2230,71 @@ _Sanya looks over to Emmett, not realizing his need for attention._
 
 > Emmett, what's wrong?
 
-_Sanya stretches and manages to snap Emmett's sweatpants more._
+_Sanya stretches and manages to rip Emmett's sweatpants more._
 
 > Oh crap, I need some pants.
 
 **Deyner** _(23-Sep-18 04:50 PM)_
 
-_Frost starts spreading up Deyner's arm as he waits._
+_Frost starts spreading up Deyner's arms as he waits._
 
 **Zander** _(23-Sep-18 04:50 PM)_
 
-> I'm taking a shower.
+> I'm taking a shower...
 
 **PlasmaPerson** _(23-Sep-18 04:50 PM)_
 
-_He accepts the handshake._
+_Chomsky accepts the handshake from Deyner._
 
-> Chomsky. A pleasure to meet you.
+> Name's Chomsky. A pleasure to meet you.
 
 **Zander** _(23-Sep-18 04:50 PM)_
 
 > See you all later.
 
+_Emmett storms out the area, envious._
+
 **Jelsafan0** _(23-Sep-18 04:50 PM)_
 
-> I have some old shorts if you want.
+> I have some old shorts if you want...
 
-_Iris snaps her head around towards where Emmett is going._
+_Iris watches as Emmett leaves them._
 
 > Oh- bye Emmett!
 
-**Zander** _(23-Sep-18 04:50 PM)_
-
-> Emmett storms out the area.
-
 **Brakia** _(23-Sep-18 04:50 PM)_
 
-> Thank you.
+> Thank you...
+
+_Sanya scoffs at Emmett's behavior._
 
 **RPretribution** _(23-Sep-18 04:50 PM)_
+
+_Garrick appears behind Chomsky and flips himself over Chomsky's head wearing Groucho Marx glasses._
 
 > Psst... Chonko. This guy seems a little cuckoo, if you ask me.
 
 **PlasmaPerson** _(23-Sep-18 04:50 PM)_
 
-> Oh. Ice.
+> Oh...
+
+_Chomsky watches Deyner's icy predicament, unsure of what is going on._
+
+> Ice.
+
+_Chomsky slaps Garrick's glasses off._
 
 **Deyner** _(23-Sep-18 04:51 PM)_
 
-> Hot hot!! Sorry I'm a bit sensitive to heat cause of being half snow elf.
+> Hot hot!!
 
-> Yo, wicked flame thrower!
+_Deyner holds his arms, attempting to keep himself away from Chomsky._
 
+> Sorry I'm a bit sensitive to heat cause', you know. Being half snow elf and all.
+
+_Deyner eyeballs Chomsky's weapon of choice._
+
+> Yo, wicked flamethrower though!
 
 **RPretribution** _(23-Sep-18 04:51 PM)_
 
@@ -2287,9 +2302,7 @@ _Garrick looks at Deyner and then back at Chomsky, sensing some romantic tension
 
 **Jelsafan0** _(23-Sep-18 04:52 PM)_
 
-_Iris looks back towards Sanya._
-
-> Third drawer to the left on the top. I'm gonna go check on Emmett.
+> Third drawer to the left on the top. I'm gonna go check on Emmett...
 
 **Brakia** _(23-Sep-18 04:52 PM)_
 
@@ -2309,7 +2322,11 @@ _Iris turns and follows Emmett._
 
 > Can I see it?
 
+_Deyner holds his hands out excitedly._
+
 **PlasmaPerson** _(23-Sep-18 04:52 PM)_
+
+_Chomsky hands over his flamethrower to Deyner._
 
 > Yeah, have at it. But there's some stupid loose screw, so be careful.
 > It might fall apart any day.
@@ -2334,7 +2351,7 @@ _Emmett is on the brink of closing the bathroom door._
 
 **Deyner** _(23-Sep-18 04:53 PM)_
 
-_Deyner fixes the flame thrower._
+_Deyner manages to quickly fix the flamethrower._
 
 **Jelsafan0** _(23-Sep-18 04:53 PM)_
 
@@ -2346,6 +2363,8 @@ _Iris jams her foot between the door and the doorway._
 
 > Hm?
 
+_Emmett peers out the door._
+
 **Deyner** _(23-Sep-18 04:54 PM)_
 
 > Here you go! Good as new!
@@ -2354,7 +2373,7 @@ _Deyner hands back Chomsky's flamethrower._
 
 **RPretribution** _(23-Sep-18 04:54 PM)_
 
-t!8ball does Garrick take the flame thrower from Deyner and look at it?
+t!8ball Does Garrick take the flame thrower from Deyner and look at it?
 
 **Tatsumaki** _(23-Sep-18 04:54 PM)_
 
@@ -2363,6 +2382,8 @@ t!8ball does Garrick take the flame thrower from Deyner and look at it?
 **Brakia** _(23-Sep-18 04:54 PM)_
 
 > Where am I?
+
+_Sanya puts her hands on her hips and looks about her, unsure where she is on the ship._
 
 > Am I...
 
@@ -2375,13 +2396,13 @@ _Chomsky turns back and walks away, throwing his hand up nonchalantly._
 > I'm gonna sit on my muffin throne again.
 > See ya, guys.
 
-**RPretribution** _(23-Sep-18 04:54 PM)_
-
-_Garrick squints harder at Chomsky. Something is brewing._
-
 **Deyner** _(23-Sep-18 04:55 PM)_
 
-> Garrick, if you wish, I could make you one... it seems very easy to make...?
+> Garrick, if you wish, I could make you one...
+
+_Deyner inspects the flamethrower._
+
+> It seems fairly simple to make...?
 
 **RPretribution** _(23-Sep-18 04:55 PM)_
 
@@ -2391,7 +2412,7 @@ _Garrick jumps towards Deyner, ending up inches from his face._
 
 **Zander** _(23-Sep-18 04:55 PM)_
 
-> Iris?
+> Iris? I'm trying to take a shower here.
 
 **Deyner** _(23-Sep-18 04:55 PM)_
 
@@ -2402,7 +2423,7 @@ _Deyner gives a slight smirk._
 
 **RPretribution** _(23-Sep-18 04:55 PM)_
 
-_Garrick ignores
+_Garrick ignores Deyner's attempt to blackmail him._
 
 > A flamethrower is one of the few weapons I've never used.
 
@@ -2410,45 +2431,34 @@ _Garrick ignores
 
 > Ask Chomsky. It is his weapon, I would have to take it apart to make it.
 
-**Jelsafan0** _(23-Sep-18 04:56 PM)_
+**Jelsafan0** _(23-Sep-18 04:55 PM)_
 
 > Are you okay?
+> I noticed you leaving us angrily...
 
 **Zander** _(23-Sep-18 04:56 PM)_
 
 > I guess.
 
+_Emmett shrugs._
+
 **Brakia** _(23-Sep-18 04:56 PM)_
 
-> `Ok, now with some proper clothes, I can- Wait, where are my weapons?`
+_Sanya manages to make her way to her room and grabs Iris's shorts she offered her. Man, having only a couple pairs of clothes is awful._
+
+> Ok, now with some proper clothes, I can- Wait, where are my weapons?
 
 **RPretribution** _(23-Sep-18 04:56 PM)_
 
-> Alright.
+> Alright...
+
+_Garrick races to get Chomsky's approval._
 
 **Jelsafan0** _(23-Sep-18 04:56 PM)_
 
-> Iris gives him a doubtful look.
+_Iris gives him a doubtful look._
 
-**PlasmaPerson** _(23-Sep-18 04:56 PM)_
-
-> Ok bye for real
-
-**RPretribution** _(23-Sep-18 04:57 PM)_
-
-> bye smelly
-
-**PlasmaPerson** _(23-Sep-18 04:57 PM)_
-
-> U smelly
-
-**RPretribution** _(23-Sep-18 04:57 PM)_
-
-> wait
-> @PlasmaPerson
-> make chonko say yes to garrick about the flamethrower
-> pleas
-> e
+> C'mon, Emmett.
 
 **Zander** _(23-Sep-18 04:57 PM)_
 
@@ -2456,49 +2466,43 @@ t!8ball Does the ship start getting boarded without anyone noticing?
 
 **Tatsumaki** _(23-Sep-18 04:57 PM)_
 
-🎱 | It is decidedly so,
-
-> Zander
-> .
-
-**PlasmaPerson** _(23-Sep-18 04:57 PM)_
-
-> no
-
-**RPretribution** _(23-Sep-18 04:57 PM)_
-
-> Do it anyways.
+🎱 | It is decidedly so, Zander.
 
 **Deyner** _(23-Sep-18 04:58 PM)_
 
-> hey what's with Iris she seemed upset when I asked what she was?
+_Deyner speaks to himself as Garrick leaves to ask Chomsky._
+
+> Hey what's with Iris? She seemed upset when I asked what race she was?
 
 **RPretribution** _(23-Sep-18 04:58 PM)_
 
-> I don't have any money, I can't buy one.
+> Hey Chomsky, before you leave to your muffin throne, can Deyner copy your flamethrower?
 
 **PlasmaPerson** _(23-Sep-18 04:58 PM)_
 
-> ninja needs a shuiruken
+> Uh... no. Just buy one yourself, Garlic.
+
+**RPretribution** _(23-Sep-18 04:58 PM)_
+
+> I don't have any money, I can't buy one...
+
+**PlasmaPerson** _(23-Sep-18 04:58 PM)_
+
+_Chomsky shrugs and gives an unclear answer before leaving for the kitchen._
+
+> Ninja needs a shuriken.
 
 **Zander** _(23-Sep-18 04:58 PM)_
 
-> Emmett tries to keep his poker face.
+_Emmett tries to keep his poker face._
 
-**Brakia** _(23-Sep-18 04:58 PM)_
-
-t!8ball Does Sanya head to the pool for her weapons?
-
-**Tatsumaki** _(23-Sep-18 04:58 PM)_
-
-🎱 | Reply hazy try again,
-
-> Brakia
-> .
+> Iris, I'm fine.
 
 **Jelsafan0** _(23-Sep-18 04:58 PM)_
 
 > Emmett.
+
+_Iris stares into Emmett, knowing he's lying._
 
 **Brakia** _(23-Sep-18 04:58 PM)_
 
@@ -2506,131 +2510,102 @@ t!8ball Does Sanya head to the pool?
 
 **Tatsumaki** _(23-Sep-18 04:58 PM)_
 
-🎱 | It is certain,
-
-> Brakia
-> .
+🎱 | It is certain, Brakia.
 
 **RPretribution** _(23-Sep-18 04:59 PM)_
 
+_Garrick throws his hands, irked by Chomsky's half-answer. He heads back to Deyner and mutters to himself._
+
 > Fine, I'll just take it when he's not looking.
+> Or when he is looking. I kinda do that for a living.
 
 **Brakia** _(23-Sep-18 04:59 PM)_
 
-> `I think I was at the pool...`
-
-**RPretribution** _(23-Sep-18 04:59 PM)_
-
-> Or when he is looking. I kinda do that for a living.
+> I think I was at the pool...
 
 **Deyner** _(23-Sep-18 04:59 PM)_
 
-> senses someone sneaking behind him and grabs the swords at his hips and points it at them
-> Who goes there!
+_Deyner senses someone sneaking behind him and grabs the swords at his hips. He points them at his assailant._
 
-**Jelsafan0** _(23-Sep-18 04:59 PM)_
-
-> (Why'd you leave)
+> Who goes there!?
 
 **Zander** _(23-Sep-18 05:00 PM)_
 
 > Iris, come with me. In here.
 
-**RPretribution** _(23-Sep-18 05:00 PM)_
+_Emmett grabs Iris's arm._
 
-> got bored
-
-**Zander** _(23-Sep-18 05:00 PM)_
-
-> Nothing weird.
-
-**Deyner** _(23-Sep-18 05:00 PM)_
-
-> (Guys I gotta go cya?)
-
-**RPretribution** _(23-Sep-18 05:00 PM)_
-
-> lemme know if something interesting happens
+> Nothing weird, I promise.
 
 **Jelsafan0** _(23-Sep-18 05:00 PM)_
 
-> ...al...right?
-> Iris does as told.
+> ... Al... right?
 
-**Zander** _(23-Sep-18 05:00 PM)_
-
-> @RPretribution
-> Ship is getting boarded.
-
-**RPretribution** _(23-Sep-18 05:00 PM)_
-
-> ship is what now
-
-**Zander** _(23-Sep-18 05:00 PM)_
-
-> @RPretribution
-> Don't leave us.
+_Iris does as told._
 
 **Brakia** _(23-Sep-18 05:01 PM)_
 
-> `Huh. A pile of petals.`
+> Huh. A pile of petals...
 
-**Deyner** _(23-Sep-18 05:01 PM)_
-
-> (Do you want me to help defend it Zander?)
-
-**Zander** _(23-Sep-18 05:01 PM)_
-
-> (Yeah, let me voice them.)
+_Sanya grabs some petals from the vinyl flooring, intermixed with fur and tar._
 
 **Brakia** _(23-Sep-18 05:01 PM)_
 
-> `I wonder if that's what i looked like.` > `Here's my sword.`
+> I wonder if that's what i looked like...
+
+_Sanya grabs her sword from the ground nearby._
+
+> Here's my sword...
 
 **Zander** _(23-Sep-18 05:01 PM)_
 
-> "We're here for your women and plunder."
+> `Pirate 1`: We're here for your women and plunder!
 
-**PlasmaPerson** _(23-Sep-18 05:01 PM)_
-
-> Whaaat the ship is getting boarded? Right when I gotta go?
-> Big oof
+_`Pirate 1`: The pirate readies his hand cannon at Deyner's face._
 
 **Jelsafan0** _(23-Sep-18 05:01 PM)_
 
-> ...so?
+_Iris looks around the bathroom, kneeling down on a rug._
+
+> ... So?
 
 **Zander** _(23-Sep-18 05:02 PM)_
+
+_Emmett closes the door behind Iris and kneels down with her. He exhales, letting his poker face falter into one of frustration._
 
 > Iris, I just don't get it.
 
 **Brakia** _(23-Sep-18 05:02 PM)_
 
-> `My sword feels... different.`
+> My sword feels... different...
+
+_Sayna admires her sword, noticing how it feels more... dreadful to wield._
 
 **Deyner** _(23-Sep-18 05:02 PM)_
 
-t!8ball does Deyner capture the enemy?
+t!8ball Does Deyner manage to capture the enemy?
 
 **Jelsafan0** _(23-Sep-18 05:02 PM)_
 
-> what do you mean?
+_Iris tilts her head, genuinely confused._
+
+> What do you mean?
 
 **Tatsumaki** _(23-Sep-18 05:02 PM)_
 
-🎱 | Without a doubt,
-
-> Deyner
-> .
+🎱 | Without a doubt, Deyner.
 
 **Jelsafan0** _(23-Sep-18 05:02 PM)_
 
-> ”Especially the women.”
+_`Pirate 2`: Another pirate clasps his hands evilly._
+
+> `Pirate 2`: Especially the women!
 
 **Deyner** _(23-Sep-18 05:03 PM)_
+
+_Having manages to subdue one of the pirates, Deyner yells to try and get the others' attention._
 
 > HELLO!!! Anyone on this ship?
-> `
 
 **Zander** _(23-Sep-18 05:03 PM)_
 
@@ -2638,35 +2613,7 @@ t!8ball Does the enemy assault Deyner, getting out of his trap?
 
 **Tatsumaki** _(23-Sep-18 05:03 PM)_
 
-🎱 | Ask again later,
-
-> Zander
-> .
-
-**Zander** _(23-Sep-18 05:03 PM)_
-
-t!8ball Does the enemy assault Deyner, getting out of his trap?
-t!8ball Does the enemy assault Deyner, getting out of his trap?
-
-**Tatsumaki** _(23-Sep-18 05:03 PM)_
-
-🎱 | Reply hazy try again,
-
-> Zander
-> .
-
-**Zander** _(23-Sep-18 05:03 PM)_
-
-> [Yes]
-
-**Deyner** _(23-Sep-18 05:03 PM)_
-
-> (What!)
-> t!roll
-
-**Tatsumaki** _(23-Sep-18 05:03 PM)_
-
-> Please input a number of sides to roll!
+🎱 | Signs point to yes, Zander.
 
 **Deyner** _(23-Sep-18 05:03 PM)_
 
@@ -2674,29 +2621,27 @@ t!roll 2d14
 
 **Tatsumaki** _(23-Sep-18 05:03 PM)_
 
-> [
->
-> > 2d14
-> > : 10,4]
-
-In the end, the result was:
-14
+🎱 | Rolling a 2d14... Rolled a 10 and a 4, making 14, Deyner.
 
 **Brakia** _(23-Sep-18 05:04 PM)_
 
-> `Oh great, Raiders.`
+_Sanya stands, overhearing Deyner's screaming._
 
-**Zander** _(23-Sep-18 05:04 PM)_
+> Oh great, Raiders...
 
-> (It is really hard to communicate without voice)
+_She runs inside to face the raiders._
 
 **Jelsafan0** _(23-Sep-18 05:04 PM)_
 
-> ”There's one now!”
+> `Pirate 2`: Oh, lucky me! There's one now!
+
+_`Pirate 2`: The pirate holds up a carbonized scabbard, pointing it directly towards Sanya as she enters the room._
 
 **RPretribution** _(23-Sep-18 05:04 PM)_
 
 > Oh, piss off. I was just getting comfortable.
+
+_Garrick digs in his pockets for anything useful._
 
 **Brakia** _(23-Sep-18 05:04 PM)_
 
@@ -2704,26 +2649,17 @@ t!8ball Does Sanya attack the Raiders?
 
 **Tatsumaki** _(23-Sep-18 05:04 PM)_
 
-🎱 | Signs point to yes,
-
-> Brakia
-> .
+🎱 | Signs point to yes, Brakia.
 
 **WatchfulDrake** _(23-Sep-18 05:04 PM)_
 
-> "hand over all your things and maybe I'll let you live"
-
-**Zander** _(23-Sep-18 05:04 PM)_
-
-> (Bill is coordinating the pirates.)
-
-**RPretribution** _(23-Sep-18 05:05 PM)_
-
-> that's not how combat works michael
+> `Pirate 3`: Hand over all your things and maybe I'll let you live, plant!
 
 **Jelsafan0** _(23-Sep-18 05:05 PM)_
 
-> ”What are you doing here without a man to protect you, little lady?”
+> `Pirate 2`: What are you doing here without a man to protect you, little lady?
+
+_`Pirate 2`: The pirate gives a hearty laugh._
 
 **WatchfulDrake** _(23-Sep-18 05:05 PM)_
 
@@ -2731,115 +2667,105 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:05 PM)_
 
-> [
->
-> > d30
-> > : 24]
-
-In the end, the result was:
-24
-
-**Zander** _(23-Sep-18 05:05 PM)_
-
-> Everyone wakes up from a coma and everything practically goes back to how it was.
-
-**RPretribution** _(23-Sep-18 05:05 PM)_
-
-> I mean, I'm not a man, but I could still do some damage.
+🎱 | Rolling a d30... Rolled a 24, WatchfulDrake.
 
 **WatchfulDrake** _(23-Sep-18 05:05 PM)_
 
-> "How'd that feel tough guy?"
+_`Pirate 3`: One of the pirates slams a hammer into Deyner's skull, managing to knock him out cold._
+
+> `Pirate 3`: How'd that feel, tough guy?
+
+**RPretribution** _(23-Sep-18 05:05 PM)_
+
+> I mean, I'm not a man, but I could still do some damage...
+
+_Garrick continues to dig in his pockets._
 
 **Brakia** _(23-Sep-18 05:06 PM)_
 
-> `I'm going to drain you of all your blood, pest`
+_Sanya scowls._
+
+> I'm going to drain you of all your blood, pest.
 
 **Zander** _(23-Sep-18 05:06 PM)_
 
-> Not to be narcissistic, but Emmett is pushed away.
+_Emmett sighs._
+
+> Not to be narcissistic, but Emmett is being pushed away.
+> Emmett doesn't like being pushed away.
 
 **Jelsafan0** _(23-Sep-18 05:06 PM)_
 
-> The Pirate cackles.
-> ”Ooh, a fiesty one!”
+_`Pirate 2`: The Pirate cackles._
 
-**Zander** _(23-Sep-18 05:06 PM)_
-
-> (Michael, you took 24 damage.)
+> `Pirate 2`: Ooh, a fiesty one!
 
 **Jelsafan0** _(23-Sep-18 05:06 PM)_
 
-> Iris sighs.
-> Oh, Zander...
+_Iris sighs._
+
+> Oh, Zz-Emmett...
+
+_Iris gives a weird look, biting her tongue from the verbal slip she nearly had. Zander? That's not Emmett's name!_
 
 **Brakia** _(23-Sep-18 05:06 PM)_
 
-> Iris pulls out her blade, as dread engulfs the sword
+_Sanya pulls out her blade, dread engulfing the sword._
 
-**RPretribution** _(23-Sep-18 05:07 PM)_
-
-> oh zander
-
-**Brakia** _(23-Sep-18 05:07 PM)_
-
-> `Come and get it.`
+> Come and get it.
 
 **PlasmaPerson** _(23-Sep-18 05:07 PM)_
 
-> wait! Its ok, we're space pirates too! Pirates respect pirates, right?
+_Chomsky grimaces and waves his hands for everyone to calm down, as if he's known the pirates already._
+
+> Wait! Its ok, we're space pirates too! Pirates respect pirates, right?
 
 **Jelsafan0** _(23-Sep-18 05:07 PM)_
 
 > I don't-
 > I didn't mean to-
 
-**Deyner** _(23-Sep-18 05:07 PM)_
+_Iris sighs heavily, running her fingers through her hair._
 
-> (Bill can you go for me I gtg phone at 2%?)
-
-**Zander** _(23-Sep-18 05:07 PM)_
-
-> (He's knocking your character out then.)
-
-**Jelsafan0** _(23-Sep-18 05:07 PM)_
-
-> She sighs heavily, running her fingers through her hair.
 > I'm sorry.
 
 **RPretribution** _(23-Sep-18 05:07 PM)_
 
-> Pirates v.s. Pirates. I think I saw a movie about that once.
+> Pirates v.s. Pirates. I think I saw a movie about that once...
 
-**PlasmaPerson** _(23-Sep-18 05:08 PM)_
+_Garrick pulls out an eyepatch and rolls his eyes. He tosses it onto the floor before continuing to look within his pockets._
+
+**WatchfulDrake** _(23-Sep-18 05:08 PM)_
 
 t!roll d15
 
 **Tatsumaki** _(23-Sep-18 05:08 PM)_
 
-> [
->
-> > d15
-> > : 12]
-
-In the end, the result was:
-12
+🎱 | Rolling a d15... Rolled a 12, WatchfulDrake.
 
 **WatchfulDrake** _(23-Sep-18 05:08 PM)_
 
-> "Not so tough now are you?"
+_`Pirate 3`: Without considering Chomsky's attempts at peace, the pirate slashes at him, managing to nick his side. There is no room to negotiate._
+
+> `Pirate 3`: Not so tough now are you?
 
 **Zander** _(23-Sep-18 05:08 PM)_
 
-> It really sounds loud out there.
+_Emmett looks past Iris, realizing how silly he's being._
+
+> It really sounds loud out there...
 
 **Jelsafan0** _(23-Sep-18 05:09 PM)_
 
-> ”Hah hah ha! You obviously don't know how war works, eh kiddo?”
+> `Pirate 2`: Hah hah ha! You obviously don't know how war works, eh kiddo'?
+
+_`Pirate 2`: The pirate readies a shot with their hand cannon._
 
 **PlasmaPerson** _(23-Sep-18 05:09 PM)_
 
-> fine. Eat flames!
+> Fine. Eat flames!
+
+_Chomsky takes out his newly fixed flamethrower. He smirks, ready to burn it all._
 
 **Brakia** _(23-Sep-18 05:09 PM)_
 
@@ -2847,63 +2773,67 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:09 PM)_
 
-> [
->
-> > d30
-> > : 3]
+🎱 | Rolling a d30... Rolled a 3, Brakia.
 
-In the end, the result was:
-3
+**Brakia** _(23-Sep-18 05:09 PM)_
+
+_Sanya takes a slice at one of the pirates, however the sword feels heavier in her grasp than before. She misses, only scraping her target!_
 
 **Jelsafan0** _(23-Sep-18 05:09 PM)_
 
-> Yeah. I'm really sorry.
+> Yeah. I'm really sorry...
+
+_Iris stares into Emmett's distracted eyes._
+
 > I really didn't mean to make you feel left out.
 
 **Zander** _(23-Sep-18 05:10 PM)_
 
-> I appreciate how you came in here to confront me.
+> I appreciate how you came in here to confront me...
+
+_Emmett looks back over to Iris and smiles._
 
 **Jelsafan0** _(23-Sep-18 05:11 PM)_
 
-> Iris smiles at him.
+_Iris smiles at Emmett._
 
 **Zander** _(23-Sep-18 05:11 PM)_
 
-t!roll d6
+`Pirate 1`: t!roll d6
 
 **Tatsumaki** _(23-Sep-18 05:11 PM)_
 
-> [
->
-> > d6
-> > : 6]
+🎱 | Rolling a d6... Rolled a 6, Zander.
 
-In the end, the result was:
-6
+**Zander** _(23-Sep-18 05:11 PM)_
+
+_`Pirate 1`: The pirate, instead of being any use to the others, bashes Deyner's head with the butt of his rifle._
+
+> `Pirate 1`: Take that!
 
 **Jelsafan0** _(23-Sep-18 05:12 PM)_
 
-t!roll d30
+`Pirate 2`: t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:12 PM)_
 
-> [
->
-> > d30
-> > : 21]
+🎱 | Rolling a d30... Rolled a 21, Jelsafan0.
 
-In the end, the result was:
-21
+**Jelsafan0** _(23-Sep-18 05:12 PM)_
+
+_Pirate 2: The pirate shoots at Sanya with their hand cannon, managing to hit her directly in her shoulder. The plasma blast leaves a terrible scorch mark._
 
 **Brakia** _(23-Sep-18 05:12 PM)_
 
-> `ARGH` > `Fuck, i'm still weak.`
+_Sanya howls in pain, holding her arm._
+
+> ARGH! Fuck, I'm still weak!
 
 **Jelsafan0** _(23-Sep-18 05:12 PM)_
 
 > I'm just...
-> Iris hesitates, unsure how to word it.
+
+_Iris hesitates, unsure how to word it. She looks to the ground, picking at the rug._
 
 **Platinum_Pathos** _(23-Sep-18 05:13 PM)_
 
@@ -2911,16 +2841,17 @@ t!8ball Is Danny awake?
 
 **Tatsumaki** _(23-Sep-18 05:13 PM)_
 
-🎱 | As I see it, yes,
-
-> Platinum_Pathos
-> .
+🎱 | As I see it, yes, Platinum_Pathos.
 
 **Jelsafan0** _(23-Sep-18 05:13 PM)_
 
-> ...I...
+> ... I...
+
+_Iris's mouth quivers._
 
 **Zander** _(23-Sep-18 05:13 PM)_
+
+_Emmett puts a hoof on Iris's knee._
 
 > I'm glad you're back.
 
@@ -2930,17 +2861,17 @@ t!8ball Does Seth lube up his laser gun as he hears commotion from over the comm
 
 **Tatsumaki** _(23-Sep-18 05:13 PM)_
 
-🎱 | Outlook good,
-
-> Bagelwrecker
-> .
+🎱 | Outlook good, Bagelwrecker.
 
 **Jelsafan0** _(23-Sep-18 05:13 PM)_
 
-> Iris nods.
+_Iris nods and calms down._
+
 > Yeah.
 
 **Platinum_Pathos** _(23-Sep-18 05:14 PM)_
+
+_Danny, after having been in a long mission of his own without the others, leaves his room and speaks within his comms._
 
 > It's loud. Guys what's going on out there? Is Seth having another orgy?
 
@@ -2950,34 +2881,47 @@ t!8ball Does one of the raiders run off with Danny's hammer?
 
 **Tatsumaki** _(23-Sep-18 05:14 PM)_
 
-🎱 | Don't count on it,
-
-> Zander
-> .
+🎱 | Don't count on it, Zander.
 
 **Platinum_Pathos** _(23-Sep-18 05:15 PM)_
 
-> Ello?
-> You're not dead are you?
+> 'Ello?
+
+_Danny taps into his watch._
+
+> You guys aren't all dead, are you?
 
 **Bagelwrecker** _(23-Sep-18 05:16 PM)_
 
-> Oh
-> Looks like fun times
-> https://www.youtube.com/watch?v=hLmuF-0P4tk
+> Oh!
+
+_Seth notices the pirates racing around the ship causing havoc._
+
+> Looks like fun times!
+> This reminds me of a video I saw where a doctor tries to convince an evil missile contractor to be a good person and give himself up to the police and manages to kill him in a shootout for the greater good.
+
+_Seth takes a deep breath and blinks._
 
 **Jelsafan0** _(23-Sep-18 05:16 PM)_
+
+_Iris holds Emmett's hoof._
 
 > I'm sorry. For worrying you, I mean.
 
 **Platinum_Pathos** _(23-Sep-18 05:17 PM)_
 
+_Danny watches as a pirate runs down his hallway with a bunch of various electrical trinkets and goodies._
+
 > Oh pirates, Hurrah!
-> That explains it
+> That explains it...
+
+_Danny heads back into his room and grabs his hammer for protection. He doesn't plan to assist the others, but his safety is still paramount._
 
 **Jelsafan0** _(23-Sep-18 05:17 PM)_
 
-> ”Hah!”
+_`Pirate 2`: The pirate swiftly dodges an attack from Chomsky._
+
+> `Pirate 2`: Hah!
 
 **Brakia** _(23-Sep-18 05:17 PM)_
 
@@ -2985,83 +2929,57 @@ t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:17 PM)_
 
-> [
->
-> > d30
-> > : 8]
+🎱 | Rolling a d30... Rolled a 8, Brakia.
 
-In the end, the result was:
-8
+**Brakia** _(23-Sep-18 05:18 PM)_
+
+_Sanya takes another swing and is still having trouble controlling her weapon. She wounds her target, but does nothing substantial._
+
+> Damn it...
 
 **Platinum_Pathos** _(23-Sep-18 05:18 PM)_
 
+_Danny speaks into his comms and closes his door once more, locking it._
+
 > I will be retreating to my room now, if you need me just call, I may or may not come to help.
-
-**Brakia** _(23-Sep-18 05:18 PM)_
-
-> `Damn it...`
 
 **Jelsafan0** _(23-Sep-18 05:18 PM)_
 
-> ”that's cute! That's real cute, lil lady!”
+_`Pirate 2`: The pirate jumps around and puts their hands to their ears, mocking Sanya._
+
+> `Pirate 2`: That's cute! That's real cute, lil' lady!
 
 **Brakia** _(23-Sep-18 05:18 PM)_
 
-> `Do you know who I am?`
+_Sanya growls and grits her teeth._
 
-**PlasmaPerson** _(23-Sep-18 05:18 PM)_
-
-> D17, 3d7
+> Do you know who I am?
 
 **WatchfulDrake** _(23-Sep-18 05:18 PM)_
 
-> "was that supposed to hurt?!"
+_`Pirate 3`: The pirate laughs at Sanya's failed attack._
+
+> `Pirate 3`: Was that supposed to hurt?!
 
 **Zander** _(23-Sep-18 05:18 PM)_
 
-> Emmett sighs, sitting on the floor.
+_Emmett sighs, worrying a bit about what's going on outside._
 
 **Brakia** _(23-Sep-18 05:18 PM)_
 
-> `I'm a Floran. Do you know what that means?`
+> I'm a floran. Do you know what that means?
 
 **Jelsafan0** _(23-Sep-18 05:19 PM)_
 
-> ”That you're an extra rare catch!”
+_`Pirate 2`: The pirate winks at Sanya suggestively._
 
-**PlasmaPerson** _(23-Sep-18 05:19 PM)_
-
-t!roll 17
-
-**Tatsumaki** _(23-Sep-18 05:19 PM)_
-
-> Invalid formatting in
-> :
-> 17
-> .
-
-ex:
-t!roll d20
-or
-t!roll 5d10+3
-
-> Invalid formatting in
-> :
-> 17
-> .
-
-ex:
-t!roll d20
-or
-t!roll 5d10+3
-
-**PlasmaPerson** _(23-Sep-18 05:19 PM)_
-
-t!roll d17
+> `Pirate 2`: That you're an extra rare catch!
 
 **Brakia** _(23-Sep-18 05:19 PM)_
 
-> `I'm a fucking vessel of the God of Dread.`
+> I'm a fucking vessel of the God of Dread...
+
+_Sanya gives the pirates a devious grin._
 
 **PlasmaPerson** _(23-Sep-18 05:19 PM)_
 
@@ -3069,58 +2987,70 @@ t!roll 3d7
 
 **Tatsumaki** _(23-Sep-18 05:19 PM)_
 
-> [
->
-> > 3d7
-> > : 1,3,6]
+🎱 | Rolling a 3d7... Rolled a 1, a 3, and a 6, making 10, PlasmaPerson.
 
-In the end, the result was:
-10
+**PlasmaPerson** _(23-Sep-18 05:19 PM)_
+
+_Chomsky ignites his flamethrower and sprays it on a pirate, lingering atop of them and causing them lethal burns._
 
 **Brakia** _(23-Sep-18 05:19 PM)_
 
-> `I'm going to kill you.`
+> I'm going to kill you.
+
+_Sanya snarls._
 
 **WatchfulDrake** _(23-Sep-18 05:19 PM)_
 
-> "Don't know don't care, you're getting wasted just like your friend"
+> `Pirate 3`: Don't know don't care, you're getting wasted just like your friend!
+
+_`Pirate 3`: The pirate points to Deyner, believing they've killed him._
 
 **Brakia** _(23-Sep-18 05:19 PM)_
 
-> `Over and over again.`
+> Over and over again.
+
+_Sanya prepares a strike, trying to tune herself with the Dreadsword._
+
+> It's always the same!
 
 **Jelsafan0** _(23-Sep-18 05:19 PM)_
 
-> ”Some people will pay a real pretty penny for you!”
+> `Pirate 2`: Some people will pay a real pretty penny for you!
 
 **WatchfulDrake** _(23-Sep-18 05:20 PM)_
 
-> "Big talk from the house plant"
+> `Pirate 3`: Big talk from the house plant!
 
 **Zander** _(23-Sep-18 05:20 PM)_
 
 > You can leave if you want.
-> That was just my problem.
+> That was just my problem...
+
+_Emmett folds his arms, really wanting to take a shower._
 
 **Jelsafan0** _(23-Sep-18 05:21 PM)_
 
 > I'm not leaving until I'm sure you're perfectly fine,
-> Iris replies stubbornly.
-> t!roll d30
+
+_Iris replies stubbornly._
+
+**Jelsafan0** _(23-Sep-18 05:21 PM)_
+
+`Pirate 2`: t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:21 PM)_
 
-> [
->
-> > d30
-> > : 1]
+🎱 | Rolling a d30... Rolled a 1, Jelsafan0.
 
-In the end, the result was:
-1
+**Jelsafan0** _(23-Sep-18 05:21 PM)_
 
-**Zander** _(23-Sep-18 05:21 PM)_
+_`Pirate 2`: The pirate shoots Sanya again and manages to miss entirely!_
 
-> leave and rejoin the call
+> `Pirate 2`: Fuck!
+
+**WatchfulDrake** _(23-Sep-18 05:21 PM)_
+
+> `Pirate 3`: Don't you dare be failing on me, dude! IN AND OUT LIKE WE DISCUSSED!
 
 **Platinum_Pathos** _(23-Sep-18 05:22 PM)_
 
@@ -3128,64 +3058,66 @@ t!8ball Does Danny watch the fight with popcorn?
 
 **Tatsumaki** _(23-Sep-18 05:22 PM)_
 
-🎱 | Reply hazy try again,
-
-> Platinum_Pathos
-> .
-> 🎱 | Yes,
-> Platinum_Pathos
-> .
+🎱 | Yes, Platinum_Pathos.
 
 **Platinum_Pathos** _(23-Sep-18 05:22 PM)_
 
-t!8ball Does Danny watch the fight with popcorn?
+_Danny decides to leave his room and find the others. He sets up a lounge chair where Sanya and Chomsky are fending off the invader and chews on some popcorn._
 
 > You con doo it!
 > Whooo!
 
 **Jelsafan0** _(23-Sep-18 05:23 PM)_
 
-> ”gah hah hah!”
+_`Pirate 2`: The pirate cackles over the other's sentiment._
+
+> `Pirate 2`: In and out?! This is much more than in and out, you asshole!
 
 **Brakia** _(23-Sep-18 05:23 PM)_
 
-> `Just fuck off!`
-
-**Zander** _(23-Sep-18 05:23 PM)_
-
-> The Jamaican Kirby laughs wholeheartedly.
-
-**Jelsafan0** _(23-Sep-18 05:23 PM)_
-
-> ”Ohohoho!”
+> Just fuck off!
 
 **Platinum_Pathos** _(23-Sep-18 05:24 PM)_
+
+_Danny laughs wholeheartedly._
 
 > Should I save some of this popcorn for when you guys when you're done?
 
 **Zander** _(23-Sep-18 05:24 PM)_
 
-> "Wait a moment, we got a Popstar homebody here!"
+_`Pirate 1`: After beating up Deyner senselessly, the pirate turns to see Danny relaxing in front of them._
+
+> `Pirate 1`: "Wait a moment guys, we got a Popstar homebody here!
 
 **Brakia** _(23-Sep-18 05:24 PM)_
 
-> `Just fucking help us, you fucking useless marshmallow of a crewmember!`
+_Sanya glares at Danny._
+
+> Just fucking help us, you fucking useless marshmallow of a crewmember!
 
 **WatchfulDrake** _(23-Sep-18 05:25 PM)_
 
-> "That's another done, I thought you were supposed to be tough!"
+_`Pirate 3`: The pirate manages to take out Matieu, who was dragged into the room by the others looting the ship._
+
+> `Pirate 3`: That's another done, I thought you were supposed to be tough!
 
 **Platinum_Pathos** _(23-Sep-18 05:25 PM)_
 
 > I told you to just ask when you needed help. Sheesh!
 
+_Danny groans and lifts himself up from his lounge chair._
+
 **WatchfulDrake** _(23-Sep-18 05:25 PM)_
 
-> "You're next plant girl!"
+_`Pirate 3`: The pirate takes a finger to his throat and drags it across menacingly._
+
+> `Pirate 3`: You're next plant girl!
 
 **Brakia** _(23-Sep-18 05:25 PM)_
 
-> `Bite me.`
+_Sanya hisses._
+
+> Bite me.
 
 **Bagelwrecker** _(23-Sep-18 05:25 PM)_
 
@@ -3193,75 +3125,65 @@ t!roll 4d15
 
 **Tatsumaki** _(23-Sep-18 05:25 PM)_
 
-> [
->
-> > 4d15
-> > : 5,4,14,2]
+🎱 | Rolling a 4d15... Rolled a 5, a 4, a 14, and a 2, making 25, Bagelwrecker.
 
-In the end, the result was:
-25
+**Bagelwrecker** _(23-Sep-18 05:25 PM)_
+
+_Using his lubed Desert Eagle, Seth manages to shoot out two pirates and greatly wound one with four near-instantaneous shots. The beauty of sex jelly._
 
 **Platinum_Pathos** _(23-Sep-18 05:26 PM)_
 
+_Danny looks around at the others, not really wanting to help._
+
 > Alright which of you is having the worst trouble?
-
-**Jelsafan0** _(23-Sep-18 05:26 PM)_
-
-> [53 damage left]
 
 **Platinum_Pathos** _(23-Sep-18 05:26 PM)_
 
 > First come first serve?
 
+_Danny readies his hammer._
+
 **Zander** _(23-Sep-18 05:26 PM)_
 
-> "Get out of here, blue freak!"
-> t!roll d30
+> `Pirate 1`: Get out of here, blue freak!
+
+_`Pirate 1`: The pirate prepares a cannon shot. He chuckles, ready to fulfill his racist beliefs against people from Popstar._
+
+`Pirate 1`: t!roll d30
 
 **Tatsumaki** _(23-Sep-18 05:26 PM)_
 
-> [
->
-> > d30
-> > : 9]
-
-In the end, the result was:
-9
-
-**PlasmaPerson** _(23-Sep-18 05:26 PM)_
-
-> Guys I know I keep going back and forth between leaving and joining but I've got data on now so I can keep playing I just can't join vc
-
-**Jelsafan0** _(23-Sep-18 05:26 PM)_
-
-> Aight
+🎱 | Rolling a d30... Rolled a 9, Zander.
 
 **Platinum_Pathos** _(23-Sep-18 05:27 PM)_
 
-> Never mind guys, I have more important business to attend to!
+> Nevermind guys, I have more important business to attend to!
+
+_Danny holds his side and prepares to slam the pirate with his cartoonish hammer._
 
 **Zander** _(23-Sep-18 05:27 PM)_
 
-> I feel a little awkward now.
+> I feel a little awkward now...
+
+_Emmett looks to the edge of his eyes at the sink._
 
 **Jelsafan0** _(23-Sep-18 05:27 PM)_
 
-> Iris gives him a funny look.
+_Iris gives him a funny look._
+
 > What? Why?
 
 **Zander** _(23-Sep-18 05:27 PM)_
 
-> Stressed. Emotionally aggravated.
+> Stressed. Emotionally aggravated...
+
+_Emmett gives Iris a weird look._
+
+> Sitting in a bathroom with someone I don't know how I feel about...
 
 **Tatsumaki** _(23-Sep-18 05:27 PM)_
 
-> [
->
-> > d30
-> > : 20]
-
-In the end, the result was:
-20
+🎱 | Rolling a d30... Rolled a 20, Jelsafan0.
 
 **Brakia** _(23-Sep-18 05:27 PM)_
 
@@ -3273,19 +3195,6 @@ t!roll d30
 
 > thats for sanya
 > my turn
-
-**Jelsafan0** _(23-Sep-18 05:28 PM)_
-
-> [33]
-
-**WatchfulDrake** _(23-Sep-18 05:28 PM)_
-
-> he came to find you
-> kk
-
-**Zander** _(23-Sep-18 05:28 PM)_
-
-> Sitting in a bathroom with someone I don't know how I feel about.
 
 **Jelsafan0** _(23-Sep-18 05:29 PM)_
 
@@ -3469,7 +3378,7 @@ In the end, the result was:
 
 **Jelsafan0** _(23-Sep-18 05:35 PM)_
 
-> ”Gah...! Stronger than ya look, aintcha?”
+> "Gah...! Stronger than ya look, aintcha?"
 
 **PlasmaPerson** _(23-Sep-18 05:35 PM)_
 

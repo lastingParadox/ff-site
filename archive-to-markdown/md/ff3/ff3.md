@@ -1,425 +1,425 @@
-**Sean** *(19-Apr-20 12:56 AM)*
+**Sean** _(19-Apr-20 12:56 AM)_
 t!8ball Does Seth have a magic satchel?
 
-**FFBot** *(19-Apr-20 12:56 AM)*
-🎱 |  Yes, Bagelwrecker
+**FFBot** _(19-Apr-20 12:56 AM)_
+🎱 | Yes, Bagelwrecker
 
-**Zander** *(21-Apr-20 11:53 AM)*
+**Zander** _(21-Apr-20 11:53 AM)_
 8ball Is Emmett satisfied with the outcome of the operation?
 
-**FFBot** *(21-Apr-20 11:53 AM)*
+**FFBot** _(21-Apr-20 11:53 AM)_
 I don't think so.
 
-**Zander** *(21-Apr-20 11:53 AM)*
+**Zander** _(21-Apr-20 11:53 AM)_
 8ball Is Emmett at least content?
 
-**FFBot** *(21-Apr-20 11:53 AM)*
+**FFBot** _(21-Apr-20 11:53 AM)_
 Yes, definitely.
 
-**Zander** *(21-Apr-20 11:53 AM)*
+**Zander** _(21-Apr-20 11:53 AM)_
 8ball Did Emmett get hurt at all?
 
-**FFBot** *(21-Apr-20 11:53 AM)*
+**FFBot** _(21-Apr-20 11:53 AM)_
 Without a doubt.
 
-**Zander** *(21-Apr-20 11:54 AM)*
+**Zander** _(21-Apr-20 11:54 AM)_
 t!choose Scratch | Cut | Burn | Stab | Bruise | Broken
 
-**FFBot** *(21-Apr-20 11:54 AM)*
+**FFBot** _(21-Apr-20 11:54 AM)_
 🤔 | Zander, I pick Scratch
 
-**Zander** *(21-Apr-20 11:55 AM)*
+**Zander** _(21-Apr-20 11:55 AM)_
 t!choose Face | Chest | Ear | Horn | Hooves (Upper) | Hooves (Lower) | Arms | Legs
 
-**FFBot** *(21-Apr-20 11:55 AM)*
+**FFBot** _(21-Apr-20 11:55 AM)_
 🤔 | Zander, I pick Face
 
-**Zander** *(21-Apr-20 11:56 AM)*
+**Zander** _(21-Apr-20 11:56 AM)_
 8ball Is it a scar?
 
-**FFBot** *(21-Apr-20 11:56 AM)*
+**FFBot** _(21-Apr-20 11:56 AM)_
 Very doubtful.
 
-**Zander** *(21-Apr-20 11:56 AM)*
+**Zander** _(21-Apr-20 11:56 AM)_
 (Scars can heal, as can wounds; the question was stupid.)
 
-**Zander** *(21-Apr-20 11:56 AM)*
+**Zander** _(21-Apr-20 11:56 AM)_
 8ball Did Emmett party until he was extremely drunk last night?
 
-**FFBot** *(21-Apr-20 11:56 AM)*
+**FFBot** _(21-Apr-20 11:56 AM)_
 My sources say no.
 
-**Zander** *(21-Apr-20 11:57 AM)*
+**Zander** _(21-Apr-20 11:57 AM)_
 8ball Did Emmett get high as balls instead?
 
-**FFBot** *(21-Apr-20 11:57 AM)*
+**FFBot** _(21-Apr-20 11:57 AM)_
 Better not tell you now.
 
-**Zander** *(21-Apr-20 11:57 AM)*
+**Zander** _(21-Apr-20 11:57 AM)_
 8ball How about now?
 
-**FFBot** *(21-Apr-20 11:57 AM)*
+**FFBot** _(21-Apr-20 11:57 AM)_
 Flip a coin with 8coin. Heads is yes, tails is no.
 
-**Zander** *(21-Apr-20 11:57 AM)*
+**Zander** _(21-Apr-20 11:57 AM)_
 8coin
 
-**FFBot** *(21-Apr-20 11:57 AM)*
+**FFBot** _(21-Apr-20 11:57 AM)_
 Tails.
 
-**Zander** *(21-Apr-20 11:57 AM)*
+**Zander** _(21-Apr-20 11:57 AM)_
 8ball Is Emmett under the effects of any substance?
 
-**FFBot** *(21-Apr-20 11:57 AM)*
+**FFBot** _(21-Apr-20 11:57 AM)_
 Cannot predict now.
 
-**Zander** *(21-Apr-20 11:58 AM)*
+**Zander** _(21-Apr-20 11:58 AM)_
 8ball How about now?
 
-**FFBot** *(21-Apr-20 11:58 AM)*
+**FFBot** _(21-Apr-20 11:58 AM)_
 Concentrate and ask again.
 
-**Zander** *(21-Apr-20 11:58 AM)*
+**Zander** _(21-Apr-20 11:58 AM)_
 8ball I'm asking again.
 
-**FFBot** *(21-Apr-20 11:58 AM)*
+**FFBot** _(21-Apr-20 11:58 AM)_
 Reply hazy try again.
 
-**Zander** *(21-Apr-20 11:58 AM)*
+**Zander** _(21-Apr-20 11:58 AM)_
 8ball Is Emmett under the effects of any substance?
 
-**FFBot** *(21-Apr-20 11:58 AM)*
+**FFBot** _(21-Apr-20 11:58 AM)_
 I think so.
 
-**Zander** *(21-Apr-20 11:59 AM)*
+**Zander** _(21-Apr-20 11:59 AM)_
 8ball When Emmett fell asleep, was he partially unclothed?
 
-**FFBot** *(21-Apr-20 11:59 AM)*
+**FFBot** _(21-Apr-20 11:59 AM)_
 Outlook good.
 
-**Zander** *(21-Apr-20 11:59 AM)*
+**Zander** _(21-Apr-20 11:59 AM)_
 t!choose Shirtless | Goggles-less | Pantsless | In his boxers | In his birthday suit | Underwear on his head
 
-**FFBot** *(21-Apr-20 11:59 AM)*
+**FFBot** _(21-Apr-20 11:59 AM)_
 🤔 | Zander, I pick Shirtless
 
-**Zander** *(21-Apr-20 12:00 PM)*
+**Zander** _(21-Apr-20 12:00 PM)_
 Cool
 
-**Zander** *(21-Apr-20 12:00 PM)*
+**Zander** _(21-Apr-20 12:00 PM)_
 Nothing gross
 
-**Zander** *(21-Apr-20 12:00 PM)*
+**Zander** _(21-Apr-20 12:00 PM)_
 8ball Was Seth hurt during the experience?
 
-**FFBot** *(21-Apr-20 12:00 PM)*
+**FFBot** _(21-Apr-20 12:00 PM)_
 Group vote. Vote in the order from first player down to last. Minority opinion wins. No changing answers.
 
-**Zander** *(21-Apr-20 12:00 PM)*
+**Zander** _(21-Apr-20 12:00 PM)_
 I say yes
 
-**Zander** *(21-Apr-20 12:00 PM)*
+**Zander** _(21-Apr-20 12:00 PM)_
 I am the group
 
-**Zander** *(21-Apr-20 12:00 PM)*
+**Zander** _(21-Apr-20 12:00 PM)_
 t!choose Scratch | Cut | Burn | Stab | Bruise | Broken Bone | Sprain
 
-**FFBot** *(21-Apr-20 12:00 PM)*
+**FFBot** _(21-Apr-20 12:00 PM)_
 🤔 | Zander, I pick Broken Bone
 
-**Zander** *(21-Apr-20 12:00 PM)*
+**Zander** _(21-Apr-20 12:00 PM)_
 Uh oh
 
-**Zander** *(21-Apr-20 12:00 PM)*
+**Zander** _(21-Apr-20 12:00 PM)_
 t!choose Forearm | Upper Leg | Foot | Hand | Pelvis | Upper Arm | Lower Leg | Actually, no, it was just a sprain. Seth overreacted.
 
-**FFBot** *(21-Apr-20 12:02 PM)*
+**FFBot** _(21-Apr-20 12:02 PM)_
 🤔 | Zander, I pick Upper Leg
 
-**Zander** *(21-Apr-20 12:02 PM)*
+**Zander** _(21-Apr-20 12:02 PM)_
 I'm sure Seth has a pill to fix that up
 
-**Zander** *(21-Apr-20 12:02 PM)*
+**Zander** _(21-Apr-20 12:02 PM)_
 8ball Is Seth satisfied?
 
-**FFBot** *(21-Apr-20 12:02 PM)*
+**FFBot** _(21-Apr-20 12:02 PM)_
 Yes, definitely.
 
-**Zander** *(21-Apr-20 12:02 PM)*
+**Zander** _(21-Apr-20 12:02 PM)_
 8ball Did he fuck a Llamanian?
 
-**FFBot** *(21-Apr-20 12:02 PM)*
+**FFBot** _(21-Apr-20 12:02 PM)_
 Very doubtful.
 
-**Zander** *(21-Apr-20 12:02 PM)*
+**Zander** _(21-Apr-20 12:02 PM)_
 Rip
 
-**Zander** *(21-Apr-20 12:02 PM)*
+**Zander** _(21-Apr-20 12:02 PM)_
 8ball Was Sanya hurt at all?
 
-**FFBot** *(21-Apr-20 12:03 PM)*
+**FFBot** _(21-Apr-20 12:03 PM)_
 Ask Sanya.
 
-**Zander** *(21-Apr-20 12:03 PM)*
+**Zander** _(21-Apr-20 12:03 PM)_
 Fair point
 
-**Zander** *(21-Apr-20 12:03 PM)*
+**Zander** _(21-Apr-20 12:03 PM)_
 @Brody
 
-**Zander** *(21-Apr-20 12:03 PM)*
+**Zander** _(21-Apr-20 12:03 PM)_
 While I wait for that...
 
-**Zander** *(21-Apr-20 12:03 PM)*
+**Zander** _(21-Apr-20 12:03 PM)_
 8ball Did the Llamanians come prepared with anti-spectre technology?
 
-**FFBot** *(21-Apr-20 12:04 PM)*
+**FFBot** _(21-Apr-20 12:04 PM)_
 Signs point to yes.
 
-**Zander** *(21-Apr-20 12:04 PM)*
+**Zander** _(21-Apr-20 12:04 PM)_
 8ball Was Garrick hurt at all during the experience?
 
-**FFBot** *(21-Apr-20 12:04 PM)*
+**FFBot** _(21-Apr-20 12:04 PM)_
 Without a doubt.
 
-**Zander** *(21-Apr-20 12:05 PM)*
+**Zander** _(21-Apr-20 12:05 PM)_
 t!choose Paralyzed | Dent | Tiny, but Unhealable hole
 
-**FFBot** *(21-Apr-20 12:05 PM)*
+**FFBot** _(21-Apr-20 12:05 PM)_
 🤔 | Zander, I pick Dent
 
-**Zander** *(21-Apr-20 12:05 PM)*
+**Zander** _(21-Apr-20 12:05 PM)_
 t!choose Hand | Eyeball | "Leg" | Bandana
 
-**FFBot** *(21-Apr-20 12:05 PM)*
+**FFBot** _(21-Apr-20 12:05 PM)_
 🤔 | Zander, I pick Eyeball
 
-**Zander** *(21-Apr-20 12:05 PM)*
+**Zander** _(21-Apr-20 12:05 PM)_
 @Trey Moment
 
-**Zander** *(21-Apr-20 12:05 PM)*
+**Zander** _(21-Apr-20 12:05 PM)_
 It'll fix up in a day
 
-**Trey** *(21-Apr-20 12:06 PM)*
+**Trey** _(21-Apr-20 12:06 PM)_
 Ouch
 
-**Zander** *(21-Apr-20 12:06 PM)*
+**Zander** _(21-Apr-20 12:06 PM)_
 Up to you to determine if that impairs his vision or not
 
-**Zander** *(21-Apr-20 12:06 PM)*
+**Zander** _(21-Apr-20 12:06 PM)_
 8ball Did the crew steal a lot?
 
-**FFBot** *(21-Apr-20 12:06 PM)*
+**FFBot** _(21-Apr-20 12:06 PM)_
 I think so.
 
-**Zander** *(21-Apr-20 12:07 PM)*
+**Zander** _(21-Apr-20 12:07 PM)_
 8ball Over 50k Ducketts worth?
 
-**FFBot** *(21-Apr-20 12:07 PM)*
+**FFBot** _(21-Apr-20 12:07 PM)_
 DENIED.
 
-**Zander** *(21-Apr-20 12:07 PM)*
+**Zander** _(21-Apr-20 12:07 PM)_
 8ball Exactly 50k Ducketts worth?
 
-**FFBot** *(21-Apr-20 12:07 PM)*
+**FFBot** _(21-Apr-20 12:07 PM)_
 Group vote. Vote in the order from first player down to last. Majority opinion wins. No changing answers.
 
-**Zander** *(21-Apr-20 12:07 PM)*
+**Zander** _(21-Apr-20 12:07 PM)_
 @Trey Moment
 
-**Trey** *(21-Apr-20 12:07 PM)*
+**Trey** _(21-Apr-20 12:07 PM)_
 Yes
 
-**Zander** *(21-Apr-20 12:08 PM)*
+**Zander** _(21-Apr-20 12:08 PM)_
 Yes
 
-**Zander** *(21-Apr-20 12:08 PM)*
+**Zander** _(21-Apr-20 12:08 PM)_
 t!choose Llamanian technology | Ancient Artifacts | Powerful weaponry | Just Ducketts | A chunk of the mothership, somehow | Actual Llamanian Slaves | A combination of all of the above
 
-**FFBot** *(21-Apr-20 12:08 PM)*
+**FFBot** _(21-Apr-20 12:08 PM)_
 🤔 | Zander, I pick A chunk of the mothership, somehow
 
-**Zander** *(21-Apr-20 12:09 PM)*
+**Zander** _(21-Apr-20 12:09 PM)_
 We stole a part of their ship with whatever was in it
 
-**Zander** *(21-Apr-20 12:09 PM)*
+**Zander** _(21-Apr-20 12:09 PM)_
 Emmett makes sure that that chunk is big enough to require an entire GUY's worth of fixing to replace
 
-**Zander** *(21-Apr-20 12:09 PM)*
+**Zander** _(21-Apr-20 12:09 PM)_
 So it is HUGE.
 
-**Zander** *(21-Apr-20 12:09 PM)*
+**Zander** _(21-Apr-20 12:09 PM)_
 Like, the space yachi is having to tote something that is almost bigger than it
 
-**Zander** *(21-Apr-20 12:09 PM)*
+**Zander** _(21-Apr-20 12:09 PM)_
 @Rashidi
 
-**Zander** *(21-Apr-20 12:09 PM)*
+**Zander** _(21-Apr-20 12:09 PM)_
 8ball Was Dakari attacked at all?
 
-**FFBot** *(21-Apr-20 12:11 PM)*
+**FFBot** _(21-Apr-20 12:11 PM)_
 Outlook not so good.
 
-**Zander** *(21-Apr-20 12:12 PM)*
+**Zander** _(21-Apr-20 12:12 PM)_
 Dakari is such a good mercenary that he avoided all damage
 
-**Brody** *(21-Apr-20 12:12 PM)*
+**Brody** _(21-Apr-20 12:12 PM)_
 Oh, sorry
 
-**Brody** *(21-Apr-20 12:12 PM)*
+**Brody** _(21-Apr-20 12:12 PM)_
 I don't think she was
 
-**Zander** *(21-Apr-20 12:12 PM)*
+**Zander** _(21-Apr-20 12:12 PM)_
 Did she have anything special affect her?
 
-**Zander** *(21-Apr-20 12:12 PM)*
+**Zander** _(21-Apr-20 12:12 PM)_
 8ball Does Sanya feel satisfied with the mission's outcome?
 
-**FFBot** *(21-Apr-20 12:13 PM)*
+**FFBot** _(21-Apr-20 12:13 PM)_
 Outlook good.
 
-**Brody** *(21-Apr-20 12:13 PM)*
+**Brody** _(21-Apr-20 12:13 PM)_
 Nothing new, no
 (edited)
 
-**Rashidi** *(21-Apr-20 12:15 PM)*
+**Rashidi** _(21-Apr-20 12:15 PM)_
 Ok, hold on
 
-**Rashidi** *(21-Apr-20 12:15 PM)*
+**Rashidi** _(21-Apr-20 12:15 PM)_
 I'm reading and trying to learn how this 8ball works
 
-**Zander** *(21-Apr-20 12:15 PM)*
+**Zander** _(21-Apr-20 12:15 PM)_
 8ball Did the Llamanians almost capture Emmett during the experience?
 
-**FFBot** *(21-Apr-20 12:15 PM)*
+**FFBot** _(21-Apr-20 12:15 PM)_
 Signs point to yes.
 
-**Zander** *(21-Apr-20 12:15 PM)*
+**Zander** _(21-Apr-20 12:15 PM)_
 Very strange how they only scratched him. Hmm....
 
-**Zander** *(21-Apr-20 12:15 PM)*
+**Zander** _(21-Apr-20 12:15 PM)_
 8ball Before he left with the others, did the Llamanians grab a patch of his fur?
 
-**FFBot** *(21-Apr-20 12:16 PM)*
+**FFBot** _(21-Apr-20 12:16 PM)_
 Most likely.
 
-**Rashidi** *(21-Apr-20 12:16 PM)*
+**Rashidi** _(21-Apr-20 12:16 PM)_
 Dakari is an amazing mercenary
 
-**Rashidi** *(21-Apr-20 12:16 PM)*
+**Rashidi** _(21-Apr-20 12:16 PM)_
 No wonder you hired him
 
-**Zander** *(21-Apr-20 12:18 PM)*
+**Zander** _(21-Apr-20 12:18 PM)_
 @Brody#ff-media
 
-**Zander** *(21-Apr-20 12:18 PM)*
+**Zander** _(21-Apr-20 12:18 PM)_
 Unless you had other plans
 
-**Zander** *(21-Apr-20 12:18 PM)*
+**Zander** _(21-Apr-20 12:18 PM)_
 So currently there are five rooms to accommodate for the nine crew members that once were on the ship
 
-**Brody** *(21-Apr-20 12:20 PM)*
+**Brody** _(21-Apr-20 12:20 PM)_
 I did have plans for Mary, she was really only going to be in short stories
 
-**Zander** *(21-Apr-20 12:21 PM)*
+**Zander** _(21-Apr-20 12:21 PM)_
 Seth, with his own; Sanya, Emmett, Chomsky, Jim, Maia, Garrick, Iris, Hector, and Chase
 
-**Zander** *(21-Apr-20 12:21 PM)*
+**Zander** _(21-Apr-20 12:21 PM)_
 Wait
 
-**Zander** *(21-Apr-20 12:21 PM)*
+**Zander** _(21-Apr-20 12:21 PM)_
 That's ten
 
-**Zander** *(21-Apr-20 12:21 PM)*
+**Zander** _(21-Apr-20 12:21 PM)_
 So after Maia and Chomsky left, that remained 8
 
-**Zander** *(21-Apr-20 12:21 PM)*
+**Zander** _(21-Apr-20 12:21 PM)_
 I'm sure everyone would want to shift their rooms around due to the crew additions/leavings
 (edited)
 
-**Zander** *(21-Apr-20 12:21 PM)*
+**Zander** _(21-Apr-20 12:21 PM)_
 The chunk of ship from the Llamanians will be able to accommodate for 4 more rooms
 (edited)
 
-**Zander** *(21-Apr-20 12:21 PM)*
+**Zander** _(21-Apr-20 12:21 PM)_
 Plus storage and potentially another engine.
 
-**Brody** *(21-Apr-20 12:23 PM)*
+**Brody** _(21-Apr-20 12:23 PM)_
 Yeah
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 But for the time being, who's sharing with who? (Before the new additions)
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 We'd have two free slots
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 Chase, Iris, and Jim left eventually
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 So that's 5
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 hector went back to Mars
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 So no one is sharing rooms currently
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 Four people
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 Seth, Sanya, Emmett, Garrick
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 I'm sure Chomsky is coming back
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 @Jonas
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 Sheesh though
 
-**Zander** *(21-Apr-20 12:23 PM)*
+**Zander** _(21-Apr-20 12:23 PM)_
 We went from ten crew members to four
 
-**Jonas** *(21-Apr-20 12:28 PM)*
+**Jonas** _(21-Apr-20 12:28 PM)_
 ye i playin chomsky
 
-**Zander** *(21-Apr-20 12:28 PM)*
+**Zander** _(21-Apr-20 12:28 PM)_
 #ff-conversation
 
-**Jonas** *(21-Apr-20 12:28 PM)*
+**Jonas** _(21-Apr-20 12:28 PM)_
 oh yeah
 
-**Zander** *(21-Apr-20 12:28 PM)*
+**Zander** _(21-Apr-20 12:28 PM)_
 11 if you count Ark's character
 
-**Jonas** *(21-Apr-20 12:29 PM)*
+**Jonas** _(21-Apr-20 12:29 PM)_
 how do GUYs work in this
 (edited)
 
-**Jonas** *(21-Apr-20 12:29 PM)*
+**Jonas** _(21-Apr-20 12:29 PM)_
 i forgot
 
-**Zander** *(21-Apr-20 12:29 PM)*
+**Zander** _(21-Apr-20 12:29 PM)_
 One GUY is 3.95 years
 
-**Zander** *(21-Apr-20 12:29 PM)*
+**Zander** _(21-Apr-20 12:29 PM)_
 Emmett, from his culture's perspective, is roughly 21, but from the GU's perspective, is 24.
 
-**Zander** *(21-Apr-20 12:29 PM)*
+**Zander** _(21-Apr-20 12:29 PM)_
 He's a young adult
 
-**Zander** *(21-Apr-20 12:29 PM)*
+**Zander** _(21-Apr-20 12:29 PM)_
 #ff-conversation
 
-**Jonas** *(21-Apr-20 12:30 PM)*
+**Jonas** _(21-Apr-20 12:30 PM)_
 mkay
 
-**Zander** *(21-Apr-20 12:30 PM)*
+**Zander** _(21-Apr-20 12:30 PM)_
 Let's move
 
-**Zander** *(21-Apr-20 06:48 PM)*
+**Zander** _(21-Apr-20 06:48 PM)_
 @deleted-roleAfter Emmett was welcomed back into the crew, he was devastated. He had spent an entire GUY under the effects of believing that he had a Squoatling wife. He had completely forgotten and forgiven Seth for airlocking him; he wanted vengeance for the Llamanians giving him a dream and them crushing it. For roughly two GUYs, he researched and steadily made a plan to ransack the Llamanian mothership, wanting to make a message that he was not someone to mess with. He didn't want to kill them off either, as he believed that they were still people under the effects of an abusive rule as opposed to monsters. He and the crew hired hundreds of mercenaries to get them into the ship and raid, with many of them being hired to be cannon fodder.
 Anyhow, the day before the current episode was the day of the raid. While Emmett planned on killing a few Llamanians and stealing some of their machinery, the crew somehow stole a chunk of the mothership that was almost the size of their own ship. The original crew left with little damage, aside from Seth breaking his leg. All that was left from the assault was a chunk of Emmett's fur, taken from the back of his neck.
 
@@ -427,1416 +427,1582 @@ The current episode was the aftermath of their celebration, when Emmett got pret
 
 The Anole and the Alternion are currently at a space station. The crew is pretty low on fuel and food, but should be able to make it to the spacestation, given they want to fly there. The weekly GU broadcast, which showcases important news and announcements, is meant to broadcast soon.
 
-**Jonas** *(22-Apr-20 03:06 PM)*
+**Jonas** _(22-Apr-20 03:06 PM)_
 8ball can i wake up?
 (edited)
 
-**FFBot** *(22-Apr-20 03:06 PM)*
+**FFBot** _(22-Apr-20 03:06 PM)_
 Most likely.
 
-**Jonas** *(22-Apr-20 03:07 PM)*
+**Jonas** _(22-Apr-20 03:07 PM)_
+
 > Chomsky: hey, guys, wake up. news is about to come on
 
-**Lili** *(22-Apr-20 03:08 PM)*
+**Lili** _(22-Apr-20 03:08 PM)_
+
 > Iris: oh cool.
 
-**Lili** *(22-Apr-20 03:08 PM)*
+**Lili** _(22-Apr-20 03:08 PM)_
 8ball does Iris go make breakfast?
 
-**FFBot** *(22-Apr-20 03:09 PM)*
+**FFBot** _(22-Apr-20 03:09 PM)_
 Signs point to yes.
 
-**Rashidi** *(22-Apr-20 03:10 PM)*
+**Rashidi** _(22-Apr-20 03:10 PM)_
 8ball Does Dakari care about today's news?
 
-**FFBot** *(22-Apr-20 03:10 PM)*
+**FFBot** _(22-Apr-20 03:10 PM)_
 It is certain.
 
-**Jonas** *(22-Apr-20 03:10 PM)*
+**Jonas** _(22-Apr-20 03:10 PM)_
+
 > Chomsky: whats on the menu, iris?
 
-**Lili** *(22-Apr-20 03:10 PM)*
+**Lili** _(22-Apr-20 03:10 PM)_
+
 > Iris: Pancakes? Do you want pancakes?
 
-**Rashidi** *(22-Apr-20 03:10 PM)*
+**Rashidi** _(22-Apr-20 03:10 PM)_
+
 > Dakari: I'm more interested in the news
 
-**Sean** *(22-Apr-20 03:11 PM)*
+**Sean** _(22-Apr-20 03:11 PM)_
 8ball Does Seth push all of the women he slept with into an airlock and push the open button?
 
-**FFBot** *(22-Apr-20 03:11 PM)*
+**FFBot** _(22-Apr-20 03:11 PM)_
 Better not tell you now.
 
-**Jonas** *(22-Apr-20 03:11 PM)*
+**Jonas** _(22-Apr-20 03:11 PM)_
+
 > Chomsky: sounds good
 
-**Sean** *(22-Apr-20 03:11 PM)*
+**Sean** _(22-Apr-20 03:11 PM)_
 8ball Does Seth push all of the women he slept with into an airlock and push the open button?
 
-**FFBot** *(22-Apr-20 03:11 PM)*
+**FFBot** _(22-Apr-20 03:11 PM)_
 Don't count on it.
 
-**Rashidi** *(22-Apr-20 03:11 PM)*
+**Rashidi** _(22-Apr-20 03:11 PM)_
+
 > Dakari: I think they're still talking about our big success last night
 
-**Lili** *(22-Apr-20 03:11 PM)*
+**Lili** _(22-Apr-20 03:11 PM)_
 Iris starts making blueberry pancakes.
 
-**Silas** *(22-Apr-20 03:12 PM)*
+**Silas** _(22-Apr-20 03:12 PM)_
 8ball does the news interrupt the current program suddenly?
 
-**FFBot** *(22-Apr-20 03:12 PM)*
+**FFBot** _(22-Apr-20 03:12 PM)_
 I think so.
 
-**Sean** *(22-Apr-20 03:12 PM)*
+**Sean** _(22-Apr-20 03:12 PM)_
+
 > Seth: Why did I get so many and how do they all fit in here
 
-**Trey** *(22-Apr-20 03:12 PM)*
+**Trey** _(22-Apr-20 03:12 PM)_
 
+_He definitely does not_
 
-*He definitely does not*
+**Sean** _(22-Apr-20 03:12 PM)_
 
-**Sean** *(22-Apr-20 03:12 PM)*
+_Seth tries stepping over each woman lying on the floor_
 
-
-*Seth tries stepping over each woman lying on the floor*
-
-**Zander** *(22-Apr-20 03:12 PM)*
+**Zander** _(22-Apr-20 03:12 PM)_
 8ball Does every male all of a sudden get a random boner?
 
-**FFBot** *(22-Apr-20 03:12 PM)*
+**FFBot** _(22-Apr-20 03:12 PM)_
 Ask Seth.
 
-**Jonas** *(22-Apr-20 03:12 PM)*
+**Jonas** _(22-Apr-20 03:12 PM)_
+
 > Chomsky: @garrick
 
-**Zander** *(22-Apr-20 03:13 PM)*
+**Zander** _(22-Apr-20 03:13 PM)_
+
 > Emmett: We interrupt your lives with the most important news you'll ever hear.
 
-**Zander** *(22-Apr-20 03:13 PM)*
+**Zander** _(22-Apr-20 03:13 PM)_
+
 > Emmett: GU NEWS!
 
-**Jonas** *(22-Apr-20 03:13 PM)*
+**Jonas** _(22-Apr-20 03:13 PM)_
+
 > Chomsky: garrick where are you
 
-**Brody** *(22-Apr-20 03:13 PM)*
+**Brody** _(22-Apr-20 03:13 PM)_
 
+_Sanya awakens with a boner. She is very confused_
 
-*Sanya awakens with a boner. She is very confused*
+**Jonas** _(22-Apr-20 03:13 PM)_
 
-**Jonas** *(22-Apr-20 03:13 PM)*
 > Chomsky: BREAKFAST TIME GHOST GUY
 
-**Rashidi** *(22-Apr-20 03:13 PM)*
+**Rashidi** _(22-Apr-20 03:13 PM)_
+
 > Dakari: Guys...
 
-**Lili** *(22-Apr-20 03:13 PM)*
+**Lili** _(22-Apr-20 03:13 PM)_
 
+_The sound of the mixer gets slightly louder as Iris gets a little stressed._
 
-*The sound of the mixer gets slightly louder as Iris gets a little stressed.*
+**Rashidi** _(22-Apr-20 03:14 PM)_
 
-**Rashidi** *(22-Apr-20 03:14 PM)*
 > Dakari: The news... is on
 
-**Trey** *(22-Apr-20 03:14 PM)*
+**Trey** _(22-Apr-20 03:14 PM)_
 
+_Garrick bursts out of his room._
 
-*Garrick bursts out of his room.*
+**Trey** _(22-Apr-20 03:14 PM)_
 
-**Trey** *(22-Apr-20 03:14 PM)*
 > Garrick: IRIS
 
-**Brody** *(22-Apr-20 03:14 PM)*
+**Brody** _(22-Apr-20 03:14 PM)_
 
+_The phantom feeling disappears_
 
-*The phantom feeling disappears*
+**Trey** _(22-Apr-20 03:14 PM)_
 
-**Trey** *(22-Apr-20 03:14 PM)*
 > Garrick: GIVE ME FOOD
 
-**Sean** *(22-Apr-20 03:14 PM)*
+**Sean** _(22-Apr-20 03:14 PM)_
+
 > Seth: no but, Every woman on the ship has a boner
 
-**Zander** *(22-Apr-20 03:14 PM)*
+**Zander** _(22-Apr-20 03:14 PM)_
+
 > Emmett: We start off our week with the American Dad Empire's trade route with the Galactic Union. Apparently, in the middle of the route, there was a naked man holding up traffic!
 
-**Zander** *(22-Apr-20 03:14 PM)*
+**Zander** _(22-Apr-20 03:14 PM)_
+
 > Emmett: The man is known as Stan Smith, and he is trying to make a message.
 
-**Lili** *(22-Apr-20 03:15 PM)*
+**Lili** _(22-Apr-20 03:15 PM)_
 
+_Iris jumps, a little startled, but nods._
 
-*Iris jumps, a little startled, but nods.*
 > Iris: Working on it!
 
-**Sean** *(22-Apr-20 03:15 PM)*
+**Sean** _(22-Apr-20 03:15 PM)_
 
+_Seth exits his bedroom_
 
-*Seth exits his bedroom*
-
-**Zander** *(22-Apr-20 03:15 PM)*
+**Zander** _(22-Apr-20 03:15 PM)_
 8ball Does Emmett wake up just yet?
 
-**FFBot** *(22-Apr-20 03:15 PM)*
+**FFBot** _(22-Apr-20 03:15 PM)_
 Yeah, I'll allow it.
 
-**Trey** *(22-Apr-20 03:15 PM)*
+**Trey** _(22-Apr-20 03:15 PM)_
+
 > Garrick: Thanks. What's on the news?
 
-**Sean** *(22-Apr-20 03:15 PM)*
+**Sean** _(22-Apr-20 03:15 PM)_
+
 > Seth: Good morning retards
 
-**Brody** *(22-Apr-20 03:15 PM)*
+**Brody** _(22-Apr-20 03:15 PM)_
 
+_D: Sorry. I guess that my dreams cross over into yours._
 
-*D: Sorry. I guess that my dreams cross over into yours.*
+**Jonas** _(22-Apr-20 03:15 PM)_
 
-**Jonas** *(22-Apr-20 03:15 PM)*
 > Chomsky: american dad
 
-**Rashidi** *(22-Apr-20 03:15 PM)*
+**Rashidi** _(22-Apr-20 03:15 PM)_
+
 > Dakari: No one cares about the news anymore I swear
 
-**Trey** *(22-Apr-20 03:15 PM)*
+**Trey** _(22-Apr-20 03:15 PM)_
+
 > Garrick: Of course.
 
-**Sean** *(22-Apr-20 03:16 PM)*
+**Sean** _(22-Apr-20 03:16 PM)_
+
 > Seth: Lets watch Shlak-lack the Destroyer
 
-**Rashidi** *(22-Apr-20 03:16 PM)*
+**Rashidi** _(22-Apr-20 03:16 PM)_
+
 > Dakari: You would think people still care about naked idiots
 
-**Jonas** *(22-Apr-20 03:16 PM)*
+**Jonas** _(22-Apr-20 03:16 PM)_
+
 > Chomsky: guys this is some compelling stuff. a guy holds up traffic? epic.
 
-**Zander** *(22-Apr-20 03:16 PM)*
+**Zander** _(22-Apr-20 03:16 PM)_
 
+_Emmett opens his eyes and wipes them, feeling like shit._
 
-*Emmett opens his eyes and wipes them, feeling like shit.*
 > Emmett: Eugh. My horns.
 
-*He leaves his block and sits in a recliner next to the couch Dakari is sitting on.*
+_He leaves his block and sits in a recliner next to the couch Dakari is sitting on._
 
-**Trey** *(22-Apr-20 03:16 PM)*
+**Trey** _(22-Apr-20 03:16 PM)_
 8ball does Garrick change the channel?
 
-**FFBot** *(22-Apr-20 03:16 PM)*
+**FFBot** _(22-Apr-20 03:16 PM)_
 Better not tell you now.
 
-**Rashidi** *(22-Apr-20 03:16 PM)*
+**Rashidi** _(22-Apr-20 03:16 PM)_
+
 > Dakari: Isn't that Seth's thing?
 
-**Trey** *(22-Apr-20 03:16 PM)*
+**Trey** _(22-Apr-20 03:16 PM)_
 8ball does Garrick change the channel?
 
-**FFBot** *(22-Apr-20 03:16 PM)*
+**FFBot** _(22-Apr-20 03:16 PM)_
 Group vote. Vote in the order from first player down to last. Majority opinion wins. No changing answers.
 
-**Zander** *(22-Apr-20 03:17 PM)*
+**Zander** _(22-Apr-20 03:17 PM)_
+
 > Emmett: If you're thinking on changing the channel, we will instantly incinerate you from your holovision if you do so!
 
-**Lili** *(22-Apr-20 03:17 PM)*
+**Lili** _(22-Apr-20 03:17 PM)_
 
+_The first batch of pancakes is done._
 
-*The first batch of pancakes is done.*
+**Lili** _(22-Apr-20 03:17 PM)_
 
-**Lili** *(22-Apr-20 03:17 PM)*
 > Iris: Pancakes!
 
-**Jonas** *(22-Apr-20 03:18 PM)*
+**Jonas** _(22-Apr-20 03:18 PM)_
+
 > Chomsky: better dop the remote, garrick
 
-**Trey** *(22-Apr-20 03:18 PM)*
+**Trey** _(22-Apr-20 03:18 PM)_
 
+_Garrick tried to grab the remote, but his impaired vision causes him to just slam the ground instead._
 
-*Garrick tried to grab the remote, but his impaired vision causes him to just slam the ground instead.*
+**Jonas** _(22-Apr-20 03:18 PM)_
 
-**Jonas** *(22-Apr-20 03:18 PM)*
 > Chomsky: aw sweet, brekfast
 
-**Lili** *(22-Apr-20 03:18 PM)*
+**Lili** _(22-Apr-20 03:18 PM)_
 
+_She immediately begins the second batch after setting the first to the side._
 
-*She immediately begins the second batch after setting the first to the side.*
+**Zander** _(22-Apr-20 03:18 PM)_
 
-**Zander** *(22-Apr-20 03:18 PM)*
 > Emmett: "On a more solemn note, the Llamanian mothership was bombed just yesterday."
 
-**Rashidi** *(22-Apr-20 03:18 PM)*
+**Rashidi** _(22-Apr-20 03:18 PM)_
+
 > Dakari: What kind of pancakes are these?
 
-**Lili** *(22-Apr-20 03:18 PM)*
+**Lili** _(22-Apr-20 03:18 PM)_
+
 > Iris: Blueberry.
 
-**Sean** *(22-Apr-20 03:18 PM)*
+**Sean** _(22-Apr-20 03:18 PM)_
+
 > Seth: Ahhhh good old fashioned GU propaganda channel, the only channel that plays on every channel
 
-**Jonas** *(22-Apr-20 03:18 PM)*
+**Jonas** _(22-Apr-20 03:18 PM)_
 
+_chomsky grabs a couple pancakes and freaking destroys them with syrup_
 
-*chomsky grabs a couple pancakes and freaking destroys them with syrup*
+**Rashidi** _(22-Apr-20 03:19 PM)_
 
-**Rashidi** *(22-Apr-20 03:19 PM)*
 > Dakari: Sweet, the best kind of pancakes
 
-**Bill** *(22-Apr-20 03:19 PM)*
+**Bill** _(22-Apr-20 03:19 PM)_
 8ball does the TV start running around the room, still playing despite not being plugged in anymore?
 
-**FFBot** *(22-Apr-20 03:19 PM)*
+**FFBot** _(22-Apr-20 03:19 PM)_
 Dude. No.
 
-**Zander** *(22-Apr-20 03:19 PM)*
+**Zander** _(22-Apr-20 03:19 PM)_
+
 > Emmett: "Supposedly a huge group of mercenaries attacked the ship, killing hundreds of Llamanians and stealing a large chunk of ship."
 
-**Trey** *(22-Apr-20 03:19 PM)*
+**Trey** _(22-Apr-20 03:19 PM)_
 
+_Garrick grabs a chunk of the pancake stack and shoves it in his mouth._
 
-*Garrick grabs a chunk of the pancake stack and shoves it in his mouth.*
+**Lili** _(22-Apr-20 03:19 PM)_
 
-**Lili** *(22-Apr-20 03:19 PM)*
+_Iris smiles cheerfully._
 
-
-*Iris smiles cheerfully.*
 > Iris: Glad we can agree!
 
-**Trey** *(22-Apr-20 03:19 PM)*
+**Trey** _(22-Apr-20 03:19 PM)_
+
 > Garrick: The faster I eat the faster I heal.
 
-**Brody** *(22-Apr-20 03:19 PM)*
+**Brody** _(22-Apr-20 03:19 PM)_
 
+_Sanya leaves her room and meets the crew in the commons area_
 
-*Sanya leaves her room and meets the crew in the commons area*
+**Sean** _(22-Apr-20 03:19 PM)_
 
-**Sean** *(22-Apr-20 03:19 PM)*
 > Seth: Hey guys where's the pool?
 
-**Sean** *(22-Apr-20 03:19 PM)*
+**Sean** _(22-Apr-20 03:19 PM)_
+
 > Seth: I left my girlfriend in there and I need my morning blowjob.
 
-**Trey** *(22-Apr-20 03:20 PM)*
+**Trey** _(22-Apr-20 03:20 PM)_
+
 > Garrick: Oh, sorry Iris.
 
-**Zander** *(22-Apr-20 03:20 PM)*
+**Zander** _(22-Apr-20 03:20 PM)_
+
 > Emmett: "It is unknown where the chunk is, given that the crew went into hyperspace immediately after tractor beaming it."
 
-**Brody** *(22-Apr-20 03:20 PM)*
+**Brody** _(22-Apr-20 03:20 PM)_
 8ball Does Sanya eat breakfast?
 
-**FFBot** *(22-Apr-20 03:20 PM)*
+**FFBot** _(22-Apr-20 03:20 PM)_
 Most likely.
 
-**Brody** *(22-Apr-20 03:20 PM)*
+**Brody** _(22-Apr-20 03:20 PM)_
+
 > Sanya: Morning
 
-**Lili** *(22-Apr-20 03:20 PM)*
+**Lili** _(22-Apr-20 03:20 PM)_
+
 > Iris: That's okay.
 
-*Iris bakes a little harder.*
+_Iris bakes a little harder._
 
-**Cooldude** *(22-Apr-20 03:20 PM)*
+**Cooldude** _(22-Apr-20 03:20 PM)_
 still in space by the way
 
-**Lili** *(22-Apr-20 03:20 PM)*
+**Lili** _(22-Apr-20 03:20 PM)_
+
 > Iris: Morning Sanya!
 
-**Cooldude** *(22-Apr-20 03:20 PM)*
+**Cooldude** _(22-Apr-20 03:20 PM)_
 8ball should i wake up from my coma?
 
-**FFBot** *(22-Apr-20 03:20 PM)*
+**FFBot** _(22-Apr-20 03:20 PM)_
 Ask Seth.
 
-**Sean** *(22-Apr-20 03:21 PM)*
+**Sean** _(22-Apr-20 03:21 PM)_
+
 > Seth: Yes
 
-**Zander** *(22-Apr-20 03:21 PM)*
+**Zander** _(22-Apr-20 03:21 PM)_
+
 > Emmett: "It is known, that the Vortox Pummelers were behind this act, however."
 
-**Cooldude** *(22-Apr-20 03:21 PM)*
+**Cooldude** _(22-Apr-20 03:21 PM)_
+
 > Wemmfort: Where am I? What happened?
 
-**Jonas** *(22-Apr-20 03:21 PM)*
+**Jonas** _(22-Apr-20 03:21 PM)_
 8ball does garrick give all of his pancakes to chomsky
 
-**FFBot** *(22-Apr-20 03:21 PM)*
+**FFBot** _(22-Apr-20 03:21 PM)_
 Reply hazy try again.
 
-**Jonas** *(22-Apr-20 03:21 PM)*
+**Jonas** _(22-Apr-20 03:21 PM)_
 8ball does garrick give all of his pancakes to chomsky
 
-**FFBot** *(22-Apr-20 03:21 PM)*
+**FFBot** _(22-Apr-20 03:21 PM)_
 Sing the poopy farty song word for word. The others will decide your fate.
 
-**Brody** *(22-Apr-20 03:22 PM)*
+**Brody** _(22-Apr-20 03:22 PM)_
+
 > Sanya: Morning, Iris. What's for breakfast?
 
-**Trey** *(22-Apr-20 03:22 PM)*
+**Trey** _(22-Apr-20 03:22 PM)_
+
 > Garrick: Uh oh. They're not gonna catch up to us, are they?
 
-**Trey** *(22-Apr-20 03:22 PM)*
+**Trey** _(22-Apr-20 03:22 PM)_
+
 > Garrick: We barely managed to get out of there in the first place.
 
-**Jonas** *(22-Apr-20 03:22 PM)*
+**Jonas** _(22-Apr-20 03:22 PM)_
+
 > Chomsky: naaah, we wrecked them. theyre not coming back
 
-**Lili** *(22-Apr-20 03:22 PM)*
+**Lili** _(22-Apr-20 03:22 PM)_
+
 > Iris: Blueberry pancakes!
 
-*As if to punctuate her sentence, she shovels 10 pancakes to the side.*
+_As if to punctuate her sentence, she shovels 10 pancakes to the side._
 
-**Sean** *(22-Apr-20 03:23 PM)*
+**Sean** _(22-Apr-20 03:23 PM)_
+
 > Seth: Oh that mothership won't get up.
 
-**Zander** *(22-Apr-20 03:23 PM)*
+**Zander** _(22-Apr-20 03:23 PM)_
+
 > Emmett: "The Llamanian Empire has established a large bounty on the head of Emmett Tawfeek, one of the last Squoatlings remaining. Roughly 250,000 :duckett: will be offered to the crew who can bring him to their ship alive."
 
-**Rashidi** *(22-Apr-20 03:23 PM)*
+**Rashidi** _(22-Apr-20 03:23 PM)_
+
 > Dakari: No way, why else would we have been partying?
 
-**Zander** *(22-Apr-20 03:23 PM)*
+**Zander** _(22-Apr-20 03:23 PM)_
 
+_Emmett rolled his eyes._
 
-*Emmett rolled his eyes.*
+**Sean** _(22-Apr-20 03:24 PM)_
 
-**Sean** *(22-Apr-20 03:24 PM)*
 > Seth: But you wanna know what will? The leagues of bounty hunters and Llamanian military cruisers.
 
-**Brody** *(22-Apr-20 03:24 PM)*
+**Brody** _(22-Apr-20 03:24 PM)_
 
+_Sanya picks up two pancakes, eats one herself, and feeds one to her flower._
 
-*Sanya picks up two pancakes, eats one herself, and feeds one to her flower.*
+**Jonas** _(22-Apr-20 03:24 PM)_
 
-**Jonas** *(22-Apr-20 03:24 PM)*
 > Chomsky: look emmett, youre famous!
 
-**Zander** *(22-Apr-20 03:24 PM)*
+**Zander** _(22-Apr-20 03:24 PM)_
+
 > Emmett: "If you kill him, they will personally come to your house and murder you and your whole family, they said."
 
-**Trey** *(22-Apr-20 03:24 PM)*
+**Trey** _(22-Apr-20 03:24 PM)_
+
 > Garrick: That's a big bounty. No hard feelings, right Emmett?
 
-**Sean** *(22-Apr-20 03:24 PM)*
+**Sean** _(22-Apr-20 03:24 PM)_
+
 > Seth: Well Emmett, looks like you're the most wanted man in the GU, you've even passed me!
 
-**Sean** *(22-Apr-20 03:24 PM)*
+**Sean** _(22-Apr-20 03:24 PM)_
 
+_Seth pats Emmett on the back_
 
-*Seth pats Emmett on the back*
+**Rashidi** _(22-Apr-20 03:25 PM)_
 
-**Rashidi** *(22-Apr-20 03:25 PM)*
 > Dakari: I almost feel more jealous he has a bigger bounty than me...
 
-**Sean** *(22-Apr-20 03:25 PM)*
+**Sean** _(22-Apr-20 03:25 PM)_
+
 > Seth: Enjoy your fame
 
-**Brody** *(22-Apr-20 03:25 PM)*
+**Brody** _(22-Apr-20 03:25 PM)_
+
 > Sanya: No surprise there.
 
-**Lili** *(22-Apr-20 03:25 PM)*
+**Lili** _(22-Apr-20 03:25 PM)_
 
+_Iris, hearing the bounty, stress-bakes pancakes at a strangely fast pace_
 
-*Iris, hearing the bounty, stress-bakes pancakes at a strangely fast pace*
+**Trey** _(22-Apr-20 03:25 PM)_
 
-**Trey** *(22-Apr-20 03:25 PM)*
+_Garrick continues to devour the cakes._
 
-
-*Garrick continues to devour the cakes.*
-
-**Cooldude** *(22-Apr-20 03:26 PM)*
+**Cooldude** _(22-Apr-20 03:26 PM)_
 garrick continues to devour penis
 
-**Trey** *(22-Apr-20 03:26 PM)*
+**Trey** _(22-Apr-20 03:26 PM)_
 
+_Cooldude dies in real life._
 
-*Cooldude dies in real life.*
-
-**Lili** *(22-Apr-20 03:26 PM)*
+**Lili** _(22-Apr-20 03:26 PM)_
 8ball has Iris made 100 pancakes?
 
-**FFBot** *(22-Apr-20 03:26 PM)*
+**FFBot** _(22-Apr-20 03:26 PM)_
 Do a t!choose to determine.
 
-**Zander** *(22-Apr-20 03:26 PM)*
+**Zander** _(22-Apr-20 03:26 PM)_
+
 > Emmett: "Anyhow, that's all we got for GU News."
 
-*Emmett opened his eyes from the sudden pat, them being bloodshot orange.*
+_Emmett opened his eyes from the sudden pat, them being bloodshot orange._
+
 > Emmett: "Remember to bring in the Squoatling alive!"
 
-*The news anchor took out a plasma rifle and cocked it.*
+_The news anchor took out a plasma rifle and cocked it._
 
-**Sean** *(22-Apr-20 03:26 PM)*
+**Sean** _(22-Apr-20 03:26 PM)_
+
 > Seth: Ah you need some sleep buddy.
 
-**Sean** *(22-Apr-20 03:26 PM)*
+**Sean** _(22-Apr-20 03:26 PM)_
+
 > Seth: Or some grass.
 
-**Zander** *(22-Apr-20 03:27 PM)*
+**Zander** _(22-Apr-20 03:27 PM)_
+
 > Emmett: I probably do.
 
-**Lili** *(22-Apr-20 03:27 PM)*
+**Lili** _(22-Apr-20 03:27 PM)_
 t!choose 100 pancakes | 50 pancakes | 1000 pancakes | 10 pancakes
 
-**FFBot** *(22-Apr-20 03:27 PM)*
+**FFBot** _(22-Apr-20 03:27 PM)_
 🤔 | Jelsafan0, I pick 50 pancakes
 
-**Zander** *(22-Apr-20 03:27 PM)*
+**Zander** _(22-Apr-20 03:27 PM)_
+
 > Emmett: But I assume that you guys all wanted me in here.
 
-**Sean** *(22-Apr-20 03:28 PM)*
+**Sean** _(22-Apr-20 03:28 PM)_
+
 > Seth: I got a little grass I found in the Llamanian mothership if you wanna share man.
 
-**Zander** *(22-Apr-20 03:28 PM)*
+**Zander** _(22-Apr-20 03:28 PM)_
 
+_Emmett wasn't in the mood to be discrete._
 
-*Emmett wasn't in the mood to be discrete.*
 > Emmett: Got a bong somewhere or something?
 
-**Rashidi** *(22-Apr-20 03:28 PM)*
+**Rashidi** _(22-Apr-20 03:28 PM)_
 8ball Does Dakari eat 25 of the 50 newly made pancakes?
 (edited)
 
-**FFBot** *(22-Apr-20 03:28 PM)*
+**FFBot** _(22-Apr-20 03:28 PM)_
 Yeah, I'll allow it.
 
-**Zander** *(22-Apr-20 03:28 PM)*
+**Zander** _(22-Apr-20 03:28 PM)_
+
 > Emmett: DAKARI!
 
-**Zander** *(22-Apr-20 03:28 PM)*
+**Zander** _(22-Apr-20 03:28 PM)_
+
 > Emmett: Those were for everyone!
 
-**Sean** *(22-Apr-20 03:28 PM)*
+**Sean** _(22-Apr-20 03:28 PM)_
+
 > Seth: Yeah, give me a moment, I'll go grab it from my room
 
-**Rashidi** *(22-Apr-20 03:29 PM)*
+**Rashidi** _(22-Apr-20 03:29 PM)_
+
 > Dakari: Well now you have 25 left
 
-**Sean** *(22-Apr-20 03:29 PM)*
+**Sean** _(22-Apr-20 03:29 PM)_
 t!8ball Does Seth airlock all the women and go and grab the bong?
 
-**FFBot** *(22-Apr-20 03:29 PM)*
-🎱 |  Most likely, Bagelwrecker
+**FFBot** _(22-Apr-20 03:29 PM)_
+🎱 | Most likely, Bagelwrecker
 
-**Jonas** *(22-Apr-20 03:29 PM)*
+**Jonas** _(22-Apr-20 03:29 PM)_
+
 > Chomsky: as if we'll be able to eat all like 100 pancakes
 
-**Cooldude** *(22-Apr-20 03:29 PM)*
+**Cooldude** _(22-Apr-20 03:29 PM)_
 does seth speak to people telepathically when they have to ask him a question?
 (edited)
 
-**Rashidi** *(22-Apr-20 03:29 PM)*
+**Rashidi** _(22-Apr-20 03:29 PM)_
+
 > Dakari: Apologies, that's probably enough to last me the rest of the day though
 
-**Sean** *(22-Apr-20 03:29 PM)*
+**Sean** _(22-Apr-20 03:29 PM)_
+
 > Seth: Alright I'm back, I hope we didn't need those women.
 
-**Sean** *(22-Apr-20 03:29 PM)*
+**Sean** _(22-Apr-20 03:29 PM)_
+
 > Seth: I just killed them all if we did.
 
-**Zander** *(22-Apr-20 03:30 PM)*
+**Zander** _(22-Apr-20 03:30 PM)_
+
 > Emmett: "WARNING: FUEL RESERVES LOW."
 
-**Zander** *(22-Apr-20 03:30 PM)*
+**Zander** _(22-Apr-20 03:30 PM)_
+
 > Emmett: Fuck.
 
-**Lili** *(22-Apr-20 03:30 PM)*
+**Lili** _(22-Apr-20 03:30 PM)_
+
 > Iris: I'm already making more.
 
-*Even as Iris speaks,  there are cupcakes coming out of the oven. She frowns in confusion.*
+_Even as Iris speaks, there are cupcakes coming out of the oven. She frowns in confusion._
+
 > Iris: How did I make cupcakes?
 
-**Sean** *(22-Apr-20 03:30 PM)*
+**Sean** _(22-Apr-20 03:30 PM)_
 
+_Seth put the bong down and starts to set it up_
 
-*Seth put the bong down and starts to set it up*
-
-**Trey** *(22-Apr-20 03:30 PM)*
+**Trey** _(22-Apr-20 03:30 PM)_
 umi umi umi
 (edited)
 
-**Silas** *(22-Apr-20 03:30 PM)*
+**Silas** _(22-Apr-20 03:30 PM)_
 u im
 
-**Sean** *(22-Apr-20 03:30 PM)*
+**Sean** _(22-Apr-20 03:30 PM)_
+
 > Seth: Oh shit
 
-**Sean** *(22-Apr-20 03:30 PM)*
+**Sean** _(22-Apr-20 03:30 PM)_
+
 > Seth: I kinda used some of the fuel for something, I'm sorry.
 
-**Cooldude** *(22-Apr-20 03:31 PM)*
+**Cooldude** _(22-Apr-20 03:31 PM)_
 what if seth asks himself a question?
 (edited)
 
-**Zander** *(22-Apr-20 03:31 PM)*
+**Zander** _(22-Apr-20 03:31 PM)_
 8ball Does the crew realize that the septic tank is full?
 
-**FFBot** *(22-Apr-20 03:31 PM)*
+**FFBot** _(22-Apr-20 03:31 PM)_
 The person who goes after you decides.
 
-**Jonas** *(22-Apr-20 03:31 PM)*
+**Jonas** _(22-Apr-20 03:31 PM)_
+
 > Chomsky: what'd you use it for? thats like our most important rescource right now!
 
-**Zander** *(22-Apr-20 03:31 PM)*
+**Zander** _(22-Apr-20 03:31 PM)_
+
 > Emmett: Seth, if I lit your penis on fire, would you burst into flames right now?
 
-**Zander** *(22-Apr-20 03:31 PM)*
+**Zander** _(22-Apr-20 03:31 PM)_
 Yes
 
-**Sean** *(22-Apr-20 03:32 PM)*
+**Sean** _(22-Apr-20 03:32 PM)_
+
 > Seth: I don't know.
 
-**Brody** *(22-Apr-20 03:32 PM)*
+**Brody** _(22-Apr-20 03:32 PM)_
+
 > Sanya: Can we check?
 
-**Sean** *(22-Apr-20 03:32 PM)*
+**Sean** _(22-Apr-20 03:32 PM)_
+
 > Seth: That fuel kinda evaporates quickly.
 
-**Sean** *(22-Apr-20 03:32 PM)*
+**Sean** _(22-Apr-20 03:32 PM)_
+
 > Seth: I'd rather you don't
 
-**Jonas** *(22-Apr-20 03:33 PM)*
+**Jonas** _(22-Apr-20 03:33 PM)_
+
 > Chomsky: i can help light you on fire.
 
-**Jonas** *(22-Apr-20 03:33 PM)*
+**Jonas** _(22-Apr-20 03:33 PM)_
+
 > Chomsky: in case you need me to
 
-**Sean** *(22-Apr-20 03:33 PM)*
+**Sean** _(22-Apr-20 03:33 PM)_
+
 > Seth: No.
 
-**Trey** *(22-Apr-20 03:33 PM)*
+**Trey** _(22-Apr-20 03:33 PM)_
+
 > Garrick: I will also help with that.
 
-**Zander** *(22-Apr-20 03:33 PM)*
+**Zander** _(22-Apr-20 03:33 PM)_
 8ball Does Emmett get up and slump into the pilot's chair, checking the fuel reserves?
 
-**FFBot** *(22-Apr-20 03:33 PM)*
+**FFBot** _(22-Apr-20 03:33 PM)_
 Very doubtful.
 
-**Zander** *(22-Apr-20 03:33 PM)*
+**Zander** _(22-Apr-20 03:33 PM)_
+
 > Emmett: Can someone check for me?
 
-**Sean** *(22-Apr-20 03:33 PM)*
+**Sean** _(22-Apr-20 03:33 PM)_
+
 > Seth: I got it.
 
-**Sean** *(22-Apr-20 03:33 PM)*
+**Sean** _(22-Apr-20 03:33 PM)_
+
 > Seth: The bong is set up by the way.
 
-**Sean** *(22-Apr-20 03:33 PM)*
+**Sean** _(22-Apr-20 03:33 PM)_
 
+_Seth goes to the Cockpit and checks the fuel reserves._
 
-*Seth goes to the Cockpit and checks the fuel reserves.*
+**Jonas** _(22-Apr-20 03:34 PM)_
 
-**Jonas** *(22-Apr-20 03:34 PM)*
 > Chomsky: hey garrick, got any cards?
 
-**Zander** *(22-Apr-20 03:34 PM)*
+**Zander** _(22-Apr-20 03:34 PM)_
 
+_Emmett kicked the bong away and took the grass, placing it in his mouth as Seth left. He lunged onto the empty couch and stretched his legs._
 
-*Emmett kicked the bong away and took the grass, placing it in his mouth as Seth left. He lunged onto the empty couch and stretched his legs.*
+**Sean** _(22-Apr-20 03:34 PM)_
 
-**Sean** *(22-Apr-20 03:34 PM)*
 > Seth: Hmph.
 
-**Trey** *(22-Apr-20 03:34 PM)*
+**Trey** _(22-Apr-20 03:34 PM)_
+
 > Garrick: Probably.
 
-**Trey** *(22-Apr-20 03:34 PM)*
+**Trey** _(22-Apr-20 03:34 PM)_
+
 > Garrick: I'll check...
 
-**Jonas** *(22-Apr-20 03:34 PM)*
+**Jonas** _(22-Apr-20 03:34 PM)_
+
 > Chomsky: i have a fun game we can try.
 
-**Brody** *(22-Apr-20 03:34 PM)*
+**Brody** _(22-Apr-20 03:34 PM)_
+
 > Sanya: Stop taking up the whole couch.
 
-**Sean** *(22-Apr-20 03:34 PM)*
+**Sean** _(22-Apr-20 03:34 PM)_
+
 > Seth: God damnit.
 
-**Zander** *(22-Apr-20 03:34 PM)*
+**Zander** _(22-Apr-20 03:34 PM)_
+
 > Emmett: Make me, woman.
 
-**Sean** *(22-Apr-20 03:35 PM)*
+**Sean** _(22-Apr-20 03:35 PM)_
+
 > Seth: We have a problem Emmett.
 
-**Brody** *(22-Apr-20 03:35 PM)*
+**Brody** _(22-Apr-20 03:35 PM)_
 
+_Sanya moves one of Emmett's legs and sits down._
 
-*Sanya moves one of Emmett's legs and sits down.*
+**Sean** _(22-Apr-20 03:35 PM)_
 
-**Sean** *(22-Apr-20 03:35 PM)*
 > Seth: We're running at 10% fuel at the moment.
 
-**Rashidi** *(22-Apr-20 03:35 PM)*
+**Rashidi** _(22-Apr-20 03:35 PM)_
+
 > Dakari: I think we could definitely use another couch.
 
-**Lili** *(22-Apr-20 03:35 PM)*
+**Lili** _(22-Apr-20 03:35 PM)_
 
+_Iris, noticing the small mountain she made, finally stops making pancakes and instead sits down to eat a few._
 
-*Iris, noticing the small mountain she made, finally stops making pancakes and instead sits down to eat a few.*
+**Zander** _(22-Apr-20 03:35 PM)_
 
-**Zander** *(22-Apr-20 03:35 PM)*
+_Emmett rested his hoof in Sanya's lap, stroking his baby goatee._
 
-
-*Emmett rested his hoof in Sanya's lap, stroking his baby goatee.*
-
-**Trey** *(22-Apr-20 03:35 PM)*
+**Trey** _(22-Apr-20 03:35 PM)_
 t!choose cards | cheese | deck of ears
 
-**FFBot** *(22-Apr-20 03:35 PM)*
+**FFBot** _(22-Apr-20 03:35 PM)_
 🤔 | [RP]retribution, I pick cheese
 
-**Zander** *(22-Apr-20 03:35 PM)*
+**Zander** _(22-Apr-20 03:35 PM)_
+
 > Emmett: I'll order a new one.
 
-**Trey** *(22-Apr-20 03:35 PM)*
+**Trey** _(22-Apr-20 03:35 PM)_
+
 > Garrick: No good.
 
-**Jonas** *(22-Apr-20 03:36 PM)*
+**Jonas** _(22-Apr-20 03:36 PM)_
+
 > Chomsky: you know what, that cheese will work
 
-**Jonas** *(22-Apr-20 03:36 PM)*
+**Jonas** _(22-Apr-20 03:36 PM)_
+
 > Chomsky: as a ghost, can you like possess the cheese
 
-**Sean** *(22-Apr-20 03:36 PM)*
+**Sean** _(22-Apr-20 03:36 PM)_
+
 > Seth: I didn't renew our ASA subscription, so we can't get refueled remotely, but I think we could get to Space Station Dack-12.
 
-**Trey** *(22-Apr-20 03:36 PM)*
+**Trey** _(22-Apr-20 03:36 PM)_
+
 > Garrick: You're concerning me.
 
-**Zander** *(22-Apr-20 03:36 PM)*
+**Zander** _(22-Apr-20 03:36 PM)_
+
 > Emmett: As a goat, I can eat the cheese.
 
-**Lili** *(22-Apr-20 03:36 PM)*
+**Lili** _(22-Apr-20 03:36 PM)_
 
+_Iris is sitting on the floor._
 
-*Iris is sitting on the floor.*
+**Sean** _(22-Apr-20 03:36 PM)_
 
-**Sean** *(22-Apr-20 03:36 PM)*
 > Seth: You listening to me Emmett?
 
-**Jonas** *(22-Apr-20 03:36 PM)*
+**Jonas** _(22-Apr-20 03:36 PM)_
+
 > Chomsky: can you though?
 
-**Trey** *(22-Apr-20 03:36 PM)*
+**Trey** _(22-Apr-20 03:36 PM)_
+
 > Garrick: Emmett, I need you to promise you will not eat me when I possess this cheese.
 
-**Zander** *(22-Apr-20 03:37 PM)*
+**Zander** _(22-Apr-20 03:37 PM)_
+
 > Emmett: Yeah, yeah, dad. Carry me to the console.
 
-**Sean** *(22-Apr-20 03:37 PM)*
+**Sean** _(22-Apr-20 03:37 PM)_
+
 > Seth: Alright son.
 
-**Brody** *(22-Apr-20 03:37 PM)*
+**Brody** _(22-Apr-20 03:37 PM)_
 8ball Does Sanya go and help out Seth?
 
-**FFBot** *(22-Apr-20 03:37 PM)*
+**FFBot** _(22-Apr-20 03:37 PM)_
 DENIED.
 
-**Jonas** *(22-Apr-20 03:37 PM)*
+**Jonas** _(22-Apr-20 03:37 PM)_
+
 > Chomsky: possess the cheese, garrick.
 
-**Sean** *(22-Apr-20 03:38 PM)*
+**Sean** _(22-Apr-20 03:38 PM)_
 
+_Seth picks up Emmett and starts to walk to the cockpit_
 
-*Seth picks up Emmett and starts to walk to the cockpit*
+**Brody** _(22-Apr-20 03:38 PM)_
 
-**Brody** *(22-Apr-20 03:38 PM)*
 > Sanya: Fuel isn't my problem. He can deal with it himself.
 
-**Trey** *(22-Apr-20 03:38 PM)*
+**Trey** _(22-Apr-20 03:38 PM)_
 
+_Garrick reluctantly possesses the cheese._
 
-*Garrick reluctantly possesses the cheese.*
+**Brody** _(22-Apr-20 03:38 PM)_
 
-**Brody** *(22-Apr-20 03:38 PM)*
 > Sanya: Oh, bye Emmett.
 
-**Rashidi** *(22-Apr-20 03:38 PM)*
+**Rashidi** _(22-Apr-20 03:38 PM)_
+
 > Dakari: Finally, room on the couch.
 
-**Lili** *(22-Apr-20 03:38 PM)*
+**Lili** _(22-Apr-20 03:38 PM)_
 
+_Iris continues to eat pancakes, watching the living room descend into chaos._
 
-*Iris continues to eat pancakes, watching the living room descend into chaos.*
-
-**Cooldude** *(22-Apr-20 03:38 PM)*
+**Cooldude** _(22-Apr-20 03:38 PM)_
 8ball Is Wemmfort too weak to get up?
 
-**FFBot** *(22-Apr-20 03:38 PM)*
+**FFBot** _(22-Apr-20 03:38 PM)_
 DENIED.
 
-**Rashidi** *(22-Apr-20 03:38 PM)*
+**Rashidi** _(22-Apr-20 03:38 PM)_
+
 > Dakari: The better couch.
 
-**Jonas** *(22-Apr-20 03:38 PM)*
+**Jonas** _(22-Apr-20 03:38 PM)_
 8ball does chomsky take a huge bite out of the cheese
 
-**FFBot** *(22-Apr-20 03:38 PM)*
+**FFBot** _(22-Apr-20 03:38 PM)_
 Outlook good.
 
-**Zander** *(22-Apr-20 03:38 PM)*
+**Zander** _(22-Apr-20 03:38 PM)_
 The holovision has an earpiercing high frequency noise for 10 seconds and then switches to Shlak-lack the Destroyer.
 
-**Cooldude** *(22-Apr-20 03:39 PM)*
+**Cooldude** _(22-Apr-20 03:39 PM)_
 
+_Wemmfort is too weak to get up_
 
-*Wemmfort is too weak to get up*
+**Jonas** _(22-Apr-20 03:39 PM)_
 
-**Jonas** *(22-Apr-20 03:39 PM)*
 > Chomsky: yum
 
-**Jonas** *(22-Apr-20 03:39 PM)*
+**Jonas** _(22-Apr-20 03:39 PM)_
 cronch
 
-**Rashidi** *(22-Apr-20 03:39 PM)*
+**Rashidi** _(22-Apr-20 03:39 PM)_
+
 > Dakari: Why do you guys even enjoy this show?
 
-**Zander** *(22-Apr-20 03:39 PM)*
+**Zander** _(22-Apr-20 03:39 PM)_
 
+_Emmett purposely rolls out Seth's arms and sets the coordinates._
 
-*Emmett purposely rolls out Seth's arms and sets the coordinates.*
+**Zander** _(22-Apr-20 03:39 PM)_
 
-**Zander** *(22-Apr-20 03:39 PM)*
 > Emmett: Dude, don't drop me.
 
-**Brody** *(22-Apr-20 03:40 PM)*
+**Brody** _(22-Apr-20 03:40 PM)_
 
+_D: How can you stand this chaos every morning?_
 
-*D: How can you stand this chaos every morning?*
+**Trey** _(22-Apr-20 03:40 PM)_
 
-**Trey** *(22-Apr-20 03:40 PM)*
+_Garrick unpossesses the cheese in great pain. All that had healed of his eye wound was reversed._
 
+**Sean** _(22-Apr-20 03:40 PM)_
 
-*Garrick unpossesses the cheese in great pain. All that had healed of his eye wound was reversed.*
-
-**Sean** *(22-Apr-20 03:40 PM)*
 > Seth: Did you smoke all my grass?
 
-**Trey** *(22-Apr-20 03:40 PM)*
+**Trey** _(22-Apr-20 03:40 PM)_
+
 > Garrick: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-**Jonas** *(22-Apr-20 03:40 PM)*
+**Jonas** _(22-Apr-20 03:40 PM)_
+
 > Chomsky: ah, ghost eye. my favorite
 
-**Zander** *(22-Apr-20 03:40 PM)*
+**Zander** _(22-Apr-20 03:40 PM)_
 
+_Emmett's mouth was filled with chunks of matted grass._
 
-*Emmett's mouth was filled with chunks of matted grass.*
+**Trey** _(22-Apr-20 03:40 PM)_
 
-**Trey** *(22-Apr-20 03:40 PM)*
 > Garrick: WHAT THE HELL, MAN??
 
-**Zander** *(22-Apr-20 03:40 PM)*
+**Zander** _(22-Apr-20 03:40 PM)_
+
 > Emmett: No.
 
-**Sean** *(22-Apr-20 03:40 PM)*
+**Sean** _(22-Apr-20 03:40 PM)_
+
 > Seth: bitch.
 
-**Jonas** *(22-Apr-20 03:40 PM)*
+**Jonas** _(22-Apr-20 03:40 PM)_
+
 > Chomsky: its better than normal cheese
 
-**Lili** *(22-Apr-20 03:41 PM)*
+**Lili** _(22-Apr-20 03:41 PM)_
 
+_Iris finishes her pancakes._
 
-*Iris finishes her pancakes.*
-
-**Cooldude** *(22-Apr-20 03:41 PM)*
+**Cooldude** _(22-Apr-20 03:41 PM)_
 @Zander
 
-**Silas** *(22-Apr-20 03:41 PM)*
+**Silas** _(22-Apr-20 03:41 PM)_
 foetnit
 
-**Jonas** *(22-Apr-20 03:41 PM)*
+**Jonas** _(22-Apr-20 03:41 PM)_
 fotnite
 
-**Trey** *(22-Apr-20 03:41 PM)*
+**Trey** _(22-Apr-20 03:41 PM)_
+
 > Garrick: AAAAAAAAAAAAAAAAAAAAAAAAᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬᴬ
 
-**Trey** *(22-Apr-20 03:41 PM)*
+**Trey** _(22-Apr-20 03:41 PM)_
 
+_He trails off into the kitchen to eat more pancakes._
 
-*He trails off into the kitchen to eat more pancakes.*
+**Jonas** _(22-Apr-20 03:42 PM)_
 
-**Jonas** *(22-Apr-20 03:42 PM)*
 > Chomsky: anyway garrick, got any cards?
 
-**Trey** *(22-Apr-20 03:42 PM)*
+**Trey** _(22-Apr-20 03:42 PM)_
+
 > Garrick: SORRY IRIS I NEED THESE
 
-**Trey** *(22-Apr-20 03:42 PM)*
+**Trey** _(22-Apr-20 03:42 PM)_
 
+_He eats the rest of the pancakes to dull the pain._
 
-*He eats the rest of the pancakes to dull the pain.*
+**Lili** _(22-Apr-20 03:43 PM)_
 
-**Lili** *(22-Apr-20 03:43 PM)*
 > Iris: That's okay.
 
-**Cooldude** *(22-Apr-20 03:43 PM)*
+**Cooldude** _(22-Apr-20 03:43 PM)_
 he crashed on barbona on some pretty shallow water i guess
 (edited)
 
-**Trey** *(22-Apr-20 03:43 PM)*
+**Trey** _(22-Apr-20 03:43 PM)_
+
 > Garrick: I swear to God, Chomsky, I'm gonna get you back for that.
 
-**Jonas** *(22-Apr-20 03:43 PM)*
+**Jonas** _(22-Apr-20 03:43 PM)_
+
 > Chomsky: nope
 
-**Cooldude** *(22-Apr-20 03:43 PM)*
+**Cooldude** _(22-Apr-20 03:43 PM)_
 since there can't be a planet that's all water
 
-**Zander** *(22-Apr-20 03:43 PM)*
+**Zander** _(22-Apr-20 03:43 PM)_
+
 > Emmett: So Seth.
 
-**Sean** *(22-Apr-20 03:44 PM)*
+**Sean** _(22-Apr-20 03:44 PM)_
+
 > Seth: That was some high quality Llamanian grass, like really high quality. Artisanally dried, grown with no additives, high OPC content, and watered with real KK-19 Water.
 
-**Trey** *(22-Apr-20 03:44 PM)*
+**Trey** _(22-Apr-20 03:44 PM)_
+
 > Garrick: Yes. Watch your eyes.
 
-**Zander** *(22-Apr-20 03:44 PM)*
+**Zander** _(22-Apr-20 03:44 PM)_
+
 > Emmett: You pound any special pussy?
 
-**Sean** *(22-Apr-20 03:44 PM)*
+**Sean** _(22-Apr-20 03:44 PM)_
+
 > Seth: No, none of them were retarded.
 
-**Zander** *(22-Apr-20 03:44 PM)*
+**Zander** _(22-Apr-20 03:44 PM)_
+
 > Emmett: Also, thank you Seth.
 
-**Lili** *(22-Apr-20 03:44 PM)*
+**Lili** _(22-Apr-20 03:44 PM)_
 8ball does Iris change the channel to her favorite ribbon-dancing show?
 
-**FFBot** *(22-Apr-20 03:44 PM)*
+**FFBot** _(22-Apr-20 03:44 PM)_
 Sing the poopy farty song word for word. The others will decide your fate.
 
-**Zander** *(22-Apr-20 03:44 PM)*
+**Zander** _(22-Apr-20 03:44 PM)_
+
 > Emmett: I mean any I might've liked.
 
-**Jonas** *(22-Apr-20 03:44 PM)*
+**Jonas** _(22-Apr-20 03:44 PM)_
+
 > Chomsky: my reflective glasses repel spirits. you cant touch me, garrick.
 
-**Sean** *(22-Apr-20 03:44 PM)*
+**Sean** _(22-Apr-20 03:44 PM)_
+
 > Seth: There was this minotaur, she almost broke my pelvis.
 
-**Zander** *(22-Apr-20 03:45 PM)*
+**Zander** _(22-Apr-20 03:45 PM)_
 
+_Emmett starts the autopilot._
 
-*Emmett starts the autopilot.*
+**Zander** _(22-Apr-20 03:45 PM)_
 
-**Zander** *(22-Apr-20 03:45 PM)*
 > Emmett: Minotaurs give me PTSD.
 
-**Sean** *(22-Apr-20 03:45 PM)*
+**Sean** _(22-Apr-20 03:45 PM)_
+
 > Seth: Mmm.
 
-**Sean** *(22-Apr-20 03:45 PM)*
+**Sean** _(22-Apr-20 03:45 PM)_
+
 > Seth: There was this one muppet woman.
 
-**Zander** *(22-Apr-20 03:45 PM)*
+**Zander** _(22-Apr-20 03:45 PM)_
+
 > Emmett: Whatever that is.
 
-**Zander** *(22-Apr-20 03:45 PM)*
+**Zander** _(22-Apr-20 03:45 PM)_
+
 > Emmett: Muppet?
 
-**Sean** *(22-Apr-20 03:45 PM)*
+**Sean** _(22-Apr-20 03:45 PM)_
+
 > Seth: Yeah
 
-**Sean** *(22-Apr-20 03:46 PM)*
+**Sean** _(22-Apr-20 03:46 PM)_
+
 > Seth: She didn't speak GU Standard too well,
 
-**Sean** *(22-Apr-20 03:46 PM)*
+**Sean** _(22-Apr-20 03:46 PM)_
+
 > Seth: She was interesting though, very tribal.
 
-**Zander** *(22-Apr-20 03:46 PM)*
-> Emmett: Did she not have a translator?
-8ball Does all the food in the ship randomly disappear?
+**Zander** _(22-Apr-20 03:46 PM)_
 
-**FFBot** *(22-Apr-20 03:46 PM)*
+> Emmett: Did she not have a translator?
+> 8ball Does all the food in the ship randomly disappear?
+
+**FFBot** _(22-Apr-20 03:46 PM)_
 Ask Seth.
 
-**Sean** *(22-Apr-20 03:46 PM)*
+**Sean** _(22-Apr-20 03:46 PM)_
+
 > Seth: No.
 
-**Lili** *(22-Apr-20 03:47 PM)*
+**Lili** _(22-Apr-20 03:47 PM)_
 
+_Iris hums idly as she pulls out her dagger, reaching into her pocket for something to sharpen it with._
 
-*Iris hums idly as she pulls out her dagger, reaching into her pocket for something to sharpen it with.*
-
-**Rashidi** *(22-Apr-20 03:47 PM)*
+**Rashidi** _(22-Apr-20 03:47 PM)_
 8ball Does Dakari take a short nap on the couch?
 
-**FFBot** *(22-Apr-20 03:47 PM)*
+**FFBot** _(22-Apr-20 03:47 PM)_
 My sources say no.
 
-**Sean** *(22-Apr-20 03:47 PM)*
+**Sean** _(22-Apr-20 03:47 PM)_
+
 > Seth: Her translator didn't work too well.
 
-**Brody** *(22-Apr-20 03:47 PM)*
+**Brody** _(22-Apr-20 03:47 PM)_
+
 > Sanya: Are you really going to take a nap right now?
 
-**Lili** *(22-Apr-20 03:47 PM)*
+**Lili** _(22-Apr-20 03:47 PM)_
 
+_She doesn't find anything, frowning._
 
-*She doesn't find anything, frowning.*
+**Rashidi** _(22-Apr-20 03:47 PM)_
 
-**Rashidi** *(22-Apr-20 03:47 PM)*
 > Dakari: Why not?
 
-**Cooldude** *(22-Apr-20 03:48 PM)*
+**Cooldude** _(22-Apr-20 03:48 PM)_
 wemmfort falls on pretty shallow water (drawn by picasso)
 
-**Lili** *(22-Apr-20 03:48 PM)*
+**Lili** _(22-Apr-20 03:48 PM)_
+
 > Iris: Does anybody have something to sharpen my dagger with?
 
-**Rashidi** *(22-Apr-20 03:48 PM)*
+**Rashidi** _(22-Apr-20 03:48 PM)_
+
 > Dakari: You have anything you want to talk about... plant?
 
-**Brody** *(22-Apr-20 03:48 PM)*
+**Brody** _(22-Apr-20 03:48 PM)_
+
 > Sanya: I'm trying to sit on this couch.
 
-**Zander** *(22-Apr-20 03:48 PM)*
+**Zander** _(22-Apr-20 03:48 PM)_
 
+_Emmett closed his eyes, trying to get rid of his obnoxious headache._
 
-*Emmett closed his eyes, trying to get rid of his obnoxious headache.*
+**Trey** _(22-Apr-20 03:48 PM)_
 
-**Trey** *(22-Apr-20 03:48 PM)*
 > Garrick: Sharpen it on Chomsky's dumb glasses.
 
-**Jonas** *(22-Apr-20 03:48 PM)*
+**Jonas** _(22-Apr-20 03:48 PM)_
+
 > Chomsky: NO
 
-**Rashidi** *(22-Apr-20 03:48 PM)*
+**Rashidi** _(22-Apr-20 03:48 PM)_
+
 > Dakari: Well I'm not taking up much room anyways though
 
-**Jonas** *(22-Apr-20 03:48 PM)*
+**Jonas** _(22-Apr-20 03:48 PM)_
+
 > Chomsky: theyll break your knife
 
-**Sean** *(22-Apr-20 03:48 PM)*
+**Sean** _(22-Apr-20 03:48 PM)_
 https://cdn.discordapp.com/attachments/701282308023517246/702621751544381470/-__-.png
 
-**Brody** *(22-Apr-20 03:48 PM)*
+**Brody** _(22-Apr-20 03:48 PM)_
+
 > Sanya: Iris, i have a blade sharpener in my room.
 
-**Sean** *(22-Apr-20 03:48 PM)*
+**Sean** _(22-Apr-20 03:48 PM)_
 8ball Does the image above appear in the ship and starts ear piercingly screeching?
 
-**FFBot** *(22-Apr-20 03:49 PM)*
+**FFBot** _(22-Apr-20 03:49 PM)_
 Cannot predict now.
 
-**Lili** *(22-Apr-20 03:49 PM)*
+**Lili** _(22-Apr-20 03:49 PM)_
+
 > Iris: Oh, could I use it for a few minutes?
 
-**Sean** *(22-Apr-20 03:49 PM)*
+**Sean** _(22-Apr-20 03:49 PM)_
 8ball Does the image above appear in the ship and starts ear piercingly screeching?
 
-**FFBot** *(22-Apr-20 03:49 PM)*
+**FFBot** _(22-Apr-20 03:49 PM)_
 Most likely.
 
-**Cooldude** *(22-Apr-20 03:49 PM)*
+**Cooldude** _(22-Apr-20 03:49 PM)_
 8ball is cooldude dead yet?
 
-**FFBot** *(22-Apr-20 03:49 PM)*
+**FFBot** _(22-Apr-20 03:49 PM)_
 Signs point to yes.
 
-**Brody** *(22-Apr-20 03:49 PM)*
+**Brody** _(22-Apr-20 03:49 PM)_
+
 > Sanya: Of course.
 
-**Lili** *(22-Apr-20 03:49 PM)*
+**Lili** _(22-Apr-20 03:49 PM)_
+
 > Iris: Thanks!
 
-**Zander** *(22-Apr-20 03:49 PM)*
+**Zander** _(22-Apr-20 03:49 PM)_
+
 > Emmett: I probably partied too hard.
 
-**Silas** *(22-Apr-20 03:49 PM)*
+**Silas** _(22-Apr-20 03:49 PM)_
 8ball is the image in the cockpit?
 
-**FFBot** *(22-Apr-20 03:49 PM)*
+**FFBot** _(22-Apr-20 03:49 PM)_
 Yes.
 
-**Sean** *(22-Apr-20 03:50 PM)*
+**Sean** _(22-Apr-20 03:50 PM)_
+
 > Seth: It gets the best of us
 
-**Lili** *(22-Apr-20 03:50 PM)*
+**Lili** _(22-Apr-20 03:50 PM)_
 
+_Iris starts for the door before realizing she doesn't know where Sanya's room is._
 
-*Iris starts for the door before realizing she doesn't know where Sanya's room is.*
-
-**Zander** *(22-Apr-20 03:50 PM)*
+**Zander** _(22-Apr-20 03:50 PM)_
 8ball Does Emmett fucking curbstomp the ben 10 alien?
 
-**FFBot** *(22-Apr-20 03:50 PM)*
+**FFBot** _(22-Apr-20 03:50 PM)_
 Ask Sanya.
 
-**Sean** *(22-Apr-20 03:50 PM)*
+**Sean** _(22-Apr-20 03:50 PM)_
+
 > Seth: Ew a bug.
 
-**Brody** *(22-Apr-20 03:50 PM)*
+**Brody** _(22-Apr-20 03:50 PM)_
+
 > Sanya: Do it
 
-**Jonas** *(22-Apr-20 03:50 PM)*
+**Jonas** _(22-Apr-20 03:50 PM)_
+
 > Chomsky: do it
 
-**Zander** *(22-Apr-20 03:51 PM)*
+**Zander** _(22-Apr-20 03:51 PM)_
+
 > Emmett: I can't have something like that in here.
 
-**Zander** *(22-Apr-20 03:51 PM)*
+**Zander** _(22-Apr-20 03:51 PM)_
+
 > Emmett: This cockpit is meant to be safe and tranquil.
 
-**Lili** *(22-Apr-20 03:51 PM)*
+**Lili** _(22-Apr-20 03:51 PM)_
+
 > Iris: Um... actually... I don't know where your room is.
 
-**Sean** *(22-Apr-20 03:51 PM)*
+**Sean** _(22-Apr-20 03:51 PM)_
+
 > Seth: Indeed
 
-**Trey** *(22-Apr-20 03:51 PM)*
+**Trey** _(22-Apr-20 03:51 PM)_
+
 > Garrick: Try all of them
 
-**Sean** *(22-Apr-20 03:51 PM)*
+**Sean** _(22-Apr-20 03:51 PM)_
+
 > Seth: Look at his little uniform though
 
-**Brody** *(22-Apr-20 03:51 PM)*
+**Brody** _(22-Apr-20 03:51 PM)_
+
 > Sanya: Here, I'll show you.
 
-**Silas** *(22-Apr-20 03:51 PM)*
+**Silas** _(22-Apr-20 03:51 PM)_
 treyggas be like "i'm you"
 
-**Jonas** *(22-Apr-20 03:51 PM)*
+**Jonas** _(22-Apr-20 03:51 PM)_
 yeah
 
-**Trey** *(22-Apr-20 03:51 PM)*
+**Trey** _(22-Apr-20 03:51 PM)_
 yeah
 
-**Brody** *(22-Apr-20 03:51 PM)*
+**Brody** _(22-Apr-20 03:51 PM)_
 
+_Sanya gets up and starts walking to her room_
 
-*Sanya gets up and starts walking to her room*
+**Sean** _(22-Apr-20 03:52 PM)_
 
-**Sean** *(22-Apr-20 03:52 PM)*
 > Seth: Hey Emmett.
 
-**Jonas** *(22-Apr-20 03:52 PM)*
+**Jonas** _(22-Apr-20 03:52 PM)_
 when ur chompsky: yeah.
 (edited)
 
-**Lili** *(22-Apr-20 03:52 PM)*
+**Lili** _(22-Apr-20 03:52 PM)_
 
+_Iris smiles happily, willing to follow Sanya anywhere in this particular moment._
 
-*Iris smiles happily, willing to follow Sanya anywhere in this particular moment.*
+**Zander** _(22-Apr-20 03:52 PM)_
 
-**Zander** *(22-Apr-20 03:52 PM)*
 > Emmett: Yeah?
 
-**Silas** *(22-Apr-20 03:52 PM)*
+**Silas** _(22-Apr-20 03:52 PM)_
 you know it's cold outside when you go outside and it's cold
 
-**Sean** *(22-Apr-20 03:52 PM)*
+**Sean** _(22-Apr-20 03:52 PM)_
+
 > Seth: That's the Packi bounty hunter uniform right?
 
-**Trey** *(22-Apr-20 03:52 PM)*
+**Trey** _(22-Apr-20 03:52 PM)_
 8ball is the ship closing in on the space station
 
-**FFBot** *(22-Apr-20 03:52 PM)*
+**FFBot** _(22-Apr-20 03:52 PM)_
 Sure, but the next person adds a modifier to your outcome.
 
-**Jonas** *(22-Apr-20 03:52 PM)*
+**Jonas** _(22-Apr-20 03:52 PM)_
 8balllllllllllllllllllllllllllllllllllllllllllllll
 
-**Zander** *(22-Apr-20 03:52 PM)*
+**Zander** _(22-Apr-20 03:52 PM)_
+
 > Emmett: Oh shit.
 
-**Rashidi** *(22-Apr-20 03:53 PM)*
+**Rashidi** _(22-Apr-20 03:53 PM)_
+
 > Dakari: How much longer till we get to the space station?
 
-**Zander** *(22-Apr-20 03:53 PM)*
+**Zander** _(22-Apr-20 03:53 PM)_
+
 > Emmett: Wait.
 
-**Zander** *(22-Apr-20 03:53 PM)*
+**Zander** _(22-Apr-20 03:53 PM)_
+
 > Emmett: Is our auto pilot broken?
 
-**Zander** *(22-Apr-20 03:53 PM)*
+**Zander** _(22-Apr-20 03:53 PM)_
 
+_Emmett overrides the ship and moves it onto the station._
 
-*Emmett overrides the ship and moves it onto the station.*
-
-**Jonas** *(22-Apr-20 03:54 PM)*
+**Jonas** _(22-Apr-20 03:54 PM)_
 m
 
-**Sean** *(22-Apr-20 03:54 PM)*
+**Sean** _(22-Apr-20 03:54 PM)_
+
 > Seth: Its running on fumes I think
 
-**Brody** *(22-Apr-20 03:54 PM)*
+**Brody** _(22-Apr-20 03:54 PM)_
+
 > Sanya: This room. The sharpener should be somewhere around here.
 
-**Jonas** *(22-Apr-20 03:54 PM)*
+**Jonas** _(22-Apr-20 03:54 PM)_
+
 > Chomsky: welp, there it goes. bye space station.
 
-**Zander** *(22-Apr-20 03:54 PM)*
+**Zander** _(22-Apr-20 03:54 PM)_
+
 > Emmett: So, what are the Packis again?
 
-**Lili** *(22-Apr-20 03:54 PM)*
+**Lili** _(22-Apr-20 03:54 PM)_
+
 > Iris: Thank you!
 
-*Iris steps cheerfully into the room and looks around for the sharpener.*
+_Iris steps cheerfully into the room and looks around for the sharpener._
 
-**Sean** *(22-Apr-20 03:55 PM)*
+**Sean** _(22-Apr-20 03:55 PM)_
+
 > Seth: Bounty Hunter group with their own TV show.
 
-**Zander** *(22-Apr-20 03:55 PM)*
+**Zander** _(22-Apr-20 03:55 PM)_
+
 > Emmett: Tiny people that crawl in your urethra or something? Or are the-oh yeah, those are the Peeka.
 
-**Bill** *(22-Apr-20 03:55 PM)*
+**Bill** _(22-Apr-20 03:55 PM)_
 8ball does the crew leave the ship unlocked when they board the space station?
 
-**FFBot** *(22-Apr-20 03:55 PM)*
+**FFBot** _(22-Apr-20 03:55 PM)_
 It is decidedly so.
 
-**Brody** *(22-Apr-20 03:56 PM)*
+**Brody** _(22-Apr-20 03:56 PM)_
 8ball Is the sharpener missing?
 
-**FFBot** *(22-Apr-20 03:56 PM)*
+**FFBot** _(22-Apr-20 03:56 PM)_
 Very doubtful.
 
-**Sean** *(22-Apr-20 03:56 PM)*
+**Sean** _(22-Apr-20 03:56 PM)_
+
 > Seth: Its not just tiny people, that was just one of their members.
 
-**Brody** *(22-Apr-20 03:56 PM)*
+**Brody** _(22-Apr-20 03:56 PM)_
+
 > Sanya: Oh hey, it's right here.
 
-**Lili** *(22-Apr-20 03:56 PM)*
+**Lili** _(22-Apr-20 03:56 PM)_
 
+_Iris turns with a grin._
 
-*Iris turns with a grin.*
 > Iris: Oh thanks!
 
-**Trey** *(22-Apr-20 03:56 PM)*
+**Trey** _(22-Apr-20 03:56 PM)_
 
+_Iris turns to see her knife missing._
 
-*Iris turns to see her knife missing.*
-
-**Jonas** *(22-Apr-20 03:57 PM)*
+**Jonas** _(22-Apr-20 03:57 PM)_
 boom time
 
-**Jonas** *(22-Apr-20 03:57 PM)*
+**Jonas** _(22-Apr-20 03:57 PM)_
 @Trey Moment
 
-**Trey** *(22-Apr-20 03:57 PM)*
+**Trey** _(22-Apr-20 03:57 PM)_
 SHUT UP OH MY GOD
 
-**Trey** *(22-Apr-20 03:57 PM)*
+**Trey** _(22-Apr-20 03:57 PM)_
 DUDE I HATE YOU SO MUCH
 
-**Silas** *(22-Apr-20 03:57 PM)*
+**Silas** _(22-Apr-20 03:57 PM)_
 m
 
-**Trey** *(22-Apr-20 03:57 PM)*
+**Trey** _(22-Apr-20 03:57 PM)_
 USE THIS DAGGER TO KILL YOURSELF
 
-**Silas** *(22-Apr-20 03:57 PM)*
+**Silas** _(22-Apr-20 03:57 PM)_
 1
 
-**Zander** *(22-Apr-20 03:57 PM)*
+**Zander** _(22-Apr-20 03:57 PM)_
+
 > Emmett: So are we being watched then?
 
-**Zander** *(22-Apr-20 03:57 PM)*
+**Zander** _(22-Apr-20 03:57 PM)_
 
+_Emmett yawns._
 
-*Emmett yawns.*
+**Zander** _(22-Apr-20 03:57 PM)_
 
-**Zander** *(22-Apr-20 03:57 PM)*
 > Emmett: Let me nap for a bit.
 
-**Lili** *(22-Apr-20 03:57 PM)*
+**Lili** _(22-Apr-20 03:57 PM)_
+
 > Iris: Where's my...?
 
-**Sean** *(22-Apr-20 03:58 PM)*
+**Sean** _(22-Apr-20 03:58 PM)_
+
 > Seth: Most likely.
 
-**Brody** *(22-Apr-20 03:58 PM)*
+**Brody** _(22-Apr-20 03:58 PM)_
+
 > Sanya: Check the ghost.
 
-**Sean** *(22-Apr-20 03:58 PM)*
+**Sean** _(22-Apr-20 03:58 PM)_
+
 > Seth: Stay safe bud
 
-**Trey** *(22-Apr-20 03:58 PM)*
+**Trey** _(22-Apr-20 03:58 PM)_
 OOOOOOOOONE
 
-**Sean** *(22-Apr-20 03:58 PM)*
+**Sean** _(22-Apr-20 03:58 PM)_
 11
 
-**Cooldude** *(22-Apr-20 03:58 PM)*
+**Cooldude** _(22-Apr-20 03:58 PM)_
 8ball should i get my bearings finally?
 
-**FFBot** *(22-Apr-20 03:58 PM)*
+**FFBot** _(22-Apr-20 03:58 PM)_
 Outlook not so good.
 
-**Lili** *(22-Apr-20 03:58 PM)*
+**Lili** _(22-Apr-20 03:58 PM)_
 
+_Iris nods._
 
-*Iris nods.*
 > Iris: Good idea.
 
-**Sean** *(22-Apr-20 03:58 PM)*
+**Sean** _(22-Apr-20 03:58 PM)_
 https://media.tenor.com/images/fefe86eb32522136cf862e34a248de22/tenor.gif
 
-**Cooldude** *(22-Apr-20 03:58 PM)*
+**Cooldude** _(22-Apr-20 03:58 PM)_
 
+_tries to get up again but can't_
 
-*tries to get up again but can't*
+**Lili** _(22-Apr-20 03:59 PM)_
 
-**Lili** *(22-Apr-20 03:59 PM)*
+_These instructions in mind, Iris sets out in search of Garrick._
 
-
-*These instructions in mind, Iris sets out in search of Garrick.*
-
-**Zander** *(22-Apr-20 03:59 PM)*
+**Zander** _(22-Apr-20 03:59 PM)_
 @Sean.
 
-**Jonas** *(22-Apr-20 03:59 PM)*
+**Jonas** _(22-Apr-20 03:59 PM)_
 8ball does chomsky work in force with garrick to keep iris's stuff away from her
 
-**FFBot** *(22-Apr-20 03:59 PM)*
+**FFBot** _(22-Apr-20 03:59 PM)_
 My sources say no.
 
-**Zander** *(22-Apr-20 03:59 PM)*
+**Zander** _(22-Apr-20 03:59 PM)_
 @Sib
 
-**Jonas** *(22-Apr-20 03:59 PM)*
+**Jonas** _(22-Apr-20 03:59 PM)_
+
 > Chomsky: garrick. come on now
 
-**Zander** *(22-Apr-20 04:00 PM)*
+**Zander** _(22-Apr-20 04:00 PM)_
 @Sean.
 
-**Lili** *(22-Apr-20 04:00 PM)*
+**Lili** _(22-Apr-20 04:00 PM)_
 t!8ball does Iris find Garrick literally holding her dagger?
 
-**FFBot** *(22-Apr-20 04:00 PM)*
-🎱 |  It is certain, Jelsafan0
+**FFBot** _(22-Apr-20 04:00 PM)_
+🎱 | It is certain, Jelsafan0
 
-**Zander** *(22-Apr-20 04:01 PM)*
+**Zander** _(22-Apr-20 04:01 PM)_
 8ball Does Mateo walk towards the recently landed spaceship?
 
-**FFBot** *(22-Apr-20 04:01 PM)*
+**FFBot** _(22-Apr-20 04:01 PM)_
 As I see it, yes.
 
-**Trey** *(22-Apr-20 04:01 PM)*
+**Trey** _(22-Apr-20 04:01 PM)_
+
 > Garrick: I sense imminent danger.
 
-**Lili** *(22-Apr-20 04:01 PM)*
+**Lili** _(22-Apr-20 04:01 PM)_
+
 > Iris: Garrick, have you seen my-? oh.
 
-**Trey** *(22-Apr-20 04:01 PM)*
+**Trey** _(22-Apr-20 04:01 PM)_
+
 > Garrick: ABORT!
 
-**Trey** *(22-Apr-20 04:01 PM)*
+**Trey** _(22-Apr-20 04:01 PM)_
 
+_Garrick flies away._
 
-*Garrick flies away.*
+**Jonas** _(22-Apr-20 04:01 PM)_
 
-**Jonas** *(22-Apr-20 04:01 PM)*
 > Chomsky: GARRICK
 
-**Trey** *(22-Apr-20 04:02 PM)*
+**Trey** _(22-Apr-20 04:02 PM)_
 
+_He sticks the dagger in his pocket._
 
-*He sticks the dagger in his pocket.*
+**Jonas** _(22-Apr-20 04:02 PM)_
 
-**Jonas** *(22-Apr-20 04:02 PM)*
 > Chomsky: AFTER HIM
 
-**Lili** *(22-Apr-20 04:02 PM)*
+**Lili** _(22-Apr-20 04:02 PM)_
 
+_Iris chases after him, pulling one of her ribbons out with an intent to lasso that ghost._
 
-*Iris chases after him, pulling one of her ribbons out with an intent to lasso that ghost.*
-
-**Rashidi** *(22-Apr-20 04:02 PM)*
+**Rashidi** _(22-Apr-20 04:02 PM)_
 8ball Does Dakari go and practice knife throwing?
 
-**FFBot** *(22-Apr-20 04:02 PM)*
+**FFBot** _(22-Apr-20 04:02 PM)_
 Group vote. Vote in the order from first player down to last. Minority opinion wins. No changing answers.
 
-**Trey** *(22-Apr-20 04:02 PM)*
+**Trey** _(22-Apr-20 04:02 PM)_
+
 > Garrick: My dagger now!
 
-**Brody** *(22-Apr-20 04:03 PM)*
+**Brody** _(22-Apr-20 04:03 PM)_
 
+_D: These people are insane. I don't know what you see in them._
 
-*D: These people are insane. I don't know what you see in them.*
+**Rashidi** _(22-Apr-20 04:04 PM)_
 
-**Rashidi** *(22-Apr-20 04:04 PM)*
 > Dakari: Just call me in a little while, I'll be busy.
 
-**Lili** *(22-Apr-20 04:04 PM)*
+**Lili** _(22-Apr-20 04:04 PM)_
 
+_Iris attempts to lasso the ghost_
 
-*Iris attempts to lasso the ghost*
-
-**Cooldude** *(22-Apr-20 04:04 PM)*
+**Cooldude** _(22-Apr-20 04:04 PM)_
 heeeeee
 
-**Jonas** *(22-Apr-20 04:05 PM)*
-    
+**Jonas** _(22-Apr-20 04:05 PM)_
 
-**Sean** *(22-Apr-20 04:05 PM)*
+**Sean** _(22-Apr-20 04:05 PM)_
 8ball Does Seth flash his dick to every single person on the space station in the span of 10 seconds?
 
-**FFBot** *(22-Apr-20 04:05 PM)*
+**FFBot** _(22-Apr-20 04:05 PM)_
 Ask Emmett.
 
-**Sean** *(22-Apr-20 04:05 PM)*
+**Sean** _(22-Apr-20 04:05 PM)_
 8ball Does Seth flash his dick to every single person on the space station in the span of 10 seconds?
 
-**FFBot** *(22-Apr-20 04:05 PM)*
+**FFBot** _(22-Apr-20 04:05 PM)_
 The person who goes after you decides.
 
-**Trey** *(22-Apr-20 04:05 PM)*
+**Trey** _(22-Apr-20 04:05 PM)_
 
+_Garrick blows a raspberry at Iris._
 
-*Garrick blows a raspberry at Iris.*
+**Jonas** _(22-Apr-20 04:05 PM)_
 
-**Jonas** *(22-Apr-20 04:05 PM)*
+_chomsky wields the cheese to throw at garrick_
 
-
-*chomsky wields the cheese to throw at garrick*
-
-**Silas** *(22-Apr-20 04:06 PM)*
+**Silas** _(22-Apr-20 04:06 PM)_
 no
 
-**Jonas** *(22-Apr-20 04:06 PM)*
+**Jonas** _(22-Apr-20 04:06 PM)_
 im using the no modifier on you rn
 
-**Cooldude** *(22-Apr-20 04:06 PM)*
+**Cooldude** _(22-Apr-20 04:06 PM)_
 everyone mute silas
 
-**Jonas** *(22-Apr-20 04:07 PM)*
-*kill
+**Jonas** _(22-Apr-20 04:07 PM)_
+\*kill
 
-**Jonas** *(22-Apr-20 04:07 PM)*
+**Jonas** _(22-Apr-20 04:07 PM)_
 gottem
 
-**Silas** *(22-Apr-20 04:07 PM)*
+**Silas** _(22-Apr-20 04:07 PM)_
 8ball does the crew head towards a commotion near the edge of the station?
 
-**FFBot** *(22-Apr-20 04:07 PM)*
+**FFBot** _(22-Apr-20 04:07 PM)_
 The person who goes after you decides.
 
-**Bill** *(22-Apr-20 04:07 PM)*
-*stick in pooper
+**Bill** _(22-Apr-20 04:07 PM)_
+\*stick in pooper
 
-**Sean** *(22-Apr-20 04:07 PM)*
+**Sean** _(22-Apr-20 04:07 PM)_
+
 > Seth: 🟪🟪🟪🟪🟪🟪
-🟪🟪🟪🟪🟪🟪🟪
-🟪🟪🟪🟪🟪🟪🟪
-⬜⬛🟪⬜⬛🟪🟪
-🟪🟪🟪🟪🟪🟪🟪
-🟪⬛⬛⬛⬛⬛🟪
-🟪🟪⬛⬛⬛🟪🟪
+> 🟪🟪🟪🟪🟪🟪🟪
+> 🟪🟪🟪🟪🟪🟪🟪
+> ⬜⬛🟪⬜⬛🟪🟪
+> 🟪🟪🟪🟪🟪🟪🟪
+> 🟪⬛⬛⬛⬛⬛🟪
+> 🟪🟪⬛⬛⬛🟪🟪
+
       🟪🟪🟪🟪🟪      🟪🟪
                                     🟪🟪🟪🟪
                                     🟪🟪🟪🟪
                               🟪🟪🟪🟪🟪🟪
                         🟪🟪🟪🟪🟪🟪🟪
-🟪🟪🟪🟪🟪🟪🟪🟪🟨🟨🟪
-🟪🟪🟪🟪🟪      🟪🟪🟨🟨🟪
 
-**Sean** *(22-Apr-20 04:07 PM)*
-> Seth: ⠀⠀    🟪🟪🟪🟪🟪
+🟪🟪🟪🟪🟪🟪🟪🟪🟨🟨🟪
+🟪🟪🟪🟪🟪 🟪🟪🟨🟨🟪
+
+**Sean** _(22-Apr-20 04:07 PM)_
+
+> Seth: ⠀⠀ 🟪🟪🟪🟪🟪
+
                                     🟪🟪🟪🟪🟪
                                     🟪🟪🟪🟪🟪
                                     🟪🟪🟪🟪
@@ -1849,15258 +2015,16741 @@ The person who goes after you decides.
                                           🟪🟪🟪
                                           🟪🟪🟪
 
-**Trey** *(22-Apr-20 04:07 PM)*
+**Trey** _(22-Apr-20 04:07 PM)_
 Yes
 
-**Lili** *(22-Apr-20 04:07 PM)*
+**Lili** _(22-Apr-20 04:07 PM)_
 
+_Iris, fairly upset by his theft, glares at Garrick._
 
-*Iris, fairly upset by his theft, glares at Garrick.*
-
-**Cooldude** *(22-Apr-20 04:07 PM)*
+**Cooldude** _(22-Apr-20 04:07 PM)_
 let's get viruses by playing tf2
 
-**Jonas** *(22-Apr-20 04:08 PM)*
+**Jonas** _(22-Apr-20 04:08 PM)_
 
+_chomsky, instead of throwing the cheese, eats it and heads to the edge of the station_
 
-*chomsky, instead of throwing the cheese, eats it and heads to the edge of the station*
+**Sean** _(22-Apr-20 04:09 PM)_
 
-**Sean** *(22-Apr-20 04:09 PM)*
 > Seth: https://www.youtube.com/watch?v=xm6z-e1zqIc
 
-**Trey** *(22-Apr-20 04:09 PM)*
+**Trey** _(22-Apr-20 04:09 PM)_
 8ball does Chomsky get dysentery
 
-**FFBot** *(22-Apr-20 04:09 PM)*
+**FFBot** _(22-Apr-20 04:09 PM)_
 My reply is no.
 
-**Jonas** *(22-Apr-20 04:09 PM)*
+**Jonas** _(22-Apr-20 04:09 PM)_
 stomach of steel
 
-**Trey** *(22-Apr-20 04:09 PM)*
+**Trey** _(22-Apr-20 04:09 PM)_
 
+_He gets mild stomach pain instead._
 
-*He gets mild stomach pain instead.*
+**Sean** _(22-Apr-20 04:09 PM)_
 
-**Sean** *(22-Apr-20 04:09 PM)*
 > Seth: https://www.youtube.com/watch?v=xeqY8vVbWnA
 
-**Jonas** *(22-Apr-20 04:09 PM)*
+**Jonas** _(22-Apr-20 04:09 PM)_
 no
 
-**Jonas** *(22-Apr-20 04:09 PM)*
+**Jonas** _(22-Apr-20 04:09 PM)_
 no
 
-**Jonas** *(22-Apr-20 04:09 PM)*
+**Jonas** _(22-Apr-20 04:09 PM)_
 no
 
-**Trey** *(22-Apr-20 04:09 PM)*
+**Trey** _(22-Apr-20 04:09 PM)_
+
 > Garrick: That cheese is really old.
 
-**Cooldude** *(22-Apr-20 04:10 PM)*
+**Cooldude** _(22-Apr-20 04:10 PM)_
 m word
 
-**Jonas** *(22-Apr-20 04:10 PM)*
+**Jonas** _(22-Apr-20 04:10 PM)_
+
 > Chomsky: moldy cheese is good
 
-**Jonas** *(22-Apr-20 04:10 PM)*
+**Jonas** _(22-Apr-20 04:10 PM)_
+
 > Chomsky: ever eaten bleu?
 
-**Silas** *(22-Apr-20 04:10 PM)*
+**Silas** _(22-Apr-20 04:10 PM)_
 https://tenor.com/view/letter-gif-9063757
 
-**Sean** *(22-Apr-20 04:10 PM)*
+**Sean** _(22-Apr-20 04:10 PM)_
 https://www.youtube.com/watch?v=LAKBwrodHg8
 
-**Bill** *(22-Apr-20 04:10 PM)*
+**Bill** _(22-Apr-20 04:10 PM)_
 8ball is the commotion caused by two naked aliens fighting, one of which becomes violently attracted to chomsky?
 
-**Trey** *(22-Apr-20 04:10 PM)*
+**Trey** _(22-Apr-20 04:10 PM)_
+
 > Garrick: Oh look! A distraction!
 
-**FFBot** *(22-Apr-20 04:10 PM)*
+**FFBot** _(22-Apr-20 04:10 PM)_
 That's a no moment.
 
-**Trey** *(22-Apr-20 04:10 PM)*
+**Trey** _(22-Apr-20 04:10 PM)_
 
+_Garrick moves quickly towards the commotion._
 
-*Garrick moves quickly towards the commotion.*
+**Brody** _(22-Apr-20 04:10 PM)_
 
-**Brody** *(22-Apr-20 04:10 PM)*
 > Sanya: I've eaten a man named Blue. He wasn't good.
 
-**Sean** *(22-Apr-20 04:10 PM)*
+**Sean** _(22-Apr-20 04:10 PM)_
+
 > Seth: Was he sad
 
-**Brody** *(22-Apr-20 04:10 PM)*
+**Brody** _(22-Apr-20 04:10 PM)_
+
 > Sanya: No, he was dead.
 
-**Sean** *(22-Apr-20 04:10 PM)*
+**Sean** _(22-Apr-20 04:10 PM)_
 0-0
 
-**Jonas** *(22-Apr-20 04:10 PM)*
+**Jonas** _(22-Apr-20 04:10 PM)_
+
 > Chomsky: you ATE someone?!
 
-**Lili** *(22-Apr-20 04:10 PM)*
+**Lili** _(22-Apr-20 04:10 PM)_
 
+_Iris follows, scheming a way to retrieve her dagger._
 
-*Iris follows, scheming a way to retrieve her dagger.*
+**Brody** _(22-Apr-20 04:10 PM)_
 
-**Brody** *(22-Apr-20 04:10 PM)*
 > Sanya: Yeah.
 
-**Sean** *(22-Apr-20 04:11 PM)*
+**Sean** _(22-Apr-20 04:11 PM)_
+
 > Seth: I've eaten dwarves.
 
-**Sean** *(22-Apr-20 04:11 PM)*
+**Sean** _(22-Apr-20 04:11 PM)_
+
 > Seth: They're tasty
 
-**Brody** *(22-Apr-20 04:11 PM)*
+**Brody** _(22-Apr-20 04:11 PM)_
 8ball Does Sanya go in very elaborate detail about Floran dietary habits?
 
-**FFBot** *(22-Apr-20 04:11 PM)*
+**FFBot** _(22-Apr-20 04:11 PM)_
 It is certain.
 
-**Silas** *(22-Apr-20 04:11 PM)*
+**Silas** _(22-Apr-20 04:11 PM)_
 
+_suddenly, the crowd goes wild, some people clearly ecstatic and others devastated. the crew notices televisions lined against the upper wall._
 
-*suddenly, the crowd goes wild, some people clearly ecstatic and others devastated. the crew notices televisions lined against the upper wall.*
-
-**Cooldude** *(22-Apr-20 04:11 PM)*
+**Cooldude** _(22-Apr-20 04:11 PM)_
 https://www.youtube.com/watch?v=BBSqiqqt_7E&list=RDxm6z-e1zqIc
 
-**Sean** *(22-Apr-20 04:11 PM)*
+**Sean** _(22-Apr-20 04:11 PM)_
 https://www.youtube.com/watch?v=OBiJuRPeUGg
 
-**Brody** *(22-Apr-20 04:12 PM)*
+**Brody** _(22-Apr-20 04:12 PM)_
+
 > Sanya: Florans eat meat. anything, really. Humans aren't special.
 
-**Jonas** *(22-Apr-20 04:12 PM)*
+**Jonas** _(22-Apr-20 04:12 PM)_
+
 > Chomsky: ah...
 
-**Jonas** *(22-Apr-20 04:12 PM)*
+**Jonas** _(22-Apr-20 04:12 PM)_
+
 > Chomsky: well fire burns anything. florans arent special. just some incentive to not eat me
 
-**Cooldude** *(22-Apr-20 04:13 PM)*
+**Cooldude** _(22-Apr-20 04:13 PM)_
 8ball should wemmfort finally get up?
 
-**FFBot** *(22-Apr-20 04:13 PM)*
+**FFBot** _(22-Apr-20 04:13 PM)_
 Ask Sanya.
 
-**Brody** *(22-Apr-20 04:13 PM)*
+**Brody** _(22-Apr-20 04:13 PM)_
+
 > Sanya: If I wanted you dead, you'd never had taken a single step on the ship.
 
-**Brody** *(22-Apr-20 04:13 PM)*
+**Brody** _(22-Apr-20 04:13 PM)_
+
 > Sanya: No.
 
-**Trey** *(22-Apr-20 04:13 PM)*
+**Trey** _(22-Apr-20 04:13 PM)_
 Jonas has poopy pants
 
-**Cooldude** *(22-Apr-20 04:14 PM)*
+**Cooldude** _(22-Apr-20 04:14 PM)_
 sanya and seth can speak telepathically i guess
 
-**Silas** *(22-Apr-20 04:14 PM)*
+**Silas** _(22-Apr-20 04:14 PM)_
+
 > Wes: And that's it! He's done it again! For his third gold in a row, The Scaled Speedster has won the photo finish!
 
-**Jonas** *(22-Apr-20 04:14 PM)*
+**Jonas** _(22-Apr-20 04:14 PM)_
 8ball does garrick have poopy vest
 
-**FFBot** *(22-Apr-20 04:14 PM)*
+**FFBot** _(22-Apr-20 04:14 PM)_
 Concentrate and ask again.
 
-**Jonas** *(22-Apr-20 04:14 PM)*
+**Jonas** _(22-Apr-20 04:14 PM)_
 8ball does garrick have poopy vest
 
-**FFBot** *(22-Apr-20 04:14 PM)*
+**FFBot** _(22-Apr-20 04:14 PM)_
 It is decidedly so.
 
-**Trey** *(22-Apr-20 04:14 PM)*
-HE DOES  NOT
+**Trey** _(22-Apr-20 04:14 PM)_
+HE DOES NOT
 
-**Jonas** *(22-Apr-20 04:15 PM)*
+**Jonas** _(22-Apr-20 04:15 PM)_
+
 > Chomsky: garrick did you poop your vest
 
-**Trey** *(22-Apr-20 04:15 PM)*
+**Trey** _(22-Apr-20 04:15 PM)_
 
+_Someone in the crowd flings poopy on Garrick's vest._
 
-*Someone in the crowd flings poopy on Garrick's vest.*
-
-**Lili** *(22-Apr-20 04:15 PM)*
+**Lili** _(22-Apr-20 04:15 PM)_
 8ball does Iris' dagger fall out of Garrick's pocket?
 
-**FFBot** *(22-Apr-20 04:15 PM)*
+**FFBot** _(22-Apr-20 04:15 PM)_
 As I see it, yes.
 
-**Trey** *(22-Apr-20 04:15 PM)*
+**Trey** _(22-Apr-20 04:15 PM)_
+
 > Garrick: Oh, gross, what the hell?
 
-**Trey** *(22-Apr-20 04:15 PM)*
+**Trey** _(22-Apr-20 04:15 PM)_
+
 > Garrick: NO
 
-**Trey** *(22-Apr-20 04:15 PM)*
+**Trey** _(22-Apr-20 04:15 PM)_
 t!choose garrick | iris
 
-**FFBot** *(22-Apr-20 04:16 PM)*
+**FFBot** _(22-Apr-20 04:16 PM)_
 🤔 | [RP]retribution, I pick iris
 
-**Zander** *(22-Apr-20 04:16 PM)*
+**Zander** _(22-Apr-20 04:16 PM)_
 8ball Do I walk up to the plant-person?
 
-**FFBot** *(22-Apr-20 04:16 PM)*
+**FFBot** _(22-Apr-20 04:16 PM)_
 It is decidedly so.
 🤔 | PlasmaPerson, I pick bubby
 
-**Zander** *(22-Apr-20 04:16 PM)*
+**Zander** _(22-Apr-20 04:16 PM)_
+
 > Emmett: Well, hello there.
 
-**Trey** *(22-Apr-20 04:16 PM)*
+**Trey** _(22-Apr-20 04:16 PM)_
+
 > Garrick: Whatever. I have more important things to worry about right now...
 
-**Sean** *(22-Apr-20 04:16 PM)*
+**Sean** _(22-Apr-20 04:16 PM)_
 8ball Does Seth piss on the Scaled Speedster's ship?
 
-**FFBot** *(22-Apr-20 04:16 PM)*
+**FFBot** _(22-Apr-20 04:16 PM)_
 Better not tell you now.
 
-**Lili** *(22-Apr-20 04:16 PM)*
+**Lili** _(22-Apr-20 04:16 PM)_
 
+_Iris retrieves her dagger, sheathing it while touching it as little as possible. She'll clean it later._
 
-*Iris retrieves her dagger, sheathing it while touching it as little as possible. She'll clean it later.*
-
-**Sean** *(22-Apr-20 04:16 PM)*
+**Sean** _(22-Apr-20 04:16 PM)_
 8ball Does Seth piss on the Scaled Speedster's ship?
 
-**FFBot** *(22-Apr-20 04:16 PM)*
+**FFBot** _(22-Apr-20 04:16 PM)_
 Yeah, I'll allow it.
 
-**Trey** *(22-Apr-20 04:16 PM)*
+**Trey** _(22-Apr-20 04:16 PM)_
 
+_Garrick goes to the nearest bathroom to clean the poopy off of his vest._
 
-*Garrick goes to the nearest bathroom to clean the poopy off of his vest.*
-
-**Cooldude** *(22-Apr-20 04:17 PM)*
+**Cooldude** _(22-Apr-20 04:17 PM)_
 what's the point of groovy?
 
-**Sean** *(22-Apr-20 04:17 PM)*
+**Sean** _(22-Apr-20 04:17 PM)_
+
 > Seth: Ahhhh
 
-**Rashidi** *(22-Apr-20 04:17 PM)*
+**Rashidi** _(22-Apr-20 04:17 PM)_
 8ball Does Dakari associate with anyone?`
 
-**FFBot** *(22-Apr-20 04:17 PM)*
+**FFBot** _(22-Apr-20 04:17 PM)_
 You may rely on it.
 
-**Trey** *(22-Apr-20 04:17 PM)*
+**Trey** _(22-Apr-20 04:17 PM)_
+
 > Garrick: I have had this vest for hundreds of GUYs and I have never had poopy on it before.
 
-**Brody** *(22-Apr-20 04:17 PM)*
+**Brody** _(22-Apr-20 04:17 PM)_
+
 > Sanya: Oh. It's you. What do you want, bird?
 
-**Jonas** *(22-Apr-20 04:17 PM)*
+**Jonas** _(22-Apr-20 04:17 PM)_
+
 > Chomsky: sucks bro, your own fault.
 
-**Zander** *(22-Apr-20 04:17 PM)*
+**Zander** _(22-Apr-20 04:17 PM)_
+
 > Emmett: Pardon me?
 
-**Lili** *(22-Apr-20 04:17 PM)*
+**Lili** _(22-Apr-20 04:17 PM)_
 
+_Seeing Garrick's action, she goes into the nearest women's bathroom to clean her blade._
 
-*Seeing Garrick's action, she goes into the nearest women's bathroom to clean her blade.*
+**Sean** _(22-Apr-20 04:17 PM)_
 
-**Sean** *(22-Apr-20 04:17 PM)*
+_Seth's head pokes out of the toilet and greets Iris_
 
+**Sean** _(22-Apr-20 04:17 PM)_
 
-*Seth's head pokes out of the toilet and greets Iris*
-
-**Sean** *(22-Apr-20 04:17 PM)*
 > Seth: HELLO
 
-**Sean** *(22-Apr-20 04:17 PM)*
+**Sean** _(22-Apr-20 04:17 PM)_
+
 > Seth: WOULD YOU LIKE TO BUY MY WARES
 
-**Lili** *(22-Apr-20 04:18 PM)*
+**Lili** _(22-Apr-20 04:18 PM)_
 
+_Iris screams._
 
-*Iris screams.*
+**Sean** _(22-Apr-20 04:18 PM)_
 
-**Sean** *(22-Apr-20 04:18 PM)*
 > Seth: I HAVE PISS AND SHIT IN A JAR
 
-**Rashidi** *(22-Apr-20 04:18 PM)*
+**Rashidi** _(22-Apr-20 04:18 PM)_
 t!choose Seth | Sanya | Garrick | Iris
 (edited)
 
-**FFBot** *(22-Apr-20 04:18 PM)*
-n |  You need to give at least 2 options.
+**FFBot** _(22-Apr-20 04:18 PM)_
+n | You need to give at least 2 options.
 
-**Lili** *(22-Apr-20 04:18 PM)*
+**Lili** _(22-Apr-20 04:18 PM)_
+
 > Iris: THIS IS THE WOMEN'S BATHROOM!!
 
-**Sean** *(22-Apr-20 04:18 PM)*
+**Sean** _(22-Apr-20 04:18 PM)_
+
 > Seth: TOO BAD
 
-**Trey** *(22-Apr-20 04:18 PM)*
+**Trey** _(22-Apr-20 04:18 PM)_
 
+_In the chaos, Garrick phases through the wall and swipes the dagger back._
 
-*In the chaos, Garrick phases through the wall and swipes the dagger back.*
+**Lili** _(22-Apr-20 04:18 PM)_
 
-**Lili** *(22-Apr-20 04:18 PM)*
+_Iris throws the nearest bar of soap._
 
+**Brody** _(22-Apr-20 04:18 PM)_
 
-*Iris throws the nearest bar of soap.*
-
-**Brody** *(22-Apr-20 04:18 PM)*
 > Sanya: Oh, my bad. You reminded me of a bird i once knew. What is it?
 
-**Rashidi** *(22-Apr-20 04:19 PM)*
+**Rashidi** _(22-Apr-20 04:19 PM)_
 t!choose Seth | Sanya | Garrick | Iris
 
-**FFBot** *(22-Apr-20 04:19 PM)*
+**FFBot** _(22-Apr-20 04:19 PM)_
 🤔 | Platinum_Pathos, I pick Seth
 
-**Sean** *(22-Apr-20 04:19 PM)*
+**Sean** _(22-Apr-20 04:19 PM)_
 
+_Seth eats the soup_
 
-*Seth eats the soup*
+**Sean** _(22-Apr-20 04:19 PM)_
 
-**Sean** *(22-Apr-20 04:19 PM)*
 > Seth: MMMMMMMMMMMMMMMM
 
-**Jonas** *(22-Apr-20 04:19 PM)*
+**Jonas** _(22-Apr-20 04:19 PM)_
 baby heist
 
-**Sean** *(22-Apr-20 04:19 PM)*
+**Sean** _(22-Apr-20 04:19 PM)_
+
 > Seth: YUMMY SOAP SOUP
 
-**Zander** *(22-Apr-20 04:19 PM)*
+**Zander** _(22-Apr-20 04:19 PM)_
+
 > Emmett: I was just wondering if you and your... cohorts, are willing to hire.
 
-**Zander** *(22-Apr-20 04:19 PM)*
+**Zander** _(22-Apr-20 04:19 PM)_
+
 > Emmett: I've been on this station for quite some time.
 
-**Sean** *(22-Apr-20 04:19 PM)*
+**Sean** _(22-Apr-20 04:19 PM)_
 
+_Seth withdraws his head_
 
-*Seth withdraws his head*
+**Rashidi** _(22-Apr-20 04:19 PM)_
 
-**Rashidi** *(22-Apr-20 04:19 PM)*
+_Dakari joins Seth in eating soup_
 
+**Lili** _(22-Apr-20 04:19 PM)_
 
-*Dakari joins Seth in eating soup*
+_Iris notices her dagger gone and immediately knows Garrick is the culprit. She exits the women's bathroom_
 
-**Lili** *(22-Apr-20 04:19 PM)*
-
-
-*Iris notices her dagger gone and immediately knows Garrick is the culprit. She exits the women's bathroom*
-
-**Cooldude** *(22-Apr-20 04:19 PM)*
+**Cooldude** _(22-Apr-20 04:19 PM)_
 seth eats some soap
 
-**Brody** *(22-Apr-20 04:20 PM)*
+**Brody** _(22-Apr-20 04:20 PM)_
+
 > Sanya: I'd have to check with our captain. It depends on the job, and the pay.
 
-**Lili** *(22-Apr-20 04:20 PM)*
+**Lili** _(22-Apr-20 04:20 PM)_
+
 > Iris: BEING A GHOST DOESN'T MEAN YOU CAN JUST PHASE INTO THE WOMEN'S BATHROOM.
 
-**Brody** *(22-Apr-20 04:20 PM)*
+**Brody** _(22-Apr-20 04:20 PM)_
+
 > Sanya: Seth, we've got an offer.
 
-**Trey** *(22-Apr-20 04:20 PM)*
+**Trey** _(22-Apr-20 04:20 PM)_
 
+_Garrick sticks the dagger back in his pocket and flees._
 
-*Garrick sticks the dagger back in his pocket and flees.*
+**Zander** _(22-Apr-20 04:20 PM)_
 
-**Zander** *(22-Apr-20 04:20 PM)*
 > Emmett: I'd get off of this place for a Duckett at this point.
 
-**Zander** *(22-Apr-20 04:20 PM)*
+**Zander** _(22-Apr-20 04:20 PM)_
+
 > Emmett: It has been far to long I've been on this station, waiting idly by.
 
-**Trey** *(22-Apr-20 04:20 PM)*
+**Trey** _(22-Apr-20 04:20 PM)_
+
 > Garrick: I DO WHATEVER I WANT, FOR YOUR INFORMATION!
 
-**Zander** *(22-Apr-20 04:20 PM)*
+**Zander** _(22-Apr-20 04:20 PM)_
+
 > Emmett: My ship broke down when I got here.
 
-**Sean** *(22-Apr-20 04:21 PM)*
+**Sean** _(22-Apr-20 04:21 PM)_
+
 > Seth: What?
 
-**Sean** *(22-Apr-20 04:21 PM)*
+**Sean** _(22-Apr-20 04:21 PM)_
+
 > Seth: Offer for what?
 
-**Sean** *(22-Apr-20 04:21 PM)*
+**Sean** _(22-Apr-20 04:21 PM)_
+
 > Seth: Free sex?
 
-**Sean** *(22-Apr-20 04:21 PM)*
+**Sean** _(22-Apr-20 04:21 PM)_
+
 > Seth: I'll take it.
 
-**Silas** *(22-Apr-20 04:21 PM)*
+**Silas** _(22-Apr-20 04:21 PM)_
 
+_Suddenly, a mammalian creature storms past the group, furious._
 
-*Suddenly, a mammalian creature storms past the group, furious.*
 > Wes: This is bullshit. I can't believe I bet Klaus' college funds on that stupid fucking bird.
 
-**Brody** *(22-Apr-20 04:21 PM)*
+**Brody** _(22-Apr-20 04:21 PM)_
+
 > Sanya: A crew member.
 
-**Lili** *(22-Apr-20 04:21 PM)*
+**Lili** _(22-Apr-20 04:21 PM)_
 
+_A high-pitched war cry comes out of Iris' mouth as she chucks a bar of soap she got from the bathroom at the thief._
 
-*A high-pitched war cry comes out of Iris' mouth as she chucks a bar of soap she got from the bathroom at the thief.*
+**Sean** _(22-Apr-20 04:21 PM)_
 
-**Sean** *(22-Apr-20 04:21 PM)*
 > Seth: Oh ok
 
-**Brody** *(22-Apr-20 04:21 PM)*
+**Brody** _(22-Apr-20 04:21 PM)_
+
 > Sanya: So, what's your skill set?
 
-**Cooldude** *(22-Apr-20 04:22 PM)*
+**Cooldude** _(22-Apr-20 04:22 PM)_
 this is a summary of what we did
 
-**Zander** *(22-Apr-20 04:22 PM)*
+**Zander** _(22-Apr-20 04:22 PM)_
+
 > Emmett: Well, I'd like if you kept it secret.
 
-**Zander** *(22-Apr-20 04:22 PM)*
+**Zander** _(22-Apr-20 04:22 PM)_
+
 > Emmett: But I was formerly enlisted in the GSS.
 
-**Brody** *(22-Apr-20 04:22 PM)*
+**Brody** _(22-Apr-20 04:22 PM)_
+
 > Sanya: I see.
 
-**Zander** *(22-Apr-20 04:22 PM)*
+**Zander** _(22-Apr-20 04:22 PM)_
 8ball Does Emmett wake up and get out of the ship?
 
-**FFBot** *(22-Apr-20 04:22 PM)*
+**FFBot** _(22-Apr-20 04:22 PM)_
 Ask Emmett.
 
-**Zander** *(22-Apr-20 04:22 PM)*
+**Zander** _(22-Apr-20 04:22 PM)_
+
 > Emmett: I'm awake, I'm awake.
 
-**Brody** *(22-Apr-20 04:23 PM)*
+**Brody** _(22-Apr-20 04:23 PM)_
+
 > Sanya: Come with me, i'll take you to our captain.
 
-**Zander** *(22-Apr-20 04:23 PM)*
+**Zander** _(22-Apr-20 04:23 PM)_
 
-
-*Emmett gets up, races out, and slaps Seth square in the face.*
+_Emmett gets up, races out, and slaps Seth square in the face._
 
 > Emmett: Heard that.
 
-**Rashidi** *(22-Apr-20 04:23 PM)*
+**Rashidi** _(22-Apr-20 04:23 PM)_
+
 > Dakari: Guys, I feel like going back to the ship. I'm getting pretty bored out here.
 
-**Sean** *(22-Apr-20 04:23 PM)*
+**Sean** _(22-Apr-20 04:23 PM)_
+
 > Seth: Ouchies
 
-**Sean** *(22-Apr-20 04:23 PM)*
+**Sean** _(22-Apr-20 04:23 PM)_
+
 > Seth: What was that for?
 
-**Zander** *(22-Apr-20 04:23 PM)*
+**Zander** _(22-Apr-20 04:23 PM)_
+
 > Emmett: Dakari, get your ass out of here.
 
-**Zander** *(22-Apr-20 04:23 PM)*
+**Zander** _(22-Apr-20 04:23 PM)_
+
 > Emmett: We need to get the fucking fuel.
 
-**Sean** *(22-Apr-20 04:23 PM)*
+**Sean** _(22-Apr-20 04:23 PM)_
+
 > Seth: Oh
 
-**Trey** *(22-Apr-20 04:24 PM)*
+**Trey** _(22-Apr-20 04:24 PM)_
 8ball Does Garrick go get the fuel?
 
-**FFBot** *(22-Apr-20 04:24 PM)*
+**FFBot** _(22-Apr-20 04:24 PM)_
 The person who goes after you decides.
 
-**Brody** *(22-Apr-20 04:24 PM)*
-*Sanya walks towards Seth, not checking to see if the man is following her.`
+**Brody** _(22-Apr-20 04:24 PM)_
+\*Sanya walks towards Seth, not checking to see if the man is following her.`
 
-**Zander** *(22-Apr-20 04:24 PM)*
+**Zander** _(22-Apr-20 04:24 PM)_
+
 > Emmett: All of you act like babies when I'm away.
 
-**Rashidi** *(22-Apr-20 04:24 PM)*
+**Rashidi** _(22-Apr-20 04:24 PM)_
+
 > Dakari: Why have they still not gotten it?
 
-**Trey** *(22-Apr-20 04:24 PM)*
+**Trey** _(22-Apr-20 04:24 PM)_
 @Multi
 
-**Lili** *(22-Apr-20 04:24 PM)*
+**Lili** _(22-Apr-20 04:24 PM)_
 
+_Iris, still fuming, walks over to stand near Emmett- the first person she saw who hasn't done anything ridiculous today._
 
-*Iris, still fuming, walks over to stand near Emmett- the first person she saw who hasn't done anything ridiculous today.*
+**Brody** _(22-Apr-20 04:24 PM)_
 
-**Brody** *(22-Apr-20 04:24 PM)*
 > Sanya: Oh, Emmett. Here, we have a potential hire.
 
-**Rashidi** *(22-Apr-20 04:24 PM)*
+**Rashidi** _(22-Apr-20 04:24 PM)_
+
 > Dakari: They've been here forever.
 
-**Jonas** *(22-Apr-20 04:24 PM)*
+**Jonas** _(22-Apr-20 04:24 PM)_
+
 > Chomsky: me and garrick are gonna look around for fuel.
 
-**Zander** *(22-Apr-20 04:24 PM)*
+**Zander** _(22-Apr-20 04:24 PM)_
+
 > Emmett: Pleased to meet you. My name is Mateo.
 
-**Jonas** *(22-Apr-20 04:24 PM)*
+**Jonas** _(22-Apr-20 04:24 PM)_
+
 > Chomsky: GARLIC
 
-**Zander** *(22-Apr-20 04:24 PM)*
+**Zander** _(22-Apr-20 04:24 PM)_
+
 > Emmett: Potential hire?
 
-*Emmett grabs the fuel hose from the ship.*
+_Emmett grabs the fuel hose from the ship._
 
-**Brody** *(22-Apr-20 04:25 PM)*
+**Brody** _(22-Apr-20 04:25 PM)_
 Garlic steals the fuel
 
-**Jonas** *(22-Apr-20 04:25 PM)*
+**Jonas** _(22-Apr-20 04:25 PM)_
 garlic is the fuel
 
-**Jonas** *(22-Apr-20 04:25 PM)*
+**Jonas** _(22-Apr-20 04:25 PM)_
 our ship is fuelled by garlic
 (edited)
 
-**Sean** *(22-Apr-20 04:25 PM)*
+**Sean** _(22-Apr-20 04:25 PM)_
+
 > Seth: AHHHHH
 
-**Brody** *(22-Apr-20 04:25 PM)*
+**Brody** _(22-Apr-20 04:25 PM)_
+
 > Sanya: Yeah, someone approached me asking if we were hiring.
 
-**Sean** *(22-Apr-20 04:25 PM)*
+**Sean** _(22-Apr-20 04:25 PM)_
+
 > Seth: MY TOE
 
-**Sean** *(22-Apr-20 04:25 PM)*
+**Sean** _(22-Apr-20 04:25 PM)_
+
 > Seth: IT IS ALIVE
 
-**Trey** *(22-Apr-20 04:25 PM)*
+**Trey** _(22-Apr-20 04:25 PM)_
 
+_Garrick returns to Emmett with the stolen fuel. Alarms go off._
 
-*Garrick returns to Emmett with the stolen fuel. Alarms go off.*
+**Trey** _(22-Apr-20 04:25 PM)_
 
-**Trey** *(22-Apr-20 04:25 PM)*
 > Garrick: I got the fuel.
 
-**Zander** *(22-Apr-20 04:25 PM)*
+**Zander** _(22-Apr-20 04:25 PM)_
+
 > Emmett: "ANTI SPECTRE ALARM INITIATED. BRING OUT THE LASERS."
 
-**Jonas** *(22-Apr-20 04:25 PM)*
+**Jonas** _(22-Apr-20 04:25 PM)_
+
 > Chomsky: uh oh.
 
-**Jonas** *(22-Apr-20 04:25 PM)*
+**Jonas** _(22-Apr-20 04:25 PM)_
+
 > Chomsky: now youve done it
 
-**Brody** *(22-Apr-20 04:25 PM)*
+**Brody** _(22-Apr-20 04:25 PM)_
 8ball Did Mateo follow Sanya to Emmett?
 
-**FFBot** *(22-Apr-20 04:25 PM)*
+**FFBot** _(22-Apr-20 04:25 PM)_
 Very doubtful.
 
-**Trey** *(22-Apr-20 04:25 PM)*
+**Trey** _(22-Apr-20 04:25 PM)_
+
 > Garrick: ...Surely they're talking about another Spectre?
 
-**Brody** *(22-Apr-20 04:25 PM)*
+**Brody** _(22-Apr-20 04:25 PM)_
+
 > Sanya: Oh. I lost him.
 
-**Lili** *(22-Apr-20 04:26 PM)*
+**Lili** _(22-Apr-20 04:26 PM)_
 
+_Iris is glaring at Garrick- she won't let this go until her dagger is back where it belongs._
 
-*Iris is glaring at Garrick- she won't let this go until her dagger is back where it belongs.*
+**Zander** _(22-Apr-20 04:26 PM)_
 
-**Zander** *(22-Apr-20 04:26 PM)*
 > Emmett: Can we not go to one place without stealing something?
 
-**Trey** *(22-Apr-20 04:26 PM)*
+**Trey** _(22-Apr-20 04:26 PM)_
+
 > Garrick: You're asking a lot.
 
-**Sean** *(22-Apr-20 04:26 PM)*
+**Sean** _(22-Apr-20 04:26 PM)_
 No.
 
-**Sean** *(22-Apr-20 04:26 PM)*
+**Sean** _(22-Apr-20 04:26 PM)_
+
 > Seth: No.
 
-**Jonas** *(22-Apr-20 04:26 PM)*
+**Jonas** _(22-Apr-20 04:26 PM)_
+
 > Chomsky: hes a thief by nature
 
-**Trey** *(22-Apr-20 04:26 PM)*
+**Trey** _(22-Apr-20 04:26 PM)_
+
 > Garrick: Plus, why waste our spoils on some dumb fuel?
 
-**Zander** *(22-Apr-20 04:26 PM)*
+**Zander** _(22-Apr-20 04:26 PM)_
+
 > Emmett: Fuck, can you just take me off this place?
 
-**Zander** *(22-Apr-20 04:26 PM)*
+**Zander** _(22-Apr-20 04:26 PM)_
+
 > Emmett: I can't stick here forever.
 > Emmett: Probably...
 > Emmett: Actually.
 
-**Lili** *(22-Apr-20 04:26 PM)*
+**Lili** _(22-Apr-20 04:26 PM)_
+
 > Iris: Can we leave him here?
 
-**Rashidi** *(22-Apr-20 04:27 PM)*
+**Rashidi** _(22-Apr-20 04:27 PM)_
+
 > Dakari: But, if we get more people, there's less room on the couch.
 
-**Zander** *(22-Apr-20 04:27 PM)*
+**Zander** _(22-Apr-20 04:27 PM)_
 
+_Emmett clasps his hands over his horns, clearly having a mental meltdown._
 
-*Emmett clasps his hands over his horns, clearly having a mental meltdown.*
+**Rashidi** _(22-Apr-20 04:27 PM)_
 
-**Rashidi** *(22-Apr-20 04:27 PM)*
 > Dakari: I say we leave him.
 
-**Zander** *(22-Apr-20 04:27 PM)*
+**Zander** _(22-Apr-20 04:27 PM)_
+
 > Emmett: Is it illegal to do illegal things?
 
-**Brody** *(22-Apr-20 04:27 PM)*
+**Brody** _(22-Apr-20 04:27 PM)_
+
 > Sanya: I couldn't care either way.
 
-**Sean** *(22-Apr-20 04:27 PM)*
+**Sean** _(22-Apr-20 04:27 PM)_
+
 > Seth: We have enough- wait never mind, we don't have enough money for another couch
 
-**Lili** *(22-Apr-20 04:27 PM)*
+**Lili** _(22-Apr-20 04:27 PM)_
 
+_Iris is completely unsure what to say to help Emmett._
 
-*Iris is completely unsure what to say to help Emmett.*
+**Trey** _(22-Apr-20 04:27 PM)_
 
-**Trey** *(22-Apr-20 04:27 PM)*
 > Garrick: Illegal shmillegal.
 
-**Rashidi** *(22-Apr-20 04:27 PM)*
+**Rashidi** _(22-Apr-20 04:27 PM)_
+
 > Dakari: Or, as I propose, we get another couch.
 
-**Zander** *(22-Apr-20 04:27 PM)*
+**Zander** _(22-Apr-20 04:27 PM)_
+
 > Emmett: I don't even need a room.
 
-**Sean** *(22-Apr-20 04:28 PM)*
-> Seth:  WE DON'T HAVE MONEY
+**Sean** _(22-Apr-20 04:28 PM)_
 
-**Zander** *(22-Apr-20 04:28 PM)*
+> Seth: WE DON'T HAVE MONEY
+
+**Zander** _(22-Apr-20 04:28 PM)_
+
 > Emmett: Pour the ship into the fuel, Garrick
 > Emmett: Just get me out of here, for the love of God.
 
-**Sean** *(22-Apr-20 04:28 PM)*
+**Sean** _(22-Apr-20 04:28 PM)_
+
 > Seth: I SPENT IT ALL
 
-**Trey** *(22-Apr-20 04:28 PM)*
+**Trey** _(22-Apr-20 04:28 PM)_
+
 > Garrick: Aye aye.
 
-**Brody** *(22-Apr-20 04:28 PM)*
+**Brody** _(22-Apr-20 04:28 PM)_
+
 > Sanya: Emmett, aren't you yourself illegal? So why does it matter?
 
-**Rashidi** *(22-Apr-20 04:28 PM)*
+**Rashidi** _(22-Apr-20 04:28 PM)_
+
 > Dakari: Did you spend it all last night on the party?
 
-**Sean** *(22-Apr-20 04:28 PM)*
+**Sean** _(22-Apr-20 04:28 PM)_
+
 > Seth: Yes, also on those mercenaries.
 
-**Trey** *(22-Apr-20 04:28 PM)*
+**Trey** _(22-Apr-20 04:28 PM)_
 
+_Garrick stealthily fuels up the ship._
 
-*Garrick stealthily fuels up the ship.*
+**Brody** _(22-Apr-20 04:29 PM)_
 
-**Brody** *(22-Apr-20 04:29 PM)*
 > Sanya: Ok, so it looks like we won't really be able to pay you.
 
-**Lili** *(22-Apr-20 04:29 PM)*
+**Lili** _(22-Apr-20 04:29 PM)_
 
+_Iris is itching to bake- preferably croissants._
 
-*Iris is itching to bake- preferably croissants.*
+**Brody** _(22-Apr-20 04:29 PM)_
 
-**Brody** *(22-Apr-20 04:29 PM)*
 > Sanya: So, i hope you don't mind.
 
-**Sean** *(22-Apr-20 04:29 PM)*
+**Sean** _(22-Apr-20 04:29 PM)_
+
 > Seth: Here's the thing, we can lose our docking permission if we keep stealing.
 
-**Sean** *(22-Apr-20 04:29 PM)*
+**Sean** _(22-Apr-20 04:29 PM)_
 8ball
 
-**Cooldude** *(22-Apr-20 04:29 PM)*
+**Cooldude** _(22-Apr-20 04:29 PM)_
 8ball should i finally get up?
 
-**FFBot** *(22-Apr-20 04:29 PM)*
+**FFBot** _(22-Apr-20 04:29 PM)_
 Reply hazy try again.
 
-**Lili** *(22-Apr-20 04:30 PM)*
+**Lili** _(22-Apr-20 04:30 PM)_
 
+_Almost subconsciously, her hands start to make a whisking movement._
 
-*Almost subconsciously, her hands start to make a whisking movement.*
+**Zander** _(22-Apr-20 04:30 PM)_
 
-**Zander** *(22-Apr-20 04:30 PM)*
 > Emmett: Give me one moment.
 
-**Cooldude** *(22-Apr-20 04:30 PM)*
+**Cooldude** _(22-Apr-20 04:30 PM)_
 8ball Should Wemmfort get up
 
-**FFBot** *(22-Apr-20 04:30 PM)*
+**FFBot** _(22-Apr-20 04:30 PM)_
 The person who goes after you decides.
 
-**Jonas** *(22-Apr-20 04:30 PM)*
+**Jonas** _(22-Apr-20 04:30 PM)_
 yes
 
-**Zander** *(22-Apr-20 04:30 PM)*
+**Zander** _(22-Apr-20 04:30 PM)_
 
+_Emmett drops off the hose and walks away from the ship._
 
-*Emmett drops off the hose and walks away from the ship.*
+**Sean** _(22-Apr-20 04:30 PM)_
 
-**Sean** *(22-Apr-20 04:30 PM)*
 > Seth: Emmett's right, we need to kind of stop stealing. I don't want to lose our docking permission, especially since word gets around between space stations, especially these pirate ones.
 
-**Trey** *(22-Apr-20 04:31 PM)*
+**Trey** _(22-Apr-20 04:31 PM)_
+
 > Garrick: Fine, jeez. It was a force of habit.
 
-**Rashidi** *(22-Apr-20 04:31 PM)*
+**Rashidi** _(22-Apr-20 04:31 PM)_
+
 > Dakari: I suggest we find some more ways to make money then soon.
 
-**Sean** *(22-Apr-20 04:31 PM)*
+**Sean** _(22-Apr-20 04:31 PM)_
+
 > Seth: Hey, grab me some smokes while you're out Emmett?
 
-**Rashidi** *(22-Apr-20 04:31 PM)*
+**Rashidi** _(22-Apr-20 04:31 PM)_
+
 > Dakari: Especially for the couch.
 
-**Trey** *(22-Apr-20 04:31 PM)*
+**Trey** _(22-Apr-20 04:31 PM)_
+
 > Garrick: They're getting closer the longer we wait, by the way.
 
-**Sean** *(22-Apr-20 04:32 PM)*
+**Sean** _(22-Apr-20 04:32 PM)_
+
 > Seth: All those female mercenaries smoked them all
 
-**Zander** *(22-Apr-20 04:32 PM)*
+**Zander** _(22-Apr-20 04:32 PM)_
 
+_Emmett takes a plastic bag and puts it over his head, cutting holes in it for his eyes and nose._
 
-*Emmett takes a plastic bag and puts it over his head, cutting holes in it for his eyes and nose.*
-
-**Jonas** *(22-Apr-20 04:32 PM)*
+**Jonas** _(22-Apr-20 04:32 PM)_
 8ball does garrick steal a big sandwich from the space station before we leave
 
-**FFBot** *(22-Apr-20 04:32 PM)*
+**FFBot** _(22-Apr-20 04:32 PM)_
 Cannot predict now.
 
-**Jonas** *(22-Apr-20 04:32 PM)*
+**Jonas** _(22-Apr-20 04:32 PM)_
 8ball does garrick steal a big sandwich from the space station before we leave
 
-**FFBot** *(22-Apr-20 04:32 PM)*
+**FFBot** _(22-Apr-20 04:32 PM)_
 Dude. No.
 
-**Lili** *(22-Apr-20 04:32 PM)*
+**Lili** _(22-Apr-20 04:32 PM)_
 
+_Iris mumbles something vaguely threatening about forcing his habit?? It‘s unclear what she's actually going to do, but it will probably be unpleasant._
 
-*Iris mumbles something vaguely threatening about forcing his habit?? It‘s unclear what she's actually going to do, but it will probably be unpleasant.*
-
-**Lili** *(22-Apr-20 04:32 PM)*
+**Lili** _(22-Apr-20 04:32 PM)_
 8ball does Iris head into the ship to bake 1000 croissants?
 
-**FFBot** *(22-Apr-20 04:32 PM)*
+**FFBot** _(22-Apr-20 04:32 PM)_
 DENIED.
 
-**Zander** *(22-Apr-20 04:32 PM)*
+**Zander** _(22-Apr-20 04:32 PM)_
 
+_Emmett walks to the spacestation's electrical complex, looking to see if anyone was around._
 
-*Emmett walks to the spacestation's electrical complex, looking to see if anyone was around.*
+**Sean** _(22-Apr-20 04:33 PM)_
 
-**Sean** *(22-Apr-20 04:33 PM)*
 > Seth: Hey Emmett, did you find smokes?
 
-**Jonas** *(22-Apr-20 04:33 PM)*
+**Jonas** _(22-Apr-20 04:33 PM)_
 Computer went bye bye
 I'm restarting it
 
-**Cooldude** *(22-Apr-20 04:33 PM)*
+**Cooldude** _(22-Apr-20 04:33 PM)_
 i'm gonna go get something to eat
 
-**Zander** *(22-Apr-20 04:33 PM)*
+**Zander** _(22-Apr-20 04:33 PM)_
 8ball Do I just go onto the ship and find my own spot to sit down?
 
-**FFBot** *(22-Apr-20 04:33 PM)*
+**FFBot** _(22-Apr-20 04:33 PM)_
 Group vote. Vote in the order from first player down to last. Majority opinion wins. No changing answers.
 
-**Trey** *(22-Apr-20 04:34 PM)*
+**Trey** _(22-Apr-20 04:34 PM)_
 
+_Garrick is in a Road Runner-like race, where he is the Road Runner and a security mob is the cayote._
 
-*Garrick is in a Road Runner-like race, where he is the Road Runner and a security mob is the cayote.*
-
-**Jonas** *(22-Apr-20 04:35 PM)*
+**Jonas** _(22-Apr-20 04:35 PM)_
 m
 
-**Rashidi** *(22-Apr-20 04:35 PM)*
+**Rashidi** _(22-Apr-20 04:35 PM)_
 8ball Does Dakari buy his own personal beanbag?
 
-**FFBot** *(22-Apr-20 04:35 PM)*
+**FFBot** _(22-Apr-20 04:35 PM)_
 Ask again later.
 
-**Rashidi** *(22-Apr-20 04:35 PM)*
+**Rashidi** _(22-Apr-20 04:35 PM)_
 8ball Does Dakari buy his own personal beanbag?
 
-**FFBot** *(22-Apr-20 04:35 PM)*
+**FFBot** _(22-Apr-20 04:35 PM)_
 Don't count on it.
 
-**Zander** *(22-Apr-20 04:35 PM)*
+**Zander** _(22-Apr-20 04:35 PM)_
 
+_Emmett finds an open vent and decides to climb into it. He does so very loudly, producing some noise through his communicator._
 
-*Emmett finds an open vent and decides to climb into it. He does so very loudly, producing some noise through his communicator.*
+**Rashidi** _(22-Apr-20 04:35 PM)_
 
-**Rashidi** *(22-Apr-20 04:35 PM)*
+_Dakari buys a small couch just big enough for himself_
 
-
-*Dakari buys a small couch just big enough for himself*
-
-**Sean** *(22-Apr-20 04:35 PM)*
+**Sean** _(22-Apr-20 04:35 PM)_
 8ball Does Wes go into the bathroom to wash up?
 
-**FFBot** *(22-Apr-20 04:35 PM)*
+**FFBot** _(22-Apr-20 04:35 PM)_
 Group vote. Vote in the order from first player down to last. Minority opinion wins. No changing answers.
 
-**Cooldude** *(22-Apr-20 04:36 PM)*
+**Cooldude** _(22-Apr-20 04:36 PM)_
 i'm back
 
-**Cooldude** *(22-Apr-20 04:36 PM)*
+**Cooldude** _(22-Apr-20 04:36 PM)_
 jomiis copter
 
-**Sean** *(22-Apr-20 04:37 PM)*
+**Sean** _(22-Apr-20 04:37 PM)_
+
 > Seth: HEY EMMETT
 
-**Jonas** *(22-Apr-20 04:37 PM)*
+**Jonas** _(22-Apr-20 04:37 PM)_
 : ()
 
-**Sean** *(22-Apr-20 04:37 PM)*
+**Sean** _(22-Apr-20 04:37 PM)_
+
 > Seth: SHUT UP
 
-**Trey** *(22-Apr-20 04:37 PM)*
+**Trey** _(22-Apr-20 04:37 PM)_
+
 > Garrick: LOUD
 
-**Sean** *(22-Apr-20 04:37 PM)*
+**Sean** _(22-Apr-20 04:37 PM)_
+
 > Seth: LOUD
 
-**Lili** *(22-Apr-20 04:37 PM)*
+**Lili** _(22-Apr-20 04:37 PM)_
 
+_Iris furrows her brows._
 
-*Iris furrows her brows.*
 > Iris: Emmett, what are you doing?
 
-**Cooldude** *(22-Apr-20 04:37 PM)*
+**Cooldude** _(22-Apr-20 04:37 PM)_
 does his communicator sound like the jonascopter?
 
-**Silas** *(22-Apr-20 04:37 PM)*
+**Silas** _(22-Apr-20 04:37 PM)_
 8ball does the crew notice something on the TVs?
 
-**FFBot** *(22-Apr-20 04:37 PM)*
+**FFBot** _(22-Apr-20 04:37 PM)_
 Cannot predict now.
 
-**Sean** *(22-Apr-20 04:38 PM)*
+**Sean** _(22-Apr-20 04:38 PM)_
+
 > Seth: You should kill a rat and leave it in there
 
-**Silas** *(22-Apr-20 04:38 PM)*
+**Silas** _(22-Apr-20 04:38 PM)_
 8ball does the crew notice something on the TVs?
 
-**FFBot** *(22-Apr-20 04:38 PM)*
+**FFBot** _(22-Apr-20 04:38 PM)_
 The person who goes after you decides.
 
-**Sean** *(22-Apr-20 04:38 PM)*
+**Sean** _(22-Apr-20 04:38 PM)_
+
 > Seth: Or a cat
 
-**Zander** *(22-Apr-20 04:38 PM)*
+**Zander** _(22-Apr-20 04:38 PM)_
 
+_Emmett puts his mouth on his communicator and makes an annoying buzz before turning his comms off._
 
-*Emmett puts his mouth on his communicator and makes an annoying buzz before turning his comms off.*
-
-**Zander** *(22-Apr-20 04:38 PM)*
+**Zander** _(22-Apr-20 04:38 PM)_
 Yes
 
-**Rashidi** *(22-Apr-20 04:38 PM)*
+**Rashidi** _(22-Apr-20 04:38 PM)_
 
+_Dakari carries the small couch onto the ship_
 
-*Dakari carries the small couch onto the ship*
+**Lili** _(22-Apr-20 04:38 PM)_
 
-**Lili** *(22-Apr-20 04:38 PM)*
+_Iris turns to go back into the ship._
 
+**Trey** _(22-Apr-20 04:38 PM)_
 
-*Iris turns to go back into the ship.*
-
-**Trey** *(22-Apr-20 04:38 PM)*
 > Garrick: CHOMSKY HELP
 
-**Lili** *(22-Apr-20 04:39 PM)*
+**Lili** _(22-Apr-20 04:39 PM)_
+
 > Iris: Don't help him Chomsky.
 
-**Cooldude** *(22-Apr-20 04:39 PM)*
+**Cooldude** _(22-Apr-20 04:39 PM)_
 are there seperate bathrooms from boys and girls?
 (edited)
 
-**Zander** *(22-Apr-20 04:39 PM)*
+**Zander** _(22-Apr-20 04:39 PM)_
 8ball Does Emmett shut off the power on the space station?
 
-**FFBot** *(22-Apr-20 04:39 PM)*
+**FFBot** _(22-Apr-20 04:39 PM)_
 Do a t!choose to determine.
 
-**Trey** *(22-Apr-20 04:39 PM)*
+**Trey** _(22-Apr-20 04:39 PM)_
 
+_But alas, Chomsky was too busy telling Sanya about his toenail fetish._
 
-*But alas, Chomsky was too busy telling Sanya about his toenail fetish.*
+**Rashidi** _(22-Apr-20 04:39 PM)_
 
-**Rashidi** *(22-Apr-20 04:39 PM)*
 > Dakari: What are you guys doing?
 
-**Jonas** *(22-Apr-20 04:39 PM)*
+**Jonas** _(22-Apr-20 04:39 PM)_
 
+_chomsky pulls out his flamethrower_
 
-*chomsky pulls out his flamethrower*
 > Chomsky: AIGHT PUT EM UP
 
-**Trey** *(22-Apr-20 04:39 PM)*
+**Trey** _(22-Apr-20 04:39 PM)_
 
+_Sanya is disgusted, but intrigued, because she does not have toenails._
 
-*Sanya is disgusted, but intrigued, because she does not have toenails.*
+**Jonas** _(22-Apr-20 04:39 PM)_
 
-**Jonas** *(22-Apr-20 04:39 PM)*
 > Chomsky: oh thats
-thats a lot of security people
+> thats a lot of security people
 
-**Trey** *(22-Apr-20 04:39 PM)*
+**Trey** _(22-Apr-20 04:39 PM)_
+
 > Garrick: PLEASE HELP
 
-**Jonas** *(22-Apr-20 04:39 PM)*
+**Jonas** _(22-Apr-20 04:39 PM)_
+
 > Chomsky: RUN
 
-**Trey** *(22-Apr-20 04:39 PM)*
+**Trey** _(22-Apr-20 04:39 PM)_
+
 > Garrick: I AM RUNNING!!
 
-**Zander** *(22-Apr-20 04:39 PM)*
+**Zander** _(22-Apr-20 04:39 PM)_
 t!choose Emmett shuts the power off | Emmett sits in the electrical room | Emmett gets caught | Emmett "accidentally" kills some guards.
 
-**FFBot** *(22-Apr-20 04:39 PM)*
+**FFBot** _(22-Apr-20 04:39 PM)_
 🤔 | Zander, I pick Emmett "accidentally" kills some guards.
 
-**Jonas** *(22-Apr-20 04:39 PM)*
+**Jonas** _(22-Apr-20 04:39 PM)_
+
 > Chomsky: RUN BETTER
 
-**Cooldude** *(22-Apr-20 04:40 PM)*
+**Cooldude** _(22-Apr-20 04:40 PM)_
 sanya is considered an eggplant
 
-**Trey** *(22-Apr-20 04:40 PM)*
+**Trey** _(22-Apr-20 04:40 PM)_
 t!choose Emmett shuts the power off | Emmett sits in the electrical room | Emmett gets caught | Emmett "accidentally" kills some MORE guards.
 
-**FFBot** *(22-Apr-20 04:40 PM)*
+**FFBot** _(22-Apr-20 04:40 PM)_
 🤔 | [RP]retribution, I pick Emmett "accidentally" kills some MORE guards.
 
-**Zander** *(22-Apr-20 04:40 PM)*
+**Zander** _(22-Apr-20 04:40 PM)_
+
 > Emmett: Uh guys.
 
-**Sean** *(22-Apr-20 04:40 PM)*
+**Sean** _(22-Apr-20 04:40 PM)_
+
 > Seth: You guys are all assholes bye.
 
-**Lili** *(22-Apr-20 04:40 PM)*
+**Lili** _(22-Apr-20 04:40 PM)_
 
+_Iris listens to the commotion over the comms as she watches a popular ribbon dancing show._
 
-*Iris listens to the commotion over the comms as she watches a popular ribbon dancing show.*
+**Zander** _(22-Apr-20 04:40 PM)_
 
-**Zander** *(22-Apr-20 04:40 PM)*
 > Emmett: I'm stuck in the electrical core.
 
-**Rashidi** *(22-Apr-20 04:40 PM)*
+**Rashidi** _(22-Apr-20 04:40 PM)_
+
 > Dakari: Christ! Emmet?!
 
-**Trey** *(22-Apr-20 04:40 PM)*
+**Trey** _(22-Apr-20 04:40 PM)_
+
 > Garrick: EMMETT I APPRECIATE YOUR HELP BUT THIS IS GETTING YOU IN MORE TROUBLE
 
-**Sean** *(22-Apr-20 04:40 PM)*
+**Sean** _(22-Apr-20 04:40 PM)_
 
+_Seth turns his comms off and walks away from the ship_
 
-*Seth turns his comms off and walks away from the ship*
-
-**Cooldude** *(22-Apr-20 04:40 PM)*
+**Cooldude** _(22-Apr-20 04:40 PM)_
 emmett the man behind the slaughter
 
-**Sean** *(22-Apr-20 04:40 PM)*
+**Sean** _(22-Apr-20 04:40 PM)_
+
 > Seth: I need a fucking smoke
 
-**Jonas** *(22-Apr-20 04:40 PM)*
+**Jonas** _(22-Apr-20 04:40 PM)_
 [
 
-**Silas** *(22-Apr-20 04:40 PM)*
+**Silas** _(22-Apr-20 04:40 PM)_
 
+_The TVs show a figure in a white racing suit. An electric purple frill-looking thing is sticking out of the top. The figure takes off the helmet to show a reptilian creature. He is widely smiling and waving at the crowd._
 
-*The TVs show a figure in a white racing suit. An electric purple frill-looking thing is sticking out of the top. The figure takes off the helmet to show a reptilian creature. He is widely smiling and waving at the crowd.*
 > Wes: Thank you, Thank you! I couldn't have done this without my incredible skills.
 
-**Jonas** *(22-Apr-20 04:40 PM)*
+**Jonas** _(22-Apr-20 04:40 PM)_
 open bracket ammirite fellas
 (edited)
 
-**Trey** *(22-Apr-20 04:41 PM)*
+**Trey** _(22-Apr-20 04:41 PM)_
 :toe:
 
-**Zander** *(22-Apr-20 04:41 PM)*
+**Zander** _(22-Apr-20 04:41 PM)_
+
 > Emmett: I just wanted to turn off the power to save Garrick.
 
-**Brody** *(22-Apr-20 04:41 PM)*
+**Brody** _(22-Apr-20 04:41 PM)_
 
+_Sanya, who hadn't returned to the ship yet, watches one of the Tvs._
 
-*Sanya, who hadn't returned to the ship yet, watches one of the Tvs.*
+**Rashidi** _(22-Apr-20 04:41 PM)_
 
-**Rashidi** *(22-Apr-20 04:41 PM)*
 > Dakari: I'm just going to stay inside the ship.
 
-**Jonas** *(22-Apr-20 04:42 PM)*
+**Jonas** _(22-Apr-20 04:42 PM)_
 garrick smells
 
-**Sean** *(22-Apr-20 04:42 PM)*
+**Sean** _(22-Apr-20 04:42 PM)_
 
+_Seth watches one of the big TVs in the Crown Square of the space station_
 
-*Seth watches one of the big TVs in the Crown Square of the space station*
-
-**Bill** *(22-Apr-20 04:42 PM)*
+**Bill** _(22-Apr-20 04:42 PM)_
 8ball do the members on the ship hear a loud noise from the storage room?
 
-**FFBot** *(22-Apr-20 04:42 PM)*
+**FFBot** _(22-Apr-20 04:42 PM)_
 Reply hazy try again.
 
-**Rashidi** *(22-Apr-20 04:42 PM)*
+**Rashidi** _(22-Apr-20 04:42 PM)_
+
 > Dakari: Anyone else still in the ship?
 
-**Bill** *(22-Apr-20 04:42 PM)*
+**Bill** _(22-Apr-20 04:42 PM)_
 8ball do the members on the ship hear a loud noise from the storage room?
 
-**FFBot** *(22-Apr-20 04:42 PM)*
+**FFBot** _(22-Apr-20 04:42 PM)_
 Dude. Duh.
 
-**Lili** *(22-Apr-20 04:42 PM)*
+**Lili** _(22-Apr-20 04:42 PM)_
+
 > Iris: I am.
 
-**Zander** *(22-Apr-20 04:43 PM)*
+**Zander** _(22-Apr-20 04:43 PM)_
 
+_Emmett looks in the barrel of his Maggo-Pistol and sees the little maggot in it. It squirms happily._
 
-*Emmett looks in the barrel of his Maggo-Pistol and sees the little maggot in it. It squirms happily.*
+**Jonas** _(22-Apr-20 04:43 PM)_
 
-**Jonas** *(22-Apr-20 04:43 PM)*
 > Chomsky: im gettin on
 
-**Jonas** *(22-Apr-20 04:43 PM)*
+**Jonas** _(22-Apr-20 04:43 PM)_
+
 > Chomsky: madhouse out there
 
-**Zander** *(22-Apr-20 04:43 PM)*
+**Zander** _(22-Apr-20 04:43 PM)_
+
 > Emmett: I'm so alone.
 
-**Rashidi** *(22-Apr-20 04:43 PM)*
+**Rashidi** _(22-Apr-20 04:43 PM)_
+
 > Dakari: Oh, hi. How are you doing Iris?
 
-**Brody** *(22-Apr-20 04:43 PM)*
+**Brody** _(22-Apr-20 04:43 PM)_
 8ball Does Sanya look for this pompous racer?
 
-**FFBot** *(22-Apr-20 04:43 PM)*
+**FFBot** _(22-Apr-20 04:43 PM)_
 Signs point to yes.
 
-**Lili** *(22-Apr-20 04:43 PM)*
+**Lili** _(22-Apr-20 04:43 PM)_
 
+_Iris drums her hands against her legs to stop herself from walking into the kitchen and grabbing a whisk._
 
-*Iris drums her hands against her legs to stop herself from walking into the kitchen and grabbing a whisk.*
 > Iris: I'm okay.
 
-**Zander** *(22-Apr-20 04:44 PM)*
+**Zander** _(22-Apr-20 04:44 PM)_
 
+_Emmett's fist goes through the fourth wall and hits Jonas square in the mouth._
 
-*Emmett's fist goes through the fourth wall and hits Jonas square in the mouth.*
+**Trey** _(22-Apr-20 04:44 PM)_
 
-**Trey** *(22-Apr-20 04:44 PM)*
 > Garrick: Iris, make more pastries.
 
-**Jonas** *(22-Apr-20 04:44 PM)*
+**Jonas** _(22-Apr-20 04:44 PM)_
 ouch
 
-**Cooldude** *(22-Apr-20 04:44 PM)*
+**Cooldude** _(22-Apr-20 04:44 PM)_
 still here
 
-**Silas** *(22-Apr-20 04:44 PM)*
+**Silas** _(22-Apr-20 04:44 PM)_
+
 > Wes: Honestly, I was pretty sure I was going to win anyway, but my competition actually came close for once!
 
-*The racer's pompous attitude is somehow ignored by the fans, who are in love.*
+_The racer's pompous attitude is somehow ignored by the fans, who are in love._
 
-**Lili** *(22-Apr-20 04:44 PM)*
+**Lili** _(22-Apr-20 04:44 PM)_
 
+_Iris mumbles to herself._
 
-*Iris mumbles to herself.*
 > Iris: It's not lunchtime, it's not lunchtime, it's not-
 
-**Rashidi** *(22-Apr-20 04:44 PM)*
+**Rashidi** _(22-Apr-20 04:44 PM)_
+
 > Dakari: I must say, I'm still getting used to you all and your... personalities.
 
-**Trey** *(22-Apr-20 04:44 PM)*
+**Trey** _(22-Apr-20 04:44 PM)_
+
 > Garrick: I'll give you back your dagger if you make food for me to heal with!
 
-**Cooldude** *(22-Apr-20 04:44 PM)*
+**Cooldude** _(22-Apr-20 04:44 PM)_
 8ball should Wemmfort admit that not having a pillow while sleeping is uncomfortable?
 
-**FFBot** *(22-Apr-20 04:44 PM)*
+**FFBot** _(22-Apr-20 04:44 PM)_
 Outlook good.
 
-**Brody** *(22-Apr-20 04:44 PM)*
+**Brody** _(22-Apr-20 04:44 PM)_
 
+_Sanya has noticed the large crowd that she once ignored earlier._
 
-*Sanya has noticed the large crowd that she once ignored earlier.*
+**Lili** _(22-Apr-20 04:45 PM)_
 
-**Lili** *(22-Apr-20 04:45 PM)*
+_Iris dashes into the kitchen and bakes so furiously that she could probably kill someone with her whisk._
 
-
-*Iris dashes into the kitchen and bakes so furiously that she could probably kill someone with her whisk.*
-
-**Bill** *(22-Apr-20 04:45 PM)*
+**Bill** _(22-Apr-20 04:45 PM)_
 (all cinnamon sticks are missing from the kitchen, along with toothpicks)
 
-**Zander** *(22-Apr-20 04:45 PM)*
+**Zander** _(22-Apr-20 04:45 PM)_
 
+_Emmett hears Garrick's screaming and looks through the crack in the door to the room._
 
-*Emmett hears Garrick's screaming and looks through the crack in the door to the room.*
+**Lili** _(22-Apr-20 04:45 PM)_
 
-**Lili** *(22-Apr-20 04:45 PM)*
+_Indulging her stress-baking grants instant relief, but inside, she knows she has lost._
 
-
-*Indulging her stress-baking grants instant relief, but inside, she knows she has lost.*
-
-**Jonas** *(22-Apr-20 04:46 PM)*
+**Jonas** _(22-Apr-20 04:46 PM)_
 8ball does emmett finally shut off the power
 
-**FFBot** *(22-Apr-20 04:46 PM)*
+**FFBot** _(22-Apr-20 04:46 PM)_
 Most likely.
 
-**Rashidi** *(22-Apr-20 04:46 PM)*
+**Rashidi** _(22-Apr-20 04:46 PM)_
+
 > Dakari: I'm not so sure you're ok Iris.
 
-**Silas** *(22-Apr-20 04:46 PM)*
+**Silas** _(22-Apr-20 04:46 PM)_
+
 > Wes: What a hoot that owl was! Heh, get it? Anyway, I really am thankful for all of my wonderful fans. You people mean almost as much to me as I do. And that's saying som-
 
-*The power is cut, and Wes' speech is cut short. He seems irritated.*
+_The power is cut, and Wes' speech is cut short. He seems irritated._
 
-**Lili** *(22-Apr-20 04:46 PM)*
+**Lili** _(22-Apr-20 04:46 PM)_
+
 > Iris: I'm making croissants.
 
-**Trey** *(22-Apr-20 04:46 PM)*
+**Trey** _(22-Apr-20 04:46 PM)_
+
 > Garrick: Phew...
 
-**Trey** *(22-Apr-20 04:46 PM)*
+**Trey** _(22-Apr-20 04:46 PM)_
 
+_Garrick returns back to the ship in the darkness._
 
-*Garrick returns back to the ship in the darkness.*
+**Zander** _(22-Apr-20 04:46 PM)_
 
-**Zander** *(22-Apr-20 04:46 PM)*
+_Emmett now gets out of the room, as the lock isn't active._
 
+**Rashidi** _(22-Apr-20 04:46 PM)_
 
-*Emmett now gets out of the room, as the lock isn't active.*
-
-**Rashidi** *(22-Apr-20 04:46 PM)*
 > Dakari: We had breakfast like an hour ago.
 
-**Cooldude** *(22-Apr-20 04:46 PM)*
+**Cooldude** _(22-Apr-20 04:46 PM)_
 i have to take a shower
 
-**FFBot** *(22-Apr-20 04:47 PM)*
+**FFBot** _(22-Apr-20 04:47 PM)_
 I don't think so.
 
-**Lili** *(22-Apr-20 04:47 PM)*
+**Lili** _(22-Apr-20 04:47 PM)_
 8ball has Iris made so many croissants that there is now a throne of them large enough for a person to sit in?
 
-**FFBot** *(22-Apr-20 04:47 PM)*
+**FFBot** _(22-Apr-20 04:47 PM)_
 Dude. Duh.
 
-**Silas** *(22-Apr-20 04:47 PM)*
+**Silas** _(22-Apr-20 04:47 PM)_
 
+_Wes, who knows the station well, decides to go to fix the power, since he knows the mechanics here are a bit braindead._
 
-*Wes, who knows the station well, decides to go to fix the power, since he knows the mechanics here are a bit braindead.*
+**Trey** _(22-Apr-20 04:47 PM)_
 
-**Trey** *(22-Apr-20 04:47 PM)*
 > Garrick: Thanks, Iris. Here's your dagger.
 
-**Trey** *(22-Apr-20 04:47 PM)*
+**Trey** _(22-Apr-20 04:47 PM)_
 
+_He hands her the dagger, blade side forward._
 
-*He hands her the dagger, blade side forward.*
+**Brody** _(22-Apr-20 04:48 PM)_
 
-**Brody** *(22-Apr-20 04:48 PM)*
+_Sanya follows the lizard, hiding her identity with her hood._
 
+**Zander** _(22-Apr-20 04:48 PM)_
 
-*Sanya follows the lizard, hiding her identity with her hood.*
+_Emmett takes off the bag and runs to some of the vendors, planning on taking some of the nice stuff they have._
 
-**Zander** *(22-Apr-20 04:48 PM)*
+**Silas** _(22-Apr-20 04:48 PM)_
 
-
-*Emmett takes off the bag and runs to some of the vendors, planning on taking some of the nice stuff they have.*
-
-**Silas** *(22-Apr-20 04:48 PM)*
 > Wes: I'll be back. Here, hold my magnificent golden trophy.
 
-**Lili** *(22-Apr-20 04:48 PM)*
+**Lili** _(22-Apr-20 04:48 PM)_
 
+_Iris takes the dagger carefully and sheaths it._
 
-*Iris takes the dagger carefully and sheaths it.*
-
-**Zander** *(22-Apr-20 04:48 PM)*
+**Zander** _(22-Apr-20 04:48 PM)_
 8ball Do I quickly check my weaponry?
 
-**FFBot** *(22-Apr-20 04:48 PM)*
+**FFBot** _(22-Apr-20 04:48 PM)_
 My reply is no.
 
-**Rashidi** *(22-Apr-20 04:48 PM)*
+**Rashidi** _(22-Apr-20 04:48 PM)_
+
 > Dakari: That is quite a lot of croissants.
 
-**Rashidi** *(22-Apr-20 04:48 PM)*
+**Rashidi** _(22-Apr-20 04:48 PM)_
 8ball Does Dakari partake in the feast of croissants?
 
-**FFBot** *(22-Apr-20 04:48 PM)*
+**FFBot** _(22-Apr-20 04:48 PM)_
 Better not tell you now.
 
-**Sean** *(22-Apr-20 04:48 PM)*
+**Sean** _(22-Apr-20 04:48 PM)_
 8ball Does the backup generator start?
 
-**FFBot** *(22-Apr-20 04:48 PM)*
+**FFBot** _(22-Apr-20 04:48 PM)_
 Don't count on it.
 
-**Rashidi** *(22-Apr-20 04:49 PM)*
+**Rashidi** _(22-Apr-20 04:49 PM)_
 8ball Does Dakari partake in the feast of croissants?
 
-**FFBot** *(22-Apr-20 04:49 PM)*
+**FFBot** _(22-Apr-20 04:49 PM)_
 That's a no moment.
 
-**Lili** *(22-Apr-20 04:49 PM)*
+**Lili** _(22-Apr-20 04:49 PM)_
 
+_Iris, tearfully, makes another beautiful batch._
 
-*Iris, tearfully, makes another beautiful batch.*
 > Iris: My will is not strong enough.
 
-**Silas** *(22-Apr-20 04:49 PM)*
+**Silas** _(22-Apr-20 04:49 PM)_
 8ball does the backup generator start up?
 
-**FFBot** *(22-Apr-20 04:49 PM)*
+**FFBot** _(22-Apr-20 04:49 PM)_
 Sing the poopy farty song word for word. The others will decide your fate.
 
-**Trey** *(22-Apr-20 04:49 PM)*
+**Trey** _(22-Apr-20 04:49 PM)_
 
+_Garrick devours many croissants._
 
-*Garrick devours many croissants.*
-
-**Sean** *(22-Apr-20 04:50 PM)*
+**Sean** _(22-Apr-20 04:50 PM)_
 https://www.youtube.com/watch?v=kGDCt039SEg
 
-**Zander** *(22-Apr-20 04:50 PM)*
+**Zander** _(22-Apr-20 04:50 PM)_
 
+_Wes can probably hear someone rustling through cans and tables._
 
-*Wes can probably hear someone rustling through cans and tables.*
-
-**Zander** *(22-Apr-20 04:50 PM)*
+**Zander** _(22-Apr-20 04:50 PM)_
 8ball Is Emmett aware of Wes's presence?
 
-**FFBot** *(22-Apr-20 04:51 PM)*
+**FFBot** _(22-Apr-20 04:51 PM)_
 Dude. Duh.
 
-**Sean** *(22-Apr-20 04:51 PM)*
+**Sean** _(22-Apr-20 04:51 PM)_
+
 > Seth: AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-**Lili** *(22-Apr-20 04:51 PM)*
+**Lili** _(22-Apr-20 04:51 PM)_
 
+_Iris manages to stop making croissants and stares at the mountain of croissants before her._
 
-*Iris manages to stop making croissants and stares at the mountain of croissants before her.*
 > Iris: I am weak.
 
-**Sean** *(22-Apr-20 04:51 PM)*
+**Sean** _(22-Apr-20 04:51 PM)_
 
+_Seth goes to the main power core_
 
-*Seth goes to the main power core*
+**Sean** _(22-Apr-20 04:51 PM)_
 
-**Sean** *(22-Apr-20 04:51 PM)*
 > Seth: AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-**Sean** *(22-Apr-20 04:51 PM)*
+**Sean** _(22-Apr-20 04:51 PM)_
+
 > Seth: I WAS WATCHING TV
 
-**Sean** *(22-Apr-20 04:51 PM)*
+**Sean** _(22-Apr-20 04:51 PM)_
+
 > Seth: AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-**Zander** *(22-Apr-20 04:51 PM)*
+**Zander** _(22-Apr-20 04:51 PM)_
+
 > Emmett: Who's there?
 
-**Rashidi** *(22-Apr-20 04:51 PM)*
+**Rashidi** _(22-Apr-20 04:51 PM)_
+
 > Dakari: How do we even have this many baking materials?
 
-**Sean** *(22-Apr-20 04:52 PM)*
+**Sean** _(22-Apr-20 04:52 PM)_
+
 > Seth: ME
 
-**Silas** *(22-Apr-20 04:52 PM)*
+**Silas** _(22-Apr-20 04:52 PM)_
 
+_Wes stops._
 
-*Wes stops.*
 > Wes: Who do you think I am? Show yourself!
 
-**Sean** *(22-Apr-20 04:52 PM)*
+**Sean** _(22-Apr-20 04:52 PM)_
+
 > Seth: MEMEMEMEMMEMEMEMMEMEM
 
-**Sean** *(22-Apr-20 04:52 PM)*
+**Sean** _(22-Apr-20 04:52 PM)_
+
 > Seth: AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-**Sean** *(22-Apr-20 04:52 PM)*
+**Sean** _(22-Apr-20 04:52 PM)_
+
 > Seth: PENIS FARTY
 
-**Brody** *(22-Apr-20 04:52 PM)*
+**Brody** _(22-Apr-20 04:52 PM)_
 
+_D: What do you think will happen if the lizard finds Emmett? You better stop him._
 
-*D: What do you think will happen if the lizard finds Emmett? You better stop him.*
+**Zander** _(22-Apr-20 04:52 PM)_
 
-**Zander** *(22-Apr-20 04:52 PM)*
+_Emmett recognizes the voice._
 
+**Sean** _(22-Apr-20 04:53 PM)_
 
-*Emmett recognizes the voice.*
+_Seth starts kicking the main power core_
 
-**Sean** *(22-Apr-20 04:53 PM)*
+**Sean** _(22-Apr-20 04:53 PM)_
 
-
-*Seth starts kicking the main power core*
-
-**Sean** *(22-Apr-20 04:53 PM)*
 > Seth: AHHHHHHHHHHHHHHHHHHHHHHHHH
 
-**Trey** *(22-Apr-20 04:53 PM)*
+**Trey** _(22-Apr-20 04:53 PM)_
 8ball does garrick retire on the couch
 
-**FFBot** *(22-Apr-20 04:53 PM)*
+**FFBot** _(22-Apr-20 04:53 PM)_
 Sing the poopy farty song word for word. The others will decide your fate.
 
-**Lili** *(22-Apr-20 04:53 PM)*
+**Lili** _(22-Apr-20 04:53 PM)_
+
 > Iris: Seth... you've been yelling for a while... do you want a croissant?
 
-**Zander** *(22-Apr-20 04:53 PM)*
+**Zander** _(22-Apr-20 04:53 PM)_
+
 > Emmett: Wes... The little racer.
 
-**Zander** *(22-Apr-20 04:53 PM)*
+**Zander** _(22-Apr-20 04:53 PM)_
+
 > Emmett: The tiny man who drives a garbage can.
 
-**Silas** *(22-Apr-20 04:54 PM)*
+**Silas** _(22-Apr-20 04:54 PM)_
 
+_Wes puts his hand on his holster._
 
-*Wes puts his hand on his holster.*
 > Wes: I'd say you should show yourself before I fill you with holes.
 
-**Trey** *(22-Apr-20 04:54 PM)*
+**Trey** _(22-Apr-20 04:54 PM)_
 
+_He retires in the kitchen, obstructing whatever Iris is doing._
 
-*He retires in the kitchen, obstructing whatever Iris is doing.*
+**Lili** _(22-Apr-20 04:55 PM)_
 
-**Lili** *(22-Apr-20 04:55 PM)*
+_Iris doesn't even care anymore._
 
+**Rashidi** _(22-Apr-20 04:55 PM)_
 
-*Iris doesn't even care anymore.*
+_Dakari, bored of the kitchen, lounges on his newly bought couch_
 
-**Rashidi** *(22-Apr-20 04:55 PM)*
-
-
-*Dakari, bored of the kitchen, lounges on his newly bought couch*
-
-**Sean** *(22-Apr-20 04:55 PM)*
+**Sean** _(22-Apr-20 04:55 PM)_
 https://www.youtube.com/watch?v=bqLMz3rM7Jc
 
-**Lili** *(22-Apr-20 04:55 PM)*
+**Lili** _(22-Apr-20 04:55 PM)_
+
 > Iris: Garrick... who's going to eat all these croissants? Who did I make them for? Why did I make them?
 
-**Zander** *(22-Apr-20 04:56 PM)*
+**Zander** _(22-Apr-20 04:56 PM)_
 
+_Emmett shoots a maggot in the light, the maggot landing and burrowing into the ground._
 
-*Emmett shoots a maggot in the light, the maggot landing and burrowing into the ground.*
+**Trey** _(22-Apr-20 04:56 PM)_
 
-**Trey** *(22-Apr-20 04:56 PM)*
+_Garrick's eye would begins to contrict and heal from all the croissants._
 
+**Zander** _(22-Apr-20 04:56 PM)_
 
-*Garrick's eye would begins to contrict and heal from all the croissants.*
-
-**Zander** *(22-Apr-20 04:56 PM)*
 > Emmett: Don't mess with me, flyboy.
 
-**Bill** *(22-Apr-20 04:56 PM)*
+**Bill** _(22-Apr-20 04:56 PM)_
 8ball is Diver lured out of the storage room by the smell of croissants?
 
-**FFBot** *(22-Apr-20 04:56 PM)*
+**FFBot** _(22-Apr-20 04:56 PM)_
 Ask Seth.
 
-**Lili** *(22-Apr-20 04:56 PM)*
+**Lili** _(22-Apr-20 04:56 PM)_
 
+_Iris sees Garrick healing._
 
-*Iris sees Garrick healing.*
+**Sean** _(22-Apr-20 04:56 PM)_
 
-**Sean** *(22-Apr-20 04:56 PM)*
 > Seth: Yes
 
-**Silas** *(22-Apr-20 04:56 PM)*
+**Silas** _(22-Apr-20 04:56 PM)_
 
+_Wes puts his helmet back on and his crest immediately flips up._
 
-*Wes puts his helmet back on and his crest immediately flips up.*
+**Lili** _(22-Apr-20 04:56 PM)_
 
-**Lili** *(22-Apr-20 04:56 PM)*
 > Iris: ...maybe my baking isn't a complete waste of resources.
 
-**Brody** *(22-Apr-20 04:56 PM)*
+**Brody** _(22-Apr-20 04:56 PM)_
 8ball Does Sanya get Wes' attention?
 
-**FFBot** *(22-Apr-20 04:56 PM)*
+**FFBot** _(22-Apr-20 04:56 PM)_
 It is decidedly so.
 
-**Sean** *(22-Apr-20 04:57 PM)*
+**Sean** _(22-Apr-20 04:57 PM)_
 
+_Seth goes looking for Emmett_
 
-*Seth goes looking for Emmett*
+**Bill** _(22-Apr-20 04:57 PM)_
 
-**Bill** *(22-Apr-20 04:57 PM)*
+_Diver begins sneaking through the halls, looking for the food_
 
-
-*Diver begins sneaking through the halls, looking for the food*
-
-**Jonas** *(22-Apr-20 04:57 PM)*
+**Jonas** _(22-Apr-20 04:57 PM)_
 sc
 
-**Sean** *(22-Apr-20 04:57 PM)*
+**Sean** _(22-Apr-20 04:57 PM)_
+
 > Seth: I shall find you child
 
-**Brody** *(22-Apr-20 04:57 PM)*
+**Brody** _(22-Apr-20 04:57 PM)_
 
+_A Knife lands between Wes' feet._
 
-*A Knife lands between Wes' feet.*
+**Silas** _(22-Apr-20 04:57 PM)_
 
-**Silas** *(22-Apr-20 04:57 PM)*
 > Wes: The hell?
 
-**Brody** *(22-Apr-20 04:57 PM)*
+**Brody** _(22-Apr-20 04:57 PM)_
+
 > Sanya: Hello, Lizard.
 
-**Sean** *(22-Apr-20 04:57 PM)*
+**Sean** _(22-Apr-20 04:57 PM)_
+
 > Seth: You stole my cheese, and my entertainment.
 
-**Jonas** *(22-Apr-20 04:57 PM)*
+**Jonas** _(22-Apr-20 04:57 PM)_
 oo
 
-**Silas** *(22-Apr-20 04:57 PM)*
+**Silas** _(22-Apr-20 04:57 PM)_
+
 > Wes: Oh, would you like an autograph? Sorry, I hope you can understand, I'm a bit busy.
 
-**Bill** *(22-Apr-20 04:58 PM)*
-*Diver manages to find the kitchen, and the throne of croissants *
+**Bill** _(22-Apr-20 04:58 PM)_
+_Diver manages to find the kitchen, and the throne of croissants _
 
-**Brody** *(22-Apr-20 04:58 PM)*
+**Brody** _(22-Apr-20 04:58 PM)_
+
 > Sanya: I'd prefer it if you left my friend alone. You see, if anything were to happen to him...
 
-**Brody** *(22-Apr-20 04:58 PM)*
+**Brody** _(22-Apr-20 04:58 PM)_
+
 > Sanya: I'd tear you limb from limb.
 
-**Lili** *(22-Apr-20 04:58 PM)*
+**Lili** _(22-Apr-20 04:58 PM)_
+
 > Iris: Hello.
 
-**Bill** *(22-Apr-20 04:58 PM)*
+**Bill** _(22-Apr-20 04:58 PM)_
 
+_Before anyone can react, he swoops in and steals several croissants and runs away_
 
-*Before anyone can react, he swoops in and steals several croissants and runs away*
-
-**Jonas** *(22-Apr-20 04:58 PM)*
+**Jonas** _(22-Apr-20 04:58 PM)_
 8ball does the croissant throne topple
 
-**FFBot** *(22-Apr-20 04:58 PM)*
+**FFBot** _(22-Apr-20 04:58 PM)_
 Dude. Duh.
 
-**Rashidi** *(22-Apr-20 04:58 PM)*
+**Rashidi** _(22-Apr-20 04:58 PM)_
+
 > Dakari: What was that?
 
-**Lili** *(22-Apr-20 04:58 PM)*
+**Lili** _(22-Apr-20 04:58 PM)_
+
 > Iris: Okay, I guess.
 
-**Silas** *(22-Apr-20 04:58 PM)*
+**Silas** _(22-Apr-20 04:58 PM)_
+
 > Wes: You people are insane.
 
-**Jonas** *(22-Apr-20 04:59 PM)*
+**Jonas** _(22-Apr-20 04:59 PM)_
 m
 
-**Brody** *(22-Apr-20 04:59 PM)*
+**Brody** _(22-Apr-20 04:59 PM)_
+
 > Sanya: You've obviously never met a Floran before.
 
-**Zander** *(22-Apr-20 04:59 PM)*
-
+**Zander** _(22-Apr-20 04:59 PM)_
 
 *Emmett walks towards the little man, a little more light showing on his face. He tried to be intimidating, but to a normal-sized person, he just wasn't.*normal-sized
 
-**Lili** *(22-Apr-20 04:59 PM)*
+**Lili** _(22-Apr-20 04:59 PM)_
+
 > Iris: If anybody wants croissants, there are... a lot.
 
-**Silas** *(22-Apr-20 05:00 PM)*
+**Silas** _(22-Apr-20 05:00 PM)_
 
+_Seeing Emmett's fuzzy, small figure, he can't help but be amused._
 
-*Seeing Emmett's fuzzy, small figure, he can't help but be amused.*
 > Wes: Awwww, aren't you adorable?
 
-**Zander** *(22-Apr-20 05:00 PM)*
+**Zander** _(22-Apr-20 05:00 PM)_
+
 > Emmett: Fuck.
 
-**Silas** *(22-Apr-20 05:00 PM)*
+**Silas** _(22-Apr-20 05:00 PM)_
+
 > Wes: Wait...you look familiar...
 
-**Brody** *(22-Apr-20 05:00 PM)*
+**Brody** _(22-Apr-20 05:00 PM)_
+
 > Sanya: Shit.
 
-**Lili** *(22-Apr-20 05:00 PM)*
+**Lili** _(22-Apr-20 05:00 PM)_
 8ball does one of the croissants come to life?
 
-**FFBot** *(22-Apr-20 05:00 PM)*
+**FFBot** _(22-Apr-20 05:00 PM)_
 Outlook good.
 
-**Silas** *(22-Apr-20 05:00 PM)*
+**Silas** _(22-Apr-20 05:00 PM)_
+
 > Wes: Have we met before?
 
-**Lili** *(22-Apr-20 05:00 PM)*
+**Lili** _(22-Apr-20 05:00 PM)_
 
+_One of the croissants grows legs and stands._
 
-*One of the croissants grows legs and stands.*
-
-**Zander** *(22-Apr-20 05:00 PM)*
+**Zander** _(22-Apr-20 05:00 PM)_
 8ball Do I hear movement by the croissants?
 
-**FFBot** *(22-Apr-20 05:00 PM)*
+**FFBot** _(22-Apr-20 05:00 PM)_
 It is certain.
 
-**Zander** *(22-Apr-20 05:01 PM)*
+**Zander** _(22-Apr-20 05:01 PM)_
+
 > Emmett: Do these people have rats or something?
 
-**Bill** *(22-Apr-20 05:01 PM)*
+**Bill** _(22-Apr-20 05:01 PM)_
 
+_Diver returns to the storage room, leaving a trail of croissant bits_
 
-*Diver returns to the storage room, leaving a trail of croissant bits*
+**Zander** _(22-Apr-20 05:01 PM)_
 
-**Zander** *(22-Apr-20 05:01 PM)*
+_Emmett gets nearer, showing his face. His eyes were their usual mustard color, showing how his few hours of rest made him feel much better physically._
 
+**Lili** _(22-Apr-20 05:01 PM)_
 
-*Emmett gets nearer, showing his face. His eyes were their usual mustard color, showing how his few hours of rest made him feel much better physically.*
+_The croissant walks towards his voice._
 
-**Lili** *(22-Apr-20 05:01 PM)*
+**Zander** _(22-Apr-20 05:01 PM)_
 
-
-*The croissant walks towards his voice.*
-
-**Zander** *(22-Apr-20 05:01 PM)*
 > Emmett: No, we haven't met.
 
-**Zander** *(22-Apr-20 05:01 PM)*
+**Zander** _(22-Apr-20 05:01 PM)_
+
 > Emmett: But you're famous.
 
-**Brody** *(22-Apr-20 05:02 PM)*
+**Brody** _(22-Apr-20 05:02 PM)_
+
 > Sanya: Don't stroke his ego.
 
-**Zander** *(22-Apr-20 05:02 PM)*
+**Zander** _(22-Apr-20 05:02 PM)_
 
+_Emmett turns his comms on_
 
-*Emmett turns his comms on*
-
-**Rashidi** *(22-Apr-20 05:02 PM)*
+**Rashidi** _(22-Apr-20 05:02 PM)_
 8ball does Dakari grab a few croissants before returning to his couch?
 
-**FFBot** *(22-Apr-20 05:02 PM)*
+**FFBot** _(22-Apr-20 05:02 PM)_
 No. In fact, the opposite happens.
 
-**Silas** *(22-Apr-20 05:02 PM)*
+**Silas** _(22-Apr-20 05:02 PM)_
+
 > Wes: I just feel like I've seen you before. Were you on that one show?
 
-**Zander** *(22-Apr-20 05:02 PM)*
+**Zander** _(22-Apr-20 05:02 PM)_
+
 > Emmett: Seth, your grass was shit.
 
-**Sean** *(22-Apr-20 05:02 PM)*
+**Sean** _(22-Apr-20 05:02 PM)_
 8ball Does Seth find Emmett and Wes and drop kick the both of them?
 
-**FFBot** *(22-Apr-20 05:02 PM)*
+**FFBot** _(22-Apr-20 05:02 PM)_
 My reply is no.
 
-**Rashidi** *(22-Apr-20 05:02 PM)*
+**Rashidi** _(22-Apr-20 05:02 PM)_
 
+_Dakari throws several croissants out of the kitchen before remaining there_
 
-*Dakari throws several croissants out of the kitchen before remaining there*
+**Zander** _(22-Apr-20 05:03 PM)_
 
-**Zander** *(22-Apr-20 05:03 PM)*
 > Emmett: I don't understand half the things going on here.
 > Emmett: Yeah, I was on that one show.
 
-**Silas** *(22-Apr-20 05:03 PM)*
+**Silas** _(22-Apr-20 05:03 PM)_
+
 > Wes: Ah, cool.
 
-**Lili** *(22-Apr-20 05:03 PM)*
+**Lili** _(22-Apr-20 05:03 PM)_
 
+_The croissant is walking around the kitchen, making little squeaking noises._
 
-*The croissant is walking around the kitchen,  making little squeaking noises.*
+**Silas** _(22-Apr-20 05:03 PM)_
 
-**Silas** *(22-Apr-20 05:03 PM)*
 > Wes: So, what's with the maggot and the death threats?
 
-**Brody** *(22-Apr-20 05:03 PM)*
+**Brody** _(22-Apr-20 05:03 PM)_
 
+_Sanya picks up her knife and glares at Wes._
 
-*Sanya picks up her knife and glares at Wes.*
-
-**Lili** *(22-Apr-20 05:03 PM)*
+**Lili** _(22-Apr-20 05:03 PM)_
 No
 
-**Zander** *(22-Apr-20 05:03 PM)*
+**Zander** _(22-Apr-20 05:03 PM)_
+
 > Emmett: Well, you see, I was on GU news.
 
-**Brody** *(22-Apr-20 05:03 PM)*
+**Brody** _(22-Apr-20 05:03 PM)_
+
 > Sanya: Don't tell him that!
 
-**Silas** *(22-Apr-20 05:03 PM)*
+**Silas** _(22-Apr-20 05:03 PM)_
+
 > Wes: Oh, you were?
 
-**Trey** *(22-Apr-20 05:03 PM)*
+**Trey** _(22-Apr-20 05:03 PM)_
 
+_Garrick mumbles about spears in his slumber._
 
-*Garrick mumbles about spears in his slumber.*
+**Sean** _(22-Apr-20 05:04 PM)_
 
-**Sean** *(22-Apr-20 05:04 PM)*
 > Seth: HAHAHA POOPY
 
-**Zander** *(22-Apr-20 05:04 PM)*
+**Zander** _(22-Apr-20 05:04 PM)_
+
 > Emmett: And, uh, I'm not particularly feeling the best.
 
-**Silas** *(22-Apr-20 05:04 PM)*
+**Silas** _(22-Apr-20 05:04 PM)_
+
 > Wes: Wait...
 
-**Rashidi** *(22-Apr-20 05:04 PM)*
+**Rashidi** _(22-Apr-20 05:04 PM)_
+
 > Dakari: What did you do now Iris? Why is there a walking croissant?
 
-**Sean** *(22-Apr-20 05:04 PM)*
+**Sean** _(22-Apr-20 05:04 PM)_
+
 > Seth: I KNOW WHERE YOU ARE EMMETT, YOU HAVE MADE BIG MISTAKE
 
-**Zander** *(22-Apr-20 05:04 PM)*
+**Zander** _(22-Apr-20 05:04 PM)_
+
 > Emmett: As Seth gave me some inverted grass or whatever.
 
-**Lili** *(22-Apr-20 05:04 PM)*
+**Lili** _(22-Apr-20 05:04 PM)_
+
 > Iris: I... don't know...
 
-**Silas** *(22-Apr-20 05:04 PM)*
+**Silas** _(22-Apr-20 05:04 PM)_
+
 > Wes: ...Seth.
 
-**Sean** *(22-Apr-20 05:04 PM)*
+**Sean** _(22-Apr-20 05:04 PM)_
+
 > Seth: YOU HAVE LEFT YOUR COMMS ON AND SHALL DESTROY YOU
 
-**Lili** *(22-Apr-20 05:04 PM)*
+**Lili** _(22-Apr-20 05:04 PM)_
 
+_The croissant walks through Garrick._
 
-*The croissant walks through Garrick.*
+**Silas** _(22-Apr-20 05:05 PM)_
 
-**Silas** *(22-Apr-20 05:05 PM)*
+_Realizing who he's dealing with, Wes starts thinking of a way he can get out of this mess._
 
+**Zander** _(22-Apr-20 05:05 PM)_
 
-*Realizing who he's dealing with, Wes starts thinking of a way he can get out of this mess.*
-
-**Zander** *(22-Apr-20 05:05 PM)*
 > Emmett: He's our retarded captain.
 
-**Sean** *(22-Apr-20 05:05 PM)*
+**Sean** _(22-Apr-20 05:05 PM)_
+
 > Seth: YOU ATE ALL MY ARTISNAL GRASS, THE ONE THAT YOU MUST ONLY SMOKE
 
-**Sean** *(22-Apr-20 05:05 PM)*
+**Sean** _(22-Apr-20 05:05 PM)_
+
 > Seth: NOT EAT
 
-**Trey** *(22-Apr-20 05:05 PM)*
+**Trey** _(22-Apr-20 05:05 PM)_
 
+_Garrick is awoken by the smell._
 
-*Garrick is awoken by the smell.*
+**Brody** _(22-Apr-20 05:05 PM)_
 
-**Brody** *(22-Apr-20 05:05 PM)*
 > Sanya: Great, now he knows who we are.
 
-**Sean** *(22-Apr-20 05:05 PM)*
+**Sean** _(22-Apr-20 05:05 PM)_
+
 > Seth: I AM COMING FOR PAYMENT
 
-**Rashidi** *(22-Apr-20 05:05 PM)*
+**Rashidi** _(22-Apr-20 05:05 PM)_
+
 > Dakari: What should we even do with it?
 
-**Zander** *(22-Apr-20 05:05 PM)*
+**Zander** _(22-Apr-20 05:05 PM)_
+
 > Emmett: Honestly, I can't keep up with this criminal gig.
 
-**Zander** *(22-Apr-20 05:05 PM)*
+**Zander** _(22-Apr-20 05:05 PM)_
+
 > Emmett: Even if I just started it.
 
-**Brody** *(22-Apr-20 05:06 PM)*
+**Brody** _(22-Apr-20 05:06 PM)_
 
+_D: This could be useful, though..._
 
-*D: This could be useful, though...*
-
-**Silas** *(22-Apr-20 05:06 PM)*
+**Silas** _(22-Apr-20 05:06 PM)_
 8ball does Wes trip Sanya with his tail and quick-draw his pistol, aiming it at Emmett?
 
-**FFBot** *(22-Apr-20 05:06 PM)*
+**FFBot** _(22-Apr-20 05:06 PM)_
 Concentrate and ask again.
 
-**Silas** *(22-Apr-20 05:06 PM)*
+**Silas** _(22-Apr-20 05:06 PM)_
 8ball does Wes trip Sanya with his tail and quick-draw his pistol, aiming it at Emmett?
 
-**FFBot** *(22-Apr-20 05:06 PM)*
+**FFBot** _(22-Apr-20 05:06 PM)_
 Yes, definitely.
 
-**Sean** *(22-Apr-20 05:06 PM)*
+**Sean** _(22-Apr-20 05:06 PM)_
 
+_Seth starts to head in the direction of Emmett_
 
-*Seth starts to head in the direction of Emmett*
+**Lili** _(22-Apr-20 05:06 PM)_
 
-**Lili** *(22-Apr-20 05:06 PM)*
 > Iris: I dont know.
 
-**Zander** *(22-Apr-20 05:06 PM)*
+**Zander** _(22-Apr-20 05:06 PM)_
+
 > Emmett: I wonder where this little bread-crumb trail goes.
 
-**Silas** *(22-Apr-20 05:06 PM)*
+**Silas** _(22-Apr-20 05:06 PM)_
+
 > Wes: You're worth a lot of money, you know.
 
-**Sean** *(22-Apr-20 05:06 PM)*
+**Sean** _(22-Apr-20 05:06 PM)_
+
 > Seth: I need SMOKE
 
-**Zander** *(22-Apr-20 05:06 PM)*
+**Zander** _(22-Apr-20 05:06 PM)_
 
+_Emmett shrugged._
 
-*Emmett shrugged.*
+**Brody** _(22-Apr-20 05:06 PM)_
 
-**Brody** *(22-Apr-20 05:06 PM)*
+_Sanya falls to the floor_
 
+**Brody** _(22-Apr-20 05:06 PM)_
 
-*Sanya falls to the floor*
+_D: Not the most graceful._
 
-**Brody** *(22-Apr-20 05:06 PM)*
+**Zander** _(22-Apr-20 05:07 PM)_
 
-
-*D: Not the most graceful.*
-
-**Zander** *(22-Apr-20 05:07 PM)*
 > Emmett: Kill me. Be the root cause of an entire species being erradicated.
 
-**Silas** *(22-Apr-20 05:07 PM)*
+**Silas** _(22-Apr-20 05:07 PM)_
 
+_Wes steps on sanya, keeping her on the floor._
 
-*Wes steps on sanya, keeping her on the floor.*
+**Rashidi** _(22-Apr-20 05:07 PM)_
 
-**Rashidi** *(22-Apr-20 05:07 PM)*
 > Dakari: I could use some moving target practice. Just saying...
 
-**Brody** *(22-Apr-20 05:07 PM)*
+**Brody** _(22-Apr-20 05:07 PM)_
+
 > Sanya: If you touch him, you die.
 
-**Lili** *(22-Apr-20 05:07 PM)*
+**Lili** _(22-Apr-20 05:07 PM)_
 
+_The croissant walks to Iris and sits on here, making a happy noise._
 
-*The croissant walks to Iris and sits on here, making a happy noise.*
+**Sean** _(22-Apr-20 05:07 PM)_
 
-**Sean** *(22-Apr-20 05:07 PM)*
 > Seth: I am in need of SMOKES EMMETT I AM COMING TO KILL YOU
 
-**Brody** *(22-Apr-20 05:07 PM)*
+**Brody** _(22-Apr-20 05:07 PM)_
+
 > Sanya: I promise you, your scales will make a perfect trophy
 
-**Rashidi** *(22-Apr-20 05:08 PM)*
+**Rashidi** _(22-Apr-20 05:08 PM)_
+
 > Dakari: Well I don't think it should just wander freely at least.
 
-**Silas** *(22-Apr-20 05:08 PM)*
+**Silas** _(22-Apr-20 05:08 PM)_
+
 > Wes: How about we just co-operate for a bit. And you, how about you shut your goddamn mouth and photosynthesize or something.
 
-**Lili** *(22-Apr-20 05:08 PM)*
+**Lili** _(22-Apr-20 05:08 PM)_
+
 > Iris: Probably not.
 
-**Zander** *(22-Apr-20 05:08 PM)*
+**Zander** _(22-Apr-20 05:08 PM)_
 8ball Does Seth arrive from behind Emmett?
 
-**FFBot** *(22-Apr-20 05:08 PM)*
+**FFBot** _(22-Apr-20 05:08 PM)_
 I think so.
 
-**Sean** *(22-Apr-20 05:08 PM)*
+**Sean** _(22-Apr-20 05:08 PM)_
+
 > Seth: IT IS TIME
 
-**Zander** *(22-Apr-20 05:08 PM)*
+**Zander** _(22-Apr-20 05:08 PM)_
+
 > Emmett: Seth, come on.
 
-**Sean** *(22-Apr-20 05:08 PM)*
+**Sean** _(22-Apr-20 05:08 PM)_
+
 > Seth: THE TIME HAS COME
 
-**Sean** *(22-Apr-20 05:08 PM)*
+**Sean** _(22-Apr-20 05:08 PM)_
+
 > Seth: THE TIME HAS COME
 
-**Sean** *(22-Apr-20 05:08 PM)*
+**Sean** _(22-Apr-20 05:08 PM)_
+
 > Seth: THE TIME HAS COME
 
-**Zander** *(22-Apr-20 05:08 PM)*
+**Zander** _(22-Apr-20 05:08 PM)_
 
+_Emmett looks behind._
 
-*Emmett looks behind.*
+**Lili** _(22-Apr-20 05:08 PM)_
 
-**Lili** *(22-Apr-20 05:08 PM)*
+_Iris thinks for a moment before tying the end of one of her ribbons around it._
 
+**Brody** _(22-Apr-20 05:08 PM)_
 
-*Iris thinks for a moment before tying the end of one of her ribbons around it.*
+_D: This should be very interesting._
 
-**Brody** *(22-Apr-20 05:08 PM)*
+**Sean** _(22-Apr-20 05:09 PM)_
 
+_Seth grabs a metal pipe and starts flailing it around_
 
-*D: This should be very interesting.*
+**Zander** _(22-Apr-20 05:09 PM)_
 
-**Sean** *(22-Apr-20 05:09 PM)*
-
-
-*Seth grabs a metal pipe and starts flailing it around*
-
-**Zander** *(22-Apr-20 05:09 PM)*
 > Emmett: There's lite- FUCK OFF!
 
-**Sean** *(22-Apr-20 05:09 PM)*
+**Sean** _(22-Apr-20 05:09 PM)_
+
 > Seth: THE TIME HAS COME
 
-**Brody** *(22-Apr-20 05:09 PM)*
+**Brody** _(22-Apr-20 05:09 PM)_
+
 > Sanya: Now, meet our captain.
 
-**Trey** *(22-Apr-20 05:09 PM)*
+**Trey** _(22-Apr-20 05:09 PM)_
 8ball does garrick leave the ship after waking up and join the commotion
 
-**FFBot** *(22-Apr-20 05:09 PM)*
+**FFBot** _(22-Apr-20 05:09 PM)_
 Sing the poopy farty song word for word. The others will decide your fate.
 
-**Sean** *(22-Apr-20 05:09 PM)*
+**Sean** _(22-Apr-20 05:09 PM)_
 
+_Seth throws the metal pipe into the air_
 
-*Seth throws the metal pipe into the air*
+**Sean** _(22-Apr-20 05:09 PM)_
 
-**Sean** *(22-Apr-20 05:09 PM)*
 > Seth: Did you get my smokes?
 
-**Zander** *(22-Apr-20 05:09 PM)*
+**Zander** _(22-Apr-20 05:09 PM)_
 
+_Emmett ducks, trying to reason with the towering figure._
 
-*Emmett ducks, trying to reason with the towering figure.*
 > Emmett: There's literally a cigar stand up there.
 
-**Silas** *(22-Apr-20 05:09 PM)*
+**Silas** _(22-Apr-20 05:09 PM)_
+
 > Wes: Your captain seems a bit hostile.
 
-**Lili** *(22-Apr-20 05:10 PM)*
+**Lili** _(22-Apr-20 05:10 PM)_
+
 > Iris: This... works.
 
-**Sean** *(22-Apr-20 05:10 PM)*
+**Sean** _(22-Apr-20 05:10 PM)_
+
 > Seth: I wonder if they have Elf Tobacco
 
-**Brody** *(22-Apr-20 05:10 PM)*
+**Brody** _(22-Apr-20 05:10 PM)_
 
+_Sanya starts laughing_
 
-*Sanya starts laughing*
 > Sanya: You don't know the half of it.
 
-**Lili** *(22-Apr-20 05:10 PM)*
+**Lili** _(22-Apr-20 05:10 PM)_
 
+_The croissant chirps happily???_
 
-*The croissant chirps happily???*
+**Sean** _(22-Apr-20 05:10 PM)_
 
-**Sean** *(22-Apr-20 05:10 PM)*
 > Seth: Who's that?
 
-**Trey** *(22-Apr-20 05:10 PM)*
+**Trey** _(22-Apr-20 05:10 PM)_
+
 > Garrick: This guy got a problem?
 
-**Sean** *(22-Apr-20 05:10 PM)*
+**Sean** _(22-Apr-20 05:10 PM)_
+
 > Seth: Isn't that the guy from the big TV
 
-**Brody** *(22-Apr-20 05:10 PM)*
+**Brody** _(22-Apr-20 05:10 PM)_
+
 > Sanya: Get this asshole off of me before he dies.
 
-**Sean** *(22-Apr-20 05:10 PM)*
+**Sean** _(22-Apr-20 05:10 PM)_
+
 > Seth: Who are you again?
 
-**Zander** *(22-Apr-20 05:11 PM)*
+**Zander** _(22-Apr-20 05:11 PM)_
+
 > Emmett: Now...
 
-*Emmett got back in his position, pushing Wes's arm up to where it was originally.*
+_Emmett got back in his position, pushing Wes's arm up to where it was originally._
 
-**Zander** *(22-Apr-20 05:11 PM)*
+**Zander** _(22-Apr-20 05:11 PM)_
+
 > Emmett: Back in action.
 
-*Emmett winks.*
+_Emmett winks._
 
-**Silas** *(22-Apr-20 05:11 PM)*
+**Silas** _(22-Apr-20 05:11 PM)_
 
+_Wes shoots the ground next to Sanya's face._
 
-*Wes shoots the ground next to Sanya's face.*
 > Wes: Why, I'm the greatest racer and deadshot of all time.
 
-**Rashidi** *(22-Apr-20 05:11 PM)*
+**Rashidi** _(22-Apr-20 05:11 PM)_
+
 > Dakari: If this croissant is alive... what about the other ones?
 
-**Sean** *(22-Apr-20 05:11 PM)*
+**Sean** _(22-Apr-20 05:11 PM)_
+
 > Seth: Not you faggot
 
-**Bill** *(22-Apr-20 05:11 PM)*
+**Bill** _(22-Apr-20 05:11 PM)_
 8ball does the croissant get up and run away
 
-**FFBot** *(22-Apr-20 05:11 PM)*
+**FFBot** _(22-Apr-20 05:11 PM)_
 Concentrate and ask again.
 
-**Trey** *(22-Apr-20 05:11 PM)*
+**Trey** _(22-Apr-20 05:11 PM)_
 
+_Garrick blindly grabs a weapon from his pocket in preparation for a fight._
 
-*Garrick blindly grabs a weapon from his pocket in preparation for a fight.*
+**Sean** _(22-Apr-20 05:11 PM)_
 
-**Sean** *(22-Apr-20 05:11 PM)*
 > Seth: The plant lady
 
-**Brody** *(22-Apr-20 05:11 PM)*
+**Brody** _(22-Apr-20 05:11 PM)_
+
 > Sanya: Oh, you asshole.
 
-**Bill** *(22-Apr-20 05:11 PM)*
+**Bill** _(22-Apr-20 05:11 PM)_
 8ball does the croissant get up and run away
 
-**FFBot** *(22-Apr-20 05:11 PM)*
+**FFBot** _(22-Apr-20 05:11 PM)_
 Concentrate and ask again.
 
-**Rashidi** *(22-Apr-20 05:11 PM)*
+**Rashidi** _(22-Apr-20 05:11 PM)_
+
 > Dakari: The whole throne of them?
 
-**Lili** *(22-Apr-20 05:11 PM)*
+**Lili** _(22-Apr-20 05:11 PM)_
+
 > Iris: Probably not.
 
-**Sean** *(22-Apr-20 05:11 PM)*
+**Sean** _(22-Apr-20 05:11 PM)_
+
 > Seth: You don't know the half of it babes
 
-**Rashidi** *(22-Apr-20 05:11 PM)*
+**Rashidi** _(22-Apr-20 05:11 PM)_
+
 > Dakari: I hope not.
 
-**Bill** *(22-Apr-20 05:11 PM)*
+**Bill** _(22-Apr-20 05:11 PM)_
 8ball does the croissant get up and run away
 
-**FFBot** *(22-Apr-20 05:11 PM)*
+**FFBot** _(22-Apr-20 05:11 PM)_
 No. In fact, the opposite happens.
 
-**Brody** *(22-Apr-20 05:12 PM)*
+**Brody** _(22-Apr-20 05:12 PM)_
 8ball Does Sanya produce fear gas?
 
-**FFBot** *(22-Apr-20 05:12 PM)*
+**FFBot** _(22-Apr-20 05:12 PM)_
 I think so.
 
-**Zander** *(22-Apr-20 05:12 PM)*
+**Zander** _(22-Apr-20 05:12 PM)_
+
 > Emmett: Come on man.
 
-**Lili** *(22-Apr-20 05:12 PM)*
+**Lili** _(22-Apr-20 05:12 PM)_
 
+_The croissant dives into Iris' stomach._
 
-*The croissant dives into Iris' stomach.*
+**Brody** _(22-Apr-20 05:12 PM)_
 
-**Brody** *(22-Apr-20 05:12 PM)*
 > Sanya: Eat shit, deadshot.
 
-**Zander** *(22-Apr-20 05:12 PM)*
+**Zander** _(22-Apr-20 05:12 PM)_
+
 > Emmett: You're not going to kill me.
 
-**Rashidi** *(22-Apr-20 05:12 PM)*
+**Rashidi** _(22-Apr-20 05:12 PM)_
+
 > Dakari: Uh...
 
-**Zander** *(22-Apr-20 05:12 PM)*
+**Zander** _(22-Apr-20 05:12 PM)_
+
 > Emmett: And I'm not going to hurt you.
 
-**Silas** *(22-Apr-20 05:12 PM)*
+**Silas** _(22-Apr-20 05:12 PM)_
+
 > Wes: what is that, poison gas? Come on, I'm wearing a custom helmet.
 
-**Brody** *(22-Apr-20 05:12 PM)*
+**Brody** _(22-Apr-20 05:12 PM)_
+
 > Sanya: But I will.
 
-**Lili** *(22-Apr-20 05:13 PM)*
+**Lili** _(22-Apr-20 05:13 PM)_
 So is the croissant a duck?
 
-**Zander** *(22-Apr-20 05:13 PM)*
+**Zander** _(22-Apr-20 05:13 PM)_
+
 > Emmett: But, uh... You've got nowhere to go.
 
-**Silas** *(22-Apr-20 05:13 PM)*
+**Silas** _(22-Apr-20 05:13 PM)_
+
 > Wes: I'd like it if you could shut your little bonsai up so we can cooperate.
 
-**Zander** *(22-Apr-20 05:13 PM)*
+**Zander** _(22-Apr-20 05:13 PM)_
 
+_Emmett was hoping someone in the crew would explode Wes's ship at that moment._
 
-*Emmett was hoping someone in the crew would explode Wes's ship at that moment.*
+**Brody** _(22-Apr-20 05:13 PM)_
 
-**Brody** *(22-Apr-20 05:13 PM)*
 > Sanya: It's not poison, dipshit. It's pure fear, in gas form. And i promise you, no helmet will help.
 
-**Trey** *(22-Apr-20 05:13 PM)*
+**Trey** _(22-Apr-20 05:13 PM)_
+
 > Garrick: Okay guys, I know we said no more crimes, but we could just knock him out and take him with us.
 
-**Brody** *(22-Apr-20 05:14 PM)*
+**Brody** _(22-Apr-20 05:14 PM)_
+
 > Sanya: And i am NOT
 
-**Jonas** *(22-Apr-20 05:14 PM)*
+**Jonas** _(22-Apr-20 05:14 PM)_
 8ball did wes leave his oven on so his ship catches on fire
 
-**FFBot** *(22-Apr-20 05:14 PM)*
+**FFBot** _(22-Apr-20 05:14 PM)_
 Without a doubt.
 
-**Brody** *(22-Apr-20 05:14 PM)*
+**Brody** _(22-Apr-20 05:14 PM)_
+
 > Sanya: some PLANT!
 
-**Jonas** *(22-Apr-20 05:14 PM)*
+**Jonas** _(22-Apr-20 05:14 PM)_
+
 > Chomsky: that sucks
 
-**Bill** *(22-Apr-20 05:14 PM)*
+**Bill** _(22-Apr-20 05:14 PM)_
 
+_the croissant runs towards the storage room_
 
-*the croissant runs towards the storage room*
+**Jonas** _(22-Apr-20 05:14 PM)_
 
-**Jonas** *(22-Apr-20 05:14 PM)*
 > Chomsky: guys uh, that ship...
 
-**Zander** *(22-Apr-20 05:14 PM)*
+**Zander** _(22-Apr-20 05:14 PM)_
+
 > Emmett: Sanya, can you please not send your pheromones over to our friend here?
 
-**Zander** *(22-Apr-20 05:14 PM)*
+**Zander** _(22-Apr-20 05:14 PM)_
+
 > Emmett: I don't think he wants to fornicate.
 
-**Sean** *(22-Apr-20 05:14 PM)*
+**Sean** _(22-Apr-20 05:14 PM)_
+
 > Seth: Oh, Sanya!
 
-**Trey** *(22-Apr-20 05:14 PM)*
+**Trey** _(22-Apr-20 05:14 PM)_
 
+_BOOOOOM_
 
-*BOOOOOM*
+**Sean** _(22-Apr-20 05:14 PM)_
 
-**Sean** *(22-Apr-20 05:14 PM)*
 > Seth: Thats your name
 
-**Jonas** *(22-Apr-20 05:14 PM)*
+**Jonas** _(22-Apr-20 05:14 PM)_
+
 > Chomsky: hey newbie, that yours?
 
-**Sean** *(22-Apr-20 05:14 PM)*
+**Sean** _(22-Apr-20 05:14 PM)_
+
 > Seth: I remember you.
 
-**Silas** *(22-Apr-20 05:15 PM)*
+**Silas** _(22-Apr-20 05:15 PM)_
 
+_Noticing the explosion, Wes is devastated._
 
-*Noticing the explosion, Wes is devastated.*
+**Silas** _(22-Apr-20 05:15 PM)_
 
-**Silas** *(22-Apr-20 05:15 PM)*
 > Wes: FUCK!
 
-**Sean** *(22-Apr-20 05:15 PM)*
+**Sean** _(22-Apr-20 05:15 PM)_
+
 > Seth: Haha, ship go boomie
 
-**Brody** *(22-Apr-20 05:15 PM)*
+**Brody** _(22-Apr-20 05:15 PM)_
 
+_Sanya takes this time to flip over the lizard and pin him to the ground_
 
-*Sanya takes this time to flip over the lizard and pin him to the ground*
+**Zander** _(22-Apr-20 05:15 PM)_
 
-**Zander** *(22-Apr-20 05:15 PM)*
+_Emmett holds his hoof out._
 
+**Trey** _(22-Apr-20 05:15 PM)_
 
-*Emmett holds his hoof out.*
-
-**Trey** *(22-Apr-20 05:15 PM)*
 > Garrick: Nowhere to run, TV guy.
 
-**Silas** *(22-Apr-20 05:15 PM)*
+**Silas** _(22-Apr-20 05:15 PM)_
 
+_Wes kicks Sanya in the chest while sprinting towards his beloved ship_
 
-*Wes kicks Sanya in the chest while sprinting towards his beloved ship*
+**Zander** _(22-Apr-20 05:15 PM)_
 
-**Zander** *(22-Apr-20 05:15 PM)*
 > Emmett: Want to be even mor-
 
-**Lili** *(22-Apr-20 05:15 PM)*
+**Lili** _(22-Apr-20 05:15 PM)_
 
+_Iris follows the croissant._
 
-*Iris follows the croissant.*
+**Zander** _(22-Apr-20 05:15 PM)_
 
-**Zander** *(22-Apr-20 05:15 PM)*
+_Emmett chases Wes intently_
 
+**Brody** _(22-Apr-20 05:16 PM)_
 
-*Emmett chases Wes intently*
-
-**Brody** *(22-Apr-20 05:16 PM)*
 > Sanya: Oh, you bitch.
 
-**Jonas** *(22-Apr-20 05:16 PM)*
+**Jonas** _(22-Apr-20 05:16 PM)_
+
 > Chomsky: i know im the fire guy, but i swear i didnt light anything on fire this time.
 
-*chomsky follows wes as well*
+_chomsky follows wes as well_
 
-**Sean** *(22-Apr-20 05:16 PM)*
+**Sean** _(22-Apr-20 05:16 PM)_
 
+_Seth draws his laser rifle and sets it to stun as he follows the two_
 
-*Seth draws his laser rifle and sets it to stun as he follows the two*
+**Jonas** _(22-Apr-20 05:16 PM)_
 
-**Jonas** *(22-Apr-20 05:16 PM)*
 > Chomsky: I KNOW HOW TO DEAL WITH FIRES DONT WORRY
 
-**Trey** *(22-Apr-20 05:16 PM)*
+**Trey** _(22-Apr-20 05:16 PM)_
+
 > Garrick: Don't stop it!
 
-**Bill** *(22-Apr-20 05:16 PM)*
+**Bill** _(22-Apr-20 05:16 PM)_
 
+_the croissant enters through a slightly open door, making a startled squeak moments later_
 
-*the croissant enters through a slightly open door, making a startled squeak moments later*
+**Brody** _(22-Apr-20 05:16 PM)_
 
-**Brody** *(22-Apr-20 05:16 PM)*
+_Sanya races after Wes_
 
+**Lili** _(22-Apr-20 05:17 PM)_
 
-*Sanya races after Wes*
+_Iris dives in- she's a little attached to the croissant._
 
-**Lili** *(22-Apr-20 05:17 PM)*
+**Silas** _(22-Apr-20 05:17 PM)_
 
+_Arriving at the ship in shambles, Wes falls to his knees._
 
-*Iris dives in- she's a little attached to the croissant.*
-
-**Silas** *(22-Apr-20 05:17 PM)*
-
-
-*Arriving at the ship in shambles, Wes falls to his knees.*
 > Wes: Oh, come on, that was my favorite raceship!
 
-**Bill** *(22-Apr-20 05:17 PM)*
+**Bill** _(22-Apr-20 05:17 PM)_
 
+_it's pitch black inside_
 
-*it's pitch black inside*
-
-**Lili** *(22-Apr-20 05:17 PM)*
+**Lili** _(22-Apr-20 05:17 PM)_
 8ball did the croissant fall off to reveal a duck?
 
-**FFBot** *(22-Apr-20 05:17 PM)*
+**FFBot** _(22-Apr-20 05:17 PM)_
 Yes, definitely.
 
-**Zander** *(22-Apr-20 05:17 PM)*
+**Zander** _(22-Apr-20 05:17 PM)_
 
+_Emmett starts panting._
 
-*Emmett starts panting.*
+**Lili** _(22-Apr-20 05:17 PM)_
 
-**Lili** *(22-Apr-20 05:17 PM)*
 > Iris: Duck!
 
-**Zander** *(22-Apr-20 05:17 PM)*
+**Zander** _(22-Apr-20 05:17 PM)_
+
 > Emmett: I'm not in shape.
 
-**Bill** *(22-Apr-20 05:17 PM)*
+**Bill** _(22-Apr-20 05:17 PM)_
 
+_with the only light being a singular green dot in the back corner and the small patch from the door_
 
-*with the only light being a singular green dot in the back corner and the small patch from the door*
+**Jonas** _(22-Apr-20 05:17 PM)_
 
-**Jonas** *(22-Apr-20 05:17 PM)*
 > Chomsky: geez, what a burn. what happened to make it go up that suddenly?
 
-**Brody** *(22-Apr-20 05:17 PM)*
+**Brody** _(22-Apr-20 05:17 PM)_
 
+_Sanya catches up and draws her word_
 
-*Sanya catches up and draws her word*
+**Zander** _(22-Apr-20 05:17 PM)_
 
-**Zander** *(22-Apr-20 05:17 PM)*
 > Emmett: I thought those were rats. Color me surprised.
 
-**Brody** *(22-Apr-20 05:18 PM)*
+**Brody** _(22-Apr-20 05:18 PM)_
+
 > Sanya: Word
 
-**Trey** *(22-Apr-20 05:18 PM)*
+**Trey** _(22-Apr-20 05:18 PM)_
+
 > Garrick: THATS RACIST
 
-**Bill** *(22-Apr-20 05:18 PM)*
+**Bill** _(22-Apr-20 05:18 PM)_
 
+_the duck runs away hiding in the dark_
 
-*the duck runs away hiding in the dark*
+**Brody** _(22-Apr-20 05:18 PM)_
 
-**Brody** *(22-Apr-20 05:18 PM)*
+_Sanya then draws her sword_
 
+**Zander** _(22-Apr-20 05:18 PM)_
 
-*Sanya then draws her sword*
-
-**Zander** *(22-Apr-20 05:18 PM)*
 > Emmett: I was offering you a chance at redemption, Wes.
-8ball Do I go towards the duck to pick it up?
+> 8ball Do I go towards the duck to pick it up?
 
-**FFBot** *(22-Apr-20 05:18 PM)*
+**FFBot** _(22-Apr-20 05:18 PM)_
 The person who goes after you decides.
 
-**Zander** *(22-Apr-20 05:18 PM)*
+**Zander** _(22-Apr-20 05:18 PM)_
+
 > Emmett: I know your scandals.
 
-**Lili** *(22-Apr-20 05:18 PM)*
+**Lili** _(22-Apr-20 05:18 PM)_
 
+_Iris hurries into the dark after the duckling._
 
-*Iris hurries into the dark after the duckling.*
 > Iris: Come back! Blueberry!
 
-**Silas** *(22-Apr-20 05:18 PM)*
+**Silas** _(22-Apr-20 05:18 PM)_
+
 > Wes: It was custom made to move as fast as possible. The engine was almost completely exposed.
 
-**Zander** *(22-Apr-20 05:18 PM)*
+**Zander** _(22-Apr-20 05:18 PM)_
+
 > Emmett: Your steroids.
 
-**Silas** *(22-Apr-20 05:19 PM)*
+**Silas** _(22-Apr-20 05:19 PM)_
+
 > Wes: My what now? I race ships, not people.
 
-**Jonas** *(22-Apr-20 05:19 PM)*
+**Jonas** _(22-Apr-20 05:19 PM)_
+
 > Chomsky: dont you know how to build a ship?! the ENGINE was exposed?!
 
-**Zander** *(22-Apr-20 05:19 PM)*
+**Zander** _(22-Apr-20 05:19 PM)_
+
 > Emmett: What's up with your jacked up arms?
 
-**Silas** *(22-Apr-20 05:19 PM)*
+**Silas** _(22-Apr-20 05:19 PM)_
+
 > Wes: It was supposed to allow the vaccuum of space to cool it down!
 
-**Rashidi** *(22-Apr-20 05:19 PM)*
+**Rashidi** _(22-Apr-20 05:19 PM)_
 Yes
 
-**Silas** *(22-Apr-20 05:19 PM)*
+**Silas** _(22-Apr-20 05:19 PM)_
+
 > Wes: The hell are you on about?
 
-**Brody** *(22-Apr-20 05:19 PM)*
+**Brody** _(22-Apr-20 05:19 PM)_
+
 > Sanya: Skip the formalities and just kill him.
 
-**Zander** *(22-Apr-20 05:19 PM)*
+**Zander** _(22-Apr-20 05:19 PM)_
+
 > Emmett: Look at your fucking arms!
 
-**Silas** *(22-Apr-20 05:19 PM)*
+**Silas** _(22-Apr-20 05:19 PM)_
+
 > Wes: Let a lizard grieve, man. This thing was like a son to me.
 
-**Bill** *(22-Apr-20 05:20 PM)*
+**Bill** _(22-Apr-20 05:20 PM)_
 
+_The door closes and locks behind the two_
 
-*The door closes and locks behind the two*
+**Bill** _(22-Apr-20 05:20 PM)_
 
-**Bill** *(22-Apr-20 05:20 PM)*
 > Burner: Drop him
 
-**Jonas** *(22-Apr-20 05:20 PM)*
+**Jonas** _(22-Apr-20 05:20 PM)_
+
 > Chomsky: arent you rich? cant you buy a new identical ship?
 
-**Lili** *(22-Apr-20 05:20 PM)*
+**Lili** _(22-Apr-20 05:20 PM)_
 
+_Iris yelps, not liking that she can't see anything anymore._
 
-*Iris yelps, not liking that she can't see anything anymore.*
-
-**Rashidi** *(22-Apr-20 05:20 PM)*
+**Rashidi** _(22-Apr-20 05:20 PM)_
 8ball Does Dakari search in his newly bought couch and find ducketts?
 
-**FFBot** *(22-Apr-20 05:20 PM)*
+**FFBot** _(22-Apr-20 05:20 PM)_
 No.
 
-**Silas** *(22-Apr-20 05:20 PM)*
+**Silas** _(22-Apr-20 05:20 PM)_
+
 > Wes: What do you mean!? My arms??
 
-**Zander** *(22-Apr-20 05:20 PM)*
+**Zander** _(22-Apr-20 05:20 PM)_
+
 > Emmett: Woah woah woah.
 
-**Sean** *(22-Apr-20 05:20 PM)*
+**Sean** _(22-Apr-20 05:20 PM)_
 8ball does Seth aim and stun Sanya, Emmett, and Wes?
 
-**FFBot** *(22-Apr-20 05:20 PM)*
+**FFBot** _(22-Apr-20 05:20 PM)_
 As I see it, yes.
 
-**Lili** *(22-Apr-20 05:20 PM)*
+**Lili** _(22-Apr-20 05:20 PM)_
+
 > Iris: Blueberry??
 
-**Silas** *(22-Apr-20 05:20 PM)*
+**Silas** _(22-Apr-20 05:20 PM)_
 
+_The fear gas is kicking in._
 
-*The fear gas is kicking in.*
+**Zander** _(22-Apr-20 05:20 PM)_
 
-**Zander** *(22-Apr-20 05:20 PM)*
 > Emmett: Lets take it easy here. Who's talking?
 
-**Sean** *(22-Apr-20 05:20 PM)*
+**Sean** _(22-Apr-20 05:20 PM)_
+
 > Seth: Ah peace and quiet
 
-**Brody** *(22-Apr-20 05:20 PM)*
+**Brody** _(22-Apr-20 05:20 PM)_
+
 > Sanya: Emmett, just shut up. Either recruit him or kill him.
 
-**Zander** *(22-Apr-20 05:21 PM)*
+**Zander** _(22-Apr-20 05:21 PM)_
 
+_Emmett has a small seizure_
 
-*Emmett has a small seizure*
+**Brody** _(22-Apr-20 05:21 PM)_
 
-**Brody** *(22-Apr-20 05:21 PM)*
 > Sanya: I Sw-
 
-**Sean** *(22-Apr-20 05:21 PM)*
+**Sean** _(22-Apr-20 05:21 PM)_
+
 > Seth: Alright Garrick, help me get them into the ship
 
-**Trey** *(22-Apr-20 05:21 PM)*
+**Trey** _(22-Apr-20 05:21 PM)_
+
 > Garrick: Let's hold him for ransom. He's famous, isn't he?
 
-**Trey** *(22-Apr-20 05:21 PM)*
+**Trey** _(22-Apr-20 05:21 PM)_
+
 > Garrick: Gotcha.
 
-**Jonas** *(22-Apr-20 05:21 PM)*
+**Jonas** _(22-Apr-20 05:21 PM)_
+
 > Chomsky: hey i'd like a famous person in our crew. maybe he can do something about emmetts bounty.
 
-**Silas** *(22-Apr-20 05:21 PM)*
+**Silas** _(22-Apr-20 05:21 PM)_
+
 > Wes: My...arms...?
 
-*Wes watches as his arms begin melting in front of him. He is then knocked back into reality as he is stunned.*
+_Wes watches as his arms begin melting in front of him. He is then knocked back into reality as he is stunned._
 
-**Bill** *(22-Apr-20 05:21 PM)*
+**Bill** _(22-Apr-20 05:21 PM)_
+
 > Burner: Diver you absolute shithead
 
-**Bill** *(22-Apr-20 05:21 PM)*
+**Bill** _(22-Apr-20 05:21 PM)_
+
 > Burner: what were you thinking
 
-**Sean** *(22-Apr-20 05:22 PM)*
+**Sean** _(22-Apr-20 05:22 PM)_
 
+_Seth starts dragging Wes, Emmett, and Sanya into the ship_
 
-*Seth starts dragging Wes, Emmett, and Sanya into the ship*
+**Lili** _(22-Apr-20 05:22 PM)_
 
-**Lili** *(22-Apr-20 05:22 PM)*
 > Iris: I'm Iris, give me the duck.
 
-**Sean** *(22-Apr-20 05:22 PM)*
+**Sean** _(22-Apr-20 05:22 PM)_
+
 > Seth: Emmett, stop squirming.
 
-**Bill** *(22-Apr-20 05:22 PM)*
+**Bill** _(22-Apr-20 05:22 PM)_
+
 > Burner: Who are you.
 
-**Zander** *(22-Apr-20 05:22 PM)*
-> Emmett: Clearly this is more intricate than you simply wanting the Duck.
-8ball Does Emmett, once he's unstunned, buck the shit out of Seth, literally making a poop stain on the floor?
+**Zander** _(22-Apr-20 05:22 PM)_
 
-**FFBot** *(22-Apr-20 05:22 PM)*
+> Emmett: Clearly this is more intricate than you simply wanting the Duck.
+> 8ball Does Emmett, once he's unstunned, buck the shit out of Seth, literally making a poop stain on the floor?
+
+**FFBot** _(22-Apr-20 05:22 PM)_
 Group vote. Vote in the order from first player down to last. Majority opinion wins. No changing answers.
 
-**Zander** *(22-Apr-20 05:22 PM)*
+**Zander** _(22-Apr-20 05:22 PM)_
+
 > Emmett: I'm Mateo, and you?
 
-**Trey** *(22-Apr-20 05:22 PM)*
+**Trey** _(22-Apr-20 05:22 PM)_
 8ball does Garrick successfully possess Wes
 
-**FFBot** *(22-Apr-20 05:22 PM)*
+**FFBot** _(22-Apr-20 05:22 PM)_
 Most likely.
 
-**Lili** *(22-Apr-20 05:22 PM)*
+**Lili** _(22-Apr-20 05:22 PM)_
+
 > Iris: Iris.
 
-**Sean** *(22-Apr-20 05:23 PM)*
+**Sean** _(22-Apr-20 05:23 PM)_
 
+_Seth turns on his comms_
 
-*Seth turns on his comms*
+**Trey** _(22-Apr-20 05:23 PM)_
 
-**Trey** *(22-Apr-20 05:23 PM)*
 > Garrick: Good news, guys! He's weak, so I can get him on the ship!
 
-**Zander** *(22-Apr-20 05:23 PM)*
+**Zander** _(22-Apr-20 05:23 PM)_
+
 > Emmett: I was asking the voice of which I cannot see its owner.
 
-**Silas** *(22-Apr-20 05:23 PM)*
+**Silas** _(22-Apr-20 05:23 PM)_
+
 > Wes: Why am I moving
 
-**Trey** *(22-Apr-20 05:23 PM)*
+**Trey** _(22-Apr-20 05:23 PM)_
 
+_Garrick-Wes walks shakily over to the ship._
 
-*Garrick-Wes walks shakily over to the ship.*
+**Zander** _(22-Apr-20 05:23 PM)_
 
-**Zander** *(22-Apr-20 05:23 PM)*
 > Emmett: Shhh.
 
-**Trey** *(22-Apr-20 05:23 PM)*
+**Trey** _(22-Apr-20 05:23 PM)_
+
 > Garrick: Sorry, I haven't had legs in a while.
 
-**Silas** *(22-Apr-20 05:23 PM)*
+**Silas** _(22-Apr-20 05:23 PM)_
+
 > Wes: What
 
-**Sean** *(22-Apr-20 05:23 PM)*
+**Sean** _(22-Apr-20 05:23 PM)_
+
 > Seth: I need help, we got people we need to get on the ship, aka Emmett and Sanya.
 
-**Bill** *(22-Apr-20 05:23 PM)*
+**Bill** _(22-Apr-20 05:23 PM)_
+
 > Burner: You're both going to stay quiet.
 
-**Zander** *(22-Apr-20 05:23 PM)*
+**Zander** _(22-Apr-20 05:23 PM)_
+
 > Emmett: We're getting put up for ransom.
 
-**Silas** *(22-Apr-20 05:23 PM)*
+**Silas** _(22-Apr-20 05:23 PM)_
+
 > Wes: Why is there a voice inside my head
 
-**Zander** *(22-Apr-20 05:24 PM)*
+**Zander** _(22-Apr-20 05:24 PM)_
+
 > Emmett: And why should I listen to your demands?
 
-**Sean** *(22-Apr-20 05:24 PM)*
+**Sean** _(22-Apr-20 05:24 PM)_
+
 > Seth: Garrick, put him in the hold.
 
-**Brody** *(22-Apr-20 05:24 PM)*
+**Brody** _(22-Apr-20 05:24 PM)_
 
+_D: Hey Ghost, can you tell the Elf to stop dragging us so harshly?_
 
-*D: Hey Ghost, can you tell the Elf to stop dragging us so harshly?*
+**Lili** _(22-Apr-20 05:24 PM)_
 
-**Lili** *(22-Apr-20 05:24 PM)*
 > Iris: Why?
 
-**Trey** *(22-Apr-20 05:24 PM)*
+**Trey** _(22-Apr-20 05:24 PM)_
+
 > Garrick: I'm your conscience. You should go with them.
 
-**Silas** *(22-Apr-20 05:24 PM)*
+**Silas** _(22-Apr-20 05:24 PM)_
+
 > Wes: ...
 
-**Bill** *(22-Apr-20 05:24 PM)*
+**Bill** _(22-Apr-20 05:24 PM)_
+
 > Burner: Diver come here, we need to leave.
 
-**Silas** *(22-Apr-20 05:24 PM)*
+**Silas** _(22-Apr-20 05:24 PM)_
+
 > Wes: I guess I was the instigator..
 
-**Zander** *(22-Apr-20 05:24 PM)*
+**Zander** _(22-Apr-20 05:24 PM)_
+
 > Emmett: You still haven't made clear who you are.
 
-**Trey** *(22-Apr-20 05:24 PM)*
+**Trey** _(22-Apr-20 05:24 PM)_
+
 > Garrick: Hey Seth... the flower says stop dragging them so harshly.
 
-**Zander** *(22-Apr-20 05:24 PM)*
+**Zander** _(22-Apr-20 05:24 PM)_
+
 > Emmett: Other than the fact that one of you is a duck.
 
-**Sean** *(22-Apr-20 05:24 PM)*
+**Sean** _(22-Apr-20 05:24 PM)_
+
 > Seth: I'll try.
 
-**Trey** *(22-Apr-20 05:24 PM)*
+**Trey** _(22-Apr-20 05:24 PM)_
 
+_Garrick-Wes makes it to the ship._
 
-*Garrick-Wes makes it to the ship.*
+**Bill** _(22-Apr-20 05:24 PM)_
 
-**Bill** *(22-Apr-20 05:24 PM)*
 > Burner: And it's best that it stays that way
 
-**Zander** *(22-Apr-20 05:24 PM)*
+**Zander** _(22-Apr-20 05:24 PM)_
+
 > Emmett: Yeah, sure.
 
-**Lili** *(22-Apr-20 05:24 PM)*
+**Lili** _(22-Apr-20 05:24 PM)_
+
 > Iris: I'm not a duck.
 
-**Zander** *(22-Apr-20 05:24 PM)*
+**Zander** _(22-Apr-20 05:24 PM)_
 
+_Emmett's tongue hangs out of his mouth and his mouth begins to foam a little._
 
-*Emmett's tongue hangs out of his mouth and his mouth begins to foam a little.*
+**Trey** _(22-Apr-20 05:24 PM)_
 
-**Trey** *(22-Apr-20 05:24 PM)*
 > Garrick: Seth! Grab him!
 
-**Brody** *(22-Apr-20 05:25 PM)*
+**Brody** _(22-Apr-20 05:25 PM)_
 
+_D: Tell him thank you._
 
-*D: Tell him thank you.*
+**Zander** _(22-Apr-20 05:25 PM)_
 
-**Zander** *(22-Apr-20 05:25 PM)*
 > Emmett: We both know how this ends if you try and sneak off.
 
-**Silas** *(22-Apr-20 05:25 PM)*
+**Silas** _(22-Apr-20 05:25 PM)_
+
 > Wes: Well, I guess I could use a ride, now that my ship is fucked.
 
-**Zander** *(22-Apr-20 05:25 PM)*
+**Zander** _(22-Apr-20 05:25 PM)_
+
 > Emmett: I don't know this crew, but most seem rather batshit.
 
-**Trey** *(22-Apr-20 05:25 PM)*
+**Trey** _(22-Apr-20 05:25 PM)_
+
 > Garrick: Also, flower says thanks.
 
-**Sean** *(22-Apr-20 05:25 PM)*
+**Sean** _(22-Apr-20 05:25 PM)_
 
+_Seth starts kicking Emmett_
 
-*Seth starts kicking Emmett*
+**Sean** _(22-Apr-20 05:25 PM)_
 
-**Sean** *(22-Apr-20 05:25 PM)*
 > Seth: Stop squirming.
 
-**Zander** *(22-Apr-20 05:25 PM)*
+**Zander** _(22-Apr-20 05:25 PM)_
+
 > Emmett: I think it's best you stick with me.
 
-**Bill** *(22-Apr-20 05:25 PM)*
+**Bill** _(22-Apr-20 05:25 PM)_
+
 > Burner: Is that so?
 
-**Lili** *(22-Apr-20 05:25 PM)*
+**Lili** _(22-Apr-20 05:25 PM)_
+
 > Iris: Wow- that's a little rude?
 
-**Jonas** *(22-Apr-20 05:25 PM)*
+**Jonas** _(22-Apr-20 05:25 PM)_
+
 > Chomsky: aight, you guys look like you have the...possessing handled. I'm headin back to my room
 
-**Zander** *(22-Apr-20 05:25 PM)*
+**Zander** _(22-Apr-20 05:25 PM)_
+
 > Emmett: I'm sorry, Cooking Mama.
 
-**Trey** *(22-Apr-20 05:25 PM)*
+**Trey** _(22-Apr-20 05:25 PM)_
+
 > Garrick: I can't hold on for very long, can someone grab this guy??
 
-**Silas** *(22-Apr-20 05:25 PM)*
+**Silas** _(22-Apr-20 05:25 PM)_
+
 > Wes: You guys have any beetles? I'm starving.
 
-**Sean** *(22-Apr-20 05:25 PM)*
+**Sean** _(22-Apr-20 05:25 PM)_
 
+_Seth arrives at the ship and tosses the two into the ship_
 
-*Seth arrives at the ship and tosses the two into the ship*
+**Zander** _(22-Apr-20 05:26 PM)_
 
-**Zander** *(22-Apr-20 05:26 PM)*
 > Emmett: Allow me to extend my more serious apologies.
 
-**Bill** *(22-Apr-20 05:26 PM)*
+**Bill** _(22-Apr-20 05:26 PM)_
+
 > Burner: I disagree. It's best the two of us leave and you two stay here for a minute.
 
-**Silas** *(22-Apr-20 05:26 PM)*
+**Silas** _(22-Apr-20 05:26 PM)_
+
 > Wes: Wait, why is my conscience speaking about me in the third person?
 
-**Sean** *(22-Apr-20 05:26 PM)*
+**Sean** _(22-Apr-20 05:26 PM)_
+
 > Seth: Alright, chums, lets get out of here.
 
-**Zander** *(22-Apr-20 05:26 PM)*
+**Zander** _(22-Apr-20 05:26 PM)_
+
 > Emmett: Well I am going to bring up a counterclaim.
 
-**Trey** *(22-Apr-20 05:26 PM)*
+**Trey** _(22-Apr-20 05:26 PM)_
+
 > Garrick: Don't worry about it...
 
-**Zander** *(22-Apr-20 05:26 PM)*
+**Zander** _(22-Apr-20 05:26 PM)_
+
 > Emmett: You'd rather a former GSS on your side than against you.
 
-**Trey** *(22-Apr-20 05:26 PM)*
+**Trey** _(22-Apr-20 05:26 PM)_
+
 > Garrick: Oooooo....
 
-**Zander** *(22-Apr-20 05:26 PM)*
+**Zander** _(22-Apr-20 05:26 PM)_
+
 > Emmett: Trust me.
 
-**Bill** *(22-Apr-20 05:26 PM)*
+**Bill** _(22-Apr-20 05:26 PM)_
 
+_Low growling is heard from the corner with the small green light_
 
-*Low growling is heard from the corner with the small green light*
+**Trey** _(22-Apr-20 05:26 PM)_
 
-**Trey** *(22-Apr-20 05:26 PM)*
+_Garrick splits from Wes and knocks him out._
 
+**Lili** _(22-Apr-20 05:26 PM)_
 
-*Garrick splits from Wes and knocks him out.*
-
-**Lili** *(22-Apr-20 05:26 PM)*
 > Iris: I only bake when I'm stressed.
 
-**Brody** *(22-Apr-20 05:27 PM)*
+**Brody** _(22-Apr-20 05:27 PM)_
 
+_D: Tell the lizard that i admire his fighting spirit._
 
-*D: Tell the lizard that i admire his fighting spirit.*
+**Zander** _(22-Apr-20 05:27 PM)_
 
-**Zander** *(22-Apr-20 05:27 PM)*
 > Emmett: Seth, you had the voltage way to high!
 
-*Emmett's voice was almost incomprehensible.*
+_Emmett's voice was almost incomprehensible._
 
-**Silas** *(22-Apr-20 05:27 PM)*
+**Silas** _(22-Apr-20 05:27 PM)_
+
 > Wes: Could you guys take me to my personal mechanic? I need to get a new S-
 
-**Lili** *(22-Apr-20 05:27 PM)*
+**Lili** _(22-Apr-20 05:27 PM)_
+
 > Iris: Ookay, creepy noise- getting a little stressed now.
 
-**Sean** *(22-Apr-20 05:27 PM)*
+**Sean** _(22-Apr-20 05:27 PM)_
+
 > Seth: What?
 
-**Zander** *(22-Apr-20 05:27 PM)*
+**Zander** _(22-Apr-20 05:27 PM)_
+
 > Emmett: Your will is weak.
 
-**Silas** *(22-Apr-20 05:27 PM)*
+**Silas** _(22-Apr-20 05:27 PM)_
+
 > Wes: I'm...ti..red..
 
-**Jonas** *(22-Apr-20 05:27 PM)*
+**Jonas** _(22-Apr-20 05:27 PM)_
 not gay
 
-**Lili** *(22-Apr-20 05:27 PM)*
+**Lili** _(22-Apr-20 05:27 PM)_
+
 > Iris: Yeah it is, what of it?
 
-**Sean** *(22-Apr-20 05:27 PM)*
+**Sean** _(22-Apr-20 05:27 PM)_
 
+_Seth starts up the auto-pilot_
 
-*Seth starts up the auto-pilot*
+**Silas** _(22-Apr-20 05:27 PM)_
 
-**Silas** *(22-Apr-20 05:27 PM)*
+_Wes collapses on one of the couches, taking up the whole thing._
 
+**Zander** _(22-Apr-20 05:27 PM)_
 
-*Wes collapses on one of the couches, taking up the whole thing.*
-
-**Zander** *(22-Apr-20 05:27 PM)*
 > Emmett: That's the main difference between you and I.
 
-**Sean** *(22-Apr-20 05:27 PM)*
+**Sean** _(22-Apr-20 05:27 PM)_
+
 > Seth: Alright, we're leaving.
 
-**Bill** *(22-Apr-20 05:27 PM)*
+**Bill** _(22-Apr-20 05:27 PM)_
 
+_a quack responds from by the door_
 
-*a quack responds from by the door*
+**Sean** _(22-Apr-20 05:28 PM)_
 
-**Sean** *(22-Apr-20 05:28 PM)*
 > Seth: Hope you guys had everything.
 
-**Lili** *(22-Apr-20 05:28 PM)*
+**Lili** _(22-Apr-20 05:28 PM)_
+
 > Iris: Blueberry!
 
-**Lili** *(22-Apr-20 05:28 PM)*
+**Lili** _(22-Apr-20 05:28 PM)_
 
+_Iris heads towards the quack._
 
-*Iris heads towards the quack.*
+**Brody** _(22-Apr-20 05:28 PM)_
 
-**Brody** *(22-Apr-20 05:28 PM)*
+_D: Well, this is interesting. I do want to try something, though..._
 
+**Zander** _(22-Apr-20 05:28 PM)_
 
-*D: Well, this is interesting. I do want to try something, though...*
-
-**Zander** *(22-Apr-20 05:28 PM)*
 > Emmett: I don't believe for a shred that's its name.
 
-**Bill** *(22-Apr-20 05:28 PM)*
+**Bill** _(22-Apr-20 05:28 PM)_
 8ball is Emmett unstunned?
 
-**FFBot** *(22-Apr-20 05:28 PM)*
+**FFBot** _(22-Apr-20 05:28 PM)_
 My sources say no.
 
-**Trey** *(22-Apr-20 05:28 PM)*
+**Trey** _(22-Apr-20 05:28 PM)_
+
 > Garrick: Hey flower.
 
-**Lili** *(22-Apr-20 05:29 PM)*
+**Lili** _(22-Apr-20 05:29 PM)_
+
 > Iris: Well what do you want me to do, ask the duck?
 
-**Zander** *(22-Apr-20 05:29 PM)*
+**Zander** _(22-Apr-20 05:29 PM)_
+
 > Emmett: Yes.
 
-**Brody** *(22-Apr-20 05:29 PM)*
+**Brody** _(22-Apr-20 05:29 PM)_
 8ball Does Dread possess Sanya's stunned body?
 
-**FFBot** *(22-Apr-20 05:29 PM)*
+**FFBot** _(22-Apr-20 05:29 PM)_
 No.
 
-**Zander** *(22-Apr-20 05:29 PM)*
+**Zander** _(22-Apr-20 05:29 PM)_
+
 > Emmett: It talks.
 
-**Bill** *(22-Apr-20 05:29 PM)*
+**Bill** _(22-Apr-20 05:29 PM)_
 
+_the growling continues_
 
-*the growling continues*
+**Sean** _(22-Apr-20 05:29 PM)_
 
-**Sean** *(22-Apr-20 05:29 PM)*
 > Seth: HEY, we're launching.
 
-**Trey** *(22-Apr-20 05:29 PM)*
+**Trey** _(22-Apr-20 05:29 PM)_
+
 > Garrick: If I ate you, would I inherit dread fear power?
 
-**Sean** *(22-Apr-20 05:29 PM)*
+**Sean** _(22-Apr-20 05:29 PM)_
+
 > Seth: Steel yourselves.
 
-**Lili** *(22-Apr-20 05:29 PM)*
+**Lili** _(22-Apr-20 05:29 PM)_
+
 > Iris: Well how was I supposed to know that exactly?
 
-**Bill** *(22-Apr-20 05:29 PM)*
+**Bill** _(22-Apr-20 05:29 PM)_
+
 > Burner: It's Diver his name is diver
 
-**Brody** *(22-Apr-20 05:29 PM)*
+**Brody** _(22-Apr-20 05:29 PM)_
 
+_D: No._
 
-*D: No.*
+**Trey** _(22-Apr-20 05:29 PM)_
 
-**Trey** *(22-Apr-20 05:29 PM)*
 > Garrick: What if I stuck you in my pocket?
 
-**Zander** *(22-Apr-20 05:29 PM)*
+**Zander** _(22-Apr-20 05:29 PM)_
+
 > Emmett: You've yet to tell me yours.
 
-**Lili** *(22-Apr-20 05:30 PM)*
+**Lili** _(22-Apr-20 05:30 PM)_
+
 > Iris: Okay.
 
-**Zander** *(22-Apr-20 05:30 PM)*
+**Zander** _(22-Apr-20 05:30 PM)_
+
 > Emmett: I feel like we're on a First-Name basis by now.
 
-**Brody** *(22-Apr-20 05:30 PM)*
+**Brody** _(22-Apr-20 05:30 PM)_
 
+_D: You'd have to put Sanya in your pocket, too._
 
-*D: You'd have to put Sanya in your pocket, too.*
+**Lili** _(22-Apr-20 05:30 PM)_
 
-**Lili** *(22-Apr-20 05:30 PM)*
+_Iris walks over, hoping to pick up Diver._
 
+**Bill** _(22-Apr-20 05:30 PM)_
 
-*Iris walks over, hoping to pick up Diver.*
-
-**Bill** *(22-Apr-20 05:30 PM)*
 > Burner: Mine doesn't matter, however diver seems to stay. what did you do?
 
-**Zander** *(22-Apr-20 05:30 PM)*
+**Zander** _(22-Apr-20 05:30 PM)_
+
 > Emmett: Would you leave the duck the fuck alone?
 
-**Brody** *(22-Apr-20 05:30 PM)*
+**Brody** _(22-Apr-20 05:30 PM)_
 
+_D: What if i ate you? What would that do?_
 
-*D: What if i ate you? What would that do?*
+**Zander** _(22-Apr-20 05:30 PM)_
 
-**Zander** *(22-Apr-20 05:30 PM)*
 > Emmett: I beg your pardon?
 
-**Lili** *(22-Apr-20 05:30 PM)*
+**Lili** _(22-Apr-20 05:30 PM)_
+
 > Iris: Would you fuck off?
 
-**Trey** *(22-Apr-20 05:31 PM)*
+**Trey** _(22-Apr-20 05:31 PM)_
+
 > Garrick: How would you manage that?
 
-**Zander** *(22-Apr-20 05:31 PM)*
+**Zander** _(22-Apr-20 05:31 PM)_
 
+_Emmett finally stopped squirming._
 
-*Emmett finally stopped squirming.*
+**Trey** _(22-Apr-20 05:31 PM)_
 
-**Trey** *(22-Apr-20 05:31 PM)*
 > Garrick: But hey, I can put Sanya in my pocket.
 
-**Lili** *(22-Apr-20 05:31 PM)*
+**Lili** _(22-Apr-20 05:31 PM)_
+
 > Iris: I dunno, he just came out of a croissant I baked and he seemed to like me.
 
-**Brody** *(22-Apr-20 05:31 PM)*
+**Brody** _(22-Apr-20 05:31 PM)_
 
+_The flower opens its eye-mouth_
 
-*The flower opens its eye-mouth*
+**Sean** _(22-Apr-20 05:31 PM)_
 
-**Sean** *(22-Apr-20 05:31 PM)*
 > Seth: Oh good we can launch.
 
-**Brody** *(22-Apr-20 05:32 PM)*
+**Brody** _(22-Apr-20 05:32 PM)_
 
+_D: Like this._
 
-*D: Like this.*
+**Zander** _(22-Apr-20 05:32 PM)_
 
-**Zander** *(22-Apr-20 05:32 PM)*
 > Emmett: Can you not stun me?
 
-*Emmett's voice was getting more understandable.*
+_Emmett's voice was getting more understandable._
 
-**Trey** *(22-Apr-20 05:32 PM)*
+**Trey** _(22-Apr-20 05:32 PM)_
+
 > Garrick: Does that imply that you, in your physical form, can interact with spectres?
 
-**Trey** *(22-Apr-20 05:32 PM)*
+**Trey** _(22-Apr-20 05:32 PM)_
+
 > Garrick: That's wack.
 
-**Sean** *(22-Apr-20 05:32 PM)*
+**Sean** _(22-Apr-20 05:32 PM)_
+
 > Seth: You were a bit too hostile
 
-**Bill** *(22-Apr-20 05:32 PM)*
+**Bill** _(22-Apr-20 05:32 PM)_
+
 > Burner: Of course it was bread involved. that's low.
 
-**Sean** *(22-Apr-20 05:32 PM)*
+**Sean** _(22-Apr-20 05:32 PM)_
+
 > Seth: I just solved that.
 
-**Brody** *(22-Apr-20 05:32 PM)*
+**Brody** _(22-Apr-20 05:32 PM)_
 
+_D: I was a god._
 
-*D: I was a god.*
+**Sean** _(22-Apr-20 05:32 PM)_
 
-**Sean** *(22-Apr-20 05:32 PM)*
 > Seth: Plus you forgot my smokes
 
-**Trey** *(22-Apr-20 05:32 PM)*
+**Trey** _(22-Apr-20 05:32 PM)_
+
 > Garrick: Keyword: was. You're a flower now.
 
-**Lili** *(22-Apr-20 05:32 PM)*
+**Lili** _(22-Apr-20 05:32 PM)_
 8ball does Iris pick up Diver?
 
-**FFBot** *(22-Apr-20 05:32 PM)*
+**FFBot** _(22-Apr-20 05:32 PM)_
 Flip a coin with 8coin. Heads is yes, tails is no.
 
-**Trey** *(22-Apr-20 05:32 PM)*
+**Trey** _(22-Apr-20 05:32 PM)_
+
 > Garrick: Bound to a Floran.
 
-**Lili** *(22-Apr-20 05:33 PM)*
+**Lili** _(22-Apr-20 05:33 PM)_
 8coin
 
-**FFBot** *(22-Apr-20 05:33 PM)*
+**FFBot** _(22-Apr-20 05:33 PM)_
 Heads.
 
-**Brody** *(22-Apr-20 05:33 PM)*
+**Brody** _(22-Apr-20 05:33 PM)_
 
+_D: and you don't have legs, what about it?_
 
-*D: and you don't have legs, what about it?*
+**Lili** _(22-Apr-20 05:33 PM)_
 
-**Lili** *(22-Apr-20 05:33 PM)*
+_Iris is holding Diver now._
 
+**Bill** _(22-Apr-20 05:33 PM)_
 
-*Iris is holding Diver now.*
+_Diver quacks unhappily_
 
-**Bill** *(22-Apr-20 05:33 PM)*
+**Trey** _(22-Apr-20 05:33 PM)_
 
-
-*Diver quacks unhappily*
-
-**Trey** *(22-Apr-20 05:33 PM)*
 > Garrick: Movement is easier without legs.
 
-**Zander** *(22-Apr-20 05:33 PM)*
+**Zander** _(22-Apr-20 05:33 PM)_
+
 > Emmett: I do not associate with her.
 
-**Bill** *(22-Apr-20 05:33 PM)*
+**Bill** _(22-Apr-20 05:33 PM)_
+
 > Burner: Drop him. I'm not asking nicely
 
-**Lili** *(22-Apr-20 05:34 PM)*
+**Lili** _(22-Apr-20 05:34 PM)_
 
+_Noting his displeasure, Iris puts him down._
 
-*Noting his displeasure, Iris puts him down.*
-
-**Zander** *(22-Apr-20 05:34 PM)*
+**Zander** _(22-Apr-20 05:34 PM)_
 8ball do I find a secret light switch and flood the room with light?
 
-**FFBot** *(22-Apr-20 05:34 PM)*
+**FFBot** _(22-Apr-20 05:34 PM)_
 Yes, definitely.
 
-**Lili** *(22-Apr-20 05:34 PM)*
+**Lili** _(22-Apr-20 05:34 PM)_
+
 > Iris: I'm not an asshole, I won't hold him if he doesn't want me to.
 
-**Zander** *(22-Apr-20 05:34 PM)*
+**Zander** _(22-Apr-20 05:34 PM)_
+
 > Emmett: Aha!
 
-**Zander** *(22-Apr-20 05:34 PM)*
+**Zander** _(22-Apr-20 05:34 PM)_
+
 > Emmett: So you're both ducks, apparently.
 
-**Rashidi** *(22-Apr-20 05:35 PM)*
+**Rashidi** _(22-Apr-20 05:35 PM)_
 8ball Does Dakari search through his new couch and find ducketts?
 
-**FFBot** *(22-Apr-20 05:35 PM)*
+**FFBot** _(22-Apr-20 05:35 PM)_
 I think so.
 
-**Bill** *(22-Apr-20 05:35 PM)*
+**Bill** _(22-Apr-20 05:35 PM)_
+
 > Burner: Finally. I was wondering how long it would take one of you to think of a light switch
 
-**Trey** *(22-Apr-20 05:35 PM)*
+**Trey** _(22-Apr-20 05:35 PM)_
 
+_Garrick reclines on one of the new couches._
 
-*Garrick reclines on one of the new couches.*
+**Zander** _(22-Apr-20 05:35 PM)_
 
-**Zander** *(22-Apr-20 05:35 PM)*
 > Emmett: Sorry, I was trying to do the talking.
 
-**Lili** *(22-Apr-20 05:35 PM)*
+**Lili** _(22-Apr-20 05:35 PM)_
 
+_Iris glares at Mateo. Her impression of him thus far is that he's a jerk._
 
-*Iris glares at Mateo. Her impression of him thus far is that he's a jerk.*
+**Trey** _(22-Apr-20 05:35 PM)_
 
-**Trey** *(22-Apr-20 05:35 PM)*
 > Garrick: At least we have somewhere for the new guy to sleep.
 
-**Sean** *(22-Apr-20 05:35 PM)*
+**Sean** _(22-Apr-20 05:35 PM)_
 8ball Does Seth and Emmett launch the ship?
 
-**FFBot** *(22-Apr-20 05:35 PM)*
+**FFBot** _(22-Apr-20 05:35 PM)_
 The person who went before you can decide.
 
-**Zander** *(22-Apr-20 05:35 PM)*
+**Zander** _(22-Apr-20 05:35 PM)_
+
 > Emmett: Don't look at me like that.
 
-**Rashidi** *(22-Apr-20 05:36 PM)*
+**Rashidi** _(22-Apr-20 05:36 PM)_
 Yes
 
-**Lili** *(22-Apr-20 05:36 PM)*
+**Lili** _(22-Apr-20 05:36 PM)_
+
 > Iris: I won't glare if you don't insult me.
 
-**Brody** *(22-Apr-20 05:36 PM)*
+**Brody** _(22-Apr-20 05:36 PM)_
 
+_D: Can someone move Sanya to her room? The floor is cold._
 
-*D: Can someone move Sanya to her room? The floor is cold.*
+**Zander** _(22-Apr-20 05:36 PM)_
 
-**Zander** *(22-Apr-20 05:36 PM)*
 > Emmett: That's what you get for stunning me.
 
-**Sean** *(22-Apr-20 05:36 PM)*
+**Sean** _(22-Apr-20 05:36 PM)_
+
 > Seth: Asshole
 
-**Zander** *(22-Apr-20 05:36 PM)*
+**Zander** _(22-Apr-20 05:36 PM)_
+
 > Emmett: You're making it difficult not to.
 
-**Bill** *(22-Apr-20 05:36 PM)*
+**Bill** _(22-Apr-20 05:36 PM)_
 
+_Burner, knowing the gig is up, grabs Diver's vest with her beak and drags him out the door_
 
-*Burner, knowing the gig is up, grabs Diver's vest with her beak and drags him out the door*
+**Zander** _(22-Apr-20 05:37 PM)_
 
-**Zander** *(22-Apr-20 05:37 PM)*
 > Emmett: Excuse me, where do you think you're going?
 
-**Rashidi** *(22-Apr-20 05:37 PM)*
+**Rashidi** _(22-Apr-20 05:37 PM)_
 t!choose 100 ducketts | 1,000 ducketts | 10,000 ducketts
 
-**FFBot** *(22-Apr-20 05:37 PM)*
+**FFBot** _(22-Apr-20 05:37 PM)_
 🤔 | Platinum_Pathos, I pick 10,000 ducketts
 
-**Zander** *(22-Apr-20 05:37 PM)*
+**Zander** _(22-Apr-20 05:37 PM)_
 
+_Emmett rubs his nipples mockingly, given that he hasn't had a shirt on the whole time._
 
-*Emmett rubs his nipples mockingly, given that he hasn't had a shirt on the whole time.*
+**Silas** _(22-Apr-20 05:37 PM)_
 
-**Silas** *(22-Apr-20 05:37 PM)*
+_Wes begins to snore and talk in his sleep._
 
-
-*Wes begins to snore and talk in his sleep.*
 > Wes: ....I'm the greatest.....
 
-**Sean** *(22-Apr-20 05:37 PM)*
+**Sean** _(22-Apr-20 05:37 PM)_
+
 > Seth: Fag.
 
-**Rashidi** *(22-Apr-20 05:37 PM)*
+**Rashidi** _(22-Apr-20 05:37 PM)_
+
 > Dakari: Awesome, time to stash this.
 
-**Lili** *(22-Apr-20 05:37 PM)*
+**Lili** _(22-Apr-20 05:37 PM)_
 
+_Iris exits the storage room, not seeing a reason to be present within it anymore._
 
-*Iris exits the storage room, not seeing a reason to be present within it anymore.*
+**Bill** _(22-Apr-20 05:37 PM)_
 
-**Bill** *(22-Apr-20 05:37 PM)*
 > Burner: Off this ship. we can't stay here now.
 
-**Lili** *(22-Apr-20 05:37 PM)*
+**Lili** _(22-Apr-20 05:37 PM)_
+
 > Iris: Huh? Why not?
 
-**Zander** *(22-Apr-20 05:37 PM)*
+**Zander** _(22-Apr-20 05:37 PM)_
+
 > Emmett: I don't think you have a choice.
 
-**Brody** *(22-Apr-20 05:38 PM)*
+**Brody** _(22-Apr-20 05:38 PM)_
 
+_D: I deserve to be treated better than this._
 
-*D: I deserve to be treated better than this.*
-
-**Zander** *(22-Apr-20 05:38 PM)*
+**Zander** _(22-Apr-20 05:38 PM)_
 8ball Does Emmett get into the living room, noticing the couch?
 
-**FFBot** *(22-Apr-20 05:38 PM)*
+**FFBot** _(22-Apr-20 05:38 PM)_
 Group vote. Vote in the order from first player down to last. Minority opinion wins. No changing answers.
 
-**Bill** *(22-Apr-20 05:38 PM)*
+**Bill** _(22-Apr-20 05:38 PM)_
+
 > Burner: Wait, did it launch already?
 
-**Zander** *(22-Apr-20 05:38 PM)*
+**Zander** _(22-Apr-20 05:38 PM)_
+
 > Emmett: Um, yes.
 
-**Trey** *(22-Apr-20 05:38 PM)*
+**Trey** _(22-Apr-20 05:38 PM)_
 8ball does Garrick fit all of Sanya in his pockets?
 
-**FFBot** *(22-Apr-20 05:38 PM)*
+**FFBot** _(22-Apr-20 05:38 PM)_
 As I see it, yes.
 
-**Zander** *(22-Apr-20 05:38 PM)*
+**Zander** _(22-Apr-20 05:38 PM)_
+
 > Emmett: You got a new couch, Dakari?
 
-**Trey** *(22-Apr-20 05:38 PM)*
+**Trey** _(22-Apr-20 05:38 PM)_
+
 > Garrick: Here you go.
 
-**Rashidi** *(22-Apr-20 05:38 PM)*
+**Rashidi** _(22-Apr-20 05:38 PM)_
+
 > Dakari: Yea, someone had to.
 
-**Trey** *(22-Apr-20 05:38 PM)*
+**Trey** _(22-Apr-20 05:38 PM)_
 
+_Garrick enters Sanya's room through the wall._
 
-*Garrick enters Sanya's room through the wall.*
+**Sean** _(22-Apr-20 05:39 PM)_
 
-**Sean** *(22-Apr-20 05:39 PM)*
 > Seth: I'll be in my room if you need me.
 
-**Zander** *(22-Apr-20 05:39 PM)*
+**Zander** _(22-Apr-20 05:39 PM)_
+
 > Emmett: But it looks like it can only fit you.
 
-**Bill** *(22-Apr-20 05:39 PM)*
+**Bill** _(22-Apr-20 05:39 PM)_
 
+_The second duck begins cursing and thrashing in the middle of the hall_
 
-*The second duck begins cursing and thrashing in the middle of the hall*
+**Brody** _(22-Apr-20 05:39 PM)_
 
-**Brody** *(22-Apr-20 05:39 PM)*
+_D: Oh, you bitch. When she wakes up, she will be so pissed._
 
+**Trey** _(22-Apr-20 05:39 PM)_
 
-*D: Oh, you bitch. When she wakes up, she will be so pissed.*
-
-**Trey** *(22-Apr-20 05:39 PM)*
 > Garrick: What's it like in there?
 
-**Brody** *(22-Apr-20 05:39 PM)*
+**Brody** _(22-Apr-20 05:39 PM)_
 
+_D: Fuck you._
 
-*D: Fuck you.*
+**Zander** _(22-Apr-20 05:39 PM)_
 
-**Zander** *(22-Apr-20 05:39 PM)*
 > Emmett: Doesn't help to throw a fit.
 
-**Lili** *(22-Apr-20 05:39 PM)*
+**Lili** _(22-Apr-20 05:39 PM)_
 
+_Iris blinks._
 
-*Iris blinks.*
+**Rashidi** _(22-Apr-20 05:39 PM)_
 
-**Rashidi** *(22-Apr-20 05:39 PM)*
 > Dakari: Well, I suppose it could also be used as a chair for the rest of you.
 
-**Zander** *(22-Apr-20 05:39 PM)*
+**Zander** _(22-Apr-20 05:39 PM)_
 
+_Emmett holds out his hand in an attempt to trip whomever is causing all of the ruckus (The second duck)_
 
-*Emmett holds out his hand in an attempt to trip whomever is causing all of the ruckus (The second duck)*
+**Lili** _(22-Apr-20 05:39 PM)_
 
-**Lili** *(22-Apr-20 05:39 PM)*
 > Iris: Are you... okay?
 
-**Zander** *(22-Apr-20 05:40 PM)*
+**Zander** _(22-Apr-20 05:40 PM)_
 (Given that it's a duck, the duck would be scooped up instead of tripped.)
 
-**Brody** *(22-Apr-20 05:40 PM)*
+**Brody** _(22-Apr-20 05:40 PM)_
 
+_D: Wait a minute... i have an idea..._
 
-*D: Wait a minute... i have an idea...*
+**Trey** _(22-Apr-20 05:40 PM)_
 
-**Trey** *(22-Apr-20 05:40 PM)*
+_Garrick reaches his hand in his pocket, trying to grab Sanya._
 
+**Bill** _(22-Apr-20 05:40 PM)_
 
-*Garrick reaches his hand in his pocket, trying to grab Sanya.*
+_The second duck brings Diver back onto the nest he made_
 
-**Bill** *(22-Apr-20 05:40 PM)*
-
-
-*The second duck brings Diver back onto the nest he made*
-
-**Trey** *(22-Apr-20 05:40 PM)*
+**Trey** _(22-Apr-20 05:40 PM)_
 t!choose sanya | chomsky's old journal | croissant | a different flower
 
-**FFBot** *(22-Apr-20 05:40 PM)*
+**FFBot** _(22-Apr-20 05:40 PM)_
 🤔 | [RP]retribution, I pick sanya
 
-**Trey** *(22-Apr-20 05:41 PM)*
+**Trey** _(22-Apr-20 05:41 PM)_
+
 > Garrick: There we are.
 
-**Trey** *(22-Apr-20 05:41 PM)*
+**Trey** _(22-Apr-20 05:41 PM)_
 
+_Garrick drops Sanya on her bed._
 
-*Garrick drops Sanya on her bed.*
+**Brody** _(22-Apr-20 05:41 PM)_
 
-**Brody** *(22-Apr-20 05:41 PM)*
+_D: Wait, stay here a second._
 
+**Trey** _(22-Apr-20 05:41 PM)_
 
-*D: Wait, stay here a second.*
-
-**Trey** *(22-Apr-20 05:41 PM)*
 > Garrick: That sounds threatening.
 
-**Bill** *(22-Apr-20 05:41 PM)*
+**Bill** _(22-Apr-20 05:41 PM)_
 8ball do the ducks successfully retreat to the storage room?
 
-**FFBot** *(22-Apr-20 05:41 PM)*
+**FFBot** _(22-Apr-20 05:41 PM)_
 You may rely on it.
 
-**Brody** *(22-Apr-20 05:41 PM)*
+**Brody** _(22-Apr-20 05:41 PM)_
 
+_D: I have an idea_
 
-*D: I have an idea*
+**Rashidi** _(22-Apr-20 05:41 PM)_
 
-**Rashidi** *(22-Apr-20 05:41 PM)*
 > Dakari: So, are some of us stuck living out here in the living room for a while Emmett?
 
-**Brody** *(22-Apr-20 05:42 PM)*
+**Brody** _(22-Apr-20 05:42 PM)_
 8ball Are Dread's and Garrick's pocket dimensions connected?
 
-**FFBot** *(22-Apr-20 05:42 PM)*
+**FFBot** _(22-Apr-20 05:42 PM)_
 As I see it, yes.
 
-**Zander** *(22-Apr-20 05:42 PM)*
+**Zander** _(22-Apr-20 05:42 PM)_
+
 > Emmett: Huh. And yeah... Well, we're going to have to share rooms while we get the expansion made.
 
-**Brody** *(22-Apr-20 05:42 PM)*
+**Brody** _(22-Apr-20 05:42 PM)_
 
+_D:Huh._
 
-*D:Huh.*
+**Trey** _(22-Apr-20 05:42 PM)_
 
-**Trey** *(22-Apr-20 05:42 PM)*
 > Garrick: I sense a disturbance.
 
-**Lili** *(22-Apr-20 05:42 PM)*
+**Lili** _(22-Apr-20 05:42 PM)_
 
+_Iris pokes her head into the storage room._
 
-*Iris pokes her head into the storage room.*
 > Iris: Hey, what do you two want for dinner?
 
-**Zander** *(22-Apr-20 05:42 PM)*
+**Zander** _(22-Apr-20 05:42 PM)_
 
+_Emmett tapped into the intercom through his comms._
 
-*Emmett tapped into the intercom through his comms.*
 > Emmett: HEY. WE NEED TO SETTLE ROOM SHARING.
 
-**Trey** *(22-Apr-20 05:43 PM)*
+**Trey** _(22-Apr-20 05:43 PM)_
+
 > Garrick: I'm locking that door from my side...
 
-**Brody** *(22-Apr-20 05:43 PM)*
+**Brody** _(22-Apr-20 05:43 PM)_
 
+_D: Hey, put something in my mouth and try to pull it out from your belt._
 
-*D: Hey, put something in my mouth and try to pull it out from your belt.*
-
-**FFBot** *(22-Apr-20 05:43 PM)*
+**FFBot** _(22-Apr-20 05:43 PM)_
 Better not tell you now.
 
-**Bill** *(22-Apr-20 05:43 PM)*
+**Bill** _(22-Apr-20 05:43 PM)_
 
+_Diver quacks happily from the center of his makeshift nest_
 
-*Diver quacks happily from the center of his makeshift nest*
+**Brody** _(22-Apr-20 05:43 PM)_
 
-**Brody** *(22-Apr-20 05:43 PM)*
+_D: C'mon, try it._
 
+**Sean** _(22-Apr-20 05:43 PM)_
 
-*D: C'mon, try it.*
-
-**Sean** *(22-Apr-20 05:43 PM)*
 > Seth: You know the rules Emmett, I get my own room.
 
-**Sean** *(22-Apr-20 05:43 PM)*
+**Sean** _(22-Apr-20 05:43 PM)_
 8ball Is Seth's Magic Satchel Connected with Dread's and Garrick's, but are they separated by a border control?
 
-**FFBot** *(22-Apr-20 05:43 PM)*
+**FFBot** _(22-Apr-20 05:43 PM)_
 Cannot predict now.
 
-**Sean** *(22-Apr-20 05:43 PM)*
+**Sean** _(22-Apr-20 05:43 PM)_
 8ball Is Seth's Magic Satchel Connected with Dread's and Garrick's, but are they separated by a border control?
 
-**FFBot** *(22-Apr-20 05:43 PM)*
+**FFBot** _(22-Apr-20 05:43 PM)_
 As I see it, yes.
 
-**Trey** *(22-Apr-20 05:44 PM)*
+**Trey** _(22-Apr-20 05:44 PM)_
 
+_Garrick locks the door from his side._
 
-*Garrick locks the door from his side.*
+**Bill** _(22-Apr-20 05:44 PM)_
 
-**Bill** *(22-Apr-20 05:44 PM)*
 > Burner: We have our own dinner
 
-*The second duck points to the nest where cinnamon sticks and bread strands are woven in*
+_The second duck points to the nest where cinnamon sticks and bread strands are woven in_
 
-**Zander** *(22-Apr-20 05:44 PM)*
+**Zander** _(22-Apr-20 05:44 PM)_
+
 > Emmett: I'm going to tell them you're here.
 
-**Trey** *(22-Apr-20 05:44 PM)*
+**Trey** _(22-Apr-20 05:44 PM)_
+
 > Garrick: Problem solved.
 
-**Zander** *(22-Apr-20 05:44 PM)*
+**Zander** _(22-Apr-20 05:44 PM)_
+
 > Emmett: Don't live in secrecy.
 
-**Bill** *(22-Apr-20 05:44 PM)*
+**Bill** _(22-Apr-20 05:44 PM)_
+
 > Burner: It would be better if you don't
 
-**Lili** *(22-Apr-20 05:44 PM)*
+**Lili** _(22-Apr-20 05:44 PM)_
 
+_Iris nods, turning to Mateo._
 
-*Iris nods, turning to Mateo.*
 > Iris: You?
 
-**Zander** *(22-Apr-20 05:45 PM)*
+**Zander** _(22-Apr-20 05:45 PM)_
+
 > Emmett: Alright, so we have five rooms...
 > Emmett: If worst comes to worst, I've got your back.
 > Emmett: I'll say Garrick and Chomsky are together...
 > Emmett: Sanya and Iris?
 
-**Lili** *(22-Apr-20 05:45 PM)*
+**Lili** _(22-Apr-20 05:45 PM)_
 
+_Iris speaks into the comms._
 
-*Iris speaks into the comms.*
 > Iris: Hey Sanya can I room with you?
 
-**Zander** *(22-Apr-20 05:45 PM)*
+**Zander** _(22-Apr-20 05:45 PM)_
+
 > Emmett: And then Dakari and I are together.
 
-**Brody** *(22-Apr-20 05:45 PM)*
+**Brody** _(22-Apr-20 05:45 PM)_
 
+_D: Ghost, tell her Sanya's still out._
 
-*D: Ghost, tell her Sanya's still out.*
+**Trey** _(22-Apr-20 05:45 PM)_
 
-**Trey** *(22-Apr-20 05:45 PM)*
 > Garrick: IRIS.
 
-**Bill** *(22-Apr-20 05:45 PM)*
+**Bill** _(22-Apr-20 05:45 PM)_
+
 > Burner: Thanks shifter. But I think we'll be fine
 
-**Lili** *(22-Apr-20 05:46 PM)*
+**Lili** _(22-Apr-20 05:46 PM)_
+
 > Iris: Yelllo?
 
-**Zander** *(22-Apr-20 05:46 PM)*
+**Zander** _(22-Apr-20 05:46 PM)_
+
 > Emmett: Um, how did you know?
 
-**Trey** *(22-Apr-20 05:46 PM)*
+**Trey** _(22-Apr-20 05:46 PM)_
+
 > Garrick: Dreadflower says you suck and Sanya hates you.
 
-**Zander** *(22-Apr-20 05:46 PM)*
+**Zander** _(22-Apr-20 05:46 PM)_
+
 > Emmett: Now, if you excuse me, I got a ruckus to make.
 
-**Lili** *(22-Apr-20 05:46 PM)*
+**Lili** _(22-Apr-20 05:46 PM)_
+
 > Iris: :(
 
-**Sean** *(22-Apr-20 05:46 PM)*
+**Sean** _(22-Apr-20 05:46 PM)_
 
+_Seth falls asleep_
 
-*Seth falls asleep*
+**Rashidi** _(22-Apr-20 05:46 PM)_
 
-**Rashidi** *(22-Apr-20 05:46 PM)*
 > Dakari: Go on ahead.
 
-**Zander** *(22-Apr-20 05:46 PM)*
+**Zander** _(22-Apr-20 05:46 PM)_
 8ball Does Emmett run into Sanya's room and hop atop of her?
 
-**FFBot** *(22-Apr-20 05:46 PM)*
+**FFBot** _(22-Apr-20 05:46 PM)_
 No. In fact, the opposite happens.
 
-**Brody** *(22-Apr-20 05:46 PM)*
+**Brody** _(22-Apr-20 05:46 PM)_
 
+_D: why does anyone like you, ghost?_
 
-*D: why does anyone like you, ghost?*
+**Lili** _(22-Apr-20 05:46 PM)_
 
-**Lili** *(22-Apr-20 05:46 PM)*
+_Iris makes a sad noise._
 
+**Trey** _(22-Apr-20 05:46 PM)_
 
-*Iris makes a sad noise.*
-
-**Trey** *(22-Apr-20 05:46 PM)*
 > Garrick: I'm not your little messenger ghost.
 
-**Zander** *(22-Apr-20 05:46 PM)*
+**Zander** _(22-Apr-20 05:46 PM)_
+
 > Emmett: WAKE UP.
 
-**Trey** *(22-Apr-20 05:46 PM)*
+**Trey** _(22-Apr-20 05:46 PM)_
+
 > Garrick: Get Sanya to do your bidding.
 
-**Brody** *(22-Apr-20 05:46 PM)*
+**Brody** _(22-Apr-20 05:46 PM)_
+
 > Sanya: eugh
 
-**Zander** *(22-Apr-20 05:46 PM)*
+**Zander** _(22-Apr-20 05:46 PM)_
+
 > Emmett: PLANT.
 
-**Brody** *(22-Apr-20 05:46 PM)*
+**Brody** _(22-Apr-20 05:46 PM)_
+
 > Sanya: What?
 
-**Trey** *(22-Apr-20 05:47 PM)*
+**Trey** _(22-Apr-20 05:47 PM)_
+
 > Garrick: Rise and shine.
 
-**Lili** *(22-Apr-20 05:47 PM)*
+**Lili** _(22-Apr-20 05:47 PM)_
+
 > Iris: Sanya, Garrick said you hate me.
 
-**Bill** *(22-Apr-20 05:47 PM)*
+**Bill** _(22-Apr-20 05:47 PM)_
 
+_The duck's vest produces a green eyepiece that produces a familiar green light_
 
-*The duck's vest produces a green eyepiece that produces a familiar green light*
+**Zander** _(22-Apr-20 05:47 PM)_
 
-**Zander** *(22-Apr-20 05:47 PM)*
 > Emmett: Why are you atop of me?
 
-**Sean** *(22-Apr-20 05:47 PM)*
+**Sean** _(22-Apr-20 05:47 PM)_
 
+_Seth remotely locks his door_
 
-*Seth remotely locks his door*
+**Brody** _(22-Apr-20 05:47 PM)_
 
-**Brody** *(22-Apr-20 05:47 PM)*
 > Sanya: I...
 
-**Brody** *(22-Apr-20 05:47 PM)*
+**Brody** _(22-Apr-20 05:47 PM)_
+
 > Sanya: i don't know.
 
-**Zander** *(22-Apr-20 05:47 PM)*
+**Zander** _(22-Apr-20 05:47 PM)_
+
 > Emmett: That's some high-tech piece you got there.
 
-
-*Emmett just chilled there.*
+_Emmett just chilled there._
 
 > Emmett: What model was that again?
 > Emmett: Kinda weird.
 
-**Bill** *(22-Apr-20 05:48 PM)*
+**Bill** _(22-Apr-20 05:48 PM)_
+
 > Burner: Custom.
 
-**Brody** *(22-Apr-20 05:48 PM)*
+**Brody** _(22-Apr-20 05:48 PM)_
 
+_Sanya startes walking to her room._
 
-*Sanya startes walking to her room.*
+**Trey** _(22-Apr-20 05:48 PM)_
 
-**Trey** *(22-Apr-20 05:48 PM)*
 > Garrick: What was that about?
 
-**Zander** *(22-Apr-20 05:48 PM)*
+**Zander** _(22-Apr-20 05:48 PM)_
+
 > Emmett: Very interesting.
 > Emmett: Dakari, come over here. There's a bed for you.
 
-**Lili** *(22-Apr-20 05:48 PM)*
+**Lili** _(22-Apr-20 05:48 PM)_
 
+_Iris sighs in disappointment, thinking that was directed at her, but nods._
 
-*Iris sighs in disappointment, thinking that was directed at her, but nods.*
+**Zander** _(22-Apr-20 05:48 PM)_
 
-**Zander** *(22-Apr-20 05:48 PM)*
 > Emmett: Could've sworn the GSS gave us similar models.
 > Emmett: Mateo and Wes will be bedbuddies or whatever.
 
-**Lili** *(22-Apr-20 05:48 PM)*
+**Lili** _(22-Apr-20 05:48 PM)_
+
 > Iris: Okay. I'll take the couch.
 
-**Trey** *(22-Apr-20 05:48 PM)*
+**Trey** _(22-Apr-20 05:48 PM)_
 
+_Iris goes and jumps on top of Emmett, wounding him._
 
-*Iris goes and jumps on top of Emmett, wounding him.*
+**Brody** _(22-Apr-20 05:49 PM)_
 
-**Brody** *(22-Apr-20 05:49 PM)*
 > Sanya: Oh, and don't believe that ghost. Here, if you need a room, you can share mine.
 
-**Rashidi** *(22-Apr-20 05:49 PM)*
+**Rashidi** _(22-Apr-20 05:49 PM)_
 
+_Dakari follows Emmett_
 
-*Dakari follows Emmett*
+**Bill** _(22-Apr-20 05:49 PM)_
 
-**Bill** *(22-Apr-20 05:49 PM)*
 > Burner: I take it you don't know much about high end security
 
-**Trey** *(22-Apr-20 05:49 PM)*
+**Trey** _(22-Apr-20 05:49 PM)_
 8ball does Iris go and jump on Emmett
 
-**FFBot** *(22-Apr-20 05:49 PM)*
+**FFBot** _(22-Apr-20 05:49 PM)_
 Ask Emmett.
 
-**Zander** *(22-Apr-20 05:49 PM)*
+**Zander** _(22-Apr-20 05:49 PM)_
 Sure
+
 > Emmett: My boys did Guerilla shit.
 
-**Lili** *(22-Apr-20 05:49 PM)*
+**Lili** _(22-Apr-20 05:49 PM)_
+
 > Iris: Sorry- what do you want for dinner?
 
-**Zander** *(22-Apr-20 05:49 PM)*
+**Zander** _(22-Apr-20 05:49 PM)_
+
 > Emmett: My nuts!
 
-**Zander** *(22-Apr-20 05:50 PM)*
+**Zander** _(22-Apr-20 05:50 PM)_
+
 > Emmett: No, no shit
 > Emmett: Rely on your senses over your tech, is what they said.
 > Emmett: The senses weren't enough.
 > Emmett: You jumped on my balls
 > Emmett: I want something vegetarian today.
 
-**Lili** *(22-Apr-20 05:50 PM)*
+**Lili** _(22-Apr-20 05:50 PM)_
+
 > Iris: Sorry!
 
-**Trey** *(22-Apr-20 05:50 PM)*
+**Trey** _(22-Apr-20 05:50 PM)_
+
 > Garrick: Well, guess he is the last Squoatling after all.
 
-**Bill** *(22-Apr-20 05:50 PM)*
+**Bill** _(22-Apr-20 05:50 PM)_
+
 > Burner: Noted. now give us some space, I have to figure things out.
 
-**Lili** *(22-Apr-20 05:50 PM)*
+**Lili** _(22-Apr-20 05:50 PM)_
+
 > Iris: Got it! Will do!
 
-**Zander** *(22-Apr-20 05:50 PM)*
+**Zander** _(22-Apr-20 05:50 PM)_
+
 > Emmett: Solid copy.
 
-**Zander** *(22-Apr-20 05:50 PM)*
+**Zander** _(22-Apr-20 05:50 PM)_
 8ball Does Mateo walk out and find a place to plop down?
 
-**FFBot** *(22-Apr-20 05:51 PM)*
+**FFBot** _(22-Apr-20 05:51 PM)_
 Better not tell you now.
 
-**Zander** *(22-Apr-20 05:51 PM)*
+**Zander** _(22-Apr-20 05:51 PM)_
 8ball Does Mateo walk out and find a place to plop down?
 
-**FFBot** *(22-Apr-20 05:51 PM)*
+**FFBot** _(22-Apr-20 05:51 PM)_
 Reply hazy try again.
 
-**Zander** *(22-Apr-20 05:51 PM)*
+**Zander** _(22-Apr-20 05:51 PM)_
 8ball Does Mateo walk out and find a place to plop down?
 
-**FFBot** *(22-Apr-20 05:51 PM)*
+**FFBot** _(22-Apr-20 05:51 PM)_
 That's a no moment.
 
-**Lili** *(22-Apr-20 05:51 PM)*
+**Lili** _(22-Apr-20 05:51 PM)_
 
+_Iris returns to the comms as she walks towards the kitchen._
 
-*Iris returns to the comms as she walks towards the kitchen.*
 > Iris: Hey, everybody, tell me what you want for dinner.
 
-**Zander** *(22-Apr-20 05:52 PM)*
+**Zander** _(22-Apr-20 05:52 PM)_
 
+_Emmett awkwardly holds his crotch._
 
-*Emmett awkwardly holds his crotch.*
+**Zander** _(22-Apr-20 05:52 PM)_
 
-**Zander** *(22-Apr-20 05:52 PM)*
 > Emmett: I'll be out in a moment, Iris.
 
-**Lili** *(22-Apr-20 05:52 PM)*
+**Lili** _(22-Apr-20 05:52 PM)_
+
 > Iris: Okay.
 
-**Zander** *(22-Apr-20 05:52 PM)*
+**Zander** _(22-Apr-20 05:52 PM)_
 [SESSION ENDED]
 
-**Lili** *(22-Apr-20 05:52 PM)*
+**Lili** _(22-Apr-20 05:52 PM)_
+
 > Iris: Sorry, again.
 
-**Trey** *(22-Apr-20 05:53 PM)*
+**Trey** _(22-Apr-20 05:53 PM)_
 [Space Rule #152: Always blow up a celebrity's spaceship.]
 (edited)
 
-**Cooldude** *(22-Apr-20 05:53 PM)*
+**Cooldude** _(22-Apr-20 05:53 PM)_
 Did it just end?
 
-**Rashidi** *(22-Apr-20 05:53 PM)*
+**Rashidi** _(22-Apr-20 05:53 PM)_
 Yea
 
-**Zander** *(23-Apr-20 12:55 AM)*
+**Zander** _(23-Apr-20 12:55 AM)_
 Pinned a message.
 
-**Bill** *(02-May-20 03:13 PM)*
+**Bill** _(02-May-20 03:13 PM)_
 t!8ball does the ship start experiencing extreme turbulence?
 
-**FFBot** *(02-May-20 03:13 PM)*
-🎱 |  Outlook not so good, Multi
+**FFBot** _(02-May-20 03:13 PM)_
+🎱 | Outlook not so good, Multi
 
-**Brody** *(02-May-20 03:14 PM)*
+**Brody** _(02-May-20 03:14 PM)_
 t!8ball Does the news start playing another broadcast?
 
-**FFBot** *(02-May-20 03:14 PM)*
-🎱 |  Reply hazy try again, Brakia
+**FFBot** _(02-May-20 03:14 PM)_
+🎱 | Reply hazy try again, Brakia
 
-**Brody** *(02-May-20 03:14 PM)*
+**Brody** _(02-May-20 03:14 PM)_
 t!8ball Does the news start playing another broadcast?
 
-**FFBot** *(02-May-20 03:14 PM)*
-🎱 |  Outlook good, Brakia
+**FFBot** _(02-May-20 03:14 PM)_
+🎱 | Outlook good, Brakia
 
-**Zander** *(02-May-20 03:16 PM)*
+**Zander** _(02-May-20 03:16 PM)_
+
 > Emmett: Coming back at yuh with Beanfrank News!
 
-**Michael** *(02-May-20 03:16 PM)*
-t!8ball does emmett inconveniently  get put in the engine?
+**Michael** _(02-May-20 03:16 PM)_
+t!8ball does emmett inconveniently get put in the engine?
 
-**FFBot** *(02-May-20 03:16 PM)*
-🎱 |  Better not tell you now, Shark boi
+**FFBot** _(02-May-20 03:16 PM)_
+🎱 | Better not tell you now, Shark boi
 
-**Sean** *(02-May-20 03:17 PM)*
+**Sean** _(02-May-20 03:17 PM)_
+
 > Seth: shut up
 
-**Michael** *(02-May-20 03:17 PM)*
+**Michael** _(02-May-20 03:17 PM)_
 t!8ball does the Beanfrank news have murder in it
 
-**FFBot** *(02-May-20 03:17 PM)*
-🎱 |  Yes, Shark boi
+**FFBot** _(02-May-20 03:17 PM)_
+🎱 | Yes, Shark boi
 
-**Zander** *(02-May-20 03:18 PM)*
+**Zander** _(02-May-20 03:18 PM)_
+
 > Emmett: The latest gossip is how Space Station G17 experienced a brownout and Wes Romaw's sudden disappearance!
 
-**Rashidi** *(02-May-20 03:18 PM)*
+**Rashidi** _(02-May-20 03:18 PM)_
 t!8ball Does Dakari go to use the bathroom?
 
-**FFBot** *(02-May-20 03:18 PM)*
-🎱 |  It is decidedly so, Platinum_Pathos
+**FFBot** _(02-May-20 03:18 PM)_
+🎱 | It is decidedly so, Platinum_Pathos
 
-**Zander** *(02-May-20 03:19 PM)*
+**Zander** _(02-May-20 03:19 PM)_
+
 > Emmett: It is presumed that Wes was murdered, given the huge amount of blood and petals that were found at the scene.
 
-**Sean** *(02-May-20 03:19 PM)*
+**Sean** _(02-May-20 03:19 PM)_
 t!8ball Does Dakari play the brown note on his nose flute?
 
-**FFBot** *(02-May-20 03:19 PM)*
-🎱 |  My sources say no, Bagelwrecker
+**FFBot** _(02-May-20 03:19 PM)_
+🎱 | My sources say no, Bagelwrecker
 
-**Zander** *(02-May-20 03:19 PM)*
+**Zander** _(02-May-20 03:19 PM)_
 t!8ball Does Emmett check the engine?
 
-**FFBot** *(02-May-20 03:19 PM)*
-🎱 |  Very doubtful, Zander
+**FFBot** _(02-May-20 03:19 PM)_
+🎱 | Very doubtful, Zander
 
-**Zander** *(02-May-20 03:19 PM)*
+**Zander** _(02-May-20 03:19 PM)_
+
 > Emmett: Guys
 
-**Sean** *(02-May-20 03:20 PM)*
+**Sean** _(02-May-20 03:20 PM)_
+
 > Seth: Woops
 
-**Trey** *(02-May-20 03:20 PM)*
+**Trey** _(02-May-20 03:20 PM)_
 t!8ball Does emmett not check the engine
 
-**FFBot** *(02-May-20 03:20 PM)*
-🎱 |  As I see it, yes, [RP]retribution
+**FFBot** _(02-May-20 03:20 PM)_
+🎱 | As I see it, yes, [RP]retribution
 
-**Zander** *(02-May-20 03:20 PM)*
+**Zander** _(02-May-20 03:20 PM)_
+
 > Emmett: Remember how the cockpit said we had an engine error?
 
-**Sean** *(02-May-20 03:20 PM)*
+**Sean** _(02-May-20 03:20 PM)_
+
 > Seth: No.
 
-**Zander** *(02-May-20 03:20 PM)*
+**Zander** _(02-May-20 03:20 PM)_
 
+_Emmett pops his head into the living block._
 
-*Emmett pops his head into the living block.*
+**Zander** _(02-May-20 03:20 PM)_
 
-**Zander** *(02-May-20 03:20 PM)*
 > Emmett: It was like last night. You were drunk off of your ass.
 
-**Rashidi** *(02-May-20 03:21 PM)*
+**Rashidi** _(02-May-20 03:21 PM)_
+
 > Dakari: Guys! Who clogged the toilet again!!!
 
-**Zander** *(02-May-20 03:21 PM)*
+**Zander** _(02-May-20 03:21 PM)_
+
 > Emmett: Anyhow, we're-
 
-**Sean** *(02-May-20 03:21 PM)*
-> Seth: *high
+**Sean** _(02-May-20 03:21 PM)_
 
-**Trey** *(02-May-20 03:21 PM)*
+> Seth: \*high
+
+**Trey** _(02-May-20 03:21 PM)_
 t!8ball is garrick in the living block
 
-**FFBot** *(02-May-20 03:21 PM)*
-🎱 |  Most likely, [RP]retribution
+**FFBot** _(02-May-20 03:21 PM)_
+🎱 | Most likely, [RP]retribution
 
-**Zander** *(02-May-20 03:22 PM)*
+**Zander** _(02-May-20 03:22 PM)_
+
 > Emmett: "There have been no signs of the Vortox Pummelers currently. Stay tuned!"
 
-**Zander** *(02-May-20 03:22 PM)*
+**Zander** _(02-May-20 03:22 PM)_
+
 > Emmett: As I was saying before DAKARI INTERRUPTED ME.
 
-**Sean** *(02-May-20 03:22 PM)*
+**Sean** _(02-May-20 03:22 PM)_
+
 > Seth: HAHA
 
-**Sean** *(02-May-20 03:22 PM)*
+**Sean** _(02-May-20 03:22 PM)_
+
 > Seth: I POOP
 
-**Zander** *(02-May-20 03:22 PM)*
+**Zander** _(02-May-20 03:22 PM)_
+
 > Emmett: Engine's on its reserves.
 
-**Zander** *(02-May-20 03:22 PM)*
+**Zander** _(02-May-20 03:22 PM)_
+
 > Emmett: We need to get to a junk pit or something.
 
-**Rashidi** *(02-May-20 03:22 PM)*
+**Rashidi** _(02-May-20 03:22 PM)_
+
 > Dakari: Of course it was Seth...
 
-**Rashidi** *(02-May-20 03:22 PM)*
+**Rashidi** _(02-May-20 03:22 PM)_
+
 > Dakari: Anyways you may continue Emmett.
 
-**Sean** *(02-May-20 03:23 PM)*
+**Sean** _(02-May-20 03:23 PM)_
+
 > Seth: Well we could go to Olag...
 
-**Zander** *(02-May-20 03:23 PM)*
+**Zander** _(02-May-20 03:23 PM)_
+
 > Emmett: Also, you're going to need to go to the septic tank and press the airlock.
 
-**Sean** *(02-May-20 03:23 PM)*
+**Sean** _(02-May-20 03:23 PM)_
+
 > Seth: You remember Olag right Emmett?
 
-**Zander** *(02-May-20 03:23 PM)*
+**Zander** _(02-May-20 03:23 PM)_
+
 > Emmett: Garrick, why are you sitting in the corner?
 
-**Sean** *(02-May-20 03:23 PM)*
+**Sean** _(02-May-20 03:23 PM)_
+
 > Seth: Ya know the big greasy cowboy slime man.
 
-**Michael** *(02-May-20 03:23 PM)*
+**Michael** _(02-May-20 03:23 PM)_
 t!8ball is it gamer time?
 
-**FFBot** *(02-May-20 03:23 PM)*
-🎱 |  Most likely, Shark boi
+**FFBot** _(02-May-20 03:23 PM)_
+🎱 | Most likely, Shark boi
 
-**Zander** *(02-May-20 03:24 PM)*
+**Zander** _(02-May-20 03:24 PM)_
+
 > Emmett: Olag?
 
-**Trey** *(02-May-20 03:24 PM)*
+**Trey** _(02-May-20 03:24 PM)_
+
 > Garrick: 'Cause I want to.
 
-**Zander** *(02-May-20 03:24 PM)*
+**Zander** _(02-May-20 03:24 PM)_
+
 > Emmett: I don't recall.
 
-**Rashidi** *(02-May-20 03:24 PM)*
+**Rashidi** _(02-May-20 03:24 PM)_
+
 > Dakari: Where's the septic tank?
 
-**Sean** *(02-May-20 03:24 PM)*
+**Sean** _(02-May-20 03:24 PM)_
+
 > Seth: The gay slime.
 
-**Zander** *(02-May-20 03:24 PM)*
+**Zander** _(02-May-20 03:24 PM)_
 t!8ball Is Garrick currently gluing an ear to the corner?
 
-**FFBot** *(02-May-20 03:24 PM)*
-🎱 |  You may rely on it, Zander
+**FFBot** _(02-May-20 03:24 PM)_
+🎱 | You may rely on it, Zander
 
-**Sean** *(02-May-20 03:24 PM)*
+**Sean** _(02-May-20 03:24 PM)_
+
 > Seth: You'll remember him when you meet him, he's kind of hard to forget.
 
-**Trey** *(02-May-20 03:25 PM)*
+**Trey** _(02-May-20 03:25 PM)_
+
 > Garrick: ear
 
-**Rashidi** *(02-May-20 03:25 PM)*
+**Rashidi** _(02-May-20 03:25 PM)_
 t!8ball does Dakari stumble along his journey and find the septic tank?
 
-**FFBot** *(02-May-20 03:25 PM)*
-🎱 |  Don't count on it, Platinum_Pathos
+**FFBot** _(02-May-20 03:25 PM)_
+🎱 | Don't count on it, Platinum_Pathos
 
-**Zander** *(02-May-20 03:25 PM)*
+**Zander** _(02-May-20 03:25 PM)_
+
 > Emmett: Septic tank's below us, in storage.
 
-**Zander** *(02-May-20 03:25 PM)*
+**Zander** _(02-May-20 03:25 PM)_
+
 > Emmett: And ear?
 
-**Rashidi** *(02-May-20 03:25 PM)*
+**Rashidi** _(02-May-20 03:25 PM)_
+
 > Dakari: Alright, that's helpful
 
-**Trey** *(02-May-20 03:25 PM)*
+**Trey** _(02-May-20 03:25 PM)_
+
 > Garrick: Pretty much.
 
-**Sean** *(02-May-20 03:25 PM)*
+**Sean** _(02-May-20 03:25 PM)_
+
 > Seth: Especially since he had a certain "Fondness" for you.
 
-**Zander** *(02-May-20 03:25 PM)*
+**Zander** _(02-May-20 03:25 PM)_
 t!8ball Is Emmett high on his grass consumption?
 
-**FFBot** *(02-May-20 03:25 PM)*
-🎱 |  Better not tell you now, Zander
+**FFBot** _(02-May-20 03:25 PM)_
+🎱 | Better not tell you now, Zander
 
-**Zander** *(02-May-20 03:26 PM)*
+**Zander** _(02-May-20 03:26 PM)_
 t!8ball Is Emmett sufficient on his grass consumption?
 
-**FFBot** *(02-May-20 03:26 PM)*
-🎱 |  Signs point to yes, Zander
+**FFBot** _(02-May-20 03:26 PM)_
+🎱 | Signs point to yes, Zander
 
-**Zander** *(02-May-20 03:26 PM)*
+**Zander** _(02-May-20 03:26 PM)_
+
 > Emmett: Oh...
 
-**Rashidi** *(02-May-20 03:26 PM)*
+**Rashidi** _(02-May-20 03:26 PM)_
 
+_Dakari finds his way to the septic tank and releases its airlock_
 
-*Dakari finds his way to the septic tank and releases its airlock*
+**Zander** _(02-May-20 03:26 PM)_
 
-**Zander** *(02-May-20 03:26 PM)*
 > Emmett: That man.
 
-**Zander** *(02-May-20 03:26 PM)*
+**Zander** _(02-May-20 03:26 PM)_
+
 > Emmett: The one who tried to get me to hook up with his daughter or something.
 
-**Sean** *(02-May-20 03:26 PM)*
+**Sean** _(02-May-20 03:26 PM)_
+
 > Seth: Yes, that greasy slimy cowboy slime man
 
-**Zander** *(02-May-20 03:27 PM)*
+**Zander** _(02-May-20 03:27 PM)_
+
 > Emmett: Or was that someone else?
 
-**Sean** *(02-May-20 03:27 PM)*
+**Sean** _(02-May-20 03:27 PM)_
+
 > Seth: I think thats someone else.
 
-**Brody** *(02-May-20 03:27 PM)*
+**Brody** _(02-May-20 03:27 PM)_
 t!8ball Does Sanya head to the kitchen?
 
-**Sean** *(02-May-20 03:27 PM)*
+**Sean** _(02-May-20 03:27 PM)_
+
 > Seth: He was the one trying to hookup with you.
 
-**Brody** *(02-May-20 03:27 PM)*
+**Brody** _(02-May-20 03:27 PM)_
 t!8ball Does Sanya head to the kitchen?
 
-**FFBot** *(02-May-20 03:27 PM)*
-🎱 |  Concentrate and ask again, Brakia
+**FFBot** _(02-May-20 03:27 PM)_
+🎱 | Concentrate and ask again, Brakia
 
-**Zander** *(02-May-20 03:28 PM)*
+**Zander** _(02-May-20 03:28 PM)_
+
 > Emmett: Honestly, I don't ever recall anyone trying to hookup with me.
 
-**FFBot** *(02-May-20 03:28 PM)*
-🎱 |  Most likely, Brakia
+**FFBot** _(02-May-20 03:28 PM)_
+🎱 | Most likely, Brakia
 
-**Sean** *(02-May-20 03:28 PM)*
+**Sean** _(02-May-20 03:28 PM)_
+
 > Seth: Its been a while.
 
-**Sean** *(02-May-20 03:28 PM)*
+**Sean** _(02-May-20 03:28 PM)_
+
 > Seth: You'll remember when you remeet him.
 
-**Brody** *(02-May-20 03:28 PM)*
+**Brody** _(02-May-20 03:28 PM)_
+
 > Sanya: Im getting hungry.
 
-**Zander** *(02-May-20 03:28 PM)*
+**Zander** _(02-May-20 03:28 PM)_
+
 > Emmett: DAKARI!
 
-**Zander** *(02-May-20 03:28 PM)*
+**Zander** _(02-May-20 03:28 PM)_
+
 > Emmett: GET IN HERE!
 
-**Rashidi** *(02-May-20 03:29 PM)*
+**Rashidi** _(02-May-20 03:29 PM)_
 
+_Dakari returns to the room after shutting the airlock_
 
-*Dakari returns to the room after shutting the airlock*
+**Rashidi** _(02-May-20 03:29 PM)_
 
-**Rashidi** *(02-May-20 03:29 PM)*
 > Dakari: You need something?
 
-**Zander** *(02-May-20 03:29 PM)*
+**Zander** _(02-May-20 03:29 PM)_
+
 > Emmett: Do you know where Olag's place is?
 
-**Michael** *(02-May-20 03:29 PM)*
+**Michael** _(02-May-20 03:29 PM)_
 t!8ball does the ship turn it's autopilot on and head toward the junkpile?
 
-**FFBot** *(02-May-20 03:29 PM)*
-🎱 |  Concentrate and ask again, Shark boi
+**FFBot** _(02-May-20 03:29 PM)_
+🎱 | Concentrate and ask again, Shark boi
 
-**Michael** *(02-May-20 03:30 PM)*
+**Michael** _(02-May-20 03:30 PM)_
 t!8ball does the ship turn it's autopilot on and head toward the junkpile?
 
-**FFBot** *(02-May-20 03:30 PM)*
-🎱 |  It is certain, Shark boi
+**FFBot** _(02-May-20 03:30 PM)_
+🎱 | It is certain, Shark boi
 
-**Sean** *(02-May-20 03:30 PM)*
+**Sean** _(02-May-20 03:30 PM)_
+
 > Seth: Somewhere between Pollock's System and Juglicks Gally.
 
-**Rashidi** *(02-May-20 03:30 PM)*
+**Rashidi** _(02-May-20 03:30 PM)_
+
 > Dakari: I've heard of him during my ventures. But no I've never met him or anything.
 
-**Zander** *(02-May-20 03:30 PM)*
+**Zander** _(02-May-20 03:30 PM)_
 
+_Emmett stumbles over from the sudden turn._
 
-*Emmett stumbles over from the sudden turn.*
+**Zander** _(02-May-20 03:30 PM)_
 
-**Zander** *(02-May-20 03:30 PM)*
 > Emmett: HEY!
 
-**Sean** *(02-May-20 03:30 PM)*
+**Sean** _(02-May-20 03:30 PM)_
+
 > Seth: He's small-time.
 
-**Zander** *(02-May-20 03:30 PM)*
+**Zander** _(02-May-20 03:30 PM)_
+
 > Emmett: I forgot the ship was a dumb voice recognition system.
 
-**Zander** *(02-May-20 03:30 PM)*
+**Zander** _(02-May-20 03:30 PM)_
+
 > Emmett: Cali, was it?
 
-**Sean** *(02-May-20 03:30 PM)*
+**Sean** _(02-May-20 03:30 PM)_
+
 > Seth: At least legally.
 
-**Sean** *(02-May-20 03:30 PM)*
+**Sean** _(02-May-20 03:30 PM)_
+
 > Seth: "Indeed."
 
-**Zander** *(02-May-20 03:33 PM)*
+**Zander** _(02-May-20 03:33 PM)_
+
 > Emmett: Cali, what's the status report on the ship's engine?
 
-**Sean** *(02-May-20 03:33 PM)*
+**Sean** _(02-May-20 03:33 PM)_
+
 > Seth: He's got some of the best prices on things from Llamanian grass, Space Dust, Blackhole FTL drives, Wormhole generators, Plunarium thrusters, American Dad Empire spy weapons, you get it.
 
-**Sean** *(02-May-20 03:33 PM)*
+**Sean** _(02-May-20 03:33 PM)_
+
 > Seth: "Running diagnostics..."
 
-**Rashidi** *(02-May-20 03:33 PM)*
+**Rashidi** _(02-May-20 03:33 PM)_
 t!8ball Does Dakari remember any past mercenaries who knew Olag?
 
-**FFBot** *(02-May-20 03:33 PM)*
-🎱 |  My sources say no, Platinum_Pathos
+**FFBot** _(02-May-20 03:33 PM)_
+🎱 | My sources say no, Platinum_Pathos
 
-**Rashidi** *(02-May-20 03:34 PM)*
+**Rashidi** _(02-May-20 03:34 PM)_
+
 > Dakari: I swear the name rings a bell though.
 
-**Zander** *(02-May-20 03:35 PM)*
+**Zander** _(02-May-20 03:35 PM)_
+
 > Emmett: You hear the news, Sanya?
 
-**Sean** *(02-May-20 03:35 PM)*
+**Sean** _(02-May-20 03:35 PM)_
 t!8ball Does Dakari finally remember who Olag is?
 
-**FFBot** *(02-May-20 03:35 PM)*
-🎱 |  Don't count on it, Bagelwrecker
+**FFBot** _(02-May-20 03:35 PM)_
+🎱 | Don't count on it, Bagelwrecker
 
-**Brody** *(02-May-20 03:35 PM)*
+**Brody** _(02-May-20 03:35 PM)_
+
 > Sanya: What news?
 
-**Zander** *(02-May-20 03:36 PM)*
+**Zander** _(02-May-20 03:36 PM)_
+
 > Emmett: Apparently the galaxy thinks that Wes is dead and we killed him.
 
-**Brody** *(02-May-20 03:36 PM)*
+**Brody** _(02-May-20 03:36 PM)_
+
 > Sanya: I wish we did. Would have saved us time and effort.
 
-**Trey** *(02-May-20 03:36 PM)*
+**Trey** _(02-May-20 03:36 PM)_
+
 > Garrick: We still could.
 
-**Brody** *(02-May-20 03:37 PM)*
+**Brody** _(02-May-20 03:37 PM)_
+
 > Sanya: Good point...
 
-**Trey** *(02-May-20 03:37 PM)*
+**Trey** _(02-May-20 03:37 PM)_
+
 > Garrick: Or, like, hold him for ransom.
 
-**Zander** *(02-May-20 03:37 PM)*
+**Zander** _(02-May-20 03:37 PM)_
 t!8ball Does the ship begin to go into hyperspace without Emmett's approval?
 
-**FFBot** *(02-May-20 03:37 PM)*
-🎱 |  Reply hazy try again, Zander
+**FFBot** _(02-May-20 03:37 PM)_
+🎱 | Reply hazy try again, Zander
 
-**Zander** *(02-May-20 03:37 PM)*
+**Zander** _(02-May-20 03:37 PM)_
 t!8ball Does the ship begin to go into hyperspace without Emmett's approval?
 
-**FFBot** *(02-May-20 03:37 PM)*
-🎱 |  Don't count on it, Zander
+**FFBot** _(02-May-20 03:37 PM)_
+🎱 | Don't count on it, Zander
 
-**Sean** *(02-May-20 03:38 PM)*
+**Sean** _(02-May-20 03:38 PM)_
+
 > Seth: "Oil change is needed, Parts in need of repair or replacements. Jognon Driver, Axel, Warp Drive, Extendo-Palendo, Piston 2 and 3, and the weapons system, specifically the AK-510."
 
-**Zander** *(02-May-20 03:38 PM)*
+**Zander** _(02-May-20 03:38 PM)_
 
+_Emmett peers out the window, seeing some space sirens slowly drift by._
 
-*Emmett peers out the window, seeing some space sirens slowly drift by.*
+**Zander** _(02-May-20 03:38 PM)_
 
-**Zander** *(02-May-20 03:38 PM)*
 > Emmett: Hey, Cali, why are we not in hyperspace?
 
-**Sean** *(02-May-20 03:38 PM)*
+**Sean** _(02-May-20 03:38 PM)_
+
 > Seth: I hope Olag still has the same sources for drugs like he did before.
 
-**Rashidi** *(02-May-20 03:39 PM)*
+**Rashidi** _(02-May-20 03:39 PM)_
+
 > Dakari: So what was Olag's business with you guys? Besides supposedly hitting on Emmett?
 
-**Sean** *(02-May-20 03:39 PM)*
+**Sean** _(02-May-20 03:39 PM)_
+
 > Seth: "The warp drive is in need of repair."
 
-**Zander** *(02-May-20 03:39 PM)*
+**Zander** _(02-May-20 03:39 PM)_
+
 > Emmett: I have no recollection of Olag.
 
-**Sean** *(02-May-20 03:39 PM)*
+**Sean** _(02-May-20 03:39 PM)_
+
 > Seth: "Please pay attention Co-Captain Emmett."
 
-**Sean** *(02-May-20 03:39 PM)*
+**Sean** _(02-May-20 03:39 PM)_
+
 > Seth: Olag is the main guy I go for anything illegal and everything ship related.
 
-**Trey** *(02-May-20 03:40 PM)*
+**Trey** _(02-May-20 03:40 PM)_
 t!8ball does garrick go check on wes
 
-**FFBot** *(02-May-20 03:40 PM)*
-🎱 |  As I see it, yes, [RP]retribution
+**FFBot** _(02-May-20 03:40 PM)_
+🎱 | As I see it, yes, [RP]retribution
 
-**Trey** *(02-May-20 03:40 PM)*
+**Trey** _(02-May-20 03:40 PM)_
 
+_Garrick go check on wes_
 
-*Garrick go check on wes*
+**Zander** _(02-May-20 03:41 PM)_
 
-**Zander** *(02-May-20 03:41 PM)*
 > Emmett: What?
 
-**Zander** *(02-May-20 03:41 PM)*
+**Zander** _(02-May-20 03:41 PM)_
 
+_Emmett rubbed his horn a little in confusion._
 
-*Emmett rubbed his horn a little in confusion.*
+**Zander** _(02-May-20 03:41 PM)_
 
-**Zander** *(02-May-20 03:41 PM)*
 > Emmett: Sanya, you alright?
 
-**Sean** *(02-May-20 03:41 PM)*
+**Sean** _(02-May-20 03:41 PM)_
+
 > Seth: Though he has the tendency to wipe Emmett's mind unfortunately, especially when he's working on the Warp-Drive.
 
-**Brody** *(02-May-20 03:41 PM)*
+**Brody** _(02-May-20 03:41 PM)_
 t!8ball Is Sanya alright?
 
-**FFBot** *(02-May-20 03:41 PM)*
-🎱 |  Reply hazy try again, Brakia
+**FFBot** _(02-May-20 03:41 PM)_
+🎱 | Reply hazy try again, Brakia
 
-**Sean** *(02-May-20 03:41 PM)*
+**Sean** _(02-May-20 03:41 PM)_
+
 > Seth: Space-dust is a hell of a drug.
 
-**Brody** *(02-May-20 03:41 PM)*
+**Brody** _(02-May-20 03:41 PM)_
 t!8ball Is Sanya alright?
 
-**FFBot** *(02-May-20 03:41 PM)*
-🎱 |  Signs point to yes, Brakia
+**FFBot** _(02-May-20 03:41 PM)_
+🎱 | Signs point to yes, Brakia
 
-**Brody** *(02-May-20 03:41 PM)*
+**Brody** _(02-May-20 03:41 PM)_
+
 > Sanya: Yes.
 
-**Brody** *(02-May-20 03:41 PM)*
+**Brody** _(02-May-20 03:41 PM)_
+
 > Sanya: Just hungry, is all.
 
-**Rashidi** *(02-May-20 03:42 PM)*
+**Rashidi** _(02-May-20 03:42 PM)_
+
 > Dakari: Well if he's into the black market business no wonder the name rings a bell.
 
-**Trey** *(02-May-20 03:42 PM)*
+**Trey** _(02-May-20 03:42 PM)_
+
 > Garrick: Wes is still there.
 
-**Zander** *(02-May-20 03:42 PM)*
+**Zander** _(02-May-20 03:42 PM)_
+
 > Emmett: Come over here. You seem exhausted from your pheromones or whatever.
 
-**Zander** *(02-May-20 03:42 PM)*
+**Zander** _(02-May-20 03:42 PM)_
+
 > Emmett: I don't know much about the black market.
 
-**Brody** *(02-May-20 03:42 PM)*
+**Brody** _(02-May-20 03:42 PM)_
 
+_Sanya reluctantly walks over to Emmett._
 
-*Sanya reluctantly walks over to Emmett.*
+**Zander** _(02-May-20 03:43 PM)_
 
-**Zander** *(02-May-20 03:43 PM)*
 > Emmett: Mind telling us WHILE WE GO AT THE SPEED OF MOLASSES TO THE JUNK PIT?
 
-**Rashidi** *(02-May-20 03:43 PM)*
+**Rashidi** _(02-May-20 03:43 PM)_
+
 > Dakari: I may have indirectly helped some of his dealers in the past for a cut of their profits.
 
-**Zander** *(02-May-20 03:43 PM)*
+**Zander** _(02-May-20 03:43 PM)_
 t!8ball Does Mateo wake up?
 
-**FFBot** *(02-May-20 03:43 PM)*
-🎱 |  Concentrate and ask again, mtyms818
+**FFBot** _(02-May-20 03:43 PM)_
+🎱 | Concentrate and ask again, mtyms818
 
-**Zander** *(02-May-20 03:43 PM)*
+**Zander** _(02-May-20 03:43 PM)_
 t!8ball Does Mateo wake up?
 
-**FFBot** *(02-May-20 03:43 PM)*
-🎱 |  Without a doubt, mtyms818
+**FFBot** _(02-May-20 03:43 PM)_
+🎱 | Without a doubt, mtyms818
 
-**Sean** *(02-May-20 03:44 PM)*
+**Sean** _(02-May-20 03:44 PM)_
+
 > Seth: "Unfortunately Pistons 2 and 3 are in need of repair, which is causing the ship to be slow"
 
-**Zander** *(02-May-20 03:44 PM)*
+**Zander** _(02-May-20 03:44 PM)_
+
 > Emmett: Standing naps aren't very comfortable.
 
-
-*Emmett patted the seat next to him. There were two diner seats in the kitchen, as per the 50s aesthetic.*
+_Emmett patted the seat next to him. There were two diner seats in the kitchen, as per the 50s aesthetic._
 
 > Emmett: Mateo, is it? Nice to meet you.
 
-**Brody** *(02-May-20 03:45 PM)*
+**Brody** _(02-May-20 03:45 PM)_
 
+_Sanya Sits._
 
-*Sanya Sits.*
+**Brody** _(02-May-20 03:45 PM)_
 
-**Brody** *(02-May-20 03:45 PM)*
 > Sanya: What is it?
 
-**Zander** *(02-May-20 03:45 PM)*
+**Zander** _(02-May-20 03:45 PM)_
+
 > Emmett: All day.
 
-**Sean** *(02-May-20 03:45 PM)*
+**Sean** _(02-May-20 03:45 PM)_
+
 > Seth: "If you need, Co-Captain Emmett, I can repeat the parts in need of repair"
 
-**Zander** *(02-May-20 03:45 PM)*
+**Zander** _(02-May-20 03:45 PM)_
+
 > Emmett: You look a little funny.
 
-**Zander** *(02-May-20 03:45 PM)*
+**Zander** _(02-May-20 03:45 PM)_
+
 > Emmett: Cali, how far are we, in minutes?
 > Emmett: I'm not sure what you could mean by that.
 
+_Emmett leans on Sanya, partially trying to bug her, but also a bit concerned._
 
-*Emmett leans on Sanya, partially trying to bug her, but also a bit concerned.*
+**Michael** _(02-May-20 03:46 PM)_
+t!8ball does the ship slow down even more?
 
-**Michael** *(02-May-20 03:46 PM)*
-t!8ball does the  ship slow down even more?
+**FFBot** _(02-May-20 03:46 PM)_
+🎱 | Very doubtful, Shark boi
 
-**FFBot** *(02-May-20 03:46 PM)*
-🎱 |  Very doubtful, Shark boi
+**Zander** _(02-May-20 03:46 PM)_
 
-**Zander** *(02-May-20 03:46 PM)*
 > Emmett: Not you, Mateo, Sanya.
 
-**Sean** *(02-May-20 03:46 PM)*
+**Sean** _(02-May-20 03:46 PM)_
+
 > Seth: " 2880 minutes until we reach Olag's Junk Pit"
 
-**Zander** *(02-May-20 03:46 PM)*
+**Zander** _(02-May-20 03:46 PM)_
 
+_Emmet sighs._
 
-*Emmet sighs.*
+**Brody** _(02-May-20 03:46 PM)_
 
-**Brody** *(02-May-20 03:46 PM)*
 > Sanya: What do you mean, look funny?
 
-**Zander** *(02-May-20 03:47 PM)*
+**Zander** _(02-May-20 03:47 PM)_
+
 > Emmett: You know, your flower's all.... funny.
 
-**Zander** *(02-May-20 03:47 PM)*
+**Zander** _(02-May-20 03:47 PM)_
 
+_Emmett coyly smiled._
 
-*Emmett coyly smiled.*
+**Sean** _(02-May-20 03:47 PM)_
 
-**Sean** *(02-May-20 03:47 PM)*
 > Seth: " In order to prevent damaging the ship further I am forced to keep the ship at a decent speed"
 
-**Brody** *(02-May-20 03:47 PM)*
+**Brody** _(02-May-20 03:47 PM)_
 
+_D: Is he talking about me?_
 
-*D: Is he talking about me?*
+**Brody** _(02-May-20 03:47 PM)_
 
-**Brody** *(02-May-20 03:47 PM)*
 > Sanya: It's a side effect.
 
-**Brody** *(02-May-20 03:47 PM)*
+**Brody** _(02-May-20 03:47 PM)_
+
 > Sanya: Is that all?
 
-**Zander** *(02-May-20 03:48 PM)*
+**Zander** _(02-May-20 03:48 PM)_
+
 > Emmett: Maybe it's your face. Does it do that when you're hungry?
 
-**Brody** *(02-May-20 03:48 PM)*
+**Brody** _(02-May-20 03:48 PM)_
+
 > Sanya: Do what?
 
-**Zander** *(02-May-20 03:48 PM)*
+**Zander** _(02-May-20 03:48 PM)_
+
 > Emmett: So, what's the deal with this ship? You guys traders, mercs, suppliers?
 
-**Brody** *(02-May-20 03:49 PM)*
+**Brody** _(02-May-20 03:49 PM)_
+
 > Sanya: Our deal depends on the job.
 
-**Zander** *(02-May-20 03:49 PM)*
+**Zander** _(02-May-20 03:49 PM)_
+
 > Emmett: We're a crew.
 > Emmett: So you're mercs.
 > Emmett: Got it. I dig that.
 
+_Emmett annoyingly leaned on Sanya even more._
 
-*Emmett annoyingly leaned on Sanya even more.*
+**Sean** _(02-May-20 03:50 PM)_
 
-**Sean** *(02-May-20 03:50 PM)*
 > Seth: We're registered as bounty hunters.
 
-**Zander** *(02-May-20 03:50 PM)*
+**Zander** _(02-May-20 03:50 PM)_
+
 > Emmett: Are you wilting?
 
-*Emmett pushed aside one of her leaves.*
+_Emmett pushed aside one of her leaves._
 
-**Rashidi** *(02-May-20 03:50 PM)*
+**Rashidi** _(02-May-20 03:50 PM)_
 t!choose Does Dakari begin to make eggs and bacon | eggs and waffles
 
-**FFBot** *(02-May-20 03:50 PM)*
+**FFBot** _(02-May-20 03:50 PM)_
 🤔 | Platinum_Pathos, I pick eggs and waffles
 
-**Rashidi** *(02-May-20 03:50 PM)*
+**Rashidi** _(02-May-20 03:50 PM)_
+
 > Dakari: Who wants eggs and waffles?
 
-**Zander** *(02-May-20 03:50 PM)*
+**Zander** _(02-May-20 03:50 PM)_
+
 > Emmett: Hell, fix me a plate.
 
-**Brody** *(02-May-20 03:50 PM)*
+**Brody** _(02-May-20 03:50 PM)_
 
+_Sanya quickly glares at Emmett, and then returns to the conversation_
 
-*Sanya quickly glares at Emmett, and then returns to the conversation*
+**Sean** _(02-May-20 03:51 PM)_
 
-**Sean** *(02-May-20 03:51 PM)*
 > Seth: Hey Emmett, go repair our pistons.
 
-**Sean** *(02-May-20 03:51 PM)*
+**Sean** _(02-May-20 03:51 PM)_
+
 > Seth: So we can go faster.
 
-**Rashidi** *(02-May-20 03:51 PM)*
+**Rashidi** _(02-May-20 03:51 PM)_
+
 > Dakari: Gotcha...
 
-**Brody** *(02-May-20 03:51 PM)*
+**Brody** _(02-May-20 03:51 PM)_
+
 > Sanya: But yes, we may be technically bounty hunters, what we do depends on what we're payed.
 
-**Zander** *(02-May-20 03:51 PM)*
+**Zander** _(02-May-20 03:51 PM)_
 
+_Emmett was toying with Sanya's cheeks with his digits._
 
-*Emmett was toying with Sanya's cheeks with his digits.*
 > Emmett: What Seth?
 
-**Rashidi** *(02-May-20 03:51 PM)*
+**Rashidi** _(02-May-20 03:51 PM)_
+
 > Dakari: Sorry, you must be new, I don't think we've met.
 
-**Zander** *(02-May-20 03:51 PM)*
+**Zander** _(02-May-20 03:51 PM)_
+
 > Emmett: Interesting.
 
-**Sean** *(02-May-20 03:51 PM)*
+**Sean** _(02-May-20 03:51 PM)_
+
 > Seth: Hey Emmett, go repair our pistons.
 
-**Sean** *(02-May-20 03:51 PM)*
+**Sean** _(02-May-20 03:51 PM)_
+
 > Seth: So we can go faster.
 
-**Zander** *(02-May-20 03:52 PM)*
+**Zander** _(02-May-20 03:52 PM)_
+
 > Emmett: Do we have parts?
 
-**Brody** *(02-May-20 03:52 PM)*
+**Brody** _(02-May-20 03:52 PM)_
 
+_Sanya slightly moves her face, causing Emmett to poke his finger on her fang_
 
-*Sanya slightly moves her face, causing Emmett to poke his finger on her fang*
+**Zander** _(02-May-20 03:52 PM)_
 
-**Zander** *(02-May-20 03:52 PM)*
 > Emmett: I can't exactly say that I've been in my line for money.
 
-**Sean** *(02-May-20 03:52 PM)*
+**Sean** _(02-May-20 03:52 PM)_
+
 > Seth: I don't know.
 
-**Sean** *(02-May-20 03:52 PM)*
+**Sean** _(02-May-20 03:52 PM)_
+
 > Seth: You're the one that does all the inventory.
 
-**Zander** *(02-May-20 03:52 PM)*
+**Zander** _(02-May-20 03:52 PM)_
 
+_Emmett scratches his hoof with the fang, pulling it back._
 
-*Emmett scratches his hoof with the fang, pulling it back.*
+**Zander** _(02-May-20 03:52 PM)_
 
-**Zander** *(02-May-20 03:52 PM)*
 > Emmett: Fine.
 
-**Sean** *(02-May-20 03:53 PM)*
+**Sean** _(02-May-20 03:53 PM)_
 t!8ball Do we have parts for the ship?
 
-**FFBot** *(02-May-20 03:53 PM)*
-🎱 |  Very doubtful, Bagelwrecker
+**FFBot** _(02-May-20 03:53 PM)_
+🎱 | Very doubtful, Bagelwrecker
 
-**Zander** *(02-May-20 03:53 PM)*
+**Zander** _(02-May-20 03:53 PM)_
+
 > Emmett: I'll make do then.
 
-**Zander** *(02-May-20 03:53 PM)*
+**Zander** _(02-May-20 03:53 PM)_
 t!8ball Does Emmett successfully repair the engine after a few turns?
 
-**FFBot** *(02-May-20 03:53 PM)*
-🎱 |  Without a doubt, Zander
+**FFBot** _(02-May-20 03:53 PM)_
+🎱 | Without a doubt, Zander
 
-**Rashidi** *(02-May-20 03:53 PM)*
+**Rashidi** _(02-May-20 03:53 PM)_
 
+_Dakari turns on the stove and begins making several servings of scrambled eggs and waffles_
 
-*Dakari turns on the stove and begins making several servings of  scrambled eggs and waffles*
+**Sean** _(02-May-20 03:54 PM)_
 
-**Sean** *(02-May-20 03:54 PM)*
 > Seth: "Pistons 2 and 3 are operating at optimal levels, though this fix is just temporary, might I recommend replacing these parts?"
 
-**Cooldude** *(02-May-20 03:54 PM)*
+**Cooldude** _(02-May-20 03:54 PM)_
 Sorry I'm late
 
-**Trey** *(02-May-20 03:54 PM)*
+**Trey** _(02-May-20 03:54 PM)_
 t!8ball is garrick's wound completely healed
 
-**FFBot** *(02-May-20 03:54 PM)*
-🎱 |  Very doubtful, [RP]retribution
+**FFBot** _(02-May-20 03:54 PM)_
+🎱 | Very doubtful, [RP]retribution
 
-**Rashidi** *(02-May-20 03:54 PM)*
+**Rashidi** _(02-May-20 03:54 PM)_
+
 > Dakari: Having a bunch of frozen waffles are very useful
 
-**Rashidi** *(02-May-20 03:54 PM)*
+**Rashidi** _(02-May-20 03:54 PM)_
+
 > Dakari: Having cooling and freezing technology would have been great back on Rothvar
 
-**Cooldude** *(02-May-20 03:56 PM)*
+**Cooldude** _(02-May-20 03:56 PM)_
 What's nick doing?
 
-**Sean** *(02-May-20 03:56 PM)*
+**Sean** _(02-May-20 03:56 PM)_
+
 > Seth: "ETA is now 1440 minutes"
 
-**Sean** *(02-May-20 03:56 PM)*
+**Sean** _(02-May-20 03:56 PM)_
+
 > Seth: "Might I recommend repairing the warp drive?"
 
-**Zander** *(02-May-20 03:57 PM)*
+**Zander** _(02-May-20 03:57 PM)_
+
 > Emmett: Shut up! I'm on the warp drive now.
 
-**Sean** *(02-May-20 03:58 PM)*
+**Sean** _(02-May-20 03:58 PM)_
+
 > Seth: "If you are unable to repair the warp-drive please try to repair Jognon Driver and Axel."
 
-**Brody** *(02-May-20 03:58 PM)*
+**Brody** _(02-May-20 03:58 PM)_
 t!8ball Does Emmett go to fix the warp-drive?
 
-**FFBot** *(02-May-20 03:58 PM)*
-🎱 |  Outlook not so good, Brakia
+**FFBot** _(02-May-20 03:58 PM)_
+🎱 | Outlook not so good, Brakia
 
-**Sean** *(02-May-20 03:58 PM)*
+**Sean** _(02-May-20 03:58 PM)_
+
 > Seth: "Update."
 
-**Sean** *(02-May-20 03:58 PM)*
+**Sean** _(02-May-20 03:58 PM)_
+
 > Seth: "Warp-drive is in need of replacement"
 
-**Sean** *(02-May-20 03:58 PM)*
+**Sean** _(02-May-20 03:58 PM)_
+
 > Seth: "Please replace the warp-drive."
 
-**Zander** *(02-May-20 03:58 PM)*
+**Zander** _(02-May-20 03:58 PM)_
 
+_Emmett slaps the warp drive._
 
-*Emmett slaps the warp drive.*
+**Brody** _(02-May-20 03:59 PM)_
 
-**Brody** *(02-May-20 03:59 PM)*
 > Sanya: Replacement?
 
-**Zander** *(02-May-20 03:59 PM)*
+**Zander** _(02-May-20 03:59 PM)_
 t!8ball Does Mateo scarf down a plate of food in military fashion?
 
-**FFBot** *(02-May-20 03:59 PM)*
-🎱 |  Signs point to yes, mtyms818
+**FFBot** _(02-May-20 03:59 PM)_
+🎱 | Signs point to yes, mtyms818
 
-**Zander** *(02-May-20 03:59 PM)*
+**Zander** _(02-May-20 03:59 PM)_
+
 > Emmett: That was pretty good, thanks.
 
-**Rashidi** *(02-May-20 03:59 PM)*
+**Rashidi** _(02-May-20 03:59 PM)_
 
+_Dakari, finishing the food, places the platters on the counter_
 
-*Dakari, finishing the food, places the platters on the counter*
+**Rashidi** _(02-May-20 03:59 PM)_
 
-**Rashidi** *(02-May-20 03:59 PM)*
 > Dakari: Food's done ya'll
 
-**Sean** *(02-May-20 03:59 PM)*
+**Sean** _(02-May-20 03:59 PM)_
+
 > Seth: Emmett, you fix the warp drive yet?
 
-**Trey** *(02-May-20 04:00 PM)*
+**Trey** _(02-May-20 04:00 PM)_
+
 > Garrick: food
 
-**Rashidi** *(02-May-20 04:00 PM)*
+**Rashidi** _(02-May-20 04:00 PM)_
+
 > Dakari: Yes... food.
 
-**Zander** *(02-May-20 04:00 PM)*
+**Zander** _(02-May-20 04:00 PM)_
+
 > Emmett: I need like a stick of gum or something adhesive.
 
-**Cooldude** *(02-May-20 04:00 PM)*
+**Cooldude** _(02-May-20 04:00 PM)_
 I'll actually start doing something besides getting up from a bathtub this episode
 
-**Sean** *(02-May-20 04:01 PM)*
+**Sean** _(02-May-20 04:01 PM)_
+
 > Seth: "Attention, I can not guarantee the safety of the crew and the ship if you were to use the warp-drive without replacing it."
 
-**Zander** *(02-May-20 04:01 PM)*
+**Zander** _(02-May-20 04:01 PM)_
+
 > Emmett: So, tell me more about your crew.
 
-**Sean** *(02-May-20 04:01 PM)*
+**Sean** _(02-May-20 04:01 PM)_
+
 > Seth: "Repairs have a CALCULATING..."
 
-**Sean** *(02-May-20 04:01 PM)*
+**Sean** _(02-May-20 04:01 PM)_
+
 > Seth: "CALCULATING..."
 
-**Zander** *(02-May-20 04:01 PM)*
+**Zander** _(02-May-20 04:01 PM)_
+
 > Emmett: Well, our crew, I guess.
 
-**Sean** *(02-May-20 04:01 PM)*
+**Sean** _(02-May-20 04:01 PM)_
+
 > Seth: "CALCULATING..."
 
-**Trey** *(02-May-20 04:02 PM)*
+**Trey** _(02-May-20 04:02 PM)_
 
+_Garrick enters the kitchen and eats food._
 
-*Garrick enters the kitchen and eats food.*
+**Sean** _(02-May-20 04:02 PM)_
 
-**Sean** *(02-May-20 04:02 PM)*
 > Seth: "5% chance of succeeding."
 
-**Trey** *(02-May-20 04:02 PM)*
+**Trey** _(02-May-20 04:02 PM)_
 @Jonas
 
-**Zander** *(02-May-20 04:02 PM)*
+**Zander** _(02-May-20 04:02 PM)_
+
 > Emmett: Ahem, Floran.
 
-**Brody** *(02-May-20 04:02 PM)*
+**Brody** _(02-May-20 04:02 PM)_
+
 > Sanya: What?
 
-**Zander** *(02-May-20 04:03 PM)*
+**Zander** _(02-May-20 04:03 PM)_
+
 > Emmett: What's the deal about this crew?
 
-**Brody** *(02-May-20 04:03 PM)*
+**Brody** _(02-May-20 04:03 PM)_
+
 > Sanya: What do you mean, deal?
 
-**Zander** *(02-May-20 04:03 PM)*
+**Zander** _(02-May-20 04:03 PM)_
+
 > Emmett: CALI. Change your voice coms to me, Emmett.
 > Emmett: Tell me about the people I'll probably be working with.
 > Emmett: I'd like to not be in the dark, here.
 
-**Sean** *(02-May-20 04:03 PM)*
+**Sean** _(02-May-20 04:03 PM)_
+
 > Seth: "Changing coms to Emmett."
 
-**Sean** *(02-May-20 04:03 PM)*
+**Sean** _(02-May-20 04:03 PM)_
+
 > Seth: "How can I be of service Emmett?"
 
-**Zander** *(02-May-20 04:04 PM)*
+**Zander** _(02-May-20 04:04 PM)_
+
 > Emmett: Tell me time estimation.
 
-**Brody** *(02-May-20 04:04 PM)*
+**Brody** _(02-May-20 04:04 PM)_
+
 > Sanya: Well, it's a rag-tag group. Seth is our Captain, a sex-crazed immortal Elf.
 
-**Cooldude** *(02-May-20 04:04 PM)*
+**Cooldude** _(02-May-20 04:04 PM)_
 Do space maggots live in the junk pit or is the junk pit not at the lower layers?
 
-**Sean** *(02-May-20 04:04 PM)*
+**Sean** _(02-May-20 04:04 PM)_
+
 > Seth: "1440 minutes."
 
-**Zander** *(02-May-20 04:04 PM)*
+**Zander** _(02-May-20 04:04 PM)_
+
 > Emmett: Sounds like the wrong guy to mess with.
 
-**Brody** *(02-May-20 04:04 PM)*
+**Brody** _(02-May-20 04:04 PM)_
+
 > Sanya: Emmett is our pilot, and the most wanted person in the galaxy.
 
-**Brody** *(02-May-20 04:04 PM)*
+**Brody** _(02-May-20 04:04 PM)_
+
 > Sanya: We have Chomsky and Garrick, a pyromaniac and kleptomaniac respectively.
 
-**Brody** *(02-May-20 04:04 PM)*
+**Brody** _(02-May-20 04:04 PM)_
+
 > Sanya: Iris, a young lady who doesn't really belong in a group this strange.
 
-**Zander** *(02-May-20 04:06 PM)*
+**Zander** _(02-May-20 04:06 PM)_
+
 > Emmett: I have met her.
 
-**Brody** *(02-May-20 04:06 PM)*
+**Brody** _(02-May-20 04:06 PM)_
+
 > Sanya: And a few other assorted people.
 
-**Sean** *(02-May-20 04:06 PM)*
+**Sean** _(02-May-20 04:06 PM)_
+
 > Seth: "Though if you were to repair the Jognon Driver and the Axel, it should cut the time it takes to about, CALCULATING..."
 
-**Zander** *(02-May-20 04:06 PM)*
+**Zander** _(02-May-20 04:06 PM)_
+
 > Emmett: I'll bite my tongue on how I feel about her.
 
-**Sean** *(02-May-20 04:06 PM)*
+**Sean** _(02-May-20 04:06 PM)_
+
 > Seth: "CALCULATING..."
 
-**Sean** *(02-May-20 04:06 PM)*
+**Sean** _(02-May-20 04:06 PM)_
+
 > Seth: "CALCULATING..."
 
-**Sean** *(02-May-20 04:06 PM)*
+**Sean** _(02-May-20 04:06 PM)_
+
 > Seth: "CALCULATING..."
 
-**Sean** *(02-May-20 04:06 PM)*
+**Sean** _(02-May-20 04:06 PM)_
+
 > Seth: "ETA would be 670 minutes."
 
-**Zander** *(02-May-20 04:07 PM)*
+**Zander** _(02-May-20 04:07 PM)_
+
 > Emmett: You've said nothing about yourself.
 
-**Michael** *(02-May-20 04:08 PM)*
-t!8ball do  the ship get a burst of lightspeed?
+**Michael** _(02-May-20 04:08 PM)_
+t!8ball do the ship get a burst of lightspeed?
 (edited)
 
-**Trey** *(02-May-20 04:08 PM)*
+**Trey** _(02-May-20 04:08 PM)_
 8poop
 
-**Brody** *(02-May-20 04:08 PM)*
+**Brody** _(02-May-20 04:08 PM)_
+
 > Sanya: What do you want to know?
 
-**Michael** *(02-May-20 04:08 PM)*
+**Michael** _(02-May-20 04:08 PM)_
 t!8ball does the ship get a burst of lightspeed?
 
-**Zander** *(02-May-20 04:08 PM)*
+**Zander** _(02-May-20 04:08 PM)_
+
 > Emmett: What's your own personal synopsis?
 
-**Cooldude** *(02-May-20 04:09 PM)*
+**Cooldude** _(02-May-20 04:09 PM)_
 8poop
 
-**FFBot** *(02-May-20 04:09 PM)*
-🎱 |  My sources say no, Zander
+**FFBot** _(02-May-20 04:09 PM)_
+🎱 | My sources say no, Zander
 
-**Brody** *(02-May-20 04:09 PM)*
+**Brody** _(02-May-20 04:09 PM)_
+
 > Sanya: An assassin fused with a god.
 
-**Brody** *(02-May-20 04:09 PM)*
+**Brody** _(02-May-20 04:09 PM)_
+
 > Sanya: Any more questions?
 
-**Trey** *(02-May-20 04:10 PM)*
+**Trey** _(02-May-20 04:10 PM)_
+
 > Garrick: I have a question.
 
-**Brody** *(02-May-20 04:10 PM)*
+**Brody** _(02-May-20 04:10 PM)_
+
 > Sanya: What is it?
 
-**Cooldude** *(02-May-20 04:10 PM)*
+**Cooldude** _(02-May-20 04:10 PM)_
 Do ghosts have boners?
 
-**Zander** *(02-May-20 04:11 PM)*
+**Zander** _(02-May-20 04:11 PM)_
+
 > Emmett: I guess we have alot of supernaturals here, don't we?
 
-**Michael** *(02-May-20 04:11 PM)*
+**Michael** _(02-May-20 04:11 PM)_
 t!8ball does the ship get a burst of lightspeed?
 
-**Trey** *(02-May-20 04:11 PM)*
+**Trey** _(02-May-20 04:11 PM)_
+
 > Garrick: If you put food in Dread's eye-mouth, does it feed you or him?
 
-**Brody** *(02-May-20 04:12 PM)*
+**Brody** _(02-May-20 04:12 PM)_
+
 > Sanya: A few.
 
-**Sean** *(02-May-20 04:12 PM)*
+**Sean** _(02-May-20 04:12 PM)_
 
+_Emmett eats poop_
 
-*Emmett eats poop*
+**Brody** _(02-May-20 04:12 PM)_
 
-**Brody** *(02-May-20 04:12 PM)*
 > Sanya: Also, that's... a good question.
 
-**Zander** *(02-May-20 04:12 PM)*
+**Zander** _(02-May-20 04:12 PM)_
 8ball
 
-**Brody** *(02-May-20 04:12 PM)*
+**Brody** _(02-May-20 04:12 PM)_
 
+_D: Both._
 
-*D: Both.*
+**Trey** _(02-May-20 04:12 PM)_
 
-**Trey** *(02-May-20 04:12 PM)*
 > Garrick: I guess that makes sense.
 
-**Trey** *(02-May-20 04:12 PM)*
+**Trey** _(02-May-20 04:12 PM)_
+
 > Garrick: You two are kinda fused together.
 
-**Zander** *(02-May-20 04:13 PM)*
+**Zander** _(02-May-20 04:13 PM)_
+
 > Emmett: Am I missing something?
 
-**Cooldude** *(02-May-20 04:13 PM)*
+**Cooldude** _(02-May-20 04:13 PM)_
 I guess spirits can talk to other spirits
 
-**Zander** *(02-May-20 04:13 PM)*
+**Zander** _(02-May-20 04:13 PM)_
 8ball poop
 
-**Brody** *(02-May-20 04:14 PM)*
+**Brody** _(02-May-20 04:14 PM)_
+
 > Sanya: No, nothing important.
 
-**Zander** *(02-May-20 04:15 PM)*
+**Zander** _(02-May-20 04:15 PM)_
+
 > Emmett: Ship's fixed, everyone!
 
-**Trey** *(02-May-20 04:16 PM)*
+**Trey** _(02-May-20 04:16 PM)_
+
 > Garrick: Is the warp drive working or are we betting on that 5% chance?
 
-**Cooldude** *(02-May-20 04:16 PM)*
+**Cooldude** _(02-May-20 04:16 PM)_
 I'll be right back
 
-**Cooldude** *(02-May-20 04:16 PM)*
+**Cooldude** _(02-May-20 04:16 PM)_
 My mom made rice crispy treats
 
-**Trey** *(02-May-20 04:17 PM)*
+**Trey** _(02-May-20 04:17 PM)_
 8poop
 
-**Sean** *(02-May-20 04:17 PM)*
+**Sean** _(02-May-20 04:17 PM)_
 8poop
 
-**Michael** *(02-May-20 04:17 PM)*
+**Michael** _(02-May-20 04:17 PM)_
 8ball does the ship get a burst of lightspeed?
 
-**FFBot** *(02-May-20 04:17 PM)*
+**FFBot** _(02-May-20 04:17 PM)_
 Cannot predict now :8ball:
 
-**Michael** *(02-May-20 04:17 PM)*
+**Michael** _(02-May-20 04:17 PM)_
 8ball does the ship get a burst of lightspeed?
 
-**FFBot** *(02-May-20 04:17 PM)*
+**FFBot** _(02-May-20 04:17 PM)_
 It is decidedly so :8ball:
 
-**Trey** *(02-May-20 04:18 PM)*
+**Trey** _(02-May-20 04:18 PM)_
 8ball does Garrick feed Dread a type of confectionery that is typically made from sugar, water and gelatin whipped to a squishy consistency?
 
-**FFBot** *(02-May-20 04:18 PM)*
+**FFBot** _(02-May-20 04:18 PM)_
 Reply hazy try again :8ball:
 
-**Zander** *(02-May-20 04:18 PM)*
+**Zander** _(02-May-20 04:18 PM)_
+
 > Emmett: Cali how's the estimate now?
 
-*Emmett nimbly jumps onto the seat that Sanya was at and rests his legs over Sanya.*
+_Emmett nimbly jumps onto the seat that Sanya was at and rests his legs over Sanya._
 
-**Sean** *(02-May-20 04:18 PM)*
+**Sean** _(02-May-20 04:18 PM)_
+
 > Seth: "CALCULATING.."
 
-**Sean** *(02-May-20 04:18 PM)*
+**Sean** _(02-May-20 04:18 PM)_
+
 > Seth: "CALCULATING.."
 
-**Trey** *(02-May-20 04:19 PM)*
+**Trey** _(02-May-20 04:19 PM)_
 8ball does Garrick feed Dread a marshmallow?
 
-**FFBot** *(02-May-20 04:19 PM)*
+**FFBot** _(02-May-20 04:19 PM)_
 It is certain :8ball:
 
-**Sean** *(02-May-20 04:19 PM)*
+**Sean** _(02-May-20 04:19 PM)_
+
 > Seth: "CALCULATING.."
 
-**Sean** *(02-May-20 04:19 PM)*
+**Sean** _(02-May-20 04:19 PM)_
+
 > Seth: "ATTENTION"
 
-**Brody** *(02-May-20 04:19 PM)*
+**Brody** _(02-May-20 04:19 PM)_
 
+_D: Tasty._
 
-*D: Tasty.*
-
-**Rashidi** *(02-May-20 04:19 PM)*
+**Rashidi** _(02-May-20 04:19 PM)_
 8ball Does Dakari search through the kitchen's cutlery to find knives worthy of weapons?
 
-**FFBot** *(02-May-20 04:19 PM)*
+**FFBot** _(02-May-20 04:19 PM)_
 Concentrate and ask again :8ball:
 
-**Sean** *(02-May-20 04:19 PM)*
+**Sean** _(02-May-20 04:19 PM)_
+
 > Seth: "We have overshot our target."
 
-**Zander** *(02-May-20 04:19 PM)*
+**Zander** _(02-May-20 04:19 PM)_
 8poop
 
-**FFBot** *(02-May-20 04:19 PM)*
+**FFBot** _(02-May-20 04:19 PM)_
 No, you are poop.
 
-**Rashidi** *(02-May-20 04:19 PM)*
+**Rashidi** _(02-May-20 04:19 PM)_
 8ball Does Dakari search through the kitchen's cutlery to find knives worthy of weapons?
 
-**FFBot** *(02-May-20 04:19 PM)*
+**FFBot** _(02-May-20 04:19 PM)_
 Yes, definitely :8ball:
 
-**Trey** *(02-May-20 04:19 PM)*
+**Trey** _(02-May-20 04:19 PM)_
 8poop
 
-**FFBot** *(02-May-20 04:19 PM)*
+**FFBot** _(02-May-20 04:19 PM)_
 No, you are poop.
 
-**Sean** *(02-May-20 04:19 PM)*
+**Sean** _(02-May-20 04:19 PM)_
+
 > Seth: "Estimated time is looking at 670."
 
-**Zander** *(02-May-20 04:20 PM)*
+**Zander** _(02-May-20 04:20 PM)_
+
 > Emmett: Guess who's back, Sanya?
 
-**Brody** *(02-May-20 04:20 PM)*
+**Brody** _(02-May-20 04:20 PM)_
+
 > Sanya: What are you doing, Emmett?
 
-**Rashidi** *(02-May-20 04:21 PM)*
+**Rashidi** _(02-May-20 04:21 PM)_
 
+_Dakari muttering to himself_
 
-*Dakari muttering to himself*
 > Dakari: This knife could use some repurposing...
 
-**Cooldude** *(02-May-20 04:21 PM)*
+**Cooldude** _(02-May-20 04:21 PM)_
 I'm back
 
-**Rashidi** *(02-May-20 04:21 PM)*
+**Rashidi** _(02-May-20 04:21 PM)_
+
 > Dakari: Butter knives, I could use for later...
 
-**Zander** *(02-May-20 04:21 PM)*
+**Zander** _(02-May-20 04:21 PM)_
+
 > Emmett: Oh you know. Showing you my kicks.
 
-*Emmett, of course, had no kicks to show off.*
+_Emmett, of course, had no kicks to show off._
 
-**Brody** *(02-May-20 04:21 PM)*
+**Brody** _(02-May-20 04:21 PM)_
+
 > Sanya: Get off me.
 
-**Rashidi** *(02-May-20 04:21 PM)*
+**Rashidi** _(02-May-20 04:21 PM)_
+
 > Dakari: Plastic knifes? How dumb, what's the point in that?
 
-**Zander** *(02-May-20 04:22 PM)*
+**Zander** _(02-May-20 04:22 PM)_
+
 > Emmett: Dakari, don't lacerate yourself.
 
-**Brody** *(02-May-20 04:22 PM)*
+**Brody** _(02-May-20 04:22 PM)_
 
+_Sanya gets out of her chair_
 
-*Sanya gets out of her chair*
+**Cooldude** _(02-May-20 04:22 PM)_
 
-**Cooldude** *(02-May-20 04:22 PM)*
+_emit eats Santa's diaper_
 
+**Rashidi** _(02-May-20 04:22 PM)_
 
-*emit eats Santa's diaper*
-
-**Rashidi** *(02-May-20 04:22 PM)*
 > Dakari: This steak knife is too unbalanced unfortunately...
 
-**Cooldude** *(02-May-20 04:22 PM)*
+**Cooldude** _(02-May-20 04:22 PM)_
 The Christmas special
 
-**Zander** *(02-May-20 04:22 PM)*
+**Zander** _(02-May-20 04:22 PM)_
 
+_Emmett holds on, now on Sanya's shoulders._
 
-*Emmett holds on, now on Sanya's shoulders.*
-
-**Sean** *(02-May-20 04:23 PM)*
+**Sean** _(02-May-20 04:23 PM)_
 8ball Does Emmett eat poop because of a really bad mutation?
 
-**FFBot** *(02-May-20 04:23 PM)*
+**FFBot** _(02-May-20 04:23 PM)_
 Yes :8ball:
 
-**Zander** *(02-May-20 04:23 PM)*
+**Zander** _(02-May-20 04:23 PM)_
+
 > Emmett: This is the tallest I've ever been!
 
-**Rashidi** *(02-May-20 04:23 PM)*
+**Rashidi** _(02-May-20 04:23 PM)_
+
 > Dakari: I work with this all the time, I'll be fine.
 
-**Brody** *(02-May-20 04:23 PM)*
+**Brody** _(02-May-20 04:23 PM)_
 
+_Sanya's getting very angy_
 
-*Sanya's getting very angy*
-
-**Zander** *(02-May-20 04:23 PM)*
+**Zander** _(02-May-20 04:23 PM)_
 8ball Does time skip by eleven hours in three turns?
 (edited)
 
-**FFBot** *(02-May-20 04:23 PM)*
+**FFBot** _(02-May-20 04:23 PM)_
 Most likely :8ball:
 
-**Trey** *(02-May-20 04:24 PM)*
+**Trey** _(02-May-20 04:24 PM)_
 8ball does Dread bite Emmett out of fury and frustration
 
-**FFBot** *(02-May-20 04:24 PM)*
+**FFBot** _(02-May-20 04:24 PM)_
 Cannot predict now :8ball:
 
-**Cooldude** *(02-May-20 04:24 PM)*
+**Cooldude** _(02-May-20 04:24 PM)_
 
+_Emm man transforms into a poo monster and eats dinner_
 
-*Emm man transforms into a poo monster and eats dinner*
-
-**Trey** *(02-May-20 04:24 PM)*
+**Trey** _(02-May-20 04:24 PM)_
 8ball does Dread bite Emmett out of fury and frustration
 
-**FFBot** *(02-May-20 04:24 PM)*
+**FFBot** _(02-May-20 04:24 PM)_
 Most likely :8ball:
 
-**Brody** *(02-May-20 04:24 PM)*
+**Brody** _(02-May-20 04:24 PM)_
+
 > Sanya: Get. Off.
 
-**Brody** *(02-May-20 04:24 PM)*
-~*D: *Chomp**~
+**Brody** _(02-May-20 04:24 PM)_
+~*D: *Chomp\*\*~
 (edited)
 
-**Zander** *(02-May-20 04:24 PM)*
+**Zander** _(02-May-20 04:24 PM)_
 
+_Emmett leans over and sticks his tongue out in her face._
 
-*Emmett leans over and sticks his tongue out in her face.*
-
-**Cooldude** *(02-May-20 04:24 PM)*
+**Cooldude** _(02-May-20 04:24 PM)_
 Who's turn is it?
 
-**Brody** *(02-May-20 04:25 PM)*
+**Brody** _(02-May-20 04:25 PM)_
 8ball Does Sanya throw Emmett off her back?
 
-**FFBot** *(02-May-20 04:25 PM)*
+**FFBot** _(02-May-20 04:25 PM)_
 Very doubtful :8ball:
 
-**Brody** *(02-May-20 04:25 PM)*
+**Brody** _(02-May-20 04:25 PM)_
+
 > Sanya: Just, ugh.
 
-**Cooldude** *(02-May-20 04:25 PM)*
+**Cooldude** _(02-May-20 04:25 PM)_
 
+_Emitt gets chased by the cops_
 
-*Emitt gets chased by the cops*
+**Zander** _(02-May-20 04:25 PM)_
 
-**Zander** *(02-May-20 04:25 PM)*
 > Emmett: Your flower is cute.
 
-**Zander** *(02-May-20 04:25 PM)*
+**Zander** _(02-May-20 04:25 PM)_
 
+_Emmett pulls his shirt away from the vile flower._
 
-*Emmett pulls his shirt away from the vile flower.*
-
-**Cooldude** *(02-May-20 04:26 PM)*
+**Cooldude** _(02-May-20 04:26 PM)_
 8ball should I finally awake from my long slumber?
 
-**FFBot** *(02-May-20 04:26 PM)*
+**FFBot** _(02-May-20 04:26 PM)_
 You may rely on it :8ball:
 
-**Zander** *(02-May-20 04:26 PM)*
+**Zander** _(02-May-20 04:26 PM)_
 8ball do I take a rest in order to process my situation?
 
-**FFBot** *(02-May-20 04:26 PM)*
+**FFBot** _(02-May-20 04:26 PM)_
 Reply hazy try again :8ball:
 
-**Zander** *(02-May-20 04:26 PM)*
+**Zander** _(02-May-20 04:26 PM)_
 8ball do I take a rest in order to process my situation?
 
-**FFBot** *(02-May-20 04:26 PM)*
+**FFBot** _(02-May-20 04:26 PM)_
 It is decidedly so :8ball:
 
-**Michael** *(02-May-20 04:27 PM)*
+**Michael** _(02-May-20 04:27 PM)_
 8ball does Garrick start spouting the Dictionarium song from memory despite not knowing it?
 
-**FFBot** *(02-May-20 04:27 PM)*
+**FFBot** _(02-May-20 04:27 PM)_
 Yes :8ball:
 
-**Brody** *(02-May-20 04:27 PM)*
+**Brody** _(02-May-20 04:27 PM)_
 
+_D: Bitch._
 
-*D: Bitch.*
+**Cooldude** _(02-May-20 04:27 PM)_
 
-**Cooldude** *(02-May-20 04:27 PM)*
+_Wemmfort wakes up, confused of his surroundings, cause of his long slumber_
 
+**Trey** _(02-May-20 04:27 PM)_
 
-*Wemmfort wakes up, confused of his surroundings, cause of his long slumber*
-
-**Trey** *(02-May-20 04:27 PM)*
 > Garrick: Dictionarium! Dictionarium.
 
-**Zander** *(02-May-20 04:27 PM)*
+**Zander** _(02-May-20 04:27 PM)_
 TIME SKIP. WE'RE AT THE JUNK PIT.
 
-**Sean** *(02-May-20 04:27 PM)*
+**Sean** _(02-May-20 04:27 PM)_
+
 > Seth: "NOW ARRIVING. OLAG'S JUNK PIT"
 
-**Cooldude** *(02-May-20 04:27 PM)*
+**Cooldude** _(02-May-20 04:27 PM)_
 
+_wemmfort walks out the bathroom, confused where everyone went_
 
-*wemmfort walks out the bathroom, confused where everyone went*
+**Michael** _(02-May-20 04:28 PM)_
 
-**Michael** *(02-May-20 04:28 PM)*
+_Theylin is working on his broken ship_
 
+**Zander** _(02-May-20 04:28 PM)_
 
-*Theylin is working on his broken ship*
+_Emmett was currently unconscious, having been bodyslammed by a certain floran._
 
-**Zander** *(02-May-20 04:28 PM)*
+**Cooldude** _(02-May-20 04:29 PM)_
 
+_While everyone's gone, wemmfort searches for space maggots for Seth._
 
-*Emmett was currently unconscious, having been bodyslammed by a certain floran.*
-
-**Cooldude** *(02-May-20 04:29 PM)*
-
-
-*While everyone's gone, wemmfort searches for space maggots for Seth.*
-
-**Rashidi** *(02-May-20 04:29 PM)*
+**Rashidi** _(02-May-20 04:29 PM)_
 8ball Does Dakari exit the ship with his weapons in hand?
 
-**FFBot** *(02-May-20 04:29 PM)*
+**FFBot** _(02-May-20 04:29 PM)_
 Very doubtful :8ball:
 
-**Sean** *(02-May-20 04:30 PM)*
+**Sean** _(02-May-20 04:30 PM)_
 8ball Does Theylin's ship launch without him?
 
-**FFBot** *(02-May-20 04:30 PM)*
+**FFBot** _(02-May-20 04:30 PM)_
 Most likely :8ball:
 
-**Rashidi** *(02-May-20 04:30 PM)*
+**Rashidi** _(02-May-20 04:30 PM)_
+
 > Dakari: Guy's we're here!
 
-**Zander** *(02-May-20 04:30 PM)*
+**Zander** _(02-May-20 04:30 PM)_
 
+_Emmett hears Cali._
 
-*Emmett hears Cali.*
+**Zander** _(02-May-20 04:30 PM)_
 
-**Zander** *(02-May-20 04:30 PM)*
 > Emmett: I'm going to beat that flower.
 
-**Michael** *(02-May-20 04:30 PM)*
+**Michael** _(02-May-20 04:30 PM)_
 
+_Looks appalled as my pride and joy launches into space without him_
 
-*Looks appalled as my pride and joy launches into space without him*
+**Sean** _(02-May-20 04:31 PM)_
 
-**Sean** *(02-May-20 04:31 PM)*
+_Olag comes out of the shop_
 
+**Zander** _(02-May-20 04:31 PM)_
 
-*Olag comes out of the shop*
+_Emmett stretched and went to the entrance._
 
-**Zander** *(02-May-20 04:31 PM)*
+**Sean** _(02-May-20 04:31 PM)_
 
-
-*Emmett stretched and went to the entrance.*
-
-**Sean** *(02-May-20 04:31 PM)*
 > Seth: "HEY!"
 
-**Zander** *(02-May-20 04:31 PM)*
+**Zander** _(02-May-20 04:31 PM)_
 
+_Emmett has no recollection of the slimey being._
 
-*Emmett has no recollection of the slimey being.*
+**Sean** _(02-May-20 04:31 PM)_
 
-**Sean** *(02-May-20 04:31 PM)*
 > Seth: "WHAT'D I TELL YOU ABOUT LAUNCHING YOUR DAMN SHIP WITHOUT CLEARENCE, YA STUPID FUCKING IDIOT"
 
-**Michael** *(02-May-20 04:31 PM)*
+**Michael** _(02-May-20 04:31 PM)_
+
 > Theylin: HEY OLAG! Imma need to rent another ship...
 
-**Zander** *(02-May-20 04:32 PM)*
+**Zander** _(02-May-20 04:32 PM)_
 8ball Does Garrick phase through the junk pile and put at least 7 objects in his pocket dimension?
 
-**FFBot** *(02-May-20 04:32 PM)*
+**FFBot** _(02-May-20 04:32 PM)_
 My sources say no :8ball:
 
-**Cooldude** *(02-May-20 04:32 PM)*
+**Cooldude** _(02-May-20 04:32 PM)_
+
 > Wemmfort: "What time is it?"
 
-**Cooldude** *(02-May-20 04:32 PM)*
+**Cooldude** _(02-May-20 04:32 PM)_
 
+_Wemmfort checks the time_
 
-*Wemmfort checks the time*
+**Sean** _(02-May-20 04:33 PM)_
 
-**Sean** *(02-May-20 04:33 PM)*
 > Seth: "ALSO, you're fucking done, no more renting ships, go find someone else to rent a ship"
 
-**Trey** *(02-May-20 04:33 PM)*
+**Trey** _(02-May-20 04:33 PM)_
 8ball Does Garrick put at least 1 object in his pocket dimension?
 
-**FFBot** *(02-May-20 04:33 PM)*
+**FFBot** _(02-May-20 04:33 PM)_
 Signs point to yes :8ball:
 
-**Michael** *(02-May-20 04:33 PM)*
+**Michael** _(02-May-20 04:33 PM)_
+
 > Theylin: that's kind of cringe bro'
 
-**Trey** *(02-May-20 04:33 PM)*
+**Trey** _(02-May-20 04:33 PM)_
 
+_6 objects_
 
-*6 objects*
+**Sean** _(02-May-20 04:33 PM)_
 
-**Sean** *(02-May-20 04:33 PM)*
 > Seth: "Last two you rented came back in Junk Cubes."
 
-**Zander** *(02-May-20 04:33 PM)*
+**Zander** _(02-May-20 04:33 PM)_
+
 > Emmett: Uh, hi Olag.
 
-**Sean** *(02-May-20 04:33 PM)*
+**Sean** _(02-May-20 04:33 PM)_
+
 > Seth: "AHHH"
 
-**Michael** *(02-May-20 04:33 PM)*
+**Michael** _(02-May-20 04:33 PM)_
+
 > Theylin: You must have be confused with some other Torrid because I only rented one.
 
-**Sean** *(02-May-20 04:33 PM)*
+**Sean** _(02-May-20 04:33 PM)_
+
 > Seth: "EMMETT MAH LITTLE FRIEND"
 
-**Zander** *(02-May-20 04:34 PM)*
+**Zander** _(02-May-20 04:34 PM)_
 
+_Emmett hated the metallic feel on his feet._
 
-*Emmett hated the metallic feel on his feet.*
+**Sean** _(02-May-20 04:34 PM)_
 
-**Sean** *(02-May-20 04:34 PM)*
+_Olag squishes his body against Emmett_
 
+**Sean** _(02-May-20 04:34 PM)_
 
-*Olag squishes his body against Emmett*
-
-**Sean** *(02-May-20 04:34 PM)*
 > Seth: "COME HERE MAH FRIEND, GIVE ME A HUG, ITS BEEN SO LONG."
 
-**Zander** *(02-May-20 04:34 PM)*
+**Zander** _(02-May-20 04:34 PM)_
+
 > Emmett: Personal space! I don't-
 
-**Zander** *(02-May-20 04:34 PM)*
+**Zander** _(02-May-20 04:34 PM)_
 
+_Emmett squirmed a little._
 
-*Emmett squirmed a little.*
+**Sean** _(02-May-20 04:35 PM)_
 
-**Sean** *(02-May-20 04:35 PM)*
 > Seth: Hey Olag.
 
-**Cooldude** *(02-May-20 04:35 PM)*
+**Cooldude** _(02-May-20 04:35 PM)_
 Where is the weird apostrophe key on mobile?
 
-**Sean** *(02-May-20 04:35 PM)*
+**Sean** _(02-May-20 04:35 PM)_
+
 > Seth: "Hello Seth, how is mah little friend's memory coming along?"
 
-**Sean** *(02-May-20 04:35 PM)*
+**Sean** _(02-May-20 04:35 PM)_
 `
 
-**Cooldude** *(02-May-20 04:36 PM)*
+**Cooldude** _(02-May-20 04:36 PM)_
 
+_wemmfort sighs in relief_
 
-*wemmfort sighs in relief*
-> Wemmfort: ”ten at night. Nobody should be awake.”
+> Wemmfort: "ten at night. Nobody should be awake."
 
-**Sean** *(02-May-20 04:36 PM)*
+**Sean** _(02-May-20 04:36 PM)_
+
 > Seth: I guess its coming along alright, he remembers everything, almost everything that is.
 
-**Cooldude** *(02-May-20 04:36 PM)*
-8ball should wemmfort continue his “adventure”?
+**Cooldude** _(02-May-20 04:36 PM)_
+8ball should wemmfort continue his “adventure"?
 
-**FFBot** *(02-May-20 04:36 PM)*
+**FFBot** _(02-May-20 04:36 PM)_
 Yes, definitely :8ball:
 
-**Michael** *(02-May-20 04:37 PM)*
+**Michael** _(02-May-20 04:37 PM)_
 
+_is stuck in jar_
 
-*is stuck in jar*
+**Sean** _(02-May-20 04:37 PM)_
 
-**Sean** *(02-May-20 04:37 PM)*
 > Seth: "AH good good"
 
-**Cooldude** *(02-May-20 04:37 PM)*
+**Cooldude** _(02-May-20 04:37 PM)_
 
+_Wemmfort finds a few space maggots and puts them in a mason jar to milk them afterwards_
 
-*Wemmfort finds a few space maggots and puts them in a mason jar to milk them afterwards*
+**Sean** _(02-May-20 04:37 PM)_
 
-**Sean** *(02-May-20 04:37 PM)*
 > Seth: "Tuck it Emmett."
 
-**Sean** *(02-May-20 04:37 PM)*
+**Sean** _(02-May-20 04:37 PM)_
+
 > Seth: "Tuck it mah little friend"
 
-**Sean** *(02-May-20 04:37 PM)*
+**Sean** _(02-May-20 04:37 PM)_
+
 > Seth: "Tuck it in"
 
-**Sean** *(02-May-20 04:37 PM)*
+**Sean** _(02-May-20 04:37 PM)_
+
 > Seth: "Are you tucking it?"
 
-**Sean** *(02-May-20 04:37 PM)*
+**Sean** _(02-May-20 04:37 PM)_
+
 > Seth: "Tuck it"
 
-**Zander** *(02-May-20 04:39 PM)*
+**Zander** _(02-May-20 04:39 PM)_
 8ball Is Emmett's head doused in the slime?
 
-**FFBot** *(02-May-20 04:39 PM)*
+**FFBot** _(02-May-20 04:39 PM)_
 Concentrate and ask again :8ball:
 
-**Zander** *(02-May-20 04:40 PM)*
+**Zander** _(02-May-20 04:40 PM)_
 8ball Is Emmett's head doused in the slime?
 
-**FFBot** *(02-May-20 04:40 PM)*
+**FFBot** _(02-May-20 04:40 PM)_
 You may rely on it :8ball:
 
-**Sean** *(02-May-20 04:40 PM)*
+**Sean** _(02-May-20 04:40 PM)_
 8ball Does Emmett tuck it?
 
-**FFBot** *(02-May-20 04:40 PM)*
+**FFBot** _(02-May-20 04:40 PM)_
 Yes, definitely :8ball:
 
-**Cooldude** *(02-May-20 04:42 PM)*
+**Cooldude** _(02-May-20 04:42 PM)_
 
+_Wemmfort takes another nap, though he plans to wake up shortly in a few hours_
 
-*Wemmfort takes another nap, though he plans to wake up shortly in a few hours*
-
-**Cooldude** *(02-May-20 04:42 PM)*
+**Cooldude** _(02-May-20 04:42 PM)_
 That was a jar full of space maggots
 
-**Cooldude** *(02-May-20 04:42 PM)*
+**Cooldude** _(02-May-20 04:42 PM)_
 Before taking a nap,Wemmfort takes the jar of space maggots and tucks it in the sink cabinet of his bathroom
 
-**Zander** *(18-May-20 03:34 PM)*
+**Zander** _(18-May-20 03:34 PM)_
 
+_Emmett is being smothered by the slimeball, and he is currently trying to get out of his goopy grasp._
 
-*Emmett is being smothered by the slimeball, and he is currently trying to get out of his goopy grasp.*
+**Zander** _(18-May-20 03:34 PM)_
 
-**Zander** *(18-May-20 03:34 PM)*
 > Emmett: Get the fuck off of me!
 
-**Brody** *(18-May-20 03:34 PM)*
+**Brody** _(18-May-20 03:34 PM)_
 8ball does Sanya do a bit of light research?
 
-**FFBot** *(18-May-20 03:34 PM)*
+**FFBot** _(18-May-20 03:34 PM)_
 My sources say no :8ball:
 
-**Zander** *(18-May-20 03:35 PM)*
+**Zander** _(18-May-20 03:35 PM)_
+
 > Emmett: Sanya! Get over here!
 
-**Brody** *(18-May-20 03:35 PM)*
+**Brody** _(18-May-20 03:35 PM)_
+
 > Sanya: Hm? What's going on?
 
-**Brody** *(18-May-20 03:35 PM)*
+**Brody** _(18-May-20 03:35 PM)_
 
+_Sanya walks out of the ship_
 
-*Sanya walks out of the ship*
+**Sean** _(18-May-20 03:35 PM)_
 
-**Sean** *(18-May-20 03:35 PM)*
 > Seth: Emmett, can I borrow like, I don't know, 50,000 ducketts?
 
-**Zander** *(18-May-20 03:36 PM)*
+**Zander** _(18-May-20 03:36 PM)_
 
+_Emmett tried to use his powerful goat legs to no avail._
 
-*Emmett tried to use his powerful goat legs to no avail.*
+**Sean** _(18-May-20 03:36 PM)_
 
-**Sean** *(18-May-20 03:36 PM)*
 > Seth: Its not for repairs, I swear
 
-**Brody** *(18-May-20 03:36 PM)*
+**Brody** _(18-May-20 03:36 PM)_
+
 > Sanya: Having fun, Emmett?
 
-**Zander** *(18-May-20 03:36 PM)*
+**Zander** _(18-May-20 03:36 PM)_
 
+_In a mocking tone_
 
-*In a mocking tone*
 > Emmett: Emmett, can I fuck your mom? Emmett, can I suck her tits?
 
-**Sean** *(18-May-20 03:36 PM)*
+**Sean** _(18-May-20 03:36 PM)_
+
 > Seth: Too late, already did that, don't need your permission
 
-**Zander** *(18-May-20 03:36 PM)*
+**Zander** _(18-May-20 03:36 PM)_
 
+_He's gasping for air._
 
-*He's gasping for air.*
+**Sean** _(18-May-20 03:37 PM)_
 
-**Sean** *(18-May-20 03:37 PM)*
 > Seth: "Tuck it in man"
 
-**Sean** *(18-May-20 03:37 PM)*
+**Sean** _(18-May-20 03:37 PM)_
+
 > Seth: "Comeon, tuck it"
 
-**Zander** *(18-May-20 03:37 PM)*
+**Zander** _(18-May-20 03:37 PM)_
 
+_Emmett bites the slime in self-defense and rips some off._
 
-*Emmett bites the slime in self-defense and rips some off.*
+**Brody** _(18-May-20 03:38 PM)_
 
-**Brody** *(18-May-20 03:38 PM)*
+_Sanya tries to grab some goo off of Emmett's mouth, but to no avail._
 
+**Sean** _(18-May-20 03:38 PM)_
 
-*Sanya tries to grab some goo off of Emmett's mouth, but to no avail.*
-
-**Sean** *(18-May-20 03:38 PM)*
 > Seth: "Feisty as always, haha"
 
-**Zander** *(18-May-20 03:38 PM)*
+**Zander** _(18-May-20 03:38 PM)_
+
 > Emmett: I'm literally going to puke in your mouth, you, you pedophile!
 
-**Sean** *(18-May-20 03:38 PM)*
+**Sean** _(18-May-20 03:38 PM)_
 
+_Olag gets off of Emmett, but leaves him coated in slime_
 
-*Olag gets off of Emmett, but leaves him coated in slime*
-
-**Rashidi** *(18-May-20 03:38 PM)*
+**Rashidi** _(18-May-20 03:38 PM)_
 8ball Does Dakarai look out of the ship?
 
-**FFBot** *(18-May-20 03:38 PM)*
+**FFBot** _(18-May-20 03:38 PM)_
 Without a doubt :8ball:
 
-**Trey** *(18-May-20 03:39 PM)*
+**Trey** _(18-May-20 03:39 PM)_
 
+_Garrick emerges._
 
-*Garrick emerges.*
+**Sean** _(18-May-20 03:39 PM)_
 
-**Sean** *(18-May-20 03:39 PM)*
 > Seth: "haha"
 
-**Brody** *(18-May-20 03:39 PM)*
+**Brody** _(18-May-20 03:39 PM)_
+
 > Sanya: Listen, Emmett, we need to get you better insults.
 
-**Rashidi** *(18-May-20 03:39 PM)*
+**Rashidi** _(18-May-20 03:39 PM)_
+
 > Dakari: What the hell...
 
-**Zander** *(18-May-20 03:39 PM)*
+**Zander** _(18-May-20 03:39 PM)_
 
+_Emmett wipes off the shit off his face._
 
-*Emmett wipes off the shit off his face.*
-
-**Sean** *(18-May-20 03:39 PM)*
+**Sean** _(18-May-20 03:39 PM)_
 8ball Does 6ix9ine grow into a 200 meter tall rat and start rapping about big macs to the crew?
 
-**FFBot** *(18-May-20 03:39 PM)*
+**FFBot** _(18-May-20 03:39 PM)_
 Cannot predict now :8ball:
 
-**Zander** *(18-May-20 03:39 PM)*
+**Zander** _(18-May-20 03:39 PM)_
+
 > Emmett: I think I can tell that I wanted to forget this place.
 
-**Sean** *(18-May-20 03:40 PM)*
+**Sean** _(18-May-20 03:40 PM)_
 8ball Does 6ix9ine grow into a 200 meter tall rat and start rapping about big macs to the crew?
 
-**FFBot** *(18-May-20 03:40 PM)*
+**FFBot** _(18-May-20 03:40 PM)_
 Don't count on it :8ball:
 
-**Cooldude** *(18-May-20 03:40 PM)*
+**Cooldude** _(18-May-20 03:40 PM)_
 off the shit off@Zander
 
-**Zander** *(18-May-20 03:40 PM)*
+**Zander** _(18-May-20 03:40 PM)_
 8ball Does Sanya actually help Emmett up instead of being a pussy about it?
 
-**FFBot** *(18-May-20 03:40 PM)*
+**FFBot** _(18-May-20 03:40 PM)_
 Yes :8ball:
 
-**Zander** *(18-May-20 03:41 PM)*
+**Zander** _(18-May-20 03:41 PM)_
+
 > Emmett: Let's just get the ship repaired and leave.
 
-**Brody** *(18-May-20 03:41 PM)*
+**Brody** _(18-May-20 03:41 PM)_
+
 > Sanya: Here, have a towel.
 
-**Sean** *(18-May-20 03:41 PM)*
+**Sean** _(18-May-20 03:41 PM)_
+
 > Seth: "Ahhh, what's wrong with the ship?"
 
-**Brody** *(18-May-20 03:41 PM)*
+**Brody** _(18-May-20 03:41 PM)_
 
+_She picks the goat up, and hands him a hand towel._
 
-*She picks the goat up, and hands him a hand towel.*
+**Sean** _(18-May-20 03:42 PM)_
 
-**Sean** *(18-May-20 03:42 PM)*
 > Seth: "Because it might take a bit depending, especially if it happens to be a warp drive"
 
-**Zander** *(18-May-20 03:42 PM)*
+**Zander** _(18-May-20 03:42 PM)_
 
+_Emmett is clearly flustered._
 
-*Emmett is clearly flustered.*
 > Emmett: Put me down, witch.
 
-**Brody** *(18-May-20 03:42 PM)*
+**Brody** _(18-May-20 03:42 PM)_
+
 > Sanya: Fine, here.
 
-**Brody** *(18-May-20 03:42 PM)*
+**Brody** _(18-May-20 03:42 PM)_
 
+_She puts him down, a tiny smile growing on her face._
 
-*She puts him down, a tiny smile growing on her face.*
+**Sean** _(18-May-20 03:43 PM)_
 
-**Sean** *(18-May-20 03:43 PM)*
 > Seth: "Emmett, my friend, what's the damage to the ship hm?"
 
-**Sean** *(18-May-20 03:43 PM)*
+**Sean** _(18-May-20 03:43 PM)_
+
 > Seth: "I might need some help"
 
-*wink wink*
+_wink wink_
 
-**Zander** *(18-May-20 03:44 PM)*
+**Zander** _(18-May-20 03:44 PM)_
 
+_Emmett sighs and looks up at her._
 
-*Emmett sighs and looks up at her.*
 > Emmett: I feel like a squaby when you do that.
 
-**Trey** *(18-May-20 03:44 PM)*
+**Trey** _(18-May-20 03:44 PM)_
+
 > Garrick: Squaby?
 
-**Zander** *(18-May-20 03:45 PM)*
+**Zander** _(18-May-20 03:45 PM)_
+
 > Emmett: Yeah, squaby.
 
-**Zander** *(18-May-20 03:45 PM)*
+**Zander** _(18-May-20 03:45 PM)_
+
 > Emmett: Is my translator not working?
 
-**Brody** *(18-May-20 03:45 PM)*
+**Brody** _(18-May-20 03:45 PM)_
+
 > Sanya: I assume that's a squoatling newborn?
 
-**Sean** *(18-May-20 03:45 PM)*
+**Sean** _(18-May-20 03:45 PM)_
 
+_Olag pats Emmett on the head_
 
-*Olag pats Emmett on the head*
+**Sean** _(18-May-20 03:45 PM)_
 
-**Sean** *(18-May-20 03:45 PM)*
 > Seth: "Whats the damage little friend?"
 
-**Zander** *(18-May-20 03:46 PM)*
+**Zander** _(18-May-20 03:46 PM)_
 
+_Emmett peers at the homo._
 
-*Emmett peers at the homo.*
 > Emmett: Our warp drive doesn't work. Our weapons are dysfunctional. Our engines are cracked. We have a literal hunk of a ship attached via tractor beam to our ship.
 
-**Rashidi** *(18-May-20 03:46 PM)*
+**Rashidi** _(18-May-20 03:46 PM)_
+
 > Dakari: So I'm assuming that big dude is Olag then.
 
-**Sean** *(18-May-20 03:46 PM)*
+**Sean** _(18-May-20 03:46 PM)_
+
 > Seth: "Hmmm."
 
-**Sean** *(18-May-20 03:46 PM)*
+**Sean** _(18-May-20 03:46 PM)_
+
 > Seth: "I'd have to take a look"
 
-**Sean** *(18-May-20 03:46 PM)*
+**Sean** _(18-May-20 03:46 PM)_
+
 > Seth: "I'll take that hunk of ship off your hands, for oh, I don't know, how about 900 ducketts?"
 
-**Zander** *(18-May-20 03:47 PM)*
+**Zander** _(18-May-20 03:47 PM)_
+
 > Emmett: Oh, hey Dakari.
 
-**Zander** *(18-May-20 03:47 PM)*
+**Zander** _(18-May-20 03:47 PM)_
+
 > Emmett: Nice of you to join us.
 
-**Rashidi** *(18-May-20 03:48 PM)*
+**Rashidi** _(18-May-20 03:48 PM)_
+
 > Dakari: Hey, I saw you getting molested by slime earlier. That was kind of off-putting
 
-**Zander** *(18-May-20 03:48 PM)*
+**Zander** _(18-May-20 03:48 PM)_
+
 > Emmett: And no, Olag. We need it for renovations. We want a bigger ship.
 
-**Sean** *(18-May-20 03:48 PM)*
+**Sean** _(18-May-20 03:48 PM)_
+
 > Seth: "Hmmm"
 
-**Zander** *(18-May-20 03:48 PM)*
+**Zander** _(18-May-20 03:48 PM)_
+
 > Emmett: I mean, you are the only one to notice his molestation.
 
-**Sean** *(18-May-20 03:48 PM)*
+**Sean** _(18-May-20 03:48 PM)_
+
 > Seth: "Y'all will be out of commission for a while."
 
-**Trey** *(18-May-20 03:49 PM)*
+**Trey** _(18-May-20 03:49 PM)_
 8ball does Garrick slap Olag around
 
-**FFBot** *(18-May-20 03:49 PM)*
+**FFBot** _(18-May-20 03:49 PM)_
 Ask again later :8ball:
 
-**Brody** *(18-May-20 03:49 PM)*
+**Brody** _(18-May-20 03:49 PM)_
 8ball Does Sanya take the time to go exploring?
 
-**FFBot** *(18-May-20 03:49 PM)*
+**FFBot** _(18-May-20 03:49 PM)_
 Very doubtful :8ball:
 
-**Trey** *(18-May-20 03:49 PM)*
+**Trey** _(18-May-20 03:49 PM)_
 8ball again
 
-**FFBot** *(18-May-20 03:49 PM)*
+**FFBot** _(18-May-20 03:49 PM)_
 My reply is no :8ball:
 
-**Rashidi** *(18-May-20 03:49 PM)*
+**Rashidi** _(18-May-20 03:49 PM)_
+
 > Dakari: Is there any story behind that Emmett?
 
-**Zander** *(18-May-20 03:49 PM)*
+**Zander** _(18-May-20 03:49 PM)_
+
 > Emmett: Hell if I know.
 
-**Cooldude** *(18-May-20 03:49 PM)*
+**Cooldude** _(18-May-20 03:49 PM)_
 8ball is wemmfort on the planet, too?
 
-**FFBot** *(18-May-20 03:49 PM)*
+**FFBot** _(18-May-20 03:49 PM)_
 Most likely :8ball:
 
-**Sean** *(18-May-20 03:49 PM)*
+**Sean** _(18-May-20 03:49 PM)_
+
 > Seth: "I hope you have the funds to pay for this."
 
-**Zander** *(18-May-20 03:49 PM)*
+**Zander** _(18-May-20 03:49 PM)_
+
 > Emmett: Sanya, where are you going?
 
-**Brody** *(18-May-20 03:49 PM)*
+**Brody** _(18-May-20 03:49 PM)_
+
 > Sanya: Hm. I don't quite trust him. Where do you know him from, again?
 
-**Rashidi** *(18-May-20 03:50 PM)*
+**Rashidi** _(18-May-20 03:50 PM)_
+
 > Dakari: He does seem kind of sketchy.
 
-**Sean** *(18-May-20 03:50 PM)*
+**Sean** _(18-May-20 03:50 PM)_
+
 > Seth: He's a guy I do business with.
 
-**Sean** *(18-May-20 03:50 PM)*
+**Sean** _(18-May-20 03:50 PM)_
+
 > Seth: I've known him for years.
 
-**Rashidi** *(18-May-20 03:50 PM)*
+**Rashidi** _(18-May-20 03:50 PM)_
+
 > Dakari: But who doesn't I suppose
 
-**Brody** *(18-May-20 03:50 PM)*
+**Brody** _(18-May-20 03:50 PM)_
+
 > Sanya: I was going to explore, but i don't trust him enough to leave him alone with the ship.
 
-**Zander** *(18-May-20 03:50 PM)*
+**Zander** _(18-May-20 03:50 PM)_
+
 > Emmett: He's a faggot, that's what he is.
 
-*Emmett goes to Sanya's side.*
+_Emmett goes to Sanya's side._
 
-**Rashidi** *(18-May-20 03:51 PM)*
+**Rashidi** _(18-May-20 03:51 PM)_
+
 > Dakari: Is this asteroid just a bunch of junk? Anything else to do here?
 
-**Sean** *(18-May-20 03:51 PM)*
+**Sean** _(18-May-20 03:51 PM)_
+
 > Seth: "Haha, cool it little friend"
 
-**Cooldude** *(18-May-20 03:51 PM)*
+**Cooldude** _(18-May-20 03:51 PM)_
+
 > Wemmfort: "Woah, This place is like a treasure pit!"
 
-**Sean** *(18-May-20 03:52 PM)*
+**Sean** _(18-May-20 03:52 PM)_
+
 > Seth: "And yes, we got a tiny diner, a hotel, and a gas station here"
 
-**Rashidi** *(18-May-20 03:52 PM)*
+**Rashidi** _(18-May-20 03:52 PM)_
+
 > Dakari: Interesting.
 
-**Sean** *(18-May-20 03:52 PM)*
+**Sean** _(18-May-20 03:52 PM)_
+
 > Seth: "Other than that, it's just me and my repair shop"
 
-**Brody** *(18-May-20 03:52 PM)*
+**Brody** _(18-May-20 03:52 PM)_
+
 > Sanya: Wait. What is that thing?
 
-**Brody** *(18-May-20 03:52 PM)*
+**Brody** _(18-May-20 03:52 PM)_
 
+_Sanya points at the ship_
 
-*Sanya points at the ship*
-
-**Rashidi** *(18-May-20 03:53 PM)*
+**Rashidi** _(18-May-20 03:53 PM)_
 8ball Does Dakari tell anyone he's leaving before heading off to explore?
 (edited)
 
-**FFBot** *(18-May-20 03:53 PM)*
+**FFBot** _(18-May-20 03:53 PM)_
 As I see it, yes :8ball:
 
-**Cooldude** *(18-May-20 03:53 PM)*
+**Cooldude** _(18-May-20 03:53 PM)_
 
+_wemmfort picks up a toilet lid and holds it high_
 
-*wemmfort picks up a toilet lid and holds it high*
 > Wemmfort: "truly a treasure pit!"
 
-**Zander** *(18-May-20 03:53 PM)*
+**Zander** _(18-May-20 03:53 PM)_
 8ball Does Olag have hallucinatory/hypnotizing abilities?
 
-**FFBot** *(18-May-20 03:53 PM)*
+**FFBot** _(18-May-20 03:53 PM)_
 My sources say no :8ball:
 
-**Brody** *(18-May-20 03:53 PM)*
+**Brody** _(18-May-20 03:53 PM)_
+
 > Sanya: Is he holding our toilet lid?
 
-**Rashidi** *(18-May-20 03:53 PM)*
+**Rashidi** _(18-May-20 03:53 PM)_
+
 > Dakari: Hey, I'm going into 'town'. Does anyone want to come with?
 
-**Zander** *(18-May-20 03:53 PM)*
+**Zander** _(18-May-20 03:53 PM)_
+
 > Emmett: I'm suddenly feeling very woozy.
 
-**Trey** *(18-May-20 03:54 PM)*
+**Trey** _(18-May-20 03:54 PM)_
 8ball does Olag have hypnosis power
 
-**FFBot** *(18-May-20 03:54 PM)*
+**FFBot** _(18-May-20 03:54 PM)_
 Reply hazy try again :8ball:
 
-**Sean** *(18-May-20 03:54 PM)*
+**Sean** _(18-May-20 03:54 PM)_
+
 > Seth: "We're far enough out of the Galactic Union's and American Dad Empire's jurisdiction anyways so if you need anything "unsavory" just ask me"
 
-**Trey** *(18-May-20 03:54 PM)*
+**Trey** _(18-May-20 03:54 PM)_
 8ball does olag have hypopis powa
 (edited)
 
-**FFBot** *(18-May-20 03:54 PM)*
+**FFBot** _(18-May-20 03:54 PM)_
 Outlook good :8ball:
 
-**Sean** *(18-May-20 03:54 PM)*
+**Sean** _(18-May-20 03:54 PM)_
+
 > Seth: Thank you Olag.
 
-**Cooldude** *(18-May-20 03:54 PM)*
+**Cooldude** _(18-May-20 03:54 PM)_
+
 > Wemmfort: "I found the lid on the ground, therefore, it is not our toilet's toilet lid."
 
-**Zander** *(18-May-20 03:55 PM)*
+**Zander** _(18-May-20 03:55 PM)_
 
+_Emmett stumbles a little.\*\*Emmett suddenly looks towards the slime dude._
 
-*Emmett stumbles a little.**Emmett suddenly looks towards the slime dude.*
-
-**Trey** *(18-May-20 03:55 PM)*
+**Trey** _(18-May-20 03:55 PM)_
 Olag
 
-**Zander** *(18-May-20 03:55 PM)*
+**Zander** _(18-May-20 03:55 PM)_
+
 > Emmett: Ugh.
 
-**Brody** *(18-May-20 03:55 PM)*
+**Brody** _(18-May-20 03:55 PM)_
+
 > Sanya: Our? Who even are you?
 
-**Brody** *(18-May-20 03:55 PM)*
+**Brody** _(18-May-20 03:55 PM)_
 
+_Sanya walks to the man, growing frustrated._
 
-*Sanya walks to the man, growing frustrated.*
+**Rashidi** _(18-May-20 03:55 PM)_
 
-**Rashidi** *(18-May-20 03:55 PM)*
 > Dakari: Alright, need some help getting over there Emmett?
 
-**Cooldude** *(18-May-20 03:56 PM)*
+**Cooldude** _(18-May-20 03:56 PM)_
 
+_wemmfort goes back to the ship and takes the toilet lid from his room_
 
-*wemmfort goes back to the ship and takes the toilet lid from his room*
 > Wemmfort: "This is the toilet lid from the ship!"
 
-**Zander** *(18-May-20 03:56 PM)*
+**Zander** _(18-May-20 03:56 PM)_
+
 > Emmett: Seth, are you sure this man is safe?
 
-**Brody** *(18-May-20 03:56 PM)*
+**Brody** _(18-May-20 03:56 PM)_
+
 > Sanya: Put it back. Now.
 
-**Sean** *(18-May-20 03:56 PM)*
+**Sean** _(18-May-20 03:56 PM)_
+
 > Seth: Yes.
 
-**Cooldude** *(18-May-20 03:56 PM)*
+**Cooldude** _(18-May-20 03:56 PM)_
+
 > Wemmfort: "See the difference?"
 
-**Sean** *(18-May-20 03:56 PM)*
+**Sean** _(18-May-20 03:56 PM)_
+
 > Seth: We did business with him before.
 
-**Sean** *(18-May-20 03:56 PM)*
+**Sean** _(18-May-20 03:56 PM)_
+
 > Seth: Never did anything wrong
 
-**Zander** *(18-May-20 03:57 PM)*
+**Zander** _(18-May-20 03:57 PM)_
 
+_Emmett trips over some scrap._
 
-*Emmett trips over some scrap.*
 > Emmett: Yeah, I think I need some help, Dakari.
 
-**Brody** *(18-May-20 03:57 PM)*
+**Brody** _(18-May-20 03:57 PM)_
 
+_Sanya attempts to snatch the toilet lid from the masked mystery man._
 
-*Sanya attempts to snatch the toilet lid from the masked mystery man.*
+**Brody** _(18-May-20 03:57 PM)_
 
-**Brody** *(18-May-20 03:57 PM)*
 > Sanya: Give that back.
 
-**Sean** *(18-May-20 03:58 PM)*
+**Sean** _(18-May-20 03:58 PM)_
+
 > Seth: Anyways lets get back to business.
 
-**Sean** *(18-May-20 03:58 PM)*
+**Sean** _(18-May-20 03:58 PM)_
+
 > Seth: Go rest Emmett.
 
-**Zander** *(18-May-20 03:58 PM)*
+**Zander** _(18-May-20 03:58 PM)_
+
 > Emmett: Just get me away from Olag.
 
-**Sean** *(18-May-20 03:58 PM)*
+**Sean** _(18-May-20 03:58 PM)_
+
 > Seth: I'll handle everything here.
 
-**Rashidi** *(18-May-20 03:58 PM)*
+**Rashidi** _(18-May-20 03:58 PM)_
+
 > Dakari: I'm gonna need some help bringing in Emmett.
 
-**Cooldude** *(18-May-20 03:58 PM)*
+**Cooldude** _(18-May-20 03:58 PM)_
 
+_The real wemmfort wakes up from his bathroom, goes outside, and sees the fake wemmfort._
 
-*The real wemmfort wakes up from his bathroom, goes outside, and sees the fake wemmfort.*
 > Wemmfort: Imposter!
 
-**Trey** *(18-May-20 03:59 PM)*
+**Trey** _(18-May-20 03:59 PM)_
+
 > Garrick: What
 
-**Trey** *(18-May-20 03:59 PM)*
+**Trey** _(18-May-20 03:59 PM)_
+
 > Garrick: Anyways, don't we have a ship to fix?
 
-**Brody** *(18-May-20 03:59 PM)*
+**Brody** _(18-May-20 03:59 PM)_
 
+_Sanya simply draws her sword, using the toilet lid as a makeshift shield._
 
-*Sanya simply draws her sword, using the toilet lid as a makeshift shield.*
+**Cooldude** _(18-May-20 03:59 PM)_
 
-**Cooldude** *(18-May-20 03:59 PM)*
+_The fake wemmfort turns into a morph slime and then sinks into the ground slowly._
 
-
-*The fake wemmfort turns into a morph slime and then sinks into the ground slowly.*
-
-**Sean** *(18-May-20 04:00 PM)*
+**Sean** _(18-May-20 04:00 PM)_
 8ball Does Seth finish up the business with Olag?
 
-**FFBot** *(18-May-20 04:00 PM)*
+**FFBot** _(18-May-20 04:00 PM)_
 Don't count on it :8ball:
 
-**Cooldude** *(18-May-20 04:00 PM)*
+**Cooldude** _(18-May-20 04:00 PM)_
+
 > Wemmfort: Watch your backs.
 
-**Rashidi** *(18-May-20 04:00 PM)*
+**Rashidi** _(18-May-20 04:00 PM)_
 8ball Does Dakari summon the strength to carry Emmett back into the ship?
 
-**FFBot** *(18-May-20 04:00 PM)*
+**FFBot** _(18-May-20 04:00 PM)_
 Outlook not so good :8ball:
 
-**Sean** *(18-May-20 04:00 PM)*
+**Sean** _(18-May-20 04:00 PM)_
 
+_Seth turns on Comms_
 
-*Seth turns on Comms*
+**Zander** _(18-May-20 04:00 PM)_
 
-**Zander** *(18-May-20 04:00 PM)*
 > Emmett: Dakari, help me out man. I'm not deadweight.
 
-*Emmett tries to get up, feeling extremely sluggish.*
+_Emmett tries to get up, feeling extremely sluggish._
 
-**Sean** *(18-May-20 04:01 PM)*
+**Sean** _(18-May-20 04:01 PM)_
+
 > Seth: Alright everyone, out of the ship, Olag and I are going to inspect damages, go get us some rooms in the hotel
 
-**Brody** *(18-May-20 04:01 PM)*
+**Brody** _(18-May-20 04:01 PM)_
 
+_Sanya slams the toilet lid back into Wemmfort's arms, walking away._
 
-*Sanya slams the toilet lid back into Wemmfort's arms, walking away.*
+**Brody** _(18-May-20 04:01 PM)_
 
-**Brody** *(18-May-20 04:01 PM)*
 > Sanya: Just put this back.
 
-**Sean** *(18-May-20 04:01 PM)*
+**Sean** _(18-May-20 04:01 PM)_
+
 > Seth: We might be here a week or two.
 
-**Cooldude** *(18-May-20 04:01 PM)*
+**Cooldude** _(18-May-20 04:01 PM)_
+
 > Wemmfort: Alright.
 
-**Trey** *(18-May-20 04:01 PM)*
+**Trey** _(18-May-20 04:01 PM)_
+
 > Garrick: Let's gooooo!
 
-**Zander** *(18-May-20 04:01 PM)*
+**Zander** _(18-May-20 04:01 PM)_
+
 > Emmett: A wee-?
 
-**Rashidi** *(18-May-20 04:01 PM)*
+**Rashidi** _(18-May-20 04:01 PM)_
 
+_Dakari grabs Emmet's arm and swings it over his shoulder_
 
-*Dakari grabs Emmet's arm and swings it over his shoulder*
+**Sean** _(18-May-20 04:01 PM)_
 
-**Sean** *(18-May-20 04:01 PM)*
 > Seth: Maybe.
 
-**Brody** *(18-May-20 04:02 PM)*
+**Brody** _(18-May-20 04:02 PM)_
+
 > Sanya: Well, shit.
 
-**Rashidi** *(18-May-20 04:02 PM)*
+**Rashidi** _(18-May-20 04:02 PM)_
+
 > Dakari: Alright, let's get moving.
 
-**Sean** *(18-May-20 04:02 PM)*
+**Sean** _(18-May-20 04:02 PM)_
+
 > Seth: It depends on how bad the damage is.
 
-**Sean** *(18-May-20 04:02 PM)*
+**Sean** _(18-May-20 04:02 PM)_
+
 > Seth: Those Llamanians gave us a beating.
 
-**Zander** *(18-May-20 04:02 PM)*
+**Zander** _(18-May-20 04:02 PM)_
 8ball Does Emmett have anything noticeably attached to him?
 
-**FFBot** *(18-May-20 04:02 PM)*
+**FFBot** _(18-May-20 04:02 PM)_
 It is certain :8ball:
 
-**Sean** *(18-May-20 04:02 PM)*
+**Sean** _(18-May-20 04:02 PM)_
 
+_It is a brain slime_
 
-*It is a brain slime*
+**Trey** _(18-May-20 04:02 PM)_
 
-**Trey** *(18-May-20 04:02 PM)*
 > Garrick: Surely there's something here of use. This wouldn't be the first time we got stuck on a planet like this.
 
-**Brody** *(18-May-20 04:02 PM)*
+**Brody** _(18-May-20 04:02 PM)_
 
+_Sanya walks over to Emmett, who is currently being dragged by Dakari_
 
-*Sanya walks over to Emmett, who is currently being dragged by Dakari*
+**Cooldude** _(18-May-20 04:02 PM)_
 
-**Cooldude** *(18-May-20 04:02 PM)*
+_Wemmfort walks to the ship to put back the toilet lid, when suddenly, the toilet lid turned into the morph slime_
 
+**Brody** _(18-May-20 04:03 PM)_
 
-*Wemmfort walks to the ship to put back the toilet lid, when suddenly, the toilet lid turned into the morph slime*
-
-**Brody** *(18-May-20 04:03 PM)*
 > Sanya: Hey, Are you ok? you got something there.
 
-**Sean** *(18-May-20 04:03 PM)*
+**Sean** _(18-May-20 04:03 PM)_
 t!choose Brain Slime | Poop | Tranq Dart | Olag's penis
 
-**FFBot** *(18-May-20 04:03 PM)*
+**FFBot** _(18-May-20 04:03 PM)_
 🤔 | Bagelwrecker, I pick Olag's penis
 
-**Zander** *(18-May-20 04:03 PM)*
+**Zander** _(18-May-20 04:03 PM)_
+
 > Emmett: Huh?
 
-*Emmett struggles to keep his eyes open.*
+_Emmett struggles to keep his eyes open._
 
-**Cooldude** *(18-May-20 04:03 PM)*
+**Cooldude** _(18-May-20 04:03 PM)_
+
 > Wemmfort: Uhh, green person! The toilet lid turned into that slime! I need help finding the real toilet lid!
 
-**Brody** *(18-May-20 04:04 PM)*
+**Brody** _(18-May-20 04:04 PM)_
+
 > Sanya: Yeah, you have a little thing on you.
 
-**Sean** *(18-May-20 04:04 PM)*
+**Sean** _(18-May-20 04:04 PM)_
+
 > Seth: "Hey Seth..."
 
-**Sean** *(18-May-20 04:04 PM)*
+**Sean** _(18-May-20 04:04 PM)_
+
 > Seth: "I think my penis is missing"
 
-**Brody** *(18-May-20 04:04 PM)*
+**Brody** _(18-May-20 04:04 PM)_
+
 > Sanya: Oh, for fuck's sake. Go get another, then!
 
-**Sean** *(18-May-20 04:04 PM)*
+**Sean** _(18-May-20 04:04 PM)_
+
 > Seth: Huh?
 
-**Sean** *(18-May-20 04:04 PM)*
+**Sean** _(18-May-20 04:04 PM)_
 
+_Seth looks at him_
 
-*Seth looks at him*
+**Sean** _(18-May-20 04:04 PM)_
 
-**Sean** *(18-May-20 04:04 PM)*
 > Seth: Oh. So it is.
 
-**Sean** *(18-May-20 04:04 PM)*
+**Sean** _(18-May-20 04:04 PM)_
+
 > Seth: You should go find it
 
-**Zander** *(18-May-20 04:05 PM)*
+**Zander** _(18-May-20 04:05 PM)_
+
 > Emmett: What... is... slimy feeling?
 
-**Cooldude** *(18-May-20 04:05 PM)*
+**Cooldude** _(18-May-20 04:05 PM)_
 the morph slime is a different creature
 
-**Brody** *(18-May-20 04:05 PM)*
+**Brody** _(18-May-20 04:05 PM)_
 8ball Does Sanya pick up Emmett off of Dakari?
 
-**FFBot** *(18-May-20 04:05 PM)*
+**FFBot** _(18-May-20 04:05 PM)_
 My reply is no :8ball:
 
-**Brody** *(18-May-20 04:05 PM)*
+**Brody** _(18-May-20 04:05 PM)_
+
 > Sanya: Well, it looks like you've got this.
 
-**Sean** *(18-May-20 04:05 PM)*
+**Sean** _(18-May-20 04:05 PM)_
 
+_Olag goes looking for his Penis_
 
-*Olag goes looking for his Penis*
+**Rashidi** _(18-May-20 04:06 PM)_
 
-**Rashidi** *(18-May-20 04:06 PM)*
 > Dakari: Ugh... almost there
 
-**Cooldude** *(18-May-20 04:06 PM)*
+**Cooldude** _(18-May-20 04:06 PM)_
 
+_Halfway through looking for the toilet lid, Wemmfort finds a bathtub_
 
-*Halfway through looking for the toilet lid, Wemmfort finds a bathtub*
+**Rashidi** _(18-May-20 04:06 PM)_
 
-**Rashidi** *(18-May-20 04:06 PM)*
 > Dakari: Just a few more feet
 
-**Rashidi** *(18-May-20 04:06 PM)*
+**Rashidi** _(18-May-20 04:06 PM)_
+
 > Dakari: Sanya!
 
-**Sean** *(18-May-20 04:06 PM)*
+**Sean** _(18-May-20 04:06 PM)_
 
+_Olag sees his penis on Emmett_
 
-*Olag sees his penis on Emmett*
+**Brody** _(18-May-20 04:06 PM)_
 
-**Brody** *(18-May-20 04:06 PM)*
 > Sanya: What?
 
-**Sean** *(18-May-20 04:06 PM)*
+**Sean** _(18-May-20 04:06 PM)_
+
 > Seth: "Oh! LITTLE FRIEND"
 
-**Cooldude** *(18-May-20 04:06 PM)*
+**Cooldude** _(18-May-20 04:06 PM)_
 8ball should wemmfort relax in the bathtub?
 
-**FFBot** *(18-May-20 04:06 PM)*
+**FFBot** _(18-May-20 04:06 PM)_
 It is certain :8ball:
 
-**Rashidi** *(18-May-20 04:06 PM)*
+**Rashidi** _(18-May-20 04:06 PM)_
+
 > Dakari: Why are you just standing there?!
 
-**Sean** *(18-May-20 04:06 PM)*
+**Sean** _(18-May-20 04:06 PM)_
+
 > Seth: "Come here! My penis is stuck to you!"
 
-**Rashidi** *(18-May-20 04:07 PM)*
+**Rashidi** _(18-May-20 04:07 PM)_
 8ball Does Dakari notice the penis stuck on Emmett?
 
-**FFBot** *(18-May-20 04:07 PM)*
+**FFBot** _(18-May-20 04:07 PM)_
 My sources say no :8ball:
 
-**Cooldude** *(18-May-20 04:07 PM)*
+**Cooldude** _(18-May-20 04:07 PM)_
 
+_Wemmfort lays down in the bathtub, only to realize that the water won't turn on_
 
-*Wemmfort lays down in the bathtub, only to realize that the water won't turn on*
+**Sean** _(18-May-20 04:07 PM)_
 
-**Sean** *(18-May-20 04:07 PM)*
 > Seth: "COME HERE MY FRIEND! I REQUIRE MY PENIS!"
 
-**Trey** *(18-May-20 04:07 PM)*
+**Trey** _(18-May-20 04:07 PM)_
 8ball does the pee pee drain Emmett of all of his energy, leaving him unconscious
 
-**FFBot** *(18-May-20 04:07 PM)*
+**FFBot** _(18-May-20 04:07 PM)_
 Without a doubt :8ball:
 
-**Rashidi** *(18-May-20 04:07 PM)*
+**Rashidi** _(18-May-20 04:07 PM)_
+
 > Dakari: Is he talking to you Emmett?
 
-**Cooldude** *(18-May-20 04:08 PM)*
+**Cooldude** _(18-May-20 04:08 PM)_
+
 > Wemmfort: That's disappointing.
 
-**Brody** *(18-May-20 04:08 PM)*
+**Brody** _(18-May-20 04:08 PM)_
+
 > Sanya: You look like you got this, Dakari. Strength training is important for an up-and-coming assassin.
 
-**Sean** *(18-May-20 04:08 PM)*
+**Sean** _(18-May-20 04:08 PM)_
 
+_Olag grabs his penis and reattaches it with a slurp_
 
-*Olag grabs his penis and reattaches it with a slurp*
+**Zander** _(18-May-20 04:08 PM)_
 
-**Zander** *(18-May-20 04:08 PM)*
+_The moment Olag picks his penis off of Emmett, Emmett kicks the shit out of him._
 
+**Rashidi** _(18-May-20 04:08 PM)_
 
-*The moment Olag picks his penis off of Emmett, Emmett kicks the shit out of him.*
-
-**Rashidi** *(18-May-20 04:08 PM)*
 > Dakari: Oh, so you can walk now
 
-**Sean** *(18-May-20 04:08 PM)*
+**Sean** _(18-May-20 04:08 PM)_
+
 > Seth: "haha feisty as always"
 
-**Zander** *(18-May-20 04:08 PM)*
+**Zander** _(18-May-20 04:08 PM)_
+
 > Emmett: Off of me dude.
 
-**Cooldude** *(18-May-20 04:09 PM)*
+**Cooldude** _(18-May-20 04:09 PM)_
 
+_Wemmfort watches the strange miracle from a distance_
 
-*Wemmfort watches the strange miracle from a distance*
+**Trey** _(18-May-20 04:09 PM)_
 
-**Trey** *(18-May-20 04:09 PM)*
-> Garrick: *muffled screams*
+> Garrick: _muffled screams_
 
-**Zander** *(18-May-20 04:09 PM)*
+**Zander** _(18-May-20 04:09 PM)_
+
 > Emmett: Please, let's just go to the diner.
 
-**Sean** *(18-May-20 04:10 PM)*
+**Sean** _(18-May-20 04:10 PM)_
 
+_Cum dribbles down Olag's leg_
 
-*Cum dribbles down Olag's leg*
+**Rashidi** _(18-May-20 04:10 PM)_
 
-**Rashidi** *(18-May-20 04:10 PM)*
 > Dakari: I can't put on too much bulk Sanya, it would get in the way of evasiveness
 
-**Zander** *(18-May-20 04:10 PM)*
+**Zander** _(18-May-20 04:10 PM)_
+
 > Emmett: I feel like I'm having a migraine or something.
 
-**Cooldude** *(18-May-20 04:10 PM)*
+**Cooldude** _(18-May-20 04:10 PM)_
+
 > Wemmfort: I feel sick.
 
-**Trey** *(18-May-20 04:10 PM)*
+**Trey** _(18-May-20 04:10 PM)_
 
+_Garrick emerges from Dread, gasping for air, even though he doesn't breathe._
 
-*Garrick emerges from Dread, gasping for air, even though he doesn't breathe.*
+**Zander** _(18-May-20 04:10 PM)_
 
-**Zander** *(18-May-20 04:10 PM)*
 > Emmett: Garrick, what are you doing?
 
-**Brody** *(18-May-20 04:10 PM)*
+**Brody** _(18-May-20 04:10 PM)_
+
 > Sanya: If you can't even lift Emmett, that's disappointing.
 
-**Trey** *(18-May-20 04:11 PM)*
+**Trey** _(18-May-20 04:11 PM)_
+
 > Garrick: I have no idea what's going on right now.
 
-**Brody** *(18-May-20 04:11 PM)*
+**Brody** _(18-May-20 04:11 PM)_
 8ball Does Sanya pick up Emmett with one hand?
 
-**FFBot** *(18-May-20 04:11 PM)*
+**FFBot** _(18-May-20 04:11 PM)_
 Signs point to yes :8ball:
 
-**Brody** *(18-May-20 04:11 PM)*
+**Brody** _(18-May-20 04:11 PM)_
+
 > Sanya: Watch.
 
-**Rashidi** *(18-May-20 04:11 PM)*
+**Rashidi** _(18-May-20 04:11 PM)_
+
 > Dakari: Do I look like I should carry someone almost twice my size?
 
-**Zander** *(18-May-20 04:11 PM)*
+**Zander** _(18-May-20 04:11 PM)_
 
+_Emmett purposely piggy backs on her._
 
-*Emmett purposely piggy backs on her.*
+**Trey** _(18-May-20 04:11 PM)_
 
-**Trey** *(18-May-20 04:11 PM)*
+_Garrick re-shuts the door connecting him and Dread's pocket dimensions._
 
+**Zander** _(18-May-20 04:11 PM)_
 
-*Garrick re-shuts the door connecting him and Dread's pocket dimensions.*
-
-**Zander** *(18-May-20 04:11 PM)*
 > Emmett: Take me, stead.
 
-**Cooldude** *(18-May-20 04:11 PM)*
+**Cooldude** _(18-May-20 04:11 PM)_
 
+_Wemmfort runs over to where they are._
 
-*Wemmfort runs over to where they are.*
 > Wemmfort: What the hell just happened?
 
-**Brody** *(18-May-20 04:12 PM)*
+**Brody** _(18-May-20 04:12 PM)_
+
 > Sanya: Great.
 
-**Brody** *(18-May-20 04:12 PM)*
+**Brody** _(18-May-20 04:12 PM)_
+
 > Sanya: Anyway, if you want to be a better assassin, you need to get stronger.
 
-**Zander** *(18-May-20 04:13 PM)*
+**Zander** _(18-May-20 04:13 PM)_
+
 > Emmett: Do you not enjoy me spending quality time with you, Sanya?
 
-**Cooldude** *(18-May-20 04:13 PM)*
+**Cooldude** _(18-May-20 04:13 PM)_
+
 > Wemmfort: Anyways, while running here, I found the toilet lid.
 
-**Rashidi** *(18-May-20 04:13 PM)*
+**Rashidi** _(18-May-20 04:13 PM)_
+
 > Dakari: You say that, but I'm one of the top assassin's in the galaxy.
 
-**Zander** *(18-May-20 04:13 PM)*
+**Zander** _(18-May-20 04:13 PM)_
+
 > Emmett: I can get off...
 
-*Emmett casually fingers Dread's little mouth.*
+_Emmett casually fingers Dread's little mouth._
 
-**Brody** *(18-May-20 04:13 PM)*
+**Brody** _(18-May-20 04:13 PM)_
+
 > Sanya: I am not a steed.
 
-**Cooldude** *(18-May-20 04:13 PM)*
+**Cooldude** _(18-May-20 04:13 PM)_
+
 > Wemmfort: I don't feel like running back again, though.
 
-**Brody** *(18-May-20 04:14 PM)*
+**Brody** _(18-May-20 04:14 PM)_
 
+_D: AAAAAAAAAAA_
 
-*D: AAAAAAAAAAA*
+**Trey** _(18-May-20 04:14 PM)_
 
-**Trey** *(18-May-20 04:14 PM)*
 > Garrick: LOUD
 
-**Sean** *(18-May-20 04:14 PM)*
+**Sean** _(18-May-20 04:14 PM)_
 
+_Seth internally screams_
 
-*Seth internally screams*
+**Brody** _(18-May-20 04:14 PM)_
 
-**Brody** *(18-May-20 04:14 PM)*
+_Dread bites down on Emmett's finger_
 
+**Cooldude** _(18-May-20 04:15 PM)_
 
-*Dread bites down on Emmett's finger*
-
-**Cooldude** *(18-May-20 04:15 PM)*
 > Wemmfort: What's loud, yellow bandit ghost?
 
-**Trey** *(18-May-20 04:15 PM)*
+**Trey** _(18-May-20 04:15 PM)_
+
 > Garrick: Sanya's head parasite.
 
-**Zander** *(18-May-20 04:15 PM)*
+**Zander** _(18-May-20 04:15 PM)_
+
 > Emmett: You're not a stead, but you're supposedly my protector.
 
-*Emmett pulls his digit away, unfazed by the bite.*
+_Emmett pulls his digit away, unfazed by the bite._
 
-**Cooldude** *(18-May-20 04:15 PM)*
+**Cooldude** _(18-May-20 04:15 PM)_
+
 > Wemmfort: Who's sanya, the goat?
 
-**Zander** *(18-May-20 04:15 PM)*
+**Zander** _(18-May-20 04:15 PM)_
 8ball Is the group walking to the diner?
 
-**FFBot** *(18-May-20 04:15 PM)*
+**FFBot** _(18-May-20 04:15 PM)_
 You may rely on it :8ball:
 
-**Sean** *(18-May-20 04:16 PM)*
+**Sean** _(18-May-20 04:16 PM)_
 
+_Seth screams in every one of Garrick's ear_
 
-*Seth screams in every one of Garrick's ear*
+**Brody** _(18-May-20 04:16 PM)_
 
-**Brody** *(18-May-20 04:16 PM)*
 > Sanya: Fine.
 
-**Sean** *(18-May-20 04:16 PM)*
+**Sean** _(18-May-20 04:16 PM)_
+
 > Seth: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-**Trey** *(18-May-20 04:16 PM)*
+**Trey** _(18-May-20 04:16 PM)_
+
 > Garrick: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-**Brody** *(18-May-20 04:16 PM)*
+**Brody** _(18-May-20 04:16 PM)_
 
+_Sanya continues to walk on, unfazed by the goat's weight._
 
-*Sanya continues to walk on, unfazed by the goat's weight.*
-
-**Cooldude** *(18-May-20 04:16 PM)*
+**Cooldude** _(18-May-20 04:16 PM)_
 this whole episode, wemmfort should dedicate to find out who sanya is.
 (edited)
 
-**Cooldude** *(18-May-20 04:16 PM)*
+**Cooldude** _(18-May-20 04:16 PM)_
+
 > Wemmfort: Seriously, who's sanya?
 
-**Brody** *(18-May-20 04:18 PM)*
+**Brody** _(18-May-20 04:18 PM)_
+
 > Sanya: I'm Sanya.
 
-**Sean** *(18-May-20 04:18 PM)*
+**Sean** _(18-May-20 04:18 PM)_
 8ball does Sanya find a hotdog?
 
-**FFBot** *(18-May-20 04:18 PM)*
+**FFBot** _(18-May-20 04:18 PM)_
 Cannot predict now :8ball:
 
-**Sean** *(18-May-20 04:18 PM)*
+**Sean** _(18-May-20 04:18 PM)_
 8ball does Sanya find a hotdog?
 
-**FFBot** *(18-May-20 04:18 PM)*
+**FFBot** _(18-May-20 04:18 PM)_
 Yes, definitely :8ball:
 
-**Trey** *(18-May-20 04:18 PM)*
+**Trey** _(18-May-20 04:18 PM)_
 hotdog
 
-**Brody** *(18-May-20 04:18 PM)*
+**Brody** _(18-May-20 04:18 PM)_
+
 > Sanya: Hm. A hotdog.
 
-**Brody** *(18-May-20 04:18 PM)*
+**Brody** _(18-May-20 04:18 PM)_
 
+_She walks past_
 
-*She walks past*
-
-**Trey** *(18-May-20 04:19 PM)*
+**Trey** _(18-May-20 04:19 PM)_
 `
 
-**Sean** *(18-May-20 04:19 PM)*
+**Sean** _(18-May-20 04:19 PM)_
 8ball Does Sanya turn around, wanting the hotdog so bad, and gobble it up?
 
-**FFBot** *(18-May-20 04:19 PM)*
+**FFBot** _(18-May-20 04:19 PM)_
 Outlook not so good :8ball:
 
-**Trey** *(18-May-20 04:19 PM)*
+**Trey** _(18-May-20 04:19 PM)_
 8ball does the group arrive at the diner
 
-**FFBot** *(18-May-20 04:19 PM)*
+**FFBot** _(18-May-20 04:19 PM)_
 Ask again later :8ball:
 
-**Trey** *(18-May-20 04:19 PM)*
+**Trey** _(18-May-20 04:19 PM)_
 8ball does the group arrive at the diner
 
-**FFBot** *(18-May-20 04:19 PM)*
+**FFBot** _(18-May-20 04:19 PM)_
 Yes, definitely :8ball:
 
-**Cooldude** *(18-May-20 04:19 PM)*
+**Cooldude** _(18-May-20 04:19 PM)_
+
 > Wemmfort: What the heck was that thing in the toilet?
 
-**Zander** *(18-May-20 04:20 PM)*
+**Zander** _(18-May-20 04:20 PM)_
 
+_Emmett, as usual, is wanting to annoy his stead._
 
-*Emmett, as usual, is wanting to annoy his stead.*
 > Emmett: Sanya baby, when are we getting to the diner?
 
-**Cooldude** *(18-May-20 04:20 PM)*
+**Cooldude** _(18-May-20 04:20 PM)_
+
 > Wemmfort: Do they have lava shards here?
 
-**Brody** *(18-May-20 04:20 PM)*
+**Brody** _(18-May-20 04:20 PM)_
+
 > Sanya: We're here already.
 
-**Brody** *(18-May-20 04:20 PM)*
+**Brody** _(18-May-20 04:20 PM)_
+
 > Sanya: Hop down.
 
-**Zander** *(18-May-20 04:21 PM)*
+**Zander** _(18-May-20 04:21 PM)_
 8ball Does Emmett hop down?
 
-**FFBot** *(18-May-20 04:21 PM)*
+**FFBot** _(18-May-20 04:21 PM)_
 Signs point to yes :8ball:
 
-**Zander** *(18-May-20 04:21 PM)*
+**Zander** _(18-May-20 04:21 PM)_
+
 > Emmett: You owe me one.
 
-**Brody** *(18-May-20 04:21 PM)*
+**Brody** _(18-May-20 04:21 PM)_
+
 > Sanya: For what?
 
-**Zander** *(18-May-20 04:21 PM)*
+**Zander** _(18-May-20 04:21 PM)_
+
 > Emmett: I don't know, but I obliged to your wishes.
 
-**Sean** *(18-May-20 04:22 PM)*
+**Sean** _(18-May-20 04:22 PM)_
 
+_Seth finishes up surveying the ship with Olag and Olag gets to work_
 
-*Seth finishes up surveying the ship with Olag and Olag gets to work*
+**Brody** _(18-May-20 04:22 PM)_
 
-**Brody** *(18-May-20 04:22 PM)*
+_Sanya rolls her eyes, walking into the diner_
 
+**Zander** _(18-May-20 04:22 PM)_
 
-*Sanya rolls her eyes, walking into the diner*
-
-**Zander** *(18-May-20 04:22 PM)*
 > Emmett: So you own me
 
-*Emmett realized what he said.*
+_Emmett realized what he said._
+
 > Emmett: Freudian slip. You owe me.
 
-**Cooldude** *(18-May-20 04:22 PM)*
+**Cooldude** _(18-May-20 04:22 PM)_
 
+_Wemmfort sees a cap on someone's head, and snatches it from the person._
 
-*Wemmfort sees a cap on someone's head, and snatches it from the person.*
+**Sean** _(18-May-20 04:22 PM)_
 
-**Sean** *(18-May-20 04:22 PM)*
 > Seth: Alright guys, so yeah, Olag says it'll take a week and a half
 
-**Trey** *(18-May-20 04:23 PM)*
+**Trey** _(18-May-20 04:23 PM)_
+
 > Garrick: Wonderful.
 
-**Sean** *(18-May-20 04:23 PM)*
+**Sean** _(18-May-20 04:23 PM)_
+
 > Seth: I'm gonna need to borrow 50,000 ducketts but we can get that from the racist we kidnapped right?
 
-**Cooldude** *(18-May-20 04:23 PM)*
+**Cooldude** _(18-May-20 04:23 PM)_
+
 > Wemmfort: What's this thing?
 
-**Zander** *(18-May-20 04:23 PM)*
+**Zander** _(18-May-20 04:23 PM)_
+
 > Emmett: Yeah, definitely.
 
-**Brody** *(18-May-20 04:23 PM)*
+**Brody** _(18-May-20 04:23 PM)_
+
 > Sanya: Own you? I'll have to remember that.
 
-**Brody** *(18-May-20 04:23 PM)*
+**Brody** _(18-May-20 04:23 PM)_
 
+_Sanya finds and sits down at a booth._
 
-*Sanya finds and sits down at a booth.*
+**Cooldude** _(18-May-20 04:24 PM)_
 
-**Cooldude** *(18-May-20 04:24 PM)*
+_Wemmfort pokes it and leans back._
 
-
-*Wemmfort pokes it and leans back.*
 > Wemmfort: I don't think it's alive.
 
-**Zander** *(18-May-20 04:24 PM)*
+**Zander** _(18-May-20 04:24 PM)_
 
+_Naturally, Emmett was now thinking of the supposed "owning", making him feel embarrassed._
 
-*Naturally, Emmett was now thinking of the supposed "owning", making him feel embarrassed.*
 > Emmett: Owe me! Not own!
 
-*Emmett sat at her booth.*
+_Emmett sat at her booth._
 
-**Zander** *(18-May-20 04:24 PM)*
+**Zander** _(18-May-20 04:24 PM)_
 8ball Is Garrick going to heal his eyeball from eating jeans?
 
-**FFBot** *(18-May-20 04:25 PM)*
+**FFBot** _(18-May-20 04:25 PM)_
 Outlook not so good :8ball:
 
-**Sean** *(18-May-20 04:25 PM)*
+**Sean** _(18-May-20 04:25 PM)_
 
+_Seth heads to the diner_
 
-*Seth heads to the diner*
+**Trey** _(18-May-20 04:25 PM)_
 
-**Trey** *(18-May-20 04:25 PM)*
+_Garrick took a seat._
 
+**Cooldude** _(18-May-20 04:25 PM)_
 
-*Garrick took a seat.*
+_After a few minutes, Wemmfort puts it on top of his mask._
 
-**Cooldude** *(18-May-20 04:25 PM)*
-
-
-*After a few minutes, Wemmfort puts it on top of his mask.*
 > Wemmfort: I see. it's an accessory of some sort.
 
-**Rashidi** *(18-May-20 04:25 PM)*
+**Rashidi** _(18-May-20 04:25 PM)_
 
+_Dakari finds a booth to sit in_
 
-*Dakari finds a booth to sit in*
+**Trey** _(18-May-20 04:26 PM)_
 
-**Trey** *(18-May-20 04:26 PM)*
 > Garrick: So. Asteroids, huh?
 
-**Cooldude** *(18-May-20 04:26 PM)*
+**Cooldude** _(18-May-20 04:26 PM)_
+
 > Wemmfort: Anyway, what do they have here?
 
-**Cooldude** *(18-May-20 04:26 PM)*
+**Cooldude** _(18-May-20 04:26 PM)_
+
 > Wemmfort: Do they have lava shards here?
 
-**Zander** *(18-May-20 04:26 PM)*
+**Zander** _(18-May-20 04:26 PM)_
 8ball Is Volonta a waiter at the diner? If so, he's on rollerskates.
 
-**FFBot** *(18-May-20 04:26 PM)*
+**FFBot** _(18-May-20 04:26 PM)_
 Outlook good :8ball:
 
-**Sean** *(18-May-20 04:27 PM)*
+**Sean** _(18-May-20 04:27 PM)_
+
 > Seth: I HAVE ARRIVED!
 
-**Trey** *(18-May-20 04:27 PM)*
+**Trey** _(18-May-20 04:27 PM)_
+
 > Garrick: Take a seat.
 
-**Zander** *(18-May-20 04:27 PM)*
+**Zander** _(18-May-20 04:27 PM)_
+
 > Emmett: Sanya, any of the smoothies look good to you?
 
-*Emmett was trying to change the tone of their conversation.*
+_Emmett was trying to change the tone of their conversation._
 
-**Cooldude** *(18-May-20 04:28 PM)*
+**Cooldude** _(18-May-20 04:28 PM)_
 
+_Wemmfort is asleep, because of the conversation._
 
-*Wemmfort is asleep, because of the conversation.*
+**Brody** _(18-May-20 04:28 PM)_
 
-**Brody** *(18-May-20 04:28 PM)*
 > Sanya: No. Smoothies don't interest me. I wonder if they sell raw meat...
 
-**Rashidi** *(18-May-20 04:28 PM)*
+**Rashidi** _(18-May-20 04:28 PM)_
+
 > Dakari: Hey who's paying?
 
-**Sean** *(18-May-20 04:28 PM)*
+**Sean** _(18-May-20 04:28 PM)_
+
 > Seth: Now give me a double McSpanky with fries and a Flurp
 
-**Rashidi** *(18-May-20 04:28 PM)*
+**Rashidi** _(18-May-20 04:28 PM)_
+
 > Dakari: For ourselves?
 
-**Brody** *(18-May-20 04:29 PM)*
+**Brody** _(18-May-20 04:29 PM)_
 
+_Sanya starts to survey the menu._
 
-*Sanya starts to survey the menu.*
+**Zander** _(18-May-20 04:29 PM)_
 
-**Zander** *(18-May-20 04:29 PM)*
 > Emmett: Why would a diner sell raw meat?
 
-**Trey** *(18-May-20 04:29 PM)*
+**Trey** _(18-May-20 04:29 PM)_
+
 > Garrick: Cooked meat, maybe...
 
-**Cooldude** *(18-May-20 04:29 PM)*
+**Cooldude** _(18-May-20 04:29 PM)_
 
+_Wemmfort is taking up 2 seats, cause he's asleep._
 
-*Wemmfort is taking up 2 seats, cause he's asleep.*
-
-**Zander** *(18-May-20 04:29 PM)*
+**Zander** _(18-May-20 04:29 PM)_
 8ball Is Emmett feeling more vegetarian today?
 
-**FFBot** *(18-May-20 04:29 PM)*
+**FFBot** _(18-May-20 04:29 PM)_
 Reply hazy try again :8ball:
 
-**Brody** *(18-May-20 04:29 PM)*
+**Brody** _(18-May-20 04:29 PM)_
+
 > Sanya: If they sell cooked meat, why wouldn't they sell raw?
 
-**Zander** *(18-May-20 04:29 PM)*
+**Zander** _(18-May-20 04:29 PM)_
 8ball Is Emmett feeling more vegetarian today?
 
-**FFBot** *(18-May-20 04:29 PM)*
+**FFBot** _(18-May-20 04:29 PM)_
 It is certain :8ball:
 
-**Sean** *(18-May-20 04:29 PM)*
+**Sean** _(18-May-20 04:29 PM)_
+
 > Seth: Substitute the patty with Dwarf please, if you have no Dwarf then give me uhhhhhh, Drow
 
-**Trey** *(18-May-20 04:29 PM)*
+**Trey** _(18-May-20 04:29 PM)_
+
 > Garrick: Order a bleu rare steak.
 
-**Zander** *(18-May-20 04:30 PM)*
+**Zander** _(18-May-20 04:30 PM)_
+
 > Emmett: Sanya, you're a plant. Tell me the hottest salad or whatever.
 
-**Cooldude** *(18-May-20 04:30 PM)*
+**Cooldude** _(18-May-20 04:30 PM)_
 
+_Wemmfort feels a burning sensation and quickly wakes up._
 
-*Wemmfort feels a burning sensation and quickly wakes up.*
 > Wemmfort: WATER! WATER!
 
-**Preston** *(18-May-20 04:30 PM)*
+**Preston** _(18-May-20 04:30 PM)_
 
+_Volonta rolls over on his skates towards the group_
 
-*Volonta rolls over on his skates towards the group*
 > Volentina: Have you all decided your orders for today?
 
-**Sean** *(18-May-20 04:30 PM)*
-> Seth: “A double McSpanky with fries and a Flurp, that'll be $6.53. And $3.47 is your change” I hear Jimmy Neutron say. I never saw that little fuck press the buttons with food on them, so I had to go speak to him. “Dude, you're supposed to press the buttons with the pictures of food on ‘em”. I say. “Don't need to Skeet, I memorized the prices and did the tax and change in my head” he replies. Ever since he fucking started at this job, he insists on trying to make things harder on them. Just last week, he had the fucking nerve to call salt “Sodium Chloride”. No, you fuckwad, just call it salt. No one gives a shit how you know the basic chemical name of fucking salt. Not to mention that it's not even 100% sodium chloride, it's 98% sodium chloride with 2% trace elements. But he just insists on calling it sodium chloride. This was my moment to ruin this fucking nerd. “Dude, you do know that the pictures there aren't just for prices, right? They are logged and from there, the managers can get a rough estimate on how much food has been used and they can subtract the amount used by their stock so they know how much to order so we don't run out of food for later days. It's not just about prices. And what if you do make a mistake? Even a few cents missing from your drawer will result in potentially a write up, and doing it on numerous shifts can result in you getting fired, especially if you're missing a good amount of money
+**Sean** _(18-May-20 04:30 PM)_
 
-**Trey** *(18-May-20 04:30 PM)*
+> Seth: “A double McSpanky with fries and a Flurp, that'll be $6.53. And $3.47 is your change" I hear Jimmy Neutron say. I never saw that little fuck press the buttons with food on them, so I had to go speak to him. “Dude, you're supposed to press the buttons with the pictures of food on ‘em". I say. “Don't need to Skeet, I memorized the prices and did the tax and change in my head" he replies. Ever since he fucking started at this job, he insists on trying to make things harder on them. Just last week, he had the fucking nerve to call salt “Sodium Chloride". No, you fuckwad, just call it salt. No one gives a shit how you know the basic chemical name of fucking salt. Not to mention that it's not even 100% sodium chloride, it's 98% sodium chloride with 2% trace elements. But he just insists on calling it sodium chloride. This was my moment to ruin this fucking nerd. “Dude, you do know that the pictures there aren't just for prices, right? They are logged and from there, the managers can get a rough estimate on how much food has been used and they can subtract the amount used by their stock so they know how much to order so we don't run out of food for later days. It's not just about prices. And what if you do make a mistake? Even a few cents missing from your drawer will result in potentially a write up, and doing it on numerous shifts can result in you getting fired, especially if you're missing a good amount of money
+
+**Trey** _(18-May-20 04:30 PM)_
+
 > Garrick: Would that be cannibalism?
 
-**Cooldude** *(18-May-20 04:30 PM)*
+**Cooldude** _(18-May-20 04:30 PM)_
 
+_wemmfort comes back_
 
-*wemmfort comes back*
+**Zander** _(18-May-20 04:31 PM)_
 
-**Zander** *(18-May-20 04:31 PM)*
 > Emmett: Garrick, where are you?
 
-**Brody** *(18-May-20 04:31 PM)*
+**Brody** _(18-May-20 04:31 PM)_
 
+_Sanya, confused and slightly offended, glares at the goat_
 
-*Sanya, confused and slightly offended, glares at the goat*
+**Sean** _(18-May-20 04:31 PM)_
 
-**Sean** *(18-May-20 04:31 PM)*
 > Seth: Anyways with that out of the way
 
-**Rashidi** *(18-May-20 04:31 PM)*
+**Rashidi** _(18-May-20 04:31 PM)_
+
 > Dakari: What...?
 
-**Preston** *(18-May-20 04:31 PM)*
+**Preston** _(18-May-20 04:31 PM)_
+
 > Volentina: what
 
-**Zander** *(18-May-20 04:31 PM)*
+**Zander** _(18-May-20 04:31 PM)_
 
+_Emmett sunk a little._
 
-*Emmett sunk a little.*
 > Emmett: I'll tell you the best looking burgers....
 
-**Cooldude** *(18-May-20 04:31 PM)*
+**Cooldude** _(18-May-20 04:31 PM)_
+
 > Wemmfort: Do you guys have any glass shards here?
 
-**Cooldude** *(18-May-20 04:31 PM)*
+**Cooldude** _(18-May-20 04:31 PM)_
 that's like water but in moldarr
 
-**Preston** *(18-May-20 04:32 PM)*
+**Preston** _(18-May-20 04:32 PM)_
+
 > Volentina: If you really want some, I can get you them.
 
-**Trey** *(18-May-20 04:32 PM)*
+**Trey** _(18-May-20 04:32 PM)_
+
 > Garrick: Next to you.
 
-**Rashidi** *(18-May-20 04:32 PM)*
+**Rashidi** _(18-May-20 04:32 PM)_
+
 > Dakari: Waiter. Do you have any bark?
 
-**Brody** *(18-May-20 04:32 PM)*
+**Brody** _(18-May-20 04:32 PM)_
+
 > Sanya: They're all just leaves. Buy the cheapest, and get a good dressing. You won't even tell the difference.
 
-**Preston** *(18-May-20 04:33 PM)*
+**Preston** _(18-May-20 04:33 PM)_
+
 > Volentina: Tree bark?
 
-**Rashidi** *(18-May-20 04:33 PM)*
+**Rashidi** _(18-May-20 04:33 PM)_
+
 > Dakari: Yes
 
-**Zander** *(18-May-20 04:33 PM)*
+**Zander** _(18-May-20 04:33 PM)_
 8ball Does Olag suddenly come into the diner butt naked and drunken?
 
-**FFBot** *(18-May-20 04:33 PM)*
+**FFBot** _(18-May-20 04:33 PM)_
 Without a doubt :8ball:
 
-**Zander** *(18-May-20 04:33 PM)*
+**Zander** _(18-May-20 04:33 PM)_
+
 > Emmett: Waiter!
 
-**Trey** *(18-May-20 04:33 PM)*
+**Trey** _(18-May-20 04:33 PM)_
+
 > Garrick: Everyone hide behind their menus.
 
-**Cooldude** *(18-May-20 04:33 PM)*
+**Cooldude** _(18-May-20 04:33 PM)_
+
 > Wemmfort: For the food, do you have any dried lava here?
 
-**Preston** *(18-May-20 04:33 PM)*
+**Preston** _(18-May-20 04:33 PM)_
+
 > Volentina: I'd.... have to get back with you on that. Yes?
 
-**Zander** *(18-May-20 04:34 PM)*
+**Zander** _(18-May-20 04:34 PM)_
+
 > Emmett: What's your finest vegetarian thing? I'm looking to stay slim.
 
-*Emmett is pretty fit-looking, despite his shortness.*
+_Emmett is pretty fit-looking, despite his shortness._
 
-**Preston** *(18-May-20 04:34 PM)*
+**Preston** _(18-May-20 04:34 PM)_
+
 > Volentina: I'm sure there's some kind of salad here.
 
-**Cooldude** *(18-May-20 04:35 PM)*
+**Cooldude** _(18-May-20 04:35 PM)_
+
 > Wemmfort: I usually smash the ship's windows for some glass. Glass is hydrating, you know.
 
-**Zander** *(18-May-20 04:35 PM)*
+**Zander** _(18-May-20 04:35 PM)_
 
+_Emmett awkwardly looked at Sanya._
 
-*Emmett awkwardly looked at Sanya.*
+**Zander** _(18-May-20 04:35 PM)_
 
-**Zander** *(18-May-20 04:35 PM)*
 > Emmett: I don't think he's going to be much of a help.
 
-**Rashidi** *(18-May-20 04:35 PM)*
+**Rashidi** _(18-May-20 04:35 PM)_
+
 > Dakari: I'll just take a salad as well waiter.
 
-**Sean** *(18-May-20 04:36 PM)*
+**Sean** _(18-May-20 04:36 PM)_
+
 > Seth: I'll take two fries, a double mcspelunkers with extra cheese, make that medium rare, a salad with extra fortnite, 2 Medium chocolate milkshakes with a shot of Dwarven rum, sprinkle some Caribeener-19 salt on top, make it turn, spit in it, make it dry, run and stomp on Emmett's foot. I'll also take 2 irish women to-go, a 3 foot 9 midget, you know, like the ones from the circus, cover her in hotsauce, shove 2 peppers up her ass, a stick, a dildo, and 4 dabs of soy sauce. OH! Can I also get uHhhhhhhhhhhhhhhhhhhhhh.... Fortnite burger, extra farts, 3 packets of Spacemayo, no cum or piss and a large coke.
 
-**Cooldude** *(18-May-20 04:36 PM)*
+**Cooldude** _(18-May-20 04:36 PM)_
+
 > Wemmfort: I'll share some charred lava with you, goat man.
 
-**Brody** *(18-May-20 04:36 PM)*
-> Sanya: Waiter.  He'll take a garden salad, I'll take... what's the closest you have to goat?
+**Brody** _(18-May-20 04:36 PM)_
 
-*Sanya glares at Emmett with a sly smile.*
+> Sanya: Waiter. He'll take a garden salad, I'll take... what's the closest you have to goat?
 
-**Zander** *(18-May-20 04:36 PM)*
+_Sanya glares at Emmett with a sly smile._
+
+**Zander** _(18-May-20 04:36 PM)_
+
 > Emmett: Emmett sticks his tongue out at her.
 
-**Sean** *(18-May-20 04:36 PM)*
+**Sean** _(18-May-20 04:36 PM)_
+
 > Seth: She'll have a salad.
 
-**Sean** *(18-May-20 04:36 PM)*
+**Sean** _(18-May-20 04:36 PM)_
 
+_Seth points at Sanya_
 
-*Seth points at Sanya*
-
-**Cooldude** *(18-May-20 04:37 PM)*
+**Cooldude** _(18-May-20 04:37 PM)_
 Sanya Smiles at emmett while he's t-posing
 
-**Brody** *(18-May-20 04:37 PM)*
+**Brody** _(18-May-20 04:37 PM)_
+
 > Sanya: Emmett also narrates himself.
 
-**Sean** *(18-May-20 04:37 PM)*
+**Sean** _(18-May-20 04:37 PM)_
+
 > Seth: She needs to lose some weight
 
-*Wink wink*
+_Wink wink_
 
-**Zander** *(18-May-20 04:37 PM)*
+**Zander** _(18-May-20 04:37 PM)_
+
 > Emmett: Sanya wants to bite on some goat meat.
 
-**Trey** *(18-May-20 04:37 PM)*
+**Trey** _(18-May-20 04:37 PM)_
+
 > Garrick: I'll have a doudectuple-decker big meaty cheesey hamburger.
 
-**Preston** *(18-May-20 04:37 PM)*
+**Preston** _(18-May-20 04:37 PM)_
+
 > Volentina: So. Three salads, some glass shards, charred lava, and whatever he said?
 
-*He looked between the group, looking to the crazed one last as he finished his words.*
+_He looked between the group, looking to the crazed one last as he finished his words._
 
-**Brody** *(18-May-20 04:38 PM)*
+**Brody** _(18-May-20 04:38 PM)_
+
 > Sanya: I will end you. NO, GET ME A STEAK.
 
-**Sean** *(18-May-20 04:38 PM)*
+**Sean** _(18-May-20 04:38 PM)_
+
 > Seth: I'll repeat it just in case
 
-**Cooldude** *(18-May-20 04:38 PM)*
+**Cooldude** _(18-May-20 04:38 PM)_
+
 > Wemmfort: I'm so thirsty right now, you don't even know it.
 
-**Sean** *(18-May-20 04:38 PM)*
+**Sean** _(18-May-20 04:38 PM)_
 
+_Seth breathes in_
 
-*Seth breathes in*
+**Preston** _(18-May-20 04:38 PM)_
 
-**Preston** *(18-May-20 04:38 PM)*
 > Volentina: no. please don't sir.
 
-**Sean** *(18-May-20 04:38 PM)*
+**Sean** _(18-May-20 04:38 PM)_
+
 > Seth: I'll take two fries, a double mcspelunkers with extra cheese, make that medium rare, a salad with extra fortnite, 2 Medium chocolate milkshakes with a shot of Dwarven rum, sprinkle some Caribeener-19 salt on top, make it turn, spit in it, make it dry, run and stomp on Emmett's foot. I'll also take 2 irish women to-go, a 3 foot 9 midget, you know, like the ones from the circus, cover her in hotsauce, shove 2 peppers up her ass, a stick, a dildo, and 4 dabs of soy sauce. OH! Can I also get uHhhhhhhhhhhhhhhhhhhhhh.... Fortnite burger, extra farts, 3 packets of Spacemayo, no cum or piss and a large coke.
 
-**Zander** *(18-May-20 04:38 PM)*
+**Zander** _(18-May-20 04:38 PM)_
+
 > Emmett: Damn, woman, be more demanding to the guy.
 
-**Rashidi** *(18-May-20 04:38 PM)*
+**Rashidi** _(18-May-20 04:38 PM)_
+
 > Dakari: I want 2 salads actually.
 
-**Sean** *(18-May-20 04:38 PM)*
+**Sean** _(18-May-20 04:38 PM)_
+
 > Seth: Shut up.
 
-**Sean** *(18-May-20 04:38 PM)*
+**Sean** _(18-May-20 04:38 PM)_
+
 > Seth: We're not rich you know
 
-**Preston** *(18-May-20 04:38 PM)*
+**Preston** _(18-May-20 04:38 PM)_
 Volonta would just blankly stare at them.
 
-**Sean** *(18-May-20 04:38 PM)*
+**Sean** _(18-May-20 04:38 PM)_
+
 > Seth: you get one salad
 
-**Brody** *(18-May-20 04:38 PM)*
+**Brody** _(18-May-20 04:38 PM)_
 
+_Sanya takes the time to look at the waiter, realizing just what she was talking to._
 
-*Sanya takes the time to look at the waiter, realizing just what she was talking to.*
+**Rashidi** _(18-May-20 04:39 PM)_
 
-**Rashidi** *(18-May-20 04:39 PM)*
 > Dakari: Also do you strawberry milkshakes?
 
-**Rashidi** *(18-May-20 04:39 PM)*
+**Rashidi** _(18-May-20 04:39 PM)_
+
 > Dakari: No
 
-**Sean** *(18-May-20 04:39 PM)*
+**Sean** _(18-May-20 04:39 PM)_
+
 > Seth: ONE
 
-**Sean** *(18-May-20 04:39 PM)*
+**Sean** _(18-May-20 04:39 PM)_
+
 > Seth: SALAD
 
-**Zander** *(18-May-20 04:39 PM)*
+**Zander** _(18-May-20 04:39 PM)_
 8ball Is Olag screaming at various employees?
 
-**FFBot** *(18-May-20 04:39 PM)*
+**FFBot** _(18-May-20 04:39 PM)_
 Outlook not so good :8ball:
 
-**Rashidi** *(18-May-20 04:39 PM)*
+**Rashidi** _(18-May-20 04:39 PM)_
+
 > Dakari: I want my 2 salads
 
-**Sean** *(18-May-20 04:39 PM)*
+**Sean** _(18-May-20 04:39 PM)_
+
 > Seth: ONE!
 
-**Trey** *(18-May-20 04:39 PM)*
+**Trey** _(18-May-20 04:39 PM)_
+
 > Garrick: hamburger.... please......
 
-**Rashidi** *(18-May-20 04:39 PM)*
+**Rashidi** _(18-May-20 04:39 PM)_
+
 > Dakari: 2!
 
-**Sean** *(18-May-20 04:39 PM)*
+**Sean** _(18-May-20 04:39 PM)_
+
 > Seth: ONE
 
-**Trey** *(18-May-20 04:39 PM)*
+**Trey** _(18-May-20 04:39 PM)_
+
 > Garrick: extra ham
 
-**Rashidi** *(18-May-20 04:39 PM)*
+**Rashidi** _(18-May-20 04:39 PM)_
+
 > Dakari: 2!
 
-**Cooldude** *(18-May-20 04:40 PM)*
+**Cooldude** _(18-May-20 04:40 PM)_
 
+_Wemmfort raises his hand._
 
-*Wemmfort raises his hand.*
 > Wemmfort: Waiter, I'm kinda hungry, too. Can I have some dried lava?
 
-**Sean** *(18-May-20 04:40 PM)*
+**Sean** _(18-May-20 04:40 PM)_
+
 > Seth: I SHALL LET YOU HAVE ONE MILKSHAKE IF YOU GET ONLY ONE SALAD!
 
-**Brody** *(18-May-20 04:40 PM)*
+**Brody** _(18-May-20 04:40 PM)_
+
 > Sanya: Ignore them, robot. Just get a salads, a burger, and a steak.
 
-**Preston** *(18-May-20 04:40 PM)*
+**Preston** _(18-May-20 04:40 PM)_
+
 > Volentina: I will be back shortly with your. uh. Food.
 
-**Zander** *(18-May-20 04:40 PM)*
+**Zander** _(18-May-20 04:40 PM)_
+
 > Emmett: Move aside Seth, or else I'll piss on you.
 
-**Sean** *(18-May-20 04:40 PM)*
+**Sean** _(18-May-20 04:40 PM)_
 
+_Seth pisses on himself for Emmett_
 
-*Seth pisses on himself for Emmett*
+**Rashidi** _(18-May-20 04:40 PM)_
 
-**Rashidi** *(18-May-20 04:40 PM)*
 > Dakari: But you want "two fries, a double mcspelunkers with extra cheese, make that medium rare, a salad with extra fortnite, 2 Medium chocolate milkshakes with a shot of Dwarven rum, sprinkle some Caribeener-19 salt on top, make it turn, spit in it, make it dry, run and stomp on Emmett's foot. I'll also take 2 irish women to-go, a 3 foot 9 midget, you know, like the ones from the circus, cover her in hotsauce, shove 2 peppers up her ass, a stick, a dildo, and 4 dabs of soy sauce. OH! Can I also get uHhhhhhhhhhhhhhhhhhhhhh.... Fortnite burger, extra farts, 3 packets of Spacemayo, no cum or piss and a large coke."
 
-**Sean** *(18-May-20 04:40 PM)*
+**Sean** _(18-May-20 04:40 PM)_
+
 > Seth: Yes.
 
-**Trey** *(18-May-20 04:40 PM)*
+**Trey** _(18-May-20 04:40 PM)_
+
 > Garrick: Big meaty hamburger with 12 layers
 
-**Zander** *(18-May-20 04:40 PM)*
+**Zander** _(18-May-20 04:40 PM)_
 
+_Emmett sidesteps out of the booth and goes to the restroom._
 
-*Emmett sidesteps out of the booth and goes to the restroom.*
+**Rashidi** _(18-May-20 04:40 PM)_
 
-**Rashidi** *(18-May-20 04:40 PM)*
 > Dakari: So I want my 2 salads!
 
-**Cooldude** *(18-May-20 04:40 PM)*
+**Cooldude** _(18-May-20 04:40 PM)_
 
+_wemfort walks into the kitchen_
 
-*wemfort walks into the kitchen*
 > Wemmfort: Is my glass ready, yet?
 
-**Sean** *(18-May-20 04:41 PM)*
+**Sean** _(18-May-20 04:41 PM)_
+
 > Seth: I am the one who makes the money so I get "the two fries, a double mcspelunkers with extra cheese, make that medium rare, a salad with extra fortnite, 2 Medium chocolate milkshakes with a shot of Dwarven rum, sprinkle some Caribeener-19 salt on top, make it turn, spit in it, make it dry, run and stomp on Emmett's foot. I'll also take 2 irish women to-go, a 3 foot 9 midget, you know, like the ones from the circus, cover her in hotsauce, shove 2 peppers up her ass, a stick, a dildo, and 4 dabs of soy sauce. OH! Can I also get uHhhhhhhhhhhhhhhhhhhhhh.... Fortnite burger, extra farts, 3 packets of Spacemayo, no cum or piss and a large coke."
 
-**Sean** *(18-May-20 04:41 PM)*
+**Sean** _(18-May-20 04:41 PM)_
+
 > Seth: Now.
 
-**Zander** *(18-May-20 04:41 PM)*
+**Zander** _(18-May-20 04:41 PM)_
+
 > Emmett: I'll literally turn up my comms volume so you can hear me pissing if you two won't shut up.
 
-**Brody** *(18-May-20 04:41 PM)*
+**Brody** _(18-May-20 04:41 PM)_
+
 > Sanya: Wait, not a robot. My bad.
 
-**Sean** *(18-May-20 04:41 PM)*
+**Sean** _(18-May-20 04:41 PM)_
+
 > Seth: Sit down.
 
-**Sean** *(18-May-20 04:41 PM)*
+**Sean** _(18-May-20 04:41 PM)_
+
 > Seth: And go to sleep
 
-**Rashidi** *(18-May-20 04:42 PM)*
+**Rashidi** _(18-May-20 04:42 PM)_
+
 > Dakari: Well I want to splurge a little. So I want my two salads and a milkshake.
 
-**Sean** *(18-May-20 04:42 PM)*
+**Sean** _(18-May-20 04:42 PM)_
+
 > Seth: WE.
 
-**Sean** *(18-May-20 04:42 PM)*
+**Sean** _(18-May-20 04:42 PM)_
+
 > Seth: HAVE.
 
-**Sean** *(18-May-20 04:42 PM)*
+**Sean** _(18-May-20 04:42 PM)_
+
 > Seth: NO.
 
-**Brody** *(18-May-20 04:42 PM)*
+**Brody** _(18-May-20 04:42 PM)_
+
 > Sanya: Just, go, bear.
 
-**Sean** *(18-May-20 04:42 PM)*
+**Sean** _(18-May-20 04:42 PM)_
+
 > Seth: MO. NEY.
 
-**Trey** *(18-May-20 04:42 PM)*
+**Trey** _(18-May-20 04:42 PM)_
+
 > Garrick: Seth, don't say that before we get our food!
 
-**Sean** *(18-May-20 04:42 PM)*
+**Sean** _(18-May-20 04:42 PM)_
+
 > Seth: SHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-**Sean** *(18-May-20 04:42 PM)*
+**Sean** _(18-May-20 04:42 PM)_
+
 > Seth: SHUT UP
 
-**Rashidi** *(18-May-20 04:42 PM)*
+**Rashidi** _(18-May-20 04:42 PM)_
+
 > Dakari: How do we have no money if you're getting "I'll take two fries, a double mcspelunkers with extra cheese, make that medium rare, a salad with extra fortnite, 2 Medium chocolate milkshakes with a shot of Dwarven rum, sprinkle some Caribeener-19 salt on top, make it turn, spit in it, make it dry, run and stomp on Emmett's foot. I'll also take 2 irish women to-go, a 3 foot 9 midget, you know, like the ones from the circus, cover her in hotsauce, shove 2 peppers up her ass, a stick, a dildo, and 4 dabs of soy sauce. OH! Can I also get uHhhhhhhhhhhhhhhhhhhhhh.... Fortnite burger, extra farts, 3 packets of Spacemayo, no cum or piss and a large coke."!
 
-**Sean** *(18-May-20 04:42 PM)*
+**Sean** _(18-May-20 04:42 PM)_
+
 > Seth: shhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-**Zander** *(18-May-20 04:42 PM)*
+**Zander** _(18-May-20 04:42 PM)_
 
+_Emmett takes out his personal account balance and checks on it._
 
-*Emmett takes out his personal account balance and checks on it.*
+**Trey** _(18-May-20 04:42 PM)_
 
-**Trey** *(18-May-20 04:42 PM)*
 > Garrick: We're supposed to eat and THEN ditch the restaurant!
 
-**Sean** *(18-May-20 04:42 PM)*
+**Sean** _(18-May-20 04:42 PM)_
+
 > Seth: I call it walk out on the tab
 
-**Brody** *(18-May-20 04:43 PM)*
+**Brody** _(18-May-20 04:43 PM)_
 
+_Sanya slumps into her booth, entirely too fucking tired for this shit._
 
-*Sanya slumps into her booth, entirely too fucking tired for this shit.*
+**Cooldude** _(18-May-20 04:43 PM)_
 
-**Cooldude** *(18-May-20 04:43 PM)*
+_Wemmfort goes to the cash register and takes some Ducketts._
 
-
-*Wemmfort goes to the cash register and takes some Ducketts.*
 > Wemmfort: What are these?
 
-**Zander** *(18-May-20 04:43 PM)*
+**Zander** _(18-May-20 04:43 PM)_
 t!choose 100 500 1000 2000 5000 10000 15000
 
-**Rashidi** *(18-May-20 04:43 PM)*
+**Rashidi** _(18-May-20 04:43 PM)_
+
 > Dakari: Then we can easily walk out with another salad and milkshake.
 
-**Sean** *(18-May-20 04:43 PM)*
+**Sean** _(18-May-20 04:43 PM)_
+
 > Seth: No.
 
-**Rashidi** *(18-May-20 04:43 PM)*
+**Rashidi** _(18-May-20 04:43 PM)_
+
 > Dakari: You are making 0 sense
 
-**Zander** *(18-May-20 04:43 PM)*
+**Zander** _(18-May-20 04:43 PM)_
 t!choose 100 | 500 | 1000 | 2000 | 5000 | 10000 | 15000
 
-**FFBot** *(18-May-20 04:43 PM)*
+**FFBot** _(18-May-20 04:43 PM)_
 🤔 | Zander, I pick 1000
 
-**Sean** *(18-May-20 04:43 PM)*
+**Sean** _(18-May-20 04:43 PM)_
+
 > Seth: Good.
 
-**Sean** *(18-May-20 04:43 PM)*
+**Sean** _(18-May-20 04:43 PM)_
+
 > Seth: Now sit there and shut up
 
-**Trey** *(18-May-20 04:44 PM)*
+**Trey** _(18-May-20 04:44 PM)_
+
 > Garrick: Anyways, that's all, waiterman.
 
-**Zander** *(18-May-20 04:44 PM)*
+**Zander** _(18-May-20 04:44 PM)_
+
 > Emmett: Pretty low on funds, but I could always save something from Seth.
 
-**Sean** *(18-May-20 04:44 PM)*
+**Sean** _(18-May-20 04:44 PM)_
 
+_Seth pats Dakari on the back_
 
-*Seth pats Dakari on the back*
+**Trey** _(18-May-20 04:44 PM)_
 
-**Trey** *(18-May-20 04:44 PM)*
 > Garrick: Oh. He's gone.
 
-**Zander** *(18-May-20 04:44 PM)*
+**Zander** _(18-May-20 04:44 PM)_
 
+_Emmett takes a big ol' piss._
 
-*Emmett takes a big ol' piss.*
+**Rashidi** _(18-May-20 04:44 PM)_
 
-**Rashidi** *(18-May-20 04:44 PM)*
+_Dakari sighs_
 
+**Rashidi** _(18-May-20 04:44 PM)_
 
-*Dakari sighs*
-
-**Rashidi** *(18-May-20 04:44 PM)*
 > Dakari: Fine
 
-**Cooldude** *(18-May-20 04:44 PM)*
+**Cooldude** _(18-May-20 04:44 PM)_
+
 > Wemmfort: Are these some sort of currency?
 
-**Sean** *(18-May-20 04:44 PM)*
+**Sean** _(18-May-20 04:44 PM)_
 t!choose Sanya | Himself | Waiter | Garrick | Seth
 
-**FFBot** *(18-May-20 04:44 PM)*
+**FFBot** _(18-May-20 04:44 PM)_
 🤔 | Bagelwrecker, I pick Sanya
 
-**Cooldude** *(18-May-20 04:45 PM)*
+**Cooldude** _(18-May-20 04:45 PM)_
 
+_sanya turns into a toilet_
 
-*sanya turns into a toilet*
-
-**Sean** *(18-May-20 04:45 PM)*
+**Sean** _(18-May-20 04:45 PM)_
 8ball Does Sanya turn into a toilet?
 
-**FFBot** *(18-May-20 04:45 PM)*
+**FFBot** _(18-May-20 04:45 PM)_
 Ask again later :8ball:
 
-**Sean** *(18-May-20 04:46 PM)*
+**Sean** _(18-May-20 04:46 PM)_
 8ball Does Sanya turn into a toilet?
 
-**FFBot** *(18-May-20 04:46 PM)*
+**FFBot** _(18-May-20 04:46 PM)_
 It is certain :8ball:
 
-**Zander** *(18-May-20 04:46 PM)*
+**Zander** _(18-May-20 04:46 PM)_
 
+_Emmett, after washing his hands, poked his head out of the restroom._
 
-*Emmett, after washing his hands, poked his head out of the restroom.*
 > Emmett: Sanya, you should check out this bathroom. Squeaky clean and echoey!
 
-**Brody** *(18-May-20 04:46 PM)*
+**Brody** _(18-May-20 04:46 PM)_
+
 > Sanya: Fuck.
 
-**Sean** *(18-May-20 04:46 PM)*
+**Sean** _(18-May-20 04:46 PM)_
+
 > Seth: Epic.
 
-**Preston** *(18-May-20 04:46 PM)*
+**Preston** _(18-May-20 04:46 PM)_
+
 > Volentina: I do apologize but we don't have a, double mcspulunkers, extra fortnite, dwarven rum, caribeener-19 irish women to go, midget, dildo's, fortnite burger, farts, cum, or piss. And we don't have coke, is pepsi ok?
 
-**Sean** *(18-May-20 04:46 PM)*
+**Sean** _(18-May-20 04:46 PM)_
+
 > Seth: Well at least run and stomp on Emmett's foot.
 
-**Cooldude** *(18-May-20 04:46 PM)*
+**Cooldude** _(18-May-20 04:46 PM)_
 8ball Does the entire cast turn into a pickle?
 
-**FFBot** *(18-May-20 04:46 PM)*
+**FFBot** _(18-May-20 04:46 PM)_
 Don't count on it :8ball:
 
-**Sean** *(18-May-20 04:46 PM)*
+**Sean** _(18-May-20 04:46 PM)_
+
 > Seth: I'll revamp my order.
 
-**Lili** *(18-May-20 04:47 PM)*
+**Lili** _(18-May-20 04:47 PM)_
 
+_Iris wakes up and the ship is empty._
 
-*Iris wakes up and the ship is empty.*
+**Lili** _(18-May-20 04:47 PM)_
 
-**Lili** *(18-May-20 04:47 PM)*
 > Iris: oh.
 
-**Preston** *(18-May-20 04:47 PM)*
+**Preston** _(18-May-20 04:47 PM)_
+
 > Volentina: I apologize but I'm in skates, I'm currently unable to stomnp on anyone's foot.
 
-**Cooldude** *(18-May-20 04:47 PM)*
+**Cooldude** _(18-May-20 04:47 PM)_
 toilet sanya
 
-**Zander** *(18-May-20 04:47 PM)*
+**Zander** _(18-May-20 04:47 PM)_
 8ball Does Olag make his way to the booth, still naked and drunk?
 
-**FFBot** *(18-May-20 04:47 PM)*
+**FFBot** _(18-May-20 04:47 PM)_
 Yes :8ball:
 
-**Sean** *(18-May-20 04:47 PM)*
+**Sean** _(18-May-20 04:47 PM)_
+
 > Seth: UGHHHHHHH
 
-**Zander** *(18-May-20 04:47 PM)*
+**Zander** _(18-May-20 04:47 PM)_
+
 > Emmett: Sanya?
 
-*Emmett tilted his head.*
+_Emmett tilted his head._
 
-**Brody** *(18-May-20 04:48 PM)*
+**Brody** _(18-May-20 04:48 PM)_
+
 > Sanya: What? Oh great, he's back.
 
-**Sean** *(18-May-20 04:48 PM)*
+**Sean** _(18-May-20 04:48 PM)_
+
 > Seth: Useless restaurant business
 
-**Trey** *(18-May-20 04:48 PM)*
+**Trey** _(18-May-20 04:48 PM)_
 
+_Garrick gazes upon his 3-feet-tall burger._
 
-*Garrick gazes upon his 3-feet-tall burger.*
+**Zander** _(18-May-20 04:48 PM)_
 
-**Zander** *(18-May-20 04:48 PM)*
+_Emmett sees the slime and recedes back into the restroom._
 
+**Cooldude** _(18-May-20 04:48 PM)_
 
-*Emmett sees the slime and recedes back into the restroom.*
-
-**Cooldude** *(18-May-20 04:48 PM)*
 > Wemmfort: What's that thing attatched between his legs?
 
-**Zander** *(18-May-20 04:48 PM)*
+**Zander** _(18-May-20 04:48 PM)_
+
 > Emmett: Yeah, no.
 
-**Cooldude** *(18-May-20 04:49 PM)*
+**Cooldude** _(18-May-20 04:49 PM)_
+
 > Wemmfort: Some sort of device?
 
-**Lili** *(18-May-20 04:49 PM)*
+**Lili** _(18-May-20 04:49 PM)_
 
+_Iris wanders around the empty ship, bored out of her mind but with no clue where everyone else is._
 
-*Iris wanders around the empty ship, bored out of her mind but with no clue where everyone else is.*
+**Brody** _(18-May-20 04:49 PM)_
 
-**Brody** *(18-May-20 04:49 PM)*
+_D: Why did you ever choose to join this shitshow of a crew?_
 
+**Preston** _(18-May-20 04:49 PM)_
 
-*D: Why did you ever choose to join this shitshow of a crew?*
-
-**Preston** *(18-May-20 04:49 PM)*
 > Volentina: If you need anything else I'll be right over here.
 
-**Lili** *(18-May-20 04:49 PM)*
+**Lili** _(18-May-20 04:49 PM)_
 
+_She suddenly remembers she has her comms, and subsequently turns them on._
 
-*She suddenly remembers she has her comms, and subsequently turns them on.*
+**Sean** _(18-May-20 04:49 PM)_
 
-**Sean** *(18-May-20 04:49 PM)*
 > Seth: UHH
 
-**Sean** *(18-May-20 04:49 PM)*
+**Sean** _(18-May-20 04:49 PM)_
+
 > Seth: WAITER
 
-**Lili** *(18-May-20 04:50 PM)*
+**Lili** _(18-May-20 04:50 PM)_
+
 > Iris: Uh hey guys.
 
-**Sean** *(18-May-20 04:50 PM)*
+**Sean** _(18-May-20 04:50 PM)_
+
 > Seth: I HAVE NOT SAID MY NEW ORDER YET!
 
-**Brody** *(18-May-20 04:50 PM)*
+**Brody** _(18-May-20 04:50 PM)_
+
 > Sanya: Oh, finally. Hello Iris.
 
-**Zander** *(18-May-20 04:50 PM)*
+**Zander** _(18-May-20 04:50 PM)_
+
 > Emmett: Guess I'll get high or something.
 
-*Emmett slides down to the ground and takes out some grass.*
+_Emmett slides down to the ground and takes out some grass._
 
-**Preston** *(18-May-20 04:50 PM)*
+**Preston** _(18-May-20 04:50 PM)_
+
 > Volentina: Please state your order sir.
 
-**Lili** *(18-May-20 04:50 PM)*
+**Lili** _(18-May-20 04:50 PM)_
+
 > Iris: What did I just turn my comms on to?
 
-**Cooldude** *(18-May-20 04:50 PM)*
+**Cooldude** _(18-May-20 04:50 PM)_
 
+_Wemmfort freezes, confused at everything._
 
-*Wemmfort freezes, confused at everything.*
+**Zander** _(18-May-20 04:50 PM)_
 
-**Zander** *(18-May-20 04:50 PM)*
+_Emmett turns off his comms._
 
+**Brody** _(18-May-20 04:50 PM)_
 
-*Emmett turns off his comms.*
-
-**Brody** *(18-May-20 04:50 PM)*
 > Sanya: Hell. We're at a nearby diner.
 
-**Cooldude** *(18-May-20 04:51 PM)*
+**Cooldude** _(18-May-20 04:51 PM)_
+
 > Wemmfort: I'm scared.
 
-**Lili** *(18-May-20 04:51 PM)*
+**Lili** _(18-May-20 04:51 PM)_
+
 > Iris: Oh. Uh, that's cool, I guess??
 
-**Brody** *(18-May-20 04:51 PM)*
+**Brody** _(18-May-20 04:51 PM)_
+
 > Sanya: As it turns out, we'll be on this asteroid for a week.
 
-**Zander** *(18-May-20 04:52 PM)*
+**Zander** _(18-May-20 04:52 PM)_
 
+_Emmett takes out a lighter and starts to cook his grass in the restroom, likely stinking up the place._
 
-*Emmett takes out a lighter and starts to cook his grass in the restroom, likely stinking up the place.*
-
-**Trey** *(18-May-20 04:52 PM)*
+**Trey** _(18-May-20 04:52 PM)_
 8ball Does Garrick take apart his burger and eat the layers individually
 
-**FFBot** *(18-May-20 04:52 PM)*
+**FFBot** _(18-May-20 04:52 PM)_
 Signs point to yes :8ball:
 
-**Cooldude** *(18-May-20 04:52 PM)*
+**Cooldude** _(18-May-20 04:52 PM)_
 
+_Wemmfort takes off his mask_
 
-*Wemmfort takes off his mask*
 > Wemmfort: Now would be a great time to wash my mask.
 
-**Brody** *(18-May-20 04:53 PM)*
+**Brody** _(18-May-20 04:53 PM)_
+
 > Sanya: Fine. I'm going to the bathroom.
 
-**Lili** *(18-May-20 04:53 PM)*
+**Lili** _(18-May-20 04:53 PM)_
+
 > Iris: Ah! Well then, I should... probably get acquainted with the place.
 
-**Sean** *(18-May-20 04:53 PM)*
+**Sean** _(18-May-20 04:53 PM)_
+
 > Seth: Let me do my order, give me 200 chicken nuggets, a burger the size of my dick, extra cheddar, put a squeeze on it, twist it, spit on Emmett, and then let it dry. Give me 5 milkshakes all Extra-large, with extra shots of Dwarven Beer, a Mcflurry deluxe, give me a Hershey Chocolate bar, the cook's left big toenail, a piece of food, nuclear waste, a large glass of grease mixed with pepsi. I will also take 2 fried tacos, a fried spitball, 9 salads with extra craisens and with Balsamic Vinaigrette, 2 starved dogs picked apart by crows and vultures, fried vulva, and hmmmmm, a fried scab to go.
 
-**Rashidi** *(18-May-20 04:53 PM)*
+**Rashidi** _(18-May-20 04:53 PM)_
 
+_Dakari eats his salad trying his best to ignore the shenanigans occurring at the table_
 
-*Dakari eats his salad trying his best to ignore the shenanigans occurring at the table*
+**Brody** _(18-May-20 04:53 PM)_
 
-**Brody** *(18-May-20 04:53 PM)*
+_Sanya turns off her comm_
 
+**Cooldude** _(18-May-20 04:53 PM)_
 
-*Sanya turns off her comm*
+_Wemmfort goes into the bathroom, only to discover emmett._
 
-**Cooldude** *(18-May-20 04:53 PM)*
+**Trey** _(18-May-20 04:53 PM)_
 
-
-*Wemmfort goes into the bathroom, only to discover emmett.*
-
-**Trey** *(18-May-20 04:53 PM)*
 > Garrick: Hurry up and get over here.
 
-**Sean** *(18-May-20 04:54 PM)*
+**Sean** _(18-May-20 04:54 PM)_
+
 > Seth: That is all thank you
 
-**Preston** *(18-May-20 04:54 PM)*
+**Preston** _(18-May-20 04:54 PM)_
+
 > Volentina: One... Order coming right up.
 
-**Zander** *(18-May-20 04:54 PM)*
+**Zander** _(18-May-20 04:54 PM)_
 
+_Upon entering, Emmett could be seen with a wad of grass in his mouth._
 
-*Upon entering, Emmett could be seen with a wad of grass in his mouth.*
+**Sean** _(18-May-20 04:54 PM)_
 
-**Sean** *(18-May-20 04:54 PM)*
+_Seth goes into the bathroom_
 
+**Brody** _(18-May-20 04:54 PM)_
 
-*Seth goes into the bathroom*
-
-**Brody** *(18-May-20 04:54 PM)*
 > Sanya: Jesus. I hate unisex bathrooms.
 
-**Trey** *(18-May-20 04:54 PM)*
+**Trey** _(18-May-20 04:54 PM)_
+
 > Garrick: Everyone's gone to the bathroom, so there's booth space.
 
-**Sean** *(18-May-20 04:54 PM)*
+**Sean** _(18-May-20 04:54 PM)_
+
 > Seth: Oh hey, I didn't know these bathrooms were unisex.
 
-**Zander** *(18-May-20 04:55 PM)*
+**Zander** _(18-May-20 04:55 PM)_
+
 > Emmett: Is the slime dude gone?
 
-**Sean** *(18-May-20 04:55 PM)*
+**Sean** _(18-May-20 04:55 PM)_
+
 > Seth: How progressive.
 
-**Cooldude** *(18-May-20 04:55 PM)*
+**Cooldude** _(18-May-20 04:55 PM)_
+
 > Wemmfort: Why are you sucking Sanya's hair?
 
-**Lili** *(18-May-20 04:55 PM)*
+**Lili** _(18-May-20 04:55 PM)_
+
 > Iris: Alright. Uh, where's the diner and what's it called?
 
-**Sean** *(18-May-20 04:55 PM)*
+**Sean** _(18-May-20 04:55 PM)_
 
+_Seth pees on Trey_
 
-*Seth pees on Trey*
-
-**Trey** *(18-May-20 04:55 PM)*
+**Trey** _(18-May-20 04:55 PM)_
 gros
 
-**Sean** *(18-May-20 04:55 PM)*
+**Sean** _(18-May-20 04:55 PM)_
+
 > Seth: Who Olag?
 
-**Zander** *(18-May-20 04:55 PM)*
+**Zander** _(18-May-20 04:55 PM)_
+
 > Emmett: Because I really don't want to deal with him.
 
-**Sean** *(18-May-20 04:55 PM)*
+**Sean** _(18-May-20 04:55 PM)_
+
 > Seth: He left a while ago.
 
-**Cooldude** *(18-May-20 04:55 PM)*
+**Cooldude** _(18-May-20 04:55 PM)_
+
 > Wemmfort: He has this thing between his legs.
 
-**Cooldude** *(18-May-20 04:55 PM)*
+**Cooldude** _(18-May-20 04:55 PM)_
+
 > Wemmfort: What is it?
 
-**Trey** *(18-May-20 04:56 PM)*
+**Trey** _(18-May-20 04:56 PM)_
+
 > Garrick: It's east and called I dunno.
 
-**Brody** *(18-May-20 04:56 PM)*
+**Brody** _(18-May-20 04:56 PM)_
 8ball Does Sanya leave the bathroom and apologize to the waiter?
 
-**FFBot** *(18-May-20 04:56 PM)*
+**FFBot** _(18-May-20 04:56 PM)_
 Outlook good :8ball:
 
-**Sean** *(18-May-20 04:56 PM)*
+**Sean** _(18-May-20 04:56 PM)_
+
 > Seth: Dinner is at 1 20 street.
 
-**Brody** *(18-May-20 04:56 PM)*
+**Brody** _(18-May-20 04:56 PM)_
+
 > Sanya: Fuck. This.
 
-**Lili** *(18-May-20 04:56 PM)*
+**Lili** _(18-May-20 04:56 PM)_
+
 > Iris: Cool, I'll just... wander around until I find the place that looks like it was hit by a truck.
 
-**Zander** *(18-May-20 04:56 PM)*
+**Zander** _(18-May-20 04:56 PM)_
 
+_Emmett inhales deeply, probably having gotten everyone in the bathroom pretty high. Maybe not Sanya._
 
-*Emmett inhales deeply, probably having gotten everyone in the bathroom pretty high. Maybe not Sanya.*
+**Brody** _(18-May-20 04:56 PM)_
 
-**Brody** *(18-May-20 04:56 PM)*
 > Sanya: You, waiter.
 
-**Sean** *(18-May-20 04:57 PM)*
+**Sean** _(18-May-20 04:57 PM)_
 
+_Seth leaves the bathroom_
 
-*Seth leaves the bathroom*
+**Lili** _(18-May-20 04:57 PM)_
 
-**Lili** *(18-May-20 04:57 PM)*
+_Iris proceeds to exit the ship and turn east._
 
-
-*Iris proceeds to exit the ship and turn east.*
 > Iris: on my way.
 
-**Cooldude** *(18-May-20 04:57 PM)*
+**Cooldude** _(18-May-20 04:57 PM)_
 
+_Wemmfort puts his hand on his face, panicked._
 
-*Wemmfort puts his hand on his face, panicked.*
+**Sean** _(18-May-20 04:57 PM)_
 
-**Sean** *(18-May-20 04:57 PM)*
+_Without washing his hands_
 
+**Cooldude** _(18-May-20 04:57 PM)_
 
-*Without washing his hands*
-
-**Cooldude** *(18-May-20 04:57 PM)*
 > Wemmfort: WHAT IS GOING ON?!
 
-**Sean** *(18-May-20 04:57 PM)*
+**Sean** _(18-May-20 04:57 PM)_
 
+_Seth wipes his hands on Sanya_
 
-*Seth wipes his hands on Sanya*
+**Preston** _(18-May-20 04:57 PM)_
 
-**Preston** *(18-May-20 04:57 PM)*
 > Volentina: Yes?
 
-**Zander** *(18-May-20 04:57 PM)*
+**Zander** _(18-May-20 04:57 PM)_
+
 > Emmett: I swear, the people on this ship are retarded sometimes.
 
-**Brody** *(18-May-20 04:58 PM)*
+**Brody** _(18-May-20 04:58 PM)_
 
+_Sanya has jusst about fuckinn had it_
 
-*Sanya has jusst about fuckinn had it*
+**Cooldude** _(18-May-20 04:58 PM)_
 
-**Cooldude** *(18-May-20 04:58 PM)*
 > Wemmfort: Wemmfort walks out, still confused.
 
-**Zander** *(18-May-20 04:58 PM)*
+**Zander** _(18-May-20 04:58 PM)_
 
+_Emmett turns his comms back on._
 
-*Emmett turns his comms back on.*
+**Lili** _(18-May-20 04:58 PM)_
 
-**Lili** *(18-May-20 04:58 PM)*
+_Iris is just walking._
 
-
-*Iris is just walking.*
-
-**Trey** *(18-May-20 04:58 PM)*
+**Trey** _(18-May-20 04:58 PM)_
 walkin
 
-**Brody** *(18-May-20 04:58 PM)*
+**Brody** _(18-May-20 04:58 PM)_
 
+_Sanya reaches for her knife._
 
-*Sanya reaches for her knife.*
+**Sean** _(18-May-20 04:58 PM)_
 
-**Sean** *(18-May-20 04:58 PM)*
 > Seth: Woah
 
-**Zander** *(18-May-20 04:58 PM)*
+**Zander** _(18-May-20 04:58 PM)_
 8ball Does Emmett feel considerate all of a sudden and sets his comms to Sanya's frequency?
 
-**FFBot** *(18-May-20 04:58 PM)*
+**FFBot** _(18-May-20 04:58 PM)_
 It is certain :8ball:
 
-**Sean** *(18-May-20 04:58 PM)*
+**Sean** _(18-May-20 04:58 PM)_
+
 > Seth: Be nice, don't kill the waiter over your failed relationship with goat man
 
-**Cooldude** *(18-May-20 04:58 PM)*
+**Cooldude** _(18-May-20 04:58 PM)_
 8ball should wemmfort walk out and process all of this?
 
-**FFBot** *(18-May-20 04:58 PM)*
+**FFBot** _(18-May-20 04:58 PM)_
 Yes, definitely :8ball:
 
-**Preston** *(18-May-20 04:59 PM)*
+**Preston** _(18-May-20 04:59 PM)_
+
 > Volentina: Is there something you need?
 
-**Zander** *(18-May-20 04:59 PM)*
+**Zander** _(18-May-20 04:59 PM)_
+
 > Emmett: Sanya, want to go on a walk?
 
-**Lili** *(18-May-20 04:59 PM)*
+**Lili** _(18-May-20 04:59 PM)_
 
+_Iris hums a catchy song from her home as she walks._
 
-*Iris hums a catchy song from her home as she walks.*
-
-**Sean** *(18-May-20 04:59 PM)*
+**Sean** _(18-May-20 04:59 PM)_
 8ball Does the food arrive?
 
-**FFBot** *(18-May-20 04:59 PM)*
+**FFBot** _(18-May-20 04:59 PM)_
 My reply is no :8ball:
 
-**Sean** *(18-May-20 04:59 PM)*
+**Sean** _(18-May-20 04:59 PM)_
+
 > Seth: Waiter
 
-**Zander** *(18-May-20 04:59 PM)*
+**Zander** _(18-May-20 04:59 PM)_
+
 > Emmett: Sanya?
 
-**Sean** *(18-May-20 04:59 PM)*
+**Sean** _(18-May-20 04:59 PM)_
+
 > Seth: I need to change my order
 
-**Cooldude** *(18-May-20 04:59 PM)*
+**Cooldude** _(18-May-20 04:59 PM)_
+
 > Wemmfort: Wemmfort turns off his comms.
 
-**Zander** *(18-May-20 04:59 PM)*
+**Zander** _(18-May-20 04:59 PM)_
 
+_Emmett sighed and looked out, seeing Sanya with her weapon out._
 
-*Emmett sighed and looked out, seeing Sanya with her weapon out.*
+**Zander** _(18-May-20 04:59 PM)_
 
-**Zander** *(18-May-20 04:59 PM)*
 > Emmett: Sanya! Stop!
 
-**Brody** *(18-May-20 05:00 PM)*
+**Brody** _(18-May-20 05:00 PM)_
 
+_Sanya is heavily contomlating doing a stabb._
 
-*Sanya is heavily contomlating doing a stabb.*
+**Preston** _(18-May-20 05:00 PM)_
 
-**Preston** *(18-May-20 05:00 PM)*
 > Volentina: What changes would you like to make to your order?
 
-**Trey** *(18-May-20 05:00 PM)*
+**Trey** _(18-May-20 05:00 PM)_
 
+_Garrick finishes his boiga_
 
-*Garrick finishes his boiga*
+**Sean** _(18-May-20 05:00 PM)_
 
-**Sean** *(18-May-20 05:00 PM)*
-> Seth:  give me 200 chicken nuggets, a burger the size of my dick, extra cheddar, put a squeeze on it, twist it, spit on Emmett, and then let it dry. Give me 5 milkshakes all Extra-large, with extra shots of Dwarven Beer, a Mcflurry deluxe, give me a Hershey Chocolate bar, the cook's left big toenail, a piece of food, nuclear waste, a large glass of grease mixed with pepsi. I will also take 2 fried tacos, a fried spitball, 9 salads with extra craisens and with Balsamic Vinaigrette, 2 starved dogs picked apart by crows and vultures, fried vulva, and hmmmmm, a fried scab for here.
+> Seth: give me 200 chicken nuggets, a burger the size of my dick, extra cheddar, put a squeeze on it, twist it, spit on Emmett, and then let it dry. Give me 5 milkshakes all Extra-large, with extra shots of Dwarven Beer, a Mcflurry deluxe, give me a Hershey Chocolate bar, the cook's left big toenail, a piece of food, nuclear waste, a large glass of grease mixed with pepsi. I will also take 2 fried tacos, a fried spitball, 9 salads with extra craisens and with Balsamic Vinaigrette, 2 starved dogs picked apart by crows and vultures, fried vulva, and hmmmmm, a fried scab for here.
 
-**Cooldude** *(18-May-20 05:00 PM)*
+**Cooldude** _(18-May-20 05:00 PM)_
+
 > Wemmfort: Wemmfort lays down on the ground.
 
-**Sean** *(18-May-20 05:00 PM)*
+**Sean** _(18-May-20 05:00 PM)_
+
 > Seth: Thats my order now.
 
-**Lili** *(18-May-20 05:00 PM)*
+**Lili** _(18-May-20 05:00 PM)_
 
+_Iris stops walking abruptly, wondering if she passed the restaurant already._
 
-*Iris stops walking abruptly, wondering if she passed the restaurant already.*
+**Sean** _(18-May-20 05:00 PM)_
 
-**Sean** *(18-May-20 05:00 PM)*
 > Seth: Thank you.
 
-**Sean** *(18-May-20 05:00 PM)*
+**Sean** _(18-May-20 05:00 PM)_
 
+_Seth walks away_
 
-*Seth walks away*
-
-**Preston** *(18-May-20 05:00 PM)*
+**Preston** _(18-May-20 05:00 PM)_
 Volonta just disappears back into the kitchen.
 
-**Lili** *(18-May-20 05:01 PM)*
+**Lili** _(18-May-20 05:01 PM)_
 8ball does Iris finally get to the restaurant
 
-**FFBot** *(18-May-20 05:01 PM)*
+**FFBot** _(18-May-20 05:01 PM)_
 Cannot predict now :8ball:
 
-**Zander** *(18-May-20 05:02 PM)*
+**Zander** _(18-May-20 05:02 PM)_
+
 > Emmett: Sanya! Look over here! I'm your brother, Emmett!
 
-**Lili** *(18-May-20 05:02 PM)*
+**Lili** _(18-May-20 05:02 PM)_
 8ball does Iris finally get to the restaurant
 
-**FFBot** *(18-May-20 05:02 PM)*
+**FFBot** _(18-May-20 05:02 PM)_
 Better not tell you now :8ball:
 
-**Lili** *(18-May-20 05:02 PM)*
+**Lili** _(18-May-20 05:02 PM)_
 8ball does Iris finally get to the restaurant
 
-**FFBot** *(18-May-20 05:02 PM)*
+**FFBot** _(18-May-20 05:02 PM)_
 Signs point to yes :8ball:
 
-**Lili** *(18-May-20 05:02 PM)*
+**Lili** _(18-May-20 05:02 PM)_
 
+_Iris is finally here._
 
-*Iris is finally here.*
+**Brody** _(18-May-20 05:02 PM)_
 
-**Brody** *(18-May-20 05:02 PM)*
+_D: Do it. We've been waiting for this for, like, a GUY. Do It. Stab him._
 
+**Cooldude** _(18-May-20 05:02 PM)_
 
-*D: Do it. We've been waiting for this for, like, a GUY. Do It. Stab him.*
+_Wemmfort realizes that he needs to be in water while he lays down, so he digs up some of the trash on the ground and finds a small pool of water._
 
-**Cooldude** *(18-May-20 05:02 PM)*
+**Lili** _(18-May-20 05:02 PM)_
 
+_She walks in and beholds the absolute chaos that is the inside of this restaurant._
 
-*Wemmfort realizes that he needs to be in water while he lays down, so he digs up some of the trash on the ground and finds a small pool of water.*
+**Rashidi** _(18-May-20 05:02 PM)_
 
-**Lili** *(18-May-20 05:02 PM)*
-
-
-*She walks in and beholds the absolute chaos that is the inside of this restaurant.*
-
-**Rashidi** *(18-May-20 05:02 PM)*
 > Dakari: Oh. Hi Iris.
 
-**Cooldude** *(18-May-20 05:02 PM)*
+**Cooldude** _(18-May-20 05:02 PM)_
 
+_Wemmfort lays down again._
 
-*Wemmfort lays down again.*
+**Lili** _(18-May-20 05:03 PM)_
 
-**Lili** *(18-May-20 05:03 PM)*
 > Iris: I-
 
-**Zander** *(18-May-20 05:03 PM)*
+**Zander** _(18-May-20 05:03 PM)_
 
+_Emmett runs over to Sanya and tries to tackle her to get her attention._
 
-*Emmett runs over to Sanya and tries to tackle her to get her attention.*
+**Lili** _(18-May-20 05:03 PM)_
 
-**Lili** *(18-May-20 05:03 PM)*
+_Iris is at a complete loss for words._
 
+**Cooldude** _(18-May-20 05:03 PM)_
 
-*Iris is at a complete loss for words.*
+_Wemmfort sighs with worry in his eyes._
 
-**Cooldude** *(18-May-20 05:03 PM)*
+**Rashidi** _(18-May-20 05:03 PM)_
 
-
-*Wemmfort sighs with worry in his eyes.*
-
-**Rashidi** *(18-May-20 05:03 PM)*
 > Dakari: Yea. I know.
 
-**Trey** *(18-May-20 05:03 PM)*
+**Trey** _(18-May-20 05:03 PM)_
+
 > Garrick: Just... just sit down.
 
-**Brody** *(18-May-20 05:03 PM)*
+**Brody** _(18-May-20 05:03 PM)_
 
+_Sanya starts walking towards seth, Only stopping at Emmett's feeble attempt at a tackle._
 
-*Sanya starts walking towards seth, Only stopping at Emmett's feeble attempt at a tackle.*
+**Trey** _(18-May-20 05:03 PM)_
 
-**Trey** *(18-May-20 05:03 PM)*
 > Garrick: Eventually Sanya will kill the waiter and the chaos will end.
 
-**Rashidi** *(18-May-20 05:04 PM)*
+**Rashidi** _(18-May-20 05:04 PM)_
 8ball Does Dakari leave to check out the gas station?
 
-**FFBot** *(18-May-20 05:04 PM)*
+**FFBot** _(18-May-20 05:04 PM)_
 My sources say no :8ball:
 
-**Lili** *(18-May-20 05:04 PM)*
+**Lili** _(18-May-20 05:04 PM)_
 
+_Iris sits down._
 
-*Iris sits down.*
+**Zander** _(18-May-20 05:04 PM)_
 
-**Zander** *(18-May-20 05:04 PM)*
 > Emmett: Sanya, please.
 
-**Preston** *(18-May-20 05:04 PM)*
+**Preston** _(18-May-20 05:04 PM)_
 8ball will the Diner give Seth his food
 
-**FFBot** *(18-May-20 05:04 PM)*
+**FFBot** _(18-May-20 05:04 PM)_
 It is certain :8ball:
 
-**Sean** *(18-May-20 05:04 PM)*
+**Sean** _(18-May-20 05:04 PM)_
 8ball Does Seth bang a hooker that looks like Lois from family guy, in the diner?
 
-**FFBot** *(18-May-20 05:04 PM)*
+**FFBot** _(18-May-20 05:04 PM)_
 Most likely :8ball:
 
-**Cooldude** *(18-May-20 05:04 PM)*
+**Cooldude** _(18-May-20 05:04 PM)_
 
+_Wemmfort decides to take a nap._
 
-*Wemmfort decides to take a nap.*
+**Sean** _(18-May-20 05:04 PM)_
 
-**Sean** *(18-May-20 05:04 PM)*
 > Seth: Ah thank you so much
 
-**Sean** *(18-May-20 05:04 PM)*
+**Sean** _(18-May-20 05:04 PM)_
+
 > Seth: Here's a tip
 
-**Zander** *(18-May-20 05:05 PM)*
+**Zander** _(18-May-20 05:05 PM)_
+
 > Emmett: Take my hand.
 
-**Brody** *(18-May-20 05:05 PM)*
+**Brody** _(18-May-20 05:05 PM)_
+
 > Sanya: Why? He's been nothing but a problem. Besides, what's the repercussions? He'd be fine. He deserves it.
 
-**Zander** *(18-May-20 05:05 PM)*
+**Zander** _(18-May-20 05:05 PM)_
+
 > Emmett: YOu need to calm down.
 
-**Lili** *(18-May-20 05:05 PM)*
+**Lili** _(18-May-20 05:05 PM)_
+
 > Iris: Is there time to order, or...?
 
-**Sean** *(18-May-20 05:05 PM)*
+**Sean** _(18-May-20 05:05 PM)_
 
+_Seth puts 1 duckett in the waiter's shirt_
 
-*Seth puts 1 duckett in the waiter's shirt*
+**Trey** _(18-May-20 05:05 PM)_
 
-**Trey** *(18-May-20 05:05 PM)*
+_Garrick eats a slice of leftover cheese._
 
+**Preston** _(18-May-20 05:05 PM)_
 
-*Garrick eats a slice of leftover cheese.*
-
-**Preston** *(18-May-20 05:05 PM)*
 > Volentina: Here you are sir
 
-**Trey** *(18-May-20 05:05 PM)*
+**Trey** _(18-May-20 05:05 PM)_
+
 > Garrick: Sure.
 
-**Trey** *(18-May-20 05:05 PM)*
+**Trey** _(18-May-20 05:05 PM)_
+
 > Garrick: Waiter!
 
-**Sean** *(18-May-20 05:05 PM)*
+**Sean** _(18-May-20 05:05 PM)_
+
 > Seth: Don't spend it all here haha
 
-**Zander** *(18-May-20 05:06 PM)*
+**Zander** _(18-May-20 05:06 PM)_
+
 > Emmett: Look at me, Sanya.
 
-**Sean** *(18-May-20 05:06 PM)*
+**Sean** _(18-May-20 05:06 PM)_
+
 > Seth: Now excuse me Lois from family guy.
 
-**Zander** *(18-May-20 05:06 PM)*
+**Zander** _(18-May-20 05:06 PM)_
+
 > Emmett: Ignore that idiot.
 
-**Preston** *(18-May-20 05:06 PM)*
+**Preston** _(18-May-20 05:06 PM)_
+
 > Volentina: Yes sir?
 
-**Zander** *(18-May-20 05:06 PM)*
+**Zander** _(18-May-20 05:06 PM)_
+
 > Emmett: And let's just go on a walk.
 
-**Sean** *(18-May-20 05:06 PM)*
+**Sean** _(18-May-20 05:06 PM)_
 
+_Seth cums and pushes the bitch off him_
 
-*Seth cums and pushes the bitch off him*
+**Trey** _(18-May-20 05:06 PM)_
 
-**Trey** *(18-May-20 05:06 PM)*
 > Garrick: My friend here still needs to order.
 
-**Sean** *(18-May-20 05:06 PM)*
+**Sean** _(18-May-20 05:06 PM)_
+
 > Seth: Time to eat
 
-**Brody** *(18-May-20 05:06 PM)*
+**Brody** _(18-May-20 05:06 PM)_
+
 > Sanya: Fine.
 
-**Zander** *(18-May-20 05:06 PM)*
+**Zander** _(18-May-20 05:06 PM)_
 8ball Does Seth's penis extend to where Sanya is from his current position?
 
-**FFBot** *(18-May-20 05:06 PM)*
+**FFBot** _(18-May-20 05:06 PM)_
 Outlook good :8ball:
 
-**Sean** *(18-May-20 05:06 PM)*
+**Sean** _(18-May-20 05:06 PM)_
+
 > Seth: Thank you gods for this meal, make my tummy big and strong and let me fuck all night long.
 
-**Preston** *(18-May-20 05:07 PM)*
+**Preston** _(18-May-20 05:07 PM)_
+
 > Volentina: What would your friend like to order?
 
-**Brody** *(18-May-20 05:07 PM)*
+**Brody** _(18-May-20 05:07 PM)_
 
+_Stab._
 
-*Stab.*
+**Brody** _(18-May-20 05:07 PM)_
 
-**Brody** *(18-May-20 05:07 PM)*
+_Sanya stabs Seth's peepee_
 
+**Sean** _(18-May-20 05:08 PM)_
 
-*Sanya stabs Seth's peepee*
+_Seth's penis retracts and begins to heal_
 
-**Sean** *(18-May-20 05:08 PM)*
+**Sean** _(18-May-20 05:08 PM)_
 
-
-*Seth's penis retracts and begins to heal*
-
-**Sean** *(18-May-20 05:08 PM)*
 > Seth: Ouchie
 
-**Brody** *(18-May-20 05:08 PM)*
+**Brody** _(18-May-20 05:08 PM)_
+
 > Sanya: I hate you, Seth.
 
-**Sean** *(18-May-20 05:08 PM)*
+**Sean** _(18-May-20 05:08 PM)_
+
 > Seth: Whatever toots.
 
-**Lili** *(18-May-20 05:08 PM)*
+**Lili** _(18-May-20 05:08 PM)_
+
 > Iris: Could I just... get a calzone?
 
-**Brody** *(18-May-20 05:08 PM)*
+**Brody** _(18-May-20 05:08 PM)_
 
+_Sanya walks out of the Diner and takes a walk._
 
-*Sanya walks out of the Diner and takes a walk.*
+**Zander** _(18-May-20 05:09 PM)_
 
-**Zander** *(18-May-20 05:09 PM)*
+_Emmett is currently being dragged by the strongwoman._
 
+**Preston** _(18-May-20 05:09 PM)_
 
-*Emmett is currently being dragged by the strongwoman.*
-
-**Preston** *(18-May-20 05:09 PM)*
 > Volentina: I shall be back shortly with your calzone.
 
-**Rashidi** *(18-May-20 05:09 PM)*
+**Rashidi** _(18-May-20 05:09 PM)_
+
 > Dakari: Can I just say waiter, this is the most diverse diner I've ever been to.
 
-**Sean** *(18-May-20 05:09 PM)*
+**Sean** _(18-May-20 05:09 PM)_
 
+_Seth reaches his hand into his pocket dimension bag and begins to choke the old lady in there_
 
-*Seth reaches his hand into his pocket dimension bag and begins to choke the old lady in there*
+**Sean** _(18-May-20 05:09 PM)_
 
-**Sean** *(18-May-20 05:09 PM)*
 > Seth: Shut up
 
-**Sean** *(18-May-20 05:09 PM)*
+**Sean** _(18-May-20 05:09 PM)_
+
 > Seth: I'm eating
 
-**Cooldude** *(18-May-20 05:09 PM)*
+**Cooldude** _(18-May-20 05:09 PM)_
 Seth's like a cartoon character
 
-**Trey** *(18-May-20 05:10 PM)*
+**Trey** _(18-May-20 05:10 PM)_
 https://soundcloud.com/eddie-burke-703634697/i-need-a-fuckihobby
 
-**Lili** *(18-May-20 05:10 PM)*
+**Lili** _(18-May-20 05:10 PM)_
 
+_Iris presses her hand to her forehead to stave off a migraine._
 
-*Iris presses her hand to her forehead to stave off a migraine.*
-
-**Zander** *(18-May-20 05:10 PM)*
+**Zander** _(18-May-20 05:10 PM)_
 8ball Does Olag stop Sanya with his big ol' weiner?
 
-**FFBot** *(18-May-20 05:10 PM)*
+**FFBot** _(18-May-20 05:10 PM)_
 Cannot predict now :8ball:
 
-**Zander** *(18-May-20 05:10 PM)*
+**Zander** _(18-May-20 05:10 PM)_
 8ball Does Olag stop Sanya with his big ol' weiner?
 
-**FFBot** *(18-May-20 05:10 PM)*
+**FFBot** _(18-May-20 05:10 PM)_
 You may rely on it :8ball:
 
-**Sean** *(18-May-20 05:10 PM)*
+**Sean** _(18-May-20 05:10 PM)_
+
 > Seth: "Uhhhhhhhhhhhhhhhh"
 
-**Sean** *(18-May-20 05:10 PM)*
+**Sean** _(18-May-20 05:10 PM)_
+
 > Seth: "Hey little buddyyyyy"
 
-**Sean** *(18-May-20 05:10 PM)*
+**Sean** _(18-May-20 05:10 PM)_
 
+_Seth sees a small baby enter the Diner_
 
-*Seth sees a small baby enter the Diner*
+**Sean** _(18-May-20 05:10 PM)_
 
-**Sean** *(18-May-20 05:10 PM)*
+_Seth presses on its soft spot_
 
+**Zander** _(18-May-20 05:11 PM)_
 
-*Seth presses on its soft spot*
-
-**Zander** *(18-May-20 05:11 PM)*
 > Emmett: Slow...down! My face isn't immune to rusty metal!
 
-**Trey** *(18-May-20 05:11 PM)*
+**Trey** _(18-May-20 05:11 PM)_
 8ball is Sanya getting her energy drained by the leech
 
-**FFBot** *(18-May-20 05:11 PM)*
+**FFBot** _(18-May-20 05:11 PM)_
 You may rely on it :8ball:
 
-**Sean** *(18-May-20 05:11 PM)*
+**Sean** _(18-May-20 05:11 PM)_
 
+_All the nukes on earth launch at each other_
 
-*All the nukes on earth launch at each other*
+**Lili** _(18-May-20 05:11 PM)_
 
-**Lili** *(18-May-20 05:11 PM)*
 > Iris: I... I don't even know how to approach this situation.
 
-**Trey** *(18-May-20 05:11 PM)*
+**Trey** _(18-May-20 05:11 PM)_
+
 > Garrick: Maybe we should leave...
 
-**Brody** *(18-May-20 05:12 PM)*
+**Brody** _(18-May-20 05:12 PM)_
 
+_Sanya drops to the ground, out of energy and out of fucks to give._
 
-*Sanya drops to the ground, out of energy and out of fucks to give.*
+**Lili** _(18-May-20 05:12 PM)_
 
-**Lili** *(18-May-20 05:12 PM)*
 > Iris: But... my calzone...
 
-**Trey** *(18-May-20 05:12 PM)*
+**Trey** _(18-May-20 05:12 PM)_
 
+_Garrick pulls the leech off of Sanya and tosses it to Seth._
 
-*Garrick pulls the leech off of Sanya and tosses it to Seth.*
+**Preston** _(18-May-20 05:12 PM)_
 
-**Preston** *(18-May-20 05:12 PM)*
 > Volentina: Here you are.
 
-**Sean** *(18-May-20 05:12 PM)*
+**Sean** _(18-May-20 05:12 PM)_
 
+_Seth finishes eating, using the baby as a napkin_
 
-*Seth finishes eating, using the baby as a napkin*
-
-**Brody** *(18-May-20 05:12 PM)*
+**Brody** _(18-May-20 05:12 PM)_
 8ball Does Sanya cut Olag's stupid leech penis?
 
-**FFBot** *(18-May-20 05:12 PM)*
+**FFBot** _(18-May-20 05:12 PM)_
 My reply is no :8ball:
 
-**Zander** *(18-May-20 05:12 PM)*
+**Zander** _(18-May-20 05:12 PM)_
 
+_Emmett bites Olag's penis off to save his friend, giving Olag what he wants._
 
-*Emmett bites Olag's penis off to save his friend, giving Olag what he wants.*
+**Sean** _(18-May-20 05:12 PM)_
 
-**Sean** *(18-May-20 05:12 PM)*
 > Seth: Quite exquisite
 
-**Trey** *(18-May-20 05:13 PM)*
+**Trey** _(18-May-20 05:13 PM)_
+
 > Garrick: Gross.
 
-**Sean** *(18-May-20 05:13 PM)*
+**Sean** _(18-May-20 05:13 PM)_
 
+_Olag grunts in pleasure_
 
-*Olag grunts in pleasure*
+**Sean** _(18-May-20 05:13 PM)_
 
-**Sean** *(18-May-20 05:13 PM)*
+_MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM_
 
-
-*MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM*
-
-**Cooldude** *(18-May-20 05:13 PM)*
+**Cooldude** _(18-May-20 05:13 PM)_
 8ball should wemmfort wake up?
 
-**FFBot** *(18-May-20 05:13 PM)*
+**FFBot** _(18-May-20 05:13 PM)_
 Very doubtful :8ball:
 
-**Lili** *(18-May-20 05:13 PM)*
+**Lili** _(18-May-20 05:13 PM)_
 
+_Iris takes the calzone and pays for it before proceeding out of the diner._
 
-*Iris takes the calzone and pays for it before proceeding out of the diner.*
+**Lili** _(18-May-20 05:13 PM)_
 
-**Lili** *(18-May-20 05:13 PM)*
+_Iris stares for a moment._
 
+**Sean** _(18-May-20 05:13 PM)_
 
-*Iris stares for a moment.*
+_A little bit of cum leaks out and the penis starts to wiggle in Emmett's mouth_
 
-**Sean** *(18-May-20 05:13 PM)*
+**Trey** _(18-May-20 05:13 PM)_
 
-
-*A little bit of cum leaks out and the penis starts to wiggle in Emmett's mouth*
-
-**Trey** *(18-May-20 05:13 PM)*
 > Garrick: So... not leaving.
 
-**Lili** *(18-May-20 05:14 PM)*
+**Lili** _(18-May-20 05:14 PM)_
+
 > Iris: There is no escape,
 
-*she realizes.*
+_she realizes._
 
-**Cooldude** *(18-May-20 05:14 PM)*
+**Cooldude** _(18-May-20 05:14 PM)_
 8ball retry
 
-**FFBot** *(18-May-20 05:14 PM)*
+**FFBot** _(18-May-20 05:14 PM)_
 As I see it, yes :8ball:
 
-**Preston** *(18-May-20 05:14 PM)*
+**Preston** _(18-May-20 05:14 PM)_
 Volonta would go and sit down now.
 
-**Sean** *(18-May-20 05:14 PM)*
+**Sean** _(18-May-20 05:14 PM)_
+
 > Seth: OH WAITER!
 
-**Cooldude** *(18-May-20 05:14 PM)*
+**Cooldude** _(18-May-20 05:14 PM)_
 
+_Wemmfort wakes up_
 
-*Wemmfort wakes up*
+**Sean** _(18-May-20 05:14 PM)_
 
-**Sean** *(18-May-20 05:14 PM)*
 > Seth: MAY I GET A TO-GO BOX!
 
-**Brody** *(18-May-20 05:14 PM)*
+**Brody** _(18-May-20 05:14 PM)_
 
+_Sanya has decided to snap._
 
-*Sanya has decided to snap.*
+**Zander** _(18-May-20 05:14 PM)_
 
-**Zander** *(18-May-20 05:14 PM)*
+_Mouth full_
 
-
-*Mouth full*
 > Emmett: Thnk I shuld eat thus in front of hm?
 
-**Cooldude** *(18-May-20 05:15 PM)*
+**Cooldude** _(18-May-20 05:15 PM)_
 
+_Wemmfort walks into the diner, seeing the dead baby._
 
-*Wemmfort walks into the diner, seeing the dead baby.*
+**Brody** _(18-May-20 05:15 PM)_
 
-**Brody** *(18-May-20 05:15 PM)*
 > Sanya: WAITER! GET ME A FUCKING BLENDER!
 
-**Lili** *(18-May-20 05:15 PM)*
+**Lili** _(18-May-20 05:15 PM)_
 
+_With a heavy sigh, Iris sits down on the sidewalk to eat her calzone and watch the chaos._
 
-*With a heavy sigh, Iris sits down on the sidewalk to eat her calzone and watch the chaos.*
+**Sean** _(18-May-20 05:15 PM)_
 
-**Sean** *(18-May-20 05:15 PM)*
 > Seth: I want 200 chicken nuggets, a burger the size of my dick, extra cheddar, put a squeeze on it, twist it, spit on Emmett, and then let it dry. Give me 5 milkshakes all Extra-large, with extra shots of Dwarven Beer, a Mcflurry deluxe, give me a Hershey Chocolate bar, the cook's left big toenail, a piece of food, nuclear waste, a large glass of grease mixed with pepsi. I will also take 2 fried tacos, a fried spitball, 9 salads with extra craisens and with Balsamic Vinaigrette, 2 starved dogs picked apart by crows and vultures, fried vulva, and hmmmmm, a fried scab all to go.
 
-**Trey** *(18-May-20 05:15 PM)*
+**Trey** _(18-May-20 05:15 PM)_
 
+_Garrick taps on Volonta's shoulder._
 
-*Garrick taps on Volonta's shoulder.*
+**Sean** _(18-May-20 05:15 PM)_
 
-**Sean** *(18-May-20 05:15 PM)*
+_Olag waddles away_
 
+**Preston** _(18-May-20 05:15 PM)_
 
-*Olag waddles away*
-
-**Preston** *(18-May-20 05:15 PM)*
 > Volentina: Yes?
 
-**Trey** *(18-May-20 05:15 PM)*
+**Trey** _(18-May-20 05:15 PM)_
+
 > Garrick: Can we borrow a blender?
 
-**Cooldude** *(18-May-20 05:16 PM)*
+**Cooldude** _(18-May-20 05:16 PM)_
+
 > Wemmfort: My head is starting to hurt again.
 
-**Trey** *(18-May-20 05:16 PM)*
+**Trey** _(18-May-20 05:16 PM)_
+
 > Garrick: It's important.
 
-**Brody** *(18-May-20 05:16 PM)*
+**Brody** _(18-May-20 05:16 PM)_
+
 > Sanya: Do whatever you feel. I'm about to go insane.
 
-**Preston** *(18-May-20 05:16 PM)*
+**Preston** _(18-May-20 05:16 PM)_
+
 > Volentina: I don't see why not. Back of the kitchen.
 
-**Trey** *(18-May-20 05:16 PM)*
+**Trey** _(18-May-20 05:16 PM)_
+
 > Garrick: Awesome.
 
-**Trey** *(18-May-20 05:16 PM)*
+**Trey** _(18-May-20 05:16 PM)_
+
 > Garrick: I GOT THE BLENDER, SANYA.
 
-**Sean** *(18-May-20 05:16 PM)*
+**Sean** _(18-May-20 05:16 PM)_
 8ball is the cook Olag's twin?
 
-**FFBot** *(18-May-20 05:16 PM)*
+**FFBot** _(18-May-20 05:16 PM)_
 You may rely on it :8ball:
 
-**Brody** *(18-May-20 05:16 PM)*
+**Brody** _(18-May-20 05:16 PM)_
+
 > Sanya: Hand it over.
 
-**Sean** *(18-May-20 05:17 PM)*
+**Sean** _(18-May-20 05:17 PM)_
+
 > Seth: "THATS MY BLENDAR!"
 
-**Sean** *(18-May-20 05:17 PM)*
+**Sean** _(18-May-20 05:17 PM)_
+
 > Seth: "GIVE IT BACK!"
 
-**Trey** *(18-May-20 05:17 PM)*
+**Trey** _(18-May-20 05:17 PM)_
 
+_Garrick tosses the blender to Sanya._
 
-*Garrick tosses the blender to Sanya.*
+**Zander** _(18-May-20 05:17 PM)_
 
-**Zander** *(18-May-20 05:17 PM)*
+_Emmett spits out the slime and lights it on fire._
 
+**Cooldude** _(18-May-20 05:17 PM)_
 
-*Emmett spits out the slime and lights it on fire.*
-
-**Cooldude** *(18-May-20 05:17 PM)*
 > Wemmfort: Can I have the blender?
 
-**Trey** *(18-May-20 05:17 PM)*
+**Trey** _(18-May-20 05:17 PM)_
+
 > Garrick: We just need to borrow it.
 
-**Zander** *(18-May-20 05:17 PM)*
+**Zander** _(18-May-20 05:17 PM)_
+
 > Emmett: Guys, can we stun Sanya or something?
 
-**Sean** *(18-May-20 05:17 PM)*
+**Sean** _(18-May-20 05:17 PM)_
 
+_Olag's twin takes off his clothes and starts chasing after Sanya with a knife shaped like a dildo_
 
-*Olag's twin takes off his clothes and starts chasing after Sanya with a knife shaped like a dildo*
-
-**Trey** *(18-May-20 05:17 PM)*
+**Trey** _(18-May-20 05:17 PM)_
 8ball does Garrick successfully stuff all of Olag into the blender
 
-**FFBot** *(18-May-20 05:17 PM)*
+**FFBot** _(18-May-20 05:17 PM)_
 Ask again later :8ball:
 
-**Trey** *(18-May-20 05:17 PM)*
+**Trey** _(18-May-20 05:17 PM)_
 8ball does Garrick successfully stuff all of Olag into the blender
 
-**FFBot** *(18-May-20 05:17 PM)*
+**FFBot** _(18-May-20 05:17 PM)_
 Concentrate and ask again :8ball:
 
-**Trey** *(18-May-20 05:18 PM)*
+**Trey** _(18-May-20 05:18 PM)_
 8ball does Garrick successfully stuff all of Olag into the blender
 
-**FFBot** *(18-May-20 05:18 PM)*
+**FFBot** _(18-May-20 05:18 PM)_
 Most likely :8ball:
 
-**Rashidi** *(18-May-20 05:18 PM)*
+**Rashidi** _(18-May-20 05:18 PM)_
+
 > Dakari: I...
 
-**Rashidi** *(18-May-20 05:18 PM)*
+**Rashidi** _(18-May-20 05:18 PM)_
+
 > Dakari: I think I just want to go
 
-**Trey** *(18-May-20 05:18 PM)*
+**Trey** _(18-May-20 05:18 PM)_
+
 > Garrick: WHERE'S THE LID
 
-**Brody** *(18-May-20 05:18 PM)*
+**Brody** _(18-May-20 05:18 PM)_
+
 > Sanya: Here.
 
-**Trey** *(18-May-20 05:18 PM)*
+**Trey** _(18-May-20 05:18 PM)_
+
 > Garrick: SANYA! THE LID!
 
-**Trey** *(18-May-20 05:18 PM)*
+**Trey** _(18-May-20 05:18 PM)_
+
 > Garrick: Thanks.
 
-**Sean** *(18-May-20 05:18 PM)*
+**Sean** _(18-May-20 05:18 PM)_
 8ball Does Seth stun Sanya with his laser gun?
 
-**FFBot** *(18-May-20 05:18 PM)*
+**FFBot** _(18-May-20 05:18 PM)_
 Don't count on it :8ball:
 
-**Lili** *(18-May-20 05:18 PM)*
+**Lili** _(18-May-20 05:18 PM)_
 
+_Iris simply continues eating her calzone, resigned to the chaos._
 
-*Iris simply continues eating her calzone, resigned to the chaos.*
+**Cooldude** _(18-May-20 05:18 PM)_
 
-**Cooldude** *(18-May-20 05:18 PM)*
 > Wemmfort: Wemmfort snatches the lid.
 
-**Trey** *(18-May-20 05:18 PM)*
+**Trey** _(18-May-20 05:18 PM)_
 
+_Garrick shuts the blender and plugs it in._
 
-*Garrick shuts the blender and plugs it in.*
+**Sean** _(18-May-20 05:18 PM)_
 
-**Sean** *(18-May-20 05:18 PM)*
 > Seth: Emmett, use the pistol I gave you
 
-**Sean** *(18-May-20 05:18 PM)*
+**Sean** _(18-May-20 05:18 PM)_
+
 > Seth: It should have a stun.
 
-**Trey** *(18-May-20 05:18 PM)*
+**Trey** _(18-May-20 05:18 PM)_
+
 > Garrick: The evil is defeated.
 
-**Brody** *(18-May-20 05:19 PM)*
+**Brody** _(18-May-20 05:19 PM)_
+
 > Sanya: Thank you. We'll keep him there for a day.
 
-**Cooldude** *(18-May-20 05:19 PM)*
+**Cooldude** _(18-May-20 05:19 PM)_
 
+_Wemmfort snatches the lid._
 
-*Wemmfort snatches the lid.*
+**Zander** _(18-May-20 05:19 PM)_
 
-**Zander** *(18-May-20 05:19 PM)*
+_Emmett checks his pockets, only finding his Maggo-Pistol._
 
+**Zander** _(18-May-20 05:19 PM)_
 
-*Emmett checks his pockets, only finding his Maggo-Pistol.*
-
-**Zander** *(18-May-20 05:19 PM)*
 > Emmett: I don't see it.
 
-**Sean** *(18-May-20 05:19 PM)*
+**Sean** _(18-May-20 05:19 PM)_
+
 > Seth: Check your ass-cheeks.
 
-**Cooldude** *(18-May-20 05:19 PM)*
+**Cooldude** _(18-May-20 05:19 PM)_
+
 > Wemmfort: Finally! My lid collection is complete!
 
-**Lili** *(18-May-20 05:19 PM)*
+**Lili** _(18-May-20 05:19 PM)_
+
 > Iris: Hey guys, when we're done with... whatever this is, what's next on the agenda?
 
-**Brody** *(18-May-20 05:20 PM)*
+**Brody** _(18-May-20 05:20 PM)_
 
+_Sanya flips the blender upside down, to keep Olag stuck._
 
-*Sanya flips the blender upside down, to keep Olag stuck.*
+**Sean** _(18-May-20 05:20 PM)_
 
-**Sean** *(18-May-20 05:20 PM)*
 > Seth: If you find my credit score tell me what it is
 
-**Trey** *(18-May-20 05:20 PM)*
+**Trey** _(18-May-20 05:20 PM)_
+
 > Garrick: We gotta pacify this guy first.
 
-**Trey** *(18-May-20 05:20 PM)*
+**Trey** _(18-May-20 05:20 PM)_
+
 > Garrick: With a blender.
 
-**Zander** *(18-May-20 05:20 PM)*
+**Zander** _(18-May-20 05:20 PM)_
+
 > Emmett: I don't think I've ever considered sticking something in my ass. You taught me never to stick things in my ass.
 
-**Trey** *(18-May-20 05:20 PM)*
+**Trey** _(18-May-20 05:20 PM)_
+
 > Garrick: He'll fix our ship or something.
 
-**Sean** *(18-May-20 05:20 PM)*
+**Sean** _(18-May-20 05:20 PM)_
+
 > Seth: Hmmmm
 
-**Sean** *(18-May-20 05:20 PM)*
+**Sean** _(18-May-20 05:20 PM)_
+
 > Seth: Depends on the things and the reason.
 
-**Zander** *(18-May-20 05:20 PM)*
+**Zander** _(18-May-20 05:20 PM)_
 8ball Does Emmett decide to try and hold Sanya hostage?
 
-**FFBot** *(18-May-20 05:20 PM)*
+**FFBot** _(18-May-20 05:20 PM)_
 My sources say no :8ball:
 
-**Sean** *(18-May-20 05:20 PM)*
+**Sean** _(18-May-20 05:20 PM)_
+
 > Seth: Especially the reason.
 
-**Lili** *(18-May-20 05:20 PM)*
+**Lili** _(18-May-20 05:20 PM)_
+
 > Iris: ah. Cool.
 
-**Cooldude** *(18-May-20 05:21 PM)*
+**Cooldude** _(18-May-20 05:21 PM)_
 
+_Wemmfort looks at the lid with curiousness in his face._
 
-*Wemmfort looks at the lid with curiousness in his face.*
+**Zander** _(18-May-20 05:21 PM)_
 
-**Zander** *(18-May-20 05:21 PM)*
 > Emmett: I'm going to reason with my plant friend.
 
-**Brody** *(18-May-20 05:21 PM)*
+**Brody** _(18-May-20 05:21 PM)_
 
+_Sanya draws her sword_
 
-*Sanya draws her sword*
 > Sanya: If anyone even tries free him, i'll fucking kill you.
 
-**Trey** *(18-May-20 05:21 PM)*
+**Trey** _(18-May-20 05:21 PM)_
 8ball does garrick successfully find spices in his pockets
 
-**FFBot** *(18-May-20 05:21 PM)*
+**FFBot** _(18-May-20 05:21 PM)_
 It is certain :8ball:
 
-**Zander** *(18-May-20 05:22 PM)*
+**Zander** _(18-May-20 05:22 PM)_
 8ball Does Olag's twin kick the blender into the air and cause Emmett to have it?
 
-**FFBot** *(18-May-20 05:22 PM)*
+**FFBot** _(18-May-20 05:22 PM)_
 Don't count on it :8ball:
 
-**Zander** *(18-May-20 05:22 PM)*
+**Zander** _(18-May-20 05:22 PM)_
+
 > Emmett: Sanya.
 
-**Zander** *(18-May-20 05:22 PM)*
+**Zander** _(18-May-20 05:22 PM)_
+
 > Emmett: Come over her.
 
-**Sean** *(18-May-20 05:22 PM)*
+**Sean** _(18-May-20 05:22 PM)_
 8ball Does Emmett accidently trip and knock over the blender?
 
-**FFBot** *(18-May-20 05:22 PM)*
+**FFBot** _(18-May-20 05:22 PM)_
 Don't count on it :8ball:
 
-**Brody** *(18-May-20 05:23 PM)*
-8ball Does Sanya sit on the blender, making sure that people can't knock it over.*
+**Brody** _(18-May-20 05:23 PM)_
+8ball Does Sanya sit on the blender, making sure that people can't knock it over.\*
 
-**FFBot** *(18-May-20 05:23 PM)*
+**FFBot** _(18-May-20 05:23 PM)_
 Signs point to yes :8ball:
 
-**Lili** *(18-May-20 05:23 PM)*
+**Lili** _(18-May-20 05:23 PM)_
+
 > Iris: Hey Sanya, when you're done- uh, blending???- This guy, do you wanna go hang out?
 
-**Cooldude** *(18-May-20 05:23 PM)*
+**Cooldude** _(18-May-20 05:23 PM)_
 8ball does sanya break the blender while sitting on it?
 
-**FFBot** *(18-May-20 05:23 PM)*
+**FFBot** _(18-May-20 05:23 PM)_
 Don't count on it :8ball:
 
-**Zander** *(18-May-20 05:23 PM)*
+**Zander** _(18-May-20 05:23 PM)_
 
+_Emmett is behind Sanya now, his hooves on her shoulders._
 
-*Emmett is behind Sanya now, his hooves on her shoulders.*
 > Emmett: You're being very irrational, Sanya.
 
-**Rashidi** *(18-May-20 05:23 PM)*
+**Rashidi** _(18-May-20 05:23 PM)_
 
+_Dakari prepares to leave the diner and heads towards the gas station for a change of scenery_
 
-*Dakari prepares to leave the diner and heads towards the gas station for a change of scenery*
+**Brody** _(18-May-20 05:24 PM)_
 
-**Brody** *(18-May-20 05:24 PM)*
 > Sanya: Irrational? Everyone has gone insane, and I'm irrational?
 
-**Zander** *(18-May-20 05:25 PM)*
+**Zander** _(18-May-20 05:25 PM)_
+
 > Emmett: Listen to me as your... brother? I don't know. But I do know that I saved you from these guys' shenanigans once and I saved your life today.
 
-**Lili** *(18-May-20 05:25 PM)*
+**Lili** _(18-May-20 05:25 PM)_
+
 > Iris: guess I missed a lot.
 
-**Lili** *(18-May-20 05:25 PM)*
+**Lili** _(18-May-20 05:25 PM)_
 
+_Iris finishes her calzone._
 
-*Iris finishes her calzone.*
+**Zander** _(18-May-20 05:27 PM)_
 
-**Zander** *(18-May-20 05:27 PM)*
 > Emmett: And I kinda was trying to keep you stable, as a goodmoirail> Emmett: friend should. But you're threatening to kill the others and our only way to get off of this shitty asteroid.
 
-**Zander** *(18-May-20 05:27 PM)*
+**Zander** _(18-May-20 05:27 PM)_
+
 > Emmett: I don't want to be here either, but you really need to chill out.
 
-**Cooldude** *(18-May-20 05:27 PM)*
+**Cooldude** _(18-May-20 05:27 PM)_
 emmett is the blender
 
-**Trey** *(18-May-20 05:27 PM)*
+**Trey** _(18-May-20 05:27 PM)_
 
+_Olag is inconveniently placed in the blender._
 
-*Olag is inconveniently placed in the blender.*
-
-**Sean** *(18-May-20 05:27 PM)*
+**Sean** _(18-May-20 05:27 PM)_
 8ball does Seth pee on Volontà's leg?
 
-**FFBot** *(18-May-20 05:27 PM)*
+**FFBot** _(18-May-20 05:27 PM)_
 As I see it, yes :8ball:
 
-**Sean** *(18-May-20 05:28 PM)*
+**Sean** _(18-May-20 05:28 PM)_
+
 > Seth: Woops
 
-**Sean** *(18-May-20 05:28 PM)*
+**Sean** _(18-May-20 05:28 PM)_
+
 > Seth: Sorry
 
-**Preston** *(18-May-20 05:28 PM)*
+**Preston** _(18-May-20 05:28 PM)_
+
 > Volentina: Why.
 
-**Rashidi** *(18-May-20 05:28 PM)*
+**Rashidi** _(18-May-20 05:28 PM)_
 8ball Does Dakari tell anyone his plans to visit the gas station?
 
-**FFBot** *(18-May-20 05:28 PM)*
+**FFBot** _(18-May-20 05:28 PM)_
 As I see it, yes :8ball:
 
-**Sean** *(18-May-20 05:28 PM)*
+**Sean** _(18-May-20 05:28 PM)_
+
 > Seth: Part of getting old, haha
 
-**Cooldude** *(18-May-20 05:28 PM)*
+**Cooldude** _(18-May-20 05:28 PM)_
 8ball does emmett eat sanya?
 
-**FFBot** *(18-May-20 05:28 PM)*
+**FFBot** _(18-May-20 05:28 PM)_
 Signs point to yes :8ball:
 
-**Zander** *(18-May-20 05:28 PM)*
+**Zander** _(18-May-20 05:28 PM)_
+
 > Emmett: I keep myself pretty mellow by eating grass and not giving a shit about the others' ordeals.
 
-**Rashidi** *(18-May-20 05:28 PM)*
+**Rashidi** _(18-May-20 05:28 PM)_
+
 > Dakari: I'm going to the gas station. See you all later.
 
-**Sean** *(18-May-20 05:28 PM)*
+**Sean** _(18-May-20 05:28 PM)_
+
 > Seth: "Help me little friend!"
 
-**Zander** *(18-May-20 05:28 PM)*
+**Zander** _(18-May-20 05:28 PM)_
+
 > Emmett: Clearly you can't get high, but you really need to chill.
 
-**Lili** *(18-May-20 05:28 PM)*
+**Lili** _(18-May-20 05:28 PM)_
+
 > Iris: Can I come?
 
-**Trey** *(18-May-20 05:29 PM)*
+**Trey** _(18-May-20 05:29 PM)_
+
 > Garrick: I'm down.
 
-**Brody** *(18-May-20 05:29 PM)*
+**Brody** _(18-May-20 05:29 PM)_
+
 > Sanya: Murder keeps me chill, Emmett. But I can't really do that, can I?
 
-**Zander** *(18-May-20 05:29 PM)*
+**Zander** _(18-May-20 05:29 PM)_
 
+_Emmett rubs his fluffy arms around her neck._
 
-*Emmett rubs his fluffy arms around her neck.*
+**Zander** _(18-May-20 05:29 PM)_
 
-**Zander** *(18-May-20 05:29 PM)*
 > Emmett: Relax.
 
-**Rashidi** *(18-May-20 05:29 PM)*
+**Rashidi** _(18-May-20 05:29 PM)_
+
 > Dakari: Yea, sure. I'm not planning on doing anything in particular. Just exploring.
 
-**Cooldude** *(18-May-20 05:29 PM)*
+**Cooldude** _(18-May-20 05:29 PM)_
 sanya's actually a guy and emmett's gay
 
-**Cooldude** *(18-May-20 05:29 PM)*
+**Cooldude** _(18-May-20 05:29 PM)_
 it's how he has a boner, his neck extends
 
-**Zander** *(18-May-20 05:30 PM)*
+**Zander** _(18-May-20 05:30 PM)_
+
 > Emmett: All of you children.
 
-*In reference to the crew.*
+_In reference to the crew._
+
 > Emmett: Go find us a place to sleep and leave this woman alone for a bit.
 
-**Lili** *(18-May-20 05:30 PM)*
+**Lili** _(18-May-20 05:30 PM)_
 
+_Iris catches up to Dakari, ready to go check out the gas station._
 
-*Iris catches up to Dakari, ready to go check out the gas station.*
+**Lili** _(18-May-20 05:30 PM)_
 
-**Lili** *(18-May-20 05:30 PM)*
 > Iris: Later, Sanya!
 
-**Sean** *(18-May-20 05:30 PM)*
+**Sean** _(18-May-20 05:30 PM)_
 https://tenor.com/view/poob-poo-bbanana-pencil-snapped-hurt-gif-16022257
 
-**Sean** *(18-May-20 05:30 PM)*
+**Sean** _(18-May-20 05:30 PM)_
+
 > Seth: https://tenor.com/view/poob-poo-bbanana-pencil-snapped-hurt-gif-16022257
 
-**Brody** *(18-May-20 05:31 PM)*
+**Brody** _(18-May-20 05:31 PM)_
+
 > Sanya: Fine. But I'm keeping him in here for at least an hour.
 
-**Brody** *(18-May-20 05:31 PM)*
+**Brody** _(18-May-20 05:31 PM)_
+
 > Sanya: Goodbye, Iris.
 
-**Sean** *(18-May-20 05:31 PM)*
+**Sean** _(18-May-20 05:31 PM)_
 
+_Seth finishes peeing_
 
-*Seth finishes peeing*
+**Sean** _(18-May-20 05:31 PM)_
 
-**Sean** *(18-May-20 05:31 PM)*
 > Seth: Thank you sir.
 
-**Preston** *(18-May-20 05:31 PM)*
+**Preston** _(18-May-20 05:31 PM)_
+
 > Volentina: Are you finished, sir?
 
-**Sean** *(18-May-20 05:31 PM)*
+**Sean** _(18-May-20 05:31 PM)_
+
 > Seth: Here's a tip for your time
 
-**Zander** *(18-May-20 05:31 PM)*
+**Zander** _(18-May-20 05:31 PM)_
+
 > Emmett: I hope this is comfortable to you.
 
-**Lili** *(18-May-20 05:32 PM)*
+**Lili** _(18-May-20 05:32 PM)_
 
+_Iris waves cheerfully._
 
-*Iris waves cheerfully.*
+**Sean** _(18-May-20 05:32 PM)_
 
-**Sean** *(18-May-20 05:32 PM)*
+_Seth places another duckett in the waiter's shirt_
 
+**Sean** _(18-May-20 05:32 PM)_
 
-*Seth places another duckett in the waiter's shirt*
-
-**Sean** *(18-May-20 05:32 PM)*
 > Seth: Have a nice night
 
-**Sean** *(18-May-20 05:32 PM)*
+**Sean** _(18-May-20 05:32 PM)_
 
+_Seth exits the diner_
 
-*Seth exits the diner*
+**Zander** _(18-May-20 05:33 PM)_
 
-**Zander** *(18-May-20 05:33 PM)*
 > Emmett: Are you fine with me being here or should I go?
 
-**Rashidi** *(18-May-20 05:33 PM)*
+**Rashidi** _(18-May-20 05:33 PM)_
 
+_Dakari and Iris leave the chaotic situation and head towards the oddly large gas station_
 
-*Dakari and Iris leave the chaotic situation and head towards the oddly large gas station*
+**Brody** _(18-May-20 05:33 PM)_
 
-**Brody** *(18-May-20 05:33 PM)*
 > Sanya: You're fine.
 
-**Trey** *(18-May-20 05:33 PM)*
+**Trey** _(18-May-20 05:33 PM)_
 
+_Garrick tags along._
 
-*Garrick tags along.*
+**Lili** _(18-May-20 05:33 PM)_
 
-**Lili** *(18-May-20 05:33 PM)*
 > Iris: Wonder what kind of chips they have here.
 
-**Zander** *(18-May-20 05:33 PM)*
+**Zander** _(18-May-20 05:33 PM)_
+
 > Emmett: Sorry for the awkwardness today. I was feeling a little low on grass.
 
-**Preston** *(18-May-20 05:33 PM)*
+**Preston** _(18-May-20 05:33 PM)_
 Volonta looks down at his leg. Then rests his head on the table once more.
 
-**Cooldude** *(18-May-20 05:33 PM)*
+**Cooldude** _(18-May-20 05:33 PM)_
+
 > Wemmfort: Oh yeah. I almost forgot.
 
-*Wemmfort gives Seth his Space Juice.*
+_Wemmfort gives Seth his Space Juice._
 
-**Rashidi** *(18-May-20 05:33 PM)*
+**Rashidi** _(18-May-20 05:33 PM)_
+
 > Dakari: Hopefully they have some bark
 
-**Cooldude** *(18-May-20 05:34 PM)*
+**Cooldude** _(18-May-20 05:34 PM)_
 
+_Wemmfort winks at Seth._
 
-*Wemmfort winks at Seth.*
-
-**Zander** *(18-May-20 05:34 PM)*
+**Zander** _(18-May-20 05:34 PM)_
 Space Rule #89: Peeing on someone displays ownership.
 
-**Zander** *(18-May-20 05:34 PM)*
+**Zander** _(18-May-20 05:34 PM)_
 @Brody
 
-**Cooldude** *(18-May-20 05:36 PM)*
+**Cooldude** _(18-May-20 05:36 PM)_
 when sanya and emmett make a baby, it should be emmett flower.
 
-**Bill** *(19-May-20 03:21 PM)*
+**Bill** _(19-May-20 03:21 PM)_
 if it's part grass, would it eat itself?
 
-**Zander** *(19-May-20 03:22 PM)*
+**Zander** _(19-May-20 03:22 PM)_
 Emmett flower is an abomination
 
-**Brody** *(22-May-20 03:23 PM)*
+**Brody** _(22-May-20 03:23 PM)_
 8ball Does Brody ask if Sanya Wakes Up?
 
-**FFBot** *(22-May-20 03:23 PM)*
+**FFBot** _(22-May-20 03:23 PM)_
 Most likely :8ball:
 
-**Zander** *(22-May-20 03:24 PM)*
+**Zander** _(22-May-20 03:24 PM)_
+
 > Emmett: Sanya, where the fudge are youuuu?
 
-**Zander** *(22-May-20 03:24 PM)*
+**Zander** _(22-May-20 03:24 PM)_
 
+_Emmett has an apparent slur in his voice._
 
-*Emmett has an apparent slur in his voice.*
-
-**Cooldude** *(22-May-20 03:24 PM)*
+**Cooldude** _(22-May-20 03:24 PM)_
 8ball Should Wemmfort wake up?
 
-**FFBot** *(22-May-20 03:24 PM)*
+**FFBot** _(22-May-20 03:24 PM)_
 Very doubtful :8ball:
 
-**Cooldude** *(22-May-20 03:24 PM)*
+**Cooldude** _(22-May-20 03:24 PM)_
 
+_Wemmfort didn't wake up._
 
-*Wemmfort didn't wake up.*
-
-**Zander** *(22-May-20 03:24 PM)*
+**Zander** _(22-May-20 03:24 PM)_
 @ScootyDooty
 
-**Zander** *(22-May-20 03:24 PM)*
+**Zander** _(22-May-20 03:24 PM)_
+
 > Emmett: Sanya?
 
-**Zander** *(22-May-20 03:24 PM)*
+**Zander** _(22-May-20 03:24 PM)_
 
+_Emmett sees Sanya convulsing on the ground._
 
-*Emmett sees Sanya convulsing on the ground.*
+**Zander** _(22-May-20 03:24 PM)_
 
-**Zander** *(22-May-20 03:24 PM)*
 > Emmett: Are you okay?
 
-**Jonas** *(22-May-20 03:26 PM)*
+**Jonas** _(22-May-20 03:26 PM)_
 8ball does sanya convulse into the air
 
-**FFBot** *(22-May-20 03:26 PM)*
+**FFBot** _(22-May-20 03:26 PM)_
 Outlook good :8ball:
 
-**Cooldude** *(22-May-20 03:27 PM)*
+**Cooldude** _(22-May-20 03:27 PM)_
 Jonas is sanya 2
 
-**Zander** *(22-May-20 03:27 PM)*
+**Zander** _(22-May-20 03:27 PM)_
 
+_Emmett wipes his eyes in confusion and tries to pull her down._
 
-*Emmett wipes his eyes in confusion and tries to pull her down.*
 > Emmett: I've been drinking too much.
 
-**Zander** *(22-May-20 03:27 PM)*
+**Zander** _(22-May-20 03:27 PM)_
+
 > Emmett: Get down!
 
-**Lili** *(22-May-20 03:28 PM)*
+**Lili** _(22-May-20 03:28 PM)_
 8ball does Iris wake up
 
-**FFBot** *(22-May-20 03:28 PM)*
+**FFBot** _(22-May-20 03:28 PM)_
 Without a doubt :8ball:
 
-**Zander** *(22-May-20 03:28 PM)*
+**Zander** _(22-May-20 03:28 PM)_
+
 > Emmett: Iris! Help out!
 
-**Lili** *(22-May-20 03:28 PM)*
+**Lili** _(22-May-20 03:28 PM)_
+
 > Iris: I'm up!
 
-**Zander** *(22-May-20 03:28 PM)*
+**Zander** _(22-May-20 03:28 PM)_
+
 > Emmett: She's too heavy!
 
-**Lili** *(22-May-20 03:28 PM)*
+**Lili** _(22-May-20 03:28 PM)_
 
+_Iris blinks in confusion._
 
-*Iris blinks in confusion.*
+**Lili** _(22-May-20 03:28 PM)_
 
-**Lili** *(22-May-20 03:28 PM)*
 > Iris: Uh, what did you... want me to... do???
 
-**Zander** *(22-May-20 03:29 PM)*
+**Zander** _(22-May-20 03:29 PM)_
+
 > Emmett: Isn't Sanya convulsing in the air for you?
 
-**Zander** *(22-May-20 03:29 PM)*
+**Zander** _(22-May-20 03:29 PM)_
+
 > Emmett: Or am I hallucinating?
 
-**Lili** *(22-May-20 03:30 PM)*
+**Lili** _(22-May-20 03:30 PM)_
+
 > Iris: Well, no she is.
 
-**Trey** *(22-May-20 03:30 PM)*
+**Trey** _(22-May-20 03:30 PM)_
+
 > Garrick: How is she doing that.
 
-**Zander** *(22-May-20 03:30 PM)*
+**Zander** _(22-May-20 03:30 PM)_
+
 > Emmett: Pull her down!
 
-**Cooldude** *(22-May-20 03:30 PM)*
+**Cooldude** _(22-May-20 03:30 PM)_
 sanya put on zero gravity mode
 
-**Zander** *(22-May-20 03:30 PM)*
+**Zander** _(22-May-20 03:30 PM)_
 
+_Emmett jumps atop of her._
 
-*Emmett jumps atop of her.*
+**Brody** _(22-May-20 03:30 PM)_
 
-**Brody** *(22-May-20 03:30 PM)*
+_D: Help me. Please._
 
+**Trey** _(22-May-20 03:30 PM)_
 
-*D: Help me. Please.*
+_Garrick floats to her level to see that Dread's eye is spazzing out as well._
 
-**Trey** *(22-May-20 03:30 PM)*
-
-
-*Garrick floats to her level to see that Dread's eye is spazzing out as well.*
-
-**Zander** *(22-May-20 03:31 PM)*
+**Zander** _(22-May-20 03:31 PM)_
 8ball Is Emmett heavy enough to push the possessive sprits down?
 
-**FFBot** *(22-May-20 03:31 PM)*
+**FFBot** _(22-May-20 03:31 PM)_
 Outlook not so good :8ball:
 
-**Lili** *(22-May-20 03:31 PM)*
+**Lili** _(22-May-20 03:31 PM)_
 
+_Iris jumps up to grab Sanya's arm so she can pull her down._
 
-*Iris jumps up to grab Sanya's arm so she can pull her down.*
+**Zander** _(22-May-20 03:31 PM)_
 
-**Zander** *(22-May-20 03:31 PM)*
 > Emmett: None of you are doing anything!
 
-**Brody** *(22-May-20 03:31 PM)*
+**Brody** _(22-May-20 03:31 PM)_
 
+_D: Just. Help. Me._
 
-*D: Just. Help. Me.*
+**Zander** _(22-May-20 03:32 PM)_
 
-**Zander** *(22-May-20 03:32 PM)*
+_Emmett tried balancing his weight on her, but his drunkenness was a bit too much for him to maintain._
 
-
-*Emmett tried balancing his weight on her, but his drunkenness was a bit too much for him to maintain.*
-
-**Cooldude** *(22-May-20 03:32 PM)*
+**Cooldude** _(22-May-20 03:32 PM)_
 they're both spirits
 
-**Zander** *(22-May-20 03:32 PM)*
+**Zander** _(22-May-20 03:32 PM)_
+
 > Emmett: Oop.
 
-**Zander** *(22-May-20 03:32 PM)*
+**Zander** _(22-May-20 03:32 PM)_
 
+_Emmett fell off._
 
-*Emmett fell off.*
+**Lili** _(22-May-20 03:33 PM)_
 
-**Lili** *(22-May-20 03:33 PM)*
+_Iris jumps, turning away from Sanya to look at Emmett._
 
+**Zander** _(22-May-20 03:33 PM)_
 
-*Iris jumps, turning away from Sanya to look at Emmett.*
-
-**Zander** *(22-May-20 03:33 PM)*
 > Emmett: I think all of the drinks just hut on.
 
-**Lili** *(22-May-20 03:33 PM)*
+**Lili** _(22-May-20 03:33 PM)_
+
 > Iris: You okay?
 
-**Brody** *(22-May-20 03:33 PM)*
+**Brody** _(22-May-20 03:33 PM)_
 
+_D: Is this my life now?_
 
-*D: Is this my life now?*
-
-**Trey** *(22-May-20 03:33 PM)*
+**Trey** _(22-May-20 03:33 PM)_
 8ball does Garrick manage to pull Sanya down
 
-**FFBot** *(22-May-20 03:33 PM)*
+**FFBot** _(22-May-20 03:33 PM)_
 Yes, definitely :8ball:
 
-**Zander** *(22-May-20 03:34 PM)*
+**Zander** _(22-May-20 03:34 PM)_
+
 > Emmett: What makess you think I'mm not okay, lady?
 
-*Emmett clumsily gets on his side in an awkwardly sensual position.*
+_Emmett clumsily gets on his side in an awkwardly sensual position._
 
-**Brody** *(22-May-20 03:34 PM)*
+**Brody** _(22-May-20 03:34 PM)_
 
+_D: Thank you, ghost._
 
-*D: Thank you, ghost.*
+**Lili** _(22-May-20 03:34 PM)_
 
-**Lili** *(22-May-20 03:34 PM)*
+_Iris lets go of Sanya, now that she's finally down._
 
+**Lili** _(22-May-20 03:35 PM)_
 
-*Iris lets go of Sanya, now that she's finally down.*
-
-**Lili** *(22-May-20 03:35 PM)*
 > Iris: I thought you were hurt, but if you're not, cool.
 
-**Zander** *(22-May-20 03:35 PM)*
+**Zander** _(22-May-20 03:35 PM)_
+
 > Emmett: Is she okayy?
 
-**Brody** *(22-May-20 03:35 PM)*
+**Brody** _(22-May-20 03:35 PM)_
 8ball Does Sanya wake up?
 
-**FFBot** *(22-May-20 03:35 PM)*
+**FFBot** _(22-May-20 03:35 PM)_
 Don't count on it :8ball:
 
-**Cooldude** *(22-May-20 03:35 PM)*
+**Cooldude** _(22-May-20 03:35 PM)_
 8ball does wemmfort wake up?
 
-**FFBot** *(22-May-20 03:35 PM)*
+**FFBot** _(22-May-20 03:35 PM)_
 Most likely :8ball:
 
-**Trey** *(22-May-20 03:35 PM)*
+**Trey** _(22-May-20 03:35 PM)_
+
 > Garrick: You're welcome. Is your host going to be okay?
 
-**Brody** *(22-May-20 03:35 PM)*
+**Brody** _(22-May-20 03:35 PM)_
 
+_I think she's out cold._
 
-*I think she's out cold.*
+**Zander** _(22-May-20 03:36 PM)_
 
-**Zander** *(22-May-20 03:36 PM)*
 > Emmett: Gimmee my Sanya back you flowerry butch.
 
-**Lili** *(22-May-20 03:36 PM)*
+**Lili** _(22-May-20 03:36 PM)_
 8ball does Sanya wake up
 
-**FFBot** *(22-May-20 03:36 PM)*
+**FFBot** _(22-May-20 03:36 PM)_
 My reply is no :8ball:
 
-**Brody** *(22-May-20 03:36 PM)*
+**Brody** _(22-May-20 03:36 PM)_
 
+_The hell is he talking about?_
 
-*The hell is he talking about?*
+**Cooldude** _(22-May-20 03:36 PM)_
 
-**Cooldude** *(22-May-20 03:36 PM)*
+_Wemmfort wakes up, seeing sanya sleeping._
 
+**Lili** _(22-May-20 03:36 PM)_
 
-*Wemmfort wakes up, seeing sanya sleeping.*
+_Iris sighs and sits down next to Sanya._
 
-**Lili** *(22-May-20 03:36 PM)*
+**Cooldude** _(22-May-20 03:36 PM)_
 
-
-*Iris sighs and sits down next to Sanya.*
-
-**Cooldude** *(22-May-20 03:36 PM)*
 > Wemmfort: Okay.
 
-**Trey** *(22-May-20 03:37 PM)*
+**Trey** _(22-May-20 03:37 PM)_
 yo sanya jeans
 
-**Lili** *(22-May-20 03:37 PM)*
+**Lili** _(22-May-20 03:37 PM)_
+
 > Iris: I guess I'll just... wait for her to wake up.
 
-**Zander** *(22-May-20 03:37 PM)*
+**Zander** _(22-May-20 03:37 PM)_
 
+_Emmett looks at his chest and pokes himself._
 
-*Emmett looks at his chest and pokes himself.*
+**Trey** _(22-May-20 03:37 PM)_
 
-**Trey** *(22-May-20 03:37 PM)*
 > Garrick: New god power?
 
-**Zander** *(22-May-20 03:37 PM)*
+**Zander** _(22-May-20 03:37 PM)_
+
 > Emmett: I think I took a little more than alcohol.
 
-**Brody** *(22-May-20 03:37 PM)*
+**Brody** _(22-May-20 03:37 PM)_
 
+_Not that I know of._
 
-*Not that I know of.*
+**Zander** _(22-May-20 03:37 PM)_
 
-**Zander** *(22-May-20 03:37 PM)*
 > Emmett: Thuus has got to be a nnightmare.
 
-**Zander** *(22-May-20 03:37 PM)*
+**Zander** _(22-May-20 03:37 PM)_
 8ball Does Emmett manage to get Sanya to wake up via a disgusting manner?
 
-**FFBot** *(22-May-20 03:38 PM)*
+**FFBot** _(22-May-20 03:38 PM)_
 It is decidedly so :8ball:
 
-**Zander** *(22-May-20 03:38 PM)*
+**Zander** _(22-May-20 03:38 PM)_
 
+_Emmett gets up and licks Sanya's face._
 
-*Emmett gets up and licks Sanya's face.*
+**Zander** _(22-May-20 03:38 PM)_
 
-**Zander** *(22-May-20 03:38 PM)*
 > Emmett: Wake up, you butch.
 
-**Cooldude** *(22-May-20 03:38 PM)*
+**Cooldude** _(22-May-20 03:38 PM)_
 
+_Wemmfort watches from afar._
 
-*Wemmfort watches from afar.*
+**Lili** _(22-May-20 03:39 PM)_
 
-**Lili** *(22-May-20 03:39 PM)*
+_Iris cringes._
 
+**Cooldude** _(22-May-20 03:39 PM)_
 
-*Iris cringes.*
-
-**Cooldude** *(22-May-20 03:39 PM)*
 > Wemmfort: I'm scared now.
 
-**Brody** *(22-May-20 03:39 PM)*
+**Brody** _(22-May-20 03:39 PM)_
+
 > Sanya: ...Gross.
 
-**Lili** *(22-May-20 03:39 PM)*
+**Lili** _(22-May-20 03:39 PM)_
 
+_Iris grins._
 
-*Iris grins.*
 > Iris: Morning, Sanya!
 
-**Brody** *(22-May-20 03:39 PM)*
+**Brody** _(22-May-20 03:39 PM)_
 
+_Sanya gets up and wipes off her face_
 
-*Sanya gets up and wipes off her face*
+**Zander** _(22-May-20 03:39 PM)_
 
-**Zander** *(22-May-20 03:39 PM)*
 > Emmett: I got ssleepyhead up.
 
-**Trey** *(22-May-20 03:40 PM)*
+**Trey** _(22-May-20 03:40 PM)_
+
 > Garrick: Bad dream?
 
-**Brody** *(22-May-20 03:40 PM)*
+**Brody** _(22-May-20 03:40 PM)_
+
 > Sanya: Why does this smell like cheap liquor?
 
-**Cooldude** *(22-May-20 03:40 PM)*
+**Cooldude** _(22-May-20 03:40 PM)_
 
+_Wemmfort walks over._
 
-*Wemmfort walks over.*
 > Wemmfort: Let me guess, drunk?
 
-**Zander** *(22-May-20 03:40 PM)*
+**Zander** _(22-May-20 03:40 PM)_
+
 > Emmett: CHEAP?!
 
-**Zander** *(22-May-20 03:40 PM)*
+**Zander** _(22-May-20 03:40 PM)_
 
+_Emmett is visibly angry._
 
-*Emmett is visibly angry.*
+**Zander** _(22-May-20 03:40 PM)_
 
-**Zander** *(22-May-20 03:40 PM)*
 > Emmett: I crewed this myselff!
 
-**Lili** *(22-May-20 03:40 PM)*
+**Lili** _(22-May-20 03:40 PM)_
 
+_Iris sighs._
 
-*Iris sighs.*
+**Lili** _(22-May-20 03:40 PM)_
 
-**Lili** *(22-May-20 03:40 PM)*
 > Iris: It's gonna be a long day today.
 
-**Zander** *(22-May-20 03:41 PM)*
+**Zander** _(22-May-20 03:41 PM)_
+
 > Emmett: I got the vorpaberries wwhile the crew was a sleep. I churned them. I added the grasssss!
 
-**Brody** *(22-May-20 03:41 PM)*
+**Brody** _(22-May-20 03:41 PM)_
+
 > Sanya: You're very drunk.
 
-**Cooldude** *(22-May-20 03:41 PM)*
+**Cooldude** _(22-May-20 03:41 PM)_
 
+_Wemmfort passes him some space juice behind his back._
 
-*Wemmfort passes him some space juice behind his back.*
 > Wemmfort: This is the real stuff.
 
-**Zander** *(22-May-20 03:41 PM)*
+**Zander** _(22-May-20 03:41 PM)_
+
 > Emmett: Duh.
 
-**Zander** *(22-May-20 03:41 PM)*
+**Zander** _(22-May-20 03:41 PM)_
+
 > Emmett: That was the intent.
 
-**Zander** *(22-May-20 03:41 PM)*
+**Zander** _(22-May-20 03:41 PM)_
+
 > Emmett: For me to get....
 
-*Emmett leans back very far.*
+_Emmett leans back very far._
 
-**Zander** *(22-May-20 03:41 PM)*
+**Zander** _(22-May-20 03:41 PM)_
+
 > Emmett: WASTED.
 
-*Emmett hutches forward.*
+_Emmett hutches forward._
 
-**Lili** *(22-May-20 03:42 PM)*
+**Lili** _(22-May-20 03:42 PM)_
+
 > Iris: Hey, Sanya, I actually wanted to know what you want for breakfast.
 
-**Trey** *(22-May-20 03:42 PM)*
+**Trey** _(22-May-20 03:42 PM)_
 maet
 
-**Brody** *(22-May-20 03:43 PM)*
+**Brody** _(22-May-20 03:43 PM)_
+
 > Sanya: What are our options?
 
-**Zander** *(22-May-20 03:43 PM)*
+**Zander** _(22-May-20 03:43 PM)_
+
 > Emmett: Can I have a bucket of liquor and two of your finest tit-
 
-*Emmett falls on his face, again.*
+_Emmett falls on his face, again._
 
-**Lili** *(22-May-20 03:43 PM)*
+**Lili** _(22-May-20 03:43 PM)_
+
 > Iris: Pretty much anything. I'm not picky on what is and is not a breakfast food.
 
-**Lili** *(22-May-20 03:43 PM)*
+**Lili** _(22-May-20 03:43 PM)_
+
 > Iris: Sanya's picking breakfast today.
 
-**Brody** *(22-May-20 03:44 PM)*
+**Brody** _(22-May-20 03:44 PM)_
+
 > Sanya: Do we have any meat?
 
-**Lili** *(22-May-20 03:44 PM)*
+**Lili** _(22-May-20 03:44 PM)_
+
 > Iris: Probably.
 
-**Trey** *(22-May-20 03:44 PM)*
+**Trey** _(22-May-20 03:44 PM)_
 8ball does garrick find rotten meat buried in the ground
 
-**FFBot** *(22-May-20 03:44 PM)*
+**FFBot** _(22-May-20 03:44 PM)_
 Outlook good :8ball:
 
-**Trey** *(22-May-20 03:44 PM)*
+**Trey** _(22-May-20 03:44 PM)_
+
 > Garrick: Jackpot.
 
-**Zander** *(22-May-20 03:45 PM)*
+**Zander** _(22-May-20 03:45 PM)_
 
+_Emmett mutters to himself._
 
-*Emmett mutters to himself.*
 > Emmett: Ssanya's gonna be pisssed.
 
-**Cooldude** *(22-May-20 03:45 PM)*
+**Cooldude** _(22-May-20 03:45 PM)_
+
 > Wemmfort: You look really bruised. Do you want us to find a medical station?
 
-**Lili** *(22-May-20 03:45 PM)*
+**Lili** _(22-May-20 03:45 PM)_
+
 > Iris: Why, what are you thinking?
 
-**Zander** *(22-May-20 03:45 PM)*
+**Zander** _(22-May-20 03:45 PM)_
+
 > Emmett: WE DON'T HAVE LIKE, ANY MMEAT, MAN!
 
-**Lili** *(22-May-20 03:45 PM)*
+**Lili** _(22-May-20 03:45 PM)_
+
 > Iris: I'll go buy some then.
 
-**Trey** *(22-May-20 03:45 PM)*
+**Trey** _(22-May-20 03:45 PM)_
 
+_Garrick returns to the ship with a hunk of visibly rotten meat._
 
-*Garrick returns to the ship with a hunk of visibly rotten meat.*
+**Trey** _(22-May-20 03:45 PM)_
 
-**Trey** *(22-May-20 03:45 PM)*
 > Garrick: No need.
 
-**Zander** *(22-May-20 03:45 PM)*
+**Zander** _(22-May-20 03:45 PM)_
+
 > Emmett: Where youu gunna get the meat?
 
-**Brody** *(22-May-20 03:45 PM)*
+**Brody** _(22-May-20 03:45 PM)_
+
 > Sanya: What is that?
 
-**Trey** *(22-May-20 03:45 PM)*
+**Trey** _(22-May-20 03:45 PM)_
+
 > Garrick: ...meat.
 
-**Lili** *(22-May-20 03:46 PM)*
+**Lili** _(22-May-20 03:46 PM)_
 
+_Iris gives Garrick the most disgusted glare he's ever seen her wear._
 
-*Iris gives Garrick the most disgusted glare he's ever seen her wear.*
+**Trey** _(22-May-20 03:46 PM)_
 
-**Trey** *(22-May-20 03:46 PM)*
 > Garrick: Mystery meat.
 
-**Zander** *(22-May-20 03:46 PM)*
+**Zander** _(22-May-20 03:46 PM)_
+
 > Emmett: We're stuck on a blimey assteroid with no hot chicks to bang!
 
-**Brody** *(22-May-20 03:46 PM)*
+**Brody** _(22-May-20 03:46 PM)_
+
 > Sanya: What's wrong with it?
 
-**Lili** *(22-May-20 03:46 PM)*
+**Lili** _(22-May-20 03:46 PM)_
+
 > Iris: I don't joke about food.
 
-**Trey** *(22-May-20 03:46 PM)*
+**Trey** _(22-May-20 03:46 PM)_
+
 > Garrick: Nothing's wrong with it. I just found it.
 
-**Zander** *(22-May-20 03:46 PM)*
+**Zander** _(22-May-20 03:46 PM)_
 
+_Emmett started to cry a little._
 
-*Emmett started to cry a little.*
+**Zander** _(22-May-20 03:46 PM)_
 
-**Zander** *(22-May-20 03:46 PM)*
 > Emmett: I'm gonna be alone fureverr..
 
-**Bill** *(22-May-20 03:47 PM)*
+**Bill** _(22-May-20 03:47 PM)_
 8ball are almost all of the pastry and pasta related ingredients gone from the kitchen?
 
-**FFBot** *(22-May-20 03:47 PM)*
+**FFBot** _(22-May-20 03:47 PM)_
 Yes, definitely :8ball:
 
-**Brody** *(22-May-20 03:47 PM)*
+**Brody** _(22-May-20 03:47 PM)_
 
+_Sanya gives Emmett a light kick._
 
-*Sanya gives Emmett a light kick.*
+**Brody** _(22-May-20 03:47 PM)_
 
-**Brody** *(22-May-20 03:47 PM)*
 > Sanya: Get up.
 
-**Sean** *(22-May-20 03:47 PM)*
+**Sean** _(22-May-20 03:47 PM)_
 
+_seth poops in his fingernail and does a backflip on a baby's head before falling asleep_
 
-*seth poops in his fingernail and does a backflip on a baby's head before falling asleep*
-
-**Zander** *(22-May-20 03:47 PM)*
+**Zander** _(22-May-20 03:47 PM)_
 Thanks Seth
 
-**Lili** *(22-May-20 03:47 PM)*
+**Lili** _(22-May-20 03:47 PM)_
+
 > Iris: I'll get actual, not rotten meat, while I'm out at the store.
 
-**Cooldude** *(22-May-20 03:47 PM)*
+**Cooldude** _(22-May-20 03:47 PM)_
+
 > Wemmfort: Man, I really need a glass of glass.
 
-**Cooldude** *(22-May-20 03:47 PM)*
+**Cooldude** _(22-May-20 03:47 PM)_
+
 > Wemmfort: I'm thirsty.
 
-**Zander** *(22-May-20 03:47 PM)*
+**Zander** _(22-May-20 03:47 PM)_
 
+_Emmett latched onto Sanya's foot._
 
-*Emmett latched onto Sanya's foot.*
+**Zander** _(22-May-20 03:47 PM)_
 
-**Zander** *(22-May-20 03:47 PM)*
 > Emmett: Yourre not goin anywhere.
 
-**Trey** *(22-May-20 03:48 PM)*
+**Trey** _(22-May-20 03:48 PM)_
+
 > Garrick: So picky.
 
-**Zander** *(22-May-20 03:48 PM)*
+**Zander** _(22-May-20 03:48 PM)_
+
 > Emmett: You're staying wif me.
 
-**Lili** *(22-May-20 03:48 PM)*
+**Lili** _(22-May-20 03:48 PM)_
+
 > Iris: And then when I get back I'll make, like, tacos or something.
 
-**Trey** *(22-May-20 03:48 PM)*
+**Trey** _(22-May-20 03:48 PM)_
+
 > Garrick: Well, I'll go with you.
 
-**Cooldude** *(22-May-20 03:48 PM)*
+**Cooldude** _(22-May-20 03:48 PM)_
+
 > Wemmfort: Wemmfort finds a glass bottle, breaks it, and eats the shards from the ground.
 
-**Trey** *(22-May-20 03:48 PM)*
+**Trey** _(22-May-20 03:48 PM)_
+
 > Garrick: Too many crackheads here right now.
 
-**Cooldude** *(22-May-20 03:49 PM)*
+**Cooldude** _(22-May-20 03:49 PM)_
+
 > Wemmfort: That was really refreshing.
 
-**Zander** *(22-May-20 03:49 PM)*
+**Zander** _(22-May-20 03:49 PM)_
+
 > Emmett: I didn't take crack, Garrick.
 
-*Emmett says this with a surprisingly elegant tone.*
+_Emmett says this with a surprisingly elegant tone._
 
-**Trey** *(22-May-20 03:49 PM)*
+**Trey** _(22-May-20 03:49 PM)_
+
 > Garrick: Grassheads, then.
 
-**Trey** *(22-May-20 03:49 PM)*
+**Trey** _(22-May-20 03:49 PM)_
+
 > Garrick: Meaning you and Sanya.
 
-**Lili** *(22-May-20 03:50 PM)*
+**Lili** _(22-May-20 03:50 PM)_
+
 > Iris: Alright. Anybody else coming?
 
-**Cooldude** *(22-May-20 03:50 PM)*
+**Cooldude** _(22-May-20 03:50 PM)_
+
 > Wemmfort: Hey! Does anybody want some glass?
 
-**Brody** *(22-May-20 03:50 PM)*
+**Brody** _(22-May-20 03:50 PM)_
+
 > Sanya: Get off.
 
-**Brody** *(22-May-20 03:50 PM)*
+**Brody** _(22-May-20 03:50 PM)_
 
+_She lifts her leg so that she can talk to the goat better_
 
-*She lifts her leg so that she can talk to the goat better*
+**Zander** _(22-May-20 03:51 PM)_
 
-**Zander** *(22-May-20 03:51 PM)*
 > Emmett: You better watch out for the woman that'll follow you, ghosty mann.
 
-**Lili** *(22-May-20 03:51 PM)*
+**Lili** _(22-May-20 03:51 PM)_
+
 > Iris: Alright yeah, let's go Garrick.
 
-**Zander** *(22-May-20 03:51 PM)*
+**Zander** _(22-May-20 03:51 PM)_
 
+_Emmett was talking nonsense, it seemed._
 
-*Emmett was talking nonsense, it seemed.*
-
-**Brody** *(22-May-20 03:51 PM)*
+**Brody** _(22-May-20 03:51 PM)_
 8ball Does Sanya shake Emmett off of her?
 
-**FFBot** *(22-May-20 03:51 PM)*
+**FFBot** _(22-May-20 03:51 PM)_
 Most likely :8ball:
 
-**Brody** *(22-May-20 03:51 PM)*
+**Brody** _(22-May-20 03:51 PM)_
+
 > Sanya: Get.
 
-**Trey** *(22-May-20 03:51 PM)*
+**Trey** _(22-May-20 03:51 PM)_
+
 > Garrick: Oh, come on. Iris isn't that bad.
 
-**Brody** *(22-May-20 03:51 PM)*
+**Brody** _(22-May-20 03:51 PM)_
 
+_Sanya picks Emmett up by the back of his shirt_
 
-*Sanya picks Emmett up by the back of his shirt*
+**Zander** _(22-May-20 03:52 PM)_
 
-**Zander** *(22-May-20 03:52 PM)*
+_Emmett falls on his back, his mouth in a smirk._
 
-
-*Emmett falls on his back, his mouth in a smirk.*
 > Emmett: I'm all ayourss, wona-
 
-**Cooldude** *(22-May-20 03:52 PM)*
+**Cooldude** _(22-May-20 03:52 PM)_
 
+_Wemmfort throws some glass next to garrick._
 
-*Wemmfort throws some glass next to garrick.*
 > Wemmfort: You'd seem like you'd like this.
 
-**Zander** *(22-May-20 03:52 PM)*
+**Zander** _(22-May-20 03:52 PM)_
+
 > Emmett: PUT ME DOWN.
 
-**Brody** *(22-May-20 03:52 PM)*
+**Brody** _(22-May-20 03:52 PM)_
+
 > Sanya: Nope.
 
-**Zander** *(22-May-20 03:52 PM)*
+**Zander** _(22-May-20 03:52 PM)_
+
 > Emmett: NOW.
 
-**Brody** *(22-May-20 03:52 PM)*
+**Brody** _(22-May-20 03:52 PM)_
+
 > Sanya: Im not putting you down until you're more sober.
 
-**Lili** *(22-May-20 03:52 PM)*
+**Lili** _(22-May-20 03:52 PM)_
+
 > Iris: Alright, looks like nobody else is coming.
 
-**Zander** *(22-May-20 03:53 PM)*
+**Zander** _(22-May-20 03:53 PM)_
+
 > Emmett: Squommy pleasse...
 
-**Lili** *(22-May-20 03:53 PM)*
+**Lili** _(22-May-20 03:53 PM)_
+
 > Iris: Let's get going.
 
-**Zander** *(22-May-20 03:53 PM)*
+**Zander** _(22-May-20 03:53 PM)_
+
 > Emmett: I've been a good boy...
 
-**Brody** *(22-May-20 03:53 PM)*
+**Brody** _(22-May-20 03:53 PM)_
 
+_Sanya is unfazed._
 
-*Sanya is unfazed.*
-
-**Cooldude** *(22-May-20 03:53 PM)*
+**Cooldude** _(22-May-20 03:53 PM)_
 8ball should Wemmfort scrape Emmett off Sanya's leg?
 (edited)
 
-**FFBot** *(22-May-20 03:53 PM)*
+**FFBot** _(22-May-20 03:53 PM)_
 Without a doubt :8ball:
 
-**Zander** *(22-May-20 03:54 PM)*
+**Zander** _(22-May-20 03:54 PM)_
 
+_Emmett suddenly roundhouse kicks Sanya's stomach and hops out of her grasp._
 
-*Emmett suddenly roundhouse kicks Sanya's stomach and hops out of her grasp.*
+**Brody** _(22-May-20 03:54 PM)_
 
-**Brody** *(22-May-20 03:54 PM)*
 > Sanya: Ow.
 
-**Zander** *(22-May-20 03:54 PM)*
+**Zander** _(22-May-20 03:54 PM)_
+
 > Emmett: Die.
 
-**Lili** *(22-May-20 03:54 PM)*
+**Lili** _(22-May-20 03:54 PM)_
 8ball do we finally go to the store
 
-**FFBot** *(22-May-20 03:54 PM)*
+**FFBot** _(22-May-20 03:54 PM)_
 Most likely :8ball:
 
-**Brody** *(22-May-20 03:55 PM)*
+**Brody** _(22-May-20 03:55 PM)_
+
 > Sanya: Oh no, you've wounded me. However will i go on?
 
-**Zander** *(22-May-20 03:55 PM)*
+**Zander** _(22-May-20 03:55 PM)_
 8ball Is there even a grocery store on the asteroid?
 
-**FFBot** *(22-May-20 03:55 PM)*
+**FFBot** _(22-May-20 03:55 PM)_
 Outlook good :8ball:
 
-**Brody** *(22-May-20 03:55 PM)*
+**Brody** _(22-May-20 03:55 PM)_
+
 > Sanya: I see the light. Its telling me to reach out.
 
-**Trey** *(22-May-20 03:55 PM)*
+**Trey** _(22-May-20 03:55 PM)_
+
 > Garrick: Here we are.
 
-**Lili** *(22-May-20 03:56 PM)*
+**Lili** _(22-May-20 03:56 PM)_
 
+_Iris nods._
 
-*Iris nods.*
+**Zander** _(22-May-20 03:56 PM)_
 
-**Zander** *(22-May-20 03:56 PM)*
 > Emmett: Woe is you, oh boo ho-
 
-*Emmett was beginning to choke.*
+_Emmett was beginning to choke._
 
-**Lili** *(22-May-20 03:56 PM)*
+**Lili** _(22-May-20 03:56 PM)_
+
 > Iris: Alright, let's head in.
 
-**Zander** *(22-May-20 03:57 PM)*
+**Zander** _(22-May-20 03:57 PM)_
 
+_Emmett was hitting himself in the stomach._
 
-*Emmett was hitting himself in the stomach.*
+**Lili** _(22-May-20 03:57 PM)_
 
-**Lili** *(22-May-20 03:57 PM)*
+_The store isn't huge, but it's got a strangely wide variety of food._
 
+**Brody** _(22-May-20 03:58 PM)_
 
-*The store isn't huge, but it's got a strangely wide variety of food.*
+_Sanya rolls away before disaster_
 
-**Brody** *(22-May-20 03:58 PM)*
+**Trey** _(22-May-20 03:58 PM)_
 
+_The duo spend, like, 20 minutes trying to find normal meat._
 
-*Sanya rolls away before disaster*
+**Cooldude** _(22-May-20 03:58 PM)_
 
-**Trey** *(22-May-20 03:58 PM)*
+_Wemmfort starts to try to talk to emmett._
 
-
-*The duo spend, like, 20 minutes trying to find normal meat.*
-
-**Cooldude** *(22-May-20 03:58 PM)*
-
-
-*Wemmfort starts to try to talk to emmett.*
 > Wemmfort: So, uh, you like glass?
 
-**Zander** *(22-May-20 03:58 PM)*
+**Zander** _(22-May-20 03:58 PM)_
 
+_Emmett swallows, following with a visible twitch._
 
-*Emmett swallows, following with a visible twitch.*
+**Lili** _(22-May-20 03:58 PM)_
 
-**Lili** *(22-May-20 03:58 PM)*
 > Iris: Oh, there it is.
 
-**Zander** *(22-May-20 03:58 PM)*
+**Zander** _(22-May-20 03:58 PM)_
+
 > Emmett: No more games, funny wonan.
 
-**Trey** *(22-May-20 03:58 PM)*
+**Trey** _(22-May-20 03:58 PM)_
+
 > Garrick: I didn't think uncooked alien meat would look this suspicious...
 
-**Brody** *(22-May-20 03:59 PM)*
+**Brody** _(22-May-20 03:59 PM)_
 
+_Sanya hides behind the couch_
 
-*Sanya hides behind the couch*
+**Lili** _(22-May-20 03:59 PM)_
 
-**Lili** *(22-May-20 03:59 PM)*
+_Iris lifts up one of the strange meats._
 
+**Zander** _(22-May-20 03:59 PM)_
 
-*Iris lifts up one of the strange meats.*
-
-**Zander** *(22-May-20 03:59 PM)*
 > Emmett: I'm going to grab you now!
 
-**Cooldude** *(22-May-20 03:59 PM)*
+**Cooldude** _(22-May-20 03:59 PM)_
 funny wonan.@Zander
 
-**Lili** *(22-May-20 03:59 PM)*
+**Lili** _(22-May-20 03:59 PM)_
+
 > Iris: I know this one!
 
-**Brody** *(22-May-20 03:59 PM)*
+**Brody** _(22-May-20 03:59 PM)_
+
 > Sanya: Oh no you won't.
 
-**Trey** *(22-May-20 04:00 PM)*
+**Trey** _(22-May-20 04:00 PM)_
+
 > Garrick: Hope you're a good judge of food, because it all looks bad to me.
 
-**Lili** *(22-May-20 04:00 PM)*
+**Lili** _(22-May-20 04:00 PM)_
 
+_Iris nods._
 
-*Iris nods.*
+**Lili** _(22-May-20 04:00 PM)_
 
-**Lili** *(22-May-20 04:00 PM)*
 > Iris: If I weren't a ribbon dancer, I'd have been a chef.
 
-**Zander** *(22-May-20 04:00 PM)*
+**Zander** _(22-May-20 04:00 PM)_
 
+_Emmett tackles onto Sanya, trying to pick her up._
 
-*Emmett tackles onto Sanya, trying to pick her up.*
 > Emmett: I have brutal strength!
 
-**Cooldude** *(22-May-20 04:00 PM)*
+**Cooldude** _(22-May-20 04:00 PM)_
+
 > Wemmfort: I'm getting kinda hungry.
 
-**Trey** *(22-May-20 04:00 PM)*
+**Trey** _(22-May-20 04:00 PM)_
+
 > Garrick: Well, you certainly fulfill that role now.
 
-**Lili** *(22-May-20 04:00 PM)*
+**Lili** _(22-May-20 04:00 PM)_
 
+_Iris smiles at him._
 
-*Iris smiles at him.*
+**Trey** _(22-May-20 04:01 PM)_
 
-**Trey** *(22-May-20 04:01 PM)*
 > Garrick: Anyways, let's get out of here.
 
-**Lili** *(22-May-20 04:01 PM)*
+**Lili** _(22-May-20 04:01 PM)_
+
 > Iris: Thanks, that's really nice of you to say.
 
-**Brody** *(22-May-20 04:01 PM)*
+**Brody** _(22-May-20 04:01 PM)_
+
 > Sanya: No you dont.
 
-*She picks him up.*
+_She picks him up._
 
-**Trey** *(22-May-20 04:01 PM)*
+**Trey** _(22-May-20 04:01 PM)_
+
 > Garrick: Yeah, sure.
 
-**Zander** *(22-May-20 04:01 PM)*
+**Zander** _(22-May-20 04:01 PM)_
+
 > Emmett: What the fuck.
 
-**Lili** *(22-May-20 04:01 PM)*
+**Lili** _(22-May-20 04:01 PM)_
 
+_She nods and goes to buy the mountain of food they picked up along the way._
 
-*She nods and goes to buy the mountain of food they picked up along the way.*
+**Zander** _(22-May-20 04:01 PM)_
 
-**Zander** *(22-May-20 04:01 PM)*
 > Emmett: How are you so strong?
 
-**Cooldude** *(22-May-20 04:02 PM)*
+**Cooldude** _(22-May-20 04:02 PM)_
 
+_Sanya changes Emmett's physical properties and now he's a basketball_
 
-*Sanya changes Emmett's physical properties and now he's a basketball*
+**Trey** _(22-May-20 04:02 PM)_
 
-**Trey** *(22-May-20 04:02 PM)*
 > Garrick: You... have the money for all this, right?
 
-**Lili** *(22-May-20 04:02 PM)*
+**Lili** _(22-May-20 04:02 PM)_
 
+_Iris pauses._
 
-*Iris pauses.*
+**Brody** _(22-May-20 04:02 PM)_
 
-**Brody** *(22-May-20 04:02 PM)*
 > Sanya: I was sent to assassinate a famous Basketball player, so i know a thing or two about THIS!
 
-*She throws him into the kitchen*
+_She throws him into the kitchen_
 
-**Lili** *(22-May-20 04:03 PM)*
+**Lili** _(22-May-20 04:03 PM)_
+
 > Iris: ...I do, but that's pretty much all of my money.
 
-**Cooldude** *(22-May-20 04:03 PM)*
+**Cooldude** _(22-May-20 04:03 PM)_
 8ball does wemmfort try to find the ship?
 
-**FFBot** *(22-May-20 04:03 PM)*
+**FFBot** _(22-May-20 04:03 PM)_
 Outlook not so good :8ball:
 
-**Zander** *(22-May-20 04:03 PM)*
+**Zander** _(22-May-20 04:03 PM)_
 
+_Emmett braced for impact, but surprisingly, the impact wasn't too bad. He made a fake cracking noise and went dead silent._
 
-*Emmett braced for impact, but surprisingly, the impact wasn't too bad. He made a fake cracking noise and went dead silent.*
+**Lili** _(22-May-20 04:03 PM)_
 
-**Lili** *(22-May-20 04:03 PM)*
 > Iris: ...do you wanna just steal it?
 
-**Trey** *(22-May-20 04:03 PM)*
+**Trey** _(22-May-20 04:03 PM)_
 
+_Garrick reaches into his pockets and pulls out 36._
 
-*Garrick reaches into his pockets and pulls out 36.*
+**Trey** _(22-May-20 04:03 PM)_
 
-**Trey** *(22-May-20 04:03 PM)*
 > Garrick: Yes.
 
-**Trey** *(22-May-20 04:03 PM)*
+**Trey** _(22-May-20 04:03 PM)_
+
 > Garrick: Good idea.
 
-**Lili** *(22-May-20 04:04 PM)*
+**Lili** _(22-May-20 04:04 PM)_
+
 > Iris: Let's go.
 
-**Brody** *(22-May-20 04:04 PM)*
+**Brody** _(22-May-20 04:04 PM)_
+
 > Sanya: I know you're not dead. That throw wasn't even strong enough to kill a 5 year old.
 
-**Trey** *(22-May-20 04:04 PM)*
+**Trey** _(22-May-20 04:04 PM)_
 
+_The duo rushes out of the store, setting off alarms._
 
-*The duo rushes out of the store, setting off alarms.*
+**Zander** _(22-May-20 04:04 PM)_
 
-**Zander** *(22-May-20 04:04 PM)*
 > Emmett: You fucking broke my arm though.
 
-**Lili** *(22-May-20 04:04 PM)*
+**Lili** _(22-May-20 04:04 PM)_
 
+_Iris laughs._
 
-*Iris laughs.*
+**Brody** _(22-May-20 04:04 PM)_
 
-**Brody** *(22-May-20 04:04 PM)*
 > Sanya: Good. Breaking bones builds character.
 
-**Lili** *(22-May-20 04:04 PM)*
+**Lili** _(22-May-20 04:04 PM)_
+
 > Iris: I've never stolen anything before! This is kinda fun.
 
-**Cooldude** *(22-May-20 04:05 PM)*
+**Cooldude** _(22-May-20 04:05 PM)_
 
+_Sanya turns into a wizard and turns a random baby into a beer bottle_
 
-*Sanya turns into a wizard and turns a random baby into a beer bottle*
+**Trey** _(22-May-20 04:05 PM)_
 
-**Trey** *(22-May-20 04:05 PM)*
 > Garrick: Isn't it?? Nobody else gets the thrill!
 
-**Zander** *(22-May-20 04:05 PM)*
+**Zander** _(22-May-20 04:05 PM)_
 
+_Emmett howled in pain to try and get more of a reaction._
 
-*Emmett howled in pain to try and get more of a reaction.*
-
-**Trey** *(22-May-20 04:05 PM)*
+**Trey** _(22-May-20 04:05 PM)_
 8ball does a weird-looking crater attract the attention of Garrick
 
-**FFBot** *(22-May-20 04:05 PM)*
+**FFBot** _(22-May-20 04:05 PM)_
 Outlook good :8ball:
 
-**Brody** *(22-May-20 04:05 PM)*
+**Brody** _(22-May-20 04:05 PM)_
+
 > Sanya: Nice howl. i give it a 6.5 ot of 10.
 
-**Zander** *(22-May-20 04:06 PM)*
+**Zander** _(22-May-20 04:06 PM)_
+
 > Emmett: You're boring.
 
-**Cooldude** *(22-May-20 04:06 PM)*
+**Cooldude** _(22-May-20 04:06 PM)_
 8ball good job kiddo?
 
-**FFBot** *(22-May-20 04:06 PM)*
+**FFBot** _(22-May-20 04:06 PM)_
 Outlook good :8ball:
 
-**Lili** *(22-May-20 04:06 PM)*
+**Lili** _(22-May-20 04:06 PM)_
 8ball do Iris and Garrick ride a shopping cart into the crater
 
-**FFBot** *(22-May-20 04:06 PM)*
+**FFBot** _(22-May-20 04:06 PM)_
 My sources say no :8ball:
 
-**Brody** *(22-May-20 04:06 PM)*
+**Brody** _(22-May-20 04:06 PM)_
+
 > Sanya: You're drunk.
 
-**Zander** *(22-May-20 04:06 PM)*
+**Zander** _(22-May-20 04:06 PM)_
 
+_Emmett turned his back on her._
 
-*Emmett turned his back on her.*
 > Emmett: I'm going to find some real ffriends.
 
-**Cooldude** *(22-May-20 04:06 PM)*
+**Cooldude** _(22-May-20 04:06 PM)_
 8ball what
 
-**FFBot** *(22-May-20 04:06 PM)*
+**FFBot** _(22-May-20 04:06 PM)_
 Outlook not so good :8ball:
 
-**Brody** *(22-May-20 04:06 PM)*
+**Brody** _(22-May-20 04:06 PM)_
+
 > Sanya: The only one out there... is Olag.
 
-**Bill** *(22-May-20 04:07 PM)*
+**Bill** _(22-May-20 04:07 PM)_
 8ball do the ducks arrive at the crater at a similar time as the other two?
 
-**FFBot** *(22-May-20 04:07 PM)*
+**FFBot** _(22-May-20 04:07 PM)_
 As I see it, yes :8ball:
 
-**Cooldude** *(22-May-20 04:07 PM)*
+**Cooldude** _(22-May-20 04:07 PM)_
 8baby
 
-**Zander** *(22-May-20 04:07 PM)*
+**Zander** _(22-May-20 04:07 PM)_
 8ball Does Garrick also see a pink blur in his peripheral vision?
 
-**FFBot** *(22-May-20 04:07 PM)*
+**FFBot** _(22-May-20 04:07 PM)_
 It is decidedly so :8ball:
 
-**FFBot** *(22-May-20 04:07 PM)*
+**FFBot** _(22-May-20 04:07 PM)_
 No, you are poop.
 
-**Zander** *(22-May-20 04:08 PM)*
+**Zander** _(22-May-20 04:08 PM)_
 
+_Emmett sighed._
 
-*Emmett sighed.*
+**Zander** _(22-May-20 04:08 PM)_
 
-**Zander** *(22-May-20 04:08 PM)*
 > Emmett: Fine. You want me to tell you why I'mm sso drunk?
 
-**Zander** *(22-May-20 04:08 PM)*
+**Zander** _(22-May-20 04:08 PM)_
+
 > Emmett: Or cann you tell?
 
-**Brody** *(22-May-20 04:09 PM)*
+**Brody** _(22-May-20 04:09 PM)_
+
 > Sanya: Go ahead and tell me.
 
-**Cooldude** *(22-May-20 04:09 PM)*
+**Cooldude** _(22-May-20 04:09 PM)_
 8poop
 
-**FFBot** *(22-May-20 04:09 PM)*
+**FFBot** _(22-May-20 04:09 PM)_
 No, you are poop.
 
-**Zander** *(22-May-20 04:09 PM)*
+**Zander** _(22-May-20 04:09 PM)_
 
+_Emmett looked to the side, visibly embarrassed._
 
-*Emmett looked to the side, visibly embarrassed.*
+**Zander** _(22-May-20 04:09 PM)_
 
-**Zander** *(22-May-20 04:09 PM)*
 > Emmett: It's that time, y'know?
 
-**Cooldude** *(22-May-20 04:10 PM)*
+**Cooldude** _(22-May-20 04:10 PM)_
 8ball 8poop
 
-**FFBot** *(22-May-20 04:10 PM)*
+**FFBot** _(22-May-20 04:10 PM)_
 Yes :8ball:
 
-**Trey** *(22-May-20 04:10 PM)*
+**Trey** _(22-May-20 04:10 PM)_
 8ball do the two fall down the crater pit, leaving the groceries behind
 
-**FFBot** *(22-May-20 04:10 PM)*
+**FFBot** _(22-May-20 04:10 PM)_
 As I see it, yes :8ball:
 
-**Lili** *(22-May-20 04:10 PM)*
+**Lili** _(22-May-20 04:10 PM)_
+
 > Iris: ow.
 
-**Bill** *(22-May-20 04:11 PM)*
+**Bill** _(22-May-20 04:11 PM)_
 
+_The ducks arrive just in time to see the other two falling down into the crater_
 
-*The ducks arrive just in time to see the other two falling down into the crater*
+**Bill** _(22-May-20 04:11 PM)_
 
-**Bill** *(22-May-20 04:11 PM)*
 > Burner: Those weren't two people from the ship, were they?
 
-**Zander** *(22-May-20 04:11 PM)*
+**Zander** _(22-May-20 04:11 PM)_
 
+_Emmett sat down next to Sanya, albeit sloppily._
 
-*Emmett sat down next to Sanya, albeit sloppily.*
+**Trey** _(22-May-20 04:12 PM)_
 
-**Trey** *(22-May-20 04:12 PM)*
 > Garrick: I'd call that a successful escape.
 
-**Bill** *(22-May-20 04:12 PM)*
+**Bill** _(22-May-20 04:12 PM)_
 
+_Diver quacks back_
 
-*Diver quacks back*
+**Lili** _(22-May-20 04:12 PM)_
 
-**Lili** *(22-May-20 04:12 PM)*
+_Iris laughs._
 
+**Trey** _(22-May-20 04:12 PM)_
 
-*Iris laughs.*
+_Garrick looks up to see a figure looming above the hole._
 
-**Trey** *(22-May-20 04:12 PM)*
+**Lili** _(22-May-20 04:12 PM)_
 
-
-*Garrick looks up to see a figure looming above the hole.*
-
-**Lili** *(22-May-20 04:12 PM)*
 > Iris: I guess it was!
 
-**Zander** *(22-May-20 04:12 PM)*
+**Zander** _(22-May-20 04:12 PM)_
+
 > Emmett: I can't control it, you read up on Squoatling biology or wwhatevver.
 
-**Sean** *(22-May-20 04:12 PM)*
+**Sean** _(22-May-20 04:12 PM)_
 
+_Seth does the woah on minorities_
 
-*Seth does the woah on minorities*
+**Bill** _(22-May-20 04:12 PM)_
 
-**Bill** *(22-May-20 04:12 PM)*
 > Burner: So I guess we gotta go down, come on then
 
-**Bill** *(22-May-20 04:12 PM)*
+**Bill** _(22-May-20 04:12 PM)_
 
+_The ducks begin to slowly fly down the crater_
 
-*The ducks begin to slowly fly down the crater*
+**Lili** _(22-May-20 04:13 PM)_
 
-**Lili** *(22-May-20 04:13 PM)*
+_Iris also looks up._
 
+**Lili** _(22-May-20 04:13 PM)_
 
-*Iris also looks up.*
-
-**Lili** *(22-May-20 04:13 PM)*
 > Iris: That is... a long way back to the groceries.
 
-**Trey** *(22-May-20 04:14 PM)*
+**Trey** _(22-May-20 04:14 PM)_
+
 > Garrick: Well.
 
-**Cooldude** *(22-May-20 04:14 PM)*
+**Cooldude** _(22-May-20 04:14 PM)_
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-**Trey** *(22-May-20 04:14 PM)*
+**Trey** _(22-May-20 04:14 PM)_
+
 > Garrick: We climbing?
 
-**Lili** *(22-May-20 04:14 PM)*
+**Lili** _(22-May-20 04:14 PM)_
 
+_Iris shrugs._
 
-*Iris shrugs.*
+**Lili** _(22-May-20 04:14 PM)_
 
-**Lili** *(22-May-20 04:14 PM)*
 > Iris: I can climb.
 
-**Trey** *(22-May-20 04:14 PM)*
+**Trey** _(22-May-20 04:14 PM)_
+
 > Garrick: 'Cause I can get up there just fine.
 
-**Cooldude** *(22-May-20 04:14 PM)*
+**Cooldude** _(22-May-20 04:14 PM)_
 8ball does wemmfort look for the ship?
 (edited)
 
-**FFBot** *(22-May-20 04:14 PM)*
+**FFBot** _(22-May-20 04:14 PM)_
 As I see it, yes :8ball:
 
-**Trey** *(22-May-20 04:14 PM)*
+**Trey** _(22-May-20 04:14 PM)_
+
 > Garrick: That's no fun though.
 
-**Zander** *(22-May-20 04:14 PM)*
+**Zander** _(22-May-20 04:14 PM)_
 
+_Emmett sat there, listening to the weirdos climbing a near-indefinitely deep crater._
 
-*Emmett sat there, listening to the weirdos climbing a near-indefinitely deep crater.*
+**Lili** _(22-May-20 04:15 PM)_
 
-**Lili** *(22-May-20 04:15 PM)*
 > Iris: Alright, what do you suggest?
 
-**Cooldude** *(22-May-20 04:15 PM)*
+**Cooldude** _(22-May-20 04:15 PM)_
 
+_wemmfort searches frantically for the ship._
 
-*wemmfort searches frantically for the ship.*
+**Trey** _(22-May-20 04:15 PM)_
 
-**Trey** *(22-May-20 04:15 PM)*
+_Garrick looks over and sees that the hole goes deeper._
 
+**Trey** _(22-May-20 04:15 PM)_
 
-*Garrick looks over and sees that the hole goes deeper.*
-
-**Trey** *(22-May-20 04:15 PM)*
 > Garrick: I suggest we go that way.
 
-**Lili** *(22-May-20 04:16 PM)*
+**Lili** _(22-May-20 04:16 PM)_
 
+_Iris considers it._
 
-*Iris considers it.*
+**Brody** _(22-May-20 04:16 PM)_
 
-**Brody** *(22-May-20 04:16 PM)*
 > Sanya: I see. Have you tried murder? it works for me.
 
-**Bill** *(22-May-20 04:16 PM)*
+**Bill** _(22-May-20 04:16 PM)_
 
+_The sound of flapping wings fills the cavern_
 
-*The sound of flapping wings fills the cavern*
+**Zander** _(22-May-20 04:16 PM)_
 
-**Zander** *(22-May-20 04:16 PM)*
 > Emmett: Murrderr is wrong.
 
-**Trey** *(22-May-20 04:16 PM)*
+**Trey** _(22-May-20 04:16 PM)_
+
 > Garrick: Hey Sanya.
 
-**Lili** *(22-May-20 04:17 PM)*
+**Lili** _(22-May-20 04:17 PM)_
+
 > Iris: If we could get back to the ship with the groceries before dinner, I don't see why not.
 
-**Brody** *(22-May-20 04:17 PM)*
+**Brody** _(22-May-20 04:17 PM)_
+
 > Sanya: Yes, ghost?
 
-**Zander** *(22-May-20 04:17 PM)*
+**Zander** _(22-May-20 04:17 PM)_
+
 > Emmett: I just really want to bang ssomething.
 
-*Emmett muttered.*
+_Emmett muttered._
 
-**Trey** *(22-May-20 04:17 PM)*
+**Trey** _(22-May-20 04:17 PM)_
+
 > Garrick: If you stop hearing from us, we died in a crater by the grocery store.
 
-**Trey** *(22-May-20 04:17 PM)*
+**Trey** _(22-May-20 04:17 PM)_
+
 > Garrick: Come retrieve our bodies.
 
-**Zander** *(22-May-20 04:18 PM)*
+**Zander** _(22-May-20 04:18 PM)_
+
 > Emmett: Is Iris there?
 
-**Sean** *(22-May-20 04:18 PM)*
+**Sean** _(22-May-20 04:18 PM)_
 
+_Seth pees, filling up the crater with piss_
 
-*Seth pees, filling up the crater with piss*
+**Lili** _(22-May-20 04:18 PM)_
 
-**Lili** *(22-May-20 04:18 PM)*
 > Iris: Yeah, I'm here.
 
-**Zander** *(22-May-20 04:19 PM)*
+**Zander** _(22-May-20 04:19 PM)_
 
+_Unfortunately, Seth ran out of pee eventually, only creating a 5" pool._
 
-*Unfortunately, Seth ran out of pee eventually, only creating a 5" pool.*
+**Sean** _(22-May-20 04:20 PM)_
 
-**Sean** *(22-May-20 04:20 PM)*
+_seth starts to poop to fill in the gaps_
 
+**Trey** _(22-May-20 04:20 PM)_
 
-*seth starts to poop to fill in the gaps*
-
-**Trey** *(22-May-20 04:20 PM)*
 > Garrick: Gross, let's get outta here!
 
-**Zander** *(22-May-20 04:20 PM)*
+**Zander** _(22-May-20 04:20 PM)_
+
 > Emmett: Can you guys get me some munchies or something?
 
-**Lili** *(22-May-20 04:20 PM)*
+**Lili** _(22-May-20 04:20 PM)_
 
+_Iris nods in agreement._
 
-*Iris nods in agreement.*
+**Lili** _(22-May-20 04:20 PM)_
 
-**Lili** *(22-May-20 04:20 PM)*
 > Iris: We bought a bunch of food already, we'll be back soon.
 
-**Brody** *(22-May-20 04:21 PM)*
+**Brody** _(22-May-20 04:21 PM)_
+
 > Sanya: I can't really help you with that problem. Why not look around this trash heap for something to help?
 
-**Zander** *(22-May-20 04:21 PM)*
+**Zander** _(22-May-20 04:21 PM)_
+
 > Emmett: That's just sick.
 
-**Sean** *(22-May-20 04:21 PM)*
+**Sean** _(22-May-20 04:21 PM)_
 
+_Seth poops in every single one of Garrick's ears_
 
-*Seth poops in every single one of Garrick's ears*
-
-**Cooldude** *(22-May-20 04:22 PM)*
+**Cooldude** _(22-May-20 04:22 PM)_
 square
 
-**Lili** *(22-May-20 04:22 PM)*
+**Lili** _(22-May-20 04:22 PM)_
+
 > Iris: Let's get out of this crater.
 
-**Zander** *(22-May-20 04:23 PM)*
+**Zander** _(22-May-20 04:23 PM)_
 8ball Does Emmett get really upset and leave?
 
-**FFBot** *(22-May-20 04:23 PM)*
+**FFBot** _(22-May-20 04:23 PM)_
 Signs point to yes :8ball:
 
-**Zander** *(22-May-20 04:23 PM)*
+**Zander** _(22-May-20 04:23 PM)_
+
 > Emmett: Get awway from me.
 
-**Trey** *(22-May-20 04:23 PM)*
+**Trey** _(22-May-20 04:23 PM)_
+
 > Garrick: Surely it's connected to another one somewhere. We just gotta find it.
 
-**Zander** *(22-May-20 04:23 PM)*
+**Zander** _(22-May-20 04:23 PM)_
+
 > Emmett: I'm dissgusting.
 
-**Lili** *(22-May-20 04:23 PM)*
+**Lili** _(22-May-20 04:23 PM)_
 
+_Iris nods._
 
-*Iris nods.*
+**Lili** _(22-May-20 04:23 PM)_
 
-**Lili** *(22-May-20 04:23 PM)*
 > Iris: I'll follow you, then.
 
-**Bill** *(22-May-20 04:23 PM)*
+**Bill** _(22-May-20 04:23 PM)_
 
+_The ducks land and perch on the rocks, a few feet above the pair_
 
-*The ducks land and perch on the rocks, a few feet above the pair*
+**Brody** _(22-May-20 04:23 PM)_
 
-**Brody** *(22-May-20 04:23 PM)*
+_Sanya give a confused look at him._
 
+**Brody** _(22-May-20 04:23 PM)_
 
-*Sanya give a confused look at him.*
-
-**Brody** *(22-May-20 04:23 PM)*
 > Sanya: Are you alright?
 
-**Bill** *(22-May-20 04:24 PM)*
+**Bill** _(22-May-20 04:24 PM)_
+
 > Burner: You two good?
 
-**Zander** *(22-May-20 04:24 PM)*
+**Zander** _(22-May-20 04:24 PM)_
 
+_Emmett runs off, frustrated and confused._
 
-*Emmett runs off, frustrated and confused.*
-
-**Trey** *(22-May-20 04:25 PM)*
+**Trey** _(22-May-20 04:25 PM)_
 8ball do the two run off deeper into the cave
 
-**FFBot** *(22-May-20 04:25 PM)*
+**FFBot** _(22-May-20 04:25 PM)_
 Signs point to yes :8ball:
 
-**Zander** *(22-May-20 04:25 PM)*
+**Zander** _(22-May-20 04:25 PM)_
 
+_Emmett is now inconveniently placed on the edge of the crater, due to him running away._
 
-*Emmett is now inconveniently placed on the edge of the crater, due to him running away.*
+**Bill** _(22-May-20 04:25 PM)_
 
-**Bill** *(22-May-20 04:25 PM)*
 > Burner: They must have left their ears at home, Your call Diver
 
-**Zander** *(22-May-20 04:26 PM)*
+**Zander** _(22-May-20 04:26 PM)_
+
 > Emmett: Why did the Llamanians have to do thiss to me..
 
-**Bill** *(22-May-20 04:26 PM)*
+**Bill** _(22-May-20 04:26 PM)_
 
+_Diver starts running down the path after Iris and Garrick_
 
-*Diver starts running down the path after Iris and Garrick*
+**Bill** _(22-May-20 04:26 PM)_
 
-**Bill** *(22-May-20 04:26 PM)*
 > Burner: Of course you ran after them.
 
-**Bill** *(22-May-20 04:26 PM)*
+**Bill** _(22-May-20 04:26 PM)_
 
+_Burner follows Diver_
 
-*Burner follows Diver*
+**Brody** _(22-May-20 04:27 PM)_
 
-**Brody** *(22-May-20 04:27 PM)*
+_Sanya walks after her distressed friend._
 
+**Zander** _(22-May-20 04:27 PM)_
 
-*Sanya walks after her distressed friend.*
-
-**Zander** *(22-May-20 04:27 PM)*
 > Emmett: I'm the only Squoatling left and I'm a ssad heap of trash.
 
-**Lili** *(22-May-20 04:27 PM)*
+**Lili** _(22-May-20 04:27 PM)_
 
+_Iris hums while they walk through the cave._
 
-*Iris hums while they walk through the cave.*
-
-**Zander** *(22-May-20 04:28 PM)*
+**Zander** _(22-May-20 04:28 PM)_
 (By the way everyone can hear the bumbling man)
 
-**Zander** *(22-May-20 04:28 PM)*
+**Zander** _(22-May-20 04:28 PM)_
 
+_Emmett leans in closer to the crater._
 
-*Emmett leans in closer to the crater.*
+**Zander** _(22-May-20 04:28 PM)_
 
-**Zander** *(22-May-20 04:28 PM)*
 > Emmett: I wonder how deep it goes.
 
-**Bill** *(22-May-20 04:28 PM)*
+**Bill** _(22-May-20 04:28 PM)_
 8ball does the cavern begin to shake rapidly?
 
-**FFBot** *(22-May-20 04:28 PM)*
+**FFBot** _(22-May-20 04:28 PM)_
 My sources say no :8ball:
 
-**Lili** *(22-May-20 04:29 PM)*
+**Lili** _(22-May-20 04:29 PM)_
+
 > Iris: Very deep.
 
-**Zander** *(22-May-20 04:29 PM)*
+**Zander** _(22-May-20 04:29 PM)_
 
+_Uncharacteristically, mostly because he's drunk and irrational_
 
-*Uncharacteristically, mostly because he's drunk and irrational*
 > Emmett: Deep enough to end my missery?
 
-**Trey** *(22-May-20 04:29 PM)*
+**Trey** _(22-May-20 04:29 PM)_
+
 > Garrick: Watch out for whatever bugs might live in the trash.
 
-**Lili** *(22-May-20 04:29 PM)*
+**Lili** _(22-May-20 04:29 PM)_
+
 > Iris: no.
 
-**Lili** *(22-May-20 04:29 PM)*
+**Lili** _(22-May-20 04:29 PM)_
+
 > Iris: And yeah, I will.
 
-**Cooldude** *(22-May-20 04:30 PM)*
+**Cooldude** _(22-May-20 04:30 PM)_
 
+_Wemmfort is still looking for the ship._
 
-*Wemmfort is still looking for the ship.*
+**Zander** _(22-May-20 04:30 PM)_
 
-**Zander** *(22-May-20 04:30 PM)*
 > Emmett: I just wissh someone could understund or something.
 
-**Bill** *(22-May-20 04:31 PM)*
+**Bill** _(22-May-20 04:31 PM)_
 
+_Diver jumps at Iris, knocking her to the ground_
 
-*Diver jumps at Iris, knocking her to the ground*
+**Lili** _(22-May-20 04:31 PM)_
 
-**Lili** *(22-May-20 04:31 PM)*
+_impact noise_
 
-
-*impact noise*
-
-**Brody** *(22-May-20 04:31 PM)*
+**Brody** _(22-May-20 04:31 PM)_
 8ball Does Emmett fall down the pit?
 
-**FFBot** *(22-May-20 04:31 PM)*
+**FFBot** _(22-May-20 04:31 PM)_
 Very doubtful :8ball:
 
-**Bill** *(22-May-20 04:31 PM)*
+**Bill** _(22-May-20 04:31 PM)_
+
 > Burner: Diver, what the hell?
 
-**Bill** *(22-May-20 04:31 PM)*
+**Bill** _(22-May-20 04:31 PM)_
 
+_Burner appears a bit behind them_
 
-*Burner appears a bit behind them*
+**Zander** _(22-May-20 04:32 PM)_
 
-**Zander** *(22-May-20 04:32 PM)*
+_Emmett lies down, his legs dangling over the pit._
 
+**Bill** _(22-May-20 04:32 PM)_
 
-*Emmett lies down, his legs dangling over the pit.*
+_Diver quacks sadly and hops off Iris_
 
-**Bill** *(22-May-20 04:32 PM)*
+**Lili** _(22-May-20 04:33 PM)_
 
-
-*Diver quacks sadly and hops off Iris*
-
-**Lili** *(22-May-20 04:33 PM)*
 > Iris: Hey, Diver.
 
-**Brody** *(22-May-20 04:33 PM)*
+**Brody** _(22-May-20 04:33 PM)_
 
+_Sanya passes by the grocery store, and notices the buggy._
 
-*Sanya passes by the grocery store, and notices the buggy.*
+**Bill** _(22-May-20 04:33 PM)_
 
-**Bill** *(22-May-20 04:33 PM)*
+_Diver does a happy quack_
 
+**Brody** _(22-May-20 04:33 PM)_
 
-*Diver does a happy quack*
-
-**Brody** *(22-May-20 04:33 PM)*
 > Sanya: This is ours, right?
 
-**Lili** *(22-May-20 04:33 PM)*
+**Lili** _(22-May-20 04:33 PM)_
 
+_Iris stands again, brushing herself off._
 
-*Iris stands again, brushing herself off.*
+**Bill** _(22-May-20 04:33 PM)_
 
-**Bill** *(22-May-20 04:33 PM)*
 > Burner: Oh, this is why you wanted to chase them, got it.
 
-**Zander** *(22-May-20 04:33 PM)*
+**Zander** _(22-May-20 04:33 PM)_
+
 > Emmett: Wonder how everyone would feel if I was gone. I mean, the GU wants me dead.
 
-**Lili** *(22-May-20 04:33 PM)*
+**Lili** _(22-May-20 04:33 PM)_
+
 > Iris: Yeah please take the groceries back to the ship for me.
 
-**Bill** *(22-May-20 04:33 PM)*
+**Bill** _(22-May-20 04:33 PM)_
+
 > Burner: What are you two even trying to find down here?
 
-**Trey** *(22-May-20 04:33 PM)*
+**Trey** _(22-May-20 04:33 PM)_
+
 > Garrick: Yeah, we left them up there in our escape.
 
-**Zander** *(22-May-20 04:33 PM)*
+**Zander** _(22-May-20 04:33 PM)_
+
 > Emmett: I'd just be giving into their demands.
 
-**Brody** *(22-May-20 04:34 PM)*
+**Brody** _(22-May-20 04:34 PM)_
+
 > Sanya: I'll take them back to the ship.
 
-**Lili** *(22-May-20 04:34 PM)*
+**Lili** _(22-May-20 04:34 PM)_
+
 > Iris: A way out.
 
-**Lili** *(22-May-20 04:34 PM)*
+**Lili** _(22-May-20 04:34 PM)_
+
 > Iris: Also adventure, I think.
 
-**Bill** *(22-May-20 04:34 PM)*
+**Bill** _(22-May-20 04:34 PM)_
+
 > Burner: But couldn't he just float out and drop a rope for you?
 
-**Cooldude** *(22-May-20 04:34 PM)*
+**Cooldude** _(22-May-20 04:34 PM)_
 8ball does Wemmfort give up?
 
-**FFBot** *(22-May-20 04:34 PM)*
+**FFBot** _(22-May-20 04:34 PM)_
 Without a doubt :8ball:
 
-**Trey** *(22-May-20 04:35 PM)*
+**Trey** _(22-May-20 04:35 PM)_
+
 > Garrick: Can it, duck.
 
-**Cooldude** *(22-May-20 04:35 PM)*
+**Cooldude** _(22-May-20 04:35 PM)_
+
 > Wemmfort: I give up.
 
-**Brody** *(22-May-20 04:35 PM)*
+**Brody** _(22-May-20 04:35 PM)_
 
+_Sanya, taking the cart, notices Emmett_
 
-*Sanya, taking the cart, notices Emmett*
+**Zander** _(22-May-20 04:35 PM)_
 
-**Zander** *(22-May-20 04:35 PM)*
 > Emmett: Would the crew even care? Seth's even tried to kill me a few times and Sanya has a heart of stone.
 
-**Cooldude** *(22-May-20 04:35 PM)*
+**Cooldude** _(22-May-20 04:35 PM)_
+
 > Wemmfort: Anyway, where is everybody?
 
-**Trey** *(22-May-20 04:35 PM)*
+**Trey** _(22-May-20 04:35 PM)_
+
 > Garrick: I'm just trying to find some excitement on this shithole asteroid we're stuck on.
 
-**Bill** *(22-May-20 04:35 PM)*
+**Bill** _(22-May-20 04:35 PM)_
 
+_Diver lowers his body and starts growling_
 
-*Diver lowers his body and starts growling*
+**Lili** _(22-May-20 04:35 PM)_
 
-**Lili** *(22-May-20 04:35 PM)*
 > Iris: Hey, calm down guys.
 
-**Zander** *(22-May-20 04:35 PM)*
+**Zander** _(22-May-20 04:35 PM)_
+
 > Emmett: No one is even responding to me. Though, they may have be turned down.
 
-**Cooldude** *(22-May-20 04:36 PM)*
+**Cooldude** _(22-May-20 04:36 PM)_
+
 > Wemmfort: I think I'm lost.
 
-**Trey** *(22-May-20 04:36 PM)*
+**Trey** _(22-May-20 04:36 PM)_
+
 > Garrick: Are you done, Emmett?
 
-**Zander** *(22-May-20 04:36 PM)*
+**Zander** _(22-May-20 04:36 PM)_
 
+_Emmett's clearly sobered up by this point._
 
-*Emmett's clearly sobered up by this point.*
+**Lili** _(22-May-20 04:36 PM)_
 
-**Lili** *(22-May-20 04:36 PM)*
+_Iris has Emmett turned down._
 
+**Zander** _(22-May-20 04:36 PM)_
 
-*Iris has Emmett turned down.*
-
-**Zander** *(22-May-20 04:36 PM)*
 > Emmett: Are there any stalagmites or something down there I can aim for?
 
-**Trey** *(22-May-20 04:36 PM)*
+**Trey** _(22-May-20 04:36 PM)_
+
 > Garrick: If you died, we'd have no pilot or acting captain.
 
-**Bill** *(22-May-20 04:36 PM)*
-> Burner: Diver calm down, we  need the ship to get off this place.
+**Bill** _(22-May-20 04:36 PM)_
 
-**Trey** *(22-May-20 04:37 PM)*
+> Burner: Diver calm down, we need the ship to get off this place.
+
+**Trey** _(22-May-20 04:37 PM)_
+
 > Garrick: You'd land in pee anyways.
 
-**Brody** *(22-May-20 04:37 PM)*
+**Brody** _(22-May-20 04:37 PM)_
 
+_Sanya walks over to the goat._
 
-*Sanya walks over to the goat.*
+**Zander** _(22-May-20 04:37 PM)_
 
-**Zander** *(22-May-20 04:37 PM)*
 > Emmett: Why is there piss down there?
 
-**Brody** *(22-May-20 04:37 PM)*
+**Brody** _(22-May-20 04:37 PM)_
+
 > Sanya: What are you doing?
 
-**Cooldude** *(22-May-20 04:37 PM)*
+**Cooldude** _(22-May-20 04:37 PM)_
 
+_Wemmfort lays on the ground, feeling upset._
 
-*Wemmfort lays on the ground, feeling upset.*
+**Trey** _(22-May-20 04:37 PM)_
 
-**Trey** *(22-May-20 04:37 PM)*
 > Garrick: Divine intervention.
 
-**Bill** *(22-May-20 04:37 PM)*
+**Bill** _(22-May-20 04:37 PM)_
 
+_Diver straightens up and returns to his normal self_
 
-*Diver straightens up and returns to his normal self*
+**Zander** _(22-May-20 04:37 PM)_
 
-**Zander** *(22-May-20 04:37 PM)*
+_Emmett turns around._
 
-
-*Emmett turns around.*
 > Emmett: Oh, hey.
 
-**Zander** *(22-May-20 04:37 PM)*
+**Zander** _(22-May-20 04:37 PM)_
+
 > Emmett: What do you want?
 
-**Lili** *(22-May-20 04:38 PM)*
+**Lili** _(22-May-20 04:38 PM)_
 
+_Iris sighs, gesturing to the trash cave._
 
-*Iris sighs, gesturing to the trash cave.*
+**Brody** _(22-May-20 04:38 PM)_
 
-**Brody** *(22-May-20 04:38 PM)*
+_She picks him up and puts him in the shopping cart._
 
+**Lili** _(22-May-20 04:38 PM)_
 
-*She picks him up and puts him in the shopping cart.*
-
-**Lili** *(22-May-20 04:38 PM)*
 > Iris: Should we go now?
 
-**Brody** *(22-May-20 04:38 PM)*
+**Brody** _(22-May-20 04:38 PM)_
+
 > Sanya: Talk to me. What's wrong?
 
-**Zander** *(22-May-20 04:39 PM)*
+**Zander** _(22-May-20 04:39 PM)_
+
 > Emmett: I'm your plaything, that's one thing that's wrong.
 
-**Lili** *(22-May-20 04:39 PM)*
+**Lili** _(22-May-20 04:39 PM)_
 8ball does Iris find a usable flashlight among the trash
 
-**FFBot** *(22-May-20 04:39 PM)*
+**FFBot** _(22-May-20 04:39 PM)_
 Don't count on it :8ball:
 
-**Zander** *(22-May-20 04:39 PM)*
+**Zander** _(22-May-20 04:39 PM)_
 
+_Emmett crosses his arms._
 
-*Emmett crosses his arms.*
+**Brody** _(22-May-20 04:39 PM)_
 
-**Brody** *(22-May-20 04:39 PM)*
 > Sanya: That doesn't normally bother you. You're just hiding behind small issues.
 
-**Lili** *(22-May-20 04:40 PM)*
+**Lili** _(22-May-20 04:40 PM)_
+
 > Iris: Can we just... keep going?
 
-**Lili** *(22-May-20 04:40 PM)*
+**Lili** _(22-May-20 04:40 PM)_
+
 > Iris: Please?
 
-**Zander** *(22-May-20 04:40 PM)*
+**Zander** _(22-May-20 04:40 PM)_
 8ball Up ahead in the crater, are there booby traps?
 
-**FFBot** *(22-May-20 04:40 PM)*
+**FFBot** _(22-May-20 04:40 PM)_
 My reply is no :8ball:
 
-**Trey** *(22-May-20 04:40 PM)*
+**Trey** _(22-May-20 04:40 PM)_
 8ball does the group come across booby traps
 
-**FFBot** *(22-May-20 04:40 PM)*
+**FFBot** _(22-May-20 04:40 PM)_
 My reply is no :8ball:
 
-**Zander** *(22-May-20 04:40 PM)*
+**Zander** _(22-May-20 04:40 PM)_
+
 > Emmett: Small issues?!
 
-**Bill** *(22-May-20 04:40 PM)*
+**Bill** _(22-May-20 04:40 PM)_
+
 > Burner: Yeah we should, let me and Diver lead, we can see in the dark. Kinda
 
-**Zander** *(22-May-20 04:40 PM)*
+**Zander** _(22-May-20 04:40 PM)_
+
 > Emmett: My whole race is dead!
 
-**Lili** *(22-May-20 04:41 PM)*
+**Lili** _(22-May-20 04:41 PM)_
+
 > Iris: Okay.
 
-**Brody** *(22-May-20 04:41 PM)*
+**Brody** _(22-May-20 04:41 PM)_
+
 > Sanya: And there is the big issue.
 
-**Zander** *(22-May-20 04:41 PM)*
+**Zander** _(22-May-20 04:41 PM)_
+
 > Emmett: The whole GU wants me captured and potentially murdered!
 
-**Lili** *(22-May-20 04:41 PM)*
+**Lili** _(22-May-20 04:41 PM)_
 
+_Iris turns Emmett up a little, enough to catch what he's saying from time to time._
 
-*Iris turns Emmett up a little, enough to catch what he's saying from time to time.*
+**Bill** _(22-May-20 04:41 PM)_
 
-**Bill** *(22-May-20 04:41 PM)*
+_Burner moves to the front, Diver a little bit behind her_
 
+**Zander** _(22-May-20 04:41 PM)_
 
-*Burner moves to the front, Diver a little bit behind her*
-
-**Zander** *(22-May-20 04:41 PM)*
 > Emmett: The llamanians want to decapitate me and make my head their mantlepiece!
 
-**Brody** *(22-May-20 04:42 PM)*
+**Brody** _(22-May-20 04:42 PM)_
+
 > Sanya: Now, is me being playful really bothering you compared to that?
 
-**Lili** *(22-May-20 04:42 PM)*
+**Lili** _(22-May-20 04:42 PM)_
+
 > Iris: Garrick are you coming?
 
-**Zander** *(22-May-20 04:42 PM)*
+**Zander** _(22-May-20 04:42 PM)_
+
 > Emmett: ... No.
 
-**Trey** *(22-May-20 04:42 PM)*
+**Trey** _(22-May-20 04:42 PM)_
+
 > Garrick: Yeah, sorry, I just thought I heard something from behind us.
 
-**Zander** *(22-May-20 04:43 PM)*
+**Zander** _(22-May-20 04:43 PM)_
+
 > Emmett: It just makes me feel less masculine.
 
-**Trey** *(22-May-20 04:43 PM)*
+**Trey** _(22-May-20 04:43 PM)_
 
+_He catches up._
 
-*He catches up.*
-
-**Bill** *(22-May-20 04:43 PM)*
+**Bill** _(22-May-20 04:43 PM)_
 8ball do the ducks find a large, open cavern filled with ruins?
 
-**FFBot** *(22-May-20 04:43 PM)*
+**FFBot** _(22-May-20 04:43 PM)_
 Yes :8ball:
 
-**Cooldude** *(22-May-20 04:43 PM)*
+**Cooldude** _(22-May-20 04:43 PM)_
+
 > Wemmfort: What do I do?
 
-**Cooldude** *(22-May-20 04:43 PM)*
+**Cooldude** _(22-May-20 04:43 PM)_
+
 > Wemmfort: Just lay here, hopelessly?
 
-**Lili** *(22-May-20 04:43 PM)*
+**Lili** _(22-May-20 04:43 PM)_
+
 > Iris: Wow.
 
-**Cooldude** *(22-May-20 04:44 PM)*
+**Cooldude** _(22-May-20 04:44 PM)_
 he was looking for the ship
 
-**Bill** *(22-May-20 04:44 PM)*
+**Bill** _(22-May-20 04:44 PM)_
+
 > Burner: Hopefully theres an exit somewhere
 
-**Brody** *(22-May-20 04:44 PM)*
+**Brody** _(22-May-20 04:44 PM)_
+
 > Sanya: Then it's a small issue. If you want to talk about everything, don't say that the small things are bothering you.
 
-**Brody** *(22-May-20 04:44 PM)*
+**Brody** _(22-May-20 04:44 PM)_
+
 > Sanya: You have to start with the big things.
 
-**Lili** *(22-May-20 04:44 PM)*
+**Lili** _(22-May-20 04:44 PM)_
+
 > Iris: This is so cool.
 
-**Bill** *(22-May-20 04:44 PM)*
+**Bill** _(22-May-20 04:44 PM)_
+
 > Burner: I doubt anything would settle down here without at least one surface exit
 
-**Lili** *(22-May-20 04:44 PM)*
+**Lili** _(22-May-20 04:44 PM)_
 
+_Iris goes ahead a bit, wandering around the ruins in amazement._
 
-*Iris goes ahead a bit, wandering around the ruins in amazement.*
+**Trey** _(22-May-20 04:44 PM)_
 
-**Trey** *(22-May-20 04:44 PM)*
 > Garrick: Weird... who would want to settle down here?
 
-**Zander** *(22-May-20 04:44 PM)*
+**Zander** _(22-May-20 04:44 PM)_
+
 > Emmett: I'm pretty irrational when I'm hard as a boulder.
 
-*Emmett still hasn't remembered to turn off his comms.*
+_Emmett still hasn't remembered to turn off his comms._
 
-**Bill** *(22-May-20 04:45 PM)*
+**Bill** _(22-May-20 04:45 PM)_
+
 > Burner: I can scan the area hold on
 
-**Brody** *(22-May-20 04:45 PM)*
+**Brody** _(22-May-20 04:45 PM)_
+
 > Sanya: Comms are on. Might not want to talk about that.
 
-**Lili** *(22-May-20 04:45 PM)*
+**Lili** _(22-May-20 04:45 PM)_
+
 > Iris: Gross, Emmett.
 
-**Bill** *(22-May-20 04:46 PM)*
+**Bill** _(22-May-20 04:46 PM)_
 
+_Burner takes flight and starts scanning the cavern, this leaves Diver alone, poking through rubble with his beak_
 
-*Burner takes flight and starts scanning the cavern, this leaves Diver alone, poking through rubble with his beak*
+**Lili** _(22-May-20 04:47 PM)_
 
-**Lili** *(22-May-20 04:47 PM)*
 > Iris: See anything cool, Diver?
 
-**Brody** *(22-May-20 04:47 PM)*
+**Brody** _(22-May-20 04:47 PM)_
 8ball Does Sanya start putting the groceries up?
 
-**FFBot** *(22-May-20 04:47 PM)*
+**FFBot** _(22-May-20 04:47 PM)_
 Yes, definitely :8ball:
 
-**Zander** *(22-May-20 04:47 PM)*
+**Zander** _(22-May-20 04:47 PM)_
 
+_Emmett paused for a moment and turned off his comm._
 
-*Emmett paused for a moment and turned off his comm.*
 > Emmett: I mean, it really isn't that much of an issue when most of the crew has seen me naked.
 
-*He was clearly trying to push off his embarrassment.*
+_He was clearly trying to push off his embarrassment._
 
-**Bill** *(22-May-20 04:47 PM)*
+**Bill** _(22-May-20 04:47 PM)_
 
+_Diver looks over and quacks, then keeps trying to dig something out_
 
-*Diver looks over and quacks, then keeps trying to dig something out*
+**Brody** _(22-May-20 04:47 PM)_
 
-**Brody** *(22-May-20 04:47 PM)*
+_Sanya puts Emmett on the counter and starts to put up groceries._
 
-
-*Sanya puts Emmett on the counter and starts to put up groceries.*
 > Sanya: I guess that's right.
 
-**Lili** *(22-May-20 04:48 PM)*
+**Lili** _(22-May-20 04:48 PM)_
 
+_Iris heads over and helps him dig._
 
-*Iris heads over and helps him dig.*
+**Zander** _(22-May-20 04:48 PM)_
 
-**Zander** *(22-May-20 04:48 PM)*
+_Emmett, playing along, kicks his legs as he's on the counter._
 
-
-*Emmett, playing along, kicks his legs as he's on the counter.*
-
-**Cooldude** *(22-May-20 04:48 PM)*
+**Cooldude** _(22-May-20 04:48 PM)_
 8ball does wemmfort get up?
 
-**FFBot** *(22-May-20 04:48 PM)*
+**FFBot** _(22-May-20 04:48 PM)_
 You may rely on it :8ball:
 
-**Lili** *(22-May-20 04:49 PM)*
+**Lili** _(22-May-20 04:49 PM)_
 8ball booby traps?
 
-**FFBot** *(22-May-20 04:49 PM)*
+**FFBot** _(22-May-20 04:49 PM)_
 Outlook good :8ball:
 
-**Brody** *(22-May-20 04:49 PM)*
+**Brody** _(22-May-20 04:49 PM)_
+
 > Sanya: I understand what you mean. Things are hard for you.
 
-**Cooldude** *(22-May-20 04:49 PM)*
+**Cooldude** _(22-May-20 04:49 PM)_
 
+_wemmfort gets up_
 
-*wemmfort gets up*
+**Zander** _(22-May-20 04:49 PM)_
 
-**Zander** *(22-May-20 04:49 PM)*
 > Emmett: But yeah, I drank and drank and drank to try and hide this... "Hardness". Clearly didn't work.
 
-**Trey** *(22-May-20 04:49 PM)*
+**Trey** _(22-May-20 04:49 PM)_
 
+_Muffled beeping starts to play._
 
-*Muffled beeping starts to play.*
+**Lili** _(22-May-20 04:50 PM)_
 
-**Lili** *(22-May-20 04:50 PM)*
+_Iris' eyes widen and she reels back._
 
-
-*Iris' eyes widen and she reels back.*
 > Iris: Diver get away from there!
 
-**Trey** *(22-May-20 04:50 PM)*
+**Trey** _(22-May-20 04:50 PM)_
+
 > Garrick: Back up!
 
-**Zander** *(22-May-20 04:50 PM)*
+**Zander** _(22-May-20 04:50 PM)_
+
 > Emmett: I never had this experience, you know.
 
-**Bill** *(22-May-20 04:50 PM)*
+**Bill** _(22-May-20 04:50 PM)_
 
+_Diver, being incredibly stubborn, refuses to move away_
 
-*Diver, being incredibly stubborn, refuses to move away*
+**Brody** _(22-May-20 04:51 PM)_
 
-**Brody** *(22-May-20 04:51 PM)*
 > Sanya: What, pain or horny?
 
-**Zander** *(22-May-20 04:51 PM)*
+**Zander** _(22-May-20 04:51 PM)_
+
 > Emmett: No real grocery stores or family facilities on Vortox-56.
 
-*Emmett ignored her response.*
+_Emmett ignored her response._
 
-**Lili** *(22-May-20 04:51 PM)*
+**Lili** _(22-May-20 04:51 PM)_
 
+_Iris tries to scoop up Diver and take him away from the bomb._
 
-*Iris tries to scoop up Diver and take him away from the bomb.*
+**Brody** _(22-May-20 04:51 PM)_
 
-**Brody** *(22-May-20 04:51 PM)*
 > Sanya: Oh, the counter.
 
-**Trey** *(22-May-20 04:52 PM)*
+**Trey** _(22-May-20 04:52 PM)_
 
+_The pile of trash explodes, with Iris and Diver barely being caught in the blast._
 
-*The pile of trash explodes, with Iris and Diver barely being caught in the blast.*
+**Cooldude** _(22-May-20 04:52 PM)_
 
-**Cooldude** *(22-May-20 04:52 PM)*
+_Wemmfort walks towards the sun, because that's where he assumes they are.\*\*He ends up getting even more lost._
 
+**Zander** _(22-May-20 04:52 PM)_
 
-*Wemmfort walks towards the sun, because that's where he assumes they are.**He ends up getting even more lost.*
-
-**Zander** *(22-May-20 04:52 PM)*
 > Emmett: Are you still on your comms?
 
-**Trey** *(22-May-20 04:52 PM)*
+**Trey** _(22-May-20 04:52 PM)_
 t!roll d20
 
-**Brody** *(22-May-20 04:52 PM)*
+**Brody** _(22-May-20 04:52 PM)_
+
 > Sanya: Oh, I am. Hm.
 
-**Cooldude** *(22-May-20 04:53 PM)*
+**Cooldude** _(22-May-20 04:53 PM)_
 Wemmfort can speak youtube
 
-**Lili** *(22-May-20 04:53 PM)*
+**Lili** _(22-May-20 04:53 PM)_
+
 > Iris: Ouch!
 
-**Zander** *(22-May-20 04:53 PM)*
+**Zander** _(22-May-20 04:53 PM)_
 8ball Does the A Plot involve the cheese ruins, wherein at its heart lies the king, Biggus Cheesus?
 
-**FFBot** *(22-May-20 04:53 PM)*
+**FFBot** _(22-May-20 04:53 PM)_
 As I see it, yes :8ball:
 
-**Bill** *(22-May-20 04:53 PM)*
+**Bill** _(22-May-20 04:53 PM)_
 
+_the explosion brings Burner down from flight_
 
-*the explosion brings Burner down from flight*
+**Lili** _(22-May-20 04:53 PM)_
 
-**Lili** *(22-May-20 04:53 PM)*
 > Iris: Are you okay?
 
-**Lili** *(22-May-20 04:53 PM)*
+**Lili** _(22-May-20 04:53 PM)_
 
+_Iris looks worriedly down at Diver._
 
-*Iris looks worriedly down at Diver.*
+**Trey** _(22-May-20 04:54 PM)_
 
-**Trey** *(22-May-20 04:54 PM)*
 > Garrick: Are YOU okay? Those burns look bad!
 
-**Lili** *(22-May-20 04:54 PM)*
+**Lili** _(22-May-20 04:54 PM)_
+
 > Iris: I've had worse.
 
-**Bill** *(22-May-20 04:54 PM)*
+**Bill** _(22-May-20 04:54 PM)_
+
 > Burner: Diver are you okay?
 
-**Bill** *(22-May-20 04:54 PM)*
+**Bill** _(22-May-20 04:54 PM)_
 
+_Diver quacks, sounding a little dazed_
 
-*Diver quacks, sounding a little dazed*
+**Zander** _(22-May-20 04:55 PM)_
 
-**Zander** *(22-May-20 04:55 PM)*
+_Emmett smiled softly, slowly forgetting his frustrations._
 
-
-*Emmett smiled softly, slowly forgetting his frustrations.*
 > Emmett: Are we done shopping yet, Plant-squom?
 
-**Trey** *(22-May-20 04:55 PM)*
+**Trey** _(22-May-20 04:55 PM)_
 t!choose med kit|water bottle|whole rotisserie chicken|paper shreds
 
-**FFBot** *(22-May-20 04:55 PM)*
-n |  You need to give at least 2 options.
+**FFBot** _(22-May-20 04:55 PM)_
+n | You need to give at least 2 options.
 
-**Trey** *(22-May-20 04:55 PM)*
+**Trey** _(22-May-20 04:55 PM)_
 t!choose med kit | water bottle | whole rotisserie chicken | paper shreds
 
-**FFBot** *(22-May-20 04:55 PM)*
+**FFBot** _(22-May-20 04:55 PM)_
 🤔 | [RP]retribution, I pick med kit
 
-**Brody** *(22-May-20 04:55 PM)*
+**Brody** _(22-May-20 04:55 PM)_
+
 > Sanya: Sure.
 
-**Bill** *(22-May-20 04:55 PM)*
+**Bill** _(22-May-20 04:55 PM)_
+
 > Burner: Wait, why the FUCK were you not using your armor?
 
-**Trey** *(22-May-20 04:55 PM)*
+**Trey** _(22-May-20 04:55 PM)_
+
 > Garrick: Lucky!
 
-**Trey** *(22-May-20 04:55 PM)*
+**Trey** _(22-May-20 04:55 PM)_
 
+_Garrick pulls out a med kit from his pockets._
 
-*Garrick pulls out a med kit from his pockets.*
+**Trey** _(22-May-20 04:55 PM)_
 
-**Trey** *(22-May-20 04:55 PM)*
 > Garrick: I don't know how to use any of this!
 
-**Zander** *(22-May-20 04:56 PM)*
+**Zander** _(22-May-20 04:56 PM)_
+
 > Emmett: You were supposed to say that we were almost finished despite having a million groceries left.
 
-**Bill** *(22-May-20 04:56 PM)*
+**Bill** _(22-May-20 04:56 PM)_
 
+_Diver quacks in response_
 
-*Diver quacks in response*
+**Lili** _(22-May-20 04:56 PM)_
 
-**Lili** *(22-May-20 04:56 PM)*
+_Iris laughs, though it sounds pretty strained._
 
+**Lili** _(22-May-20 04:56 PM)_
 
-*Iris laughs, though it sounds pretty strained.*
-
-**Lili** *(22-May-20 04:56 PM)*
 > Iris: I do.
 
-**Brody** *(22-May-20 04:56 PM)*
+**Brody** _(22-May-20 04:56 PM)_
+
 > Sanya: Oh. Why?
 
-**Bill** *(22-May-20 04:56 PM)*
+**Bill** _(22-May-20 04:56 PM)_
+
 > Burner: What do you mean you didn't think it would be a landmine?!
 
-**Cooldude** *(22-May-20 04:56 PM)*
+**Cooldude** _(22-May-20 04:56 PM)_
 
+_Wemmfort stumbles on the ground from stress on his back and coughs._
 
-*Wemmfort stumbles on the ground from stress on his back and coughs.*
+**Bill** _(22-May-20 04:57 PM)_
 
-**Bill** *(22-May-20 04:57 PM)*
 > Burner: What were you expecting? A lottery ticket?
 
-**Trey** *(22-May-20 04:57 PM)*
+**Trey** _(22-May-20 04:57 PM)_
 
+_Garrick is still paranoid._
 
-*Garrick is still paranoid.*
+**Trey** _(22-May-20 04:57 PM)_
 
-**Trey** *(22-May-20 04:57 PM)*
 > Garrick: Emmett, did you happen to see anyone else down here when you were brooding earlier?
 
-**Bill** *(22-May-20 04:59 PM)*
+**Bill** _(22-May-20 04:59 PM)_
 8ball did the explosion reveal a tunnel?
 
-**FFBot** *(22-May-20 04:59 PM)*
+**FFBot** _(22-May-20 04:59 PM)_
 Most likely :8ball:
 
-**Trey** *(22-May-20 04:59 PM)*
+**Trey** _(22-May-20 04:59 PM)_
 emet
 
-**Zander** *(22-May-20 04:59 PM)*
+**Zander** _(22-May-20 04:59 PM)_
 
+_Emmett's comms are off._
 
-*Emmett's comms are off.*
+**Lili** _(22-May-20 04:59 PM)_
 
-**Lili** *(22-May-20 04:59 PM)*
+_Iris examines her arms with a grimace._
 
-
-*Iris examines her arms with a grimace.*
 > Iris: That's gonna make it hard to make dinner.
 
-**Bill** *(22-May-20 04:59 PM)*
+**Bill** _(22-May-20 04:59 PM)_
 
+_Diver quacks and points with a wing towards a newly opened tunnel_
 
-*Diver quacks and points with a wing towards a newly opened tunnel*
-
-**Cooldude** *(22-May-20 05:00 PM)*
+**Cooldude** _(22-May-20 05:00 PM)_
 I am zander 2 in dotishtale
 
-**Bill** *(22-May-20 05:00 PM)*
+**Bill** _(22-May-20 05:00 PM)_
+
 > Burner: Okay, you found a way out, I'll give you that. Just don't be a dumbass next time.
 
-**Trey** *(22-May-20 05:00 PM)*
+**Trey** _(22-May-20 05:00 PM)_
+
 > Garrick: Sanya. Ask Emmett if we were followed.
 
-**Lili** *(22-May-20 05:00 PM)*
+**Lili** _(22-May-20 05:00 PM)_
 
+_Iris stands, stumbling a bit but catching herself._
 
-*Iris stands, stumbling a bit but catching herself.*
+**Zander** _(22-May-20 05:00 PM)_
 
-**Zander** *(22-May-20 05:00 PM)*
+_The pink blurr is more apparent._
 
+**Trey** _(22-May-20 05:01 PM)_
 
-*The pink blurr is more apparent.*
+_Garrick looks back again, but finds nothing behind them._
 
-**Trey** *(22-May-20 05:01 PM)*
+**Brody** _(22-May-20 05:01 PM)_
 
-
-*Garrick looks back again, but finds nothing behind them.*
-
-**Brody** *(22-May-20 05:01 PM)*
 > Sanya: Emmett, Garrick is asking if you saw anything while brooding.
 
-**Zander** *(22-May-20 05:01 PM)*
+**Zander** _(22-May-20 05:01 PM)_
+
 > Emmett: It's like an Earth family thing. Seth told me of how children don't really like to shop-
 
-**Trey** *(22-May-20 05:01 PM)*
+**Trey** _(22-May-20 05:01 PM)_
+
 > Garrick: This is new. I've never been so paranoid like this before.
 
-**Brody** *(22-May-20 05:01 PM)*
+**Brody** _(22-May-20 05:01 PM)_
+
 > Sanya: You might want to turn your comms back on.
 
-**Zander** *(22-May-20 05:01 PM)*
+**Zander** _(22-May-20 05:01 PM)_
+
 > Emmett: I can't recall.
 
-**Bill** *(22-May-20 05:01 PM)*
+**Bill** _(22-May-20 05:01 PM)_
+
 > Burner: Wait how many of us are there?
 
-**Lili** *(22-May-20 05:02 PM)*
+**Lili** _(22-May-20 05:02 PM)_
+
 > Iris: Uh... four, I think.
 
-**Zander** *(22-May-20 05:02 PM)*
+**Zander** _(22-May-20 05:02 PM)_
+
 > Emmett: And no, I like what we have here.
 
-*Emmett hopped in the cart again.*
+_Emmett hopped in the cart again._
 
-**FFBot** *(22-May-20 05:02 PM)*
+**FFBot** _(22-May-20 05:02 PM)_
 My reply is no :8ball:
 
-**Bill** *(22-May-20 05:02 PM)*
+**Bill** _(22-May-20 05:02 PM)_
+
 > Burner: Well uh, there are 7 living creatures down here, according to my scan.
 
-**Brody** *(22-May-20 05:03 PM)*
+**Brody** _(22-May-20 05:03 PM)_
 8ball Does Sanya return the Cart?
 
-**FFBot** *(22-May-20 05:03 PM)*
+**FFBot** _(22-May-20 05:03 PM)_
 Yes :8ball:
 
-**Lili** *(22-May-20 05:03 PM)*
+**Lili** _(22-May-20 05:03 PM)_
 
+_Iris laughs nervously._
 
-*Iris laughs nervously.*
+**Zander** _(22-May-20 05:03 PM)_
 
-**Zander** *(22-May-20 05:03 PM)*
+_A sudden flash occurred within the ruins, akin to a picture being taken._
 
+**Brody** _(22-May-20 05:03 PM)_
 
-*A sudden flash occurred within the ruins, akin to a picture being taken.*
-
-**Brody** *(22-May-20 05:03 PM)*
 > Sanya: C'mon. We're returning this.
 
-**Zander** *(22-May-20 05:03 PM)*
+**Zander** _(22-May-20 05:03 PM)_
+
 > Emmett: What, you want me to walk?
 
-**Brody** *(22-May-20 05:03 PM)*
+**Brody** _(22-May-20 05:03 PM)_
 
+_Sanya starts the walk to the crater with Emmett in the cart._
 
-*Sanya starts the walk to the crater with Emmett in the cart.*
+**Trey** _(22-May-20 05:03 PM)_
 
-**Trey** *(22-May-20 05:03 PM)*
 > Garrick: WHO'S THERE?
 
-*Garrick snaps back around.*
+_Garrick snaps back around._
 
-**Bill** *(22-May-20 05:04 PM)*
+**Bill** _(22-May-20 05:04 PM)_
 
+_The ducks' armor immediately snap shut_
 
-*The ducks' armor immediately snap shut*
+**Bill** _(22-May-20 05:04 PM)_
 
-**Bill** *(22-May-20 05:04 PM)*
 > Burner: What the fuck was that?
 
-**Trey** *(22-May-20 05:04 PM)*
+**Trey** _(22-May-20 05:04 PM)_
 
+_Garrick pulls out a laser pistol._
 
-*Garrick pulls out a laser pistol.*
+**Lili** _(22-May-20 05:04 PM)_
 
-**Lili** *(22-May-20 05:04 PM)*
+_Iris smiles nervously._
 
+**Lili** _(22-May-20 05:04 PM)_
 
-*Iris smiles nervously.*
-
-**Lili** *(22-May-20 05:04 PM)*
 > Iris: Am I the only one here with a lot of enemies, or...?
 
-**Bill** *(22-May-20 05:05 PM)*
+**Bill** _(22-May-20 05:05 PM)_
 
+_Diver begins growling loudly_
 
-*Diver begins growling loudly*
+**Lili** _(22-May-20 05:05 PM)_
 
-**Lili** *(22-May-20 05:05 PM)*
+_She pulls out her dagger._
 
+**Zander** _(22-May-20 05:05 PM)_
 
-*She pulls out her dagger.*
+_Garrick somehow had some moisture on him, as if something gave him a quick and sloppy lick._
 
-**Zander** *(22-May-20 05:05 PM)*
+**Trey** _(22-May-20 05:05 PM)_
 
-
-*Garrick somehow had some moisture on him, as if something gave him a quick and sloppy lick.*
-
-**Trey** *(22-May-20 05:05 PM)*
 > Garrick: Come out! I'll-
 
-**Lili** *(22-May-20 05:06 PM)*
+**Lili** _(22-May-20 05:06 PM)_
 8ball do the people come out
 
-**FFBot** *(22-May-20 05:06 PM)*
+**FFBot** _(22-May-20 05:06 PM)_
 My sources say no :8ball:
 
-**Trey** *(22-May-20 05:06 PM)*
+**Trey** _(22-May-20 05:06 PM)_
 
+_Garrick shudders, clearly shocked that he was somehow touched._
 
-*Garrick shudders, clearly shocked that he was somehow touched.*
-
-**Cooldude** *(22-May-20 05:06 PM)*
+**Cooldude** _(22-May-20 05:06 PM)_
 He's lost
 
-**Zander** *(22-May-20 05:06 PM)*
+**Zander** _(22-May-20 05:06 PM)_
+
 > Emmett: "Garrrrick...."
 
-**Lili** *(22-May-20 05:06 PM)*
+**Lili** _(22-May-20 05:06 PM)_
+
 > Iris: Garrick are you okay?
 
-**Trey** *(22-May-20 05:07 PM)*
+**Trey** _(22-May-20 05:07 PM)_
 
+_Garrick looks around, pointing his gun outwards, trying to find the source._
 
-*Garrick looks around, pointing his gun outwards, trying to find the source.*
+**Zander** _(22-May-20 05:07 PM)_
 
-**Zander** *(22-May-20 05:07 PM)*
 > Emmett: Sanya, you should seriously see my hooves.
 
-*Emmett, bored from Sanya's idleness, pushed his feet in her face.*
+_Emmett, bored from Sanya's idleness, pushed his feet in her face._
 
-**Trey** *(22-May-20 05:07 PM)*
+**Trey** _(22-May-20 05:07 PM)_
+
 > Garrick: Come on! I'll take you on!
 
-**Bill** *(22-May-20 05:08 PM)*
+**Bill** _(22-May-20 05:08 PM)_
 
+_Burner's rifle pops out_
 
-*Burner's rifle pops out*
+**Zander** _(22-May-20 05:08 PM)_
 
-**Zander** *(22-May-20 05:08 PM)*
 > Emmett: "Oh... how quaint..."
 
-**Brody** *(22-May-20 05:08 PM)*
+**Brody** _(22-May-20 05:08 PM)_
+
 > Sanya: I'm trying to steer this thing to the crater. I can't do that with your hooves in my face.
 
-**Zander** *(22-May-20 05:08 PM)*
+**Zander** _(22-May-20 05:08 PM)_
 
+_A vacuum cleaner turns on in the distance._
 
-*A vacuum cleaner turns on in the distance.*
+**Bill** _(22-May-20 05:08 PM)_
 
-**Bill** *(22-May-20 05:08 PM)*
 > Burner: When the ghost is losing it, you know something bad is happening
 
-**Lili** *(22-May-20 05:08 PM)*
+**Lili** _(22-May-20 05:08 PM)_
 
+_Iris holds her dagger steady, eyes scanning for danger._
 
-*Iris holds her dagger steady, eyes scanning for danger.*
+**Lili** _(22-May-20 05:08 PM)_
 
-**Lili** *(22-May-20 05:08 PM)*
 > Iris: This could be worse.
 
-**Zander** *(22-May-20 05:09 PM)*
+**Zander** _(22-May-20 05:09 PM)_
+
 > Emmett: Have you ever admired my hooves though? They're very smooth. I take care of them diligently.
 
-**Lili** *(22-May-20 05:09 PM)*
+**Lili** _(22-May-20 05:09 PM)_
+
 > Iris: We could have no idea how to get out of here.
 
-**Zander** *(22-May-20 05:09 PM)*
+**Zander** _(22-May-20 05:09 PM)_
+
 > Emmett: "I've been watching you for a loooooooong time."
 
-**Bill** *(22-May-20 05:09 PM)*
+**Bill** _(22-May-20 05:09 PM)_
+
 > Burner: Lets get the ghost back then get out of here, I'm in no mood for a fight
 
-**Brody** *(22-May-20 05:09 PM)*
+**Brody** _(22-May-20 05:09 PM)_
+
 > Sanya: That's great Emmett, please get them out of my face.
 
-**Trey** *(22-May-20 05:10 PM)*
+**Trey** _(22-May-20 05:10 PM)_
+
 > Garrick: What's your deal? Did I rob you or something?
 
-**Lili** *(22-May-20 05:10 PM)*
+**Lili** _(22-May-20 05:10 PM)_
+
 > Iris: Garrick we should go.
 
-**Trey** *(22-May-20 05:10 PM)*
+**Trey** _(22-May-20 05:10 PM)_
+
 > Garrick: If you've got a grudge, we can settle it right now!
 
-**Zander** *(22-May-20 05:10 PM)*
+**Zander** _(22-May-20 05:10 PM)_
 
+_Emmett got them out of her face and rested them on her shoulders, his horns propping him atop of the grate of the shopping cart._
 
-*Emmett got them out of her face and rested them on her shoulders, his horns propping him atop of the grate of the shopping cart.*
+**Zander** _(22-May-20 05:10 PM)_
 
-**Zander** *(22-May-20 05:10 PM)*
 > Emmett: "What do you want most in life, ghost?"
 
-**Bill** *(22-May-20 05:11 PM)*
+**Bill** _(22-May-20 05:11 PM)_
+
 > Burner: Gary, we need to go.
 
-**Trey** *(22-May-20 05:11 PM)*
+**Trey** _(22-May-20 05:11 PM)_
 
+_Garrick has an arrogant look on his face._
 
-*Garrick has an arrogant look on his face.*
+**Trey** _(22-May-20 05:11 PM)_
 
-**Trey** *(22-May-20 05:11 PM)*
 > Garrick: Right now, I want you to piss off.
 
-**Cooldude** *(22-May-20 05:12 PM)*
+**Cooldude** _(22-May-20 05:12 PM)_
 8ball does wemmfort sink into the ground and find the crew?
 
-**FFBot** *(22-May-20 05:12 PM)*
+**FFBot** _(22-May-20 05:12 PM)_
 Without a doubt :8ball:
 
-**Lili** *(22-May-20 05:12 PM)*
+**Lili** _(22-May-20 05:12 PM)_
 
+_Iris sighs helplessly._
 
-*Iris sighs helplessly.*
+**Lili** _(22-May-20 05:12 PM)_
 
-**Lili** *(22-May-20 05:12 PM)*
 > Iris: Y'know what? Screw it.
 
-**Zander** *(22-May-20 05:13 PM)*
+**Zander** _(22-May-20 05:13 PM)_
+
 > Emmett: I'm really a work of art.
 
-*Emmett tossed his shirt at Sanya's face, the cart nearing the crater.*
+_Emmett tossed his shirt at Sanya's face, the cart nearing the crater._
 
-**Lili** *(22-May-20 05:13 PM)*
+**Lili** _(22-May-20 05:13 PM)_
 8ball do they come out yet
 
-**FFBot** *(22-May-20 05:13 PM)*
+**FFBot** _(22-May-20 05:13 PM)_
 Yes :8ball:
 
-**Bill** *(22-May-20 05:13 PM)*
+**Bill** _(22-May-20 05:13 PM)_
+
 > Burner: Anyone else see the person COMING OUT OF THER FUCKING WALL?
 
-**Cooldude** *(22-May-20 05:13 PM)*
+**Cooldude** _(22-May-20 05:13 PM)_
 
+_Wemmfort sinks into the trash-ridden ground, and is now where his crew members are._
 
-*Wemmfort sinks into the trash-ridden ground, and is now where his crew members are.*
-
-**Zander** *(22-May-20 05:14 PM)*
+**Zander** _(22-May-20 05:14 PM)_
 8ball Does the pink being reveal herself?
 
-**FFBot** *(22-May-20 05:14 PM)*
+**FFBot** _(22-May-20 05:14 PM)_
 Very doubtful :8ball:
 
-**Lili** *(22-May-20 05:14 PM)*
+**Lili** _(22-May-20 05:14 PM)_
+
 > Iris: You get used to it!
 
-**Brody** *(22-May-20 05:14 PM)*
+**Brody** _(22-May-20 05:14 PM)_
+
 > Sanya: Put your shirt back on.
 
-*She throws it back at him*
+_She throws it back at him_
 
-**Zander** *(22-May-20 05:14 PM)*
+**Zander** _(22-May-20 05:14 PM)_
+
 > Emmett: "Come on. Guess who it is."
 
-**Zander** *(22-May-20 05:14 PM)*
+**Zander** _(22-May-20 05:14 PM)_
+
 > Emmett: Paint me, plant woman.
 
-**Bill** *(22-May-20 05:14 PM)*
+**Bill** _(22-May-20 05:14 PM)_
+
 > Burner: You! From the wall! Identify yourself!
 
-**Cooldude** *(22-May-20 05:14 PM)*
+**Cooldude** _(22-May-20 05:14 PM)_
+
 > Wemmfort: Let me guess. korbo? the pink guy who sucks people for money?
 
-**Trey** *(22-May-20 05:14 PM)*
+**Trey** _(22-May-20 05:14 PM)_
+
 > Garrick: You expect me to remember all the names of my targets?
 
-**Brody** *(22-May-20 05:15 PM)*
+**Brody** _(22-May-20 05:15 PM)_
+
 > Sanya: I can't paint. Art was never a strong suit.
 
-**Lili** *(22-May-20 05:15 PM)*
+**Lili** _(22-May-20 05:15 PM)_
 
+_Iris snorts._
 
-*Iris snorts.*
+**Zander** _(22-May-20 05:15 PM)_
 
-**Zander** *(22-May-20 05:15 PM)*
+_Emmett looked down at his chest, regaining a bit of his self-confidence._
 
+**Lili** _(22-May-20 05:15 PM)_
 
-*Emmett looked down at his chest, regaining a bit of his self-confidence.*
-
-**Lili** *(22-May-20 05:15 PM)*
 > Iris: Hey, guys... weren't there three extra people in here?
 
-**Zander** *(22-May-20 05:16 PM)*
+**Zander** _(22-May-20 05:16 PM)_
+
 > Emmett: Sanya, what would you do if I threw my pants at you?
 
-**Bill** *(22-May-20 05:16 PM)*
+**Bill** _(22-May-20 05:16 PM)_
+
 > Burner: I think we just found one
 
-**Brody** *(22-May-20 05:16 PM)*
+**Brody** _(22-May-20 05:16 PM)_
+
 > Sanya: Throw them away and make you go naked.
 
-**Bill** *(22-May-20 05:16 PM)*
+**Bill** _(22-May-20 05:16 PM)_
+
 > Burner: Two more apparently
 
-**Zander** *(22-May-20 05:17 PM)*
+**Zander** _(22-May-20 05:17 PM)_
+
 > Emmett: I mean, you'd want to put the crew at risk of getting distracted by my hot bod?
 
-**Bill** *(22-May-20 05:17 PM)*
+**Bill** _(22-May-20 05:17 PM)_
+
 > Burner: We still don't know if Mr.Wall is friendly or not, do we?
 
-**Trey** *(22-May-20 05:17 PM)*
+**Trey** _(22-May-20 05:17 PM)_
 8ball does Garrick start shooting sporadically
 
-**FFBot** *(22-May-20 05:17 PM)*
+**FFBot** _(22-May-20 05:17 PM)_
 Without a doubt :8ball:
 
-**Lili** *(22-May-20 05:17 PM)*
+**Lili** _(22-May-20 05:17 PM)_
+
 > Iris: Please don't let any of them be from the group that blew up my planet.
 
-**Brody** *(22-May-20 05:17 PM)*
+**Brody** _(22-May-20 05:17 PM)_
+
 > Sanya: You might catch some unwanted attention.
 
-**Zander** *(22-May-20 05:17 PM)*
+**Zander** _(22-May-20 05:17 PM)_
+
 > Emmett: "Oh come on, Garrick. I'll give you a hint."
 
-**Bill** *(22-May-20 05:17 PM)*
+**Bill** _(22-May-20 05:17 PM)_
+
 > Burner: Get to cover he's actually lost it!
 
-**Zander** *(22-May-20 05:18 PM)*
+**Zander** _(22-May-20 05:18 PM)_
 
+_The being flashed ahead of him._
 
-*The being flashed ahead of him.*
-
-**Cooldude** *(22-May-20 05:18 PM)*
+**Cooldude** _(22-May-20 05:18 PM)_
 Came out of the floor, actually
 
-**Bill** *(22-May-20 05:18 PM)*
+**Bill** _(22-May-20 05:18 PM)_
 
+_The ducks dive for cover_
 
-*The ducks dive for cover*
+**Zander** _(22-May-20 05:18 PM)_
 
-**Zander** *(22-May-20 05:18 PM)*
 > Emmett: "I'm a ghost too!"
 
-**Bill** *(22-May-20 05:18 PM)*
+**Bill** _(22-May-20 05:18 PM)_
 8ball does the monster reveal itself to the others?
 
-**FFBot** *(22-May-20 05:18 PM)*
+**FFBot** _(22-May-20 05:18 PM)_
 My reply is no :8ball:
 
-**Zander** *(22-May-20 05:19 PM)*
+**Zander** _(22-May-20 05:19 PM)_
 
+_Emmett tossed his pants at Sanya, seriously trying to get her to mess with him._
 
-*Emmett tossed his pants at Sanya, seriously trying to get her to mess with him.*
-
-**Brody** *(22-May-20 05:19 PM)*
+**Brody** _(22-May-20 05:19 PM)_
 8ball Does Sanya & Cart fall into the pit?
 
-**FFBot** *(22-May-20 05:19 PM)*
+**FFBot** _(22-May-20 05:19 PM)_
 As I see it, yes :8ball:
 
-**Trey** *(22-May-20 05:19 PM)*
+**Trey** _(22-May-20 05:19 PM)_
+
 > Garrick: Well, that narrows it down, but I don't remember any pink ghosts!
 
-**Zander** *(22-May-20 05:19 PM)*
+**Zander** _(22-May-20 05:19 PM)_
+
 > Emmett: "And I have a clubhouse, Garrick."
 
-**Brody** *(22-May-20 05:19 PM)*
+**Brody** _(22-May-20 05:19 PM)_
+
 > Sanya: Emmett, you-
 
-**Cooldude** *(22-May-20 05:19 PM)*
+**Cooldude** _(22-May-20 05:19 PM)_
+
 > Wemmfort: Is he still drunk?
 
-**Lili** *(22-May-20 05:20 PM)*
+**Lili** _(22-May-20 05:20 PM)_
+
 > Iris: Garrick we cant fight ghosts like you can, we need to go.
 
-**Zander** *(22-May-20 05:20 PM)*
+**Zander** _(22-May-20 05:20 PM)_
 
+_Emmett is startled by the sudden descent and he latches onto Sanya._
 
-*Emmett is startled by the sudden descent and he latches onto Sanya.*
 > Emmett: Sanya, aim for that cushiony area!
 
-**Trey** *(22-May-20 05:21 PM)*
+**Trey** _(22-May-20 05:21 PM)_
+
 > Garrick: Then get outta here!
 
-**Zander** *(22-May-20 05:21 PM)*
+**Zander** _(22-May-20 05:21 PM)_
+
 > Emmett: "You joined it when we were just little kids."
 
-**Lili** *(22-May-20 05:21 PM)*
+**Lili** _(22-May-20 05:21 PM)_
 
+_Iris rolls her eyes._
 
-*Iris rolls her eyes.*
+**Trey** _(22-May-20 05:21 PM)_
 
-**Trey** *(22-May-20 05:21 PM)*
 > Garrick: Now I know someone's following me.
 
-**Lili** *(22-May-20 05:21 PM)*
+**Lili** _(22-May-20 05:21 PM)_
+
 > Iris: Like I'm just gonna leave without you.
 
-**Zander** *(22-May-20 05:21 PM)*
+**Zander** _(22-May-20 05:21 PM)_
+
 > Emmett: "And I've been trying to find you ever since."
 
-**Brody** *(22-May-20 05:21 PM)*
+**Brody** _(22-May-20 05:21 PM)_
 
+_Sanya lands in the soft spot with a thud, despite it being soft._
 
-*Sanya lands in the soft spot with a thud, despite it being soft.*
+**Brody** _(22-May-20 05:21 PM)_
 
-**Brody** *(22-May-20 05:21 PM)*
 > Sanya: Ow.
 
-**Trey** *(22-May-20 05:22 PM)*
+**Trey** _(22-May-20 05:22 PM)_
+
 > Garrick: That doesn't even make any sense!
 
-**Zander** *(22-May-20 05:22 PM)*
+**Zander** _(22-May-20 05:22 PM)_
+
 > Emmett: "You didn't receive your reward!"
 
-**Bill** *(22-May-20 05:22 PM)*
+**Bill** _(22-May-20 05:22 PM)_
+
 > Burner: At this point we should just go
 
-**Brody** *(22-May-20 05:22 PM)*
+**Brody** _(22-May-20 05:22 PM)_
+
 > Sanya: Hey, we fell, where are you?
 
-**Cooldude** *(22-May-20 05:23 PM)*
+**Cooldude** _(22-May-20 05:23 PM)_
 8ball is wemmfort here with everyone?
 
-**FFBot** *(22-May-20 05:23 PM)*
+**FFBot** _(22-May-20 05:23 PM)_
 My sources say no :8ball:
 
-**Zander** *(22-May-20 05:23 PM)*
+**Zander** _(22-May-20 05:23 PM)_
 
+_Emmett was shivering from the depths._
 
-*Emmett was shivering from the depths.*
+**Lili** _(22-May-20 05:23 PM)_
 
-**Lili** *(22-May-20 05:23 PM)*
 > Iris: backup, we need immediate backup.
 
-**Brody** *(22-May-20 05:23 PM)*
+**Brody** _(22-May-20 05:23 PM)_
+
 > Sanya: Then tell us where you are.
 
-**Zander** *(22-May-20 05:23 PM)*
+**Zander** _(22-May-20 05:23 PM)_
+
 > Emmett: I swear, I choose the worst times to mess around.
 
-**Bill** *(22-May-20 05:24 PM)*
+**Bill** _(22-May-20 05:24 PM)_
+
 > Burner: If we're staying can we at least know what's causing the ghost to go mad?
 
-**Lili** *(22-May-20 05:24 PM)*
+**Lili** _(22-May-20 05:24 PM)_
 8ball does Iris suddenly have the ability to punch ghosts
 
-**FFBot** *(22-May-20 05:24 PM)*
+**FFBot** _(22-May-20 05:24 PM)_
 Yes, definitely :8ball:
 
-**Zander** *(22-May-20 05:24 PM)*
+**Zander** _(22-May-20 05:24 PM)_
 8ball Does the being now reveal herself to Garrick?
 
-**FFBot** *(22-May-20 05:24 PM)*
+**FFBot** _(22-May-20 05:24 PM)_
 Outlook not so good :8ball:
 
-**Brody** *(22-May-20 05:24 PM)*
+**Brody** _(22-May-20 05:24 PM)_
+
 > Sanya: Are you people even listening?
 
-**Lili** *(22-May-20 05:25 PM)*
+**Lili** _(22-May-20 05:25 PM)_
+
 > Iris: Forward! We're forward!
 
-**Brody** *(22-May-20 05:25 PM)*
+**Brody** _(22-May-20 05:25 PM)_
+
 > Sanya: Come on, Emmett. We're heading down the cave.
 
-**Cooldude** *(22-May-20 05:25 PM)*
+**Cooldude** _(22-May-20 05:25 PM)_
 
+_wemmfort figures out that he in fact isn't with the crew. The fake crew reveals themselves as bemmit, shangya, Lyrus, Deevrr, Burngner, and Garry Hickman._
 
-*wemmfort figures out that he in fact isn't with the crew. The fake crew reveals themselves as bemmit, shangya, Lyrus, Deevrr, Burngner, and Garry Hickman.*
+**Zander** _(22-May-20 05:25 PM)_
 
-**Zander** *(22-May-20 05:25 PM)*
+_The pink ghost shows herself to Garrick, with a visible Mickey Mouse mask and all._
 
-
-*The pink ghost shows herself to Garrick, with a visible Mickey Mouse mask and all.*
 > Emmett: "It's yo' boy, Gretta!"
 
-**Brody** *(22-May-20 05:25 PM)*
+**Brody** _(22-May-20 05:25 PM)_
 
+_Sanya grabs Emmett and starts running._
 
-*Sanya grabs Emmett and starts running.*
+**Zander** _(22-May-20 05:26 PM)_
 
-**Zander** *(22-May-20 05:26 PM)*
 > Emmett: I'm f-freezing!
 
-**Cooldude** *(22-May-20 05:26 PM)*
+**Cooldude** _(22-May-20 05:26 PM)_
+
 > Wemmfort: You people are incorrect.
 
-*Wemmfort starts to find the real crew.*
+_Wemmfort starts to find the real crew._
 
-**Trey** *(22-May-20 05:26 PM)*
+**Trey** _(22-May-20 05:26 PM)_
+
 > Garrick: What's your problem??
 
-**Trey** *(22-May-20 05:26 PM)*
+**Trey** _(22-May-20 05:26 PM)_
+
 > Garrick: What do you want from me?
 
-**Brody** *(22-May-20 05:26 PM)*
+**Brody** _(22-May-20 05:26 PM)_
+
 > Sanya: Next time, keep your clothes on.
 
-**Brody** *(22-May-20 05:26 PM)*
+**Brody** _(22-May-20 05:26 PM)_
+
 > Sanya: We're nearly there.
 
-**Zander** *(22-May-20 05:27 PM)*
+**Zander** _(22-May-20 05:27 PM)_
+
 > Emmett: "I love you Garrick! I always have!"
 
-**Cooldude** *(22-May-20 05:27 PM)*
+**Cooldude** _(22-May-20 05:27 PM)_
+
 > Wemmfort: I might have swallowed some grass while coming down here.
 
-**Bill** *(22-May-20 05:27 PM)*
+**Bill** _(22-May-20 05:27 PM)_
 
+_The ducks have moved to the tunnel entrance waiting to see what happens next_
 
-*The ducks have moved to the tunnel entrance waiting to see what happens next*
+**Trey** _(22-May-20 05:27 PM)_
 
-**Trey** *(22-May-20 05:27 PM)*
 > Garrick: Well, at least you answered and stopped being cryptic.
 
-**Zander** *(22-May-20 05:27 PM)*
+**Zander** _(22-May-20 05:27 PM)_
+
 > Emmett: Well, I still am a little tipsy. I hid it well from you though.
 
-**Lili** *(22-May-20 05:27 PM)*
+**Lili** _(22-May-20 05:27 PM)_
+
 > Iris: Oh, that's an unexpected twist.
 
-**Brody** *(22-May-20 05:27 PM)*
+**Brody** _(22-May-20 05:27 PM)_
 
+_Sanya and a naked Emmett arrive to meet the rest of the crew._
 
-*Sanya and a naked Emmett arrive to meet the rest of the crew.*
+**Zander** _(22-May-20 05:28 PM)_
 
-**Zander** *(22-May-20 05:28 PM)*
 > Emmett: Plus, I didn't think you were such a reckless cart driver!
 
-**Brody** *(22-May-20 05:28 PM)*
+**Brody** _(22-May-20 05:28 PM)_
+
 > Sanya: Sorry, what did we miss?
 
-**Zander** *(22-May-20 05:28 PM)*
+**Zander** _(22-May-20 05:28 PM)_
+
 > Emmett: Let me push you around like a kid!
 
-**Lili** *(22-May-20 05:28 PM)*
+**Lili** _(22-May-20 05:28 PM)_
+
 > Iris: Yeah but who was the other person?
 
-**Cooldude** *(22-May-20 05:28 PM)*
+**Cooldude** _(22-May-20 05:28 PM)_
 
+_wemmfort falls on the ground and hallucinates himself convulsing into the air._
 
-*wemmfort falls on the ground and hallucinates himself convulsing into the air.*
+**Brody** _(22-May-20 05:28 PM)_
 
-**Brody** *(22-May-20 05:28 PM)*
 > Sanya: Reckless? I couldn't see! Your pants were in my face!
 
-**Cooldude** *(22-May-20 05:28 PM)*
+**Cooldude** _(22-May-20 05:28 PM)_
 cause he ate grass
 
-**Trey** *(22-May-20 05:28 PM)*
+**Trey** _(22-May-20 05:28 PM)_
 8ball does garrick load his pistol with spectral bullets behind his back
 
-**FFBot** *(22-May-20 05:28 PM)*
+**FFBot** _(22-May-20 05:28 PM)_
 It is certain :8ball:
 
-**Zander** *(22-May-20 05:28 PM)*
+**Zander** _(22-May-20 05:28 PM)_
+
 > Emmett: Where are my pants?
 
-**Brody** *(22-May-20 05:29 PM)*
+**Brody** _(22-May-20 05:29 PM)_
+
 > Sanya: No idea.
 
-**Trey** *(22-May-20 05:29 PM)*
+**Trey** _(22-May-20 05:29 PM)_
+
 > Garrick: Well, bad news, lady.
 
-**Zander** *(22-May-20 05:29 PM)*
+**Zander** _(22-May-20 05:29 PM)_
+
 > Emmett: "I can see right through you, future boyfriend!"
 
-**Cooldude** *(22-May-20 05:29 PM)*
+**Cooldude** _(22-May-20 05:29 PM)_
 Where has seth been all this time?
 
-**Zander** *(22-May-20 05:29 PM)*
+**Zander** _(22-May-20 05:29 PM)_
+
 > Emmett: "I replaced your pistol with a nerf gun!"
 
-**Trey** *(22-May-20 05:29 PM)*
-> Garrick: Even if I *was* into you, the whole stalking thing is a bit of a turn-off.
+**Trey** _(22-May-20 05:29 PM)_
 
-**Brody** *(22-May-20 05:30 PM)*
+> Garrick: Even if I _was_ into you, the whole stalking thing is a bit of a turn-off.
+
+**Brody** _(22-May-20 05:30 PM)_
+
 > Sanya: What is happening?
 
-**Bill** *(22-May-20 05:30 PM)*
+**Bill** _(22-May-20 05:30 PM)_
 8ball does Garrick have explosive nerf darts in his pocket dimension?
 
-**FFBot** *(22-May-20 05:30 PM)*
+**FFBot** _(22-May-20 05:30 PM)_
 Very doubtful :8ball:
 
-**Trey** *(22-May-20 05:30 PM)*
+**Trey** _(22-May-20 05:30 PM)_
 
+_Garrick tries to shoot at the other ghost, but it shoots a foam bullet instead._
 
-*Garrick tries to shoot at the other ghost, but it shoots a foam bullet instead.*
+**Trey** _(22-May-20 05:30 PM)_
 
-**Trey** *(22-May-20 05:30 PM)*
 > Garrick: ...oh.
 
-**Brody** *(22-May-20 05:30 PM)*
+**Brody** _(22-May-20 05:30 PM)_
+
 > Sanya: Nice shot.
 
-**Cooldude** *(22-May-20 05:31 PM)*
+**Cooldude** _(22-May-20 05:31 PM)_
+
 > Wemmfort: Woah, it's a mythical Squeaky Chicken!> Wemmfort: "Dig! Dig!"> Wemmfort: It's really real!
 
-**Zander** *(22-May-20 05:31 PM)*
+**Zander** _(22-May-20 05:31 PM)_
 
+_Emmett leans on Sanya and watches the awkward ghost conversation._
 
-*Emmett leans on Sanya and watches the awkward ghost conversation.*
+**Trey** _(22-May-20 05:31 PM)_
 
-**Trey** *(22-May-20 05:31 PM)*
 > Garrick: How about helping us out, Sanya?
 
-**Lili** *(22-May-20 05:31 PM)*
+**Lili** _(22-May-20 05:31 PM)_
 
+_Iris accidentally punches Garrick's arm._
 
-*Iris accidentally punches Garrick's arm.*
-
-**Cooldude** *(22-May-20 05:31 PM)*
+**Cooldude** _(22-May-20 05:31 PM)_
 wemmfort's having a grass trip
 
-**Zander** *(22-May-20 05:31 PM)*
+**Zander** _(22-May-20 05:31 PM)_
 
+_The pink ghost takes out a real ghost weapon._
 
-*The pink ghost takes out a real ghost weapon.*
+**Zander** _(22-May-20 05:31 PM)_
 
-**Zander** *(22-May-20 05:31 PM)*
 > Emmett: "Now love me or perish."
 
-**Trey** *(22-May-20 05:32 PM)*
+**Trey** _(22-May-20 05:32 PM)_
 
+_Garrick approaches the pink ghost._
 
-*Garrick approaches the pink ghost.*
+**Lili** _(22-May-20 05:32 PM)_
 
-**Lili** *(22-May-20 05:32 PM)*
 > Iris: Should I leave them be or should I help?
 
-**Zander** *(22-May-20 05:32 PM)*
+**Zander** _(22-May-20 05:32 PM)_
 
+_The pink ghost mimics Garrick's apparel._
 
-*The pink ghost mimics Garrick's apparel.*
-
-**Trey** *(22-May-20 05:32 PM)*
+**Trey** _(22-May-20 05:32 PM)_
 t!roll d20
 
-**Trey** *(22-May-20 05:33 PM)*
+**Trey** _(22-May-20 05:33 PM)_
 
+_Garrick punches the pink ghost._
 
-*Garrick punches the pink ghost.*
+**Lili** _(22-May-20 05:33 PM)_
 
-**Lili** *(22-May-20 05:33 PM)*
 > Iris: Garrick! Do you want me to help?
 
-**Trey** *(22-May-20 05:33 PM)*
+**Trey** _(22-May-20 05:33 PM)_
 
+_She is not knocked unconscious, but the pistol is knocked out of her hand._
 
-*She is not knocked unconscious, but the pistol is knocked out of her hand.*
+**Brody** _(22-May-20 05:33 PM)_
 
-**Brody** *(22-May-20 05:33 PM)*
 > Sanya: Oh, throwing a punch.
 
-**Trey** *(22-May-20 05:33 PM)*
+**Trey** _(22-May-20 05:33 PM)_
+
 > Garrick: Yes! Grab the gun please!
 
-**Lili** *(22-May-20 05:33 PM)*
+**Lili** _(22-May-20 05:33 PM)_
 
+_Iris shrugs and grabs the gun._
 
-*Iris shrugs and grabs the gun.*
+**Zander** _(22-May-20 05:33 PM)_
 
-**Zander** *(22-May-20 05:33 PM)*
+_Suddenly, Garrick felt a punch from nowhere._
 
-
-*Suddenly, Garrick felt a punch from nowhere.*
 > Emmett: "I'm you, but female, Garrick."
 
-**Brody** *(22-May-20 05:33 PM)*
+**Brody** _(22-May-20 05:33 PM)_
+
 > Sanya: How does that work with no arms?
 
-**Brody** *(22-May-20 05:33 PM)*
+**Brody** _(22-May-20 05:33 PM)_
 
+_The fuck is happening?_
 
-*The fuck is happening?*
+**Lili** _(22-May-20 05:34 PM)_
 
-**Lili** *(22-May-20 05:34 PM)*
 > Iris: Can I punch her?
 
-**Zander** *(22-May-20 05:34 PM)*
+**Zander** _(22-May-20 05:34 PM)_
+
 > Emmett: "Punch me and you punch Garrick."
 
-**Trey** *(22-May-20 05:35 PM)*
+**Trey** _(22-May-20 05:35 PM)_
+
 > Garrick: Ow!
 
-**Zander** *(22-May-20 05:35 PM)*
+**Zander** _(22-May-20 05:35 PM)_
+
 > Emmett: Sanya, you want to go grab some food or something?
 
-**Lili** *(22-May-20 05:35 PM)*
+**Lili** _(22-May-20 05:35 PM)_
+
 > Iris: ...yeah that's why I'm asking Garrick for permission.
 
-**Zander** *(22-May-20 05:35 PM)*
+**Zander** _(22-May-20 05:35 PM)_
+
 > Emmett: I have Olag on the phone.
 
-**Trey** *(22-May-20 05:35 PM)*
+**Trey** _(22-May-20 05:35 PM)_
+
 > Garrick: What'd you do to me??
 
-**Zander** *(22-May-20 05:35 PM)*
+**Zander** _(22-May-20 05:35 PM)_
+
 > Emmett: He's saying the ship's fixed.
 
-**Zander** *(22-May-20 05:35 PM)*
+**Zander** _(22-May-20 05:35 PM)_
+
 > Emmett: "I licked myself because I was drenched in piss."
 
-**Brody** *(22-May-20 05:35 PM)*
+**Brody** _(22-May-20 05:35 PM)_
+
 > Sanya: Oh? Great, we can finally leave this place.
 
-**Lili** *(22-May-20 05:36 PM)*
+**Lili** _(22-May-20 05:36 PM)_
+
 > Iris: Gross.
 
-**Brody** *(22-May-20 05:36 PM)*
+**Brody** _(22-May-20 05:36 PM)_
+
 > Sanya: Garrick, hurry up. The ship's fixed.
 
-**Zander** *(22-May-20 05:36 PM)*
+**Zander** _(22-May-20 05:36 PM)_
+
 > Emmett: Sanya, let's just go. Let them solve their problems.
 
-**Trey** *(22-May-20 05:36 PM)*
+**Trey** _(22-May-20 05:36 PM)_
+
 > Garrick: I'm in the middle of something right now.
 
-**Brody** *(22-May-20 05:37 PM)*
+**Brody** _(22-May-20 05:37 PM)_
+
 > Sanya: How are we getting out?
 
-**Zander** *(22-May-20 05:37 PM)*
+**Zander** _(22-May-20 05:37 PM)_
+
 > Emmett: I'm cold, wet, still a bit horny, and hungry. That's too many adjectives for me.
 
-**Bill** *(22-May-20 05:37 PM)*
+**Bill** _(22-May-20 05:37 PM)_
+
 > Burner: How about this tunnel everyone seems to have forgotten?
 
-**Lili** *(22-May-20 05:37 PM)*
+**Lili** _(22-May-20 05:37 PM)_
+
 > Iris: Wait if someone hits Garrick wouldn't that hurt you too?
 
-**Zander** *(22-May-20 05:38 PM)*
+**Zander** _(22-May-20 05:38 PM)_
 8ball Is the tunnel marked, in Olag's writing, "EXIT"?
 
-**FFBot** *(22-May-20 05:38 PM)*
+**FFBot** _(22-May-20 05:38 PM)_
 My sources say no :8ball:
 
-**Zander** *(22-May-20 05:38 PM)*
+**Zander** _(22-May-20 05:38 PM)_
+
 > Emmett: Just go that way. I want to take a shower.
 
-**Sean** *(22-May-20 05:38 PM)*
+**Sean** _(22-May-20 05:38 PM)_
 Work boring
 
-**Trey** *(22-May-20 05:38 PM)*
+**Trey** _(22-May-20 05:38 PM)_
+
 > Garrick: Iris, did she stick something on me earlier? Did I get bugged?
 
-**Bill** *(22-May-20 05:38 PM)*
+**Bill** _(22-May-20 05:38 PM)_
+
 > Burner: Anyone know if the ghost can get high?
 
-**Lili** *(22-May-20 05:38 PM)*
+**Lili** _(22-May-20 05:38 PM)_
+
 > Iris: uh, do you want me to check?
 
-**Trey** *(22-May-20 05:39 PM)*
+**Trey** _(22-May-20 05:39 PM)_
+
 > Garrick: Yes.
 
-**Trey** *(22-May-20 05:39 PM)*
+**Trey** _(22-May-20 05:39 PM)_
+
 > Garrick: Frisk me.
 
-**Lili** *(22-May-20 05:39 PM)*
+**Lili** _(22-May-20 05:39 PM)_
 
+_Iris does so._
 
-*Iris does so.*
+**Zander** _(22-May-20 05:39 PM)_
 
-**Zander** *(22-May-20 05:39 PM)*
+_Emmett hopped onto Sanya. He said this in a slightly sarcastic voice._
 
-
-*Emmett hopped onto Sanya. He said this in a slightly sarcastic voice.*
 > Emmett: Sorry for getting super sad and stuff and getting us stuck down here.
 
-**Trey** *(22-May-20 05:40 PM)*
+**Trey** _(22-May-20 05:40 PM)_
 8ball does Iris pick off whatever was stuck onto his vest?
 
-**FFBot** *(22-May-20 05:40 PM)*
+**FFBot** _(22-May-20 05:40 PM)_
 Outlook good :8ball:
 
-**Zander** *(22-May-20 05:40 PM)*
+**Zander** _(22-May-20 05:40 PM)_
 8ball Does the pink ghost suddenly open her pocket dimension, creating a vacuum?
 
-**FFBot** *(22-May-20 05:40 PM)*
+**FFBot** _(22-May-20 05:40 PM)_
 My sources say no :8ball:
 
-**Brody** *(22-May-20 05:40 PM)*
+**Brody** _(22-May-20 05:40 PM)_
+
 > Sanya: We'll just head to the ship. We'll wait for you to be done here.
 
-**Lili** *(22-May-20 05:40 PM)*
+**Lili** _(22-May-20 05:40 PM)_
+
 > Iris: Here it is.
 
-**Trey** *(22-May-20 05:40 PM)*
+**Trey** _(22-May-20 05:40 PM)_
 
+_Garrick sighs in relief._
 
-*Garrick sighs in relief.*
 > Garrick: Perfect.
 
-**Lili** *(22-May-20 05:40 PM)*
+**Lili** _(22-May-20 05:40 PM)_
+
 > Iris: Now can I punch her??
 
-**Trey** *(22-May-20 05:40 PM)*
+**Trey** _(22-May-20 05:40 PM)_
 
+_He reloads his gun as he did before._
 
-*He reloads his gun as he did before.*
+**Trey** _(22-May-20 05:40 PM)_
 
-**Trey** *(22-May-20 05:40 PM)*
 > Garrick: If you want.
 
-**Zander** *(22-May-20 05:41 PM)*
+**Zander** _(22-May-20 05:41 PM)_
+
 > Emmett: "I WILL EAT YOU. WE WILL BE ONE."
 
-*The pink ghost opens its mouth, it opening by about a fourth of a foot each second.*
+_The pink ghost opens its mouth, it opening by about a fourth of a foot each second._
 
-**Lili** *(22-May-20 05:41 PM)*
+**Lili** _(22-May-20 05:41 PM)_
 
+_Iris punches the ghost._
 
-*Iris punches the ghost.*
+**Zander** _(22-May-20 05:41 PM)_
 
-**Zander** *(22-May-20 05:41 PM)*
+_The pink ghost inhales as Iris punches her._
 
+**Zander** _(22-May-20 05:41 PM)_
 
-*The pink ghost inhales as Iris punches her.*
+_In a near-satanic voice_
 
-**Zander** *(22-May-20 05:41 PM)*
-
-
-*In a near-satanic voice*
 > Emmett: "CONSUME."
 
-**Trey** *(22-May-20 05:42 PM)*
+**Trey** _(22-May-20 05:42 PM)_
+
 > Garrick: Turn her around, iris!
 
-**Lili** *(22-May-20 05:43 PM)*
+**Lili** _(22-May-20 05:43 PM)_
 
+_Iris turns the ghost around._
 
-*Iris turns the ghost around.*
+**Trey** _(22-May-20 05:43 PM)_
 
-**Trey** *(22-May-20 05:43 PM)*
+_Garrick shoots the pink ghost in the back._
 
-
-*Garrick shoots the pink ghost in the back.*
-
-**Trey** *(22-May-20 05:43 PM)*
+**Trey** _(22-May-20 05:43 PM)_
 t!roll d10
 
-**Bill** *(22-May-20 05:43 PM)*
+**Bill** _(22-May-20 05:43 PM)_
 11 total
 
-**Zander** *(22-May-20 05:43 PM)*
+**Zander** _(22-May-20 05:43 PM)_
+
 > Emmett: Think we can get some ice cream?
 
-**Brody** *(22-May-20 05:43 PM)*
+**Brody** _(22-May-20 05:43 PM)_
+
 > Sanya: Why not?
 
-**Zander** *(22-May-20 05:43 PM)*
+**Zander** _(22-May-20 05:43 PM)_
 
+_The ghost turns around, unfazed._
 
-*The ghost turns around, unfazed.*
+**Zander** _(22-May-20 05:43 PM)_
 
-**Zander** *(22-May-20 05:43 PM)*
 > Emmett: I dunno. Feels a little weird not being the center of attention.
 
-**Trey** *(22-May-20 05:44 PM)*
+**Trey** _(22-May-20 05:44 PM)_
 
+_Garrick shoots her again._
 
-*Garrick shoots her again.*
+**Trey** _(22-May-20 05:44 PM)_
 
-**Trey** *(22-May-20 05:44 PM)*
 > Garrick: You can be again once we get rid of her.
 
-**Brody** *(22-May-20 05:45 PM)*
+**Brody** _(22-May-20 05:45 PM)_
+
 > Sanya: Yeah, I understand. But hey, at least we don't have to deal with whatever that was.
 
-**Trey** *(22-May-20 05:45 PM)*
+**Trey** _(22-May-20 05:45 PM)_
+
 > Garrick: Surely someone else has a spectral weapon, right? Nobody has secretly wanted me dead?
 
-**Bill** *(22-May-20 05:45 PM)*
+**Bill** _(22-May-20 05:45 PM)_
 
+_The ducks get tired of waiting, and against their better judgement leave the crew to the ghosts in order to search for something to bring on the ship_
 
-*The ducks get tired of waiting, and against their better judgement leave the crew to the ghosts in order to search for something to bring on the ship*
+**Lili** _(22-May-20 05:45 PM)_
 
-**Lili** *(22-May-20 05:45 PM)*
 > Iris: I can punch ghosts.
 
-**Zander** *(22-May-20 05:45 PM)*
+**Zander** _(22-May-20 05:45 PM)_
+
 > Emmett: Plus, this heat is making me very hungry, given that you pretty much sprained my dick from the crater fall.
 
-**Brody** *(22-May-20 05:46 PM)*
+**Brody** _(22-May-20 05:46 PM)_
+
 > Sanya: Me? That was all you.
 
-**Trey** *(22-May-20 05:46 PM)*
+**Trey** _(22-May-20 05:46 PM)_
+
 > Garrick: Besides Iris and her brass knuckles.
 
-**Zander** *(22-May-20 05:46 PM)*
+**Zander** _(22-May-20 05:46 PM)_
 8ball Does the pink ghost start to consume Iris?
 
-**FFBot** *(22-May-20 05:46 PM)*
+**FFBot** _(22-May-20 05:46 PM)_
 Without a doubt :8ball:
 
-**Zander** *(22-May-20 05:46 PM)*
+**Zander** _(22-May-20 05:46 PM)_
+
 > Emmett: No, that was you.
 
-**Lili** *(22-May-20 05:46 PM)*
+**Lili** _(22-May-20 05:46 PM)_
+
 > Iris: Oh, that feels weird on my second-degree burns.
 
-**Lili** *(22-May-20 05:46 PM)*
+**Lili** _(22-May-20 05:46 PM)_
+
 > Iris: Hey, uh, Sanya?
 
-**Brody** *(22-May-20 05:47 PM)*
+**Brody** _(22-May-20 05:47 PM)_
+
 > Sanya: Yes?
 
-**Lili** *(22-May-20 05:47 PM)*
+**Lili** _(22-May-20 05:47 PM)_
+
 > Iris: Garrick?
 
-**Lili** *(22-May-20 05:47 PM)*
+**Lili** _(22-May-20 05:47 PM)_
+
 > Iris: I'm kinda getting eaten over here.
 
-**Trey** *(22-May-20 05:47 PM)*
+**Trey** _(22-May-20 05:47 PM)_
 
+_Garrick is still trying to shoot the pink ghost._
 
-*Garrick is still trying to shoot the pink ghost.*
+**Zander** _(22-May-20 05:47 PM)_
 
-**Zander** *(22-May-20 05:47 PM)*
+_Emmett hears Iris from Sanyas comms and spoke loudly._
 
-
-*Emmett hears Iris from Sanyas comms and spoke loudly.*
 > Emmett: SANYA AND EMMETT ARE GOING TO HAVE ICE CREAM, BUH-BYE!
 
-**FFBot** *(22-May-20 05:47 PM)*
+**FFBot** _(22-May-20 05:47 PM)_
 My reply is no :8ball:
 
-**Lili** *(22-May-20 05:47 PM)*
+**Lili** _(22-May-20 05:47 PM)_
+
 > Iris: I'm getting eaten, Emmett!
 
-**Zander** *(22-May-20 05:47 PM)*
+**Zander** _(22-May-20 05:47 PM)_
 
+_Emmett mutters this._
 
-*Emmett mutters this.*
 > Emmett: Sounds kinda hot.
 
-**Trey** *(22-May-20 05:48 PM)*
+**Trey** _(22-May-20 05:48 PM)_
 8ball does the pink ghost finally die
 
-**FFBot** *(22-May-20 05:48 PM)*
+**FFBot** _(22-May-20 05:48 PM)_
 It is certain :8ball:
 
-**Zander** *(22-May-20 05:48 PM)*
+**Zander** _(22-May-20 05:48 PM)_
+
 > Emmett: "BECOME ONE, BECOME ONE, B-"
 
-**Lili** *(22-May-20 05:48 PM)*
+**Lili** _(22-May-20 05:48 PM)_
+
 > Iris: Oh good. That's a lot better.
 
-**Zander** *(22-May-20 05:48 PM)*
+**Zander** _(22-May-20 05:48 PM)_
 
+_The pink ghost has fully consumed Iris before death._
 
-*The pink ghost has fully consumed Iris before death.*
+**Trey** _(22-May-20 05:48 PM)_
 
-**Trey** *(22-May-20 05:48 PM)*
 > Garrick: FINALLY
 
-**Trey** *(22-May-20 05:48 PM)*
+**Trey** _(22-May-20 05:48 PM)_
+
 > Garrick: ...Iris?
 
-**Trey** *(22-May-20 05:48 PM)*
+**Trey** _(22-May-20 05:48 PM)_
+
 > Garrick: Where'd you go?
 
-**Zander** *(22-May-20 05:48 PM)*
+**Zander** _(22-May-20 05:48 PM)_
 
+_Iris is now Pink Iris_
 
-*Iris is now Pink Iris*
+**Lili** _(22-May-20 05:49 PM)_
 
-**Lili** *(22-May-20 05:49 PM)*
 > Iris: WHAT THE HELL.
 
-**Brody** *(22-May-20 05:49 PM)*
+**Brody** _(22-May-20 05:49 PM)_
 
+_I don't feel good._
 
-*I don't feel good.*
+**Zander** _(22-May-20 05:49 PM)_
 
-**Zander** *(22-May-20 05:49 PM)*
+_Iris is still Pink Iris_
 
+**Lili** _(22-May-20 05:50 PM)_
 
-*Iris is still Pink Iris*
-
-**Lili** *(22-May-20 05:50 PM)*
 > Iris: Can somebody get me out of here??
 
-**Trey** *(22-May-20 05:50 PM)*
+**Trey** _(22-May-20 05:50 PM)_
 
+_Garrick sticks his hand in to the pink ghost's mouth, trying to get Iris out._
 
-*Garrick sticks his hand in to the pink ghost's mouth, trying to get Iris out.*
+**Lili** _(22-May-20 05:50 PM)_
 
-**Lili** *(22-May-20 05:50 PM)*
+_Iris grabs his hand._
 
-
-*Iris grabs his hand.*
-
-**Zander** *(22-May-20 05:50 PM)*
+**Zander** _(22-May-20 05:50 PM)_
 8ball Does the pink ghost get a bubblegum-like texture and insert itself into Iris's mouth?
 
-**FFBot** *(22-May-20 05:50 PM)*
+**FFBot** _(22-May-20 05:50 PM)_
 Most likely :8ball:
 
-**Trey** *(22-May-20 05:50 PM)*
+**Trey** _(22-May-20 05:50 PM)_
 
+_The corpse is slowly disintegrating from multiple places._
 
-*The corpse is slowly disintegrating from multiple places.*
+**Trey** _(22-May-20 05:50 PM)_
 
-**Trey** *(22-May-20 05:50 PM)*
 > Garrick: OOOOOOUUUUT
 
-**Trey** *(22-May-20 05:50 PM)*
+**Trey** _(22-May-20 05:50 PM)_
 8ball does garrick pull her out
 
-**FFBot** *(22-May-20 05:51 PM)*
+**FFBot** _(22-May-20 05:51 PM)_
 Outlook not so good :8ball:
 
-**Zander** *(22-May-20 05:51 PM)*
+**Zander** _(22-May-20 05:51 PM)_
 8ball Does Garrick suddenly turn into sixteen Garricks in trying to pull the pink ghost out?
 
-**FFBot** *(22-May-20 05:51 PM)*
+**FFBot** _(22-May-20 05:51 PM)_
 Don't count on it :8ball:
 
-**Brody** *(22-May-20 05:51 PM)*
+**Brody** _(22-May-20 05:51 PM)_
 8ball Does Sanya know what the fuck is happening?
 
-**FFBot** *(22-May-20 05:51 PM)*
+**FFBot** _(22-May-20 05:51 PM)_
 Yes :8ball:
 
-**Brody** *(22-May-20 05:52 PM)*
+**Brody** _(22-May-20 05:52 PM)_
+
 > Sanya: I have no idea how to help.
 
-**Trey** *(22-May-20 05:52 PM)*
+**Trey** _(22-May-20 05:52 PM)_
 
+_Garrick grabs Iris with his other hand, eventually pulling her out._
 
-*Garrick grabs Iris with his other hand, eventually pulling her out.*
+**Lili** _(22-May-20 05:52 PM)_
 
-**Lili** *(22-May-20 05:52 PM)*
 > Iris: I really would like to get out of here thanks.
 
-**Zander** *(22-May-20 05:52 PM)*
+**Zander** _(22-May-20 05:52 PM)_
 
+_Emmett covers Sanya's eyes._
 
-*Emmett covers Sanya's eyes.*
 > Emmett: I'll tell you where to walk.
 
-**Zander** *(22-May-20 05:52 PM)*
+**Zander** _(22-May-20 05:52 PM)_
+
 > Emmett: Forward!
 
-**Lili** *(22-May-20 05:52 PM)*
+**Lili** _(22-May-20 05:52 PM)_
+
 > Iris: Finally.
 
-**Lili** *(22-May-20 05:52 PM)*
+**Lili** _(22-May-20 05:52 PM)_
+
 > Iris: Thanks Garrick.
 
-**Brody** *(22-May-20 05:52 PM)*
+**Brody** _(22-May-20 05:52 PM)_
 
+_Sanya walks backwards to spite him._
 
-*Sanya walks backwards to spite him.*
+**Trey** _(22-May-20 05:53 PM)_
 
-**Trey** *(22-May-20 05:53 PM)*
 > Garrick: You're welcome.
 
-**Zander** *(22-May-20 05:53 PM)*
+**Zander** _(22-May-20 05:53 PM)_
 8ball Does the pink ghost encapsulate Iris's lungs, giving her a random ability?
 
-**FFBot** *(22-May-20 05:53 PM)*
+**FFBot** _(22-May-20 05:53 PM)_
 Most likely :8ball:
 
-**Trey** *(22-May-20 05:55 PM)*
+**Trey** _(22-May-20 05:55 PM)_
 t!choose bone claws | evil projections | super intelligence | reactive evolution | feed on life energy | energy blasts | ghost touching
 
-**FFBot** *(22-May-20 05:55 PM)*
+**FFBot** _(22-May-20 05:55 PM)_
 🤔 | [RP]retribution, I pick ghost touching
 
-**Cooldude** *(22-May-20 05:55 PM)*
+**Cooldude** _(22-May-20 05:55 PM)_
 8ball is wemmfort still high?
 
-**FFBot** *(22-May-20 05:55 PM)*
+**FFBot** _(22-May-20 05:55 PM)_
 My reply is no :8ball:
 
-**Cooldude** *(22-May-20 05:55 PM)*
+**Cooldude** _(22-May-20 05:55 PM)_
 
+_Wemmfort snaps out of it after a while._
 
-*Wemmfort snaps out of it after a while.*
-
-**Zander** *(22-May-20 05:56 PM)*
+**Zander** _(22-May-20 05:56 PM)_
 t!choose Punch Ghosts | Turn into a clone of one of the crewmates | Become elastigirl | Become a pink ghost | Kirby inhale | Bruh moment | Become blocky, like Minecraft | Shapeshift at will | The ability to turn Garrick into a doughnut
 
-**FFBot** *(22-May-20 05:56 PM)*
+**FFBot** _(22-May-20 05:56 PM)_
 🤔 | Zander, I pick Shapeshift at will
 
-**Zander** *(22-May-20 05:57 PM)*
+**Zander** _(22-May-20 05:57 PM)_
+
 > Emmett: You're almost there!
 
-**Zander** *(22-May-20 05:57 PM)*
+**Zander** _(22-May-20 05:57 PM)_
+
 > Emmett: Just a little more!
 
-**Lili** *(22-May-20 05:58 PM)*
+**Lili** _(22-May-20 05:58 PM)_
 
+_Iris shifts into Garrick._
 
-*Iris shifts into Garrick.*
+**Trey** _(22-May-20 05:58 PM)_
 
-**Trey** *(22-May-20 05:58 PM)*
 > Garrick: Are you ok, Iris? You're looking a little pink.
 
-**Lili** *(22-May-20 05:58 PM)*
+**Lili** _(22-May-20 05:58 PM)_
+
 > Iris: This is new.
 
-**Trey** *(22-May-20 05:58 PM)*
+**Trey** _(22-May-20 05:58 PM)_
+
 > Garrick: ...
 
-**Brody** *(22-May-20 05:58 PM)*
+**Brody** _(22-May-20 05:58 PM)_
+
 > Sanya: Are we here yet?
 
-**Lili** *(22-May-20 05:58 PM)*
+**Lili** _(22-May-20 05:58 PM)_
 
+_IRIS GARRICK HAS ARMS._
 
-*IRIS GARRICK HAS ARMS.*
+**Trey** _(22-May-20 05:58 PM)_
 
-**Trey** *(22-May-20 05:58 PM)*
 > Garrick: That is... terrible.
 
-**Zander** *(22-May-20 05:58 PM)*
+**Zander** _(22-May-20 05:58 PM)_
+
 > Emmett: We're here!
 
-**Brody** *(22-May-20 05:58 PM)*
+**Brody** _(22-May-20 05:58 PM)_
+
 > Sanya: Great. Get off.
 
-**Lili** *(22-May-20 05:58 PM)*
+**Lili** _(22-May-20 05:58 PM)_
 
+_Iris shakes Garrick's hand._
 
-*Iris shakes Garrick's hand.*
-
-**Zander** *(22-May-20 05:58 PM)*
+**Zander** _(22-May-20 05:58 PM)_
 8ball Does Emmett find the stun gun next to the ship's entrance and shoot Sanya?
 
-**FFBot** *(22-May-20 05:58 PM)*
+**FFBot** _(22-May-20 05:58 PM)_
 Yes :8ball:
 
-**Zander** *(22-May-20 05:59 PM)*
+**Zander** _(22-May-20 05:59 PM)_
+
 > Emmett: That's what you get for spraining my love muscle.
 
-**Trey** *(22-May-20 05:59 PM)*
+**Trey** _(22-May-20 05:59 PM)_
 8ball does Garrick run away in confusion and fear back to the ship
 
-**FFBot** *(22-May-20 05:59 PM)*
+**FFBot** _(22-May-20 05:59 PM)_
 Without a doubt :8ball:
 
-**Lili** *(22-May-20 05:59 PM)*
+**Lili** _(22-May-20 05:59 PM)_
+
 > Iris: This is a thing now, apparently.
 
-**Trey** *(22-May-20 05:59 PM)*
+**Trey** _(22-May-20 05:59 PM)_
+
 > Garrick: THAT'S SUPER WEEEEEEEEEIIIIIIIIIIIIIIRD
 
-**Brody** *(22-May-20 05:59 PM)*
+**Brody** _(22-May-20 05:59 PM)_
+
 > Sanya: Wh-
 
-**Brody** *(22-May-20 05:59 PM)*
+**Brody** _(22-May-20 05:59 PM)_
 
+_She collapses._
 
-*She collapses.*
+**Lili** _(22-May-20 05:59 PM)_
 
-**Lili** *(22-May-20 05:59 PM)*
+_Iris turns into Sanya and jogs to catch up with Sanya._
 
+**Lili** _(22-May-20 05:59 PM)_
 
-*Iris turns into Sanya and jogs to catch up with Sanya.*
-
-**Lili** *(22-May-20 05:59 PM)*
 > Iris: hey Sanya.
 
-**Zander** *(22-May-20 05:59 PM)*
+**Zander** _(22-May-20 05:59 PM)_
 
+_Emmett drags Sanya to her bedroom and proceeds to take a shower afterwards._
 
-*Emmett drags Sanya to her bedroom and proceeds to take a shower afterwards.*
+**Lili** _(22-May-20 06:01 PM)_
 
-**Lili** *(22-May-20 06:01 PM)*
+_Iris turns back into herself and heads to the kitchen to make dinner._
 
+**Trey** _(22-May-20 06:01 PM)_
 
-*Iris turns back into herself and heads to the kitchen to make dinner.*
+_Garrick locks himself in his room, very confused._
 
-**Trey** *(22-May-20 06:01 PM)*
+**Cooldude** _(22-May-20 06:01 PM)_
 
+_Wemmfort goes to bed on the floor_
 
-*Garrick locks himself in his room, very confused.*
-
-**Cooldude** *(22-May-20 06:01 PM)*
-
-
-*Wemmfort goes to bed on the floor*
-
-**Brody** *(22-May-20 06:02 PM)*
+**Brody** _(22-May-20 06:02 PM)_
 Space Rule #382: We don't fuck with that Disney shit.
 
-**FFBot** *(24-May-20 04:53 PM)*
-🎱 |  It is certain, Zander
+**FFBot** _(24-May-20 04:53 PM)_
+🎱 | It is certain, Zander
 
-**Zander** *(24-May-20 04:53 PM)*
+**Zander** _(24-May-20 04:53 PM)_
 Question to above answer: Are the locks on all pocket dimensions deleted from existence?
 
-**Cooldude** *(24-May-20 04:54 PM)*
+**Cooldude** _(24-May-20 04:54 PM)_
 t!8ball is emmett homosexual?
 
-**FFBot** *(24-May-20 04:54 PM)*
-🎱 |  Outlook not so good, cooldude
+**FFBot** _(24-May-20 04:54 PM)_
+🎱 | Outlook not so good, cooldude
 
-**Zander** *(24-May-20 04:55 PM)*
+**Zander** _(24-May-20 04:55 PM)_
 Emmett's homophobic
 
-**Trey** *(25-May-20 08:50 PM)*
+**Trey** _(25-May-20 08:50 PM)_
 t!8ball is the Ottori artifact that Chomsky was looking for a Chaos Emerald
 
-**FFBot** *(25-May-20 08:50 PM)*
-🎱 |  My reply is no, [RP]retribution
+**FFBot** _(25-May-20 08:50 PM)_
+🎱 | My reply is no, [RP]retribution
 
-**Zander** *(26-May-20 03:36 PM)*
+**Zander** _(26-May-20 03:36 PM)_
 
+_Olag has finally finished his expansion onto the ship, fixing all of the engine problems as well. Unfortunately, a lot of the Llamanian spaceship had to be scrapped. In total, we have now 6 crew rooms and finally an jacuzzi. Olag is currently waiving their fee in exchange for a kiss from his crush._
 
-*Olag has finally finished his expansion onto the ship, fixing all of the engine problems as well. Unfortunately, a lot of the Llamanian spaceship had to be scrapped. In total, we have now 6 crew rooms and finally an jacuzzi. Olag is currently waiving their fee in exchange for a kiss from his crush.*
+**Zander** _(26-May-20 03:36 PM)_
 
-**Zander** *(26-May-20 03:36 PM)*
+_Emmett folds his arms._
 
-
-*Emmett folds his arms.*
 > Emmett: No, you faggot.
 
-**Sean** *(26-May-20 03:36 PM)*
+**Sean** _(26-May-20 03:36 PM)_
+
 > Seth: "ahaha"
 
-**Sean** *(26-May-20 03:36 PM)*
+**Sean** _(26-May-20 03:36 PM)_
+
 > Seth: "I'll just be taking payment then."
 
-**Zander** *(26-May-20 03:37 PM)*
+**Zander** _(26-May-20 03:37 PM)_
+
 > Emmett: How much?
 
-**Zander** *(26-May-20 03:37 PM)*
+**Zander** _(26-May-20 03:37 PM)_
+
 > Emmett: I have cash to spare.
 
-**Sean** *(26-May-20 03:38 PM)*
+**Sean** _(26-May-20 03:38 PM)_
+
 > Seth: "So, for the expansion, the repairs, and the work it'll be uhhhhh"
 
-**Brody** *(26-May-20 03:38 PM)*
+**Brody** _(26-May-20 03:38 PM)_
 t!choose 10,000 | 50,000 | 100,000 | Entirely too much
 
-**FFBot** *(26-May-20 03:38 PM)*
+**FFBot** _(26-May-20 03:38 PM)_
 🤔 | Brakia, I pick 100,000
 
-**Sean** *(26-May-20 03:38 PM)*
+**Sean** _(26-May-20 03:38 PM)_
+
 > Seth: "100,000"
 
-**Sean** *(26-May-20 03:38 PM)*
+**Sean** _(26-May-20 03:38 PM)_
+
 > Seth: "It'll be 100,000 ducketts"
 
-**Zander** *(26-May-20 03:38 PM)*
+**Zander** _(26-May-20 03:38 PM)_
 
+_Emmett widens his eyes._
 
-*Emmett widens his eyes.*
+**Zander** _(26-May-20 03:38 PM)_
 
-**Zander** *(26-May-20 03:38 PM)*
 > Emmett: 100,000!
 
-**Sean** *(26-May-20 03:39 PM)*
+**Sean** _(26-May-20 03:39 PM)_
+
 > Seth: "Correct"
 
-**Brody** *(26-May-20 03:39 PM)*
+**Brody** _(26-May-20 03:39 PM)_
+
 > Sanya: That feels a bit shady. Do repairs normally cost that much?
 
-**Sean** *(26-May-20 03:39 PM)*
+**Sean** _(26-May-20 03:39 PM)_
+
 > Seth: "I also included a safety fee"
 
-**Zander** *(26-May-20 03:39 PM)*
+**Zander** _(26-May-20 03:39 PM)_
+
 > Emmett: No!
 
-**Sean** *(26-May-20 03:39 PM)*
+**Sean** _(26-May-20 03:39 PM)_
+
 > Seth: "Considering I'm hiding you guys here while you're being chased by bounty hunters and the GU."
 
-**Cooldude** *(26-May-20 03:40 PM)*
+**Cooldude** _(26-May-20 03:40 PM)_
 I thought we were waiting for Rashidi
 
-**Zander** *(26-May-20 03:40 PM)*
+**Zander** _(26-May-20 03:40 PM)_
 
+_Emmett looked back at Sanya._
 
-*Emmett looked back at Sanya.*
 > Emmett: I'm not kissing you man.
 
-**Sean** *(26-May-20 03:41 PM)*
+**Sean** _(26-May-20 03:41 PM)_
+
 > Seth: "Anyways, whos paying?"
 
-**Cooldude** *(26-May-20 03:41 PM)*
+**Cooldude** _(26-May-20 03:41 PM)_
 8ball Does Wemmfort see that some jars are missing from under the sink?
 
-**FFBot** *(26-May-20 03:41 PM)*
+**FFBot** _(26-May-20 03:41 PM)_
 My sources say no.
 
-**Brody** *(26-May-20 03:41 PM)*
+**Brody** _(26-May-20 03:41 PM)_
+
 > Sanya: You have to.
 
-**Sean** *(26-May-20 03:41 PM)*
+**Sean** _(26-May-20 03:41 PM)_
+
 > Seth: "I was told that Seth had money"
 
-**Sean** *(26-May-20 03:41 PM)*
+**Sean** _(26-May-20 03:41 PM)_
+
 > Seth: I do.
 
-**Preston** *(26-May-20 03:41 PM)*
+**Preston** _(26-May-20 03:41 PM)_
+
 > Volentina: I only have two.. uh, duckies?
 
-**Sean** *(26-May-20 03:41 PM)*
+**Sean** _(26-May-20 03:41 PM)_
+
 > Seth: Emmett, go grab the racer guy's credit card.
 
-**Zander** *(26-May-20 03:42 PM)*
+**Zander** _(26-May-20 03:42 PM)_
+
 > Emmett: Aw shit, yeah!
 
-**Sean** *(26-May-20 03:42 PM)*
+**Sean** _(26-May-20 03:42 PM)_
+
 > Seth: He owes us anyways.
 
-**Cooldude** *(26-May-20 03:42 PM)*
+**Cooldude** _(26-May-20 03:42 PM)_
+
 > Wemmfort: 1, 2, 3, 4, 5... Should be fine. I didn't count last time a put one in here.
 
-**Hunter** *(26-May-20 03:42 PM)*
+**Hunter** _(26-May-20 03:42 PM)_
 
+_Rachell is in the back ground poking holes into the ground, she seems extremely bored._
 
-*Rachell is in the back ground poking holes into the ground, she seems extremely bored.*
 > Rachell: "Research and research..."
 
-**Zander** *(26-May-20 03:42 PM)*
+**Zander** _(26-May-20 03:42 PM)_
 
+_Emmett races over to the unconscious racecar driver and takes his credit card._
 
-*Emmett races over to the unconscious racecar driver and takes his credit card.*
+**Zander** _(26-May-20 03:42 PM)_
 
-**Zander** *(26-May-20 03:42 PM)*
 > Emmett: Why did we stun him for this long again?
-8ball Do I begin trying to introduce myself to the rest of the crew?
+> 8ball Do I begin trying to introduce myself to the rest of the crew?
 
-**FFBot** *(26-May-20 03:42 PM)*
+**FFBot** _(26-May-20 03:42 PM)_
 Sad to tell you that it does not happen.
 
-**Sean** *(26-May-20 03:42 PM)*
+**Sean** _(26-May-20 03:42 PM)_
+
 > Seth: He woke up a while ago.
 
-**Michael** *(26-May-20 03:42 PM)*
+**Michael** _(26-May-20 03:42 PM)_
 8ball does anyone notice Theylin in that jar?
 
-**FFBot** *(26-May-20 03:42 PM)*
+**FFBot** _(26-May-20 03:42 PM)_
 No, but in a monotonous tone.
 
-**Sean** *(26-May-20 03:43 PM)*
+**Sean** _(26-May-20 03:43 PM)_
+
 > Seth: I kinda maybe bonked him on the head because he was acting kinda sorta hostile
 
-**Zander** *(26-May-20 03:43 PM)*
+**Zander** _(26-May-20 03:43 PM)_
+
 > Emmett: Well, I don't believe I've yet to meet any of you.
 > Emmett: Also, what's with this jar of water?
 
-**Sean** *(26-May-20 03:43 PM)*
+**Sean** _(26-May-20 03:43 PM)_
+
 > Seth: He might be in a coma.
 
-**Michael** *(26-May-20 03:43 PM)*
+**Michael** _(26-May-20 03:43 PM)_
 
+_tips the jar over_
 
-*tips the jar over*
+**Hunter** _(26-May-20 03:43 PM)_
 
-**Hunter** *(26-May-20 03:43 PM)*
 > Rachell: Water? I'm feeling dry.
 
-**Cooldude** *(26-May-20 03:43 PM)*
+**Cooldude** _(26-May-20 03:43 PM)_
 
+_Wemmfort walks out of the bathroom_
 
-*Wemmfort walks out of the bathroom*
+**Hunter** _(26-May-20 03:43 PM)_
 
-**Hunter** *(26-May-20 03:43 PM)*
 > Rachell: Oh, no.
 
-**Zander** *(26-May-20 03:44 PM)*
+**Zander** _(26-May-20 03:44 PM)_
 
+_Emmett comes back with the card._
 
-*Emmett comes back with the card.*
 > Emmett: Come check its amount.
 
-**Michael** *(26-May-20 03:44 PM)*
+**Michael** _(26-May-20 03:44 PM)_
 
+_rolls jar away from Rachell_
 
-*rolls jar away from Rachell*
+**Zander** _(26-May-20 03:44 PM)_
 
-**Zander** *(26-May-20 03:44 PM)*
 > Emmett: Seth.
 
-**Preston** *(26-May-20 03:44 PM)*
+**Preston** _(26-May-20 03:44 PM)_
+
 > Volentina: Am I the only one who sees a jar rolling away?
 
-**Sean** *(26-May-20 03:44 PM)*
+**Sean** _(26-May-20 03:44 PM)_
+
 > Seth: alright
 
-**Michael** *(26-May-20 03:44 PM)*
+**Michael** _(26-May-20 03:44 PM)_
 
+_jar stops rolling_
 
-*jar stops rolling*
+**Hunter** _(26-May-20 03:44 PM)_
 
-**Hunter** *(26-May-20 03:44 PM)*
+_Rachell looks over at the jar, making an attempt to grab it, gloveless._
 
+**Sean** _(26-May-20 03:45 PM)_
 
-*Rachell looks over at the jar, making an attempt to grab it, gloveless.*
+_Seth grabs the credit card and puts it up to the comms unit_
 
-**Sean** *(26-May-20 03:45 PM)*
+**Michael** _(26-May-20 03:45 PM)_
 
+_gets picked up by the girl_
 
-*Seth grabs the credit card and puts it up to the comms unit*
-
-**Michael** *(26-May-20 03:45 PM)*
-
-
-*gets picked up by the girl*
-
-**Hunter** *(26-May-20 03:45 PM)*
+**Hunter** _(26-May-20 03:45 PM)_
 8ball Does Rachell grab the jar gloveless?
 
-**FFBot** *(26-May-20 03:45 PM)*
+**FFBot** _(26-May-20 03:45 PM)_
 Spell it with me now, Y-E-S.
 
-**Michael** *(26-May-20 03:45 PM)*
+**Michael** _(26-May-20 03:45 PM)_
 
+_starts applying pressure to all sides of the jar causing it to burst_
 
-*starts applying pressure to all sides of the jar causing it to burst*
+**Hunter** _(26-May-20 03:45 PM)_
 
-**Hunter** *(26-May-20 03:45 PM)*
 > Rachell: Ah, my water.
 
-**Cooldude** *(26-May-20 03:46 PM)*
+**Cooldude** _(26-May-20 03:46 PM)_
+
 > Wemmfort: Why is that jar exploding?
 
-**Sean** *(26-May-20 03:46 PM)*
+**Sean** _(26-May-20 03:46 PM)_
 t!choose 100,000 | 200,000 | 0 | 300,000 | 10 |
 
-**FFBot** *(26-May-20 03:46 PM)*
+**FFBot** _(26-May-20 03:46 PM)_
 🤔 | Bagelwrecker, I pick 10 |
 
-**Zander** *(26-May-20 03:46 PM)*
+**Zander** _(26-May-20 03:46 PM)_
 
+_Emmett hears the sound of the glass breaking and refuses to accept what is happening. He's still waiting for Seth._
 
-*Emmett hears the sound of the glass breaking and refuses to accept what is happening. He's still waiting for Seth.*
+**Michael** _(26-May-20 03:46 PM)_
 
-**Michael** *(26-May-20 03:46 PM)*
+_starts slithering away_
 
+**Sean** _(26-May-20 03:46 PM)_
 
-*starts slithering away*
-
-**Sean** *(26-May-20 03:46 PM)*
 > Seth: huh
 
-**Sean** *(26-May-20 03:46 PM)*
+**Sean** _(26-May-20 03:46 PM)_
+
 > Seth: He only has 10 ducketts
 
-**Lili** *(26-May-20 03:46 PM)*
+**Lili** _(26-May-20 03:46 PM)_
+
 > Iris: What's happening in here?
 
-**Zander** *(26-May-20 03:46 PM)*
+**Zander** _(26-May-20 03:46 PM)_
 
+_Emmett shivers and sighs loudly._
 
-*Emmett shivers and sighs loudly.*
+**Sean** _(26-May-20 03:46 PM)_
 
-**Sean** *(26-May-20 03:46 PM)*
 > Seth: Can you see if you can find another credit card?
 
-**Zander** *(26-May-20 03:46 PM)*
+**Zander** _(26-May-20 03:46 PM)_
+
 > Emmett: Fine. Fine.
 
-**Michael** *(26-May-20 03:46 PM)*
+**Michael** _(26-May-20 03:46 PM)_
 
+_water stops moving_
 
-*water stops moving*
+**Brody** _(26-May-20 03:47 PM)_
 
-**Brody** *(26-May-20 03:47 PM)*
 > Sanya: You mean to tell me that lizard was useless and poor?
 
-**Sean** *(26-May-20 03:47 PM)*
+**Sean** _(26-May-20 03:47 PM)_
+
 > Seth: "My offer still stands"
 
-**Cooldude** *(26-May-20 03:47 PM)*
+**Cooldude** _(26-May-20 03:47 PM)_
 
+_Wemmfort abruptly introduces himself to the crew._
 
-*Wemmfort abruptly introduces himself to the crew.*
+**Zander** _(26-May-20 03:47 PM)_
 
-**Zander** *(26-May-20 03:47 PM)*
 > Emmett: I'll kiss you. But not mouth-to-mouth.
 
-**Sean** *(26-May-20 03:47 PM)*
+**Sean** _(26-May-20 03:47 PM)_
 
+_Olag makes mwah mwah sounds_
 
-*Olag makes mwah mwah sounds*
+**Brody** _(26-May-20 03:48 PM)_
 
-**Brody** *(26-May-20 03:48 PM)*
 > Sanya: Suck up your pride and puck up your lips, Emmett.
 
-**Sean** *(26-May-20 03:48 PM)*
+**Sean** _(26-May-20 03:48 PM)_
 
+_Olag's eyes widen_
 
-*Olag's eyes widen*
+**Sean** _(26-May-20 03:48 PM)_
 
-**Sean** *(26-May-20 03:48 PM)*
 > Seth: "On the penis?"
 
-**Michael** *(26-May-20 03:48 PM)*
+**Michael** _(26-May-20 03:48 PM)_
 
+_starts to move to the engine room as everyone watches this goat kiss Olag_
 
-*starts to move to the engine room as everyone watches this goat kiss Olag*
+**Zander** _(26-May-20 03:48 PM)_
 
-**Zander** *(26-May-20 03:48 PM)*
 > Emmett: I already bit that off.
 
-**Sean** *(26-May-20 03:48 PM)*
+**Sean** _(26-May-20 03:48 PM)_
+
 > Seth: "It's regrown too!"
 
-**Zander** *(26-May-20 03:48 PM)*
+**Zander** _(26-May-20 03:48 PM)_
+
 > Emmett: Oh.
 
-**Trey** *(26-May-20 03:48 PM)*
+**Trey** _(26-May-20 03:48 PM)_
+
 > Garrick: It's a once-in-a-lifetime experience, Emmett. You should take the opportunity.
 
-**Zander** *(26-May-20 03:48 PM)*
+**Zander** _(26-May-20 03:48 PM)_
+
 > Emmett: Fine.
 
-**Zander** *(26-May-20 03:48 PM)*
+**Zander** _(26-May-20 03:48 PM)_
+
 > Emmett: Pucker up, bitch.
 
-**Hunter** *(26-May-20 03:48 PM)*
+**Hunter** _(26-May-20 03:48 PM)_
+
 > Rachell: Is this the thing they call, 'homosexuality'?
 
-**Zander** *(26-May-20 03:49 PM)*
+**Zander** _(26-May-20 03:49 PM)_
 
-
-*Emmett needs a stepstool.*
+_Emmett needs a stepstool._
 
 > Emmett: Precisely.
 
-**Sean** *(26-May-20 03:49 PM)*
+**Sean** _(26-May-20 03:49 PM)_
 
+_Olag vores Emmett_
 
-*Olag vores Emmett*
+**Brody** _(26-May-20 03:49 PM)_
 
-**Brody** *(26-May-20 03:49 PM)*
 > Sanya: I can lift you if-
 
-**Brody** *(26-May-20 03:49 PM)*
+**Brody** _(26-May-20 03:49 PM)_
+
 > Sanya: Oh.
 
-**Hunter** *(26-May-20 03:49 PM)*
+**Hunter** _(26-May-20 03:49 PM)_
+
 > Rachell: Interesting, this is going into the journal.
 
-**Sean** *(26-May-20 03:49 PM)*
+**Sean** _(26-May-20 03:49 PM)_
+
 > Seth: "AWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW YEEEEEEEEEEEEEEEEAHHHHHHH"
 
-**Silas** *(26-May-20 03:49 PM)*
+**Silas** _(26-May-20 03:49 PM)_
 t!8ball does Olag begin to digest Emmett?
 
-**FFBot** *(26-May-20 03:49 PM)*
-🎱 |  Without a doubt, CommunistOtter
+**FFBot** _(26-May-20 03:49 PM)_
+🎱 | Without a doubt, CommunistOtter
 
-**Sean** *(26-May-20 03:49 PM)*
+**Sean** _(26-May-20 03:49 PM)_
 
+_Seth watches_
 
-*Seth watches*
+**Lili** _(26-May-20 03:49 PM)_
 
-**Lili** *(26-May-20 03:49 PM)*
+_Iris sighs._
 
+**Preston** _(26-May-20 03:49 PM)_
 
-*Iris sighs.*
-
-**Preston** *(26-May-20 03:49 PM)*
 > Volentina: Huh. That was... unexpected.
 
-*Volonta just stood there, wathcing*
+_Volonta just stood there, wathcing_
 
-**Michael** *(26-May-20 03:49 PM)*
+**Michael** _(26-May-20 03:49 PM)_
 
+_slithers away_
 
-*slithers away*
+**Zander** _(26-May-20 03:49 PM)_
 
-**Zander** *(26-May-20 03:49 PM)*
+_Emmett is completely startled from this. He just stares at Sanya, suspended in fluid._
 
+**Sean** _(26-May-20 03:50 PM)_
 
-*Emmett is completely startled from this. He just stares at Sanya, suspended in fluid.*
+_Olag slides Emmett out of his slimey asshole_
 
-**Sean** *(26-May-20 03:50 PM)*
+**Zander** _(26-May-20 03:50 PM)_
 
-
-*Olag slides Emmett out of his slimey asshole*
-
-**Zander** *(26-May-20 03:50 PM)*
 > Emmett: G-G-Guh!
 
-**Lili** *(26-May-20 03:50 PM)*
+**Lili** _(26-May-20 03:50 PM)_
+
 > Iris: Y'know what? Whatever. Who wants lunch?
 
-**Brody** *(26-May-20 03:50 PM)*
+**Brody** _(26-May-20 03:50 PM)_
+
 > Sanya: Well, Emmett, how do you feel?
 
-**Sean** *(26-May-20 03:50 PM)*
+**Sean** _(26-May-20 03:50 PM)_
+
 > Seth: "Thats what we call a kiss where I come from"
 
-**Hunter** *(26-May-20 03:50 PM)*
+**Hunter** _(26-May-20 03:50 PM)_
+
 > Rachell: This is... mostly unexpected.
 
-**Sean** *(26-May-20 03:50 PM)*
+**Sean** _(26-May-20 03:50 PM)_
+
 > Seth: "Thank you Seth and Emmett, my life is complete."
 
-**Zander** *(26-May-20 03:50 PM)*
+**Zander** _(26-May-20 03:50 PM)_
 8ball Is Emmett covered in anything else other than gelatin/slime?
 
-**FFBot** *(26-May-20 03:50 PM)*
+**FFBot** _(26-May-20 03:50 PM)_
 Happy to tell you that it does happen.
 
-**Sean** *(26-May-20 03:51 PM)*
+**Sean** _(26-May-20 03:51 PM)_
 
+_Olag turns into space dust and is blown away_
 
-*Olag turns into space dust and is blown away*
+**Trey** _(26-May-20 03:51 PM)_
 
-**Trey** *(26-May-20 03:51 PM)*
+_Garrick regroups with the others outside, and sees Emmett trapped inside the slimey man._
 
+**Zander** _(26-May-20 03:51 PM)_
 
-*Garrick regroups with the others outside, and sees Emmett trapped inside the slimey man.*
+_Emmett covered his face, really embarrassed._
 
-**Zander** *(26-May-20 03:51 PM)*
-
-
-*Emmett covered his face, really embarrassed.*
-
-**Brody** *(26-May-20 03:51 PM)*
+**Brody** _(26-May-20 03:51 PM)_
 t!choose Poop | Yesterday's lunch | Gravy
 
-**FFBot** *(26-May-20 03:51 PM)*
+**FFBot** _(26-May-20 03:51 PM)_
 🤔 | Brakia, I pick Poop
 
-**Trey** *(26-May-20 03:51 PM)*
+**Trey** _(26-May-20 03:51 PM)_
+
 > Garrick: Oh! Oh.
 
-**Sean** *(26-May-20 03:51 PM)*
+**Sean** _(26-May-20 03:51 PM)_
 
+_Intercom turns on_
 
-*Intercom turns on*
+**Sean** _(26-May-20 03:51 PM)_
 
-**Sean** *(26-May-20 03:51 PM)*
 > Seth: "HELLO! HELLO!"
 
-**Preston** *(26-May-20 03:51 PM)*
-> Volentina: Least he's not dead. Not *entirely* dead anyways.
+**Preston** _(26-May-20 03:51 PM)_
 
-**Hunter** *(26-May-20 03:51 PM)*
+> Volentina: Least he's not dead. Not _entirely_ dead anyways.
+
+**Hunter** _(26-May-20 03:51 PM)_
+
 > Rachell: Can I assist you with psychological damages?
 
-**Zander** *(26-May-20 03:51 PM)*
+**Zander** _(26-May-20 03:51 PM)_
+
 > Emmett: I-I
 
-**Lili** *(26-May-20 03:51 PM)*
+**Lili** _(26-May-20 03:51 PM)_
+
 > Iris: Oh, hey Garrick.
 
-**Brody** *(26-May-20 03:51 PM)*
+**Brody** _(26-May-20 03:51 PM)_
+
 > Sanya: Well Emmett, you're now a gay icon. How do you feel?
 
-**Zander** *(26-May-20 03:52 PM)*
+**Zander** _(26-May-20 03:52 PM)_
+
 > Emmett: I hated that with every part of my soul.
 
-**Hunter** *(26-May-20 03:52 PM)*
+**Hunter** _(26-May-20 03:52 PM)_
+
 > Rachell: Would you be interested in some 'therapy'?
 
-**Trey** *(26-May-20 03:52 PM)*
+**Trey** _(26-May-20 03:52 PM)_
+
 > Garrick: Can he... breathe?
 
-**Zander** *(26-May-20 03:52 PM)*
+**Zander** _(26-May-20 03:52 PM)_
+
 > Emmett: Therapy? You're a two equinox old child!
 
-**Brody** *(26-May-20 03:52 PM)*
+**Brody** _(26-May-20 03:52 PM)_
+
 > Sanya: Someone get him a towel.
 
-**Sean** *(26-May-20 03:52 PM)*
+**Sean** _(26-May-20 03:52 PM)_
+
 > Seth: "Well! if you're listening to this that means Emmett has kissed me and I have died."
 
-**Hunter** *(26-May-20 03:52 PM)*
+**Hunter** _(26-May-20 03:52 PM)_
+
 > Rachell: And you are covered in feces.
 
-**Zander** *(26-May-20 03:53 PM)*
+**Zander** _(26-May-20 03:53 PM)_
 
+_Emmett leaned upward._
 
-*Emmett leaned upward.*
+**Zander** _(26-May-20 03:53 PM)_
 
-**Zander** *(26-May-20 03:53 PM)*
 > Emmett: Want to eat it off of me or whatever?
 
-**Trey** *(26-May-20 03:53 PM)*
+**Trey** _(26-May-20 03:53 PM)_
+
 > Garrick: Thanks, Emmett. You have faced your fear and saved our crew from debt.
 
-**Trey** *(26-May-20 03:53 PM)*
+**Trey** _(26-May-20 03:53 PM)_
+
 > Garrick: Truly an honor.
 
-**Preston** *(26-May-20 03:53 PM)*
+**Preston** _(26-May-20 03:53 PM)_
+
 > Volentina: Hard pass.
 
-**Brody** *(26-May-20 03:53 PM)*
+**Brody** _(26-May-20 03:53 PM)_
+
 > Sanya: Not my style.
 
-**Cooldude** *(26-May-20 03:53 PM)*
+**Cooldude** _(26-May-20 03:53 PM)_
 
+_Wemmfort ignores what happened._
 
-*Wemmfort ignores what happened.*
+**Lili** _(26-May-20 03:53 PM)_
 
-**Lili** *(26-May-20 03:53 PM)*
+_Iris laughs quietly._
 
+**Hunter** _(26-May-20 03:53 PM)_
 
-*Iris laughs quietly.*
-
-**Hunter** *(26-May-20 03:53 PM)*
 > Rachell: I'm not interested into that type of feeding.
 
-**Sean** *(26-May-20 03:53 PM)*
+**Sean** _(26-May-20 03:53 PM)_
+
 > Seth: "This asteroid is rigged to go off in 10 minutes, all other ships except the ship I just recently repaired, aka Seth and Emmett's ship, are broken, on purpose of course"
 
-**Zander** *(26-May-20 03:53 PM)*
+**Zander** _(26-May-20 03:53 PM)_
+
 > Emmett: Ugh.
 
-**Cooldude** *(26-May-20 03:54 PM)*
+**Cooldude** _(26-May-20 03:54 PM)_
+
 > Wemmfort: Goat man, take a shower.
 
-**Charles** *(26-May-20 03:54 PM)*
+**Charles** _(26-May-20 03:54 PM)_
 8ball do i land on the space station
 
-**FFBot** *(26-May-20 03:54 PM)*
+**FFBot** _(26-May-20 03:54 PM)_
 I guess not.
 
-**Zander** *(26-May-20 03:54 PM)*
+**Zander** _(26-May-20 03:54 PM)_
 
+_Emmett sets his coms to announcement._
 
-*Emmett sets his coms to announcement.*
 > Emmett: Anyone mind cleaning or covering my pathway to the shower?
 
-**Zander** *(26-May-20 03:54 PM)*
+**Zander** _(26-May-20 03:54 PM)_
+
 > Emmett: I don't want to mess anything up.
 
-**Brody** *(26-May-20 03:54 PM)*
+**Brody** _(26-May-20 03:54 PM)_
+
 > Sanya: Does everyone have everything they need?
 
-**Hunter** *(26-May-20 03:54 PM)*
+**Hunter** _(26-May-20 03:54 PM)_
+
 > Rachell: Actually, I'm quite against it, please, do not attempt to approach me while covered with that.
 
-**Sean** *(26-May-20 03:54 PM)*
+**Sean** _(26-May-20 03:54 PM)_
+
 > Seth: "Now, Emmett, I love you, stay safe."
 
-**Hunter** *(26-May-20 03:55 PM)*
+**Hunter** _(26-May-20 03:55 PM)_
+
 > Rachell: I can however, help you with damages, physical and psychological.
 
-**Zander** *(26-May-20 03:55 PM)*
+**Zander** _(26-May-20 03:55 PM)_
 
+_Emmett was blocking out the recorded message._
 
-*Emmett was blocking out the recorded message.*
+**Lili** _(26-May-20 03:55 PM)_
 
-**Lili** *(26-May-20 03:55 PM)*
 > Iris: What a weirdly domestic line.
 
-**Cooldude** *(26-May-20 03:55 PM)*
+**Cooldude** _(26-May-20 03:55 PM)_
 8ball does seth airlock Emmett out of the ship?
 
-**FFBot** *(26-May-20 03:55 PM)*
+**FFBot** _(26-May-20 03:55 PM)_
 Very doubtful.
 
-**Sean** *(26-May-20 03:55 PM)*
+**Sean** _(26-May-20 03:55 PM)_
+
 > Seth: "Seth, your Delivery is in the back room of the main area, take anything you want"
 
-**Trey** *(26-May-20 03:55 PM)*
+**Trey** _(26-May-20 03:55 PM)_
+
 > Garrick: New guy.
 
-*He points to Volonta.*
+_He points to Volonta._
+
 > Garrick: You're the janitor, you get to clean up after Emmett.
 
-**Hunter** *(26-May-20 03:55 PM)*
+**Hunter** _(26-May-20 03:55 PM)_
+
 > Rachell: What is a domestic line?
 
-**Preston** *(26-May-20 03:55 PM)*
+**Preston** _(26-May-20 03:55 PM)_
+
 > Volentina: What.
 
-**Trey** *(26-May-20 03:55 PM)*
+**Trey** _(26-May-20 03:55 PM)_
+
 > Garrick: You. Clean up. After Emmett.
 
-**Hunter** *(26-May-20 03:56 PM)*
+**Hunter** _(26-May-20 03:56 PM)_
+
 > Rachell: Please, do explain, I need it for my research.
 
-**Sean** *(26-May-20 03:56 PM)*
+**Sean** _(26-May-20 03:56 PM)_
+
 > Seth: "This is Olag signing off"
 
-**Brody** *(26-May-20 03:56 PM)*
+**Brody** _(26-May-20 03:56 PM)_
+
 > Sanya: I'll round up the crew, go take a bath.
 
-**Sean** *(26-May-20 03:56 PM)*
+**Sean** _(26-May-20 03:56 PM)_
+
 > Seth: "Ta ta"
 
-**Preston** *(26-May-20 03:56 PM)*
+**Preston** _(26-May-20 03:56 PM)_
+
 > Volentina: Uh, ok. Do you have a mop?
 
-**Lili** *(26-May-20 03:56 PM)*
+**Lili** _(26-May-20 03:56 PM)_
 8ball does Iris turn into pink olag
 
-**FFBot** *(26-May-20 03:56 PM)*
+**FFBot** _(26-May-20 03:56 PM)_
 Yes, but with a caveat decided by the person before you.
 
-**Trey** *(26-May-20 03:56 PM)*
+**Trey** _(26-May-20 03:56 PM)_
+
 > Garrick: Check the storage room.
 
-**Sean** *(26-May-20 03:56 PM)*
+**Sean** _(26-May-20 03:56 PM)_
 
+_The comms violently turn off_
 
-*The comms violently turn off*
+**Sean** _(26-May-20 03:56 PM)_
 
-**Sean** *(26-May-20 03:56 PM)*
 > Seth: Well everyone!
 
-**Zander** *(26-May-20 03:56 PM)*
+**Zander** _(26-May-20 03:56 PM)_
+
 > Emmett: Whatever. I'm taking a shower. Hope none of you eat me or whatever.
 
-*Emmett gets up into the ship and moves on to the bathroom.*
+_Emmett gets up into the ship and moves on to the bathroom._
 
-**Preston** *(26-May-20 03:56 PM)*
+**Preston** _(26-May-20 03:56 PM)_
+
 > Volentina: Where is the storage room?
 
-**Brody** *(26-May-20 03:57 PM)*
+**Brody** _(26-May-20 03:57 PM)_
+
 > Sanya: Everyone just get inside, or we're leaving you behind.
 
-**Sean** *(26-May-20 03:57 PM)*
+**Sean** _(26-May-20 03:57 PM)_
+
 > Seth: This asteroid is going to blow up, I have to grab my delivery, so you guys just head over to the ship.
 
-**Trey** *(26-May-20 03:57 PM)*
+**Trey** _(26-May-20 03:57 PM)_
+
 > Garrick: Downstairs.
 
-**Sean** *(26-May-20 03:57 PM)*
+**Sean** _(26-May-20 03:57 PM)_
+
 > Seth: Waiter!
 
-**Sean** *(26-May-20 03:57 PM)*
+**Sean** _(26-May-20 03:57 PM)_
+
 > Seth: Join me
 
-**Sean** *(26-May-20 03:57 PM)*
+**Sean** _(26-May-20 03:57 PM)_
+
 > Seth: Ima need some hands.
 
-**Preston** *(26-May-20 03:58 PM)*
+**Preston** _(26-May-20 03:58 PM)_
+
 > Volentina: Got it.
 
-*Volonta went in the ship in search of the storage room*
+_Volonta went in the ship in search of the storage room_
 
-**Zander** *(26-May-20 03:58 PM)*
+**Zander** _(26-May-20 03:58 PM)_
 8ball Does Sanya all of a sudden start singing "Be a man" from Mulan?
 
-**FFBot** *(26-May-20 03:58 PM)*
+**FFBot** _(26-May-20 03:58 PM)_
 Signs point to yes.
 
-**Lili** *(26-May-20 03:58 PM)*
+**Lili** _(26-May-20 03:58 PM)_
 
+_Iris turns into pink Olag and then back into herself almost instantly._
 
-*Iris turns into pink Olag and then back into herself almost instantly.*
+**Zander** _(26-May-20 03:58 PM)_
 
-**Zander** *(26-May-20 03:58 PM)*
+_Emmett really felt terrible now. He waited for a bit before closing the restroom hatch._
 
+**Sean** _(26-May-20 03:58 PM)_
 
-*Emmett really felt terrible now. He waited for a bit before closing the restroom hatch.*
-
-**Sean** *(26-May-20 03:58 PM)*
 > Seth: Delivery is not there.
 
-**Sean** *(26-May-20 03:58 PM)*
+**Sean** _(26-May-20 03:58 PM)_
+
 > Seth: Its in that building
 
-**Brody** *(26-May-20 03:58 PM)*
+**Brody** _(26-May-20 03:58 PM)_
+
 > Sanya: LET'S GET DOWN TO BUSINESS
 
-**Brody** *(26-May-20 03:58 PM)*
+**Brody** _(26-May-20 03:58 PM)_
+
 > Sanya: TO DEFEAT
 
-**Cooldude** *(26-May-20 03:58 PM)*
+**Cooldude** _(26-May-20 03:58 PM)_
+
 > Wemmfort: Hey! Isn't that song copyrighted?
 
-**Sean** *(26-May-20 03:58 PM)*
+**Sean** _(26-May-20 03:58 PM)_
 
+_Seth points at the building infront of the ship_
 
-*Seth points at the building infront of the ship*
+**Brody** _(26-May-20 03:58 PM)_
 
-**Brody** *(26-May-20 03:58 PM)*
 > Sanya: Oh, crap. You're right.
 
-**Zander** *(26-May-20 03:58 PM)*
+**Zander** _(26-May-20 03:58 PM)_
+
 > Emmett: Um...
 > Emmett: Why me? Why is it always me?
 
-*Emmett took off his comm watch and his translator collar.*
+_Emmett took off his comm watch and his translator collar._
 
 > Emmett: Quite the bunch.
 
-**Michael** *(26-May-20 03:59 PM)*
+**Michael** _(26-May-20 03:59 PM)_
 8ball does anyone notice the random puddle slithering towards the engine room
 
-**FFBot** *(26-May-20 03:59 PM)*
+**FFBot** _(26-May-20 03:59 PM)_
 No, but in a monotonous tone.
 
-**Lili** *(26-May-20 03:59 PM)*
+**Lili** _(26-May-20 03:59 PM)_
 
+_Iris wanders back into the ship._
 
-*Iris wanders back into the ship.*
+**Sean** _(26-May-20 03:59 PM)_
 
-**Sean** *(26-May-20 03:59 PM)*
+_DisneyPlanet shocks Sanya_
 
+**Brody** _(26-May-20 03:59 PM)_
 
-*DisneyPlanet shocks Sanya*
-
-**Brody** *(26-May-20 03:59 PM)*
 > Sanya: OW!
 
-**Trey** *(26-May-20 03:59 PM)*
+**Trey** _(26-May-20 03:59 PM)_
 
+_Garrick follows Iris and whispers a master prank to her._
 
-*Garrick follows Iris and whispers a master prank to her.*
+**Trey** _(26-May-20 03:59 PM)_
 
-**Trey** *(26-May-20 03:59 PM)*
 > Garrick: Turn into Olag and walk in on Emmett.
 
-**Lili** *(26-May-20 03:59 PM)*
+**Lili** _(26-May-20 03:59 PM)_
 
+_Iris snorts._
 
-*Iris snorts.*
+**Lili** _(26-May-20 03:59 PM)_
 
-**Lili** *(26-May-20 03:59 PM)*
 > Iris: You're a genius.
 
-**Sean** *(26-May-20 04:00 PM)*
+**Sean** _(26-May-20 04:00 PM)_
 
+_Seth heads into the storage area_
 
-*Seth heads into the storage area*
+**Trey** _(26-May-20 04:00 PM)_
 
-**Trey** *(26-May-20 04:00 PM)*
 > Garrick: Well, pranking is what I do.
 
-**Preston** *(26-May-20 04:00 PM)*
+**Preston** _(26-May-20 04:00 PM)_
 8ball Does Volonta find the mop
 
-**FFBot** *(26-May-20 04:00 PM)*
+**FFBot** _(26-May-20 04:00 PM)_
 Yup.
 
-**Zander** *(26-May-20 04:00 PM)*
+**Zander** _(26-May-20 04:00 PM)_
 
+_Emmett takes off his shirt and and sweatpants. He then looked at himself in the mirror._
 
-*Emmett takes off his shirt and and sweatpants. He then looked at himself in the mirror.*
 > Emmett: Squemlax fulag howler.
 
-**Sean** *(26-May-20 04:00 PM)*
+**Sean** _(26-May-20 04:00 PM)_
+
 > Seth: Hmmmmmm
 
-**Lili** *(26-May-20 04:00 PM)*
+**Lili** _(26-May-20 04:00 PM)_
 
+_Iris follows Emmett's trail._
 
-*Iris follows Emmett's trail.*
+**Sean** _(26-May-20 04:00 PM)_
 
-**Sean** *(26-May-20 04:00 PM)*
 > Seth: I'm just going to take everything
 
-**Lili** *(26-May-20 04:01 PM)*
+**Lili** _(26-May-20 04:01 PM)_
 
+_She turns into pink Olag._
 
-*She turns into pink Olag.*
-
-**Sean** *(26-May-20 04:01 PM)*
+**Sean** _(26-May-20 04:01 PM)_
 t!8ball Does Seth take everything in the room?
 
-**FFBot** *(26-May-20 04:01 PM)*
-🎱 |  Outlook good, Bagelwrecker
+**FFBot** _(26-May-20 04:01 PM)_
+🎱 | Outlook good, Bagelwrecker
 
-**Sean** *(26-May-20 04:01 PM)*
+**Sean** _(26-May-20 04:01 PM)_
+
 > Seth: Alright, well thats all.
 
-**Brody** *(26-May-20 04:01 PM)*
+**Brody** _(26-May-20 04:01 PM)_
 
+_D: I hate this group. They're so insane they don't fear anything anymore._
 
-*D: I hate this group. They're so insane they don't fear anything anymore.*
+**Preston** _(26-May-20 04:01 PM)_
 
-**Preston** *(26-May-20 04:01 PM)*
+_Volonta would soon get to work cleaning the Gelatinous feces_
 
+**Sean** _(26-May-20 04:01 PM)_
 
-*Volonta would soon get to work cleaning the Gelatinous feces*
+_Seth walks back to the ship_
 
-**Sean** *(26-May-20 04:01 PM)*
+**Zander** _(26-May-20 04:01 PM)_
 
+_Emmett shimmied out of his boxers and turned on the shower, entering into it._
 
-*Seth walks back to the ship*
+**Lili** _(26-May-20 04:02 PM)_
 
-**Zander** *(26-May-20 04:01 PM)*
+_she opens the door just slightly._
 
+**Lili** _(26-May-20 04:02 PM)_
 
-*Emmett shimmied out of his boxers and turned on the shower, entering into it.*
-
-**Lili** *(26-May-20 04:02 PM)*
-
-
-*she opens the door just slightly.*
-
-**Lili** *(26-May-20 04:02 PM)*
 > Iris: Hey Emmett, can I come in for a second?
 
-**Sean** *(26-May-20 04:02 PM)*
+**Sean** _(26-May-20 04:02 PM)_
+
 > Seth: I'm back niggas!
 
-**Cooldude** *(26-May-20 04:03 PM)*
+**Cooldude** _(26-May-20 04:03 PM)_
+
 > Wemmfort: What's that word you just said? It's not in my translator's programming.
 
-**Sean** *(26-May-20 04:03 PM)*
+**Sean** _(26-May-20 04:03 PM)_
+
 > Seth: I got my delivery.
 
-**Zander** *(26-May-20 04:03 PM)*
+**Zander** _(26-May-20 04:03 PM)_
 
+_Emmett couldn't understand Iris. He just entered the shower and closed the curtain. The hatch wasn't locked, anyhow._
 
-*Emmett couldn't understand Iris. He just entered the shower and closed the curtain. The hatch wasn't locked, anyhow.*
+**Lili** _(26-May-20 04:03 PM)_
 
-**Lili** *(26-May-20 04:03 PM)*
+_she turns swiftly back into herself, getting a better idea that is less likely to upset her friend._
 
-
-*she turns swiftly back into herself, getting a better idea that is less likely to upset her friend.*
-
-**Trey** *(26-May-20 04:03 PM)*
+**Trey** _(26-May-20 04:03 PM)_
 8ball does Garrick watch the shenanigans unfold from a distance
 
-**FFBot** *(26-May-20 04:03 PM)*
+**FFBot** _(26-May-20 04:03 PM)_
 It is certain.
 
-**Trey** *(26-May-20 04:03 PM)*
+**Trey** _(26-May-20 04:03 PM)_
+
 > Garrick: No. Do it. Do not falter.
 
-**Lili** *(26-May-20 04:03 PM)*
+**Lili** _(26-May-20 04:03 PM)_
 
+_Iris opens the hatch, heading inside._
 
-*Iris opens the hatch, heading inside.*
+**Trey** _(26-May-20 04:04 PM)_
 
-**Trey** *(26-May-20 04:04 PM)*
 > Garrick: Dewet.
 
-*he says, in a Palpatine voice.*
+_he says, in a Palpatine voice._
 
-**Lili** *(26-May-20 04:04 PM)*
+**Lili** _(26-May-20 04:04 PM)_
+
 > Iris: Whoops, you probably can't understand me. Uhh, how do I adjust this thing...
 
-**Zander** *(26-May-20 04:04 PM)*
+**Zander** _(26-May-20 04:04 PM)_
 
+_She could hear a whistling tune from inside the shower._
 
-*She could hear a whistling tune from inside the shower.*
+**Sean** _(26-May-20 04:04 PM)_
 
-**Sean** *(26-May-20 04:04 PM)*
+_Seth sits on the couch and starts going over the things he got_
 
+**Lili** _(26-May-20 04:05 PM)_
 
-*Seth sits on the couch and starts going over the things he got*
+_She fiddles with her translator for a second, looking for the Squoatian setting._
 
-**Lili** *(26-May-20 04:05 PM)*
+**Lili** _(26-May-20 04:05 PM)_
 
-
-*She fiddles with her translator for a second, looking for the Squoatian setting.*
-
-**Lili** *(26-May-20 04:05 PM)*
 > Iris: Uh... can you understand me now?
 
-**Sean** *(26-May-20 04:06 PM)*
+**Sean** _(26-May-20 04:06 PM)_
+
 > Seth: Hmmm
 
-**Sean** *(26-May-20 04:06 PM)*
+**Sean** _(26-May-20 04:06 PM)_
+
 > Seth: Seth decides its time to go get some food
 
-**Zander** *(26-May-20 04:06 PM)*
+**Zander** _(26-May-20 04:06 PM)_
 
+_Emmett notices the voice and sticks a hoof out of the curtain. He grabs his translator for her and puts it on._
 
-*Emmett notices the voice and sticks a hoof out of the curtain. He grabs his translator for her and puts it on.*
 > Emmett: Iris?
 
-**Sean** *(26-May-20 04:06 PM)*
+**Sean** _(26-May-20 04:06 PM)_
 
+_Seth heads to the fridge_
 
-*Seth heads to the fridge*
+**Lili** _(26-May-20 04:06 PM)_
 
-**Lili** *(26-May-20 04:06 PM)*
 > Iris: That's my name.
 
-**Sean** *(26-May-20 04:06 PM)*
+**Sean** _(26-May-20 04:06 PM)_
+
 > Seth: Seth decides he wants a carrot cake
 
-**Zander** *(26-May-20 04:07 PM)*
+**Zander** _(26-May-20 04:07 PM)_
+
 > Emmett: It's been like 4 GUYs since you've done this.
 
-**Sean** *(26-May-20 04:07 PM)*
+**Sean** _(26-May-20 04:07 PM)_
 
+_Seth takes a carrot cake from the fridge_
 
-*Seth takes a carrot cake from the fridge*
+**Lili** _(26-May-20 04:07 PM)_
 
-**Lili** *(26-May-20 04:07 PM)*
+_She laughs._
 
+**Lili** _(26-May-20 04:07 PM)_
 
-*She laughs.*
-
-**Lili** *(26-May-20 04:07 PM)*
 > Iris: I forgot i did this before.
 
-**Zander** *(26-May-20 04:07 PM)*
+**Zander** _(26-May-20 04:07 PM)_
 8ball Does another ship land next to the crew's ship?
 
-**FFBot** *(26-May-20 04:07 PM)*
+**FFBot** _(26-May-20 04:07 PM)_
 My sources say no.
 
-**Sean** *(26-May-20 04:07 PM)*
+**Sean** _(26-May-20 04:07 PM)_
+
 > Seth: Seth decides he's going to eat the entire thing and leave none for Emmett because he acted like a bitch
 
-**Sean** *(26-May-20 04:07 PM)*
+**Sean** _(26-May-20 04:07 PM)_
 
+_Seth eats the entire carrot cake_
 
-*Seth eats the entire carrot cake*
-
-**Brody** *(26-May-20 04:07 PM)*
+**Brody** _(26-May-20 04:07 PM)_
 8ball Does an Escape pod crash near the ship?
 
-**FFBot** *(26-May-20 04:07 PM)*
+**FFBot** _(26-May-20 04:07 PM)_
 Signs point to no.
 
-**Trey** *(26-May-20 04:07 PM)*
+**Trey** _(26-May-20 04:07 PM)_
+
 > Garrick: Hey, can anyone else get us off of this asteroid? We only have a few minutes left.
 
-**Zander** *(26-May-20 04:08 PM)*
+**Zander** _(26-May-20 04:08 PM)_
+
 > Emmett: We did have a little fling when we were younger.
 
-**Zander** *(26-May-20 04:08 PM)*
+**Zander** _(26-May-20 04:08 PM)_
 
+_Emmett suds his face thoroughly._
 
-*Emmett suds his face thoroughly.*
+**Lili** _(26-May-20 04:08 PM)_
 
-**Lili** *(26-May-20 04:08 PM)*
+_Iris' cheeks turn pink._
 
+**Brody** _(26-May-20 04:08 PM)_
 
-*Iris' cheeks turn pink.*
-
-**Brody** *(26-May-20 04:08 PM)*
 > Sanya: I'll see if i can start the auto-pilot.
 
-**Sean** *(26-May-20 04:08 PM)*
+**Sean** _(26-May-20 04:08 PM)_
 
+_Seth's mouth turns into a vacuum cleaner as he sucks up the carrot cake whole_
 
-*Seth's mouth turns into a vacuum cleaner as he sucks up the carrot cake whole*
+**Lili** _(26-May-20 04:08 PM)_
 
-**Lili** *(26-May-20 04:08 PM)*
 > Iris: That was so long ago.
 
-**Silas** *(26-May-20 04:08 PM)*
+**Silas** _(26-May-20 04:08 PM)_
 8ball does a Molemobile emerge from the ground near the ship?
 
-**FFBot** *(26-May-20 04:08 PM)*
+**FFBot** _(26-May-20 04:08 PM)_
 N Word. (No).
 
-**Sean** *(26-May-20 04:08 PM)*
+**Sean** _(26-May-20 04:08 PM)_
+
 > Seth: Seth decides he's going to pilot the ship
 
-**Trey** *(26-May-20 04:09 PM)*
+**Trey** _(26-May-20 04:09 PM)_
+
 > Garrick: ...Sanya, can you do it?
 
-**Brody** *(26-May-20 04:09 PM)*
+**Brody** _(26-May-20 04:09 PM)_
 
+_Sanya sits in the cockpit, realizing she has no knowledge of how to drive_
 
-*Sanya sits in the cockpit, realizing she has no knowledge of how to drive*
+**Brody** _(26-May-20 04:09 PM)_
 
-**Brody** *(26-May-20 04:09 PM)*
 > Sanya: Seth, how do i drive this?
 
-**Sean** *(26-May-20 04:09 PM)*
+**Sean** _(26-May-20 04:09 PM)_
 
+_Seth heads to the cockpit_
 
-*Seth heads to the cockpit*
+**Lili** _(26-May-20 04:09 PM)_
 
-**Lili** *(26-May-20 04:09 PM)*
 > Iris: Anyways, i came here to make sure you're okay.
 
-**Sean** *(26-May-20 04:09 PM)*
+**Sean** _(26-May-20 04:09 PM)_
+
 > Seth: I have it my friend, says Seth.
 
-**Cooldude** *(26-May-20 04:09 PM)*
+**Cooldude** _(26-May-20 04:09 PM)_
 Woah! Emmett Flower with no brim!
 
-**Brody** *(26-May-20 04:10 PM)*
+**Brody** _(26-May-20 04:10 PM)_
+
 > Sanya: That would be an awful idea.
 
-**Sean** *(26-May-20 04:10 PM)*
+**Sean** _(26-May-20 04:10 PM)_
+
 > Seth: Seth decides he's going to show Sanya how a real pilot pilots.
 
-**Lili** *(26-May-20 04:10 PM)*
+**Lili** _(26-May-20 04:10 PM)_
+
 > Iris: I mean, that whole thing was pretty weird. Like,
 
-**Brody** *(26-May-20 04:10 PM)*
+**Brody** _(26-May-20 04:10 PM)_
+
 > Sanya: Just tell me what buttons to press.
 
-**Trey** *(26-May-20 04:10 PM)*
+**Trey** _(26-May-20 04:10 PM)_
 
+_Garrick peeks into the cockpit._
 
-*Garrick peeks into the cockpit.*
 > Garrick: I could try.
 
-**Sean** *(26-May-20 04:10 PM)*
+**Sean** _(26-May-20 04:10 PM)_
+
 > Seth: Seth sits in the driver seat
 
-**Sean** *(26-May-20 04:10 PM)*
+**Sean** _(26-May-20 04:10 PM)_
 
+_Seth sits down_
 
-*Seth sits down*
+**Brody** _(26-May-20 04:10 PM)_
 
-**Brody** *(26-May-20 04:10 PM)*
 > Sanya: Get off of my lap.
 
-**Lili** *(26-May-20 04:10 PM)*
+**Lili** _(26-May-20 04:10 PM)_
 
+_Iris takes this moment to shift into Olag and mimick his voice, but with a really high pitch._
 
-*Iris takes this moment to shift into Olag and mimick his voice, but with a really high pitch.*
+**Sean** _(26-May-20 04:10 PM)_
 
-**Sean** *(26-May-20 04:10 PM)*
 > Seth: Next time sit in the right chair Seth says.
 
-**Sean** *(26-May-20 04:10 PM)*
+**Sean** _(26-May-20 04:10 PM)_
+
 > Seth: Seth turns the key
 
-**Sean** *(26-May-20 04:10 PM)*
+**Sean** _(26-May-20 04:10 PM)_
 
+_Seth turns the key_
 
-*Seth turns the key*
+**Lili** _(26-May-20 04:11 PM)_
 
-**Lili** *(26-May-20 04:11 PM)*
 > Iris: I love you, stay safe,
 
-*she mocks, in a very mocking tone.*
+_she mocks, in a very mocking tone._
 
-**Trey** *(26-May-20 04:11 PM)*
+**Trey** _(26-May-20 04:11 PM)_
+
 > Garrick: Shoot! I'm missing the prank!
 
-**Trey** *(26-May-20 04:11 PM)*
+**Trey** _(26-May-20 04:11 PM)_
 
+_Garrick hurries off back to the bathroom._
 
-*Garrick hurries off back to the bathroom.*
+**Zander** _(26-May-20 04:11 PM)_
 
-**Zander** *(26-May-20 04:11 PM)*
+_Emmett scrubbed himself down and felt pretty clean. He just had to get his horns-_
 
-
-*Emmett scrubbed himself down and felt pretty clean. He just had to get his horns-*
-
-**Charles** *(26-May-20 04:11 PM)*
+**Charles** _(26-May-20 04:11 PM)_
 8ball does a ship emerge from under the asteroid and land in the station
 
-**FFBot** *(26-May-20 04:11 PM)*
+**FFBot** _(26-May-20 04:11 PM)_
 My reply is no.
 
-**Sean** *(26-May-20 04:11 PM)*
+**Sean** _(26-May-20 04:11 PM)_
+
 > Seth: Flip that red switch over there Seth says
 
-**Cooldude** *(26-May-20 04:11 PM)*
+**Cooldude** _(26-May-20 04:11 PM)_
 He says turns the key as he turns the key
 
-**Sean** *(26-May-20 04:11 PM)*
+**Sean** _(26-May-20 04:11 PM)_
+
 > Seth: Seth points
 
-**Sean** *(26-May-20 04:11 PM)*
+**Sean** _(26-May-20 04:11 PM)_
 
+_Seth points_
 
-*Seth points*
+**Zander** _(26-May-20 04:11 PM)_
 
-**Zander** *(26-May-20 04:11 PM)*
+_Emmett jumped a little._
 
-
-*Emmett jumped a little.*
 > Emmett: I thought you were dead!
 
-**Lili** *(26-May-20 04:11 PM)*
+**Lili** _(26-May-20 04:11 PM)_
 
+_she turns back into herself._
 
-*she turns back into herself.*
+**Brody** _(26-May-20 04:11 PM)_
 
-**Brody** *(26-May-20 04:11 PM)*
 > Sanya: Sanya is getting really tired of Seth narrating himself.
 
-*She flips the lever*
+_She flips the lever_
 
-**Cooldude** *(26-May-20 04:11 PM)*
+**Cooldude** _(26-May-20 04:11 PM)_
 Seth is his own narrator
 
-**Sean** *(26-May-20 04:12 PM)*
+**Sean** _(26-May-20 04:12 PM)_
+
 > Seth: Seth says you can go fuck yourself you stupid sunflower.
 
-**Zander** *(26-May-20 04:12 PM)*
+**Zander** _(26-May-20 04:12 PM)_
+
 > Emmett: I'm literally taking a shower to get out of your... shit.
 
-**Lili** *(26-May-20 04:12 PM)*
+**Lili** _(26-May-20 04:12 PM)_
+
 > Iris: Sorry, sorry, I thought i had the voice different enough you'd know it was me.
 
-**Sean** *(26-May-20 04:12 PM)*
+**Sean** _(26-May-20 04:12 PM)_
+
 > Seth: Seth firmly grasps the wheel
 
-**Sean** *(26-May-20 04:12 PM)*
+**Sean** _(26-May-20 04:12 PM)_
 
+_Seth grasps the wheel_
 
-*Seth grasps the wheel*
+**Trey** _(26-May-20 04:12 PM)_
 
-**Trey** *(26-May-20 04:12 PM)*
 > Garrick: No, Iris, what are you doing?!
 
-*He says this way louder than the whisper he intended.*
+_He says this way louder than the whisper he intended._
 
-**Brody** *(26-May-20 04:13 PM)*
+**Brody** _(26-May-20 04:13 PM)_
+
 > Sanya: I'll have fun taking you apart one day.
 
-*Sanya gets up and sits in the co-pilot seat.*
+_Sanya gets up and sits in the co-pilot seat._
 
-**Lili** *(26-May-20 04:13 PM)*
+**Lili** _(26-May-20 04:13 PM)_
 
+_iris looks up to fix Garrick with a very monotone glare._
 
-*iris looks up to fix Garrick with a very monotone glare.*
+**Preston** _(26-May-20 04:13 PM)_
 
-**Preston** *(26-May-20 04:13 PM)*
+_Volonta walks up and taps on Garrick's shoulder_
 
-
-*Volonta walks up and taps on Garrick's shoulder*
 > Volentina: Where do I clean this off at?
 
-*He holds up the shit stained mop*
+_He holds up the shit stained mop_
 
-**Sean** *(26-May-20 04:13 PM)*
+**Sean** _(26-May-20 04:13 PM)_
+
 > Seth: Flip the blue switch, says Seth
 
-**Cooldude** *(26-May-20 04:13 PM)*
+**Cooldude** _(26-May-20 04:13 PM)_
+
 > Wemmfort: Wemmfort throws a bottle of space juice to Seth.
 
-**Silas** *(26-May-20 04:13 PM)*
+**Silas** _(26-May-20 04:13 PM)_
 8ball does a 2009 Toyota Prius drive up and park next to the ship?
 
-**FFBot** *(26-May-20 04:13 PM)*
+**FFBot** _(26-May-20 04:13 PM)_
 Choose someone who decides for me.
 
-**Brody** *(26-May-20 04:13 PM)*
+**Brody** _(26-May-20 04:13 PM)_
 
+_Sanya flips the switch._
 
-*Sanya flips the switch.*
+**Zander** _(26-May-20 04:13 PM)_
 
-**Zander** *(26-May-20 04:13 PM)*
+_Emmett opens up the curtain a little bit. He was still covering his lower half, but his torso was definitely showing. His horns were doused in soap._
 
+**Brody** _(26-May-20 04:13 PM)_
 
-*Emmett opens up the curtain a little bit. He was still covering his lower half, but his torso was definitely showing. His horns were doused in soap.*
-
-**Brody** *(26-May-20 04:13 PM)*
 > Sanya: Would it kill you to say please?
 
-**Zander** *(26-May-20 04:13 PM)*
+**Zander** _(26-May-20 04:13 PM)_
+
 > Emmett: What?
 
-**Zander** *(26-May-20 04:13 PM)*
+**Zander** _(26-May-20 04:13 PM)_
+
 > Emmett: Iris, was that you?
 
-**Trey** *(26-May-20 04:13 PM)*
+**Trey** _(26-May-20 04:13 PM)_
+
 > Garrick: Wait until Emmett gets out of the shower, I guess.
 
-**Sean** *(26-May-20 04:13 PM)*
+**Sean** _(26-May-20 04:13 PM)_
 
+_The ship starts to float up_
 
-*The ship starts to float up*
+**Lili** _(26-May-20 04:14 PM)_
 
-**Lili** *(26-May-20 04:14 PM)*
 > Iris: Yeah it was.
 
-**Sean** *(26-May-20 04:14 PM)*
+**Sean** _(26-May-20 04:14 PM)_
+
 > Seth: We are launching says Seth.
 
-**Sean** *(26-May-20 04:14 PM)*
+**Sean** _(26-May-20 04:14 PM)_
+
 > Seth: Seth turns on the intercom on the ship
 
-**Sean** *(26-May-20 04:14 PM)*
+**Sean** _(26-May-20 04:14 PM)_
 
+_Seth flips a switch_
 
-*Seth flips a switch*
+**Preston** _(26-May-20 04:14 PM)_
 
-**Preston** *(26-May-20 04:14 PM)*
+_Volonta shrugs his shoulders and leans the mop against a wall before wandering around_
 
+**Sean** _(26-May-20 04:14 PM)_
 
-*Volonta shrugs his shoulders and leans the mop against a wall before wandering around*
-
-**Sean** *(26-May-20 04:14 PM)*
 > Seth: Seth begins speaking
 
-**Lili** *(26-May-20 04:14 PM)*
+**Lili** _(26-May-20 04:14 PM)_
 
+_Iris mimics Garrick's voice but not his body._
 
-*Iris mimics Garrick's voice but not his body.*
 > Iris: Don't make me do it Garrick.
 
-**Zander** *(26-May-20 04:14 PM)*
+**Zander** _(26-May-20 04:14 PM)_
 
+_Emmett felt turbulence from the ship launching._
 
-*Emmett felt turbulence from the ship launching.*
+**Trey** _(26-May-20 04:15 PM)_
 
-**Trey** *(26-May-20 04:15 PM)*
 > Garrick: Do what? What're you gonna do?
 
-**Sean** *(26-May-20 04:15 PM)*
+**Sean** _(26-May-20 04:15 PM)_
+
 > Seth: HELLO! THIS IS YOUR NEW PILOT SPEAKING! WE ARE LAUNCHING SO WE DON'T DIE. Says Seth.
 
-**Rashidi** *(26-May-20 04:15 PM)*
+**Rashidi** _(26-May-20 04:15 PM)_
 
+_Dakari wakes from his nap to rumbling of the ship launching and Seth's voice over the intercom_
 
-*Dakari wakes from his nap to rumbling of the ship launching and Seth's voice over the intercom*
+**Cooldude** _(26-May-20 04:15 PM)_
 
-**Cooldude** *(26-May-20 04:15 PM)*
 > Wemmfort: Wemmfort stumbles around the ship.
 
-**Zander** *(26-May-20 04:15 PM)*
+**Zander** _(26-May-20 04:15 PM)_
+
 > Emmett: I need to get out of here. Someone's flying when they're no supposed-
 
-**Lili** *(26-May-20 04:15 PM)*
+**Lili** _(26-May-20 04:15 PM)_
 
+_Iris turns her face into Garrick's. Just her face, though._
 
-*Iris turns her face into Garrick's. Just her face, though.*
+**Zander** _(26-May-20 04:15 PM)_
 
-**Zander** *(26-May-20 04:15 PM)*
+_Emmett puts on his comms._
 
+**Cooldude** _(26-May-20 04:15 PM)_
 
-*Emmett puts on his comms.*
+_Wemmfort stumbles around the ship._
 
-**Cooldude** *(26-May-20 04:15 PM)*
+**Zander** _(26-May-20 04:15 PM)_
 
-
-*Wemmfort stumbles around the ship.*
-
-**Zander** *(26-May-20 04:15 PM)*
 > Emmett: Get the fuck out of my seat!
 
-**Sean** *(26-May-20 04:15 PM)*
+**Sean** _(26-May-20 04:15 PM)_
+
 > Seth: Seth launches the ship forward with a jolt
 
-**Sean** *(26-May-20 04:15 PM)*
+**Sean** _(26-May-20 04:15 PM)_
 
+_Seth launches the ship forward with a jolt_
 
-*Seth launches the ship forward with a jolt*
+**Cooldude** _(26-May-20 04:16 PM)_
 
-**Cooldude** *(26-May-20 04:16 PM)*
 > Wemmfort: Wemmfort didn't put his seatbelt on
 
-*Wemmfort didn't put his seatbelt on*
+_Wemmfort didn't put his seatbelt on_
 
-**Zander** *(26-May-20 04:16 PM)*
+**Zander** _(26-May-20 04:16 PM)_
 
+_Emmett is launched from the shower to the bathroom door._
 
-*Emmett is launched from the shower to the bathroom door.*
+**Zander** _(26-May-20 04:16 PM)_
 
-**Zander** *(26-May-20 04:16 PM)*
 > Emmett: Seth!
 
-**Trey** *(26-May-20 04:16 PM)*
+**Trey** _(26-May-20 04:16 PM)_
 
+_Garrick, horrified, scurries off._
 
-*Garrick, horrified, scurries off.*
+**Sean** _(26-May-20 04:16 PM)_
 
-**Sean** *(26-May-20 04:16 PM)*
 > Seth: Seth turns on autopilot but accidently turns on disco mode in the progress
 
-**Brody** *(26-May-20 04:16 PM)*
+**Brody** _(26-May-20 04:16 PM)_
+
 > Sanya: Sanya is this close to doing bodily harm on Seth
 
-**Lili** *(26-May-20 04:16 PM)*
+**Lili** _(26-May-20 04:16 PM)_
 
+_Iris laughs._
 
-*Iris laughs.*
+**Zander** _(26-May-20 04:16 PM)_
 
-**Zander** *(26-May-20 04:16 PM)*
 > Emmett: Get the fuck out of my seat!
 
-**Sean** *(26-May-20 04:16 PM)*
+**Sean** _(26-May-20 04:16 PM)_
 
+_Seth turns on autopilot but accidently turns on disco mode in the progress_
 
-*Seth turns on autopilot but accidently turns on disco mode in the progress*
+**Lili** _(26-May-20 04:16 PM)_
 
-**Lili** *(26-May-20 04:16 PM)*
 > Iris: That's what i call a prank.
 
-**Cooldude** *(26-May-20 04:16 PM)*
+**Cooldude** _(26-May-20 04:16 PM)_
 Charles goes next
 
-**Sean** *(26-May-20 04:16 PM)*
+**Sean** _(26-May-20 04:16 PM)_
+
 > Seth: Looks like it is dancing time, Seth quips.
 
-**Silas** *(26-May-20 04:16 PM)*
+**Silas** _(26-May-20 04:16 PM)_
 8ball in his genuine fear, does Garrick stumble and drop something out of his pockets?
 
-**FFBot** *(26-May-20 04:16 PM)*
+**FFBot** _(26-May-20 04:16 PM)_
 You may rely on it.
 
-**Sean** *(26-May-20 04:16 PM)*
+**Sean** _(26-May-20 04:16 PM)_
+
 > Seth: Seth does the funny laugh
 
-**Hunter** *(26-May-20 04:17 PM)*
+**Hunter** _(26-May-20 04:17 PM)_
 
+_Rachell has been slammed against one of the walls of the ship, her goopy body melting part of said wall._
 
-*Rachell has been slammed against one of the walls of the ship, her goopy body melting part of said wall.*
+**Sean** _(26-May-20 04:17 PM)_
 
-**Sean** *(26-May-20 04:17 PM)*
+_Seth laughs_
 
-
-*Seth laughs*
-
-**Trey** *(26-May-20 04:17 PM)*
+**Trey** _(26-May-20 04:17 PM)_
 "Fake Lottery Ticket"
 
-**Hunter** *(26-May-20 04:17 PM)*
+**Hunter** _(26-May-20 04:17 PM)_
+
 > Rachell: This is... interesting.
 
-**Sean** *(26-May-20 04:17 PM)*
+**Sean** _(26-May-20 04:17 PM)_
 
+_Seth hops off the seat_
 
-*Seth hops off the seat*
+**Lili** _(26-May-20 04:17 PM)_
 
-**Lili** *(26-May-20 04:17 PM)*
+_Iris quickly covers her eyes once she notices that Emmett is out of the shower._
 
+**Sean** _(26-May-20 04:17 PM)_
 
-*Iris quickly covers her eyes once she notices that Emmett is out of the shower.*
-
-**Sean** *(26-May-20 04:17 PM)*
 > Seth: Thats enough of that
 
-**Cooldude** *(26-May-20 04:17 PM)*
+**Cooldude** _(26-May-20 04:17 PM)_
 8ball Does Wemmfort attempt to put a seatbelt on?
 
-**FFBot** *(26-May-20 04:17 PM)*
+**FFBot** _(26-May-20 04:17 PM)_
 Yes, but in a monotonous tone.
 
-**Sean** *(26-May-20 04:18 PM)*
+**Sean** _(26-May-20 04:18 PM)_
+
 > Seth: Emmett, we're heading to Station 30-x2.
 
-**Zander** *(26-May-20 04:18 PM)*
+**Zander** _(26-May-20 04:18 PM)_
 
+_Emmett clearly didn't care that he was naked. He stormed over to the cockpit._
 
-*Emmett clearly didn't care that he was naked. He stormed over to the cockpit.*
+**Zander** _(26-May-20 04:18 PM)_
 
-**Zander** *(26-May-20 04:18 PM)*
 > Emmett: This is my spot, dumbshit.
 
-**Cooldude** *(26-May-20 04:18 PM)*
+**Cooldude** _(26-May-20 04:18 PM)_
+
 > Wemmfort: I am going to put on my seatbelt.> Wemmfort: I am safe now.
 
-**Sean** *(26-May-20 04:18 PM)*
+**Sean** _(26-May-20 04:18 PM)_
 
+_Seth jolts the ship forward again_
 
-*Seth jolts the ship forward again*
+**Brody** _(26-May-20 04:18 PM)_
 
-**Brody** *(26-May-20 04:18 PM)*
 > Sanya: Put on a towel, you're indecent.
 
-**Sean** *(26-May-20 04:18 PM)*
+**Sean** _(26-May-20 04:18 PM)_
+
 > Seth: Don't come in the cockpit with your cock out.
 
-**Sean** *(26-May-20 04:18 PM)*
+**Sean** _(26-May-20 04:18 PM)_
+
 > Seth: Thats my job.
 
-**Zander** *(26-May-20 04:18 PM)*
+**Zander** _(26-May-20 04:18 PM)_
 
+_Emmett is jostled onto Sanya from the sudden jolt._
 
-*Emmett is jostled onto Sanya from the sudden jolt.*
+**Trey** _(26-May-20 04:19 PM)_
 
-**Trey** *(26-May-20 04:19 PM)*
 > Garrick: Like father, like son.
 
-**Sean** *(26-May-20 04:19 PM)*
+**Sean** _(26-May-20 04:19 PM)_
+
 > Seth: Now, y'all have fun.
 
-**Lili** *(26-May-20 04:19 PM)*
+**Lili** _(26-May-20 04:19 PM)_
 
+_Iris follows him, stumbling a bit on occasion._
 
-*Iris follows him, stumbling a bit on occasion.*
+**Brody** _(26-May-20 04:19 PM)_
 
-**Brody** *(26-May-20 04:19 PM)*
 > Sanya: Get off. You're getting my outfit wet.
 
-**Zander** *(26-May-20 04:19 PM)*
+**Zander** _(26-May-20 04:19 PM)_
+
 > Emmett: You're going to destroy my baby! Get handling her that way!
 
-**Charles** *(26-May-20 04:19 PM)*
+**Charles** _(26-May-20 04:19 PM)_
 8ball does Vargas go to space station 30-x2
 
-**FFBot** *(26-May-20 04:19 PM)*
+**FFBot** _(26-May-20 04:19 PM)_
 Spell it with me now, N-O.
 
-**Zander** *(26-May-20 04:19 PM)*
+**Zander** _(26-May-20 04:19 PM)_
 
+_Emmett hops off of Sanya, and as Seth specified, his cock was a little out._
 
-*Emmett hops off of Sanya, and as Seth specified, his cock was a little out.*
+**Sean** _(26-May-20 04:20 PM)_
 
-**Sean** *(26-May-20 04:20 PM)*
 > Seth: She'll live man.
 
-**Trey** *(26-May-20 04:20 PM)*
+**Trey** _(26-May-20 04:20 PM)_
 
+_Garrick returns to his room to log the failure of his prank._
 
-*Garrick returns to his room to log the failure of his prank.*
+**Hunter** _(26-May-20 04:20 PM)_
 
-**Hunter** *(26-May-20 04:20 PM)*
+_Rachel takes a peek at the cockpit her face still absorbing some of that metal that stuck to her earlier._
 
-
-*Rachel takes a peek at the cockpit her face still absorbing some of that metal that stuck to her earlier.*
 > Rachell: What is happening? Please report.
 
-**Lili** *(26-May-20 04:20 PM)*
+**Lili** _(26-May-20 04:20 PM)_
 8ball does Iris throw a towel at Emmett
 
-**FFBot** *(26-May-20 04:20 PM)*
+**FFBot** _(26-May-20 04:20 PM)_
 No, but something that the person after you decides upon happens.
 
-**Sean** *(26-May-20 04:20 PM)*
+**Sean** _(26-May-20 04:20 PM)_
+
 > Seth: I handled her like this way before you ever were born.
 
-**Brody** *(26-May-20 04:20 PM)*
+**Brody** _(26-May-20 04:20 PM)_
+
 > Sanya: Seth's driving the same way he lives: Recklessly.
 
-**Zander** *(26-May-20 04:20 PM)*
+**Zander** _(26-May-20 04:20 PM)_
+
 > Emmett: Seth's ruining my ship.
 
-**Zander** *(26-May-20 04:20 PM)*
+**Zander** _(26-May-20 04:20 PM)_
 
+_Emmett was flaccid and clearly upset._
 
-*Emmett was flaccid and clearly upset.*
+**Sean** _(26-May-20 04:21 PM)_
 
-**Sean** *(26-May-20 04:21 PM)*
 > Seth: Im not but ok
 
-**Zander** *(26-May-20 04:21 PM)*
+**Zander** _(26-May-20 04:21 PM)_
 8ball Do I walk up on Emmett and Iris' fiasco?
 
-**FFBot** *(26-May-20 04:21 PM)*
+**FFBot** _(26-May-20 04:21 PM)_
 Of course not!
 
-**Hunter** *(26-May-20 04:21 PM)*
+**Hunter** _(26-May-20 04:21 PM)_
+
 > Rachell: I think one of the walls may have a hole in it now.
 
-**Rashidi** *(26-May-20 04:21 PM)*
+**Rashidi** _(26-May-20 04:21 PM)_
 
+_Dakari walking towards the cockpit_
 
-*Dakari walking towards the cockpit*
+**Rashidi** _(26-May-20 04:21 PM)_
 
-**Rashidi** *(26-May-20 04:21 PM)*
 > Dakari: What are you guys doing, and why is Emmett butt naked?
 
-**Zander** *(26-May-20 04:22 PM)*
+**Zander** _(26-May-20 04:22 PM)_
+
 > Emmett: Oh.
 
-**Zander** *(26-May-20 04:22 PM)*
+**Zander** _(26-May-20 04:22 PM)_
+
 > Emmett: Hello then.
 
-**Cooldude** *(26-May-20 04:22 PM)*
+**Cooldude** _(26-May-20 04:22 PM)_
+
 > Wemmfort: Stop looking at him.
 
-**Lili** *(26-May-20 04:22 PM)*
+**Lili** _(26-May-20 04:22 PM)_
+
 > Iris: Clothes, Emmett!
 
-**Brody** *(26-May-20 04:22 PM)*
+**Brody** _(26-May-20 04:22 PM)_
+
 > Sanya: Seth decided to drive.
 
-**Zander** *(26-May-20 04:22 PM)*
+**Zander** _(26-May-20 04:22 PM)_
 
+_Emmett looks down and shrugs._
 
-*Emmett looks down and shrugs.*
 > Emmett: Well, Seth did decide to drive.
 
-**Rashidi** *(26-May-20 04:22 PM)*
+**Rashidi** _(26-May-20 04:22 PM)_
+
 > Dakari: We're doomed then.
 
-**Hunter** *(26-May-20 04:22 PM)*
+**Hunter** _(26-May-20 04:22 PM)_
+
 > Rachell: What is that flesh wand, Emmett?
 
-**Zander** *(26-May-20 04:22 PM)*
+**Zander** _(26-May-20 04:22 PM)_
+
 > Emmett: I mean, can someone grab me my clothes from-
 
-**Zander** *(26-May-20 04:22 PM)*
+**Zander** _(26-May-20 04:22 PM)_
+
 > Emmett: Flesh... Wand?
 
-**Trey** *(26-May-20 04:23 PM)*
+**Trey** _(26-May-20 04:23 PM)_
 
+_Garrick returns to the cockpit, pulls out some pants, and throws them at Emmett._
 
-*Garrick returns to the cockpit, pulls out some pants, and throws them at Emmett.*
-
-**Michael** *(26-May-20 04:23 PM)*
+**Michael** _(26-May-20 04:23 PM)_
 8ball does anyone seem to notice the sentient water slithering around their ship?
 
-**FFBot** *(26-May-20 04:23 PM)*
+**FFBot** _(26-May-20 04:23 PM)_
 Yes.
 
-**Trey** *(26-May-20 04:23 PM)*
+**Trey** _(26-May-20 04:23 PM)_
+
 > Garrick: Pants.
 
-**Preston** *(26-May-20 04:23 PM)*
+**Preston** _(26-May-20 04:23 PM)_
+
 > Volentina: What the fuck is this
 
-**Zander** *(26-May-20 04:23 PM)*
+**Zander** _(26-May-20 04:23 PM)_
+
 > Emmett: That's what we call a Dick in my culture.
 
-**Hunter** *(26-May-20 04:23 PM)*
+**Hunter** _(26-May-20 04:23 PM)_
+
 > Rachell: Yes, that thing, between you legs, my research must continue.
 
-**Brody** *(26-May-20 04:23 PM)*
+**Brody** _(26-May-20 04:23 PM)_
+
 > Sanya: Don't even try it, weirdo.
 
-**Hunter** *(26-May-20 04:23 PM)*
+**Hunter** _(26-May-20 04:23 PM)_
+
 > Rachell: I must examine it, now.
 
-**Lili** *(26-May-20 04:23 PM)*
+**Lili** _(26-May-20 04:23 PM)_
 
+_Iris chokes a bit on air, cheeks turning red._
 
-*Iris chokes a bit on air, cheeks turning red.*
+**Michael** _(26-May-20 04:23 PM)_
 
-**Michael** *(26-May-20 04:23 PM)*
+_moves around as a puddle_
 
+**Trey** _(26-May-20 04:23 PM)_
 
-*moves around as a puddle*
-
-**Trey** *(26-May-20 04:23 PM)*
 > Garrick: Seth might let you examine him.
 
-**Lili** *(26-May-20 04:24 PM)*
+**Lili** _(26-May-20 04:24 PM)_
+
 > Iris: Guys can you please stop talking about Emmett's dick??
 
-**Zander** *(26-May-20 04:24 PM)*
+**Zander** _(26-May-20 04:24 PM)_
+
 > Emmett: It's my cock.
 
-*The pants were clearly too small. He, using the pants like a sockpuppet, covered his willy.*
+_The pants were clearly too small. He, using the pants like a sockpuppet, covered his willy._
 
-**Silas** *(26-May-20 04:24 PM)*
+**Silas** _(26-May-20 04:24 PM)_
 haha penis
 
-**Preston** *(26-May-20 04:24 PM)*
+**Preston** _(26-May-20 04:24 PM)_
 
+_Volonta grabs the mop and readies it to clean the puddle_
 
-*Volonta grabs the mop and readies it to clean the puddle*
+**Trey** _(26-May-20 04:24 PM)_
 
-**Trey** *(26-May-20 04:24 PM)*
 > Garrick: No, it's the topic of conversation right now. Get over it.
 
-**Zander** *(26-May-20 04:24 PM)*
+**Zander** _(26-May-20 04:24 PM)_
+
 > Emmett: This is not like the typical jobs I'd sign up for.
 
-**Cooldude** *(26-May-20 04:24 PM)*
+**Cooldude** _(26-May-20 04:24 PM)_
 I'm in pain
 
-**Michael** *(26-May-20 04:24 PM)*
+**Michael** _(26-May-20 04:24 PM)_
 
+_runs away from the mop_
 
-*runs away from the mop*
+**Hunter** _(26-May-20 04:24 PM)_
 
-**Hunter** *(26-May-20 04:24 PM)*
 > Rachell: The 'Seth' person is quite creepy, please, keep him away from me.
 
-**Sean** *(26-May-20 04:24 PM)*
+**Sean** _(26-May-20 04:24 PM)_
 
+_Seth turns up the speed on the ship_
 
-*Seth turns up the speed on the ship*
+**Preston** _(26-May-20 04:24 PM)_
 
-**Preston** *(26-May-20 04:24 PM)*
+_Volonta chases the puddle_
 
+**Sean** _(26-May-20 04:24 PM)_
 
-*Volonta chases the puddle*
-
-**Sean** *(26-May-20 04:24 PM)*
 > Seth: Emmett, turn on the warp drive for me
 
-**Zander** *(26-May-20 04:24 PM)*
+**Zander** _(26-May-20 04:24 PM)_
+
 > Emmett: We have moving water-
 
-*Emmett slid to another wall.*
+_Emmett slid to another wall._
 
-**Brody** *(26-May-20 04:24 PM)*
+**Brody** _(26-May-20 04:24 PM)_
+
 > Sanya: Hey, she got lesson 1 of the Vortox Pummelers down.
 
-**Sean** *(26-May-20 04:25 PM)*
+**Sean** _(26-May-20 04:25 PM)_
+
 > Seth: I don't think Olag unwrapped it yet
 
-**Lili** *(26-May-20 04:25 PM)*
+**Lili** _(26-May-20 04:25 PM)_
 
+_Iris holds her hand out to Rachell._
 
-*Iris holds her hand out to Rachell.*
 > Iris: I don't think we've officially met, my name is Iris!
 
-**Michael** *(26-May-20 04:25 PM)*
+**Michael** _(26-May-20 04:25 PM)_
 
+_moves between Emmett's legs_
 
-*moves between Emmett's legs*
+**Zander** _(26-May-20 04:25 PM)_
 
-**Zander** *(26-May-20 04:25 PM)*
 > Emmett: The fuck is that thing?
 
-**Michael** *(26-May-20 04:25 PM)*
+**Michael** _(26-May-20 04:25 PM)_
 
+_runs towards the kitchen_
 
-*runs towards the kitchen*
+**Preston** _(26-May-20 04:25 PM)_
 
-**Preston** *(26-May-20 04:25 PM)*
 > Volentina: Sentient puddle. I have no fucking clue.
 
-**Zander** *(26-May-20 04:25 PM)*
+**Zander** _(26-May-20 04:25 PM)_
+
 > Emmett: OKAY, OKAY.
 
-*Emmett stands up.*
+_Emmett stands up._
+
 > Emmett: Who wants to go with me to the engine room?
 
-**Preston** *(26-May-20 04:26 PM)*
+**Preston** _(26-May-20 04:26 PM)_
 
+_He chases again_
 
-*He chases again*
+**Hunter** _(26-May-20 04:26 PM)_
 
-**Hunter** *(26-May-20 04:26 PM)*
+_Rachell looks at Iris, then her hand, it's a blank unfeeling stare._
 
+**Rashidi** _(26-May-20 04:26 PM)_
 
-*Rachell looks at Iris, then her hand, it's a blank unfeeling stare.*
-
-**Rashidi** *(26-May-20 04:26 PM)*
 > Dakari: You know what, I'll go.
 
-**Hunter** *(26-May-20 04:26 PM)*
+**Hunter** _(26-May-20 04:26 PM)_
+
 > Rachell: Hello, Iris.
 
-**Michael** *(26-May-20 04:26 PM)*
+**Michael** _(26-May-20 04:26 PM)_
 
+_moves under Volonta and tries to trip him_
 
-*moves under Volonta and tries to trip him*
+**Lili** _(26-May-20 04:26 PM)_
 
-**Lili** *(26-May-20 04:26 PM)*
+_Iris turns her head towards Emmett._
 
+**Lili** _(26-May-20 04:26 PM)_
 
-*Iris turns her head towards Emmett.*
-
-**Lili** *(26-May-20 04:26 PM)*
 > Iris: I'll go!
 
-**Rashidi** *(26-May-20 04:26 PM)*
+**Rashidi** _(26-May-20 04:26 PM)_
+
 > Dakari: I've been awake for 5 minutes, and I already need a break.
 
-**Zander** *(26-May-20 04:26 PM)*
+**Zander** _(26-May-20 04:26 PM)_
+
 > Emmett: Let's go, Iris and Dakari.
 
-**Lili** *(26-May-20 04:26 PM)*
+**Lili** _(26-May-20 04:26 PM)_
 
+_She retracts her hand before looking at Rachell._
 
-*She retracts her hand before looking at Rachell.*
 > Iris: What's your name?
 
-**Preston** *(26-May-20 04:27 PM)*
+**Preston** _(26-May-20 04:27 PM)_
 
+_volonta just lifts his foot up and shoves the mop down towards the puddle_
 
-*volonta just lifts his foot up and shoves the mop down towards the puddle*
+**Hunter** _(26-May-20 04:27 PM)_
 
-**Hunter** *(26-May-20 04:27 PM)*
 > Rachell: Rachell, that is my designation.
 
-**Charles** *(26-May-20 04:27 PM)*
+**Charles** _(26-May-20 04:27 PM)_
 
+_Vargas wanders around deep space for a bit._
 
-*Vargas wanders around deep space for a bit.*
+**Lili** _(26-May-20 04:27 PM)_
 
-**Lili** *(26-May-20 04:27 PM)*
+_Iris smiles._
 
+**Zander** _(26-May-20 04:27 PM)_
 
-*Iris smiles.*
+_Emmett was now awkwardly erect, the pants moving upward._
 
-**Zander** *(26-May-20 04:27 PM)*
-
-
-*Emmett was now awkwardly erect, the pants moving upward.*
 > Emmett: Can we get going?
 
-**Brody** *(26-May-20 04:27 PM)*
+**Brody** _(26-May-20 04:27 PM)_
+
 > Sanya: I'll stay here and make sure Seth doesn't kill us all.
 
-**Hunter** *(26-May-20 04:27 PM)*
+**Hunter** _(26-May-20 04:27 PM)_
 8ball Does Rachell attempt physical contact with Iris?
 
-**FFBot** *(26-May-20 04:27 PM)*
+**FFBot** _(26-May-20 04:27 PM)_
 Outlook bad.
 
-**Lili** *(26-May-20 04:27 PM)*
+**Lili** _(26-May-20 04:27 PM)_
+
 > Iris: Nice to meet you Rachell, I've gotta go!
 
-**Rashidi** *(26-May-20 04:27 PM)*
+**Rashidi** _(26-May-20 04:27 PM)_
+
 > Dakari: Let's
 
-**Trey** *(26-May-20 04:28 PM)*
+**Trey** _(26-May-20 04:28 PM)_
+
 > Garrick: Yo. Valantia.
 
-**Michael** *(26-May-20 04:28 PM)*
+**Michael** _(26-May-20 04:28 PM)_
 
+_separates so the mop doesn't hit him_
 
-*separates so the mop doesn't hit him*
+**Trey** _(26-May-20 04:28 PM)_
 
-**Trey** *(26-May-20 04:28 PM)*
 > Garrick: Where are you?
 
-**Preston** *(26-May-20 04:28 PM)*
+**Preston** _(26-May-20 04:28 PM)_
+
 > Volentina: Trying to mop up an unmoppable puddle
 
-**Lili** *(26-May-20 04:28 PM)*
+**Lili** _(26-May-20 04:28 PM)_
+
 > Iris: We'll talk later though, okay?
 
-**Brody** *(26-May-20 04:28 PM)*
+**Brody** _(26-May-20 04:28 PM)_
 `
 
-**Cooldude** *(26-May-20 04:28 PM)*
+**Cooldude** _(26-May-20 04:28 PM)_
 8ball Does Garrick get stuck in his own pocket?
 
-**FFBot** *(26-May-20 04:28 PM)*
+**FFBot** _(26-May-20 04:28 PM)_
 Yes, but with a caveat decided by the next person.
 
-**Michael** *(26-May-20 04:28 PM)*
+**Michael** _(26-May-20 04:28 PM)_
 
+_starts rising to reveal his Torrid form_
 
-*starts rising to reveal his Torrid form*
+**Hunter** _(26-May-20 04:28 PM)_
 
-**Hunter** *(26-May-20 04:28 PM)*
+_Rachell gives Iris another blank stare._
 
-
-*Rachell gives Iris another blank stare.*
 > Rachell: Ok, if you suffer any psychological or physical damage, procure my assistance.
 
-**Zander** *(26-May-20 04:28 PM)*
+**Zander** _(26-May-20 04:28 PM)_
 
+_Walks off towards the engine room, looking around for any slimy changes._
 
-*Walks off towards the engine room, looking around for any slimy changes.*
+**Michael** _(26-May-20 04:29 PM)_
 
-**Michael** *(26-May-20 04:29 PM)*
 > Theylin: HELLO!
 
-**Michael** *(26-May-20 04:29 PM)*
+**Michael** _(26-May-20 04:29 PM)_
+
 > Theylin: HOW ARE YOU?!
 
-**Trey** *(26-May-20 04:29 PM)*
+**Trey** _(26-May-20 04:29 PM)_
+
 > Garrick: Okay, well, when you get done, I have a job for you.
 
-**Charles** *(26-May-20 04:29 PM)*
+**Charles** _(26-May-20 04:29 PM)_
+
 > Vargas: I see a person flying like a a maniac.
 
-**Trey** *(26-May-20 04:29 PM)*
+**Trey** _(26-May-20 04:29 PM)_
+
 > Garrick: It's easy.
 
-**Lili** *(26-May-20 04:29 PM)*
+**Lili** _(26-May-20 04:29 PM)_
 
+_Iris nods, smiling as she jogs backwards._
 
-*Iris nods, smiling as she jogs backwards.*
+**Michael** _(26-May-20 04:29 PM)_
 
-**Michael** *(26-May-20 04:29 PM)*
 > Theylin: CAN. YOU. HEAR. ME!?
 
-**Rashidi** *(26-May-20 04:29 PM)*
+**Rashidi** _(26-May-20 04:29 PM)_
 8ball Does Dakari notice any notable sliminess in the engine room?
 
-**FFBot** *(26-May-20 04:29 PM)*
+**FFBot** _(26-May-20 04:29 PM)_
 Without a doubt.
 
-**Lili** *(26-May-20 04:29 PM)*
+**Lili** _(26-May-20 04:29 PM)_
+
 > Iris: Alright, i will!
 
-**Charles** *(26-May-20 04:29 PM)*
+**Charles** _(26-May-20 04:29 PM)_
 
+_Vargas sees a person flying like a maniac._
 
-*Vargas sees a person flying like a maniac.*
+**Michael** _(26-May-20 04:29 PM)_
 
-**Michael** *(26-May-20 04:29 PM)*
 > Theylin: I. AM. PEACEFUL!
 
-**Preston** *(26-May-20 04:29 PM)*
+**Preston** _(26-May-20 04:29 PM)_
+
 > Volentina: So you aren't a puddle. Figures.
 
-*Volonta stops trying to mop up the 'puddle'*
+_Volonta stops trying to mop up the 'puddle'_
 
-**Zander** *(26-May-20 04:29 PM)*
+**Zander** _(26-May-20 04:29 PM)_
+
 > Emmett: Oh my Squoat.
 
-**Lili** *(26-May-20 04:29 PM)*
+**Lili** _(26-May-20 04:29 PM)_
 
+_She turns to follow Emmett properly._
 
-*She turns to follow Emmett properly.*
+**Zander** _(26-May-20 04:30 PM)_
 
-**Zander** *(26-May-20 04:30 PM)*
 > Emmett: Why did he ruin everything?
 
-**Rashidi** *(26-May-20 04:30 PM)*
+**Rashidi** _(26-May-20 04:30 PM)_
+
 > Dakari: I think your friend left quite a gift for you Emmett...
 
-**Michael** *(26-May-20 04:30 PM)*
+**Michael** _(26-May-20 04:30 PM)_
+
 > Theylin: CAN. YOU. UNDERSTAND. MY. SPEAK?!
 
-**Preston** *(26-May-20 04:30 PM)*
+**Preston** _(26-May-20 04:30 PM)_
 
+_Volonta then goes to find Garrick_
 
-*Volonta then goes to find Garrick*
+**Trey** _(26-May-20 04:30 PM)_
 
-**Trey** *(26-May-20 04:30 PM)*
 > Garrick: What's the deal, Emmett?
 
-**Michael** *(26-May-20 04:30 PM)*
+**Michael** _(26-May-20 04:30 PM)_
 
+_follows the newcomer_
 
-*follows the newcomer*
+**Hunter** _(26-May-20 04:30 PM)_
 
-**Hunter** *(26-May-20 04:30 PM)*
+_Rachell keeps following Emmett, well, more like stalking him._
 
+**Charles** _(26-May-20 04:31 PM)_
 
-*Rachell keeps following Emmett, well, more like stalking him.*
-
-**Charles** *(26-May-20 04:31 PM)*
 > Vargas: That ship almost hit me!
 
-**Brody** *(26-May-20 04:31 PM)*
+**Brody** _(26-May-20 04:31 PM)_
+
 > Sanya: Well, Seth, what's at this station we're heading to?
 
-**Sean** *(26-May-20 04:31 PM)*
+**Sean** _(26-May-20 04:31 PM)_
 8ball does Emmett turn into a marble?
 
-**FFBot** *(26-May-20 04:31 PM)*
+**FFBot** _(26-May-20 04:31 PM)_
 I guess so.
 
-**Zander** *(26-May-20 04:31 PM)*
+**Zander** _(26-May-20 04:31 PM)_
 
+_Emmett shivered._
 
-*Emmett shivered.*
 > Emmett: Stay in here for me. I'm getting my clothes on. I don't want anymore of Olag's stuff on me. Especially not my....
 
-*Emmett rolled away to the restroom before finishing his statement.*
+_Emmett rolled away to the restroom before finishing his statement._
 
-**Sean** *(26-May-20 04:31 PM)*
+**Sean** _(26-May-20 04:31 PM)_
+
 > Seth: Its a pirate station
 
-**Michael** *(26-May-20 04:31 PM)*
+**Michael** _(26-May-20 04:31 PM)_
+
 > Theylin: CAN. ANYONE. SHOW. ME. TO. THIS. SHIP'S. CAPTAIN?!
 
-**Lili** *(26-May-20 04:31 PM)*
+**Lili** _(26-May-20 04:31 PM)_
 
+_Iris nods._
 
-*Iris nods.*
+**Lili** _(26-May-20 04:31 PM)_
 
-**Lili** *(26-May-20 04:31 PM)*
 > Iris: Yeah I'll wait here.
 
-**Preston** *(26-May-20 04:31 PM)*
+**Preston** _(26-May-20 04:31 PM)_
 
+_Volonta tapped on Garrick's shoulder_
 
-*Volonta tapped on Garrick's shoulder*
 > Volentina: You needed me?
 
-**Trey** *(26-May-20 04:32 PM)*
+**Trey** _(26-May-20 04:32 PM)_
 
+_Volonta's hand phases through Garrick, and Volonta falls through him._
 
-*Volonta's hand phases through Garrick, and Volonta falls through him.*
+**Brody** _(26-May-20 04:32 PM)_
 
-**Brody** *(26-May-20 04:32 PM)*
 > Sanya: Pirates? I may have to wait this one out.
 
-**Michael** *(26-May-20 04:32 PM)*
+**Michael** _(26-May-20 04:32 PM)_
 
+_wanders around the ship_
 
-*wanders around the ship*
+**Charles** _(26-May-20 04:32 PM)_
 
-**Charles** *(26-May-20 04:32 PM)*
+_Vargas follows that ship to cuss out their pilot._
 
+**Preston** _(26-May-20 04:32 PM)_
 
-*Vargas follows that ship to cuss out their pilot.*
-
-**Preston** *(26-May-20 04:32 PM)*
 > Volentina: Oh. Uh. Sorry?
 
-**Sean** *(26-May-20 04:32 PM)*
+**Sean** _(26-May-20 04:32 PM)_
+
 > Seth: No no no
 
-**Zander** *(26-May-20 04:33 PM)*
+**Zander** _(26-May-20 04:33 PM)_
 
+_Emmett turns back into himself and puts his clothes back on. In particular, he was wearing the red sweater with the yellow shoulder pads. He then left to the engine room._
 
-*Emmett turns back into himself and puts his clothes back on. In particular, he was wearing the red sweater with the yellow shoulder pads. He then left to the engine room.*
+**Trey** _(26-May-20 04:33 PM)_
 
-**Trey** *(26-May-20 04:33 PM)*
 > Garrick: Yeah, I need you in the storage room again.
 
-**Sean** *(26-May-20 04:33 PM)*
+**Sean** _(26-May-20 04:33 PM)_
+
 > Seth: By pirate station I mean its not GU oriented.
 
-**Michael** *(26-May-20 04:33 PM)*
+**Michael** _(26-May-20 04:33 PM)_
 
+_wanders around the ships, seemingly stumbling into an engine room_
 
-*wanders around the ships, seemingly stumbling into an engine room*
+**Preston** _(26-May-20 04:33 PM)_
 
-**Preston** *(26-May-20 04:33 PM)*
 > Volentina: Does it require the mop? If so I'd need to clean it.
 
-**Trey** *(26-May-20 04:33 PM)*
+**Trey** _(26-May-20 04:33 PM)_
+
 > Garrick: No.
 
-**Trey** *(26-May-20 04:33 PM)*
+**Trey** _(26-May-20 04:33 PM)_
+
 > Garrick: Come.
 
-*Garrick trails off towards the storage room.*
+_Garrick trails off towards the storage room._
 
-**Michael** *(26-May-20 04:33 PM)*
+**Michael** _(26-May-20 04:33 PM)_
+
 > Theylin: HELLO?! I. COME. IN. PEACE!
 
-**Preston** *(26-May-20 04:33 PM)*
+**Preston** _(26-May-20 04:33 PM)_
 
+_Volonta began to follow Garrick_
 
-*Volonta began to follow Garrick*
+**Michael** _(26-May-20 04:33 PM)_
 
-**Michael** *(26-May-20 04:33 PM)*
 > Theylin: WHERE. IS. THE. SHIP'S. CAPTAIN?
 
-**Zander** *(26-May-20 04:33 PM)*
+**Zander** _(26-May-20 04:33 PM)_
 
+_He nudged Iris kiddingly._
 
-*He nudged Iris kiddingly.*
 > Emmett: I mean, I'm just too hot for you guys to handle.
 
-**Zander** *(26-May-20 04:33 PM)*
+**Zander** _(26-May-20 04:33 PM)_
+
 > Emmett: Dakari.
 
-**Zander** *(26-May-20 04:33 PM)*
+**Zander** _(26-May-20 04:33 PM)_
+
 > Emmett: Can you pave a way to the warp drive?
 
-**Lili** *(26-May-20 04:34 PM)*
+**Lili** _(26-May-20 04:34 PM)_
 
+_Iris chuckles._
 
-*Iris chuckles.*
+**Brody** _(26-May-20 04:34 PM)_
 
-**Brody** *(26-May-20 04:34 PM)*
 > Sanya: Oh, that's better. I had a hit on a big wig Pirate in my early days. People still hunt me out for it.
 
-**Rashidi** *(26-May-20 04:34 PM)*
+**Rashidi** _(26-May-20 04:34 PM)_
+
 > Dakari: Yea, no problem I suppose.
 
-**Michael** *(26-May-20 04:34 PM)*
+**Michael** _(26-May-20 04:34 PM)_
 
+_just looks around the... lack-luster engine room_
 
-*just looks around the... lack-luster engine room*
+**Trey** _(26-May-20 04:34 PM)_
 
-**Trey** *(26-May-20 04:34 PM)*
+_Garrick points towards a huge pile of overflowing boxes._
 
+**Trey** _(26-May-20 04:34 PM)_
 
-*Garrick points towards a huge pile of overflowing boxes.*
-
-**Trey** *(26-May-20 04:34 PM)*
 > Garrick: So, that's gotta go. Do you know how to use the airlock?
 
-**Michael** *(26-May-20 04:35 PM)*
+**Michael** _(26-May-20 04:35 PM)_
 
+_mumbles_
 
-*mumbles*
 > Theylin: not the greatest engine
 
-**Zander** *(26-May-20 04:35 PM)*
+**Zander** _(26-May-20 04:35 PM)_
 8ball Does the warp drive get set into place?
 
-**FFBot** *(26-May-20 04:35 PM)*
+**FFBot** _(26-May-20 04:35 PM)_
 Outlook bad.
 
-**Zander** *(26-May-20 04:35 PM)*
+**Zander** _(26-May-20 04:35 PM)_
+
 > Emmett: Olag's an idiot.
 
-**Preston** *(26-May-20 04:35 PM)*
+**Preston** _(26-May-20 04:35 PM)_
+
 > Volentina: I can't say I do. Never been on a ship, so it's safe to say no.
 
-**Hunter** *(26-May-20 04:35 PM)*
+**Hunter** _(26-May-20 04:35 PM)_
 
+_There are two holes inside the ship shaped like Rachell's face, do not question them._
 
-*There are two holes inside the ship shaped like Rachell's face, do not question them.*
+**Zander** _(26-May-20 04:35 PM)_
 
-**Zander** *(26-May-20 04:35 PM)*
 > Emmett: He didn't even get this put in.
 
-**Lili** *(26-May-20 04:35 PM)*
+**Lili** _(26-May-20 04:35 PM)_
 
+_Iris nods, turning into pink Olag._
 
-*Iris nods, turning into pink Olag.*
+**Trey** _(26-May-20 04:36 PM)_
 
-**Trey** *(26-May-20 04:36 PM)*
 > Garrick: Hmm... well, we can take care of that later, I guess.
 
-**Charles** *(26-May-20 04:36 PM)*
+**Charles** _(26-May-20 04:36 PM)_
+
 > Vargas: Vargas starts to contact the dumbass drivers ship.
 
-**Lili** *(26-May-20 04:36 PM)*
+**Lili** _(26-May-20 04:36 PM)_
+
 > Iris: I'm Olag and I fixed your ship and I'm charging 100,000 Ducketts.
 
-**Rashidi** *(26-May-20 04:36 PM)*
+**Rashidi** _(26-May-20 04:36 PM)_
+
 > Dakari: Gosh... I didn't realize you could change forms Iris.
 
-**Zander** *(26-May-20 04:36 PM)*
+**Zander** _(26-May-20 04:36 PM)_
 
+_Emmett sees Iris and jumps up and latches on the roof. This wasn't too hard, given lack of gravity in the engine room._
 
-*Emmett sees Iris and jumps up and latches on the roof. This wasn't too hard, given lack of gravity in the engine room.*
+**Lili** _(26-May-20 04:36 PM)_
 
-**Lili** *(26-May-20 04:36 PM)*
+_She turns back into herself._
 
+**Lili** _(26-May-20 04:36 PM)_
 
-*She turns back into herself.*
-
-**Lili** *(26-May-20 04:36 PM)*
 > Iris: You okay Emmett?
 
-**Zander** *(26-May-20 04:36 PM)*
+**Zander** _(26-May-20 04:36 PM)_
+
 > Emmett: Iris, you can shapeshift?
 
-*He was noticeably shivering.*
+_He was noticeably shivering._
 
-**Lili** *(26-May-20 04:36 PM)*
+**Lili** _(26-May-20 04:36 PM)_
+
 > Iris: I couldn't change forms until, like, yesterday.
 
-**Charles** *(26-May-20 04:37 PM)*
+**Charles** _(26-May-20 04:37 PM)_
+
 > Vargas: Hello hello? Can you hear me?
 
-**Lili** *(26-May-20 04:37 PM)*
+**Lili** _(26-May-20 04:37 PM)_
+
 > Iris: Remember that thing with the pink ghost?
 
-**Zander** *(26-May-20 04:37 PM)*
+**Zander** _(26-May-20 04:37 PM)_
+
 > Emmett: Oh. That.
 
-**Rashidi** *(26-May-20 04:37 PM)*
+**Rashidi** _(26-May-20 04:37 PM)_
+
 > Dakari: No, wasn't there.
 
-**Preston** *(26-May-20 04:37 PM)*
+**Preston** _(26-May-20 04:37 PM)_
 
+_Volonta just shrugs and walks towards the bathroom to wash the mop_
 
-*Volonta just shrugs and walks towards the bathroom to wash the mop*
+**Sean** _(26-May-20 04:37 PM)_
 
-**Sean** *(26-May-20 04:37 PM)*
+_Seth steadily speeds up the ship_
 
+**Zander** _(26-May-20 04:37 PM)_
 
-*Seth steadily speeds up the ship*
+_Emmett falls and starts to lift the warp drive._
 
-**Zander** *(26-May-20 04:37 PM)*
+**Zander** _(26-May-20 04:37 PM)_
 
-
-*Emmett falls and starts to lift the warp drive.*
-
-**Zander** *(26-May-20 04:37 PM)*
 > Emmett: Help out.
 
-**Lili** *(26-May-20 04:37 PM)*
+**Lili** _(26-May-20 04:37 PM)_
+
 > Iris: Well I kind of absorbed a ghost and now I can shapeshift and touch ghosts.
 
-**Trey** *(26-May-20 04:38 PM)*
+**Trey** _(26-May-20 04:38 PM)_
 
+_Garrick is interested in their conversation, and regroups with Iris and the others._
 
-*Garrick is interested in their conversation, and regroups with Iris and the others.*
 > Garrick: So, how's that going anyways?
 
-**Michael** *(26-May-20 04:38 PM)*
+**Michael** _(26-May-20 04:38 PM)_
 
+_starts examining the engine_
 
-*starts examining the engine*
+**Trey** _(26-May-20 04:38 PM)_
 
-**Trey** *(26-May-20 04:38 PM)*
 > Garrick: Is she somehow conscious?
 
-**Lili** *(26-May-20 04:38 PM)*
+**Lili** _(26-May-20 04:38 PM)_
 
+_Iris turns into pink Emmett._
 
-*Iris turns into pink Emmett.*
+**Trey** _(26-May-20 04:38 PM)_
 
-**Trey** *(26-May-20 04:38 PM)*
 > Garrick: Any voices in your head so far?
 
-**Rashidi** *(26-May-20 04:38 PM)*
+**Rashidi** _(26-May-20 04:38 PM)_
+
 > Dakari: That's... useful.
 
-**Brody** *(26-May-20 04:38 PM)*
+**Brody** _(26-May-20 04:38 PM)_
 8ball Does Sanya leave Seth to his devices?
 
-**FFBot** *(26-May-20 04:38 PM)*
+**FFBot** _(26-May-20 04:38 PM)_
 Outlook bad.
 
-**Zander** *(26-May-20 04:38 PM)*
+**Zander** _(26-May-20 04:38 PM)_
+
 > Emmett: Is that comfortable for you?
 
-**Brody** *(26-May-20 04:38 PM)*
+**Brody** _(26-May-20 04:38 PM)_
+
 > Sanya: I still don't trust you alone.
 
-**Brody** *(26-May-20 04:38 PM)*
+**Brody** _(26-May-20 04:38 PM)_
+
 > Sanya: Especially not driving.
 
-**Lili** *(26-May-20 04:38 PM)*
+**Lili** _(26-May-20 04:38 PM)_
+
 > Iris: It's basically fine except for the part where I'm pink when I'm in any form other than mine.
 
-**Charles** *(26-May-20 04:39 PM)*
+**Charles** _(26-May-20 04:39 PM)_
 8ball does Vargas boards the wavering ship.
 
-**FFBot** *(26-May-20 04:39 PM)*
+**FFBot** _(26-May-20 04:39 PM)_
 It is certain.
 
-**Zander** *(26-May-20 04:39 PM)*
+**Zander** _(26-May-20 04:39 PM)_
+
 > Emmett: I kinda find it... hot.
 
-**Rashidi** *(26-May-20 04:39 PM)*
+**Rashidi** _(26-May-20 04:39 PM)_
+
 > Dakari: Get a room.
 
-**Trey** *(26-May-20 04:39 PM)*
+**Trey** _(26-May-20 04:39 PM)_
+
 > Garrick: Sounds like a win-win to me.
 
-**Zander** *(26-May-20 04:39 PM)*
+**Zander** _(26-May-20 04:39 PM)_
 
+_Emmett, despite asking for help, lifts the warp drive and sets it into place._
 
-*Emmett, despite asking for help, lifts the warp drive and sets it into place.*
+**Charles** _(26-May-20 04:39 PM)_
 
-**Charles** *(26-May-20 04:39 PM)*
 > Vargas: Hello?
 
-**Rashidi** *(26-May-20 04:39 PM)*
+**Rashidi** _(26-May-20 04:39 PM)_
 
+_Dakari begins helping Emmett with the warp drive_
 
-*Dakari begins helping Emmett with the warp drive*
+**Lili** _(26-May-20 04:39 PM)_
 
-**Lili** *(26-May-20 04:39 PM)*
 > Iris: And sometimes i have vivid dreams about being sucked into a pink void.
 
-**Rashidi** *(26-May-20 04:39 PM)*
+**Rashidi** _(26-May-20 04:39 PM)_
+
 > Dakari: My bad.
 
-**Trey** *(26-May-20 04:39 PM)*
+**Trey** _(26-May-20 04:39 PM)_
+
 > Garrick: Turn into a Squoatling and fulfill Emmett's biggest desires.
 
-**Lili** *(26-May-20 04:39 PM)*
+**Lili** _(26-May-20 04:39 PM)_
+
 > Iris: But other than that!
 
-**Charles** *(26-May-20 04:40 PM)*
+**Charles** _(26-May-20 04:40 PM)_
 
+_Vargas searches for people._
 
-*Vargas searches for people.*
+**Rashidi** _(26-May-20 04:40 PM)_
 
-**Rashidi** *(26-May-20 04:40 PM)*
 > Dakari: See, you clearly had the warp drive handled.
 
-**Zander** *(26-May-20 04:40 PM)*
+**Zander** _(26-May-20 04:40 PM)_
 
+_Emmett was panting from the weight._
 
-*Emmett was panting from the weight.*
+**Lili** _(26-May-20 04:40 PM)_
 
-**Lili** *(26-May-20 04:40 PM)*
+_Iris turns back into herself, stretching._
 
+**Zander** _(26-May-20 04:40 PM)_
 
-*Iris turns back into herself, stretching.*
-
-**Zander** *(26-May-20 04:40 PM)*
 > Emmett: That's pretty realistic...
 
-**Brody** *(26-May-20 04:40 PM)*
+**Brody** _(26-May-20 04:40 PM)_
+
 > Sanya: Seth, we got an intruder.
 
-**Rashidi** *(26-May-20 04:40 PM)*
+**Rashidi** _(26-May-20 04:40 PM)_
 
+_Dakari slaps Emmett on the back_
 
-*Dakari slaps Emmett on the back*
+**Rashidi** _(26-May-20 04:40 PM)_
 
-**Rashidi** *(26-May-20 04:40 PM)*
 > Dakari: Good job
 
-**Charles** *(26-May-20 04:40 PM)*
-*Vargas stomps his way around till he finds the cockpit
+**Charles** _(26-May-20 04:40 PM)_
+\*Vargas stomps his way around till he finds the cockpit
 (edited)
 
-**Lili** *(26-May-20 04:41 PM)*
+**Lili** _(26-May-20 04:41 PM)_
+
 > Iris: Except for the part where I'm pink, it's a perfect replication.
 
-**Zander** *(26-May-20 04:41 PM)*
+**Zander** _(26-May-20 04:41 PM)_
+
 > Emmett: Could you turn back to the Squoatling for-
 
-*Emmett fell over from the slap.*
+_Emmett fell over from the slap._
 
-**Lili** *(26-May-20 04:41 PM)*
+**Lili** _(26-May-20 04:41 PM)_
 
+_She changes her voice to Emmett's._
 
-*She changes her voice to Emmett's.*
+**Lili** _(26-May-20 04:41 PM)_
 
-**Lili** *(26-May-20 04:41 PM)*
 > Iris: I can do voices, too.
 
-**Zander** *(26-May-20 04:42 PM)*
+**Zander** _(26-May-20 04:42 PM)_
+
 > Emmett: That sounds nothing like me.
 
-*Emmett's voice was muffled from the ground.*
+_Emmett's voice was muffled from the ground._
 
-**Charles** *(26-May-20 04:42 PM)*
+**Charles** _(26-May-20 04:42 PM)_
 
+_Vargas finds a teleporter._
 
-*Vargas finds a teleporter.*
+**Lili** _(26-May-20 04:42 PM)_
 
-**Lili** *(26-May-20 04:42 PM)*
+_She laughs, still in Emmett's voice._
 
+**Sean** _(26-May-20 04:42 PM)_
 
-*She laughs, still in Emmett's voice.*
-
-**Sean** *(26-May-20 04:42 PM)*
 > Seth: Hey you see that ship over there?
 
-**Lili** *(26-May-20 04:42 PM)*
+**Lili** _(26-May-20 04:42 PM)_
+
 > Iris: I'm sure it doesn't.
 
-**Sean** *(26-May-20 04:42 PM)*
+**Sean** _(26-May-20 04:42 PM)_
+
 > Seth: Wanna see me ram it?
 
-**Cooldude** *(26-May-20 04:42 PM)*
+**Cooldude** _(26-May-20 04:42 PM)_
 Is it my turn?
 
-**Charles** *(26-May-20 04:42 PM)*
+**Charles** _(26-May-20 04:42 PM)_
 
+\*\*
 
-*\*
+**Lili** _(26-May-20 04:42 PM)_
 
-**Lili** *(26-May-20 04:42 PM)*
+_She reaches out to offer Emmett her hand._
 
+**Sean** _(26-May-20 04:42 PM)_
 
-*She reaches out to offer Emmett her hand.*
+_Seth blasts the ship to high hell_
 
-**Sean** *(26-May-20 04:42 PM)*
+**Brody** _(26-May-20 04:42 PM)_
 
-
-*Seth blasts the ship to high hell*
-
-**Brody** *(26-May-20 04:42 PM)*
 > Sanya: Yes, Seth. Ram the ship and ignore the current intruder.
 
-**Sean** *(26-May-20 04:43 PM)*
+**Sean** _(26-May-20 04:43 PM)_
+
 > Seth: Well, now he can't escape
 
-**Charles** *(26-May-20 04:43 PM)*
+**Charles** _(26-May-20 04:43 PM)_
 
+_Vargas is sent to the cockpit._
 
-*Vargas is sent to the cockpit.*
+**Zander** _(26-May-20 04:43 PM)_
 
-**Zander** *(26-May-20 04:43 PM)*
+_Looks up at her and smiles softly. He took her hand soon after._
 
-
-*Looks up at her and smiles softly. He took her hand soon after.*
 > Emmett: Do you have the same texture and everything?
 
-**Sean** *(26-May-20 04:43 PM)*
+**Sean** _(26-May-20 04:43 PM)_
+
 > Seth: Oh look hes here.
 
-**Charles** *(26-May-20 04:43 PM)*
+**Charles** _(26-May-20 04:43 PM)_
+
 > Vargas: WTF.
 
-**Lili** *(26-May-20 04:43 PM)*
+**Lili** _(26-May-20 04:43 PM)_
 
+_Iris turns back into Emmett._
 
-*Iris turns back into Emmett.*
+**Brody** _(26-May-20 04:43 PM)_
 
-**Brody** *(26-May-20 04:43 PM)*
+_Sanya throws her knife, nearly hitting Vargas._
 
+**Charles** _(26-May-20 04:43 PM)_
 
-*Sanya throws her knife, nearly hitting Vargas.*
-
-**Charles** *(26-May-20 04:43 PM)*
 > Vargas: Thats my ship
 
-**Lili** *(26-May-20 04:43 PM)*
+**Lili** _(26-May-20 04:43 PM)_
+
 > Iris: I wouldn't know.
 
-**Sean** *(26-May-20 04:43 PM)*
+**Sean** _(26-May-20 04:43 PM)_
+
 > Seth: Ok?
 
-**Brody** *(26-May-20 04:43 PM)*
+**Brody** _(26-May-20 04:43 PM)_
+
 > Sanya: Watch your tounge.
 
-**Rashidi** *(26-May-20 04:43 PM)*
+**Rashidi** _(26-May-20 04:43 PM)_
+
 > Dakari: Hey, what's that smell?
 
-**Sean** *(26-May-20 04:43 PM)*
+**Sean** _(26-May-20 04:43 PM)_
+
 > Seth: You missed Sunflower.
 
-**Charles** *(26-May-20 04:44 PM)*
+**Charles** _(26-May-20 04:44 PM)_
 
+_Vargas dodges and ask why youre about to ram his ship._
 
-*Vargas dodges and ask why youre about to ram his ship.*
+**Rashidi** _(26-May-20 04:44 PM)_
 
-**Rashidi** *(26-May-20 04:44 PM)*
 > Dakari: Smells like Olag and shit.
 
-**Zander** *(26-May-20 04:44 PM)*
+**Zander** _(26-May-20 04:44 PM)_
 
+_Emmett rubbed his digits on her form's horns, expecting that she didn't keep the qualities of whatever she shapeshifted into._
 
-*Emmett rubbed his digits on her form's horns, expecting that she didn't keep the qualities of whatever she shapeshifted into.*
+**Zander** _(26-May-20 04:44 PM)_
 
-**Zander** *(26-May-20 04:44 PM)*
 > Emmett: Woah.
 
-**Brody** *(26-May-20 04:44 PM)*
+**Brody** _(26-May-20 04:44 PM)_
+
 > Sanya: You intrude our ship, and try to make demands?
 
-**Zander** *(26-May-20 04:44 PM)*
+**Zander** _(26-May-20 04:44 PM)_
+
 > Emmett: This is pretty real.
 
-**Trey** *(26-May-20 04:44 PM)*
+**Trey** _(26-May-20 04:44 PM)_
+
 > Garrick: Creepy. You two have fun.
 
-**Lili** *(26-May-20 04:44 PM)*
+**Lili** _(26-May-20 04:44 PM)_
 
+_Pink Emmett Iris shrugs._
 
-*Pink Emmett Iris shrugs.*
+**Charles** _(26-May-20 04:44 PM)_
 
-**Charles** *(26-May-20 04:44 PM)*
 > Vargas: You hit my ship driving like a maniac!
 
-**Michael** *(26-May-20 04:45 PM)*
+**Michael** _(26-May-20 04:45 PM)_
 
+_goes back to being a puddle_
 
-*goes back to being a puddle*
+**Sean** _(26-May-20 04:45 PM)_
 
-**Sean** *(26-May-20 04:45 PM)*
 > Seth: Ok?
 
-**Lili** *(26-May-20 04:45 PM)*
+**Lili** _(26-May-20 04:45 PM)_
 
+_She grins wickedly, turning into pink Garrick._
 
-*She grins wickedly, turning into pink Garrick.*
-
-**Cooldude** *(26-May-20 04:45 PM)*
+**Cooldude** _(26-May-20 04:45 PM)_
 8ball Does Wemmfort give the rest of his Space juice to Seth?
 
-**FFBot** *(26-May-20 04:45 PM)*
+**FFBot** _(26-May-20 04:45 PM)_
 Nien.
 
-**Sean** *(26-May-20 04:45 PM)*
+**Sean** _(26-May-20 04:45 PM)_
+
 > Seth: Whats the problem?
 
-**Sean** *(26-May-20 04:45 PM)*
+**Sean** _(26-May-20 04:45 PM)_
+
 > Seth: You can get it repaired.
 
-**Trey** *(26-May-20 04:45 PM)*
+**Trey** _(26-May-20 04:45 PM)_
+
 > Garrick: Nope. Leaving.
 
-**Trey** *(26-May-20 04:45 PM)*
+**Trey** _(26-May-20 04:45 PM)_
+
 > Garrick: Not having this again.
 
-**Charles** *(26-May-20 04:45 PM)*
+**Charles** _(26-May-20 04:45 PM)_
 
+_Vargas yelling._
 
-*Vargas yelling.*
+**Sean** _(26-May-20 04:45 PM)_
 
-**Sean** *(26-May-20 04:45 PM)*
 > Seth: Seth yells back
 
-**Zander** *(26-May-20 04:45 PM)*
+**Zander** _(26-May-20 04:45 PM)_
+
 > Emmett: Anyhow, I'm going back to the cockpit before I get more curious.
 
-*Emmett leaves the two.*
+_Emmett leaves the two._
 
-**Lili** *(26-May-20 04:45 PM)*
+**Lili** _(26-May-20 04:45 PM)_
+
 > Iris: Come on Garrick, don't be like that.
 
-**Rashidi** *(26-May-20 04:45 PM)*
+**Rashidi** _(26-May-20 04:45 PM)_
+
 > Dakari: Emmett, you need a shower. And to find a room with Iris, clearly.
 
-**Lili** *(26-May-20 04:45 PM)*
+**Lili** _(26-May-20 04:45 PM)_
 
+_She's mimicking Garrick's voice._
 
-*She's mimicking Garrick's voice.*
+**Trey** _(26-May-20 04:46 PM)_
 
-**Trey** *(26-May-20 04:46 PM)*
 > Garrick: I take it back, this ability is awful.
 
-**Brody** *(26-May-20 04:46 PM)*
+**Brody** _(26-May-20 04:46 PM)_
+
 > Sanya: You people are insufferable. Just get rid of him.
 
-**Lili** *(26-May-20 04:46 PM)*
+**Lili** _(26-May-20 04:46 PM)_
 
+_She follows him._
 
-*She follows him.*
+**Zander** _(26-May-20 04:46 PM)_
 
-**Zander** *(26-May-20 04:46 PM)*
 > Emmett: Fuck you, Dakari.
 
-**Lili** *(26-May-20 04:46 PM)*
+**Lili** _(26-May-20 04:46 PM)_
+
 > Iris: Garrickkk~~~
 
-**Zander** *(26-May-20 04:46 PM)*
+**Zander** _(26-May-20 04:46 PM)_
+
 > Emmett: Quite the drama we have here.
 
-**Rashidi** *(26-May-20 04:46 PM)*
+**Rashidi** _(26-May-20 04:46 PM)_
+
 > Dakari: Hey, man. Just saying.
 
-**Charles** *(26-May-20 04:46 PM)*
-> Vargas: Do you have a better pilot, cause he sucks balls. 
+**Charles** _(26-May-20 04:46 PM)_
 
-**Zander** *(26-May-20 04:46 PM)*
+> Vargas: Do you have a better pilot, cause he sucks balls.
 
+**Zander** _(26-May-20 04:46 PM)_
 
-*Emmett sees the 8ball man and water boy.*
+_Emmett sees the 8ball man and water boy._
+
 > Emmett: Wat
 
-**Sean** *(26-May-20 04:46 PM)*
+**Sean** _(26-May-20 04:46 PM)_
+
 > Seth: Hey Sunflower, can you airlock this guy?
 
-**Sean** *(26-May-20 04:46 PM)*
+**Sean** _(26-May-20 04:46 PM)_
+
 > Seth: I'm gonna finish wrecking his ship.
 
-**Brody** *(26-May-20 04:47 PM)*
+**Brody** _(26-May-20 04:47 PM)_
+
 > Sanya: I don't know where the button is.
 
-**Charles** *(26-May-20 04:47 PM)*
+**Charles** _(26-May-20 04:47 PM)_
+
 > Vargas: Fuck you!
 
-**Sean** *(26-May-20 04:47 PM)*
+**Sean** _(26-May-20 04:47 PM)_
+
 > Seth: Red button on your right
 
-**Lili** *(26-May-20 04:47 PM)*
+**Lili** _(26-May-20 04:47 PM)_
+
 > Iris: Garrick where are you going~?
 
-**Brody** *(26-May-20 04:47 PM)*
+**Brody** _(26-May-20 04:47 PM)_
+
 > Sanya: Thank you.
 
-**Sean** *(26-May-20 04:47 PM)*
+**Sean** _(26-May-20 04:47 PM)_
 
+_Seth continues firing at the ship_
 
-*Seth continues firing at the ship*
+**Charles** _(26-May-20 04:47 PM)_
 
-**Charles** *(26-May-20 04:47 PM)*
 > Vargas: Whos the ships captain!?!
 
-**Trey** *(26-May-20 04:47 PM)*
+**Trey** _(26-May-20 04:47 PM)_
+
 > Garrick: The pool.
 
-**Silas** *(26-May-20 04:47 PM)*
+**Silas** _(26-May-20 04:47 PM)_
 8ball does everyone suddenly feel the need to go to the living room?
 
-**FFBot** *(26-May-20 04:47 PM)*
+**FFBot** _(26-May-20 04:47 PM)_
 As I see it, yes.
 
-**Sean** *(26-May-20 04:47 PM)*
+**Sean** _(26-May-20 04:47 PM)_
+
 > Seth: You like that you dirty slut.
 
-**Zander** *(26-May-20 04:47 PM)*
+**Zander** _(26-May-20 04:47 PM)_
+
 > Emmett: I don't care.
 
-**Sean** *(26-May-20 04:48 PM)*
+**Sean** _(26-May-20 04:48 PM)_
+
 > Seth: I am the captain.
 
-**Lili** *(26-May-20 04:48 PM)*
+**Lili** _(26-May-20 04:48 PM)_
 
+_She turns back into herself._
 
-*She turns back into herself.*
+**Rashidi** _(26-May-20 04:48 PM)_
 
-**Rashidi** *(26-May-20 04:48 PM)*
+_Dakari follows Emmett cautiously holding his nose_
 
+**Michael** _(26-May-20 04:48 PM)_
 
-*Dakari follows Emmett cautiously holding his nose*
+_heads toward the living room despite not knowing where it is_
 
-**Michael** *(26-May-20 04:48 PM)*
+**Brody** _(26-May-20 04:48 PM)_
 
-
-*heads toward the living room despite not knowing where it is*
-
-**Brody** *(26-May-20 04:48 PM)*
 > Sanya: Fuck it. You deal with the asshole.
 
-**Michael** *(26-May-20 04:48 PM)*
+**Michael** _(26-May-20 04:48 PM)_
 
+_stops being a puddle_
 
-*stops being a puddle*
+**Lili** _(26-May-20 04:48 PM)_
 
-**Lili** *(26-May-20 04:48 PM)*
 > Iris: Oh, cool. Can I come?
 
-**Brody** *(26-May-20 04:48 PM)*
+**Brody** _(26-May-20 04:48 PM)_
 
+_Sanya leaves for the Living Room._
 
-*Sanya leaves for the Living Room.*
+**Trey** _(26-May-20 04:48 PM)_
 
-**Trey** *(26-May-20 04:48 PM)*
+_Garrick heads to the living room, and then the pool._
 
+**Zander** _(26-May-20 04:48 PM)_
 
-*Garrick heads to the living room, and then the pool.*
+_Emmett slapped Dakari back and laid on a couch in the living room._
 
-**Zander** *(26-May-20 04:48 PM)*
+**Trey** _(26-May-20 04:48 PM)_
 
-
-*Emmett slapped Dakari back and laid on a couch in the living room.*
-
-**Trey** *(26-May-20 04:48 PM)*
 > Garrick: Sure, but not in my form, please.
 
-**Charles** *(26-May-20 04:48 PM)*
+**Charles** _(26-May-20 04:48 PM)_
+
 > Vargas: With your level of intelligence. not possible.
 
-**Sean** *(26-May-20 04:48 PM)*
+**Sean** _(26-May-20 04:48 PM)_
+
 > Seth: You seem mad kid.
 
-**Brody** *(26-May-20 04:48 PM)*
+**Brody** _(26-May-20 04:48 PM)_
+
 > Sanya: Seth, if he's still here, I'll kill him myself.
 
-**Lili** *(26-May-20 04:48 PM)*
+**Lili** _(26-May-20 04:48 PM)_
+
 > Iris: Okay, not in your form.
 
-**Sean** *(26-May-20 04:48 PM)*
+**Sean** _(26-May-20 04:48 PM)_
+
 > Seth: Maybe go back to the daycare.
 
-**Zander** *(26-May-20 04:49 PM)*
+**Zander** _(26-May-20 04:49 PM)_
+
 > Emmett: Y'know, I kinda felt free while naked.
 
-**Charles** *(26-May-20 04:49 PM)*
+**Charles** _(26-May-20 04:49 PM)_
+
 > Vargas: Whos the real captain?
 
-**Zander** *(26-May-20 04:49 PM)*
+**Zander** _(26-May-20 04:49 PM)_
 
-
-*Emmett was just saying this to himself.*
+_Emmett was just saying this to himself._
 8ball Do I walk off to tend to my belongings?
 
-**FFBot** *(26-May-20 04:49 PM)*
+**FFBot** _(26-May-20 04:49 PM)_
 No, but something that the person before you decides upon happens.
 
-**Michael** *(26-May-20 04:49 PM)*
+**Michael** _(26-May-20 04:49 PM)_
 
+_casually chills in this living room_
 
-*casually chills in this living room*
+**Zander** _(26-May-20 04:50 PM)_
 
-**Zander** *(26-May-20 04:50 PM)*
 > Emmett: Ow
 > Emmett: So, there's living water puddle and.... 8ball man.
 
-**Sean** *(26-May-20 04:50 PM)*
+**Sean** _(26-May-20 04:50 PM)_
+
 > Seth: Its me retard.
 
-**Rashidi** *(26-May-20 04:50 PM)*
+**Rashidi** _(26-May-20 04:50 PM)_
 
+_Dakari lounges on his own couch in the living room_
 
-*Dakari lounges on his own couch in the living room*
+**Zander** _(26-May-20 04:50 PM)_
 
-**Zander** *(26-May-20 04:50 PM)*
 > Emmett: What are you guys doing here?
 
-**Rashidi** *(26-May-20 04:50 PM)*
+**Rashidi** _(26-May-20 04:50 PM)_
+
 > Dakari: What else do I have to do?
 
-**Zander** *(26-May-20 04:50 PM)*
+**Zander** _(26-May-20 04:50 PM)_
+
 > Emmett: Get everyone in here.
 
-**Brody** *(26-May-20 04:51 PM)*
+**Brody** _(26-May-20 04:51 PM)_
+
 > Sanya: We ha an intruder. Seth is currently trying to stupid him to death.
 
-**Trey** *(26-May-20 04:51 PM)*
+**Trey** _(26-May-20 04:51 PM)_
 
+_Garrick cannonballs into the pool._
 
-*Garrick cannonballs into the pool.*
+**Charles** _(26-May-20 04:51 PM)_
 
-**Charles** *(26-May-20 04:51 PM)*
 > Vargas: Can i join your crew? Please?
 
-**Zander** *(26-May-20 04:51 PM)*
+**Zander** _(26-May-20 04:51 PM)_
+
 > Emmett: Why?
 
-**Michael** *(26-May-20 04:51 PM)*
+**Michael** _(26-May-20 04:51 PM)_
+
 > Theylin: I. COME. IN. PEACE! HE. TRIED. TO. EAT. ME!
 
-*points to Rachell*
+_points to Rachell_
 
-**Charles** *(26-May-20 04:51 PM)*
+**Charles** _(26-May-20 04:51 PM)_
+
 > Vargas: I got sweets for you.
 
-**Zander** *(26-May-20 04:51 PM)*
+**Zander** _(26-May-20 04:51 PM)_
+
 > Emmett: Sweets?
 
-**Trey** *(26-May-20 04:51 PM)*
+**Trey** _(26-May-20 04:51 PM)_
+
 > Garrick: I'm relaxing, what do you need?
 
-**Zander** *(26-May-20 04:51 PM)*
+**Zander** _(26-May-20 04:51 PM)_
+
 > Emmett: I like sweets.
 
-**Zander** *(26-May-20 04:51 PM)*
+**Zander** _(26-May-20 04:51 PM)_
+
 > Emmett: But right now?
 
-**Lili** *(26-May-20 04:51 PM)*
+**Lili** _(26-May-20 04:51 PM)_
 
+_Iris sits at the side of the pool and dips her feet in._
 
-*Iris sits at the side of the pool and dips her feet in.*
+**Zander** _(26-May-20 04:51 PM)_
 
-**Zander** *(26-May-20 04:51 PM)*
 > Emmett: I want something to play with my meat.
 
-**Charles** *(26-May-20 04:52 PM)*
+**Charles** _(26-May-20 04:52 PM)_
 
+_Vargas ask everyone their names._
 
-*Vargas ask everyone their names.*
+**Sean** _(26-May-20 04:52 PM)_
 
-**Sean** *(26-May-20 04:52 PM)*
 > Seth: Can we get rid of this guy?
 
-**Zander** *(26-May-20 04:52 PM)*
+**Zander** _(26-May-20 04:52 PM)_
+
 > Emmett: Anyhow...
 
-*Emmett leaned back.*
+_Emmett leaned back._
+
 > Emmett: Name's Emmett.
 
-**Brody** *(26-May-20 04:52 PM)*
+**Brody** _(26-May-20 04:52 PM)_
+
 > Sanya: Airlock him. Or drop him off at the station.
 
-**Zander** *(26-May-20 04:52 PM)*
+**Zander** _(26-May-20 04:52 PM)_
+
 > Emmett: Sanya.
 
-**Lili** *(26-May-20 04:52 PM)*
+**Lili** _(26-May-20 04:52 PM)_
+
 > Iris: somebody tell him my name is Iris.
 
-**Brody** *(26-May-20 04:52 PM)*
+**Brody** _(26-May-20 04:52 PM)_
+
 > Sanya: What?
 
-**Zander** *(26-May-20 04:53 PM)*
+**Zander** _(26-May-20 04:53 PM)_
+
 > Emmett: I will literally rape you if you suggest that again.
 
-**Charles** *(26-May-20 04:53 PM)*
+**Charles** _(26-May-20 04:53 PM)_
+
 > Vargas: Wait ive met you before!
 
-**Zander** *(26-May-20 04:53 PM)*
+**Zander** _(26-May-20 04:53 PM)_
 
+_Emmett's words meant nothing to her, very likely._
 
-*Emmett's words meant nothing to her, very likely.*
+**Trey** _(26-May-20 04:53 PM)_
 
-**Trey** *(26-May-20 04:53 PM)*
+_Garrick pulls out a re-sealed Soda Can and takes a sip._
 
+**Charles** _(26-May-20 04:53 PM)_
 
-*Garrick pulls out a re-sealed Soda Can and takes a sip.*
-
-**Charles** *(26-May-20 04:53 PM)*
 > Vargas: Youre the guy from the market!
 
-**Trey** *(26-May-20 04:53 PM)*
+**Trey** _(26-May-20 04:53 PM)_
+
 > Garrick: MY NAME GARRICK
 
-**Michael** *(26-May-20 04:53 PM)*
+**Michael** _(26-May-20 04:53 PM)_
+
 > Theylin: HELLO! I. CAN. UNDERSTAND. YOU. JUST. FINE! CAN. YOU. UNDERSTAND. ME?
 
-**Zander** *(26-May-20 04:53 PM)*
+**Zander** _(26-May-20 04:53 PM)_
+
 > Emmett: The market?
 
-**Rashidi** *(26-May-20 04:53 PM)*
+**Rashidi** _(26-May-20 04:53 PM)_
+
 > Dakari: I'm Dakari
 
-**Michael** *(26-May-20 04:53 PM)*
+**Michael** _(26-May-20 04:53 PM)_
+
 > Theylin: MY. NAME. IS. THEYLIN.
 
-**Zander** *(26-May-20 04:53 PM)*
+**Zander** _(26-May-20 04:53 PM)_
+
 > Emmett: There's tons of markets.
 
-**Michael** *(26-May-20 04:54 PM)*
+**Michael** _(26-May-20 04:54 PM)_
 8ball is sanya still mad?
 
-**FFBot** *(26-May-20 04:54 PM)*
+**FFBot** _(26-May-20 04:54 PM)_
 I guess so.
 
-**Charles** *(26-May-20 04:54 PM)*
+**Charles** _(26-May-20 04:54 PM)_
+
 > Vargas: Weird, hi water. Nice to meet all of you.
 
-**Trey** *(26-May-20 04:54 PM)*
+**Trey** _(26-May-20 04:54 PM)_
+
 > Garrick: Want some, Iris?
 
-**Zander** *(26-May-20 04:54 PM)*
+**Zander** _(26-May-20 04:54 PM)_
+
 > Emmett: Why the hell are you guys here?
 
-**Trey** *(26-May-20 04:54 PM)*
+**Trey** _(26-May-20 04:54 PM)_
+
 > Garrick: It's 3 GUYs fresh.
 
-**Brody** *(26-May-20 04:55 PM)*
+**Brody** _(26-May-20 04:55 PM)_
+
 > Sanya: Listen. Two new, random intruders, and we're just ready to accept them?
 
-**Lili** *(26-May-20 04:55 PM)*
+**Lili** _(26-May-20 04:55 PM)_
+
 > Iris: Sure.
 
-**Zander** *(26-May-20 04:55 PM)*
+**Zander** _(26-May-20 04:55 PM)_
+
 > Emmett: No, but I want answers.
 
-**Michael** *(26-May-20 04:55 PM)*
+**Michael** _(26-May-20 04:55 PM)_
+
 > Theylin: I was almost consumed...
 
-**Trey** *(26-May-20 04:55 PM)*
+**Trey** _(26-May-20 04:55 PM)_
 
+_Garrick tosses the un-re-sealed soda to Iris._
 
-*Garrick tosses the un-re-sealed soda to Iris.*
+**Michael** _(26-May-20 04:55 PM)_
 
-**Michael** *(26-May-20 04:55 PM)*
 > Theylin: I can leave
 
-**Zander** *(26-May-20 04:55 PM)*
+**Zander** _(26-May-20 04:55 PM)_
 
+_Emmett stuck his tongue out at her._
 
-*Emmett stuck his tongue out at her.*
+**Brody** _(26-May-20 04:55 PM)_
 
-**Brody** *(26-May-20 04:55 PM)*
 > Sanya: I don't see how we can possibly trust them.
 
-**Zander** *(26-May-20 04:55 PM)*
+**Zander** _(26-May-20 04:55 PM)_
+
 > Emmett: Let's not be so murder-hungry.
 
-**Charles** *(26-May-20 04:55 PM)*
+**Charles** _(26-May-20 04:55 PM)_
+
 > Vargas: Well thanks for the invite. We got 2 ships now boys.
 
-**Lili** *(26-May-20 04:55 PM)*
+**Lili** _(26-May-20 04:55 PM)_
 
+_Iris catches it and drinks some._
 
-*Iris catches it and drinks some.*
+**Michael** _(26-May-20 04:56 PM)_
 
-**Michael** *(26-May-20 04:56 PM)*
 > Theylin: aight, imma be honest. I'm a trespasser and I need passage. I'm willing to offer my services to you guys if you can get me to a space port.
 
-**Sean** *(26-May-20 04:56 PM)*
+**Sean** _(26-May-20 04:56 PM)_
 8ball Does Seth finish destroying the ship and then head to the living room?
 
-**FFBot** *(26-May-20 04:56 PM)*
+**FFBot** _(26-May-20 04:56 PM)_
 My reply is no.
 
-**Zander** *(26-May-20 04:56 PM)*
+**Zander** _(26-May-20 04:56 PM)_
 
+_Emmett lifted his arms up to Sanya's face and pushed her cheeks._
 
-*Emmett lifted his arms up to Sanya's face and pushed her cheeks.*
 > Emmett: Let's make love, not war.
 
-**Michael** *(26-May-20 04:56 PM)*
+**Michael** _(26-May-20 04:56 PM)_
+
 > Theylin: I'm a master engineer
 
-**Lili** *(26-May-20 04:56 PM)*
+**Lili** _(26-May-20 04:56 PM)_
 
+_It's terrible. Iris coughs._
 
-*It's terrible. Iris coughs.*
+**Brody** _(26-May-20 04:56 PM)_
 
-**Brody** *(26-May-20 04:56 PM)*
 > Sanya: War is more fun. And you're not my type.
 
-**Zander** *(26-May-20 04:57 PM)*
+**Zander** _(26-May-20 04:57 PM)_
 
+_Emmett rolled his eyes._
 
-*Emmett rolled his eyes.*
 > Emmett: I'm in heat and you're more of a pervert than I am.
 
-**Michael** *(26-May-20 04:57 PM)*
+**Michael** _(26-May-20 04:57 PM)_
+
 > Theylin: I'm on a pilgrimage for my home, may I formally offer my services for passage?
 
-**Brody** *(26-May-20 04:58 PM)*
+**Brody** _(26-May-20 04:58 PM)_
 
+_Sanya is unfazed by Emmett's blabbering._
 
-*Sanya is unfazed by Emmett's blabbering.*
-
-**Trey** *(26-May-20 04:58 PM)*
+**Trey** _(26-May-20 04:58 PM)_
 8ball does Garrick use Salt Spray on Vargas
 
-**FFBot** *(26-May-20 04:58 PM)*
+**FFBot** _(26-May-20 04:58 PM)_
 Of course!
 
-**Zander** *(26-May-20 04:58 PM)*
+**Zander** _(26-May-20 04:58 PM)_
 8ball Does more pirates come in to save 8ball man and water boy?
 
-**FFBot** *(26-May-20 04:58 PM)*
+**FFBot** _(26-May-20 04:58 PM)_
 Yes but actually no.
 
-**Trey** *(26-May-20 04:58 PM)*
+**Trey** _(26-May-20 04:58 PM)_
 
+_Garrick floats up through the ceiling to spray Vargas's eyes with salt._
 
-*Garrick floats up through the ceiling to spray Vargas's eyes with salt.*
+**Lili** _(26-May-20 04:59 PM)_
 
-**Lili** *(26-May-20 04:59 PM)*
+_Iris sighs._
 
+**Zander** _(26-May-20 04:59 PM)_
 
-*Iris sighs.*
+_Emmett sighed and left to the pool, given that he was clearly being ignored._
 
-**Zander** *(26-May-20 04:59 PM)*
-
-
-*Emmett sighed and left to the pool, given that he was clearly being ignored.*
-
-**Brody** *(26-May-20 04:59 PM)*
+**Brody** _(26-May-20 04:59 PM)_
 8ball Does Sanya grab something out of dread?
 
-**FFBot** *(26-May-20 04:59 PM)*
+**FFBot** _(26-May-20 04:59 PM)_
 Ja.
 
-**Trey** *(26-May-20 04:59 PM)*
+**Trey** _(26-May-20 04:59 PM)_
 
+_He then returns, and takes a seat next to Iris._
 
-*He then returns, and takes a seat next to Iris.*
+**Zander** _(26-May-20 04:59 PM)_
 
-**Zander** *(26-May-20 04:59 PM)*
 > Emmett: I'll let them figure things out on their own.
 
-**Zander** *(26-May-20 04:59 PM)*
+**Zander** _(26-May-20 04:59 PM)_
+
 > Emmett: Screw me then.
 
-**Charles** *(26-May-20 04:59 PM)*
+**Charles** _(26-May-20 04:59 PM)_
 
+_Vargas punches Garret in the face._
 
-*Vargas punches Garret in the face.*
+**Brody** _(26-May-20 05:00 PM)_
 
-**Brody** *(26-May-20 05:00 PM)*
+_Sanya pulls out a Emmett Disney Mask_
 
+**Trey** _(26-May-20 05:00 PM)_
 
-*Sanya pulls out a Emmett Disney Mask*
+_Vargas's hand goes right through, obviously_
 
-**Trey** *(26-May-20 05:00 PM)*
+**Brody** _(26-May-20 05:00 PM)_
 
-
-*Vargas's hand goes right through, obviously*
-
-**Brody** *(26-May-20 05:00 PM)*
 > Sanya: Not what i was hoping for.
 
-**Zander** *(26-May-20 05:00 PM)*
+**Zander** _(26-May-20 05:00 PM)_
+
 > Emmett: Iris, you here?
 
-**Zander** *(26-May-20 05:00 PM)*
+**Zander** _(26-May-20 05:00 PM)_
+
 > Emmett: In the pool?
 
-**Charles** *(26-May-20 05:00 PM)*
+**Charles** _(26-May-20 05:00 PM)_
 8ball is Vargas the most liked person on the crew
 
-**FFBot** *(26-May-20 05:00 PM)*
+**FFBot** _(26-May-20 05:00 PM)_
 My reply is no.
 
-**Lili** *(26-May-20 05:00 PM)*
+**Lili** _(26-May-20 05:00 PM)_
+
 > Iris: Over here!
 
-**Michael** *(26-May-20 05:01 PM)*
+**Michael** _(26-May-20 05:01 PM)_
+
 > Theylin: uhhhhh, imma take the airlock out?
 
-**Trey** *(26-May-20 05:01 PM)*
+**Trey** _(26-May-20 05:01 PM)_
+
 > Garrick: This week sucked, but it's finally over.
 
-**Michael** *(26-May-20 05:01 PM)*
+**Michael** _(26-May-20 05:01 PM)_
+
 > Theylin: may someone show me there?
 
-**Cooldude** *(26-May-20 05:01 PM)*
+**Cooldude** _(26-May-20 05:01 PM)_
 8ball Does Wemmfort pass all of his Space juice to Seth?
 
-**FFBot** *(26-May-20 05:01 PM)*
+**FFBot** _(26-May-20 05:01 PM)_
 Yes, but with a caveat decided by the next person.
 
-**Zander** *(26-May-20 05:01 PM)*
+**Zander** _(26-May-20 05:01 PM)_
 
+_Emmett had a mocking, sarcastic tone._
 
-*Emmett had a mocking, sarcastic tone.*
 > Emmett: Sanya's bullying me and the rest of the crew are being neurotic over a puddle of water.
 
-**Lili** *(26-May-20 05:01 PM)*
+**Lili** _(26-May-20 05:01 PM)_
 
+_Iris nods tiredly._
 
-*Iris nods tiredly.*
+**Cooldude** _(26-May-20 05:02 PM)_
 
-**Cooldude** *(26-May-20 05:02 PM)*
+_Wemmfort gives all of his space juice to Seth_
 
+**Michael** _(26-May-20 05:02 PM)_
 
-*Wemmfort gives all of his space juice to Seth*
-
-**Michael** *(26-May-20 05:02 PM)*
 > Theylin: Can someone show me to the airlock so I may take my leave?
 
-**Zander** *(26-May-20 05:02 PM)*
+**Zander** _(26-May-20 05:02 PM)_
 THE SHIP LANDS AT THE SPACE STATION, FINALLY.
 
-**Charles** *(26-May-20 05:02 PM)*
+**Charles** _(26-May-20 05:02 PM)_
 
+_Vargas apologizes for everything and explains he's been going through rough time ever since his best friend died._
 
-*Vargas apologizes for everything and explains he's been going through rough time  ever since his best friend died.*
+**Zander** _(26-May-20 05:03 PM)_
 
-**Zander** *(26-May-20 05:03 PM)*
 > Emmett: I don't know man.
 
-**Zander** *(26-May-20 05:03 PM)*
+**Zander** _(26-May-20 05:03 PM)_
 
+_Emmett laid in a pool chair, near Iris._
 
-*Emmett laid in a pool chair, near Iris.*
+**Zander** _(26-May-20 05:03 PM)_
 
-**Zander** *(26-May-20 05:03 PM)*
 > Emmett: Sometimes I just feel really ignored by everyone.
 
-**Brody** *(26-May-20 05:04 PM)*
+**Brody** _(26-May-20 05:04 PM)_
 
+_Sanya follows Emmett to the pool and sits nearby._
 
-*Sanya follows Emmett to the pool and sits nearby.*
+**Lili** _(26-May-20 05:04 PM)_
 
-**Lili** *(26-May-20 05:04 PM)*
+_Iris lays back._
 
+**Charles** _(26-May-20 05:04 PM)_
 
-*Iris lays back.*
-
-**Charles** *(26-May-20 05:04 PM)*
 > Vargas: Im sorry for taking my anguish out on you im just going through a lot with my friend Badon dying );
 
-**Lili** *(26-May-20 05:04 PM)*
+**Lili** _(26-May-20 05:04 PM)_
+
 > Iris: I can see how you'd feel that.
 
-**Trey** *(26-May-20 05:04 PM)*
+**Trey** _(26-May-20 05:04 PM)_
 
+_Garrick face-plants onto the gelatin pool._
 
-*Garrick face-plants onto the gelatin pool.*
+**Michael** _(26-May-20 05:04 PM)_
 
-**Michael** *(26-May-20 05:04 PM)*
+_stands there waiting for someone to show him to the airlock_
 
-
-*stands there waiting for someone to show him to the airlock*
-
-**Silas** *(26-May-20 05:04 PM)*
+**Silas** _(26-May-20 05:04 PM)_
 8ball are pirates hanging out at the pirate station?
 (edited)
 
-**FFBot** *(26-May-20 05:04 PM)*
+**FFBot** _(26-May-20 05:04 PM)_
 It won't happen.
 
-**Zander** *(26-May-20 05:05 PM)*
+**Zander** _(26-May-20 05:05 PM)_
+
 > Emmett: Badon?
 
-**Zander** *(26-May-20 05:05 PM)*
+**Zander** _(26-May-20 05:05 PM)_
 
+_Emmett was confused._
 
-*Emmett was confused.*
+**Rashidi** _(26-May-20 05:05 PM)_
 
-**Rashidi** *(26-May-20 05:05 PM)*
+_Dakari continues watching tv in the living room_
 
+**Charles** _(26-May-20 05:05 PM)_
 
-*Dakari continues watching tv in the living room*
-
-**Charles** *(26-May-20 05:05 PM)*
 > Vargas: My dead best friend
 
-**Trey** *(26-May-20 05:05 PM)*
+**Trey** _(26-May-20 05:05 PM)_
+
 > Garrick: Emmett, it's because you're not assertive.
 
-**Trey** *(26-May-20 05:05 PM)*
+**Trey** _(26-May-20 05:05 PM)_
+
 > Garrick: No offense, dude, but you're kind of a pushover sometimes.
 
-**Zander** *(26-May-20 05:06 PM)*
+**Zander** _(26-May-20 05:06 PM)_
+
 > Emmett: I'd just feel really mean if I were to do that.
 
-**Charles** *(26-May-20 05:07 PM)*
+**Charles** _(26-May-20 05:07 PM)_
 
+_Vargas makes lunch for everyone as a second apology ._
 
-*Vargas makes lunch for everyone as a second apology .*
+**Trey** _(26-May-20 05:07 PM)_
 
-**Trey** *(26-May-20 05:07 PM)*
 > Garrick: You gotta take SOME initiative, being the pilot and all. You're way more sensible than Seth.
 
-**Trey** *(26-May-20 05:07 PM)*
+**Trey** _(26-May-20 05:07 PM)_
+
 > Garrick: Look at me, I bossed around the new guy earlier even though I have absolutely no power over him.
 
-**Charles** *(26-May-20 05:07 PM)*
+**Charles** _(26-May-20 05:07 PM)_
+
 > Vargas: Come get lunch. I made more than enough for everyone.
 
-**Lili** *(26-May-20 05:07 PM)*
+**Lili** _(26-May-20 05:07 PM)_
 
+_Iris shrugs._
 
-*Iris shrugs.*
+**Brody** _(26-May-20 05:08 PM)_
 
-**Brody** *(26-May-20 05:08 PM)*
 > Sanya: Listen Emmett. It's not mean to stand up for yourself. Garrick's right, you are a bit of a pushover. I've been trying to toughen you up a bit.
 
-**Zander** *(26-May-20 05:08 PM)*
+**Zander** _(26-May-20 05:08 PM)_
 
+_Emmett was trying to discretely flex to get more blood pumping in his arms._
 
-*Emmett was trying to discretely flex to get more blood pumping in his arms.*
 > Emmett: I mean, I guess.
 
-**Silas** *(26-May-20 05:08 PM)*
+**Silas** _(26-May-20 05:08 PM)_
 ;)
 
-**Trey** *(26-May-20 05:08 PM)*
+**Trey** _(26-May-20 05:08 PM)_
 8ball does Garrick toss a BDSM whip to Sanya
 
-**FFBot** *(26-May-20 05:08 PM)*
+**FFBot** _(26-May-20 05:08 PM)_
 No, but something that the person before you decides upon happens.
 
-**Michael** *(26-May-20 05:08 PM)*
+**Michael** _(26-May-20 05:08 PM)_
 
+_unboards the ship and goes to the nearest bar to find passage_
 
-*unboards the ship and goes to the nearest bar to find passage*
+**Charles** _(26-May-20 05:08 PM)_
 
-**Charles** *(26-May-20 05:08 PM)*
+_Vargas is a galaxy renowned cook._
 
+**Brody** _(26-May-20 05:09 PM)_
 
-*Vargas is a galaxy renowned cook.*
-
-**Brody** *(26-May-20 05:09 PM)*
 > Sanya: I swear to Dread ghost, i will end you.
 
-**Trey** *(26-May-20 05:09 PM)*
+**Trey** _(26-May-20 05:09 PM)_
+
 > Garrick: See, Emmett? Just like that.
 
-**Trey** *(26-May-20 05:09 PM)*
+**Trey** _(26-May-20 05:09 PM)_
+
 > Garrick: I got her attention easily.
 
-**Silas** *(26-May-20 05:09 PM)*
+**Silas** _(26-May-20 05:09 PM)_
 renowned
 
-**Brody** *(26-May-20 05:09 PM)*
+**Brody** _(26-May-20 05:09 PM)_
+
 > Sanya: I will end you.
 
-**Lili** *(26-May-20 05:09 PM)*
+**Lili** _(26-May-20 05:09 PM)_
 
+_Iris bolts up._
 
-*Iris bolts up.*
+**Lili** _(26-May-20 05:09 PM)_
 
-**Lili** *(26-May-20 05:09 PM)*
 > Iris: My position as the crew's cook is being threatened.
 
-**Zander** *(26-May-20 05:10 PM)*
+**Zander** _(26-May-20 05:10 PM)_
+
 > Emmett: I can't really focus on your guys's antics when I'm like this, no offense.
 
-**Trey** *(26-May-20 05:10 PM)*
+**Trey** _(26-May-20 05:10 PM)_
+
 > Garrick: Chill out Sunflower, I'm just trying to be an example.
 
-**Brody** *(26-May-20 05:10 PM)*
+**Brody** _(26-May-20 05:10 PM)_
+
 > Sanya: That is not my name, Ghost.
 
-**Sean** *(26-May-20 05:10 PM)*
+**Sean** _(26-May-20 05:10 PM)_
 
+_Fortnite default dance_
 
-*Fortnite default dance*
+**Trey** _(26-May-20 05:10 PM)_
 
-**Trey** *(26-May-20 05:10 PM)*
 > Garrick: That is not my name, Flower.
 
-*Garrick says in a mocking tone.*
+_Garrick says in a mocking tone._
 
-**Brody** *(26-May-20 05:10 PM)*
+**Brody** _(26-May-20 05:10 PM)_
+
 > Sanya: Back to the more important topic.
 
-**Lili** *(26-May-20 05:11 PM)*
+**Lili** _(26-May-20 05:11 PM)_
 
+_Iris stands._
 
-*Iris stands.*
+**Brody** _(26-May-20 05:11 PM)_
 
-**Brody** *(26-May-20 05:11 PM)*
 > Sanya: The only way for people to care is if you make them care. If they don't care by themselves, you make them.
 
-**Zander** *(26-May-20 05:11 PM)*
+**Zander** _(26-May-20 05:11 PM)_
 
+_Emmett checked his grass watch, selectively hearing Sanya's conclusion._
 
-*Emmett checked his grass watch, selectively hearing Sanya's conclusion.*
+**Lili** _(26-May-20 05:11 PM)_
 
-**Lili** *(26-May-20 05:11 PM)*
 > Iris: I've gotta go cook.
 
-**Charles** *(26-May-20 05:11 PM)*
+**Charles** _(26-May-20 05:11 PM)_
 
+_Vargas bring some sandwiches to Emmet and Sanya._
 
-*Vargas bring some sandwiches to Emmet and Sanya.*
+**Lili** _(26-May-20 05:11 PM)_
 
-**Lili** *(26-May-20 05:11 PM)*
 > Iris: I forgot dinner.
 
-**Lili** *(26-May-20 05:11 PM)*
+**Lili** _(26-May-20 05:11 PM)_
 
+_Iris stiffens like a cat._
 
-*Iris stiffens like a cat.*
+**Zander** _(26-May-20 05:12 PM)_
 
-**Zander** *(26-May-20 05:12 PM)*
 > Emmett: You made me sandwiches?
 
-**Charles** *(26-May-20 05:12 PM)*
+**Charles** _(26-May-20 05:12 PM)_
+
 > Vargas: Yes.
 
-**Trey** *(26-May-20 05:12 PM)*
+**Trey** _(26-May-20 05:12 PM)_
+
 > Garrick: Uh oh...
 
-**Lili** *(26-May-20 05:12 PM)*
+**Lili** _(26-May-20 05:12 PM)_
 
+_Something barely discernable as ‘my kitchen' comes out of her mouth._
 
-*Something barely discernable as ‘my kitchen' comes out of her mouth.*
-
-**Zander** *(26-May-20 05:13 PM)*
+**Zander** _(26-May-20 05:13 PM)_
 8ball Is Emmett very low on his grass?
 
-**FFBot** *(26-May-20 05:13 PM)*
+**FFBot** _(26-May-20 05:13 PM)_
 Bro, your action made it. Welcome to the party. (Yes).
 
-**Charles** *(26-May-20 05:13 PM)*
+**Charles** _(26-May-20 05:13 PM)_
+
 > Vargas: I'm world renowned.
 
-**Zander** *(26-May-20 05:13 PM)*
+**Zander** _(26-May-20 05:13 PM)_
+
 > Emmett: World renowned sandwich maker?
 
-**Trey** *(26-May-20 05:13 PM)*
+**Trey** _(26-May-20 05:13 PM)_
+
 > Garrick: Vargas, I would get some fireproof coverings.
 
-**Lili** *(26-May-20 05:13 PM)*
+**Lili** _(26-May-20 05:13 PM)_
 
+_Iris stiffens further and her eyes narrow at Vargas._
 
-*Iris stiffens further and her eyes narrow at Vargas.*
+**Zander** _(26-May-20 05:13 PM)_
 
-**Zander** *(26-May-20 05:13 PM)*
 > Emmett: You're delusional. Sanya's sandwiches are really good.
 
-**Zander** *(26-May-20 05:13 PM)*
+**Zander** _(26-May-20 05:13 PM)_
 
+_Emmett took a bite._
 
-*Emmett took a bite.*
+**Charles** _(26-May-20 05:14 PM)_
 
-**Charles** *(26-May-20 05:14 PM)*
 > Vargas: Oof. Thanks for the honesty though.
 
-**Brody** *(26-May-20 05:14 PM)*
+**Brody** _(26-May-20 05:14 PM)_
+
 > Sanya: Emmett, are you alright? You look off.
 
-**Michael** *(26-May-20 05:14 PM)*
+**Michael** _(26-May-20 05:14 PM)_
 
+_chilling in the space station, trying to find passage_
 
-*chilling in the space station, trying to find passage*
+**Zander** _(26-May-20 05:14 PM)_
 
-**Zander** *(26-May-20 05:14 PM)*
 > Emmett: What does that even mean, 8ball head?
 
-**Zander** *(26-May-20 05:14 PM)*
+**Zander** _(26-May-20 05:14 PM)_
+
 > Emmett: I just said Sanya's sandwiches are good.
 
-**Lili** *(26-May-20 05:14 PM)*
+**Lili** _(26-May-20 05:14 PM)_
 
+_Iris is fighting the sudden urge to murder._
 
-*Iris is fighting the sudden urge to murder.*
+**Zander** _(26-May-20 05:14 PM)_
 
-**Zander** *(26-May-20 05:14 PM)*
 > Emmett: You're acting delusional.
 
-**Trey** *(26-May-20 05:15 PM)*
+**Trey** _(26-May-20 05:15 PM)_
+
 > Garrick: Well, I'll be taking my leave.
 
-**Lili** *(26-May-20 05:15 PM)*
+**Lili** _(26-May-20 05:15 PM)_
+
 > Iris: Sanya how do you do this all the time?
 
-**Zander** *(26-May-20 05:15 PM)*
+**Zander** _(26-May-20 05:15 PM)_
+
 > Emmett: No.
 
-**Zander** *(26-May-20 05:15 PM)*
+**Zander** _(26-May-20 05:15 PM)_
+
 > Emmett: You're not leaving.
 
-**Zander** *(26-May-20 05:15 PM)*
+**Zander** _(26-May-20 05:15 PM)_
+
 > Emmett: Stay here.
 
-**Trey** *(26-May-20 05:15 PM)*
+**Trey** _(26-May-20 05:15 PM)_
+
 > Garrick: Everyone in this room is in danger.
 
-**Brody** *(26-May-20 05:15 PM)*
+**Brody** _(26-May-20 05:15 PM)_
+
 > Sanya: Oh, the urge to murder? I just kill something else.
 
-**Zander** *(26-May-20 05:15 PM)*
+**Zander** _(26-May-20 05:15 PM)_
 
+_Emmett's arm was shaking quickly._
 
-*Emmett's arm was shaking quickly.*
+**Trey** _(26-May-20 05:15 PM)_
 
-**Trey** *(26-May-20 05:15 PM)*
 > Garrick: Kill time at the pool! Hahaha.
 
-*Garrick laughs nervously.*
+_Garrick laughs nervously._
 
-**Brody** *(26-May-20 05:15 PM)*
+**Brody** _(26-May-20 05:15 PM)_
 8ball Does Sanya attempt to pull grass out of Dread?
 
-**Charles** *(26-May-20 05:15 PM)*
+**Charles** _(26-May-20 05:15 PM)_
+
 > Vargas: You ok Emmet.
 
-**FFBot** *(26-May-20 05:15 PM)*
+**FFBot** _(26-May-20 05:15 PM)_
 Nah.
 
-**Zander** *(26-May-20 05:16 PM)*
+**Zander** _(26-May-20 05:16 PM)_
+
 > Emmett: What does that even mean?
 
-**Zander** *(26-May-20 05:16 PM)*
+**Zander** _(26-May-20 05:16 PM)_
+
 > Emmett: I'm starting to get pissed off at your lack of clarity.
 
-**Zander** *(26-May-20 05:16 PM)*
+**Zander** _(26-May-20 05:16 PM)_
 
+_Emmett was grinding his teeth a bit._
 
-*Emmett was grinding his teeth a bit.*
+**Brody** _(26-May-20 05:16 PM)_
 
-**Brody** *(26-May-20 05:16 PM)*
 > Sanya: Emmett. What is going on. You can tell me.
 
-**Lili** *(26-May-20 05:17 PM)*
+**Lili** _(26-May-20 05:17 PM)_
 
+_Iris' eyes turn pink._
 
-*Iris' eyes turn pink.*
+**Charles** _(26-May-20 05:17 PM)_
 
-**Charles** *(26-May-20 05:17 PM)*
 > Vargas: I'm sorry i didn't mean to offend you.
 
-**Lili** *(26-May-20 05:17 PM)*
+**Lili** _(26-May-20 05:17 PM)_
+
 > Iris: This ship already has a chef.
 
-**Trey** *(26-May-20 05:17 PM)*
+**Trey** _(26-May-20 05:17 PM)_
+
 > Garrick: Iris, can you move somewhere else?
 
-**Charles** *(26-May-20 05:17 PM)*
+**Charles** _(26-May-20 05:17 PM)_
+
 > Vargas: I apologize i was trying to be helpful.
 
-**Lili** *(26-May-20 05:17 PM)*
+**Lili** _(26-May-20 05:17 PM)_
 
+_Iris nods stiffly._
 
-*Iris nods stiffly.*
+**Trey** _(26-May-20 05:17 PM)_
 
-**Trey** *(26-May-20 05:17 PM)*
 > Garrick: This pool area is sacred right now.
 
-**Lili** *(26-May-20 05:17 PM)*
+**Lili** _(26-May-20 05:17 PM)_
+
 > Iris: Probably for the best.
 
-**Zander** *(26-May-20 05:17 PM)*
+**Zander** _(26-May-20 05:17 PM)_
+
 > Emmett: I'm starting to get really annoyed here.
 
-*Emmett slammed his fist into the small table next to him.*
+_Emmett slammed his fist into the small table next to him._
 
-**Cooldude** *(26-May-20 05:18 PM)*
+**Cooldude** _(26-May-20 05:18 PM)_
 8ball Does Wemmfort get in the pool?
 
-**FFBot** *(26-May-20 05:18 PM)*
+**FFBot** _(26-May-20 05:18 PM)_
 Spell it with me now, Y-E-S.
 
-**Cooldude** *(26-May-20 05:18 PM)*
+**Cooldude** _(26-May-20 05:18 PM)_
 
+_Wemmfort gets into the pool._
 
-*Wemmfort gets into the pool.*
-
-**Lili** *(26-May-20 05:19 PM)*
+**Lili** _(26-May-20 05:19 PM)_
 8ball does Iris leave the room?
 
-**FFBot** *(26-May-20 05:19 PM)*
+**FFBot** _(26-May-20 05:19 PM)_
 Spell it with me now, Y-E-S.
 
-**Zander** *(26-May-20 05:19 PM)*
+**Zander** _(26-May-20 05:19 PM)_
 8ball Does Garrick take something out of his pocket to try and alleviate Emmett?
 
-**FFBot** *(26-May-20 05:19 PM)*
+**FFBot** _(26-May-20 05:19 PM)_
 Nien.
 
-**Charles** *(26-May-20 05:19 PM)*
+**Charles** _(26-May-20 05:19 PM)_
 
+_Vargas contemplates all his lost. And slums into darkness._
 
-*Vargas contemplates all his lost. And slums into darkness.*
-
-**Trey** *(26-May-20 05:19 PM)*
+**Trey** _(26-May-20 05:19 PM)_
 8ball Does Garrick take something out of his pocket to try and alleviate Emmett?
 
-**FFBot** *(26-May-20 05:19 PM)*
+**FFBot** _(26-May-20 05:19 PM)_
 Bro, your action made it. Welcome to the party. (Yes).
 
-**Zander** *(26-May-20 05:19 PM)*
+**Zander** _(26-May-20 05:19 PM)_
+
 > Emmett: Sanya, I don't know what's happening to me.
 
-**Zander** *(26-May-20 05:19 PM)*
+**Zander** _(26-May-20 05:19 PM)_
+
 > Emmett: But I'm feeling really pissy.
 
-**Trey** *(26-May-20 05:19 PM)*
+**Trey** _(26-May-20 05:19 PM)_
 
+_Garrick tosses an unknown green condiment to Emmett._
 
-*Garrick tosses an unknown green condiment to Emmett.*
+**Brody** _(26-May-20 05:19 PM)_
 
-**Brody** *(26-May-20 05:19 PM)*
 > Sanya: What's your grass level at?
 
-**Trey** *(26-May-20 05:20 PM)*
+**Trey** _(26-May-20 05:20 PM)_
+
 > Garrick: Grass smoothie.
 
-**Trey** *(26-May-20 05:20 PM)*
+**Trey** _(26-May-20 05:20 PM)_
+
 > Garrick: Or something.
 
-**Lili** *(26-May-20 05:20 PM)*
+**Lili** _(26-May-20 05:20 PM)_
 
+_Iris' eyes return to normal as she heads to the kitchen._
 
-*Iris' eyes return to normal as she heads to the kitchen.*
+**Zander** _(26-May-20 05:20 PM)_
 
-**Zander** *(26-May-20 05:20 PM)*
+_Emmett takes the condiment, eats it, and spits it out. His mouth was on fire._
 
-
-*Emmett takes the condiment, eats it, and spits it out. His mouth was on fire.*
 > Emmett: Garrick, I'm gonna kill you!
 
-**Trey** *(26-May-20 05:21 PM)*
+**Trey** _(26-May-20 05:21 PM)_
+
 > Garrick: Whoa, chill out! I didn't know!
 
-**Sean** *(26-May-20 05:21 PM)*
+**Sean** _(26-May-20 05:21 PM)_
 8ball Does everyone playing minecraft Die?
 
-**FFBot** *(26-May-20 05:21 PM)*
+**FFBot** _(26-May-20 05:21 PM)_
 Spanish no.
 
-**Lili** *(26-May-20 05:21 PM)*
+**Lili** _(26-May-20 05:21 PM)_
 
+_Iris makes it to the kitchen._
 
-*Iris makes it to the kitchen.*
+**Zander** _(26-May-20 05:21 PM)_
 
-**Zander** *(26-May-20 05:21 PM)*
+_Emmett took out his Maggo-Pistol and changed its setting to "Spectral"._
 
+**Brody** _(26-May-20 05:21 PM)_
 
-*Emmett took out his Maggo-Pistol and changed its setting to "Spectral".*
-
-**Brody** *(26-May-20 05:21 PM)*
 > Sanya: Emmett!
 
-**Brody** *(26-May-20 05:21 PM)*
+**Brody** _(26-May-20 05:21 PM)_
+
 > Sanya: Put it down.
 
-**Zander** *(26-May-20 05:21 PM)*
+**Zander** _(26-May-20 05:21 PM)_
+
 > Emmett: Fuck off.
 
-**Charles** *(26-May-20 05:22 PM)*
+**Charles** _(26-May-20 05:22 PM)_
+
 > Vargas: Vargas jumps into the pool and stays under for a couple of minutes.
 
-**Trey** *(26-May-20 05:22 PM)*
+**Trey** _(26-May-20 05:22 PM)_
 
+_Garrick pulls out a Worn Spear._
 
-*Garrick pulls out a Worn Spear.*
+**Trey** _(26-May-20 05:22 PM)_
 
-**Trey** *(26-May-20 05:22 PM)*
 > Garrick: We don't have to do this, dude.
 
-**Brody** *(26-May-20 05:22 PM)*
+**Brody** _(26-May-20 05:22 PM)_
+
 > Sanya: Emmett, do not make a decision you'll regret.
 
-**Rashidi** *(26-May-20 05:22 PM)*
+**Rashidi** _(26-May-20 05:22 PM)_
+
 > Dakari: Keep it down out there!
 
-**Zander** *(26-May-20 05:22 PM)*
+**Zander** _(26-May-20 05:22 PM)_
 
+_Emmett was twitching a bit._
 
-*Emmett was twitching a bit.*
+**Rashidi** _(26-May-20 05:22 PM)_
 
-**Rashidi** *(26-May-20 05:22 PM)*
+_Under his voice_
 
-
-*Under his voice*
 > Dakari: Always so much noise.
 
-**Brody** *(26-May-20 05:22 PM)*
+**Brody** _(26-May-20 05:22 PM)_
 
+_D: I have an idea, but he might not like it._
 
-*D: I have an idea, but he might not like it.*
+**Zander** _(26-May-20 05:22 PM)_
 
-**Zander** *(26-May-20 05:22 PM)*
 > Emmett: I just want to keep things peaceful, but you and your antics have got to go.
 
-**Charles** *(26-May-20 05:23 PM)*
+**Charles** _(26-May-20 05:23 PM)_
 
+_Vargas pulls out his two laser blades while hopping out the water_
 
-*Vargas pulls out his two laser blades while hopping out the water*
-> Vargas:  Calm down Emmet. Calm down.
+> Vargas: Calm down Emmet. Calm down.
 
-**Trey** *(26-May-20 05:23 PM)*
+**Trey** _(26-May-20 05:23 PM)_
+
 > Garrick: Your fault for drinking some random green sludge.
 
-**Zander** *(26-May-20 05:23 PM)*
+**Zander** _(26-May-20 05:23 PM)_
+
 > Emmett: You tried to prank me with Iris, you took her away from me, and then you prank me again.
 
-**Lili** *(26-May-20 05:23 PM)*
+**Lili** _(26-May-20 05:23 PM)_
 t!choose croissants | cupcakes | muffins | cakes | flavored bread
 
-**FFBot** *(26-May-20 05:23 PM)*
+**FFBot** _(26-May-20 05:23 PM)_
 🤔 | Jelsafan0, I pick croissants
 
-**Zander** *(26-May-20 05:23 PM)*
+**Zander** _(26-May-20 05:23 PM)_
+
 > Emmett: I THOUGHT IT WAS GRASS!
 
-**Trey** *(26-May-20 05:23 PM)*
+**Trey** _(26-May-20 05:23 PM)_
+
 > Garrick: Well, that's your problem!
 
-**Lili** *(26-May-20 05:23 PM)*
+**Lili** _(26-May-20 05:23 PM)_
 
+_Iris starts to bake croissants._
 
-*Iris starts to bake croissants.*
+**Brody** _(26-May-20 05:24 PM)_
 
-**Brody** *(26-May-20 05:24 PM)*
+_Sanya grabs Emmett's arm._
 
+**Brody** _(26-May-20 05:24 PM)_
 
-*Sanya grabs Emmett's arm.*
-
-**Brody** *(26-May-20 05:24 PM)*
 > Sanya: Do not do this.
 
-**Rashidi** *(26-May-20 05:24 PM)*
+**Rashidi** _(26-May-20 05:24 PM)_
 8ball Does Dakari go and explore the rest of the ship?
 
-**FFBot** *(26-May-20 05:24 PM)*
+**FFBot** _(26-May-20 05:24 PM)_
 It is certain.
 
-**Zander** *(26-May-20 05:24 PM)*
+**Zander** _(26-May-20 05:24 PM)_
 
+_Emmett backs up from the pool to the edge of the ship. Afterwards, he was grabbed._
 
-*Emmett backs up from the pool to the edge of the ship. Afterwards, he was grabbed.*
+**Lili** _(26-May-20 05:24 PM)_
 
-**Lili** *(26-May-20 05:24 PM)*
+_Iris is baking croissants._
 
+**Zander** _(26-May-20 05:24 PM)_
 
-*Iris is baking croissants.*
-
-**Zander** *(26-May-20 05:24 PM)*
 > Emmett: I just really want to be listened to.
 
-**Charles** *(26-May-20 05:25 PM)*
+**Charles** _(26-May-20 05:25 PM)_
 It says indicisive.
 
-**Trey** *(26-May-20 05:25 PM)*
+**Trey** _(26-May-20 05:25 PM)_
 
+_Garrick pockets the spear._
 
-*Garrick pockets the spear.*
-
-**Michael** *(26-May-20 05:25 PM)*
+**Michael** _(26-May-20 05:25 PM)_
 8ball does Vargas pass out?
 
-**FFBot** *(26-May-20 05:25 PM)*
+**FFBot** _(26-May-20 05:25 PM)_
 Person who's after you decides!
 
-**Zander** *(26-May-20 05:26 PM)*
+**Zander** _(26-May-20 05:26 PM)_
 Yes
+
 > Emmett: I'm unstable, aren't I?
 
-**Michael** *(26-May-20 05:26 PM)*
+**Michael** _(26-May-20 05:26 PM)_
 
+_knocks on the Vortox's Pummelers ship door_
 
-*knocks on the Vortox's Pummelers ship door*
+**Zander** _(26-May-20 05:26 PM)_
 
-**Zander** *(26-May-20 05:26 PM)*
 > Emmett: Not as unstable as he is.
 
-**Michael** *(26-May-20 05:26 PM)*
+**Michael** _(26-May-20 05:26 PM)_
+
 > Theylin: Hello?
 
-**Zander** *(26-May-20 05:26 PM)*
+**Zander** _(26-May-20 05:26 PM)_
+
 > Emmett: Fucking clown.
 
-**Trey** *(26-May-20 05:26 PM)*
+**Trey** _(26-May-20 05:26 PM)_
+
 > Garrick: Yeah, man. This isn't what I meant when I said to 'take initiative'.
 
-**Charles** *(26-May-20 05:26 PM)*
+**Charles** _(26-May-20 05:26 PM)_
 
+_Vargas wakes up._
 
-*Vargas wakes up.*
+**Zander** _(26-May-20 05:26 PM)_
 
-**Zander** *(26-May-20 05:26 PM)*
+_Emmett leans back off the railing._
 
-
-*Emmett leans back off the railing.*
-
-**Silas** *(26-May-20 05:26 PM)*
+**Silas** _(26-May-20 05:26 PM)_
 8ball does Vargas feel himself slowly transforming into a marble?
 
-**FFBot** *(26-May-20 05:26 PM)*
+**FFBot** _(26-May-20 05:26 PM)_
 N0.
 
-**Trey** *(26-May-20 05:26 PM)*
+**Trey** _(26-May-20 05:26 PM)_
+
 > Garrick: You feeling alright?
 
-**Zander** *(26-May-20 05:26 PM)*
+**Zander** _(26-May-20 05:26 PM)_
+
 > Emmett: No.
 
-**Lili** *(26-May-20 05:26 PM)*
+**Lili** _(26-May-20 05:26 PM)_
 
+_Croissants._
 
-*Croissants.*
+**Zander** _(26-May-20 05:26 PM)_
 
-**Zander** *(26-May-20 05:26 PM)*
 > Emmett: I feel empty.
 
-**Zander** *(26-May-20 05:26 PM)*
+**Zander** _(26-May-20 05:26 PM)_
+
 > Emmett: Filled with angry spirits.
 
-**Charles** *(26-May-20 05:27 PM)*
-*Vargas gets kidnapped. *
+**Charles** _(26-May-20 05:27 PM)_
+_Vargas gets kidnapped. _
 
-**Zander** *(26-May-20 05:27 PM)*
+**Zander** _(26-May-20 05:27 PM)_
+
 > Emmett: Filled with lust and envy and wrath.
 
-**Cooldude** *(26-May-20 05:27 PM)*
+**Cooldude** _(26-May-20 05:27 PM)_
 8ball Does Emmett pee in the pool?
 
-**FFBot** *(26-May-20 05:27 PM)*
+**FFBot** _(26-May-20 05:27 PM)_
 Sad to tell you that it does not happen.
 
-**Michael** *(26-May-20 05:27 PM)*
+**Michael** _(26-May-20 05:27 PM)_
+
 > Theylin: Hello?!
 
-*continues knocking on the door of Seth's ship*
+_continues knocking on the door of Seth's ship_
 
-**Zander** *(26-May-20 05:27 PM)*
+**Zander** _(26-May-20 05:27 PM)_
 8ball Do I zip up Vargas' hands?
 
-**FFBot** *(26-May-20 05:27 PM)*
+**FFBot** _(26-May-20 05:27 PM)_
 Very doubtful.
 
-**Zander** *(26-May-20 05:28 PM)*
+**Zander** _(26-May-20 05:28 PM)_
+
 > Emmett: I need grass.
 
-**Zander** *(26-May-20 05:28 PM)*
+**Zander** _(26-May-20 05:28 PM)_
+
 > Emmett: I need grass bad.
 
-**Trey** *(26-May-20 05:28 PM)*
+**Trey** _(26-May-20 05:28 PM)_
+
 > Garrick: Sanya, you got any?
 
-**Zander** *(26-May-20 05:28 PM)*
+**Zander** _(26-May-20 05:28 PM)_
+
 > Emmett: How often do you chase that high?
 
-**Brody** *(26-May-20 05:28 PM)*
+**Brody** _(26-May-20 05:28 PM)_
+
 > Sanya: I might.
 
-**Lili** *(26-May-20 05:28 PM)*
+**Lili** _(26-May-20 05:28 PM)_
 
+_Iris is just still baking croissants._
 
-*Iris is just still baking croissants.*
+**Zander** _(26-May-20 05:29 PM)_
 
-**Zander** *(26-May-20 05:29 PM)*
 > Emmett: What high?
 
-**Zander** *(26-May-20 05:29 PM)*
+**Zander** _(26-May-20 05:29 PM)_
+
 > Emmett: This feels terrible!
 
-**Trey** *(26-May-20 05:29 PM)*
+**Trey** _(26-May-20 05:29 PM)_
+
 > Garrick: Is this grass stuff healthy for you?
 
-**Michael** *(26-May-20 05:29 PM)*
+**Michael** _(26-May-20 05:29 PM)_
 
+_bangs on Seth's ship door_
 
-*bangs on Seth's ship door*
 > Theylin: I know y'all are in there
 
-**Trey** *(26-May-20 05:29 PM)*
+**Trey** _(26-May-20 05:29 PM)_
+
 > Garrick: It's having very adverse effects.
 
-**Zander** *(26-May-20 05:29 PM)*
+**Zander** _(26-May-20 05:29 PM)_
+
 > Emmett: That's called a withdrawal where I'm from.
 
-**Brody** *(26-May-20 05:30 PM)*
+**Brody** _(26-May-20 05:30 PM)_
 
+_Sanya pulls out Garrick's true identity, then puts it back._
 
-*Sanya pulls out Garrick's true identity, then puts it back.*
+**Zander** _(26-May-20 05:30 PM)_
 
-**Zander** *(26-May-20 05:30 PM)*
+_Emmett slid down and held his legs to himself._
 
-
-*Emmett slid down and held his legs to himself.*
-
-**Lili** *(26-May-20 05:30 PM)*
+**Lili** _(26-May-20 05:30 PM)_
 8ball has Iris baked 1000 croissants?
 
-**FFBot** *(26-May-20 05:30 PM)*
+**FFBot** _(26-May-20 05:30 PM)_
 You got it.
 
-**Zander** *(26-May-20 05:30 PM)*
+**Zander** _(26-May-20 05:30 PM)_
+
 > Emmett: I don't know...?
 
-**Trey** *(26-May-20 05:30 PM)*
+**Trey** _(26-May-20 05:30 PM)_
 
+_Garrick is imbued with immense fear while the index card is exposed._
 
-*Garrick is imbued with immense fear while the index card is exposed.*
+**Trey** _(26-May-20 05:30 PM)_
 
-**Trey** *(26-May-20 05:30 PM)*
+_He decides to look again..._
 
+**Zander** _(26-May-20 05:30 PM)_
 
-*He decides to look again...*
-
-**Zander** *(26-May-20 05:30 PM)*
 > Emmett: I've had grass for like, my entire life!
 
-**Brody** *(26-May-20 05:30 PM)*
+**Brody** _(26-May-20 05:30 PM)_
 
+_Sanya glares deep at Garrick, then sits with Emmett._
 
-*Sanya glares deep at Garrick, then sits with Emmett.*
+**Zander** _(26-May-20 05:31 PM)_
 
-**Zander** *(26-May-20 05:31 PM)*
 > Emmett: I feel like everyone is staring at me.
 
-**Brody** *(26-May-20 05:31 PM)*
+**Brody** _(26-May-20 05:31 PM)_
+
 > Sanya: Because we care.
 
-**Zander** *(26-May-20 05:31 PM)*
+**Zander** _(26-May-20 05:31 PM)_
+
 > Emmett: I'm always being stared at.
 
-**Lili** *(26-May-20 05:31 PM)*
+**Lili** _(26-May-20 05:31 PM)_
 
+_Iris has baked 1000 croissants and feels a little bit better. She keeps making croissants, though._
 
-*Iris has baked 1000 croissants and feels a little bit better. She keeps making croissants, though.*
+**Zander** _(26-May-20 05:31 PM)_
 
-**Zander** *(26-May-20 05:31 PM)*
 > Emmett: But the whole galaxy's eyes are on me.
 
-**Brody** *(26-May-20 05:31 PM)*
+**Brody** _(26-May-20 05:31 PM)_
+
 > Sanya: Hey, you did end up taking my advice. You wanted people to care, so you made us care.
 
-**Zander** *(26-May-20 05:32 PM)*
+**Zander** _(26-May-20 05:32 PM)_
 8ball Does Squoat chime in?
 
-**FFBot** *(26-May-20 05:32 PM)*
+**FFBot** _(26-May-20 05:32 PM)_
 Yo mama. (Yes).
 
-**Trey** *(26-May-20 05:32 PM)*
+**Trey** _(26-May-20 05:32 PM)_
+
 > Garrick: Well, in all fairness, you are the most wanted man right now.
 
-**Brody** *(26-May-20 05:32 PM)*
+**Brody** _(26-May-20 05:32 PM)_
+
 > Sanya: The life you live will be and always has been a dangerous one.
 
-**Zander** *(26-May-20 05:32 PM)*
+**Zander** _(26-May-20 05:32 PM)_
 
+_To Emmett, this was a loud ass voice. To everyone else, some buzzing was coming from his ears._
 
-*To Emmett, this was a loud ass voice. To everyone else, some buzzing was coming from his ears.*
+**Zander** _(26-May-20 05:32 PM)_
 
-**Zander** *(26-May-20 05:32 PM)*
 > Emmett: "SQUEMFET."
 
-**Zander** *(26-May-20 05:32 PM)*
+**Zander** _(26-May-20 05:32 PM)_
+
 > Emmett: What?
 
-**Zander** *(26-May-20 05:32 PM)*
+**Zander** _(26-May-20 05:32 PM)_
+
 > Emmett: Who's there?
 
-**Brody** *(26-May-20 05:33 PM)*
+**Brody** _(26-May-20 05:33 PM)_
 
+_D: He is here. Leave the Squoat be._
 
-*D: He is here. Leave the Squoat be.*
+**Zander** _(26-May-20 05:33 PM)_
 
-**Zander** *(26-May-20 05:33 PM)*
 > Emmett: "IT'S ME. SQUOAT."
 
-**Zander** *(26-May-20 05:33 PM)*
+**Zander** _(26-May-20 05:33 PM)_
+
 > Emmett: What? How are you speaking to me?
 
-**FFBot** *(26-May-20 05:34 PM)*
+**FFBot** _(26-May-20 05:34 PM)_
 Signs point to yes.
 
-**Zander** *(26-May-20 05:35 PM)*
+**Zander** _(26-May-20 05:35 PM)_
+
 > Emmett: "I can speak to every Squoatling."
 
-**Zander** *(26-May-20 05:35 PM)*
+**Zander** _(26-May-20 05:35 PM)_
+
 > Emmett: "I'm god-I mean, I'm Squoat, remember?"
 
-**Trey** *(26-May-20 05:35 PM)*
+**Trey** _(26-May-20 05:35 PM)_
+
 > Garrick: What's wrong, Dread?
 
-**Zander** *(26-May-20 05:36 PM)*
+**Zander** _(26-May-20 05:36 PM)_
+
 > Emmett: It's been a while since I've seen you.
 > Emmett: Is he alright?
 
-**Lili** *(26-May-20 05:36 PM)*
+**Lili** _(26-May-20 05:36 PM)_
 
+_Iris is baking croissants._
 
-*Iris is baking croissants.*
+**Zander** _(26-May-20 05:36 PM)_
 
-**Zander** *(26-May-20 05:36 PM)*
 > Emmett: "Nevermind that. I need to tell you something."
 
-**Brody** *(26-May-20 05:36 PM)*
+**Brody** _(26-May-20 05:36 PM)_
 
+_His god is talking to him._
 
-*His god is talking to him.*
+**Zander** _(26-May-20 05:36 PM)_
 
-**Zander** *(26-May-20 05:36 PM)*
 > Emmett: What?
 
-**Trey** *(26-May-20 05:36 PM)*
+**Trey** _(26-May-20 05:36 PM)_
+
 > Garrick: Oh. Good timing.
 
-**Brody** *(26-May-20 05:36 PM)*
+**Brody** _(26-May-20 05:36 PM)_
 
+_We should let them commune in peace._
 
-*We should let them commune in peace.*
+**Zander** _(26-May-20 05:36 PM)_
 
-**Zander** *(26-May-20 05:36 PM)*
 > Emmett: "I've been on the run."
 
-**Zander** *(26-May-20 05:36 PM)*
+**Zander** _(26-May-20 05:36 PM)_
+
 > Emmett: On the run? What does that even mean? You're Squoat!
 
-**Zander** *(26-May-20 05:36 PM)*
+**Zander** _(26-May-20 05:36 PM)_
+
 > Emmett: "Squoat's gotten himself into some trouble."
 
-**Zander** *(26-May-20 05:36 PM)*
+**Zander** _(26-May-20 05:36 PM)_
 
+_Emmett was having a revelation in his mind about now._
 
-*Emmett was having a revelation in his mind about now.*
+**Zander** _(26-May-20 05:36 PM)_
 
-**Zander** *(26-May-20 05:36 PM)*
 > Emmett: "I've gotten to a safespace to talk with you."
 
-**Zander** *(26-May-20 05:36 PM)*
+**Zander** _(26-May-20 05:36 PM)_
+
 > Emmett: It took you...
 
-*Emmett counts on his digits.*
+_Emmett counts on his digits._
+
 > Emmett: "Thirteen GUYs. I know."
 
-**Brody** *(26-May-20 05:38 PM)*
+**Brody** _(26-May-20 05:38 PM)_
 
+_When a god communes with an individual, it's normally a big deal. Maybe not for others, but if, say, Sanya met with a group of Florans, she would be treated as a messiah._
 
-*When a god communes with an individual, it's normally a big deal. Maybe not for others, but if, say, Sanya met with a group of Florans, she would be treated as a messiah.*
+**Zander** _(26-May-20 05:39 PM)_
 
-**Zander** *(26-May-20 05:39 PM)*
 > Emmett: "Just let me continue. I need you to get off the grass."
 
-**Zander** *(26-May-20 05:39 PM)*
+**Zander** _(26-May-20 05:39 PM)_
+
 > Emmett: Why?
 
-**Trey** *(26-May-20 05:39 PM)*
+**Trey** _(26-May-20 05:39 PM)_
+
 > Garrick: Interesting.
 
-**Trey** *(26-May-20 05:39 PM)*
+**Trey** _(26-May-20 05:39 PM)_
+
 > Garrick: He certainly looks entranced.
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: "It's terrible for you! Your family got you high on that stuff."
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: "The only reason the Tawfeeks were rich was because of their mass production of grass."
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: "Your parents left you alone a lot to make deals, my son."
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: "You were played."
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: "I know you need grass to live, Emmett. You have fetal grass syndrome or whatever."
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: "But you really need to cut down on it. A lot."
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: "You're going to kill yourself."
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: Uhm.
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: Okay.
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: But I don't know how to stop.
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: "Find a way. I'll tell you a way to find her if you do so."
 
-**Zander** *(26-May-20 05:42 PM)*
+**Zander** _(26-May-20 05:42 PM)_
+
 > Emmett: Who?
 
-**Lili** *(26-May-20 05:46 PM)*
+**Lili** _(26-May-20 05:46 PM)_
 8ball has Iris made a huge model ship out of croissants in the kitchen
 
-**FFBot** *(26-May-20 05:46 PM)*
+**FFBot** _(26-May-20 05:46 PM)_
 It is decidedly so.
 
-**Zander** *(26-May-20 05:46 PM)*
+**Zander** _(26-May-20 05:46 PM)_
+
 > Emmett: "Oh, you know. Yo Mama."
 
-**Zander** *(26-May-20 05:46 PM)*
+**Zander** _(26-May-20 05:46 PM)_
+
 > Emmett: Who's that?
 
-**Zander** *(26-May-20 05:46 PM)*
+**Zander** _(26-May-20 05:46 PM)_
+
 > Emmett: "It was a joke."
 
-**Zander** *(26-May-20 05:46 PM)*
+**Zander** _(26-May-20 05:46 PM)_
+
 > Emmett: "I'll help you find Squ-"
 
-*Squoat cut off.*
+_Squoat cut off._
 
-**Zander** *(26-May-20 05:46 PM)*
+**Zander** _(26-May-20 05:46 PM)_
+
 > Emmett: What? What? What the fuck?
 
-**Brody** *(26-May-20 05:49 PM)*
+**Brody** _(26-May-20 05:49 PM)_
 
+_Hm. It seems like he's gone._
 
-*Hm. It seems like he's gone.*
+**Lili** _(26-May-20 05:49 PM)_
 
-**Lili** *(26-May-20 05:49 PM)*
+_Iris critically examines the model ship of croissants._
 
+**Brody** _(26-May-20 05:49 PM)_
 
-*Iris critically examines the model ship of croissants.*
-
-**Brody** *(26-May-20 05:49 PM)*
 > Sanya: Emmett? Are you alright?
 
-**Trey** *(26-May-20 05:49 PM)*
+**Trey** _(26-May-20 05:49 PM)_
+
 > Garrick: What'd he say? Emmett looks pissed off...
 
-**Trey** *(26-May-20 05:49 PM)*
+**Trey** _(26-May-20 05:49 PM)_
+
 > Garrick: Again.
 
-**Zander** *(26-May-20 05:49 PM)*
+**Zander** _(26-May-20 05:49 PM)_
 8ball Does Iris run out into the pool suddenly in clothing made of croissants and dive?
 (edited)
 
-**FFBot** *(26-May-20 05:49 PM)*
+**FFBot** _(26-May-20 05:49 PM)_
 Yes, definitely.
 
-**Zander** *(26-May-20 05:50 PM)*
+**Zander** _(26-May-20 05:50 PM)_
 
+_Emmett stood up._
 
-*Emmett stood up.*
+**Zander** _(26-May-20 05:50 PM)_
 
-**Zander** *(26-May-20 05:50 PM)*
 > Emmett: Squoat called.
 
-**Trey** *(26-May-20 05:50 PM)*
+**Trey** _(26-May-20 05:50 PM)_
+
 > Garrick: Welcome to the party... really good timing, actually.
 
-**Brody** *(26-May-20 05:50 PM)*
+**Brody** _(26-May-20 05:50 PM)_
 
+_Communications between gods and mortals should be contained between them. In fact, it's strange that you can even hear me, ghost._
 
-*Communications between gods and mortals should be contained between them. In fact, it's strange that you can even hear me, ghost.*
+**Trey** _(26-May-20 05:50 PM)_
 
-**Trey** *(26-May-20 05:50 PM)*
 > Garrick: Fair enough.
 
-**Zander** *(26-May-20 05:51 PM)*
+**Zander** _(26-May-20 05:51 PM)_
+
 > Emmett: I have a weird feeling about what just happened.
 
-**Lili** *(26-May-20 05:51 PM)*
+**Lili** _(26-May-20 05:51 PM)_
+
 > Iris: I baked over 2000 croissants.
 
-**Zander** *(26-May-20 05:51 PM)*
+**Zander** _(26-May-20 05:51 PM)_
+
 > Emmett: Like, Squoat didn't seem.... Sacred?
 
-**Trey** *(26-May-20 05:51 PM)*
+**Trey** _(26-May-20 05:51 PM)_
+
 > Garrick: It seems I have a lot of abilities I'm not aware of.
 
-**Lili** *(26-May-20 05:51 PM)*
+**Lili** _(26-May-20 05:51 PM)_
+
 > Iris: I feel better now.
 
-**Zander** *(26-May-20 05:51 PM)*
+**Zander** _(26-May-20 05:51 PM)_
+
 > Emmett: Does that make sense?
 
-**Lili** *(26-May-20 05:51 PM)*
+**Lili** _(26-May-20 05:51 PM)_
+
 > Iris: Yeah it does.
 
-**Brody** *(26-May-20 05:51 PM)*
+**Brody** _(26-May-20 05:51 PM)_
+
 > Sanya: Iris. Where are your normal clothes and why are you wearing croissants?
 
-**Lili** *(26-May-20 05:52 PM)*
+**Lili** _(26-May-20 05:52 PM)_
 
+_Iris sighs._
 
-*Iris sighs.*
+**Trey** _(26-May-20 05:52 PM)_
 
-**Trey** *(26-May-20 05:52 PM)*
 > Garrick: I've heard it's like that with people you admire, Emmett.
 
-**Lili** *(26-May-20 05:52 PM)*
+**Lili** _(26-May-20 05:52 PM)_
+
 > Iris: I baked too many croissants.
 
-**Trey** *(26-May-20 05:52 PM)*
+**Trey** _(26-May-20 05:52 PM)_
+
 > Garrick: It's disappointing 9 times out of 10.
 
-**Brody** *(26-May-20 05:52 PM)*
+**Brody** _(26-May-20 05:52 PM)_
+
 > Sanya: Here. Let me see if i can help.
 
-**Lili** *(26-May-20 05:52 PM)*
+**Lili** _(26-May-20 05:52 PM)_
+
 > Iris: The batter stuck to me and baked.
 
-**Zander** *(26-May-20 05:52 PM)*
+**Zander** _(26-May-20 05:52 PM)_
 
+_Emmett sneaked a peek at Iris for a second._
 
-*Emmett sneaked a peek at Iris for a second.*
+**Zander** _(26-May-20 05:52 PM)_
 
-**Zander** *(26-May-20 05:52 PM)*
 > Emmett: But, guys.
 
-**Lili** *(26-May-20 05:53 PM)*
+**Lili** _(26-May-20 05:53 PM)_
+
 > Iris: My old clothes are underneath.
 
-**Zander** *(26-May-20 05:53 PM)*
+**Zander** _(26-May-20 05:53 PM)_
+
 > Emmett: GARRICK! SANYA!
 
-**Zander** *(26-May-20 05:53 PM)*
+**Zander** _(26-May-20 05:53 PM)_
+
 > Emmett: LISTEN TO ME.
 
-**Zander** *(26-May-20 05:53 PM)*
+**Zander** _(26-May-20 05:53 PM)_
+
 > Emmett: I need to get off of grass.
 
-**Brody** *(26-May-20 05:53 PM)*
+**Brody** _(26-May-20 05:53 PM)_
 
+_Sanya turns back to Emmett, putting the weaponized Llama head back in Dread._
 
-*Sanya turns back to Emmett, putting the weaponized Llama head back in Dread.*
+**Lili** _(26-May-20 05:54 PM)_
 
-**Lili** *(26-May-20 05:54 PM)*
 > Iris: does anybody have a bread knife?
 
-**Trey** *(26-May-20 05:54 PM)*
+**Trey** _(26-May-20 05:54 PM)_
+
 > Garrick: You get a revelation about that?
 
-**Lili** *(26-May-20 05:54 PM)*
+**Lili** _(26-May-20 05:54 PM)_
+
 > Iris: Or clothes? Either?
 
-**Zander** *(26-May-20 05:55 PM)*
+**Zander** _(26-May-20 05:55 PM)_
+
 > Emmett: And I think Squoat isn't a god or anything.
 
-**Zander** *(26-May-20 05:55 PM)*
+**Zander** _(26-May-20 05:55 PM)_
+
 > Emmett: He's a man on the run.
 
-**Zander** *(26-May-20 05:55 PM)*
+**Zander** _(26-May-20 05:55 PM)_
+
 > Emmett: Which, kinda hurts my horned brain.
 
-**Zander** *(26-May-20 05:55 PM)*
+**Zander** _(26-May-20 05:55 PM)_
+
 > Emmett: But I believe in him.
 
-**Trey** *(26-May-20 05:55 PM)*
+**Trey** _(26-May-20 05:55 PM)_
 
+_Garrick tosses Iris the Old Kimono._
 
-*Garrick tosses Iris the Old Kimono.*
+**Trey** _(26-May-20 05:55 PM)_
 
-**Trey** *(26-May-20 05:55 PM)*
 > Garrick: Wear clothes.
 
-**Zander** *(26-May-20 05:56 PM)*
+**Zander** _(26-May-20 05:56 PM)_
+
 > Emmett: He made us from whatever we were.
 
-**Lili** *(26-May-20 05:56 PM)*
+**Lili** _(26-May-20 05:56 PM)_
 
+_Iris catches it._
 
-*Iris catches it.*
+**Zander** _(26-May-20 05:56 PM)_
 
-**Zander** *(26-May-20 05:56 PM)*
 > Emmett: But yeah.
 
-**Zander** *(26-May-20 05:56 PM)*
+**Zander** _(26-May-20 05:56 PM)_
+
 > Emmett: Help me off this shit.
 
-**Brody** *(26-May-20 05:56 PM)*
+**Brody** _(26-May-20 05:56 PM)_
+
 > Sanya: That's... eerily familiar.
 
-**Lili** *(26-May-20 05:56 PM)*
+**Lili** _(26-May-20 05:56 PM)_
+
 > Iris: Thanks. Uh okay where's a place to change?
 
-**Trey** *(26-May-20 05:56 PM)*
+**Trey** _(26-May-20 05:56 PM)_
+
 > Garrick: Well, Emmett, you seem determined.
 
-**Zander** *(26-May-20 05:56 PM)*
+**Zander** _(26-May-20 05:56 PM)_
+
 > Emmett: Tell me if I'm being aggressive or not.
 
-**Brody** *(26-May-20 05:56 PM)*
+**Brody** _(26-May-20 05:56 PM)_
+
 > Sanya: Sure, we'll help you.
 
-**Trey** *(26-May-20 05:56 PM)*
+**Trey** _(26-May-20 05:56 PM)_
+
 > Garrick: Whatever Squoat is, he's giving good advice.
 
-**Zander** *(26-May-20 05:57 PM)*
+**Zander** _(26-May-20 05:57 PM)_
+
 > Emmett: My parents are lying cheats.
 
-**Lili** *(26-May-20 05:57 PM)*
+**Lili** _(26-May-20 05:57 PM)_
 8ball does Iris find a place to change
 
-**FFBot** *(26-May-20 05:57 PM)*
+**FFBot** _(26-May-20 05:57 PM)_
 Da.
 
-**Zander** *(26-May-20 05:57 PM)*
+**Zander** _(26-May-20 05:57 PM)_
+
 > Emmett: Let's just go back to the kitchen.
 
-**Lili** *(26-May-20 05:58 PM)*
+**Lili** _(26-May-20 05:58 PM)_
 
+_Iris heads into the changing station and switches into the Old Kimono before she comes out._
 
-*Iris heads into the changing station and switches into the Old Kimono before she comes out.*
+**Trey** _(26-May-20 05:58 PM)_
 
-**Trey** *(26-May-20 05:58 PM)*
+_Iris goes to the bottom of the pool and changes._
 
-
-*Iris goes to the bottom of the pool and changes.*
-
-**Rashidi** *(26-May-20 05:58 PM)*
+**Rashidi** _(26-May-20 05:58 PM)_
 8ball Does Dakari blow up the new jacuzzi he found?
 
-**FFBot** *(26-May-20 05:58 PM)*
+**FFBot** _(26-May-20 05:58 PM)_
 Outlook bad.
 
-**Zander** *(26-May-20 05:58 PM)*
+**Zander** _(26-May-20 05:58 PM)_
+
 > Emmett: I heard one of you guys wanted to watch me fuck a McRib or whatever.
 
-**Brody** *(26-May-20 05:58 PM)*
+**Brody** _(26-May-20 05:58 PM)_
+
 > Sanya: Intriguing, but no.
 
-**Lili** *(26-May-20 05:58 PM)*
+**Lili** _(26-May-20 05:58 PM)_
+
 > Iris: I built a model ship out of croissants in there.
 
-**Trey** *(26-May-20 05:58 PM)*
+**Trey** _(26-May-20 05:58 PM)_
+
 > Garrick: Maybe.
 
-**Trey** *(26-May-20 05:58 PM)*
+**Trey** _(26-May-20 05:58 PM)_
+
 > Garrick: Morbid curiosity, I guess?
 
-**Zander** *(26-May-20 05:59 PM)*
+**Zander** _(26-May-20 05:59 PM)_
 
+_Emmett shrugged and went off into the kitchen to grab a chicken sandwich._
 
-*Emmett shrugged and went off into the kitchen to grab a chicken sandwich.*
+**Lili** _(26-May-20 05:59 PM)_
 
-**Lili** *(26-May-20 05:59 PM)*
 > Iris: It... takes up almost the whole room.
 
-**Trey** *(26-May-20 06:00 PM)*
+**Trey** _(26-May-20 06:00 PM)_
 Space Rule #65: Always trust the voice inside your head.
 
-**Michael** *(26-May-20 06:00 PM)*
+**Michael** _(26-May-20 06:00 PM)_
 https://discordapp.com/channels/324621181640638464/701282308023517246/714976183476813846
 
-**Trey** *(01-Jun-20 03:38 PM)*
+**Trey** _(01-Jun-20 03:38 PM)_
 t!8ball does Emmett turn into Squasriel
 
-**FFBot** *(01-Jun-20 03:38 PM)*
-🎱 |  Yes, definitely, [RP]retribution
+**FFBot** _(01-Jun-20 03:38 PM)_
+🎱 | Yes, definitely, [RP]retribution
 
-**Zander** *(01-Jun-20 03:38 PM)*
+**Zander** _(01-Jun-20 03:38 PM)_
+
 > Emmett: owo toriel mommy
 
-**Charles** *(01-Jun-20 03:53 PM)*
+**Charles** _(01-Jun-20 03:53 PM)_
 8ball does Trey turn in to a sentient water bottle
 
-**FFBot** *(01-Jun-20 03:53 PM)*
+**FFBot** _(01-Jun-20 03:53 PM)_
 Y35.
 
-**Trey** *(01-Jun-20 03:54 PM)*
+**Trey** _(01-Jun-20 03:54 PM)_
 8poop
 
-**FFBot** *(01-Jun-20 03:54 PM)*
+**FFBot** _(01-Jun-20 03:54 PM)_
 No, you are poop.
 
-**Zander** *(01-Jun-20 03:54 PM)*
+**Zander** _(01-Jun-20 03:54 PM)_
 It's been a week or so after the first episode. The crew has been pretty alright, for the most part, but Garrick and Sanya have been trying to keep Emmett out of trouble. That's all I can think of.
 
-**Charles** *(01-Jun-20 03:58 PM)*
+**Charles** _(01-Jun-20 03:58 PM)_
 
+_Vargas wakes up._
 
-*Vargas wakes up.*
+**Trey** _(01-Jun-20 03:59 PM)_
 
-**Trey** *(01-Jun-20 03:59 PM)*
+_Garrick is currently digging in the fridge, because Trey is a water bottle._
 
+**Zander** _(01-Jun-20 03:59 PM)_
 
-*Garrick is currently digging in the fridge, because Trey is a water bottle.*
-
-**Zander** *(01-Jun-20 03:59 PM)*
 > Emmett: Garrick.
 
-**Trey** *(01-Jun-20 03:59 PM)*
+**Trey** _(01-Jun-20 03:59 PM)_
+
 > Garrick: Emmett.
 
-**Zander** *(01-Jun-20 03:59 PM)*
+**Zander** _(01-Jun-20 03:59 PM)_
+
 > Emmett: Can you please stop stealing from the ship?
 
-**Charles** *(01-Jun-20 04:00 PM)*
+**Charles** _(01-Jun-20 04:00 PM)_
 
+_Vargas goes gets a snack felling light-headed._
 
-*Vargas goes gets a snack felling light-headed.*
+**Zander** _(01-Jun-20 04:00 PM)_
 
-**Zander** *(01-Jun-20 04:00 PM)*
 > Emmett: We're pretty low on supplies.
 
-**Charles** *(01-Jun-20 04:00 PM)*
+**Charles** _(01-Jun-20 04:00 PM)_
+
 > Vargas: Hey guys.
 
-**Trey** *(01-Jun-20 04:00 PM)*
+**Trey** _(01-Jun-20 04:00 PM)_
+
 > Garrick: Why don't we get supplies then? I'm hungry.
 
-**Trey** *(01-Jun-20 04:00 PM)*
+**Trey** _(01-Jun-20 04:00 PM)_
 8ball does Emmett say the asriel voice blip
 
-**FFBot** *(01-Jun-20 04:01 PM)*
+**FFBot** _(01-Jun-20 04:01 PM)_
 It is certain.
 
-**Charles** *(01-Jun-20 04:01 PM)*
+**Charles** _(01-Jun-20 04:01 PM)_
+
 > Vargas: Ill go with.
 
-**Zander** *(01-Jun-20 04:01 PM)*
+**Zander** _(01-Jun-20 04:01 PM)_
 
+_Emmett was somehow upset by even this little statement. He was also upset at the random intruder._
 
-*Emmett was somehow upset by even this little statement. He was also upset at the random intruder.*
 > Emmett: Remind me, why do we have this guy on the ship?> Emmett: ah
 
-**Charles** *(01-Jun-20 04:01 PM)*
+**Charles** _(01-Jun-20 04:01 PM)_
+
 > Vargas: If it's ok.
 
-**Zander** *(01-Jun-20 04:03 PM)*
+**Zander** _(01-Jun-20 04:03 PM)_
 8ball Does Emmett take out his holo-device and set it up?
 
-**FFBot** *(01-Jun-20 04:03 PM)*
+**FFBot** _(01-Jun-20 04:03 PM)_
 NOOOOOO!
 
-**Trey** *(01-Jun-20 04:03 PM)*
+**Trey** _(01-Jun-20 04:03 PM)_
+
 > Garrick: We had some people stow away here the other day, and apparently nobody cared, so they're still here.
 
-**Zander** *(01-Jun-20 04:03 PM)*
+**Zander** _(01-Jun-20 04:03 PM)_
+
 > Emmett: Let me check the holonet for bounties. You know. Doing what we actually should be doing?
 
-**Charles** *(01-Jun-20 04:03 PM)*
+**Charles** _(01-Jun-20 04:03 PM)_
+
 > Vargas: Hey we can work together then.
 
-**Charles** *(01-Jun-20 04:03 PM)*
+**Charles** _(01-Jun-20 04:03 PM)_
+
 > Vargas: What do you say?
 
-**Zander** *(01-Jun-20 04:04 PM)*
+**Zander** _(01-Jun-20 04:04 PM)_
 8ball Does Matthias sit down and eat a loaf of sourdough bread?
 
-**FFBot** *(01-Jun-20 04:04 PM)*
+**FFBot** _(01-Jun-20 04:04 PM)_
 Yigga.
 
-**Zander** *(01-Jun-20 04:04 PM)*
+**Zander** _(01-Jun-20 04:04 PM)_
+
 > Emmett: Work together for what?
 
-**Zander** *(01-Jun-20 04:04 PM)*
+**Zander** _(01-Jun-20 04:04 PM)_
+
 > Emmett: I'm just checking bounties.
 
-**Charles** *(01-Jun-20 04:04 PM)*
+**Charles** _(01-Jun-20 04:04 PM)_
+
 > Vargas: Bounties.
 
-**Zander** *(01-Jun-20 04:04 PM)*
+**Zander** _(01-Jun-20 04:04 PM)_
 
+_Emmett sighs audibly and checks online._
 
-*Emmett sighs audibly and checks online.*
-
-**Charles** *(01-Jun-20 04:05 PM)*
+**Charles** _(01-Jun-20 04:05 PM)_
 8ball does Emmet take a liking to Vargas?
 
-**FFBot** *(01-Jun-20 04:05 PM)*
+**FFBot** _(01-Jun-20 04:05 PM)_
 Majority rules! Vote on it!
 
-**Zander** *(01-Jun-20 04:06 PM)*
+**Zander** _(01-Jun-20 04:06 PM)_
+
 > Emmett: Come over here, ghost-boy.
 
-**Charles** *(01-Jun-20 04:06 PM)*
+**Charles** _(01-Jun-20 04:06 PM)_
+
 > Vargas: ?????
 
-**Trey** *(01-Jun-20 04:07 PM)*
+**Trey** _(01-Jun-20 04:07 PM)_
 
+_Garrick heads over, annoyed by the nickname._
 
-*Garrick heads over, annoyed by the nickname.*
-
-**Preston** *(01-Jun-20 04:07 PM)*
+**Preston** _(01-Jun-20 04:07 PM)_
 8ball Is Volonta currently cleaning?
 
-**FFBot** *(01-Jun-20 04:07 PM)*
+**FFBot** _(01-Jun-20 04:07 PM)_
 Signs point to no.
 
-**Zander** *(01-Jun-20 04:07 PM)*
+**Zander** _(01-Jun-20 04:07 PM)_
+
 > Emmett: Don't get sassy with me. I'm your superior. Or whatever.
 
-**Zander** *(01-Jun-20 04:07 PM)*
+**Zander** _(01-Jun-20 04:07 PM)_
+
 > Emmett: Now look here.
 
-**Zander** *(01-Jun-20 04:07 PM)*
+**Zander** _(01-Jun-20 04:07 PM)_
+
 > Emmett: There's a bounty out for Richard Jamerez. Apparently a lot of ducketts on the line for him.
 
-**Charles** *(01-Jun-20 04:09 PM)*
+**Charles** _(01-Jun-20 04:09 PM)_
+
 > Vargas: How much?
 
-**Trey** *(01-Jun-20 04:09 PM)*
+**Trey** _(01-Jun-20 04:09 PM)_
 garrick annoyed face:
 
-**Unknown** *(01-Jun-20 04:09 PM)*
+**Unknown** _(01-Jun-20 04:09 PM)_
 8ball does richard know there are those that seek to end him?
 
-**FFBot** *(01-Jun-20 04:09 PM)*
+**FFBot** _(01-Jun-20 04:09 PM)_
 My sources say no.
 
-**Charles** *(01-Jun-20 04:10 PM)*
+**Charles** _(01-Jun-20 04:10 PM)_
+
 > Vargas: Is the bounty?
 
-**Zander** *(01-Jun-20 04:10 PM)*
+**Zander** _(01-Jun-20 04:10 PM)_
+
 > Emmett: Uh...
 
-**Zander** *(01-Jun-20 04:10 PM)*
+**Zander** _(01-Jun-20 04:10 PM)_
+
 > Emmett: There's a range.
 
-**Zander** *(01-Jun-20 04:10 PM)*
+**Zander** _(01-Jun-20 04:10 PM)_
+
 > Emmett: 75,000 to 150,000, depending on how sloppy we are.
 
-**Charles** *(01-Jun-20 04:11 PM)*
+**Charles** _(01-Jun-20 04:11 PM)_
+
 > Vargas: I'll help if you let me join your crew. What do you say?
 
-**Zander** *(01-Jun-20 04:13 PM)*
+**Zander** _(01-Jun-20 04:13 PM)_
+
 > Emmett: Uh.
 
-**Zander** *(01-Jun-20 04:13 PM)*
+**Zander** _(01-Jun-20 04:13 PM)_
+
 > Emmett: Do we have any extra beds?
 
-**Charles** *(01-Jun-20 04:13 PM)*
+**Charles** _(01-Jun-20 04:13 PM)_
+
 > Vargas: Think about all the money i make technically goes to you.
 
-**Trey** *(01-Jun-20 04:14 PM)*
+**Trey** _(01-Jun-20 04:14 PM)_
+
 > Garrick: You can sleep in the pool.
 
-**Charles** *(01-Jun-20 04:14 PM)*
+**Charles** _(01-Jun-20 04:14 PM)_
+
 > Vargas: I'll buy my own barracks.
 
-**Zander** *(01-Jun-20 04:14 PM)*
+**Zander** _(01-Jun-20 04:14 PM)_
+
 > Emmett: This isn't your ship.
 
-**Zander** *(01-Jun-20 04:14 PM)*
+**Zander** _(01-Jun-20 04:14 PM)_
 
+_Emmett furrowed his brow._
 
-*Emmett furrowed his brow.*
-> Emmett: Since you desperately want to join *my* crew, you need to follow *my* rules.
+> Emmett: Since you desperately want to join _my_ crew, you need to follow _my_ rules.
 
-**Charles** *(01-Jun-20 04:15 PM)*
+**Charles** _(01-Jun-20 04:15 PM)_
+
 > Vargas: Ok.
 
-**Zander** *(01-Jun-20 04:15 PM)*
+**Zander** _(01-Jun-20 04:15 PM)_
 
+_Emmett's arms visibly shook._
 
-*Emmett's arms visibly shook.*
+**Charles** _(01-Jun-20 04:16 PM)_
 
-**Charles** *(01-Jun-20 04:16 PM)*
 > Vargas: Should I come back at another time?
 
-**Charles** *(01-Jun-20 04:16 PM)*
+**Charles** _(01-Jun-20 04:16 PM)_
 8ball does vargas have a trillion duckets?
 
-**FFBot** *(01-Jun-20 04:17 PM)*
+**FFBot** _(01-Jun-20 04:17 PM)_
 Ґɍ:medical_symbol: (Yes).
 
-**Charles** *(01-Jun-20 04:17 PM)*
+**Charles** _(01-Jun-20 04:17 PM)_
+
 > Vargas: I can pay for everything.
 
-**Zander** *(01-Jun-20 04:17 PM)*
+**Zander** _(01-Jun-20 04:17 PM)_
 8ball Aren't Vargas's ducketts all counterfeit, aside from about 100,000?
 
-**FFBot** *(01-Jun-20 04:17 PM)*
+**FFBot** _(01-Jun-20 04:17 PM)_
 My sources say no.
 
-**Zander** *(01-Jun-20 04:18 PM)*
+**Zander** _(01-Jun-20 04:18 PM)_
 8ball Aren't Vargas's ducketts all counterfeit, aside from about 10,000?
 
-**FFBot** *(01-Jun-20 04:18 PM)*
+**FFBot** _(01-Jun-20 04:18 PM)_
 Sí.
 
-**Charles** *(01-Jun-20 04:19 PM)*
+**Charles** _(01-Jun-20 04:19 PM)_
+
 > Vargas: I can pay for everything myself.
 
-**Zander** *(01-Jun-20 04:19 PM)*
+**Zander** _(01-Jun-20 04:19 PM)_
+
 > Emmett: Seth.
 
-**Sean** *(01-Jun-20 04:19 PM)*
+**Sean** _(01-Jun-20 04:19 PM)_
 
+_Seth awakes_
 
-*Seth awakes*
+**Sean** _(01-Jun-20 04:19 PM)_
 
-**Sean** *(01-Jun-20 04:19 PM)*
 > Seth: What?
 
-**Zander** *(01-Jun-20 04:19 PM)*
+**Zander** _(01-Jun-20 04:19 PM)_
 
+_Emmett speaks into the comms._
 
-*Emmett speaks into the comms.*
+**Zander** _(01-Jun-20 04:19 PM)_
 
-**Zander** *(01-Jun-20 04:19 PM)*
 > Emmett: Get in here.
 
-**Sean** *(01-Jun-20 04:19 PM)*
+**Sean** _(01-Jun-20 04:19 PM)_
+
 > Seth: Why?
 
-**Zander** *(01-Jun-20 04:20 PM)*
+**Zander** _(01-Jun-20 04:20 PM)_
+
 > Emmett: We may have a bounty.
 
-**Sean** *(01-Jun-20 04:20 PM)*
+**Sean** _(01-Jun-20 04:20 PM)_
+
 > Seth: ok.
 
-**Trey** *(01-Jun-20 04:20 PM)*
+**Trey** _(01-Jun-20 04:20 PM)_
 
+_Emmett turns into Squasriel for 2 seconds._
 
-*Emmett turns into Squasriel for 2 seconds.*
+**Sean** _(01-Jun-20 04:20 PM)_
 
-**Sean** *(01-Jun-20 04:20 PM)*
+_Seth rises from his bed_
 
+**Zander** _(01-Jun-20 04:20 PM)_
 
-*Seth rises from his bed*
-
-**Zander** *(01-Jun-20 04:20 PM)*
 > Emmett: Also... 8ball head, what would you pay for?
 
-**Sean** *(01-Jun-20 04:20 PM)*
+**Sean** _(01-Jun-20 04:20 PM)_
+
 > Seth: Coming.
 
-**Charles** *(01-Jun-20 04:21 PM)*
+**Charles** _(01-Jun-20 04:21 PM)_
+
 > Vargas: My barracks to be built and food for a month.
 
-**Zander** *(01-Jun-20 04:21 PM)*
+**Zander** _(01-Jun-20 04:21 PM)_
+
 > Emmett: Problem is, this is our ship.
 
-**Zander** *(01-Jun-20 04:21 PM)*
+**Zander** _(01-Jun-20 04:21 PM)_
+
 > Emmett: And I don't want a barracks.
 
-*Emmett slammed his hoof down on the table.*
+_Emmett slammed his hoof down on the table._
 
-**Charles** *(01-Jun-20 04:22 PM)*
+**Charles** _(01-Jun-20 04:22 PM)_
+
 > Vargas: I meant my room not literal barracks.
 
-**Charles** *(01-Jun-20 04:22 PM)*
+**Charles** _(01-Jun-20 04:22 PM)_
 
+_Vargas laughed under his breath._
 
-*Vargas laughed under his breath.*
+**Trey** _(01-Jun-20 04:23 PM)_
 
-**Trey** *(01-Jun-20 04:23 PM)*
 > Garrick: I really think you're missing out on the opportunity to sleep in the pool.
 
-**Zander** *(01-Jun-20 04:23 PM)*
+**Zander** _(01-Jun-20 04:23 PM)_
+
 > Emmett: Please don't test me.
 
-**Zander** *(01-Jun-20 04:23 PM)*
+**Zander** _(01-Jun-20 04:23 PM)_
+
 > Emmett: I'm under a lot of physical stress right now.
 
-**Charles** *(01-Jun-20 04:23 PM)*
+**Charles** _(01-Jun-20 04:23 PM)_
+
 > Vargas: I'm sorry.
 
-**Trey** *(01-Jun-20 04:23 PM)*
+**Trey** _(01-Jun-20 04:23 PM)_
+
 > Garrick: Emmett's in a bit of a funk right now. Don't bother him.
 
-*Garrick whispers to Vargas.*
+_Garrick whispers to Vargas._
 
-**Charles** *(01-Jun-20 04:24 PM)*
+**Charles** _(01-Jun-20 04:24 PM)_
+
 > Vargas: Yeah. I'll leave him alone.
 
-*Vargas whispers to Garrick.*
+_Vargas whispers to Garrick._
 
-**Zander** *(01-Jun-20 04:25 PM)*
+**Zander** _(01-Jun-20 04:25 PM)_
 
+_Emmett sighed and opened one of the cabinets. He notices a batch of grass._
 
-*Emmett sighed and opened one of the cabinets. He notices a batch of grass.*
-
-**Zander** *(01-Jun-20 04:25 PM)*
+**Zander** _(01-Jun-20 04:25 PM)_
 8ball Does Emmett reach for the grass?
 
-**FFBot** *(01-Jun-20 04:25 PM)*
+**FFBot** _(01-Jun-20 04:25 PM)_
 Da.
 
-**Zander** *(01-Jun-20 04:25 PM)*
+**Zander** _(01-Jun-20 04:25 PM)_
+
 > Emmett: Maybe just a bite...
 
-**Trey** *(01-Jun-20 04:25 PM)*
+**Trey** _(01-Jun-20 04:25 PM)_
+
 > Garrick: no
 
-**Trey** *(01-Jun-20 04:25 PM)*
+**Trey** _(01-Jun-20 04:25 PM)_
 
+_Garrick whispers "No" into Emmett's ears._
 
-*Garrick whispers "No" into Emmett's ears.*
+**Zander** _(01-Jun-20 04:26 PM)_
 
-**Zander** *(01-Jun-20 04:26 PM)*
+_Mateo stops eating the sourdough and stared at Emmett._
 
+**Zander** _(01-Jun-20 04:26 PM)_
 
-*Mateo stops eating the sourdough and stared at Emmett.*
-
-**Zander** *(01-Jun-20 04:26 PM)*
 > Emmett: No.
 > Emmett: Dude! Reverb!
 
-*Emmett tosses the grass in surprise.*
+_Emmett tosses the grass in surprise._
 8ball Does Mateo grab the grass and stick it in his pocket?
 
-**FFBot** *(01-Jun-20 04:26 PM)*
+**FFBot** _(01-Jun-20 04:26 PM)_
 As I see it, yes.
 
-**Zander** *(01-Jun-20 04:27 PM)*
+**Zander** _(01-Jun-20 04:27 PM)_
+
 > Emmett: You made me drop it!
 > Emmett: You're not having this.
 > Emmett: Why?
 > Emmett: I don't even know you!
 > Emmett: Clearly, it's addictive.
 
-**Trey** *(01-Jun-20 04:27 PM)*
+**Trey** _(01-Jun-20 04:27 PM)_
+
 > Garrick: Whatever works.
 
-*Garrick takes the grass from Mateo's pockets and puts them in HIS pockets.*
+_Garrick takes the grass from Mateo's pockets and puts them in HIS pockets._
 
-**Charles** *(01-Jun-20 04:27 PM)*
+**Charles** _(01-Jun-20 04:27 PM)_
 
+\*\*
 
-*\*
+**Zander** _(01-Jun-20 04:27 PM)_
 
-**Zander** *(01-Jun-20 04:27 PM)*
 > Emmett: I've seen too many good people lost to anything like this.
 > Emmett: It's just grass. Eat it.
 
-**Charles** *(01-Jun-20 04:27 PM)*
+**Charles** _(01-Jun-20 04:27 PM)_
+
 > Vargas: STOOOOOOOP!!!!!!!!! NOW!
 
-**Zander** *(01-Jun-20 04:28 PM)*
+**Zander** _(01-Jun-20 04:28 PM)_
+
 > Emmett: Mateo.
 
-*Emmett didn't notice Garrick's stealing.*
+_Emmett didn't notice Garrick's stealing._
 
 > Emmett: I'm not giving that a shot.
 > Emmett: That's what everyone says.
 > Emmett: It's not a drug.
 
-**Charles** *(01-Jun-20 04:28 PM)*
+**Charles** _(01-Jun-20 04:28 PM)_
 8ball does Vargas become a crew member for good?
 
-**FFBot** *(01-Jun-20 04:28 PM)*
+**FFBot** _(01-Jun-20 04:28 PM)_
 You decide. You earned it!
 
-**Zander** *(01-Jun-20 04:29 PM)*
+**Zander** _(01-Jun-20 04:29 PM)_
+
 > Emmett: It's literally a primary producer.
 
-**Zander** *(01-Jun-20 04:29 PM)*
+**Zander** _(01-Jun-20 04:29 PM)_
+
 > Emmett: The cornerstone of life.
 
-**Trey** *(01-Jun-20 04:29 PM)*
+**Trey** _(01-Jun-20 04:29 PM)_
 8ball does Garrick eat the grass
 
-**FFBot** *(01-Jun-20 04:29 PM)*
+**FFBot** _(01-Jun-20 04:29 PM)_
 Ґɍ:medical_symbol: (Yes).
 
-**Zander** *(01-Jun-20 04:29 PM)*
+**Zander** _(01-Jun-20 04:29 PM)_
+
 > Emmett: Are you thinking heavily about eating it again?
 > Emmett: I don't need it! Quite dictating my life!
 
-**Trey** *(01-Jun-20 04:30 PM)*
+**Trey** _(01-Jun-20 04:30 PM)_
+
 > Garrick: Look like grass. Smell like grass.
 
-**Charles** *(01-Jun-20 04:30 PM)*
+**Charles** _(01-Jun-20 04:30 PM)_
+
 > Vargas: STOOOOP!!! Throw away the grass. NOW!
 
-**Zander** *(01-Jun-20 04:30 PM)*
+**Zander** _(01-Jun-20 04:30 PM)_
+
 > Emmett: If you don't need it, why do you want it so badly?
 
-**Trey** *(01-Jun-20 04:30 PM)*
+**Trey** _(01-Jun-20 04:30 PM)_
 
+_Garrick pockets Vargas._
 
-*Garrick pockets Vargas.*
+**Charles** _(01-Jun-20 04:30 PM)_
 
-**Charles** *(01-Jun-20 04:30 PM)*
 > Vargas: Give it to me.
 
-**Zander** *(01-Jun-20 04:30 PM)*
+**Zander** _(01-Jun-20 04:30 PM)_
+
 > Emmett: It just comforts me.
 
-**Zander** *(01-Jun-20 04:30 PM)*
+**Zander** _(01-Jun-20 04:30 PM)_
+
 > Emmett: Now please.
 
-**Zander** *(01-Jun-20 04:30 PM)*
+**Zander** _(01-Jun-20 04:30 PM)_
+
 > Emmett: Give it back.
 
-**Charles** *(01-Jun-20 04:31 PM)*
+**Charles** _(01-Jun-20 04:31 PM)_
 
+_Vargas slaps Garrick._
 
-*Vargas slaps Garrick.*
+**Charles** _(01-Jun-20 04:31 PM)_
 
-**Charles** *(01-Jun-20 04:31 PM)*
 > Vargas: You tried to rob me!
 
-**Trey** *(01-Jun-20 04:31 PM)*
+**Trey** _(01-Jun-20 04:31 PM)_
 
+_Vargas ultimately fails, because slapping the wall does nothing_
 
-*Vargas ultimately fails, because slapping the wall does nothing*
+**Charles** _(01-Jun-20 04:31 PM)_
 
-**Charles** *(01-Jun-20 04:31 PM)*
+_Vargas says muffled._
 
+**Trey** _(01-Jun-20 04:31 PM)_
 
-*Vargas says muffled.*
-
-**Trey** *(01-Jun-20 04:31 PM)*
 > Garrick: You can come out once you stop being annoying.
 
-**Trey** *(01-Jun-20 04:31 PM)*
+**Trey** _(01-Jun-20 04:31 PM)_
+
 > Garrick: Nothing personal, it happens with every stowaway.
 
-**Zander** *(01-Jun-20 04:32 PM)*
+**Zander** _(01-Jun-20 04:32 PM)_
+
 > Emmett: I'm not sure if I should.
 
-**Zander** *(01-Jun-20 04:32 PM)*
+**Zander** _(01-Jun-20 04:32 PM)_
+
 > Emmett: Let me think about it.
 
-
-*Emmett does his trademark goat eyes trick.*
+_Emmett does his trademark goat eyes trick._
 
 > Emmett: Please?
 
-**Sean** *(01-Jun-20 04:33 PM)*
+**Sean** _(01-Jun-20 04:33 PM)_
+
 > Seth: here.
 
-**Unknown** *(01-Jun-20 04:33 PM)*
+**Unknown** _(01-Jun-20 04:33 PM)_
 8ball does garrick die
 
-**FFBot** *(01-Jun-20 04:33 PM)*
+**FFBot** _(01-Jun-20 04:33 PM)_
 N.
 
-**Sean** *(01-Jun-20 04:33 PM)*
+**Sean** _(01-Jun-20 04:33 PM)_
 
+_Seth arrives where all the crew are_
 
-*Seth arrives where all the crew are*
+**Charles** _(01-Jun-20 04:34 PM)_
 
-**Charles** *(01-Jun-20 04:34 PM)*
+_Garrick finally lets go of Vargas before he suffocates him to death._
 
+**Zander** _(01-Jun-20 04:35 PM)_
 
-*Garrick finally lets go of Vargas before he suffocates him to death.*
+_Emmett pays no mind to Seth entering, waiting for @Zander @Zander to respond._@Zander@Zander
 
-**Zander** *(01-Jun-20 04:35 PM)*
-
-
-*Emmett pays no mind to Seth entering, waiting for @Zander @Zander to respond.*@Zander@Zander
 > Emmett: No.
 > Emmett: Like I said, I need to think on it.
 > Emmett: As should you.
@@ -17108,4740 +18757,5353 @@ N.
 > Emmett: Think about if you can actually go without it.
 > Emmett: I LITERALLY CANNOT.
 
-**Trey** *(01-Jun-20 04:35 PM)*
+**Trey** _(01-Jun-20 04:35 PM)_
+
 > Garrick: Þ?Ǽɷ/ЊݛЊɍԗ$.
 
-**Zander** *(01-Jun-20 04:35 PM)*
+**Zander** _(01-Jun-20 04:35 PM)_
+
 > Emmett: Hm.
 
-
-*Emmett's mouth trembled.*
+_Emmett's mouth trembled._
 
 > Emmett: LIKE.
 
-**Sean** *(01-Jun-20 04:35 PM)*
+**Sean** _(01-Jun-20 04:35 PM)_
+
 > Seth: Smoke?
 
-**Zander** *(01-Jun-20 04:35 PM)*
+**Zander** _(01-Jun-20 04:35 PM)_
+
 > Emmett: I HAVE A BIRTH DEFECT.
 
-**Unknown** *(01-Jun-20 04:35 PM)*
+**Unknown** _(01-Jun-20 04:35 PM)_
 ЊݛЊ
 
-**Charles** *(01-Jun-20 04:35 PM)*
+**Charles** _(01-Jun-20 04:35 PM)_
+
 > Vargas: #goatweed.
 
-**Sean** *(01-Jun-20 04:35 PM)*
+**Sean** _(01-Jun-20 04:35 PM)_
 
+_Seth offers a cig to Garrick_
 
-*Seth offers a cig to Garrick*
+**Trey** _(01-Jun-20 04:35 PM)_
 
-**Trey** *(01-Jun-20 04:35 PM)*
+_Garrick politely accepts_
 
+**Zander** _(01-Jun-20 04:36 PM)_
 
-*Garrick politely accepts*
-
-**Zander** *(01-Jun-20 04:36 PM)*
 > Emmett: Squoat called it some grass disorder. Fetal Grass Syndrome?
 
-**Sean** *(01-Jun-20 04:36 PM)*
+**Sean** _(01-Jun-20 04:36 PM)_
 
+_Seth produces a lighter and lights his cig_
 
-*Seth produces a lighter and lights his cig*
+**Charles** _(01-Jun-20 04:36 PM)_
 
-**Charles** *(01-Jun-20 04:36 PM)*
-> Vargas: I'm sorry for stomping up to  you Seth.
+> Vargas: I'm sorry for stomping up to you Seth.
 
-**Zander** *(01-Jun-20 04:36 PM)*
+**Zander** _(01-Jun-20 04:36 PM)_
+
 > Emmett: Probably means your parents did it alot.
 
-**Sean** *(01-Jun-20 04:36 PM)*
+**Sean** _(01-Jun-20 04:36 PM)_
+
 > Seth: Ok.
 
-**Zander** *(01-Jun-20 04:36 PM)*
+**Zander** _(01-Jun-20 04:36 PM)_
+
 > Emmett: Yeah. I desperately need it or I'm going to die. The last Squoatling's death will be on your hands.
 
-**Charles** *(01-Jun-20 04:36 PM)*
+**Charles** _(01-Jun-20 04:36 PM)_
 
+_Vargas says full of guilt._
 
-*Vargas says full of guilt.*
+**Zander** _(01-Jun-20 04:36 PM)_
 
-**Zander** *(01-Jun-20 04:36 PM)*
+_Emmett was clearly overreacting._
 
+**Trey** _(01-Jun-20 04:37 PM)_
 
-*Emmett was clearly overreacting.*
-
-**Trey** *(01-Jun-20 04:37 PM)*
 > Garrick: Squoat also said you should get off of it.
 
-**Zander** *(01-Jun-20 04:37 PM)*
+**Zander** _(01-Jun-20 04:37 PM)_
+
 > Emmett: Is that what the voice in your head is telling you?
 
-**Trey** *(01-Jun-20 04:37 PM)*
+**Trey** _(01-Jun-20 04:37 PM)_
+
 > Garrick: Maybe he changed his mind.
 
-**Zander** *(01-Jun-20 04:37 PM)*
+**Zander** _(01-Jun-20 04:37 PM)_
+
 > Emmett: Yeah... He changed his mind...
 
-**Trey** *(01-Jun-20 04:37 PM)*
+**Trey** _(01-Jun-20 04:37 PM)_
 
+_Garrick pulls out a stick of Shock Chewing Gum and hands it to Emmett._
 
-*Garrick pulls out a stick of Shock Chewing Gum and hands it to Emmett.*
+**Trey** _(01-Jun-20 04:37 PM)_
 
-**Trey** *(01-Jun-20 04:37 PM)*
 > Garrick: Try this instead.
 
-**Sean** *(01-Jun-20 04:38 PM)*
+**Sean** _(01-Jun-20 04:38 PM)_
 8ball Does Seth hand Emmett a grass blunt?
 
-**FFBot** *(01-Jun-20 04:38 PM)*
+**FFBot** _(01-Jun-20 04:38 PM)_
 NOOOOOO!
 
-**Zander** *(01-Jun-20 04:38 PM)*
+**Zander** _(01-Jun-20 04:38 PM)_
 
+_A piercingly loud screech could be heard from his head._
 
-*A piercingly loud screech could be heard from his head.*
 > Emmett: "I DID NOT CHANGE MY MIND. GET OFF IT."
 
-**Trey** *(01-Jun-20 04:39 PM)*
+**Trey** _(01-Jun-20 04:39 PM)_
+
 > Garrick: Whoa, was THAT him?
 
-**Sean** *(01-Jun-20 04:39 PM)*
+**Sean** _(01-Jun-20 04:39 PM)_
+
 > Seth: Head?
 
-**Sean** *(01-Jun-20 04:39 PM)*
+**Sean** _(01-Jun-20 04:39 PM)_
+
 > Seth: Mic?
 
-**Sean** *(01-Jun-20 04:39 PM)*
+**Sean** _(01-Jun-20 04:39 PM)_
+
 > Seth: Speaker?
 
-**Zander** *(01-Jun-20 04:39 PM)*
+**Zander** _(01-Jun-20 04:39 PM)_
 
+_Emmett's ears were popping. He took the shock gum and bit into the wrapper hard._
 
-*Emmett's ears were popping. He took the shock gum and bit into the wrapper hard.*
+**Charles** _(01-Jun-20 04:39 PM)_
 
-**Charles** *(01-Jun-20 04:39 PM)*
 > Vargas: Phone?
 
-**Trey** *(01-Jun-20 04:39 PM)*
+**Trey** _(01-Jun-20 04:39 PM)_
+
 > Garrick: Wait! I just realized what that was!
 
-**Charles** *(01-Jun-20 04:40 PM)*
+**Charles** _(01-Jun-20 04:40 PM)_
+
 > Vargas: Can I get some comms now?
 
-**Sean** *(01-Jun-20 04:40 PM)*
+**Sean** _(01-Jun-20 04:40 PM)_
+
 > Seth: No.
 
-**Zander** *(01-Jun-20 04:40 PM)*
+**Zander** _(01-Jun-20 04:40 PM)_
 
+_Emmett shook from the combined efforts of the shock and the loud ass speaker in his head. He tried to cover his ears._
 
-*Emmett shook from the combined efforts of the shock and the loud ass speaker in his head. He tried to cover his ears.*
+**Charles** _(01-Jun-20 04:40 PM)_
 
-**Charles** *(01-Jun-20 04:40 PM)*
 > Vargas: REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE.
 
-**Charles** *(01-Jun-20 04:40 PM)*
+**Charles** _(01-Jun-20 04:40 PM)_
 
+_Vargas laughs watching from the side_
 
-*Vargas laughs watching from the side*
 > Vargas: HAHAHAHAHHAHA.
 
-**Zander** *(01-Jun-20 04:41 PM)*
+**Zander** _(01-Jun-20 04:41 PM)_
+
 > Emmett: Seems like your God isn't too happy with your choices.
 
-
-*Emmett was temporarily deaf.*
+_Emmett was temporarily deaf._
 
 > Emmett: WHAT?!
 
-**Charles** *(01-Jun-20 04:42 PM)*
+**Charles** _(01-Jun-20 04:42 PM)_
+
 > Vargas: HI.
 
-**Zander** *(01-Jun-20 04:42 PM)*
+**Zander** _(01-Jun-20 04:42 PM)_
+
 > Emmett: I CAN'T HEAR YOU GUYS.
 
-**Sean** *(01-Jun-20 04:42 PM)*
+**Sean** _(01-Jun-20 04:42 PM)_
+
 > Seth: Sad.
 
-**Charles** *(01-Jun-20 04:42 PM)*
+**Charles** _(01-Jun-20 04:42 PM)_
 
+_Vargas waving his hand._
 
-*Vargas waving his hand.*
-
-**Trey** *(01-Jun-20 04:42 PM)*
+**Trey** _(01-Jun-20 04:42 PM)_
 8ball does Garrick wrap Emmett's head in a Towel
 
-**FFBot** *(01-Jun-20 04:42 PM)*
+**FFBot** _(01-Jun-20 04:42 PM)_
 Sad to tell you that it does not happen.
 
-**Trey** *(01-Jun-20 04:42 PM)*
+**Trey** _(01-Jun-20 04:42 PM)_
 
+_Garrick instead sits and ignores Emmett._
 
-*Garrick instead sits and ignores Emmett.*
+**Zander** _(01-Jun-20 04:43 PM)_
 
-**Zander** *(01-Jun-20 04:43 PM)*
+_Soon, he could hear again._
 
+**Sean** _(01-Jun-20 04:43 PM)_
 
-*Soon, he could hear again.*
+_Seth grabs Emmett and starts to carry him_
 
-**Sean** *(01-Jun-20 04:43 PM)*
+**Sean** _(01-Jun-20 04:43 PM)_
 
-
-*Seth grabs Emmett and starts to carry him*
-
-**Sean** *(01-Jun-20 04:43 PM)*
 > Seth: Go.
 
-**Zander** *(01-Jun-20 04:43 PM)*
+**Zander** _(01-Jun-20 04:43 PM)_
+
 > Emmett: Let me go.
 
-**Sean** *(01-Jun-20 04:43 PM)*
+**Sean** _(01-Jun-20 04:43 PM)_
+
 > Seth: Cockpit.
 
-**Zander** *(01-Jun-20 04:43 PM)*
+**Zander** _(01-Jun-20 04:43 PM)_
+
 > Emmett: Please.
 
-**Sean** *(01-Jun-20 04:43 PM)*
+**Sean** _(01-Jun-20 04:43 PM)_
+
 > Seth: No.
 
-**Sean** *(01-Jun-20 04:43 PM)*
+**Sean** _(01-Jun-20 04:43 PM)_
+
 > Seth: Cockpit
 
-**Unknown** *(01-Jun-20 04:43 PM)*
+**Unknown** _(01-Jun-20 04:43 PM)_
 M̵͗̀i̶̅́n̷͓̈́e̴̎̓c̸̉̾r̴͛̿â̸̋f̸͑͘t̴̍͝ ̶̾͠w̶̍̇i̷͆̅l̷̿͘l̶͑̑ ̴̏̈h̷̍̾ǎ̸̂v̷͆̇é̵̉ ̵̀͂i̶͛͆t̵̢̒ś̸̒ ̷̆̽d̵̄̏à̴̐ÿ̸́̐ ̴̃͊ö̶́̃n̴̏͠ ̶̏͒t̶͊͌h̶̒̏ǐ̸͐ṡ̷̕ ̵̾̈s̷̾̈́e̸̐͒r̶̉̌v̷̎̍è̷̑r̶̆̃
 
-**Zander** *(01-Jun-20 04:44 PM)*
+**Zander** _(01-Jun-20 04:44 PM)_
 
+_Emmett didn't resist._
 
-*Emmett didn't resist.*
+**Sean** _(01-Jun-20 04:44 PM)_
 
-**Sean** *(01-Jun-20 04:44 PM)*
 > Seth: Bounty
 
-**Sean** *(01-Jun-20 04:44 PM)*
+**Sean** _(01-Jun-20 04:44 PM)_
+
 > Seth: Explain.
 
-**Zander** *(01-Jun-20 04:44 PM)*
+**Zander** _(01-Jun-20 04:44 PM)_
+
 > Emmett: Speak in more than one word.
 
-**Sean** *(01-Jun-20 04:44 PM)*
+**Sean** _(01-Jun-20 04:44 PM)_
+
 > Seth: Can't.
 
-**Sean** *(01-Jun-20 04:44 PM)*
+**Sean** _(01-Jun-20 04:44 PM)_
+
 > Seth: Hangover.
 
-**Trey** *(01-Jun-20 04:44 PM)*
+**Trey** _(01-Jun-20 04:44 PM)_
+
 > Garrick: Alright, new guy. 8ball head.
 
-**Trey** *(01-Jun-20 04:44 PM)*
+**Trey** _(01-Jun-20 04:44 PM)_
+
 > Garrick: How about this.
 
-**Sean** *(01-Jun-20 04:44 PM)*
+**Sean** _(01-Jun-20 04:44 PM)_
 
+_Seth starts to walk to cockpit_
 
-*Seth starts to walk to cockpit*
+**Zander** _(01-Jun-20 04:45 PM)_
 
-**Zander** *(01-Jun-20 04:45 PM)*
 > Emmett: You're not stuck saying one word usually.
 
-**Zander** *(01-Jun-20 04:45 PM)*
+**Zander** _(01-Jun-20 04:45 PM)_
+
 > Emmett: Are you that bad?
 
-**Sean** *(01-Jun-20 04:45 PM)*
+**Sean** _(01-Jun-20 04:45 PM)_
+
 > Seth: Yes.
 
-**Sean** *(01-Jun-20 04:45 PM)*
+**Sean** _(01-Jun-20 04:45 PM)_
+
 > Seth: Hurt.
 
-**Charles** *(01-Jun-20 04:45 PM)*
+**Charles** _(01-Jun-20 04:45 PM)_
 
+_Garrick the all knowing!!!_
 
-*Garrick the all knowing!!!*
+**Sean** _(01-Jun-20 04:45 PM)_
 
-**Sean** *(01-Jun-20 04:45 PM)*
+_Seth arrives at the cockpit_
 
+**Trey** _(01-Jun-20 04:45 PM)_
 
-*Seth arrives at the cockpit*
-
-**Trey** *(01-Jun-20 04:45 PM)*
 > Garrick: I'll give you a chance to prove yourself to the crew.
 
-**Sean** *(01-Jun-20 04:45 PM)*
+**Sean** _(01-Jun-20 04:45 PM)_
+
 > Seth: GU?
 
-**Charles** *(01-Jun-20 04:45 PM)*
+**Charles** _(01-Jun-20 04:45 PM)_
+
 > Vargas: Garrick what is his condition?
 
-**Trey** *(01-Jun-20 04:46 PM)*
+**Trey** _(01-Jun-20 04:46 PM)_
+
 > Garrick: Who's?
 
-**Sean** *(01-Jun-20 04:46 PM)*
+**Sean** _(01-Jun-20 04:46 PM)_
 
+_Seth places Emmett in the co-pilot seat_
 
-*Seth places Emmett in the co-pilot seat*
+**Sean** _(01-Jun-20 04:46 PM)_
 
-**Sean** *(01-Jun-20 04:46 PM)*
 > Seth: GU?
 
-**Zander** *(01-Jun-20 04:46 PM)*
+**Zander** _(01-Jun-20 04:46 PM)_
+
 > Emmett: We have an assassination attempt on this guy named Robert Jaquerez.
 
-**Charles** *(01-Jun-20 04:46 PM)*
+**Charles** _(01-Jun-20 04:46 PM)_
+
 > Vargas: Setttttttttthsssssss.
 
-**Zander** *(01-Jun-20 04:46 PM)*
+**Zander** _(01-Jun-20 04:46 PM)_
+
 > Emmett: In the GU.
 
-**Sean** *(01-Jun-20 04:46 PM)*
+**Sean** _(01-Jun-20 04:46 PM)_
+
 > Seth: Ok.
 
-**Trey** *(01-Jun-20 04:46 PM)*
+**Trey** _(01-Jun-20 04:46 PM)_
+
 > Garrick: He's hungover, apparently.
 
-**Zander** *(01-Jun-20 04:46 PM)*
+**Zander** _(01-Jun-20 04:46 PM)_
+
 > Emmett: He'll be at this restaurant in a few days.
 
-**Trey** *(01-Jun-20 04:46 PM)*
+**Trey** _(01-Jun-20 04:46 PM)_
+
 > Garrick: It's normal.
 
-**Sean** *(01-Jun-20 04:46 PM)*
+**Sean** _(01-Jun-20 04:46 PM)_
+
 > Seth: Alright.
 
-**Sean** *(01-Jun-20 04:46 PM)*
+**Sean** _(01-Jun-20 04:46 PM)_
+
 > Seth: Exact?
 
-**Zander** *(01-Jun-20 04:47 PM)*
+**Zander** _(01-Jun-20 04:47 PM)_
+
 > Emmett: I'm going to be eating dinner with him, distracting him. You guys are going to do the deed.
 
-**Charles** *(01-Jun-20 04:47 PM)*
+**Charles** _(01-Jun-20 04:47 PM)_
 8ball does vargas get to do whatever he wants as long as it helps the crew?
 
-**FFBot** *(01-Jun-20 04:47 PM)*
+**FFBot** _(01-Jun-20 04:47 PM)_
 It won't happen.
 
-**Trey** *(01-Jun-20 04:48 PM)*
+**Trey** _(01-Jun-20 04:48 PM)_
+
 > Garrick: ƔɷҐ/ȝȽɍ/$ɷɍȽɍ/@ݛ/ЊȝԗҐ/ԗɍƔ/ԃɍݛԃïɍ. $ɷϾ@/@Ǽ۳Ɵ@.
 
-**Zander** *(01-Jun-20 04:48 PM)*
+**Zander** _(01-Jun-20 04:48 PM)_
 
+_Emmett checks his watch._
 
-*Emmett checks his watch.*
+**Zander** _(01-Jun-20 04:48 PM)_
 
-**Zander** *(01-Jun-20 04:48 PM)*
 > Emmett: It's uh..
 
-**Zander** *(01-Jun-20 04:48 PM)*
+**Zander** _(01-Jun-20 04:48 PM)_
 
+_Emmett looked away from his grass meter._
 
-*Emmett looked away from his grass meter.*
+**Trey** _(01-Jun-20 04:49 PM)_
 
-**Trey** *(01-Jun-20 04:49 PM)*
 > Garrick: Bargas.
 
-**Trey** *(01-Jun-20 04:49 PM)*
+**Trey** _(01-Jun-20 04:49 PM)_
 Maternal Pantaloons
 
-**Trey** *(01-Jun-20 04:49 PM)*
+**Trey** _(01-Jun-20 04:49 PM)_
 Rare Undone
 
-**Trey** *(01-Jun-20 04:49 PM)*
+**Trey** _(01-Jun-20 04:49 PM)_
 Nick
 
-**Trey** *(01-Jun-20 04:49 PM)*
+**Trey** _(01-Jun-20 04:49 PM)_
 Peppery Pitstop
 
-**Charles** *(01-Jun-20 04:50 PM)*
+**Charles** _(01-Jun-20 04:50 PM)_
 Organic Organs
 
-**Trey** *(01-Jun-20 04:50 PM)*
+**Trey** _(01-Jun-20 04:50 PM)_
 Zander's Pizzeria
 
-**Charles** *(01-Jun-20 04:51 PM)*
+**Charles** _(01-Jun-20 04:51 PM)_
 Squoat Dinery
 
-**Trey** *(01-Jun-20 04:51 PM)*
+**Trey** _(01-Jun-20 04:51 PM)_
 Jonascopter High-In-The-Sky Eatery
 
-**Zander** *(01-Jun-20 04:51 PM)*
+**Zander** _(01-Jun-20 04:51 PM)_
 t!choose Salty Spitoon | The Peppery Pitshop | Night 2 | Parental Genes | The Shaky Chihuahua | Kaka Kuku | Lumby Slaumpdy | Secret Gentlemen | Strippy Dippy | Rare Undone | Ghostly Diner | Medium Rare | McDonald's | Disney Dash | Organic Organs | Zander's Italian | Llamanian Underground | Jonascopter High-In-The-Sky Eatery
 
-**FFBot** *(01-Jun-20 04:51 PM)*
+**FFBot** _(01-Jun-20 04:51 PM)_
 🤔 | Zander, I pick Llamanian Underground
 
-**Sean** *(01-Jun-20 04:51 PM)*
+**Sean** _(01-Jun-20 04:51 PM)_
 https://tenor.com/view/guy-laptop-eating-sandwich-sit-gif-16607655
 
-**Zander** *(01-Jun-20 04:52 PM)*
+**Zander** _(01-Jun-20 04:52 PM)_
+
 > Emmett: It's Llamanian Underground.
 
-**Sean** *(01-Jun-20 04:52 PM)*
+**Sean** _(01-Jun-20 04:52 PM)_
+
 > Seth: oh.
 
-**Unknown** *(01-Jun-20 04:53 PM)*
+**Unknown** _(01-Jun-20 04:53 PM)_
 8ball will they kill me today?
 
-**FFBot** *(01-Jun-20 04:53 PM)*
+**FFBot** _(01-Jun-20 04:53 PM)_
 Ja.
 
-**Sean** *(01-Jun-20 04:53 PM)*
+**Sean** _(01-Jun-20 04:53 PM)_
+
 > Seth: Alive?
 
-**Charles** *(01-Jun-20 04:53 PM)*
+**Charles** _(01-Jun-20 04:53 PM)_
+
 > Vargas: Where's the next pitstop?
 
-**Zander** *(01-Jun-20 04:53 PM)*
+**Zander** _(01-Jun-20 04:53 PM)_
+
 > Emmett: I'm going to negotiate this with the dude.
 
-**Charles** *(01-Jun-20 04:53 PM)*
+**Charles** _(01-Jun-20 04:53 PM)_
+
 > Vargas: Seth?
 
-**Zander** *(01-Jun-20 04:53 PM)*
+**Zander** _(01-Jun-20 04:53 PM)_
+
 > Emmett: I can't be seen at that restaurant.
 
-**Zander** *(01-Jun-20 04:53 PM)*
+**Zander** _(01-Jun-20 04:53 PM)_
+
 > Emmett: And no. Dead. We specifically have to behead him and stick his head on a rod.
 
-**Trey** *(01-Jun-20 04:54 PM)*
+**Trey** _(01-Jun-20 04:54 PM)_
+
 > Garrick: Gross.
 
-**Sean** *(01-Jun-20 04:54 PM)*
+**Sean** _(01-Jun-20 04:54 PM)_
+
 > Seth: Yay.
 
-**Charles** *(01-Jun-20 04:54 PM)*
+**Charles** _(01-Jun-20 04:54 PM)_
 8ball does Vargas find a high level bounty between 200k to 250k duckets
 
-**FFBot** *(01-Jun-20 04:54 PM)*
+**FFBot** _(01-Jun-20 04:54 PM)_
 Sad to tell you that it does not happen.
 
-**Zander** *(01-Jun-20 04:55 PM)*
+**Zander** _(01-Jun-20 04:55 PM)_
 
+_Emmett takes out his holo-device again and texted the quest-giver._
 
-*Emmett takes out his holo-device again and texted the quest-giver.*
+**Charles** _(01-Jun-20 04:56 PM)_
 
-**Charles** *(01-Jun-20 04:56 PM)*
+_Vargas finds a the comms and sees theres an extra one so he takes it._
 
+**Charles** _(01-Jun-20 04:56 PM)_
 
-*Vargas finds a the comms and sees theres an extra one so he takes it.*
-
-**Charles** *(01-Jun-20 04:56 PM)*
 > Vargas: Hello? Can you guys hear me?
 
-**Zander** *(01-Jun-20 04:56 PM)*
+**Zander** _(01-Jun-20 04:56 PM)_
 
+_Emmett exhales._
 
-*Emmett exhales.*
 > Emmett: Yes. We can hear you.
 
-**Zander** *(01-Jun-20 04:56 PM)*
+**Zander** _(01-Jun-20 04:56 PM)_
 8ball Is Garrick currently watching Spongebob?
 
-**FFBot** *(01-Jun-20 04:57 PM)*
+**FFBot** _(01-Jun-20 04:57 PM)_
 N.
 
-**Sean** *(01-Jun-20 04:57 PM)*
+**Sean** _(01-Jun-20 04:57 PM)_
 
+_Seth switches off his comms_
 
-*Seth switches off his comms*
-
-**Trey** *(01-Jun-20 04:57 PM)*
+**Trey** _(01-Jun-20 04:57 PM)_
 8ball Is Garrick currently watching Iris and Sanya sleep
 
 (Caveat: Sanya is in a pot and Iris is wearing only pantyhose)
 (edited)
 
-**FFBot** *(01-Jun-20 04:57 PM)*
+**FFBot** _(01-Jun-20 04:57 PM)_
 Yes, but with a caveat decided by the person before you.
 
-**Zander** *(01-Jun-20 04:57 PM)*
+**Zander** _(01-Jun-20 04:57 PM)_
+
 > Emmett: You turned your comms off?
 
-**Sean** *(01-Jun-20 04:58 PM)*
+**Sean** _(01-Jun-20 04:58 PM)_
+
 > Seth: Dislike.
 
-**Zander** *(01-Jun-20 04:58 PM)*
+**Zander** _(01-Jun-20 04:58 PM)_
 
+_Emmett turns off his comms too._
 
-*Emmett turns off his comms too.*
 > Emmett: Vargas acts really strange.
 
-**Zander** *(01-Jun-20 04:58 PM)*
+**Zander** _(01-Jun-20 04:58 PM)_
+
 > Emmett: I think I may have lost my charm with the ladies.
 
-**Sean** *(01-Jun-20 04:59 PM)*
+**Sean** _(01-Jun-20 04:59 PM)_
+
 > Seth: Happens.
 
-**Zander** *(01-Jun-20 04:59 PM)*
+**Zander** _(01-Jun-20 04:59 PM)_
+
 > Emmett: No one on the ship takes me seriously.
 
-**Unknown** *(01-Jun-20 05:00 PM)*
+**Unknown** _(01-Jun-20 05:00 PM)_
 8ball does vargas fail in all tasks this day?
 
-**FFBot** *(01-Jun-20 05:00 PM)*
+**FFBot** _(01-Jun-20 05:00 PM)_
 Yup.
 
-**Zander** *(01-Jun-20 05:00 PM)*
+**Zander** _(01-Jun-20 05:00 PM)_
+
 > Emmett: Almost as if I'm a kid or a detriment. A nuisance.
 
-**Charles** *(01-Jun-20 05:00 PM)*
+**Charles** _(01-Jun-20 05:00 PM)_
 8ball does Robert sabotage all my chores today and everyone knows?
 
-**FFBot** *(01-Jun-20 05:00 PM)*
+**FFBot** _(01-Jun-20 05:00 PM)_
 As I see it, yes.
 
-**Sean** *(01-Jun-20 05:01 PM)*
+**Sean** _(01-Jun-20 05:01 PM)_
+
 > Seth: You're.
 
-**Sean** *(01-Jun-20 05:01 PM)*
+**Sean** _(01-Jun-20 05:01 PM)_
+
 > Seth: Kid.
 
-**Zander** *(01-Jun-20 05:01 PM)*
+**Zander** _(01-Jun-20 05:01 PM)_
+
 > Emmett: I'm 22 GUYs, Seth.
 
-**Zander** *(01-Jun-20 05:01 PM)*
+**Zander** _(01-Jun-20 05:01 PM)_
+
 > Emmett: I'm not a kid.
 
-**Sean** *(01-Jun-20 05:01 PM)*
+**Sean** _(01-Jun-20 05:01 PM)_
+
 > Seth: Always.
 
-**Sean** *(01-Jun-20 05:01 PM)*
+**Sean** _(01-Jun-20 05:01 PM)_
+
 > Seth: Kid.
 
-**Sean** *(01-Jun-20 05:01 PM)*
+**Sean** _(01-Jun-20 05:01 PM)_
+
 > Seth: To me.
 
-**Unknown** *(01-Jun-20 05:02 PM)*
+**Unknown** _(01-Jun-20 05:02 PM)_
 8ball does the child that controls Matteo from another dimension throw a tantrum?
 
-**FFBot** *(01-Jun-20 05:02 PM)*
+**FFBot** _(01-Jun-20 05:02 PM)_
 Sad to tell you that it does not happen.
 
-**Unknown** *(01-Jun-20 05:02 PM)*
+**Unknown** _(01-Jun-20 05:02 PM)_
 D:
 
-**Charles** *(01-Jun-20 05:02 PM)*
+**Charles** _(01-Jun-20 05:02 PM)_
+
 > Vargas: Soooooooooooo.
 
-**Charles** *(01-Jun-20 05:02 PM)*
+**Charles** _(01-Jun-20 05:02 PM)_
+
 > Vargas: I heard this guy oolag died but has twin brother
 
-**Zander** *(01-Jun-20 05:03 PM)*
+**Zander** _(01-Jun-20 05:03 PM)_
+
 > Emmett: That's... Thoughtful, surprisingly.
 
-**Zander** *(01-Jun-20 05:03 PM)*
+**Zander** _(01-Jun-20 05:03 PM)_
+
 > Emmett: You also said two words.
 
-**Sean** *(01-Jun-20 05:03 PM)*
+**Sean** _(01-Jun-20 05:03 PM)_
+
 > Seth: I did.
 
-**Sean** *(01-Jun-20 05:03 PM)*
+**Sean** _(01-Jun-20 05:03 PM)_
+
 > Seth: Working up.
 
-**Zander** *(01-Jun-20 05:04 PM)*
+**Zander** _(01-Jun-20 05:04 PM)_
+
 > Emmett: Huh.
 
-**Trey** *(01-Jun-20 05:04 PM)*
+**Trey** _(01-Jun-20 05:04 PM)_
 
+_Garrick stops watching people sleep and goes to find Vargas._
 
-*Garrick stops watching people sleep and goes to find Vargas.*
+**Zander** _(01-Jun-20 05:04 PM)_
 
-**Zander** *(01-Jun-20 05:04 PM)*
 > Emmett: You never seem to not surprise me.
 
-**Trey** *(01-Jun-20 05:04 PM)*
+**Trey** _(01-Jun-20 05:04 PM)_
+
 > Garrick: You.
 
-**Sean** *(01-Jun-20 05:04 PM)*
+**Sean** _(01-Jun-20 05:04 PM)_
+
 > Seth: What next?
 
-**Charles** *(01-Jun-20 05:04 PM)*
-*Vargas sees Garrick as Garrcik approaches him. *
+**Charles** _(01-Jun-20 05:04 PM)_
+_Vargas sees Garrick as Garrcik approaches him. _
 
-**Zander** *(01-Jun-20 05:05 PM)*
+**Zander** _(01-Jun-20 05:05 PM)_
+
 > Emmett: But yeah.
 
-**Charles** *(01-Jun-20 05:05 PM)*
+**Charles** _(01-Jun-20 05:05 PM)_
+
 > Vargas: Yes Garrick?
 
-**Zander** *(01-Jun-20 05:05 PM)*
+**Zander** _(01-Jun-20 05:05 PM)_
+
 > Emmett: Squoat told me personally that I need to get unhooked from grass.
 
-**Zander** *(01-Jun-20 05:05 PM)*
+**Zander** _(01-Jun-20 05:05 PM)_
+
 > Emmett: I actually do need it to live, but in little doses.
 
-**Trey** *(01-Jun-20 05:06 PM)*
+**Trey** _(01-Jun-20 05:06 PM)_
+
 > Garrick: You want a chance to be in the crew?
 
-**Sean** *(01-Jun-20 05:06 PM)*
+**Sean** _(01-Jun-20 05:06 PM)_
+
 > Seth: So?
 
-**Charles** *(01-Jun-20 05:06 PM)*
+**Charles** _(01-Jun-20 05:06 PM)_
+
 > Vargas: Squoat. Forever.
 
-**Sean** *(01-Jun-20 05:06 PM)*
+**Sean** _(01-Jun-20 05:06 PM)_
+
 > Seth: What's decision?
 
-**Zander** *(01-Jun-20 05:06 PM)*
+**Zander** _(01-Jun-20 05:06 PM)_
+
 > Emmett: I need to listen to him, because he knows where "she" is.
 
-**Preston** *(01-Jun-20 05:07 PM)*
+**Preston** _(01-Jun-20 05:07 PM)_
 8ball is volonta doin ya mom?
 
-**FFBot** *(01-Jun-20 05:07 PM)*
+**FFBot** _(01-Jun-20 05:07 PM)_
 Yes moment.
 
-**Zander** *(01-Jun-20 05:07 PM)*
+**Zander** _(01-Jun-20 05:07 PM)_
+
 > Emmett: That's all he told me for motivation.
 
-**Sean** *(01-Jun-20 05:07 PM)*
+**Sean** _(01-Jun-20 05:07 PM)_
+
 > Seth: Niceeeeeee.
 
-**Charles** *(01-Jun-20 05:07 PM)*
+**Charles** _(01-Jun-20 05:07 PM)_
 
+_Vargas searches for Emmet with the help of Garrick after a awkward stare._
 
-*Vargas searches for Emmet with the help of Garrick after a awkward stare.*
+**Sean** _(01-Jun-20 05:07 PM)_
 
-**Sean** *(01-Jun-20 05:07 PM)*
 > Seth: Taught well.
 
-**Sean** *(01-Jun-20 05:07 PM)*
+**Sean** _(01-Jun-20 05:07 PM)_
 
+_Seth slaps Emmett on the back_
 
-*Seth slaps Emmett on the back*
+**Trey** _(01-Jun-20 05:07 PM)_
 
-**Trey** *(01-Jun-20 05:07 PM)*
+_Garrick does not help Vargas because Vargas cannot tell Garrick what to do_
 
+**Charles** _(01-Jun-20 05:08 PM)_
 
-*Garrick does not help Vargas because Vargas cannot tell Garrick what to do*
-
-**Charles** *(01-Jun-20 05:08 PM)*
 > Vargas: Hey guuuuys.
 
-**Trey** *(01-Jun-20 05:08 PM)*
+**Trey** _(01-Jun-20 05:08 PM)_
+
 > Garrick: I swear, this guy.
 
-**Charles** *(01-Jun-20 05:08 PM)*
+**Charles** _(01-Jun-20 05:08 PM)_
 8ball de we all start the assassination mission
 
-**FFBot** *(01-Jun-20 05:08 PM)*
+**FFBot** _(01-Jun-20 05:08 PM)_
 It is certain.
 
-**Trey** *(01-Jun-20 05:09 PM)*
+**Trey** _(01-Jun-20 05:09 PM)_
+
 > Garrick: Whatever.
 
-**Charles** *(01-Jun-20 05:09 PM)*
+**Charles** _(01-Jun-20 05:09 PM)_
+
 > Vargas: Lets gooooooo.
 
-**Zander** *(01-Jun-20 05:11 PM)*
+**Zander** _(01-Jun-20 05:11 PM)_
+
 > Emmett: Taught well?
 
-**Zander** *(01-Jun-20 05:11 PM)*
+**Zander** _(01-Jun-20 05:11 PM)_
+
 > Emmett: I'm just following what my creator said.
 
-**Zander** *(01-Jun-20 05:11 PM)*
+**Zander** _(01-Jun-20 05:11 PM)_
+
 > Emmett: I don't even know if he's immortal or whatever.
 
-**Sean** *(01-Jun-20 05:12 PM)*
+**Sean** _(01-Jun-20 05:12 PM)_
+
 > Seth: Probably is.
 
-**Charles** *(01-Jun-20 05:12 PM)*
+**Charles** _(01-Jun-20 05:12 PM)_
+
 > Vargas: After this ill have enough for the badass sword i want.
 
-**Sean** *(01-Jun-20 05:12 PM)*
+**Sean** _(01-Jun-20 05:12 PM)_
 8ball Does Vargas trip and fall?
 
-**FFBot** *(01-Jun-20 05:12 PM)*
+**FFBot** _(01-Jun-20 05:12 PM)_
 Majority rules! Vote on it!
 
-**Zander** *(01-Jun-20 05:13 PM)*
+**Zander** _(01-Jun-20 05:13 PM)_
+
 > Emmett: Anyhow, let's get there. I want to make reservations.
 
-**Sean** *(01-Jun-20 05:13 PM)*
+**Sean** _(01-Jun-20 05:13 PM)_
+
 > Seth: Ok lets.
 
-**Zander** *(01-Jun-20 05:13 PM)*
+**Zander** _(01-Jun-20 05:13 PM)_
 
+_Emmett turns on his comms._
 
-*Emmett turns on his comms.*
+**Sean** _(01-Jun-20 05:13 PM)_
 
-**Sean** *(01-Jun-20 05:13 PM)*
+_Seth turns on comms._
 
+**Sean** _(01-Jun-20 05:13 PM)_
 
-*Seth turns on comms.*
-
-**Sean** *(01-Jun-20 05:13 PM)*
 > Seth: Move out.
 
-**Zander** *(01-Jun-20 05:14 PM)*
+**Zander** _(01-Jun-20 05:14 PM)_
+
 > Emmett: We're going to the restaurant to make reservations.
 
-**Sean** *(01-Jun-20 05:14 PM)*
+**Sean** _(01-Jun-20 05:14 PM)_
+
 > Seth: Emmett, woman.
 
-**Sean** *(01-Jun-20 05:14 PM)*
+**Sean** _(01-Jun-20 05:14 PM)_
+
 > Seth: Dress up.
 
-**Charles** *(01-Jun-20 05:14 PM)*
+**Charles** _(01-Jun-20 05:14 PM)_
+
 > Vargas: Yaaaaahoooooo. I'm hungry.
 
-**Zander** *(01-Jun-20 05:14 PM)*
+**Zander** _(01-Jun-20 05:14 PM)_
 
+_Emmett raised an eyebrow._
 
-*Emmett raised an eyebrow.*
 > Emmett: No?
 
-**Trey** *(01-Jun-20 05:14 PM)*
+**Trey** _(01-Jun-20 05:14 PM)_
+
 > Garrick: Get Iris to play the decoy at the restaurant or something.
 
-**Trey** *(01-Jun-20 05:14 PM)*
+**Trey** _(01-Jun-20 05:14 PM)_
+
 > Garrick: Like in movies.
 
-**Sean** *(01-Jun-20 05:14 PM)*
+**Sean** _(01-Jun-20 05:14 PM)_
+
 > Seth: She's asleep.
 
-**Zander** *(01-Jun-20 05:15 PM)*
+**Zander** _(01-Jun-20 05:15 PM)_
+
 > Emmett: I already told the guy I'm being the decoy.
 
-**Trey** *(01-Jun-20 05:15 PM)*
+**Trey** _(01-Jun-20 05:15 PM)_
+
 > Garrick: I know, I saw them.
 
-**Sean** *(01-Jun-20 05:15 PM)*
+**Sean** _(01-Jun-20 05:15 PM)_
+
 > Seth: Ok.
 
-**Sean** *(01-Jun-20 05:15 PM)*
+**Sean** _(01-Jun-20 05:15 PM)_
+
 > Seth: Garrick.
 
-**Sean** *(01-Jun-20 05:15 PM)*
+**Sean** _(01-Jun-20 05:15 PM)_
+
 > Seth: Become employee.
 
-**Sean** *(01-Jun-20 05:15 PM)*
+**Sean** _(01-Jun-20 05:15 PM)_
+
 > Seth: or Volonta.
 
-**Sean** *(01-Jun-20 05:15 PM)*
+**Sean** _(01-Jun-20 05:15 PM)_
+
 > Seth: Either or.
 
-**Trey** *(01-Jun-20 05:16 PM)*
+**Trey** _(01-Jun-20 05:16 PM)_
+
 > Garrick: Volonta was an employee, like, a week ago.
 
-**Charles** *(01-Jun-20 05:16 PM)*
+**Charles** _(01-Jun-20 05:16 PM)_
+
 > Vargas: You do it man.
 
-**Sean** *(01-Jun-20 05:17 PM)*
+**Sean** _(01-Jun-20 05:17 PM)_
+
 > Seth: Fuck off.
 
-**Sean** *(01-Jun-20 05:17 PM)*
+**Sean** _(01-Jun-20 05:17 PM)_
+
 > Seth: Nigger.
 
-**Charles** *(01-Jun-20 05:17 PM)*
-8ball  do i find a suitcase with 500k duckets inside?
+**Charles** _(01-Jun-20 05:17 PM)_
+8ball do i find a suitcase with 500k duckets inside?
 
-**FFBot** *(01-Jun-20 05:17 PM)*
+**FFBot** _(01-Jun-20 05:17 PM)_
 Bro, your action didn't make it. I'm so sorry. (No).
 
-**FFBot** *(01-Jun-20 05:17 PM)*
+**FFBot** _(01-Jun-20 05:17 PM)_
 Outlook good.
 
-**Zander** *(01-Jun-20 05:17 PM)*
+**Zander** _(01-Jun-20 05:17 PM)_
 8ball Does Seth leave the cockpit and threaten to fist Garrick's pocket dimension?
 (edited)
 
-**Trey** *(01-Jun-20 05:17 PM)*
+**Trey** _(01-Jun-20 05:17 PM)_
+
 > Garrick: VOLONTA
 
-**Preston** *(01-Jun-20 05:18 PM)*
+**Preston** _(01-Jun-20 05:18 PM)_
+
 > Volentina: Mm?
 
-**Trey** *(01-Jun-20 05:18 PM)*
+**Trey** _(01-Jun-20 05:18 PM)_
+
 > Garrick: How good are you at acting?
 
-**Sean** *(01-Jun-20 05:18 PM)*
+**Sean** _(01-Jun-20 05:18 PM)_
+
 > Seth: Imma fist
 
-**Trey** *(01-Jun-20 05:18 PM)*
+**Trey** _(01-Jun-20 05:18 PM)_
+
 > Garrick: no
 
-**Sean** *(01-Jun-20 05:18 PM)*
+**Sean** _(01-Jun-20 05:18 PM)_
+
 > Seth: Yes.
 
-**Charles** *(01-Jun-20 05:18 PM)*
+**Charles** _(01-Jun-20 05:18 PM)_
+
 > Vargas: I killed people all the time soooooo.
 
-**Preston** *(01-Jun-20 05:18 PM)*
+**Preston** _(01-Jun-20 05:18 PM)_
+
 > Volentina: No.
 
-**Sean** *(01-Jun-20 05:18 PM)*
+**Sean** _(01-Jun-20 05:18 PM)_
+
 > Seth: Shut up.
 
-**Charles** *(01-Jun-20 05:18 PM)*
+**Charles** _(01-Jun-20 05:18 PM)_
+
 > Vargas: Yes.
 
-**Sean** *(01-Jun-20 05:18 PM)*
+**Sean** _(01-Jun-20 05:18 PM)_
+
 > Seth: Nigger.
 
-**Zander** *(01-Jun-20 05:18 PM)*
+**Zander** _(01-Jun-20 05:18 PM)_
 
+_Emmett started the ship up._
 
-*Emmett started the ship up.*
-
-**Trey** *(01-Jun-20 05:19 PM)*
+**Trey** _(01-Jun-20 05:19 PM)_
 8ball does everyone turn black for 1 second
 
-**FFBot** *(01-Jun-20 05:19 PM)*
+**FFBot** _(01-Jun-20 05:19 PM)_
 I guess not.
 
-**Zander** *(01-Jun-20 05:19 PM)*
+**Zander** _(01-Jun-20 05:19 PM)_
+
 > Emmett: Wassup my nig nogs?
 
-**Zander** *(01-Jun-20 05:19 PM)*
+**Zander** _(01-Jun-20 05:19 PM)_
 
+_Emmett giggled as the ship went into hyperspace._
 
-*Emmett giggled as the ship went into hyperspace.*
+**Charles** _(01-Jun-20 05:20 PM)_
 
-**Charles** *(01-Jun-20 05:20 PM)*
 > Vargas: Just kidding d:
 
-**Trey** *(01-Jun-20 05:20 PM)*
+**Trey** _(01-Jun-20 05:20 PM)_
 8ball is d: a terrible insult in FF
 
-**FFBot** *(01-Jun-20 05:20 PM)*
+**FFBot** _(01-Jun-20 05:20 PM)_
 Outlook bad.
 
-**Zander** *(01-Jun-20 05:21 PM)*
+**Zander** _(01-Jun-20 05:21 PM)_
+
 > Emmett: Did you just call him a d:?
 
-**Trey** *(01-Jun-20 05:21 PM)*
+**Trey** _(01-Jun-20 05:21 PM)_
 8ball is d: the worst insult
 
-**FFBot** *(01-Jun-20 05:21 PM)*
+**FFBot** _(01-Jun-20 05:21 PM)_
 Yigga.
 
-**Charles** *(01-Jun-20 05:22 PM)*
+**Charles** _(01-Jun-20 05:22 PM)_
 Yigga.
 
-**Zander** *(01-Jun-20 05:22 PM)*
+**Zander** _(01-Jun-20 05:22 PM)_
+
 > Emmett: Vargas, what is wrong with you?
 
-**Zander** *(01-Jun-20 05:22 PM)*
+**Zander** _(01-Jun-20 05:22 PM)_
+
 > Emmett: We're supposed to be a crew.
 
-**Trey** *(01-Jun-20 05:22 PM)*
+**Trey** _(01-Jun-20 05:22 PM)_
+
 > Garrick: Yigga.
 
-**Charles** *(01-Jun-20 05:22 PM)*
+**Charles** _(01-Jun-20 05:22 PM)_
+
 > Vargas: Sorry i meant to say ":
 
-**Zander** *(01-Jun-20 05:23 PM)*
+**Zander** _(01-Jun-20 05:23 PM)_
+
 > Emmett: What does that even mean?
 
-**Zander** *(01-Jun-20 05:23 PM)*
+**Zander** _(01-Jun-20 05:23 PM)_
+
 > Emmett: : is a forbidden word. No matter what.
 
-**Charles** *(01-Jun-20 05:23 PM)*
+**Charles** _(01-Jun-20 05:23 PM)_
 8ball is ": a compliment
 
-**FFBot** *(01-Jun-20 05:23 PM)*
+**FFBot** _(01-Jun-20 05:23 PM)_
 NOOOOOO!
 
-**Zander** *(01-Jun-20 05:23 PM)*
+**Zander** _(01-Jun-20 05:23 PM)_
 
+_Emmett facepalmed._
 
-*Emmett facepalmed.*
+**Zander** _(01-Jun-20 05:23 PM)_
 
-**Zander** *(01-Jun-20 05:23 PM)*
 > Emmett: I really need something to calm me down.
 
-**Trey** *(01-Jun-20 05:24 PM)*
+**Trey** _(01-Jun-20 05:24 PM)_
+
 > Garrick: I got you, Emmett.
 
-**Zander** *(01-Jun-20 05:24 PM)*
+**Zander** _(01-Jun-20 05:24 PM)_
 
+_Emmett scratched his face._
 
-*Emmett scratched his face.*
+**Sean** _(01-Jun-20 05:24 PM)_
 
-**Sean** *(01-Jun-20 05:24 PM)*
 > Seth: Want smoke?
 
-**Charles** *(01-Jun-20 05:24 PM)*
-> Vargas: Sorry, i was doing tongue wisters earlier 
+**Charles** _(01-Jun-20 05:24 PM)_
 
-**Zander** *(01-Jun-20 05:24 PM)*
+> Vargas: Sorry, i was doing tongue wisters earlier
+
+**Zander** _(01-Jun-20 05:24 PM)_
+
 > Emmett: What's the smoke?
 
-**Trey** *(01-Jun-20 05:24 PM)*
+**Trey** _(01-Jun-20 05:24 PM)_
 
+_Garrick pulls out a 16-String Guitar and hands it to Emmett._
 
-*Garrick pulls out a 16-String Guitar and hands it to Emmett.*
+**Trey** _(01-Jun-20 05:24 PM)_
 
-**Trey** *(01-Jun-20 05:24 PM)*
 > Garrick: Play this.
 
-**Sean** *(01-Jun-20 05:24 PM)*
+**Sean** _(01-Jun-20 05:24 PM)_
+
 > Seth: Cigarette.
 
-**Zander** *(01-Jun-20 05:24 PM)*
+**Zander** _(01-Jun-20 05:24 PM)_
 
+_Emmett holds the guitar awkwardly._
 
-*Emmett holds the guitar awkwardly.*
 > Emmett: What the fuck is this?
 
-**Zander** *(01-Jun-20 05:24 PM)*
+**Zander** _(01-Jun-20 05:24 PM)_
+
 > Emmett: Also, what's in the cigarette?
 
-**Charles** *(01-Jun-20 05:25 PM)*
+**Charles** _(01-Jun-20 05:25 PM)_
 
+_Vargas pulls out a pistol._
 
-*Vargas pulls out a pistol.*
 > Vargas: Play this Seth.
 
-**Sean** *(01-Jun-20 05:25 PM)*
+**Sean** _(01-Jun-20 05:25 PM)_
+
 > Seth: Elf tobacco
 
-**Sean** *(01-Jun-20 05:25 PM)*
+**Sean** _(01-Jun-20 05:25 PM)_
 
+_Seth shoots Vargas in the kneecaps_
 
-*Seth shoots Vargas in the kneecaps*
+**Zander** _(01-Jun-20 05:26 PM)_
 
-**Zander** *(01-Jun-20 05:26 PM)*
+_Emmett takes his offer and checks out the cigarette, taking a whiff of it._
 
+**Zander** _(01-Jun-20 05:26 PM)_
 
-*Emmett takes his offer and checks out the cigarette, taking a whiff of it.*
-
-**Zander** *(01-Jun-20 05:26 PM)*
 > Emmett: That... Doesn't smell bad?
 
-**Charles** *(01-Jun-20 05:27 PM)*
+**Charles** _(01-Jun-20 05:27 PM)_
 8ball do the bullets reflect.
 
-**FFBot** *(01-Jun-20 05:27 PM)*
+**FFBot** _(01-Jun-20 05:27 PM)_
 Without a doubt.
 
-**Sean** *(01-Jun-20 05:27 PM)*
+**Sean** _(01-Jun-20 05:27 PM)_
+
 > Seth: Its natural.
 
-**Charles** *(01-Jun-20 05:28 PM)*
+**Charles** _(01-Jun-20 05:28 PM)_
+
 > Vargas: HIDE AND DUCK!!!
 
-**Zander** *(01-Jun-20 05:28 PM)*
+**Zander** _(01-Jun-20 05:28 PM)_
+
 > Emmett: Emmett unrolls the scroll and sees natural stuff.
 
-**Zander** *(01-Jun-20 05:28 PM)*
+**Zander** _(01-Jun-20 05:28 PM)_
 
+_Emmett does as he says._
 
-*Emmett does as he says.*
-
-**Zander** *(01-Jun-20 05:28 PM)*
+**Zander** _(01-Jun-20 05:28 PM)_
 8ball Is there Elven grass in the cig?
 
-**FFBot** *(01-Jun-20 05:28 PM)*
+**FFBot** _(01-Jun-20 05:28 PM)_
 Sí.
 
-**Preston** *(01-Jun-20 05:29 PM)*
+**Preston** _(01-Jun-20 05:29 PM)_
 8ball Is Volonta eating cheese
 
-**FFBot** *(01-Jun-20 05:29 PM)*
+**FFBot** _(01-Jun-20 05:29 PM)_
 Signs point to no.
 
-**Zander** *(01-Jun-20 05:29 PM)*
+**Zander** _(01-Jun-20 05:29 PM)_
+
 > Emmett: This is how it's a cigarette, isn't it?
 
-**Preston** *(01-Jun-20 05:29 PM)*
+**Preston** _(01-Jun-20 05:29 PM)_
+
 > Volentina: I wish I had some cheese
 
-**Sean** *(01-Jun-20 05:29 PM)*
+**Sean** _(01-Jun-20 05:29 PM)_
+
 > Seth: Yes.
 
-**Sean** *(01-Jun-20 05:29 PM)*
+**Sean** _(01-Jun-20 05:29 PM)_
 
+_Seth lights his Cigarette and offers to light Emmett's_
 
-*Seth lights his Cigarette and offers to light Emmett's*
-
-**Sean** *(01-Jun-20 05:29 PM)*
+**Sean** _(01-Jun-20 05:29 PM)_
 8ball Does Volonta eat a cow whole?
 
-**FFBot** *(01-Jun-20 05:30 PM)*
+**FFBot** _(01-Jun-20 05:30 PM)_
 Yo mama. (No).
 
-**Zander** *(01-Jun-20 05:30 PM)*
+**Zander** _(01-Jun-20 05:30 PM)_
+
 > Emmett: The others will scream at me if they see me taking this...
 
-**Trey** *(01-Jun-20 05:31 PM)*
+**Trey** _(01-Jun-20 05:31 PM)_
 
+_Garrick pulls out a Stop Sign._
 
-*Garrick pulls out a Stop Sign.*
+**Sean** _(01-Jun-20 05:31 PM)_
 
-**Sean** *(01-Jun-20 05:31 PM)*
 > Seth: Its cig.
 
-**Charles** *(01-Jun-20 05:31 PM)*
+**Charles** _(01-Jun-20 05:31 PM)_
 
+_Vargas saw the bullets ricochet through the ship._
 
-*Vargas saw the bullets ricochet through the ship.*
+**Sean** _(01-Jun-20 05:31 PM)_
 
-**Sean** *(01-Jun-20 05:31 PM)*
 > Seth: Won't know.
 
-**Zander** *(01-Jun-20 05:31 PM)*
+**Zander** _(01-Jun-20 05:31 PM)_
+
 > Emmett: Or pull out a stop sign.
 
-**Trey** *(01-Jun-20 05:31 PM)*
+**Trey** _(01-Jun-20 05:31 PM)_
+
 > Garrick: Stop sign moment.
 
-**Trey** *(01-Jun-20 05:31 PM)*
+**Trey** _(01-Jun-20 05:31 PM)_
 
+_Garrick whispers "stop" in Emmett's ears, just like earlier._
 
-*Garrick whispers "stop" in Emmett's ears, just like earlier.*
+**Charles** _(01-Jun-20 05:32 PM)_
 
-**Charles** *(01-Jun-20 05:32 PM)*
 > Vargas: Can i get one of those Seth my man?
 
-**Sean** *(01-Jun-20 05:32 PM)*
+**Sean** _(01-Jun-20 05:32 PM)_
+
 > Seth: No, Nigger.
 
-**Charles** *(01-Jun-20 05:32 PM)*
+**Charles** _(01-Jun-20 05:32 PM)_
+
 > Vargas: I'm not black.
 
-**Sean** *(01-Jun-20 05:32 PM)*
+**Sean** _(01-Jun-20 05:32 PM)_
 
+_Seth puffs smoke in his face_
 
-*Seth puffs smoke in his face*
+**Sean** _(01-Jun-20 05:32 PM)_
 
-**Sean** *(01-Jun-20 05:32 PM)*
 > Seth: Don't care.
 
-**Zander** *(01-Jun-20 05:32 PM)*
+**Zander** _(01-Jun-20 05:32 PM)_
+
 > Emmett: I think I'll listen to Garrick. But I really- TURN OFF YOUR COMMS WHEN YOU WHISPER TO ME YOU BATHERING IDIOT!
 
-*Emmett swings at the ghost, hitting himself in the face.*
+_Emmett swings at the ghost, hitting himself in the face._
 
-**Sean** *(01-Jun-20 05:32 PM)*
+**Sean** _(01-Jun-20 05:32 PM)_
+
 > Seth: d:
 
-**Trey** *(01-Jun-20 05:33 PM)*
+**Trey** _(01-Jun-20 05:33 PM)_
+
 > Garrick: Oh, damn, sorry. I forgot.
 
-**Zander** *(01-Jun-20 05:33 PM)*
+**Zander** _(01-Jun-20 05:33 PM)_
+
 > Emmett: Awh muy nose..
 
-**Charles** *(01-Jun-20 05:33 PM)*
+**Charles** _(01-Jun-20 05:33 PM)_
 
+_Welp time to launch myself by opening the hatch in deep space for fun and leave it open_
 
-*Welp time to launch myself by opening the hatch in deep space for fun and leave it open*
-
-**Charles** *(01-Jun-20 05:33 PM)*
+**Charles** _(01-Jun-20 05:33 PM)_
 ":\
 
-**Charles** *(01-Jun-20 05:33 PM)*
+**Charles** _(01-Jun-20 05:33 PM)_
+
 > Vargas: ":
 
-**Trey** *(01-Jun-20 05:34 PM)*
+**Trey** _(01-Jun-20 05:34 PM)_
 
+_Garrick couldn't help but laugh at Emmett hitting himself._
 
-*Garrick couldn't help but laugh at Emmett hitting himself.*
-
-**Unknown** *(01-Jun-20 05:34 PM)*
+**Unknown** _(01-Jun-20 05:34 PM)_
 8ball will everyone have a bad time
 
-**FFBot** *(01-Jun-20 05:34 PM)*
+**FFBot** _(01-Jun-20 05:34 PM)_
 It is certain.
 
-**Zander** *(01-Jun-20 05:34 PM)*
+**Zander** _(01-Jun-20 05:34 PM)_
+
 > Emmett: Vurgas whut are yu talnking abount?
 
-**Preston** *(01-Jun-20 05:35 PM)*
+**Preston** _(01-Jun-20 05:35 PM)_
+
 > Volentina: I will return
 
-*walks off*
+_walks off_
 
-**Charles** *(01-Jun-20 05:35 PM)*
+**Charles** _(01-Jun-20 05:35 PM)_
+
 > Vargas: Why doint you join me? It'll be fuuuuun.
 
-**Charles** *(01-Jun-20 05:35 PM)*
+**Charles** _(01-Jun-20 05:35 PM)_
+
 > Vargas: Meet me at the airlock in 5 min
 
-**Zander** *(01-Jun-20 05:36 PM)*
+**Zander** _(01-Jun-20 05:36 PM)_
 
+_Emmett blows his nose._
 
-*Emmett blows his nose.*
 > Emmett: Also, don't laugh at me.
 
-**Zander** *(01-Jun-20 05:36 PM)*
+**Zander** _(01-Jun-20 05:36 PM)_
+
 > Emmett: I'm insecure.
 
-**Trey** *(01-Jun-20 05:36 PM)*
+**Trey** _(01-Jun-20 05:36 PM)_
+
 > Garrick: Volonta.
 
-**Charles** *(01-Jun-20 05:36 PM)*
+**Charles** _(01-Jun-20 05:36 PM)_
+
 > Vargas: I would NEVER.
 
-**Trey** *(01-Jun-20 05:36 PM)*
+**Trey** _(01-Jun-20 05:36 PM)_
+
 > Garrick: Do you know how to use the airlock yet?
 
-**Charles** *(01-Jun-20 05:36 PM)*
+**Charles** _(01-Jun-20 05:36 PM)_
+
 > Vargas: Yes.
 
-**Zander** *(01-Jun-20 05:37 PM)*
+**Zander** _(01-Jun-20 05:37 PM)_
+
 > Emmett: I was talking to the ghost that likes to make me deaf.
 
-**Zander** *(01-Jun-20 05:37 PM)*
+**Zander** _(01-Jun-20 05:37 PM)_
+
 > Emmett: Garrick.
 
-**Zander** *(01-Jun-20 05:37 PM)*
+**Zander** _(01-Jun-20 05:37 PM)_
+
 > Emmett: Let me dig in your pocket dimension.
 
-**Trey** *(01-Jun-20 05:37 PM)*
+**Trey** _(01-Jun-20 05:37 PM)_
+
 > Garrick: Uhh, why?
 
-**Charles** *(01-Jun-20 05:37 PM)*
+**Charles** _(01-Jun-20 05:37 PM)_
+
 > Vargas: d: you Emmet. Now ima leave the airlock open.
 
-**Zander** *(01-Jun-20 05:38 PM)*
+**Zander** _(01-Jun-20 05:38 PM)_
+
 > Emmett: Because. A nose for a nose. I'm going to hit you with one of your ite-
 
-*Emmett stormed off to the airlock.*
+_Emmett stormed off to the airlock._
 
-**Zander** *(01-Jun-20 05:38 PM)*
+**Zander** _(01-Jun-20 05:38 PM)_
+
 > Emmett: Stop.
 
-**Zander** *(01-Jun-20 05:38 PM)*
+**Zander** _(01-Jun-20 05:38 PM)_
+
 > Emmett: Please.
 
-**Zander** *(01-Jun-20 05:38 PM)*
+**Zander** _(01-Jun-20 05:38 PM)_
+
 > Emmett: You are being a jerk.
 
-**Trey** *(01-Jun-20 05:39 PM)*
+**Trey** _(01-Jun-20 05:39 PM)_
+
 > Garrick: Vargas. We are airlocking YOU.
 
-**Charles** *(01-Jun-20 05:39 PM)*
+**Charles** _(01-Jun-20 05:39 PM)_
+
 > Vargas: Maybe. You hurt my feelings.
 
-**Zander** *(01-Jun-20 05:39 PM)*
+**Zander** _(01-Jun-20 05:39 PM)_
+
 > Emmett: I didn't do anything.
 
-**Charles** *(01-Jun-20 05:40 PM)*
+**Charles** _(01-Jun-20 05:40 PM)_
+
 > Vargas: Thats it. Oxygen tank off. Eletrical systems off.
 
-**Charles** *(01-Jun-20 05:40 PM)*
+**Charles** _(01-Jun-20 05:40 PM)_
 
+_Vargas opens airlock._
 
-*Vargas opens airlock.*
+**Zander** _(01-Jun-20 05:40 PM)_
 
-**Zander** *(01-Jun-20 05:40 PM)*
 > Emmett: What are you even talking about?
 
-**Charles** *(01-Jun-20 05:40 PM)*
+**Charles** _(01-Jun-20 05:40 PM)_
 8ball does vargas take everyone with him.
 
-**FFBot** *(01-Jun-20 05:40 PM)*
+**FFBot** _(01-Jun-20 05:40 PM)_
 Choose someone who decides for me.
 
-**Zander** *(01-Jun-20 05:41 PM)*
+**Zander** _(01-Jun-20 05:41 PM)_
+
 > Emmett: Fine.
 
-**Zander** *(01-Jun-20 05:41 PM)*
+**Zander** _(01-Jun-20 05:41 PM)_
+
 > Emmett: You want to die?
 
-**Zander** *(01-Jun-20 05:41 PM)*
+**Zander** _(01-Jun-20 05:41 PM)_
+
 > Emmett: I'll let you die.
 
-**Zander** *(01-Jun-20 05:41 PM)*
+**Zander** _(01-Jun-20 05:41 PM)_
 
+_Emmett closed the first hatch and locked it._
 
-*Emmett closed the first hatch and locked it.*
+**Trey** _(01-Jun-20 05:42 PM)_
 
-**Trey** *(01-Jun-20 05:42 PM)*
+_Vargas is stuck in the airlock._
 
+**Charles** _(01-Jun-20 05:42 PM)_
 
-*Vargas is stuck in the airlock.*
-
-**Charles** *(01-Jun-20 05:42 PM)*
 > Vargas: Turn all systems on.
 
-**Zander** *(01-Jun-20 05:42 PM)*
+**Zander** _(01-Jun-20 05:42 PM)_
+
 > Emmett: No.
 
-**Charles** *(01-Jun-20 05:42 PM)*
+**Charles** _(01-Jun-20 05:42 PM)_
+
 > Vargas: I'll survive hahahahhahha.
 
-**Zander** *(01-Jun-20 05:42 PM)*
+**Zander** _(01-Jun-20 05:42 PM)_
+
 > Emmett: You randomly came on our ship and you started to terrorize us.
 
-**Preston** *(01-Jun-20 05:43 PM)*
+**Preston** _(01-Jun-20 05:43 PM)_
 8ball Is Vargas silenced for 10 minutes?
 
-**FFBot** *(01-Jun-20 05:43 PM)*
+**FFBot** _(01-Jun-20 05:43 PM)_
 Bro, your action didn't make it. I'm so sorry. (No).
 
-**Charles** *(01-Jun-20 05:43 PM)*
+**Charles** _(01-Jun-20 05:43 PM)_
+
 > Vargas: By the way i'll contact you about paying for the insurance on my ship
 
-**Charles** *(01-Jun-20 05:43 PM)*
+**Charles** _(01-Jun-20 05:43 PM)_
+
 > Vargas: Hello yes please come quick.
 
-**Charles** *(01-Jun-20 05:43 PM)*
+**Charles** _(01-Jun-20 05:43 PM)_
+
 > Vargas: I have a squoat in custody.
 
-**Zander** *(01-Jun-20 05:44 PM)*
+**Zander** _(01-Jun-20 05:44 PM)_
 
+_Emmett turned off the support in the airlock room. The lights went off and the room Vargas was in was slowly decompressing._
 
-*Emmett turned off the support in the airlock room. The lights went off and the room Vargas was in was slowly decompressing.*
+**Charles** _(01-Jun-20 05:44 PM)_
 
-**Charles** *(01-Jun-20 05:44 PM)*
 > Vargas: 1nil duckets you say. Niceeeee.
 
-**Zander** *(01-Jun-20 05:44 PM)*
+**Zander** _(01-Jun-20 05:44 PM)_
+
 > Emmett: You are delusional. You aren't even talking to anyone.
 
-**Charles** *(01-Jun-20 05:45 PM)*
+**Charles** _(01-Jun-20 05:45 PM)_
 
+_Vargas called the police to the ship._
 
-*Vargas called the police to the ship.*
+**Charles** _(01-Jun-20 05:45 PM)_
 
-**Charles** *(01-Jun-20 05:45 PM)*
 > Vargas: I was hired to track you haha.
 
-**Zander** *(01-Jun-20 05:45 PM)*
+**Zander** _(01-Jun-20 05:45 PM)_
 
+_Emmett folded his arms, staring at the floating 8ball man._
 
-*Emmett folded his arms, staring at the floating 8ball man.*
+**Zander** _(01-Jun-20 05:45 PM)_
 
-**Zander** *(01-Jun-20 05:45 PM)*
 > Emmett: Hired to track me?
 
-**Zander** *(01-Jun-20 05:45 PM)*
+**Zander** _(01-Jun-20 05:45 PM)_
+
 > Emmett: Are you insane?
 
-**Charles** *(01-Jun-20 05:46 PM)*
+**Charles** _(01-Jun-20 05:46 PM)_
 
+_Vargas grabs onto the ship._
 
-*Vargas grabs onto the ship.*
+**Charles** _(01-Jun-20 05:46 PM)_
 
-**Charles** *(01-Jun-20 05:46 PM)*
 > Vargas: Yes you the last squaotling alive.
 
-**Zander** *(01-Jun-20 05:46 PM)*
+**Zander** _(01-Jun-20 05:46 PM)_
+
 > Emmett: We're one of the deadliest crews and you think you can even make a scratch on us?
 
-**Charles** *(01-Jun-20 05:47 PM)*
-> Vargas: I'll be payed handsomely for youre capture. 
+**Charles** _(01-Jun-20 05:47 PM)_
 
-**Zander** *(01-Jun-20 05:47 PM)*
+> Vargas: I'll be payed handsomely for youre capture.
+
+**Zander** _(01-Jun-20 05:47 PM)_
+
 > Emmett: You're the only person who's captured.
 
-**Charles** *(01-Jun-20 05:47 PM)*
+**Charles** _(01-Jun-20 05:47 PM)_
+
 > Vargas: Sure Sure.
 
-**Charles** *(01-Jun-20 05:47 PM)*
+**Charles** _(01-Jun-20 05:47 PM)_
+
 > Vargas: Welp.
 
-**Zander** *(01-Jun-20 05:47 PM)*
+**Zander** _(01-Jun-20 05:47 PM)_
+
 > Emmett: The GU security bots will just believe you're a delusional freak.
 
-**Zander** *(01-Jun-20 05:47 PM)*
+**Zander** _(01-Jun-20 05:47 PM)_
+
 > Emmett: They'll apprehend you and imprison you.
 
-**Charles** *(01-Jun-20 05:49 PM)*
+**Charles** _(01-Jun-20 05:49 PM)_
 
+_Vargas starts the timers on the planted explosives_
 
-*Vargas starts the timers on the planted explosives*
-
-**Charles** *(01-Jun-20 05:49 PM)*
+**Charles** _(01-Jun-20 05:49 PM)_
 Bye. Bye.
 
-**Charles** *(01-Jun-20 05:49 PM)*
+**Charles** _(01-Jun-20 05:49 PM)_
+
 > Vargas: Vargas calls someone.
 
-**Charles** *(01-Jun-20 05:49 PM)*
+**Charles** _(01-Jun-20 05:49 PM)_
+
 > Vargas: Pick me up.
 
-**Zander** *(01-Jun-20 05:49 PM)*
+**Zander** _(01-Jun-20 05:49 PM)_
+
 > Emmett: Whatever.
 
-**Charles** *(01-Jun-20 05:49 PM)*
+**Charles** _(01-Jun-20 05:49 PM)_
+
 > Vargas: Bye. Bye.
 
-**Charles** *(01-Jun-20 05:49 PM)*
+**Charles** _(01-Jun-20 05:49 PM)_
 8ball do the explosives ignite
 
-**FFBot** *(01-Jun-20 05:49 PM)*
+**FFBot** _(01-Jun-20 05:49 PM)_
 Yes but actually no.
 
-**Zander** *(01-Jun-20 05:50 PM)*
+**Zander** _(01-Jun-20 05:50 PM)_
 
+_Emmett presses the airlock._
 
-*Emmett presses the airlock.*
+**Zander** _(01-Jun-20 05:50 PM)_
 
-**Zander** *(01-Jun-20 05:50 PM)*
 > Emmett: Night.
 
-**Zander** *(01-Jun-20 05:50 PM)*
+**Zander** _(01-Jun-20 05:50 PM)_
+
 > Emmett: Sweet prince.
 
-**Sean** *(01-Jun-20 05:50 PM)*
+**Sean** _(01-Jun-20 05:50 PM)_
+
 > Seth: Good job.
 
-**Zander** *(01-Jun-20 05:50 PM)*
+**Zander** _(01-Jun-20 05:50 PM)_
+
 > Emmett: So, what now?
 
-**Zander** *(01-Jun-20 05:50 PM)*
+**Zander** _(01-Jun-20 05:50 PM)_
+
 > Emmett: I'm kinda peeved.
 
-**Charles** *(01-Jun-20 05:51 PM)*
+**Charles** _(01-Jun-20 05:51 PM)_
 
+_Vargas actually calls someone._
 
-*Vargas actually calls someone.*
+**Preston** _(01-Jun-20 05:51 PM)_
 
-**Preston** *(01-Jun-20 05:51 PM)*
 > Volentina: Hi kinda peeved
 
-**Zander** *(01-Jun-20 05:51 PM)*
+**Zander** _(01-Jun-20 05:51 PM)_
+
 > Emmett: Who the fuck are you?
 
-**Zander** *(01-Jun-20 05:51 PM)*
+**Zander** _(01-Jun-20 05:51 PM)_
 
+_Emmett does the "What are those" pose at Volentina._
 
-*Emmett does the "What are those" pose at Volentina.*
+**Charles** _(01-Jun-20 05:51 PM)_
 
-**Charles** *(01-Jun-20 05:51 PM)*
 > Vargas: Yeah bring the warship.
 
-**Preston** *(01-Jun-20 05:51 PM)*
+**Preston** _(01-Jun-20 05:51 PM)_
+
 > Volentina: I told you I'd be back, or stated it out loud anyway.
 
-**Charles** *(01-Jun-20 05:52 PM)*
+**Charles** _(01-Jun-20 05:52 PM)_
 
+_Vargas sees his friend pull up with a ship 5 times the size of Seths._
 
-*Vargas sees his friend pull up with a ship 5 times the size of Seths.*
+**Zander** _(01-Jun-20 05:52 PM)_
 
-**Zander** *(01-Jun-20 05:52 PM)*
 > Emmett: You're a female?
 
-**Charles** *(01-Jun-20 05:52 PM)*
+**Charles** _(01-Jun-20 05:52 PM)_
+
 > Vargas: Lets go Fonda.
 
-**Preston** *(01-Jun-20 05:52 PM)*
+**Preston** _(01-Jun-20 05:52 PM)_
+
 > Volentina: I got bored, so I am now
 
-**Zander** *(01-Jun-20 05:52 PM)*
+**Zander** _(01-Jun-20 05:52 PM)_
+
 > Emmett: You're also in an oversized apparel.
 
-**Charles** *(01-Jun-20 05:52 PM)*
+**Charles** _(01-Jun-20 05:52 PM)_
+
 > Vargas: But first destroy there thrusters and hyperdrive.
 
-**Preston** *(01-Jun-20 05:52 PM)*
+**Preston** _(01-Jun-20 05:52 PM)_
+
 > Volentina: A little, yeah.
 
-**Zander** *(01-Jun-20 05:53 PM)*
+**Zander** _(01-Jun-20 05:53 PM)_
 8ball Does the warship actually hit their ship?
 
-**FFBot** *(01-Jun-20 05:53 PM)*
+**FFBot** _(01-Jun-20 05:53 PM)_
 Choose someone who decides for me.
 
-**Zander** *(01-Jun-20 05:53 PM)*
+**Zander** _(01-Jun-20 05:53 PM)_
+
 > Emmett: "We can't do that, Vargas."
 
-**Zander** *(01-Jun-20 05:53 PM)*
+**Zander** _(01-Jun-20 05:53 PM)_
+
 > Emmett: "We don't have enough time."
 
-**Charles** *(01-Jun-20 05:54 PM)*
+**Charles** _(01-Jun-20 05:54 PM)_
+
 > Vargas: Damn. Try again we only have 4 more shots.
 
-**Zander** *(01-Jun-20 05:54 PM)*
-> Emmett: "We need to get moving before we're captured. The American Dad Empire is hot on our tail."
-8ball Mama jeans
+**Zander** _(01-Jun-20 05:54 PM)_
 
-**FFBot** *(01-Jun-20 05:54 PM)*
+> Emmett: "We need to get moving before we're captured. The American Dad Empire is hot on our tail."
+> 8ball Mama jeans
+
+**FFBot** _(01-Jun-20 05:54 PM)_
 NOOOOOO!
 
-**Charles** *(01-Jun-20 05:54 PM)*
+**Charles** _(01-Jun-20 05:54 PM)_
+
 > Vargas: WE ARE THE EMPIRE!!!
 
-**Zander** *(01-Jun-20 05:55 PM)*
+**Zander** _(01-Jun-20 05:55 PM)_
+
 > Emmett: "What do you mean, sir?"
 
-**Sean** *(01-Jun-20 05:55 PM)*
+**Sean** _(01-Jun-20 05:55 PM)_
+
 > Seth: Boring
 
-**Charles** *(01-Jun-20 05:55 PM)*
+**Charles** _(01-Jun-20 05:55 PM)_
 8ball is vargas actually empire of the universe
 
-**FFBot** *(01-Jun-20 05:55 PM)*
+**FFBot** _(01-Jun-20 05:55 PM)_
 Person who's before you decides!
 
-**Zander** *(01-Jun-20 05:55 PM)*
+**Zander** _(01-Jun-20 05:55 PM)_
 Yes
 
-**Charles** *(01-Jun-20 05:56 PM)*
+**Charles** _(01-Jun-20 05:56 PM)_
+
 > Vargas: You live inside me now mwahahhaha.
 
-**Charles** *(01-Jun-20 05:56 PM)*
+**Charles** _(01-Jun-20 05:56 PM)_
+
 > Vargas: #supernovaaaaaa
 
-**Zander** *(01-Jun-20 05:57 PM)*
+**Zander** _(01-Jun-20 05:57 PM)_
 8ball Is Vargas just delusional from the coma he was in?
 
-**FFBot** *(01-Jun-20 05:57 PM)*
+**FFBot** _(01-Jun-20 05:57 PM)_
 Sí.
 
-**Trey** *(01-Jun-20 05:57 PM)*
+**Trey** _(01-Jun-20 05:57 PM)_
 
+_Garrick returns from sleep-watching, hearing the commotion._
 
-*Garrick returns from sleep-watching, hearing the commotion.*
-
-**Preston** *(01-Jun-20 05:57 PM)*
+**Preston** _(01-Jun-20 05:57 PM)_
 8ball Does Volentina get an extra set of her clothes that fit properly?
 
-**FFBot** *(01-Jun-20 05:57 PM)*
+**FFBot** _(01-Jun-20 05:57 PM)_
 Spell it with me now, Y-E-S.
 
-**Zander** *(01-Jun-20 05:57 PM)*
+**Zander** _(01-Jun-20 05:57 PM)_
+
 > Emmett: Volentina, you're really fucking tall.
 
-**Zander** *(01-Jun-20 05:57 PM)*
+**Zander** _(01-Jun-20 05:57 PM)_
+
 > Emmett: Like, you were tall earlier.
 
-**Charles** *(01-Jun-20 05:58 PM)*
+**Charles** _(01-Jun-20 05:58 PM)_
+
 > Vargas: \
 
-**Zander** *(01-Jun-20 05:58 PM)*
+**Zander** _(01-Jun-20 05:58 PM)_
+
 > Emmett: But you're a lot taller, from what it seems.
 
-**Charles** *(01-Jun-20 05:58 PM)*
+**Charles** _(01-Jun-20 05:58 PM)_
+
 > Vargas: Die. BIG BANG TIME!!!
 
-**Zander** *(01-Jun-20 05:58 PM)*
+**Zander** _(01-Jun-20 05:58 PM)_
+
 > Emmett: Maybe your boobs make you seem bigger.
 
-**Trey** *(01-Jun-20 05:58 PM)*
+**Trey** _(01-Jun-20 05:58 PM)_
+
 > Garrick: So, uh, Emmett. Did you get rid of the ball guy yet?
 
-**Zander** *(01-Jun-20 05:58 PM)*
+**Zander** _(01-Jun-20 05:58 PM)_
 
+_Emmett bangs on the prison cell door to shut Vargas up._
 
-*Emmett bangs on the prison cell door to shut Vargas up.*
+**Preston** _(01-Jun-20 05:58 PM)_
 
-**Preston** *(01-Jun-20 05:58 PM)*
 > Volentina: Am I? I'm pretty sure I'm Volentina, not a lot taller
 
-**Charles** *(01-Jun-20 05:59 PM)*
+**Charles** _(01-Jun-20 05:59 PM)_
+
 > Vargas: Wrong universe.
 
-**Zander** *(01-Jun-20 05:59 PM)*
+**Zander** _(01-Jun-20 05:59 PM)_
+
 > Emmett: Vargas has been unconscious this whole time.
 
-**Zander** *(01-Jun-20 05:59 PM)*
+**Zander** _(01-Jun-20 05:59 PM)_
+
 > Emmett: He's been fucking screaming in his sleep.
 
-**Zander** *(01-Jun-20 05:59 PM)*
+**Zander** _(01-Jun-20 05:59 PM)_
+
 > Emmett: He's been annoying.
 
-**Preston** *(01-Jun-20 05:59 PM)*
+**Preston** _(01-Jun-20 05:59 PM)_
+
 > Volentina: What the hell is a Vargas?
 
-**Trey** *(01-Jun-20 05:59 PM)*
+**Trey** _(01-Jun-20 05:59 PM)_
+
 > Garrick: Sounds like a good reason to airlock him, if you ask me?
 
-**Zander** *(01-Jun-20 05:59 PM)*
+**Zander** _(01-Jun-20 05:59 PM)_
+
 > Emmett: No.
 
-**Zander** *(01-Jun-20 05:59 PM)*
+**Zander** _(01-Jun-20 05:59 PM)_
+
 > Emmett: Anyhow.
 
-**Charles** *(01-Jun-20 06:00 PM)*
-Vargas is dreaming  that he became a empire of a universe using his magic 8ball that leads him to justice
+**Charles** _(01-Jun-20 06:00 PM)_
+Vargas is dreaming that he became a empire of a universe using his magic 8ball that leads him to justice
 
-**Zander** *(01-Jun-20 06:00 PM)*
+**Zander** _(01-Jun-20 06:00 PM)_
+
 > Emmett: I'm going to play with my rod. That'll get me away from touching grass.
 
-**Zander** *(01-Jun-20 06:00 PM)*
+**Zander** _(01-Jun-20 06:00 PM)_
 
+_Emmett looks towards the fourth wall, shrugs his arms, and winks._
 
-*Emmett looks towards the fourth wall, shrugs his arms, and winks.*
+**Charles** _(01-Jun-20 06:01 PM)_
 
-**Charles** *(01-Jun-20 06:01 PM)*
 > Vargas: Help. Help. I need pants. I shit myself!
 
-**Trey** *(01-Jun-20 06:02 PM)*
+**Trey** _(01-Jun-20 06:02 PM)_
 Space Rule #61: Never trust ball-heads.
 
-**Trey** *(03-Jun-20 06:37 PM)*
+**Trey** _(03-Jun-20 06:37 PM)_
+
 > Garrick: Ґݛ/ЊȝЊȝ/Ҝɍȝԗ@
 
-**Sean** *(04-Jun-20 03:14 PM)*
+**Sean** _(04-Jun-20 03:14 PM)_
 FORT INITE
 
-**Charles** *(04-Jun-20 03:22 PM)*
+**Charles** _(04-Jun-20 03:22 PM)_
 Salty Spitoon | The Peppery Pitshop | Night 2 | Parental Genes | The Shaky Chihuahua | Kaka Kuku | Lumby Slaumpdy | Secret Gentlemen | Strippy Dippy | Rare Undone | Ghostly Diner | Medium Rare | McDonald's | Disney Dash | Organic Organs | Zander's Italian | Llamanian Underground | Jonascopter High-In-The-Sky Eatery
 
-**Brody** *(04-Jun-20 03:26 PM)*
+**Brody** _(04-Jun-20 03:26 PM)_
 8ball Did someone notify Sanya of the plan?
 
-**FFBot** *(04-Jun-20 03:26 PM)*
+**FFBot** _(04-Jun-20 03:26 PM)_
 Yes moment.
 
-**Zander** *(04-Jun-20 03:26 PM)*
+**Zander** _(04-Jun-20 03:26 PM)_
+
 > Emmett: Alright, guys.
 
-*Emmett rotates in his swivel chair, away from his holodevice.*
+_Emmett rotates in his swivel chair, away from his holodevice._
 
-**Trey** *(04-Jun-20 03:26 PM)*
+**Trey** _(04-Jun-20 03:26 PM)_
 
+_Sanya finally woke up from her 72-hour nap in a flower pot._
 
-*Sanya finally woke up from her 72-hour nap in a flower pot.*
+**Charles** _(04-Jun-20 03:26 PM)_
 
-**Charles** *(04-Jun-20 03:26 PM)*
 > Vargas: Hello? Anyone there?
 
-**Brody** *(04-Jun-20 03:26 PM)*
+**Brody** _(04-Jun-20 03:26 PM)_
+
 > Sanya: So, what's the rest of the plan?
 
-**Trey** *(04-Jun-20 03:27 PM)*
+**Trey** _(04-Jun-20 03:27 PM)_
 
+_"I needed my beauty sleep", she said._
 
-*"I needed my beauty sleep", she said.*
+**Zander** _(04-Jun-20 03:27 PM)_
 
-**Zander** *(04-Jun-20 03:27 PM)*
 > Emmett: I don't know. I just know that I need a suit fast.
 
-**Charles** *(04-Jun-20 03:27 PM)*
+**Charles** _(04-Jun-20 03:27 PM)_
+
 > Vargas: I need my plostacian!!
 
-**Zander** *(04-Jun-20 03:28 PM)*
+**Zander** _(04-Jun-20 03:28 PM)_
+
 > Emmett: And also...
 
-*Emmett ignored the screaming man.*
+_Emmett ignored the screaming man._
+
 > Emmett: We're getting more Ducketts from this. Roughly 75,000 more.
 
-**Charles** *(04-Jun-20 03:28 PM)*
+**Charles** _(04-Jun-20 03:28 PM)_
+
 > Vargas: HELLOOOOOOOOOOOOOOOO!?!
 
-**Brody** *(04-Jun-20 03:28 PM)*
+**Brody** _(04-Jun-20 03:28 PM)_
+
 > Sanya: You're going in there with the only plan being: "Im a distraction?"
 
-**Preston** *(04-Jun-20 03:28 PM)*
+**Preston** _(04-Jun-20 03:28 PM)_
+
 > Volentina: Quiet down man, I like my ears
 
-**Zander** *(04-Jun-20 03:29 PM)*
+**Zander** _(04-Jun-20 03:29 PM)_
+
 > Emmett: Yeah. I'm a Squoatling.
 
-**Zander** *(04-Jun-20 03:29 PM)*
+**Zander** _(04-Jun-20 03:29 PM)_
+
 > Emmett: When push comes to shove, I'll take off my helmet.
 
-**Charles** *(04-Jun-20 03:29 PM)*
+**Charles** _(04-Jun-20 03:29 PM)_
+
 > Vargas: I can heaaaar you.
 
-**Brody** *(04-Jun-20 03:29 PM)*
+**Brody** _(04-Jun-20 03:29 PM)_
+
 > Sanya: Ok, what happens then?
 
-**Zander** *(04-Jun-20 03:29 PM)*
+**Zander** _(04-Jun-20 03:29 PM)_
+
 > Emmett: I don't know. I'm just having a quaint dinner with a Llamanian.
 
-**Preston** *(04-Jun-20 03:29 PM)*
+**Preston** _(04-Jun-20 03:29 PM)_
+
 > Volentina: And what happens if it goes really south really fast?
 
-**Zander** *(04-Jun-20 03:30 PM)*
+**Zander** _(04-Jun-20 03:30 PM)_
+
 > Emmett: If it goes really south...
 
-**Brody** *(04-Jun-20 03:30 PM)*
+**Brody** _(04-Jun-20 03:30 PM)_
+
 > Sanya: Wait, when did you become a girl?
 
-**Preston** *(04-Jun-20 03:30 PM)*
+**Preston** _(04-Jun-20 03:30 PM)_
+
 > Volentina: Last night
 
-**Charles** *(04-Jun-20 03:30 PM)*
+**Charles** _(04-Jun-20 03:30 PM)_
+
 > Vargas: Hey i can be bait for some plostacian.
 
-**Trey** *(04-Jun-20 03:30 PM)*
+**Trey** _(04-Jun-20 03:30 PM)_
 8ball did Emmett tell Sanya and Garrick about his Llamanian encounter?
 
-**FFBot** *(04-Jun-20 03:30 PM)*
+**FFBot** _(04-Jun-20 03:30 PM)_
 Yes, but in a monotonous tone.
 
-**Trey** *(04-Jun-20 03:31 PM)*
+**Trey** _(04-Jun-20 03:31 PM)_
 
+_Garrick emerges from the wall._
 
-*Garrick emerges from the wall.*
 > Garrick: I feel like you've had enough Llamanian encounters recently.
 
-**Brody** *(04-Jun-20 03:31 PM)*
+**Brody** _(04-Jun-20 03:31 PM)_
+
 > Sanya: Do you honestly think this is a good idea? After what happened?
 
-**Zander** *(04-Jun-20 03:31 PM)*
+**Zander** _(04-Jun-20 03:31 PM)_
+
 > Emmett: I'm fine. I enjoy the threats.
 
-**Trey** *(04-Jun-20 03:31 PM)*
+**Trey** _(04-Jun-20 03:31 PM)_
 
+_Garrick also slaps Emmett on the back like a dad._
 
-*Garrick also slaps Emmett on the back like a dad.*
+**Preston** _(04-Jun-20 03:31 PM)_
 
-**Preston** *(04-Jun-20 03:31 PM)*
 > Volentina: You... enjoy the threats?
 
-**Zander** *(04-Jun-20 03:31 PM)*
+**Zander** _(04-Jun-20 03:31 PM)_
+
 > Emmett: They-
 
-*Emmett feels his back.*
+_Emmett feels his back._
+
 > Emmett: Ouch.
 
-**Brody** *(04-Jun-20 03:32 PM)*
+**Brody** _(04-Jun-20 03:32 PM)_
+
 > Sanya: You're an idiot. This is a stupid plan.
 
-**Charles** *(04-Jun-20 03:32 PM)*
+**Charles** _(04-Jun-20 03:32 PM)_
+
 > Vargas: HELLO YOU LOSERS!!!
 
-**Zander** *(04-Jun-20 03:32 PM)*
+**Zander** _(04-Jun-20 03:32 PM)_
+
 > Emmett: I find their aggression exciting, sheesh. It keeps my mind off of grass.
 
-**Zander** *(04-Jun-20 03:32 PM)*
+**Zander** _(04-Jun-20 03:32 PM)_
+
 > Emmett: CAN SOMEONE PLEASE GET HIM OUT OF THE BRIG?
 
-**Brody** *(04-Jun-20 03:33 PM)*
-> Sanya: Emmett, you may not understand, but you are the *Most Wanted* creature ever.
+**Brody** _(04-Jun-20 03:33 PM)_
 
-**Brody** *(04-Jun-20 03:33 PM)*
+> Sanya: Emmett, you may not understand, but you are the _Most Wanted_ creature ever.
+
+**Brody** _(04-Jun-20 03:33 PM)_
+
 > Sanya: Going in there is suicide.
 
-**Charles** *(04-Jun-20 03:34 PM)*
+**Charles** _(04-Jun-20 03:34 PM)_
+
 > Vargas: I NEED MY PLO-STA-CIAN!!!
 
-**Zander** *(04-Jun-20 03:34 PM)*
+**Zander** _(04-Jun-20 03:34 PM)_
+
 > Emmett: So? I have friends with at least...
 
-*Emmett counted on his digits.*
+_Emmett counted on his digits._
+
 > Emmett: 5 Llamanians.
 
-**Trey** *(04-Jun-20 03:34 PM)*
+**Trey** _(04-Jun-20 03:34 PM)_
+
 > Garrick: Danger is fun, I understand, but you're putting yourself in a LOT of it.
 
-**Brody** *(04-Jun-20 03:34 PM)*
+**Brody** _(04-Jun-20 03:34 PM)_
+
 > Sanya: You, new girl, go grab the crazy guy. Emmett, i'm not letting you go in there.
 
-**Preston** *(04-Jun-20 03:35 PM)*
+**Preston** _(04-Jun-20 03:35 PM)_
+
 > Volentina: I'm not touching that thing
 
-**Zander** *(04-Jun-20 03:35 PM)*
+**Zander** _(04-Jun-20 03:35 PM)_
+
 > Emmett: Fine, fine. I'll stay behind...
 
-*Emmett did the funny tiny smile.*
+_Emmett did the funny tiny smile._
+
 > Emmett: In exchange for some grass.
 
-**Charles** *(04-Jun-20 03:35 PM)*
+**Charles** _(04-Jun-20 03:35 PM)_
+
 > Vargas: Hey I can hear you you know.
 
-**Brody** *(04-Jun-20 03:35 PM)*
+**Brody** _(04-Jun-20 03:35 PM)_
 
+_Sanya glares at Emmett._
 
-*Sanya glares at Emmett.*
+**Trey** _(04-Jun-20 03:35 PM)_
 
-**Trey** *(04-Jun-20 03:35 PM)*
+_emmet funy_
 
+**Zander** _(04-Jun-20 03:35 PM)_
 
-*emmet funy*
-
-**Zander** *(04-Jun-20 03:35 PM)*
 > Emmett: Come on!
 
-**Brody** *(04-Jun-20 03:35 PM)*
+**Brody** _(04-Jun-20 03:35 PM)_
+
 > Sanya: No.
 
-**Zander** *(04-Jun-20 03:35 PM)*
+**Zander** _(04-Jun-20 03:35 PM)_
+
 > Emmett: It's been seven equinoxes.
 
-**Charles** *(04-Jun-20 03:36 PM)*
+**Charles** _(04-Jun-20 03:36 PM)_
+
 > Vargas: Im basically a cyborg you know.
 
-**Zander** *(04-Jun-20 03:36 PM)*
+**Zander** _(04-Jun-20 03:36 PM)_
 8ball Is the ship pretty close to the place?
 
-**FFBot** *(04-Jun-20 03:36 PM)*
+**FFBot** _(04-Jun-20 03:36 PM)_
 Spell it with me now, N-O.
 
-**Preston** *(04-Jun-20 03:36 PM)*
+**Preston** _(04-Jun-20 03:36 PM)_
+
 > Volentina: Well use one of your cybernetic enhancements to quiet down.
 
-**Charles** *(04-Jun-20 03:36 PM)*
+**Charles** _(04-Jun-20 03:36 PM)_
+
 > Vargas: I'm a Biogenic
 
-**Zander** *(04-Jun-20 03:37 PM)*
+**Zander** _(04-Jun-20 03:37 PM)_
+
 > Emmett: We have some time. Just let me have my grass and I'll think of something.
 
-**Charles** *(04-Jun-20 03:38 PM)*
+**Charles** _(04-Jun-20 03:38 PM)_
+
 > Vargas: WHERE IS MY FUCKING PLOSTACIAN!!!
 
-**Brody** *(04-Jun-20 03:38 PM)*
+**Brody** _(04-Jun-20 03:38 PM)_
 8ball Does Emmett have a secret stash of grass?
 
-**FFBot** *(04-Jun-20 03:38 PM)*
+**FFBot** _(04-Jun-20 03:38 PM)_
 Yes but actually no.
 
-**Charles** *(04-Jun-20 03:38 PM)*
+**Charles** _(04-Jun-20 03:38 PM)_
+
 > Vargas: Hey try it Emmet
 
-**Zander** *(04-Jun-20 03:38 PM)*
+**Zander** _(04-Jun-20 03:38 PM)_
+
 > Emmett: Try what?
 
-**Charles** *(04-Jun-20 03:38 PM)*
+**Charles** _(04-Jun-20 03:38 PM)_
+
 > Vargas: Its better than grass.
 
-**Sean** *(04-Jun-20 03:38 PM)*
-> Seth: Fortnite 
+**Sean** _(04-Jun-20 03:38 PM)_
 
-**Brody** *(04-Jun-20 03:38 PM)*
+> Seth: Fortnite
+
+**Brody** _(04-Jun-20 03:38 PM)_
+
 > Sanya: Shut up, Seth.
 
-**Charles** *(04-Jun-20 03:38 PM)*
+**Charles** _(04-Jun-20 03:38 PM)_
+
 > Vargas: Plosatcian of course.
 
-**Zander** *(04-Jun-20 03:38 PM)*
+**Zander** _(04-Jun-20 03:38 PM)_
+
 > Emmett: Seth, turn down your volume. I can hear her moans.
 
-**Sean** *(04-Jun-20 03:39 PM)*
+**Sean** _(04-Jun-20 03:39 PM)_
+
 > Seth: Uno Momento por favor
 
-**Charles** *(04-Jun-20 03:39 PM)*
+**Charles** _(04-Jun-20 03:39 PM)_
+
 > Vargas: Can i get some clean pants though for real these are shitty. Literally.
 
-**Zander** *(04-Jun-20 03:39 PM)*
+**Zander** _(04-Jun-20 03:39 PM)_
+
 > Emmett: Don't think I can understand you.
 
-**Preston** *(04-Jun-20 03:39 PM)*
+**Preston** _(04-Jun-20 03:39 PM)_
+
 > Volentina: You can find some in the janitor closet probably
 
-**Brody** *(04-Jun-20 03:39 PM)*
+**Brody** _(04-Jun-20 03:39 PM)_
+
 > Sanya: Emmett, listen to me. You are not going in there.
 
-**Charles** *(04-Jun-20 03:39 PM)*
+**Charles** _(04-Jun-20 03:39 PM)_
+
 > Vargas: I'm in the brig.
 
-**Charles** *(04-Jun-20 03:39 PM)*
+**Charles** _(04-Jun-20 03:39 PM)_
+
 > Vargas: Let me go.
 
-**Zander** *(04-Jun-20 03:40 PM)*
+**Zander** _(04-Jun-20 03:40 PM)_
+
 > Emmett: Please. I need this.
 
-**Sean** *(04-Jun-20 03:40 PM)*
+**Sean** _(04-Jun-20 03:40 PM)_
 
+_Seth turns off his comms and finishes up before exiting his room fully nude_
 
-*Seth turns off his comms and finishes up before exiting his room fully nude*
+**Charles** _(04-Jun-20 03:40 PM)_
 
-**Charles** *(04-Jun-20 03:40 PM)*
 > Vargas: In your place as bait.
 
-**Sean** *(04-Jun-20 03:40 PM)*
+**Sean** _(04-Jun-20 03:40 PM)_
+
 > Seth: The hero of the story has arrived.
 
-**Brody** *(04-Jun-20 03:40 PM)*
+**Brody** _(04-Jun-20 03:40 PM)_
+
 > Sanya: No, Emmett. You're insane.
 
-**Zander** *(04-Jun-20 03:40 PM)*
+**Zander** _(04-Jun-20 03:40 PM)_
+
 > Emmett: I will literally ignite my mouth and eat whatever ashes there are if you don't let me.
 
-**Charles** *(04-Jun-20 03:40 PM)*
+**Charles** _(04-Jun-20 03:40 PM)_
+
 > Vargas: I just need a ounce of plostacian.
 
-**Sean** *(04-Jun-20 03:40 PM)*
+**Sean** _(04-Jun-20 03:40 PM)_
+
 > Seth: Do not fret civilians.
 
-**Trey** *(04-Jun-20 03:40 PM)*
+**Trey** _(04-Jun-20 03:40 PM)_
+
 > Garrick: Welcome to the pity party.
 
-**Brody** *(04-Jun-20 03:41 PM)*
+**Brody** _(04-Jun-20 03:41 PM)_
+
 > Sanya: Put some clothes on, Dumbass.
 
-**Zander** *(04-Jun-20 03:41 PM)*
+**Zander** _(04-Jun-20 03:41 PM)_
+
 > Emmett: WE-
 
-*Emmett's pupils followed Seth's floppy dong for a second.*
+_Emmett's pupils followed Seth's floppy dong for a second._
+
 > Emmett: EW.
 
-**Charles** *(04-Jun-20 03:41 PM)*
+**Charles** _(04-Jun-20 03:41 PM)_
+
 > Vargas: \
 
-**Zander** *(04-Jun-20 03:41 PM)*
+**Zander** _(04-Jun-20 03:41 PM)_
+
 > Emmett: GET THAT AWAY.
 
-**Sean** *(04-Jun-20 03:41 PM)*
+**Sean** _(04-Jun-20 03:41 PM)_
+
 > Seth: For Sethman is here with his superdong
 
-**Trey** *(04-Jun-20 03:41 PM)*
+**Trey** _(04-Jun-20 03:41 PM)_
+
 > Garrick: By the way, Seth.
 
-**Trey** *(04-Jun-20 03:41 PM)*
+**Trey** _(04-Jun-20 03:41 PM)_
+
 > Garrick: I found the Ottori girl you rescued a few GUYs ago.
 
-**Brody** *(04-Jun-20 03:41 PM)*
+**Brody** _(04-Jun-20 03:41 PM)_
 
+_D: I hate this place._
 
-*D: I hate this place.*
+**Trey** _(04-Jun-20 03:41 PM)_
 
-**Trey** *(04-Jun-20 03:41 PM)*
 > Garrick: She's alive, somehow.
 
-**Sean** *(04-Jun-20 03:42 PM)*
+**Sean** _(04-Jun-20 03:42 PM)_
 
+_Seth shakes his dong around flinging vaginal fluids and cum all over the place_
 
-*Seth shakes his dong around flinging vaginal fluids and cum all over the place*
+**Zander** _(04-Jun-20 03:42 PM)_
 
-**Zander** *(04-Jun-20 03:42 PM)*
 > Emmett: I'm going to tend to the prisoner.
 
-**Brody** *(04-Jun-20 03:42 PM)*
+**Brody** _(04-Jun-20 03:42 PM)_
+
 > Sanya: Garrick, come here.
 
-**Zander** *(04-Jun-20 03:42 PM)*
+**Zander** _(04-Jun-20 03:42 PM)_
 
+_Emmett shielded his eyes and proceeded to leave to the brig._
 
-*Emmett shielded his eyes and proceeded to leave to the brig.*
+**Sean** _(04-Jun-20 03:42 PM)_
 
-**Sean** *(04-Jun-20 03:42 PM)*
 > Seth: Thats cool, what about her?
 
-**Brody** *(04-Jun-20 03:42 PM)*
+**Brody** _(04-Jun-20 03:42 PM)_
 
+_Sanya turns off her comms._
 
-*Sanya turns off her comms.*
+**Charles** _(04-Jun-20 03:43 PM)_
 
-**Charles** *(04-Jun-20 03:43 PM)*
 > Vargas: Can someone let me out so i can wash my shit covered ass and get a change of clothes please?
 
-**Trey** *(04-Jun-20 03:43 PM)*
+**Trey** _(04-Jun-20 03:43 PM)_
+
 > Garrick: She needs a room.
 
-**Zander** *(04-Jun-20 03:43 PM)*
+**Zander** _(04-Jun-20 03:43 PM)_
+
 > Emmett: Dude.
 
-**Sean** *(04-Jun-20 03:43 PM)*
+**Sean** _(04-Jun-20 03:43 PM)_
+
 > Seth: Why?
 
-**Trey** *(04-Jun-20 03:43 PM)*
+**Trey** _(04-Jun-20 03:43 PM)_
+
 > Garrick: Me and Chomsky only have 2 beds.
 
-**Zander** *(04-Jun-20 03:43 PM)*
+**Zander** _(04-Jun-20 03:43 PM)_
+
 > Emmett: There's a toilet literally right next to you.
 
-**Sean** *(04-Jun-20 03:43 PM)*
+**Sean** _(04-Jun-20 03:43 PM)_
+
 > Seth: Get another bed then.
 
-**Sean** *(04-Jun-20 03:43 PM)*
+**Sean** _(04-Jun-20 03:43 PM)_
+
 > Seth: Heres some money
 
-**Charles** *(04-Jun-20 03:43 PM)*
+**Charles** _(04-Jun-20 03:43 PM)_
+
 > Vargas: this happened when i passed out and died for a second.
 
-**Zander** *(04-Jun-20 03:43 PM)*
+**Zander** _(04-Jun-20 03:43 PM)_
 
+_Emmett fingered the numpad for a bit, unlocking the cell door._
 
-*Emmett fingered the numpad for a bit, unlocking the cell door.*
+**Trey** _(04-Jun-20 03:43 PM)_
 
-**Trey** *(04-Jun-20 03:43 PM)*
 > Garrick: Alright, I'll just assign her a room myself, then.
 
-**Trey** *(04-Jun-20 03:43 PM)*
+**Trey** _(04-Jun-20 03:43 PM)_
+
 > Garrick: What's up, Sanya?
 
-**Zander** *(04-Jun-20 03:44 PM)*
+**Zander** _(04-Jun-20 03:44 PM)_
+
 > Emmett: Can you behave, please?
 
-**Charles** *(04-Jun-20 03:44 PM)*
+**Charles** _(04-Jun-20 03:44 PM)_
+
 > Vargas: Thanks.
 
-**Zander** *(04-Jun-20 03:44 PM)*
+**Zander** _(04-Jun-20 03:44 PM)_
+
 > Emmett: We have no prostacian or whatever it is.
 
-**Charles** *(04-Jun-20 03:44 PM)*
+**Charles** _(04-Jun-20 03:44 PM)_
+
 > Vargas: As long as my plostacian is ok.
 
-**Sean** *(04-Jun-20 03:44 PM)*
+**Sean** _(04-Jun-20 03:44 PM)_
 
+_Seth digs in his urethra and takes out 300 ducketts, he throws them at Garrick_
 
-*Seth digs in his urethra and takes  out 300 ducketts, he throws them at Garrick*
+**Sean** _(04-Jun-20 03:44 PM)_
 
-**Sean** *(04-Jun-20 03:44 PM)*
 > Seth: Now go buy a bed.
 
-**Brody** *(04-Jun-20 03:45 PM)*
+**Brody** _(04-Jun-20 03:45 PM)_
 
+_Sanya starts to whisper_
 
-*Sanya starts to whisper*
 > Sanya: Garrick, we need to make sure Emmett doesn't go in there.
 
-**Trey** *(04-Jun-20 03:45 PM)*
+**Trey** _(04-Jun-20 03:45 PM)_
+
 > Garrick: Gross. Here you go, Sanya.
 
-**Zander** *(04-Jun-20 03:45 PM)*
+**Zander** _(04-Jun-20 03:45 PM)_
+
 > Emmett: Where's your "plostacian"?
 
-**Zander** *(04-Jun-20 03:45 PM)*
+**Zander** _(04-Jun-20 03:45 PM)_
+
 > Emmett: I never heard of it.
 
-**Trey** *(04-Jun-20 03:45 PM)*
+**Trey** _(04-Jun-20 03:45 PM)_
 
+_Garrick tosses the urethra Ducketts to Sanya._
 
-*Garrick tosses the urethra Ducketts to Sanya.*
+**Charles** _(04-Jun-20 03:45 PM)_
 
-**Charles** *(04-Jun-20 03:45 PM)*
+_Vargas sees this as he walks out of the brig_
 
-
-*Vargas sees this as he walks out of the brig*
 > Vargas: What the fuck!
 
-**Trey** *(04-Jun-20 03:45 PM)*
+**Trey** _(04-Jun-20 03:45 PM)_
+
 > Garrick: Emmett, do you have another bed?
 
-**Brody** *(04-Jun-20 03:46 PM)*
+**Brody** _(04-Jun-20 03:46 PM)_
+
 > Sanya: Gross.
 
-*She throws them behind her.*
+_She throws them behind her._
 
-**Sean** *(04-Jun-20 03:46 PM)*
+**Sean** _(04-Jun-20 03:46 PM)_
 
+_Seth turns beet red and begins erupting smoke out of his pores because he is so mad_
 
-*Seth turns beet red and begins erupting smoke out of his pores because he is so mad*
+**Zander** _(04-Jun-20 03:46 PM)_
 
-**Zander** *(04-Jun-20 03:46 PM)*
 > Emmett: What's wrong, 8ball man?
 
-**Charles** *(04-Jun-20 03:46 PM)*
+**Charles** _(04-Jun-20 03:46 PM)_
+
 > Vargas: Nothing.
 
-**Brody** *(04-Jun-20 03:46 PM)*
+**Brody** _(04-Jun-20 03:46 PM)_
+
 > Sanya: Garrick, I have an idea.
 
-**Charles** *(04-Jun-20 03:46 PM)*
+**Charles** _(04-Jun-20 03:46 PM)_
+
 > Vargas: Its with the stuff you took.
 
-**Trey** *(04-Jun-20 03:46 PM)*
+**Trey** _(04-Jun-20 03:46 PM)_
+
 > Garrick: SQUEMFET
 
-**Zander** *(04-Jun-20 03:46 PM)*
+**Zander** _(04-Jun-20 03:46 PM)_
+
 > Emmett: I didn't take anything. Maybe Seth did.
 
-**Sean** *(04-Jun-20 03:46 PM)*
+**Sean** _(04-Jun-20 03:46 PM)_
 
+_Seth's head turns into a volcano and starts erupting as Seth starts to uncontrollably scream_
 
-*Seth's head turns into a volcano and starts erupting as Seth starts to uncontrollably scream*
+**Charles** _(04-Jun-20 03:47 PM)_
 
-**Charles** *(04-Jun-20 03:47 PM)*
 > Vargas: Take a ounce of it. Its good shit man.
 
-**Zander** *(04-Jun-20 03:47 PM)*
+**Zander** _(04-Jun-20 03:47 PM)_
+
 > Emmett: GARRICK, HOW DO YOU KNOW MY NAME?
 
-**Preston** *(04-Jun-20 03:47 PM)*
+**Preston** _(04-Jun-20 03:47 PM)_
 8ball Does Volentina have a functioning Gameboy?
 
-**FFBot** *(04-Jun-20 03:47 PM)*
+**FFBot** _(04-Jun-20 03:47 PM)_
 Nope.
 
-**Charles** *(04-Jun-20 03:47 PM)*
+**Charles** _(04-Jun-20 03:47 PM)_
+
 > Vargas: SEEEEEEEEEEETH.
 
-**Sean** *(04-Jun-20 03:47 PM)*
+**Sean** _(04-Jun-20 03:47 PM)_
+
 > Seth: AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-**Brody** *(04-Jun-20 03:47 PM)*
+**Brody** _(04-Jun-20 03:47 PM)_
+
 > Sanya: Why is everyone screaming?
 
-**Charles** *(04-Jun-20 03:47 PM)*
+**Charles** _(04-Jun-20 03:47 PM)_
 8ball does emmet really ave my stuff
 
-**FFBot** *(04-Jun-20 03:47 PM)*
+**FFBot** _(04-Jun-20 03:47 PM)_
 No.
 
-**Zander** *(04-Jun-20 03:47 PM)*
+**Zander** _(04-Jun-20 03:47 PM)_
+
 > Emmett: What the hell is going on?!
 
-**Trey** *(04-Jun-20 03:47 PM)*
+**Trey** _(04-Jun-20 03:47 PM)_
+
 > Garrick: I'VE KNOWN YOUR NAME FOR 4 GUYS. ANYWAYS CAN THE OTTORI ROOM WITH YOU AND DAKARI?!?!
 
-**Charles** *(04-Jun-20 03:48 PM)*
+**Charles** _(04-Jun-20 03:48 PM)_
+
 > Vargas: Give me my plostacian.
 
-**Trey** *(04-Jun-20 03:48 PM)*
+**Trey** _(04-Jun-20 03:48 PM)_
+
 > Garrick: Yes. Sanya. What is your plan.
 
-**Preston** *(04-Jun-20 03:48 PM)*
+**Preston** _(04-Jun-20 03:48 PM)_
 Volentina wandered out of the brig, namely away from the noise.
 
-**Charles** *(04-Jun-20 03:48 PM)*
+**Charles** _(04-Jun-20 03:48 PM)_
+
 > Vargas: Seth.
 
-**Brody** *(04-Jun-20 03:48 PM)*
+**Brody** _(04-Jun-20 03:48 PM)_
+
 > Sanya: Listen, turn off your comms.
 
-**Zander** *(04-Jun-20 03:48 PM)*
+**Zander** _(04-Jun-20 03:48 PM)_
 
+_Emmett muttered._
 
-*Emmett muttered.*
 > Emmett: oh yeah, technically i did tell you that.
 
-**Zander** *(04-Jun-20 03:48 PM)*
+**Zander** _(04-Jun-20 03:48 PM)_
+
 > Emmett: I have a bed. There's an Ottori?
 
-**Brody** *(04-Jun-20 03:48 PM)*
+**Brody** _(04-Jun-20 03:48 PM)_
+
 > Sanya: I have an idea. Emmett's currently not in his right mind.
 
-**Sean** *(04-Jun-20 03:49 PM)*
+**Sean** _(04-Jun-20 03:49 PM)_
+
 > Seth: FORTNITE FORTNITE FORTNITE
 
-**Trey** *(04-Jun-20 03:49 PM)*
+**Trey** _(04-Jun-20 03:49 PM)_
+
 > Garrick: Yeah, Seth rescued her and she got stuck in my pockets.
 
-**Charles** *(04-Jun-20 03:49 PM)*
+**Charles** _(04-Jun-20 03:49 PM)_
+
 > Vargas: PLOSTACIAN WILL CLEAR THAT RIGHT UP!
 
-**Zander** *(04-Jun-20 03:49 PM)*
+**Zander** _(04-Jun-20 03:49 PM)_
+
 > Emmett: I see.
 
-**Charles** *(04-Jun-20 03:49 PM)*
+**Charles** _(04-Jun-20 03:49 PM)_
+
 > Vargas: Luckily i have some in my secret shirt pocket.
 
-**Zander** *(04-Jun-20 03:49 PM)*
+**Zander** _(04-Jun-20 03:49 PM)_
+
 > Emmett: You want me to make some space?
 
-**Sean** *(04-Jun-20 03:50 PM)*
+**Sean** _(04-Jun-20 03:50 PM)_
 
+_Seth takes out a small wood pipe and puts on an old fashioned suit and tie_
 
-*Seth takes out a small wood pipe and puts on an old fashioned suit and tie*
+**Trey** _(04-Jun-20 03:50 PM)_
 
-**Trey** *(04-Jun-20 03:50 PM)*
 > Garrick: Yeah, we don't have any space in our room.
 
-**Trey** *(04-Jun-20 03:50 PM)*
+**Trey** _(04-Jun-20 03:50 PM)_
+
 > Garrick: You could double up, Sanya.
 
-**Zander** *(04-Jun-20 03:50 PM)*
+**Zander** _(04-Jun-20 03:50 PM)_
 
+_Emmett tried to cover his ears from the screaming 8ball head._
 
-*Emmett tried to cover his ears from the screaming 8ball head.*
+**Brody** _(04-Jun-20 03:50 PM)_
 
-**Brody** *(04-Jun-20 03:50 PM)*
 > Sanya: Actually, i may have an idea
 
-**Charles** *(04-Jun-20 03:50 PM)*
+**Charles** _(04-Jun-20 03:50 PM)_
+
 > Vargas: Yes please.
 
-**Trey** *(04-Jun-20 03:50 PM)*
+**Trey** _(04-Jun-20 03:50 PM)_
+
 > Garrick: I'll be right back.
 
-**Sean** *(04-Jun-20 03:50 PM)*
+**Sean** _(04-Jun-20 03:50 PM)_
 
+_He then takes out a library with a fireplace and an armchair_
 
-*He then takes out a library with a  fireplace and an armchair*
+**Charles** _(04-Jun-20 03:50 PM)_
 
-**Charles** *(04-Jun-20 03:50 PM)*
+_Vargas takes a quick sniff._
 
+**Trey** _(04-Jun-20 03:51 PM)_
 
-*Vargas takes a quick sniff.*
+_Garrick leaves to tell Jess of her room reassignment._
 
-**Trey** *(04-Jun-20 03:51 PM)*
+**Charles** _(04-Jun-20 03:51 PM)_
 
-
-*Garrick leaves to tell Jess of her room reassignment.*
-
-**Charles** *(04-Jun-20 03:51 PM)*
 > Vargas: Thats some good shit right there.
 
-**Sean** *(04-Jun-20 03:51 PM)*
+**Sean** _(04-Jun-20 03:51 PM)_
 
+_Seth pulls a book from the bookcase and then sits down, lighting his pipe_
 
-*Seth pulls a book from the bookcase and then sits down, lighting his pipe*
+**Brody** _(04-Jun-20 03:51 PM)_
 
-**Brody** *(04-Jun-20 03:51 PM)*
 > Sanya: If Garrick won't help, i may have to do this myself.
 
-**Zander** *(04-Jun-20 03:51 PM)*
+**Zander** _(04-Jun-20 03:51 PM)_
+
 > Emmett: You think she has any skills for the crew?
 
-*Emmett walked over to the crew quarters block.*
+_Emmett walked over to the crew quarters block._
 
-**Charles** *(04-Jun-20 03:51 PM)*
+**Charles** _(04-Jun-20 03:51 PM)_
+
 > Vargas: Its better than grass Emmet. I promise.
 
-**Trey** *(04-Jun-20 03:51 PM)*
+**Trey** _(04-Jun-20 03:51 PM)_
 emet
 
-**Zander** *(04-Jun-20 03:51 PM)*
+**Zander** _(04-Jun-20 03:51 PM)_
+
 > Emmett: Garrick?
 
-**Sean** *(04-Jun-20 03:51 PM)*
+**Sean** _(04-Jun-20 03:51 PM)_
+
 > Seth: Chapter One, Why I hate Mathias
 
-**Zander** *(04-Jun-20 03:52 PM)*
+**Zander** _(04-Jun-20 03:52 PM)_
+
 > Emmett: You turn your coms off?
 
-**Trey** *(04-Jun-20 03:52 PM)*
+**Trey** _(04-Jun-20 03:52 PM)_
+
 > Garrick: No, I can hear you.
 
-**Brody** *(04-Jun-20 03:52 PM)*
+**Brody** _(04-Jun-20 03:52 PM)_
 
+_Sanya followed Emmett, walking with him._
 
-*Sanya followed Emmett, walking with him.*
+**Zander** _(04-Jun-20 03:52 PM)_
 
-**Zander** *(04-Jun-20 03:52 PM)*
 > Emmett: Matthias was kind-of a douche, yeah.
 
-**Trey** *(04-Jun-20 03:52 PM)*
+**Trey** _(04-Jun-20 03:52 PM)_
+
 > Garrick: She might. She had to survive in my pockets.
 
-**Charles** *(04-Jun-20 03:52 PM)*
+**Charles** _(04-Jun-20 03:52 PM)_
 
+_Vargas follows Emmet._
 
-*Vargas follows Emmet.*
+**Charles** _(04-Jun-20 03:52 PM)_
 
-**Charles** *(04-Jun-20 03:52 PM)*
 > Vargas: Where are the showers.
 
-**Trey** *(04-Jun-20 03:52 PM)*
+**Trey** _(04-Jun-20 03:52 PM)_
 
+_Garrick follows Emmett._
 
-*Garrick follows Emmett.*
+**Preston** _(04-Jun-20 03:52 PM)_
 
-**Preston** *(04-Jun-20 03:52 PM)*
 > Volentina: Huh.
 
-**Charles** *(04-Jun-20 03:53 PM)*
+**Charles** _(04-Jun-20 03:53 PM)_
+
 > Vargas: By the way my name is Vargas.
 
-**Zander** *(04-Jun-20 03:53 PM)*
+**Zander** _(04-Jun-20 03:53 PM)_
+
 > Emmett: Front of the ship and next to the quarters.
 
-**Trey** *(04-Jun-20 03:53 PM)*
+**Trey** _(04-Jun-20 03:53 PM)_
 
+_Jessica follows Garrick._
 
-*Jessica follows Garrick.*
+**Trey** _(04-Jun-20 03:53 PM)_
 
-**Trey** *(04-Jun-20 03:53 PM)*
 > Garrick: Here's your roommate.
 
-**Zander** *(04-Jun-20 03:53 PM)*
+**Zander** _(04-Jun-20 03:53 PM)_
 
+_Emmett turns around, seeing the apparent conga line._
 
-*Emmett turns around, seeing the apparent conga line.*
+**Charles** _(04-Jun-20 03:53 PM)_
 
-**Charles** *(04-Jun-20 03:53 PM)*
 > Vargas: Thank you also who are you two.
 
-**Zander** *(04-Jun-20 03:53 PM)*
+**Zander** _(04-Jun-20 03:53 PM)_
+
 > Emmett: Uh... Oh hi!
 
-**Brody** *(04-Jun-20 03:53 PM)*
+**Brody** _(04-Jun-20 03:53 PM)_
+
 > Sanya: I swear.
 
-**Sean** *(04-Jun-20 03:53 PM)*
+**Sean** _(04-Jun-20 03:53 PM)_
+
 > Seth: Reason one, Matthias feigns superiority even though he is a bird that is unable to fly
 
-**Trey** *(04-Jun-20 03:53 PM)*
+**Trey** _(04-Jun-20 03:53 PM)_
+
 > Garrick: "Hey."
 
-*She barely recognizes him.*
+_She barely recognizes him._
 
-**Zander** *(04-Jun-20 03:54 PM)*
+**Zander** _(04-Jun-20 03:54 PM)_
 
+_Emmett stiffened his back and put his hoof on the back of his horns._
 
-*Emmett stiffened his back and put his hoof on the back of his horns.*
+**Trey** _(04-Jun-20 03:54 PM)_
 
-**Trey** *(04-Jun-20 03:54 PM)*
 > Garrick: Also, she needs clothes... HEY, SANYA
 
-**Zander** *(04-Jun-20 03:54 PM)*
+**Zander** _(04-Jun-20 03:54 PM)_
+
 > Emmett: Jeez, it's been a long time.
 
-**Brody** *(04-Jun-20 03:54 PM)*
+**Brody** _(04-Jun-20 03:54 PM)_
+
 > Sanya: I'll check.
 
-**Charles** *(04-Jun-20 03:54 PM)*
+**Charles** _(04-Jun-20 03:54 PM)_
+
 > Vargas: So who are you Two?
 
-**Sean** *(04-Jun-20 03:54 PM)*
+**Sean** _(04-Jun-20 03:54 PM)_
+
 > Seth: Reason 2
 
-*Seth takes a puff of his pipe*
+_Seth takes a puff of his pipe_
+
 > Seth: I hate birds
 
-**Trey** *(04-Jun-20 03:54 PM)*
+**Trey** _(04-Jun-20 03:54 PM)_
+
 > Garrick: Oh, you're right there.
 
-**Sean** *(04-Jun-20 03:54 PM)*
+**Sean** _(04-Jun-20 03:54 PM)_
 
+_Seth blows smoke into the comms, causing smoke to emit from everyone's comms_
 
-*Seth blows smoke into the comms, causing smoke to emit from everyone's comms*
+**Zander** _(04-Jun-20 03:55 PM)_
 
-**Zander** *(04-Jun-20 03:55 PM)*
+_Emmett turns down his comms and tries to have a conversation with the Ottori. He waved away the smoke promptly._
 
+**Zander** _(04-Jun-20 03:55 PM)_
 
-*Emmett turns down his comms and tries to have a conversation with the Ottori. He waved away the smoke promptly.*
-
-**Zander** *(04-Jun-20 03:55 PM)*
 > Emmett: Let's introduce ourselves again.
 
-**Sean** *(04-Jun-20 03:55 PM)*
+**Sean** _(04-Jun-20 03:55 PM)_
+
 > Seth: Reason 3, He is an asshole.
 
-**Zander** *(04-Jun-20 03:55 PM)*
+**Zander** _(04-Jun-20 03:55 PM)_
+
 > Emmett: I'm Squemfet Tawfeek, but you can just call me Emmett.
 
-**Zander** *(04-Jun-20 03:55 PM)*
+**Zander** _(04-Jun-20 03:55 PM)_
 (Sean, Isn't Matthias in your fanny pack)
 
-**Trey** *(04-Jun-20 03:56 PM)*
+**Trey** _(04-Jun-20 03:56 PM)_
 
+_Matthias is angrily cawking from Seth's satchel._
 
-*Matthias is angrily cawking from Seth's satchel.*
-
-**Charles** *(04-Jun-20 03:56 PM)*
+**Charles** _(04-Jun-20 03:56 PM)_
 Who is in my pockets
 
-**Sean** *(04-Jun-20 03:56 PM)*
+**Sean** _(04-Jun-20 03:56 PM)_
 Yes
 
-**Sean** *(04-Jun-20 03:56 PM)*
+**Sean** _(04-Jun-20 03:56 PM)_
+
 > Seth: Chapter 2, My relationship with Goddess of Lust
 
-**Zander** *(04-Jun-20 03:56 PM)*
+**Zander** _(04-Jun-20 03:56 PM)_
+
 > Emmett: Sanya, if it's an issue, I have clothing for her.
 
-**Trey** *(04-Jun-20 03:56 PM)*
+**Trey** _(04-Jun-20 03:56 PM)_
+
 > Garrick: "I'm Jessica. Jess is fine."
 
-**Charles** *(04-Jun-20 03:56 PM)*
+**Charles** _(04-Jun-20 03:56 PM)_
+
 > Vargas: Oh never mind its just plostacian.
 
-*Vargas takes a quick bump.*
+_Vargas takes a quick bump._
 
-**Brody** *(04-Jun-20 03:57 PM)*
+**Brody** _(04-Jun-20 03:57 PM)_
+
 > Sanya: Alright.
 
-**Zander** *(04-Jun-20 03:57 PM)*
+**Zander** _(04-Jun-20 03:57 PM)_
+
 > Emmett: Follow me, Jess.
 
-**Sean** *(04-Jun-20 03:57 PM)*
+**Sean** _(04-Jun-20 03:57 PM)_
+
 > Seth: There once was a fine young lady with a big busom and even bigger tush, I fancied her quite a bit back in my younger years. Every boy in town wanted a go at her, just to know how a romp with her would feel
 
-**Brody** *(04-Jun-20 03:57 PM)*
+**Brody** _(04-Jun-20 03:57 PM)_
 
+_Sanya reaches up her hand to her flower, to receive an old kimono_
 
-*Sanya reaches up her hand to her flower, to receive an old kimono*
+**Brody** _(04-Jun-20 03:57 PM)_
 
-**Brody** *(04-Jun-20 03:57 PM)*
 > Sanya: Here.
 
-**Trey** *(04-Jun-20 03:58 PM)*
+**Trey** _(04-Jun-20 03:58 PM)_
+
 > Garrick: "Okay."
 
-*She hesitantly follows.*
+_She hesitantly follows._
 
-**Charles** *(04-Jun-20 03:58 PM)*
+**Charles** _(04-Jun-20 03:58 PM)_
 Ima wash up see you Sanya? and Garrick?
 
-**Preston** *(04-Jun-20 03:58 PM)*
+**Preston** _(04-Jun-20 03:58 PM)_
+
 > Volentina: Better.
 
-**Zander** *(04-Jun-20 03:58 PM)*
+**Zander** _(04-Jun-20 03:58 PM)_
 
+_Emmett went into his room and opened the closet, making no mind to the sleeping Dakari. In it was a large variety of burgundy red elven shirts with various warm highlights._
 
-*Emmett went into his room and opened the closet, making no mind to the sleeping Dakari. In it was a large variety of burgundy red elven shirts with various warm highlights.*
+**Zander** _(04-Jun-20 03:58 PM)_
 
-**Zander** *(04-Jun-20 03:58 PM)*
 > Emmett: I know I don't have very much variety.
 
-**Brody** *(04-Jun-20 03:58 PM)*
+**Brody** _(04-Jun-20 03:58 PM)_
+
 > Sanya: Jesus.
 
-**Charles** *(04-Jun-20 03:59 PM)*
+**Charles** _(04-Jun-20 03:59 PM)_
+
 > Vargas: OK.
 
-**Brody** *(04-Jun-20 03:59 PM)*
+**Brody** _(04-Jun-20 03:59 PM)_
 
+_Sanya walks over to Emmetts room._
 
-*Sanya walks over to Emmetts room.*
+**Sean** _(04-Jun-20 03:59 PM)_
 
-**Sean** *(04-Jun-20 03:59 PM)*
 > Seth: This isn't about her. Instead, this is about an immortal goddess with perky tits, a flat stomach, and a bouncy ass, the very same one who is the reason for my curse
 
-**Zander** *(04-Jun-20 03:59 PM)*
+**Zander** _(04-Jun-20 03:59 PM)_
+
 > Emmett: Seth, what are you doing?
 
-**Brody** *(04-Jun-20 03:59 PM)*
+**Brody** _(04-Jun-20 03:59 PM)_
+
 > Sanya: Here, something that would fit better.
 
-**Sean** *(04-Jun-20 03:59 PM)*
+**Sean** _(04-Jun-20 03:59 PM)_
+
 > Seth: Reading my dear son.
 
-**Trey** *(04-Jun-20 03:59 PM)*
+**Trey** _(04-Jun-20 03:59 PM)_
+
 > Garrick: "Huh? Oh, thank you... grass lady."
 
-**Charles** *(04-Jun-20 03:59 PM)*
+**Charles** _(04-Jun-20 03:59 PM)_
+
 > Vargas: Vargas washes up and puts on clean clothes.
 
-**Zander** *(04-Jun-20 03:59 PM)*
+**Zander** _(04-Jun-20 03:59 PM)_
+
 > Emmett: You wrote this?
 
-**Brody** *(04-Jun-20 03:59 PM)*
+**Brody** _(04-Jun-20 03:59 PM)_
 
+_Sanya throws the kimono in the room_
 
-*Sanya throws the kimono in the room*
+**Brody** _(04-Jun-20 03:59 PM)_
 
-**Brody** *(04-Jun-20 03:59 PM)*
 > Sanya: The name is Sanya.
 
-**Zander** *(04-Jun-20 04:00 PM)*
+**Zander** _(04-Jun-20 04:00 PM)_
 
+_Emmett shrugged._
 
-*Emmett shrugged.*
 > Emmett: Thought they have nothing.
 
-**Sean** *(04-Jun-20 04:00 PM)*
+**Sean** _(04-Jun-20 04:00 PM)_
+
 > Seth: Indeed I did.
 
-**Charles** *(04-Jun-20 04:00 PM)*
+**Charles** _(04-Jun-20 04:00 PM)_
+
 > Vargas: Hello everyone.
 
-**Zander** *(04-Jun-20 04:00 PM)*
+**Zander** _(04-Jun-20 04:00 PM)_
 
+_Emmett hopped back onto his bed and leaned against the wall._
 
-*Emmett hopped back onto his bed and leaned against the wall.*
+**Charles** _(04-Jun-20 04:00 PM)_
 
-**Charles** *(04-Jun-20 04:00 PM)*
 > Vargas: I'm Vargas.
 
-**Zander** *(04-Jun-20 04:00 PM)*
+**Zander** _(04-Jun-20 04:00 PM)_
 8ball Is the ship there?
 
-**FFBot** *(04-Jun-20 04:00 PM)*
+**FFBot** _(04-Jun-20 04:00 PM)_
 You decide. You earned it!
 
-**Brody** *(04-Jun-20 04:00 PM)*
+**Brody** _(04-Jun-20 04:00 PM)_
+
 > Sanya: Garrick, come here.
 
-**Sean** *(04-Jun-20 04:00 PM)*
+**Sean** _(04-Jun-20 04:00 PM)_
+
 > Seth: I spent a very long treacherous nights writing this out
 
-**Trey** *(04-Jun-20 04:00 PM)*
+**Trey** _(04-Jun-20 04:00 PM)_
 
+_Garrick comes._
 
-*Garrick comes.*
+**Trey** _(04-Jun-20 04:00 PM)_
 
-**Trey** *(04-Jun-20 04:00 PM)*
 > Garrick: Garrick comes.
 
-**Brody** *(04-Jun-20 04:01 PM)*
+**Brody** _(04-Jun-20 04:01 PM)_
+
 > Sanya: Do you know how to hardlock a door?
 
-*She whispers*
+_She whispers_
 
-**Zander** *(04-Jun-20 04:01 PM)*
+**Zander** _(04-Jun-20 04:01 PM)_
+
 > Emmett: "THE RESTAURANT, LLAMANIAN UNDERGROUND, HAS ALMOST BEEN REACHED."
 
-**Charles** *(04-Jun-20 04:01 PM)*
+**Charles** _(04-Jun-20 04:01 PM)_
+
 > Vargas: Sooooo Seth, want some drugs?
 
-**Trey** *(04-Jun-20 04:01 PM)*
+**Trey** _(04-Jun-20 04:01 PM)_
 
+_The ottori also puts on actual clothes._
 
-*The ottori also puts on actual clothes.*
+**Sean** _(04-Jun-20 04:01 PM)_
 
-**Sean** *(04-Jun-20 04:01 PM)*
 > Seth: GARRICK, NO CUMMING
 
-**Zander** *(04-Jun-20 04:01 PM)*
+**Zander** _(04-Jun-20 04:01 PM)_
 
+_Emmett shielded his eyes, respecting her privacy._
 
-*Emmett shielded his eyes, respecting her privacy.*
+**Brody** _(04-Jun-20 04:01 PM)_
 
-**Brody** *(04-Jun-20 04:01 PM)*
 > Sanya: We need to keep Emmett in here.
 
-**Sean** *(04-Jun-20 04:01 PM)*
+**Sean** _(04-Jun-20 04:01 PM)_
+
 > Seth: Im sorry what was that?
 
-**Charles** *(04-Jun-20 04:01 PM)*
+**Charles** _(04-Jun-20 04:01 PM)_
+
 > Vargas: WHAT THE FUCK!!!!
 
-**Zander** *(04-Jun-20 04:01 PM)*
+**Zander** _(04-Jun-20 04:01 PM)_
+
 > Emmett: We're almost there.
 
-**Trey** *(04-Jun-20 04:01 PM)*
+**Trey** _(04-Jun-20 04:01 PM)_
+
 > Garrick: I could probably figure it out.
 
-**Charles** *(04-Jun-20 04:02 PM)*
+**Charles** _(04-Jun-20 04:02 PM)_
 Ill be the decoy
 
-**Zander** *(04-Jun-20 04:02 PM)*
+**Zander** _(04-Jun-20 04:02 PM)_
+
 > Emmett: Any of you have a suit for me?
 
-**Sean** *(04-Jun-20 04:02 PM)*
+**Sean** _(04-Jun-20 04:02 PM)_
+
 > Seth: Im a little hard of hearing
 
-**Charles** *(04-Jun-20 04:02 PM)*
+**Charles** _(04-Jun-20 04:02 PM)_
+
 > Vargas: Ill be the decoy.
 
-**Brody** *(04-Jun-20 04:02 PM)*
+**Brody** _(04-Jun-20 04:02 PM)_
+
 > Sanya: Good. try to do that.
 
-**Sean** *(04-Jun-20 04:02 PM)*
+**Sean** _(04-Jun-20 04:02 PM)_
 
+_Seth takes out a big horn and puts it in his ear_
 
-*Seth takes out a big horn and puts it in his ear*
-
-**Brody** *(04-Jun-20 04:02 PM)*
+**Brody** _(04-Jun-20 04:02 PM)_
 8ball Can Garrick hardlock the door?
 
-**FFBot** *(04-Jun-20 04:02 PM)*
+**FFBot** _(04-Jun-20 04:02 PM)_
 Majority rules! Vote on it!
 
-**Charles** *(04-Jun-20 04:03 PM)*
+**Charles** _(04-Jun-20 04:03 PM)_
+
 > Vargas: For some plostacian of course. I just need one ounce.
 
-**Trey** *(04-Jun-20 04:03 PM)*
+**Trey** _(04-Jun-20 04:03 PM)_
 
+_Emmett's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!"_
 
-*Emmett's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!”*
+**Sean** _(04-Jun-20 04:03 PM)_
 
-**Sean** *(04-Jun-20 04:03 PM)*
-> Seth:  We dont do drugs on this ship
+> Seth: We dont do drugs on this ship
 
-**Zander** *(04-Jun-20 04:03 PM)*
+**Zander** _(04-Jun-20 04:03 PM)_
+
 > Emmett: Vargas. Please shut up.
 
-**Sean** *(04-Jun-20 04:03 PM)*
+**Sean** _(04-Jun-20 04:03 PM)_
+
 > Seth: We are drug free
 
-**Zander** *(04-Jun-20 04:03 PM)*
+**Zander** _(04-Jun-20 04:03 PM)_
+
 > Emmett: What are you talking about, Seth?
 
-**Zander** *(04-Jun-20 04:03 PM)*
+**Zander** _(04-Jun-20 04:03 PM)_
+
 > Emmett: You're constantly taking drugs.
 
-**Charles** *(04-Jun-20 04:04 PM)*
+**Charles** _(04-Jun-20 04:04 PM)_
+
 > Vargas: Yeah Seth?
 
-**Zander** *(04-Jun-20 04:04 PM)*
+**Zander** _(04-Jun-20 04:04 PM)_
+
 > Emmett: You just don't want me to have my race's drugs.
 
-**Sean** *(04-Jun-20 04:04 PM)*
+**Sean** _(04-Jun-20 04:04 PM)_
 
+_Seth turns his head 360 degrees and extends his neck out to Emmett's face_
 
-*Seth turns his head 360 degrees and extends his neck out to Emmett's face*
+**Charles** _(04-Jun-20 04:04 PM)_
 
-**Charles** *(04-Jun-20 04:04 PM)*
 > Vargas: Vargas traps Emmet in the ship and headsout as the decoy.
 
-**Trey** *(04-Jun-20 04:04 PM)*
+**Trey** _(04-Jun-20 04:04 PM)_
 
+_Garrick sneaks over and shuts the room door while Emmett is AWOOGAing at Jess._
 
-*Garrick sneaks over and shuts the room door while Emmett is AWOOGAing at Jess.*
+**Zander** _(04-Jun-20 04:04 PM)_
 
-**Zander** *(04-Jun-20 04:04 PM)*
+_Emmett's arms shook a bit from withdrawals._
 
+**Sean** _(04-Jun-20 04:04 PM)_
 
-*Emmett's arms shook a bit from withdrawals.*
-
-**Sean** *(04-Jun-20 04:04 PM)*
 > Seth: Repeat that again sonny?
 
-**Brody** *(04-Jun-20 04:05 PM)*
+**Brody** _(04-Jun-20 04:05 PM)_
+
 > Sanya: Garrick, if you can, i need you to lock him in his room. We can't let him go out there.
 
-**Zander** *(04-Jun-20 04:05 PM)*
+**Zander** _(04-Jun-20 04:05 PM)_
+
 > Emmett: I'm turning off video comms.
 
-**Zander** *(04-Jun-20 04:05 PM)*
+**Zander** _(04-Jun-20 04:05 PM)_
+
 > Emmett: You're fucking creepy.
 
-**Sean** *(04-Jun-20 04:05 PM)*
+**Sean** _(04-Jun-20 04:05 PM)_
+
 > Seth: In the horn please?
 
-**Charles** *(04-Jun-20 04:05 PM)*
+**Charles** _(04-Jun-20 04:05 PM)_
 8ball does Vargas trap emmet on the ship and becomes the decoy
 
-**FFBot** *(04-Jun-20 04:05 PM)*
+**FFBot** _(04-Jun-20 04:05 PM)_
 Person who's after you decides!
 
-**Preston** *(04-Jun-20 04:05 PM)*
+**Preston** _(04-Jun-20 04:05 PM)_
 Volentina just begins wandering around.
 
-**Zander** *(04-Jun-20 04:05 PM)*
+**Zander** _(04-Jun-20 04:05 PM)_
+
 > Emmett: YOU DON'T WANT ME TO HAVE GRASS. YOU'RE A HYPOCRITE. YOU'RE ALWAYS SMOKING SPACE WEED.
 
-**Sean** *(04-Jun-20 04:05 PM)*
+**Sean** _(04-Jun-20 04:05 PM)_
 Preston decide.
 
-**Trey** *(04-Jun-20 04:06 PM)*
+**Trey** _(04-Jun-20 04:06 PM)_
 8ball does Garrick lock Emmett in
 
-**FFBot** *(04-Jun-20 04:06 PM)*
+**FFBot** _(04-Jun-20 04:06 PM)_
 Yes, but with a caveat decided by the person before you.
 
-**Zander** *(04-Jun-20 04:06 PM)*
+**Zander** _(04-Jun-20 04:06 PM)_
 
+_Emmett looks at the Ottori and frowns a little._
 
-*Emmett looks at the Ottori and frowns a little.*
 > Emmett: Sorry for my language.
 
-**Sean** *(04-Jun-20 04:06 PM)*
+**Sean** _(04-Jun-20 04:06 PM)_
+
 > Seth: shut up boy!
 
-**Sean** *(04-Jun-20 04:06 PM)*
-> Seth: YOU SHAN'T  SPEAK TO YOUR DADDY THAT WAY
+**Sean** _(04-Jun-20 04:06 PM)_
 
-**Charles** *(04-Jun-20 04:07 PM)*
-> Vargas: Hey Emmet behave and ill give you some grass. 
+> Seth: YOU SHAN'T SPEAK TO YOUR DADDY THAT WAY
 
-*Whispers Vargas.*
+**Charles** _(04-Jun-20 04:07 PM)_
 
-**Sean** *(04-Jun-20 04:07 PM)*
+> Vargas: Hey Emmet behave and ill give you some grass.
 
+_Whispers Vargas._
 
-*Seth draws his belt from his pants and starts hunting for Emmett*
+**Sean** _(04-Jun-20 04:07 PM)_
 
-**Zander** *(04-Jun-20 04:07 PM)*
+_Seth draws his belt from his pants and starts hunting for Emmett_
 
+**Zander** _(04-Jun-20 04:07 PM)_
 
-*Emmett turns off his video comms.*
+_Emmett turns off his video comms._
 
-**Trey** *(04-Jun-20 04:07 PM)*
+**Trey** _(04-Jun-20 04:07 PM)_
+
 > Garrick: "Yeah, it's a little weird-"
 
-**Trey** *(04-Jun-20 04:07 PM)*
+**Trey** _(04-Jun-20 04:07 PM)_
 
+_The lights go out in his room._
 
-*The lights go out in his room.*
+**Brody** _(04-Jun-20 04:07 PM)_
 
-**Brody** *(04-Jun-20 04:07 PM)*
 > Sanya: Nice job. C'mon, we've got a diner to infiltrate.
 
-**Zander** *(04-Jun-20 04:07 PM)*
+**Zander** _(04-Jun-20 04:07 PM)_
+
 > Emmett: Uh...
 
-*Emmett went to the light switch and flickered it a few times.*
+_Emmett went to the light switch and flickered it a few times._
 
-**Zander** *(04-Jun-20 04:07 PM)*
+**Zander** _(04-Jun-20 04:07 PM)_
+
 > Emmett: Lights are dead.
 
-**Zander** *(04-Jun-20 04:07 PM)*
+**Zander** _(04-Jun-20 04:07 PM)_
 8ball Is the ship there?
 
-**FFBot** *(04-Jun-20 04:08 PM)*
+**FFBot** _(04-Jun-20 04:08 PM)_
 Y35.
 
-**Sean** *(04-Jun-20 04:08 PM)*
+**Sean** _(04-Jun-20 04:08 PM)_
 
+_Seth arrives at Emmett's room_
 
-*Seth arrives at Emmett's room*
+**Trey** _(04-Jun-20 04:08 PM)_
 
-**Trey** *(04-Jun-20 04:08 PM)*
 > Garrick: Nice teamwork. Hope they get along in the dark.
 
-**Sean** *(04-Jun-20 04:08 PM)*
+**Sean** _(04-Jun-20 04:08 PM)_
+
 > Seth: GET OUT HER BOY
 
-**Zander** *(04-Jun-20 04:08 PM)*
+**Zander** _(04-Jun-20 04:08 PM)_
 
+_Emmett tries to open his hatch, getting no movement_
 
-*Emmett tries to open his hatch, getting no movement*
-
-**Brody** *(04-Jun-20 04:08 PM)*
+**Brody** _(04-Jun-20 04:08 PM)_
 Sean, Emmett's room is hardlocked.
 
-**Zander** *(04-Jun-20 04:08 PM)*
+**Zander** _(04-Jun-20 04:08 PM)_
+
 > Emmett: Seth, can you hear me?
 
-**Brody** *(04-Jun-20 04:08 PM)*
+**Brody** _(04-Jun-20 04:08 PM)_
 He can't leave
 
-**Sean** *(04-Jun-20 04:08 PM)*
+**Sean** _(04-Jun-20 04:08 PM)_
+
 > Seth: YOU'RE GONNA GET THIS BEATING
 
-**Zander** *(04-Jun-20 04:08 PM)*
+**Zander** _(04-Jun-20 04:08 PM)_
+
 > Emmett: Open up the door!
 
-**Sean** *(04-Jun-20 04:09 PM)*
+**Sean** _(04-Jun-20 04:09 PM)_
 Seth wouldn't know that though
 
-**Brody** *(04-Jun-20 04:09 PM)*
+**Brody** _(04-Jun-20 04:09 PM)_
 just letting you know
 (edited)
 
-**Charles** *(04-Jun-20 04:09 PM)*
+**Charles** _(04-Jun-20 04:09 PM)_
 
+_Vargas kicks Seth in his balls._
 
-*Vargas kicks Seth in his balls.*
-> Vargas:  Ima save you Emmet.
+> Vargas: Ima save you Emmet.
 
-**Zander** *(04-Jun-20 04:09 PM)*
+**Zander** _(04-Jun-20 04:09 PM)_
+
 > Emmett: Three people are stuck in here.
 
-**Zander** *(04-Jun-20 04:09 PM)*
+**Zander** _(04-Jun-20 04:09 PM)_
+
 > Emmett: Lights are out.
 
-**Sean** *(04-Jun-20 04:09 PM)*
+**Sean** _(04-Jun-20 04:09 PM)_
 
+_Seth starts kicking Emmett's door_
 
-*Seth starts kicking Emmett's door*
+**Trey** _(04-Jun-20 04:09 PM)_
 
-**Trey** *(04-Jun-20 04:09 PM)*
+_Seth knocks three times, says "Emmett", then knocks three times, and says "Emmett"._
 
+**Sean** _(04-Jun-20 04:09 PM)_
 
-*Seth knocks three times, says "Emmett", then knocks three times, and says "Emmett".*
-
-**Sean** *(04-Jun-20 04:09 PM)*
 > Seth: OPEN THIS DOOR RIGHT NOW BOY
 
-**Zander** *(04-Jun-20 04:09 PM)*
+**Zander** _(04-Jun-20 04:09 PM)_
+
 > Emmett: I think Jess is uncomfortable being locked in here with us too.
 
-**Brody** *(04-Jun-20 04:10 PM)*
+**Brody** _(04-Jun-20 04:10 PM)_
 
+_Sanya turns her comms back on._
 
-*Sanya turns her comms back on.*
+**Brody** _(04-Jun-20 04:10 PM)_
 
-**Brody** *(04-Jun-20 04:10 PM)*
 > Sanya: Sorry Emmett.
 
-**Trey** *(04-Jun-20 04:10 PM)*
+**Trey** _(04-Jun-20 04:10 PM)_
 8ball can Jessica see in the dark
 
-**FFBot** *(04-Jun-20 04:10 PM)*
+**FFBot** _(04-Jun-20 04:10 PM)_
 Most likely.
 
-**Zander** *(04-Jun-20 04:10 PM)*
+**Zander** _(04-Jun-20 04:10 PM)_
+
 > Emmett: What?
 
-**Trey** *(04-Jun-20 04:10 PM)*
+**Trey** _(04-Jun-20 04:10 PM)_
 Barely
 
-**Brody** *(04-Jun-20 04:10 PM)*
+**Brody** _(04-Jun-20 04:10 PM)_
+
 > Sanya: Come on, Garrick. We've got to get going.
 
-**Sean** *(04-Jun-20 04:10 PM)*
+**Sean** _(04-Jun-20 04:10 PM)_
 8Ball Does Seth kick down the door and start beating Emmett with the belt?
 
-**Trey** *(04-Jun-20 04:10 PM)*
+**Trey** _(04-Jun-20 04:10 PM)_
+
 > Garrick: "It is a little darker..."
 
-**Sean** *(04-Jun-20 04:10 PM)*
+**Sean** _(04-Jun-20 04:10 PM)_
 8ball Does Seth kick down the door and start beating Emmett with the belt?
 
-**FFBot** *(04-Jun-20 04:11 PM)*
+**FFBot** _(04-Jun-20 04:11 PM)_
 Most Unlikely.
 
-**Zander** *(04-Jun-20 04:11 PM)*
+**Zander** _(04-Jun-20 04:11 PM)_
 It's an electric hatch.
 
-**Charles** *(04-Jun-20 04:11 PM)*
+**Charles** _(04-Jun-20 04:11 PM)_
 sean you cant
 
-**Sean** *(04-Jun-20 04:11 PM)*
+**Sean** _(04-Jun-20 04:11 PM)_
 Dont tell me what I cant or can do.
 
-**Sean** *(04-Jun-20 04:11 PM)*
+**Sean** _(04-Jun-20 04:11 PM)_
 8ball will decide.
 
-**FFBot** *(04-Jun-20 04:11 PM)*
+**FFBot** _(04-Jun-20 04:11 PM)_
 Nope.
 
-**Sean** *(04-Jun-20 04:11 PM)*
+**Sean** _(04-Jun-20 04:11 PM)_
 Not you
 
-**Charles** *(04-Jun-20 04:11 PM)*
+**Charles** _(04-Jun-20 04:11 PM)_
 im 8ball man
 
-**Charles** *(04-Jun-20 04:11 PM)*
+**Charles** _(04-Jun-20 04:11 PM)_
 suck it up boyo
 
-**Preston** *(04-Jun-20 04:11 PM)*
+**Preston** _(04-Jun-20 04:11 PM)_
 8ball Your mother?
 
-**FFBot** *(04-Jun-20 04:11 PM)*
+**FFBot** _(04-Jun-20 04:11 PM)_
 Outlook bad.
 
-**Charles** *(04-Jun-20 04:11 PM)*
+**Charles** _(04-Jun-20 04:11 PM)_
 yes
 
-**Sean** *(04-Jun-20 04:11 PM)*
+**Sean** _(04-Jun-20 04:11 PM)_
 And I said 8ball not 8ball man, retard.
 
-**Zander** *(04-Jun-20 04:12 PM)*
+**Zander** _(04-Jun-20 04:12 PM)_
 
+_Emmett sighs._
 
-*Emmett sighs.*
 > Emmett: My plant bestie just locked us in here.
 
-**Sean** *(04-Jun-20 04:12 PM)*
+**Sean** _(04-Jun-20 04:12 PM)_
 
+_Seth keeps kicking the door_
 
-*Seth keeps kicking the door*
+**Brody** _(04-Jun-20 04:12 PM)_
 
-**Brody** *(04-Jun-20 04:12 PM)*
 > Sanya: Sorry. I'm not letting you get yourself killed.
 
-**Charles** *(04-Jun-20 04:12 PM)*
+**Charles** _(04-Jun-20 04:12 PM)_
+
 > Vargas: Seth you want some weeeeed?
 
-**Zander** *(04-Jun-20 04:13 PM)*
+**Zander** _(04-Jun-20 04:13 PM)_
+
 > Emmett: I can't see anything.
 
-*Emmett bumped into his desk.*
+_Emmett bumped into his desk._
 
-**Sean** *(04-Jun-20 04:13 PM)*
+**Sean** _(04-Jun-20 04:13 PM)_
+
 > Seth: OPEN THIS DAMN DOOR YOU WRETCH, I WILL POKE OUT YOUR EYEBALLS AND DRAIN THEM INTO APPLE JUICE YOU BEAST OF A BOY
 
-**Trey** *(04-Jun-20 04:13 PM)*
+**Trey** _(04-Jun-20 04:13 PM)_
+
 > Garrick: "Killed? What's this about?"
 
-**Charles** *(04-Jun-20 04:13 PM)*
+**Charles** _(04-Jun-20 04:13 PM)_
 
+_Whispers Vargas._
 
-*Whispers Vargas.*
+**Zander** _(04-Jun-20 04:13 PM)_
 
-**Zander** *(04-Jun-20 04:13 PM)*
+_Emmett puts his mouth to his watch and says loudly._
 
-
-*Emmett puts his mouth to his watch and says loudly.*
 > Emmett: You're not my squomma.
 
-**Brody** *(04-Jun-20 04:13 PM)*
+**Brody** _(04-Jun-20 04:13 PM)_
 t!choose Sanya | Garrick | Vargas | Volentina
 
-**FFBot** *(04-Jun-20 04:13 PM)*
+**FFBot** _(04-Jun-20 04:13 PM)_
 🤔 | Brakia, I pick Vargas
 
-**Sean** *(04-Jun-20 04:13 PM)*
+**Sean** _(04-Jun-20 04:13 PM)_
 
+_Seth ignores Vargas, intent on only trying to beat Emmett half to death_
 
-*Seth ignores Vargas, intent on only trying to beat Emmett half to death*
+**Trey** _(04-Jun-20 04:14 PM)_
 
-**Trey** *(04-Jun-20 04:14 PM)*
 > Garrick: Sorry, Emmett. It's for your safety.
 
-**Brody** *(04-Jun-20 04:14 PM)*
+**Brody** _(04-Jun-20 04:14 PM)_
+
 > Sanya: Robot, you'll be the bait.
 
-**Brody** *(04-Jun-20 04:14 PM)*
+**Brody** _(04-Jun-20 04:14 PM)_
+
 > Sanya: That hurts, Emmett.
 
-**Sean** *(04-Jun-20 04:14 PM)*
+**Sean** _(04-Jun-20 04:14 PM)_
+
 > Seth: Emmett, my dear boy, open the door.
 
-**Brody** *(04-Jun-20 04:14 PM)*
+**Brody** _(04-Jun-20 04:14 PM)_
+
 > Sanya: You'll make me cry.
 
-**Charles** *(04-Jun-20 04:14 PM)*
+**Charles** _(04-Jun-20 04:14 PM)_
+
 > Vargas: Yo boy elf wanna get hiiiiiiiigh.
 
-**Zander** *(04-Jun-20 04:14 PM)*
+**Zander** _(04-Jun-20 04:14 PM)_
+
 > Emmett: She thinks I'm going to get myself killed by interacting with Llamanians.
 
-**Brody** *(04-Jun-20 04:14 PM)*
+**Brody** _(04-Jun-20 04:14 PM)_
+
 > Sanya: Boo hoo.
 
-**Charles** *(04-Jun-20 04:14 PM)*
+**Charles** _(04-Jun-20 04:14 PM)_
+
 > Vargas: This shit will put you on the floor.
 
-**Zander** *(04-Jun-20 04:15 PM)*
+**Zander** _(04-Jun-20 04:15 PM)_
 
+_Emmett tried to make his way to his bed, bumping into pretty much everything._
 
-*Emmett tried to make his way to his bed, bumping into pretty much everything.*
+**Trey** _(04-Jun-20 04:15 PM)_
 
-**Trey** *(04-Jun-20 04:15 PM)*
+_Jess falls asleep on Emmett's bed._
 
+**Trey** _(04-Jun-20 04:15 PM)_
 
-*Jess falls asleep on Emmett's bed.*
-
-**Trey** *(04-Jun-20 04:15 PM)*
 > Garrick: "my bed...... zzzzzzzz..........."
 
-**Brody** *(04-Jun-20 04:15 PM)*
+**Brody** _(04-Jun-20 04:15 PM)_
+
 > Sanya: Garrick, Robot, Girl, come on. We're here.
 
-**Trey** *(04-Jun-20 04:15 PM)*
+**Trey** _(04-Jun-20 04:15 PM)_
+
 > Garrick: You three have fun in there.
 
-**Zander** *(04-Jun-20 04:15 PM)*
+**Zander** _(04-Jun-20 04:15 PM)_
 
+_Emmett trips onto his bed._
 
-*Emmett trips onto his bed.*
 > Emmett: Wha-?
 
-**Charles** *(04-Jun-20 04:15 PM)*
+**Charles** _(04-Jun-20 04:15 PM)_
+
 > Vargas: Hey wait a minute.
 
-**Sean** *(04-Jun-20 04:16 PM)*
+**Sean** _(04-Jun-20 04:16 PM)_
 
+_Seth grabs the drugs Vargas is offering and throws it into the airlock. He then presses the button and jettisons it out into space_
 
-*Seth grabs the drugs Vargas is offering and throws it into the airlock. He then presses the button and jettisons it out into space*
+**Charles** _(04-Jun-20 04:16 PM)_
 
-**Charles** *(04-Jun-20 04:16 PM)*
 > Vargas: Im bait after all.
 
-**Sean** *(04-Jun-20 04:16 PM)*
+**Sean** _(04-Jun-20 04:16 PM)_
+
 > Seth: No drugs, only half murder
 
-**Charles** *(04-Jun-20 04:16 PM)*
+**Charles** _(04-Jun-20 04:16 PM)_
+
 > Vargas: Pussy.
 
-**Zander** *(04-Jun-20 04:16 PM)*
+**Zander** _(04-Jun-20 04:16 PM)_
 8ball Does Emmett trip onto Jess?
 
-**FFBot** *(04-Jun-20 04:16 PM)*
+**FFBot** _(04-Jun-20 04:16 PM)_
 Yes, but in a monotonous tone.
 
-**Charles** *(04-Jun-20 04:16 PM)*
+**Charles** _(04-Jun-20 04:16 PM)_
 
+_Vargas says under his breath._
 
-*Vargas says under his breath.*
+**Zander** _(04-Jun-20 04:16 PM)_
 
-**Zander** *(04-Jun-20 04:16 PM)*
 > Emmett: Shit, shit! Sorry!
 
-**Sean** *(04-Jun-20 04:17 PM)*
+**Sean** _(04-Jun-20 04:17 PM)_
+
 > Seth: Ive done cooler shit than some faggot ass drugs that you claim wil put me on the ground
 
-**Charles** *(04-Jun-20 04:17 PM)*
+**Charles** _(04-Jun-20 04:17 PM)_
+
 > Vargas: Oh yeah tell me their names
 
-**Zander** *(04-Jun-20 04:17 PM)*
+**Zander** _(04-Jun-20 04:17 PM)_
 
+_Emmett scoots to the side she wasn't on, pushing himself to the wall._
 
-*Emmett scoots to the side she wasn't on, pushing himself to the wall.*
+**Trey** _(04-Jun-20 04:18 PM)_
 
-**Trey** *(04-Jun-20 04:18 PM)*
+_Jessica is still asleep_
 
+**Preston** _(04-Jun-20 04:18 PM)_
 
-*Jessica is still asleep*
-
-**Preston** *(04-Jun-20 04:18 PM)*
 > Volentina: Where exactly are we going?
 
-**Zander** *(04-Jun-20 04:18 PM)*
+**Zander** _(04-Jun-20 04:18 PM)_
+
 > Emmett: You sleep hard, I guess.
 
-**Trey** *(04-Jun-20 04:18 PM)*
+**Trey** _(04-Jun-20 04:18 PM)_
 She's slept on hard spring mattresses for 4 GUYs
 
-**Brody** *(04-Jun-20 04:18 PM)*
+**Brody** _(04-Jun-20 04:18 PM)_
+
 > Sanya: Bait! Come on, or i'll throw headfirst into the most dangerous group in the universe.
 
-**Charles** *(04-Jun-20 04:18 PM)*
+**Charles** _(04-Jun-20 04:18 PM)_
+
 > Vargas: Ok.
 
-**Sean** *(04-Jun-20 04:19 PM)*
+**Sean** _(04-Jun-20 04:19 PM)_
+
 > Seth: Space dust, Spazz, Schlok Slime, Parkina Powder, Moon Crack, Solar Flare, Shaple Naple, Ive od'd hundreds of times
 
-**Charles** *(04-Jun-20 04:19 PM)*
+**Charles** _(04-Jun-20 04:19 PM)_
+
 > Vargas: Thats weeeeeeak shit.
 
-**Zander** *(04-Jun-20 04:19 PM)*
+**Zander** _(04-Jun-20 04:19 PM)_
 
+_Emmett sighs and gets under his covers._
 
-*Emmett sighs and gets under his covers.*
 > Emmett: If you're awake, you might want to get under the blanket. It gets ridiculously cold in here.
 
-**Brody** *(04-Jun-20 04:19 PM)*
+**Brody** _(04-Jun-20 04:19 PM)_
 
+_Sanya grabs the robot and starts dragging him._
 
-*Sanya grabs the robot and starts dragging him.*
+**Brody** _(04-Jun-20 04:19 PM)_
 
-**Brody** *(04-Jun-20 04:19 PM)*
 > Sanya: Come. On.
 
-**Sean** *(04-Jun-20 04:19 PM)*
+**Sean** _(04-Jun-20 04:19 PM)_
+
 > Seth: Whatever you say Nigger, you probably got your shit laced and impure
 
-**Sean** *(04-Jun-20 04:19 PM)*
+**Sean** _(04-Jun-20 04:19 PM)_
+
 > Seth: Now go away robonigger.
 
-**Charles** *(04-Jun-20 04:20 PM)*
+**Charles** _(04-Jun-20 04:20 PM)_
+
 > Vargas: BTW im a biogenic
 
-**Brody** *(04-Jun-20 04:20 PM)*
+**Brody** _(04-Jun-20 04:20 PM)_
+
 > Sanya: I don't care.
 
-**Preston** *(04-Jun-20 04:20 PM)*
+**Preston** _(04-Jun-20 04:20 PM)_
 Volentina slowly follows behind.
 
-**Charles** *(04-Jun-20 04:20 PM)*
+**Charles** _(04-Jun-20 04:20 PM)_
+
 > Vargas: I make it myself douche.
 
-**Sean** *(04-Jun-20 04:20 PM)*
+**Sean** _(04-Jun-20 04:20 PM)_
 
+_Seth keeps banging on the door_
 
-*Seth keeps banging on the door*
+**Trey** _(04-Jun-20 04:21 PM)_
 
-**Trey** *(04-Jun-20 04:21 PM)*
 > Garrick: "Mmmh.. okay"
 
-**Trey** *(04-Jun-20 04:21 PM)*
+**Trey** _(04-Jun-20 04:21 PM)_
 
+_Jessica get under cover_
 
-*Jessica get under cover*
+**Michael** _(04-Jun-20 04:21 PM)_
 
-**Michael** *(04-Jun-20 04:21 PM)*
+_is currently walking around the ship and sees Seth banging on Emmett's door_
 
-
-*is currently walking around the ship and sees Seth banging on Emmett's door*
-
-**Sean** *(04-Jun-20 04:21 PM)*
+**Sean** _(04-Jun-20 04:21 PM)_
 Its Seth banging on Emmetts door
 
-**Zander** *(04-Jun-20 04:21 PM)*
+**Zander** _(04-Jun-20 04:21 PM)_
+
 > Emmett: Seth, give it a rest man.
 
-**Zander** *(04-Jun-20 04:21 PM)*
+**Zander** _(04-Jun-20 04:21 PM)_
+
 > Emmett: The others just hate me.
 
-**Brody** *(04-Jun-20 04:22 PM)*
+**Brody** _(04-Jun-20 04:22 PM)_
+
 > Sanya: Garrick, do you have any disguises?
 
-**Trey** *(04-Jun-20 04:22 PM)*
+**Trey** _(04-Jun-20 04:22 PM)_
 
+_Garrick, Sanya, and Vargas leave the ship._
 
-*Garrick, Sanya, and Vargas leave the ship.*
+**Michael** _(04-Jun-20 04:22 PM)_
 
-**Michael** *(04-Jun-20 04:22 PM)*
 > Theylin: What's happening guys? where is everyone?
 
-**Sean** *(04-Jun-20 04:22 PM)*
+**Sean** _(04-Jun-20 04:22 PM)_
+
 > Seth: I will beat you lifeless boy!
 
-**Trey** *(04-Jun-20 04:22 PM)*
+**Trey** _(04-Jun-20 04:22 PM)_
+
 > Garrick: I have some different clothing.
 
-**Brody** *(04-Jun-20 04:22 PM)*
+**Brody** _(04-Jun-20 04:22 PM)_
+
 > Sanya: And we're doing this for your own good, Emmett.
 
-**Zander** *(04-Jun-20 04:22 PM)*
+**Zander** _(04-Jun-20 04:22 PM)_
+
 > Emmett: Seth, mellow out man.
 
-**Zander** *(04-Jun-20 04:22 PM)*
+**Zander** _(04-Jun-20 04:22 PM)_
+
 > Emmett: Actually, wait.
 
-**Charles** *(04-Jun-20 04:22 PM)*
+**Charles** _(04-Jun-20 04:22 PM)_
+
 > Vargas: Yeah, were sorry but its for the best.
 
-**Michael** *(04-Jun-20 04:22 PM)*
+**Michael** _(04-Jun-20 04:22 PM)_
+
 > Theylin: What's happening guys?
 
-**Trey** *(04-Jun-20 04:22 PM)*
+**Trey** _(04-Jun-20 04:22 PM)_
 
+_Garrick pulls out a Marshmallow_
 
-*Garrick pulls out a Marshmallow*
+**Brody** _(04-Jun-20 04:22 PM)_
 
-**Brody** *(04-Jun-20 04:22 PM)*
 > Sanya: We're planning an assassination.
 
-**Zander** *(04-Jun-20 04:23 PM)*
+**Zander** _(04-Jun-20 04:23 PM)_
+
 > Emmett: If you can grab me my grass from the top cabinet in the kitchen and bring it to me in one piece, I'll open the door for you.
 
-**Michael** *(04-Jun-20 04:23 PM)*
+**Michael** _(04-Jun-20 04:23 PM)_
+
 > Theylin: That's totally kosher guys
 
-*winks towards the camera*
+_winks towards the camera_
 
-**Zander** *(04-Jun-20 04:23 PM)*
+**Zander** _(04-Jun-20 04:23 PM)_
+
 > Emmett: Then you can tear me a new ass or whatever.
 
-**Sean** *(04-Jun-20 04:23 PM)*
+**Sean** _(04-Jun-20 04:23 PM)_
+
 > Seth: Cali, open up the door.
 
-**Trey** *(04-Jun-20 04:23 PM)*
+**Trey** _(04-Jun-20 04:23 PM)_
 
+_Garrick pulled out the Illegal Marshmallow._
 
-*Garrick pulled out the Illegal Marshmallow.*
+**Brody** _(04-Jun-20 04:23 PM)_
 
-**Brody** *(04-Jun-20 04:23 PM)*
 > Sanya: Do not give him any grass.
 
-**Brody** *(04-Jun-20 04:23 PM)*
+**Brody** _(04-Jun-20 04:23 PM)_
+
 > Sanya: I-
 
-**Michael** *(04-Jun-20 04:23 PM)*
+**Michael** _(04-Jun-20 04:23 PM)_
+
 > Theylin: I could just pick the lock...
 
-**Sean** *(04-Jun-20 04:23 PM)*
+**Sean** _(04-Jun-20 04:23 PM)_
 8ball Does Cali open the door?
 
-**FFBot** *(04-Jun-20 04:23 PM)*
+**FFBot** _(04-Jun-20 04:23 PM)_
 No.
 
-**Charles** *(04-Jun-20 04:23 PM)*
+**Charles** _(04-Jun-20 04:23 PM)_
 
+_Vargas burns the grass._
 
-*Vargas burns the grass.*
+**Brody** _(04-Jun-20 04:23 PM)_
 
-**Brody** *(04-Jun-20 04:23 PM)*
+_D: No. NO. NOOOOO!_
 
+**Trey** _(04-Jun-20 04:24 PM)_
 
-*D: No. NO. NOOOOO!*
+_He puts it back in fear and desperation._
 
-**Trey** *(04-Jun-20 04:24 PM)*
+**Zander** _(04-Jun-20 04:24 PM)_
 
-
-*He puts it back in fear and desperation.*
-
-**Zander** *(04-Jun-20 04:24 PM)*
 > Emmett: "No, Seth."
 
-**Brody** *(04-Jun-20 04:24 PM)*
+**Brody** _(04-Jun-20 04:24 PM)_
+
 > Sanya: Give it back.
 
-**Michael** *(04-Jun-20 04:24 PM)*
+**Michael** _(04-Jun-20 04:24 PM)_
 8ball does Theylin turn into a puddle and go into Emmett's room?
 
-**FFBot** *(04-Jun-20 04:24 PM)*
+**FFBot** _(04-Jun-20 04:24 PM)_
 No but actually yes.
 
-**Michael** *(04-Jun-20 04:24 PM)*
+**Michael** _(04-Jun-20 04:24 PM)_
+
 > Theylin: Emmett, I'm in your rooooooommmmmmmmmmmmmmmmm
 
-**Sean** *(04-Jun-20 04:24 PM)*
+**Sean** _(04-Jun-20 04:24 PM)_
+
 > Seth: "I'm afraid I can't do that Captain."
 
-**Zander** *(04-Jun-20 04:24 PM)*
+**Zander** _(04-Jun-20 04:24 PM)_
+
 > Emmett: "The crew unanimously believes that this door should not open."
 
-**Sean** *(04-Jun-20 04:24 PM)*
+**Sean** _(04-Jun-20 04:24 PM)_
 I just lost the game.
 
-**Michael** *(04-Jun-20 04:24 PM)*
+**Michael** _(04-Jun-20 04:24 PM)_
 I just lost the game.
 
-**Zander** *(04-Jun-20 04:25 PM)*
+**Zander** _(04-Jun-20 04:25 PM)_
 
+_Emmett didn't hear Theylin, and instead puts his arms around the Ottori for warmth._
 
-*Emmett didn't hear Theylin, and instead puts his arms around the Ottori for warmth.*
+**Zander** _(04-Jun-20 04:25 PM)_
 
-**Zander** *(04-Jun-20 04:25 PM)*
 > Emmett: Hope you don't mind this.
 
-**Brody** *(04-Jun-20 04:25 PM)*
+**Brody** _(04-Jun-20 04:25 PM)_
+
 > Sanya: Alright, robot. Go in there and see if you can find our target.
 
-**Sean** *(04-Jun-20 04:26 PM)*
+**Sean** _(04-Jun-20 04:26 PM)_
 Gtg real quick
 
-**Zander** *(04-Jun-20 04:26 PM)*
+**Zander** _(04-Jun-20 04:26 PM)_
+
 > Emmett: I think Seth tampered with the air conditioning.
 
-**Brody** *(04-Jun-20 04:26 PM)*
+**Brody** _(04-Jun-20 04:26 PM)_
+
 > Sanya: When you've found him, lead him back outside.
 
-**Preston** *(04-Jun-20 04:26 PM)*
+**Preston** _(04-Jun-20 04:26 PM)_
+
 > Volentina: If he actually does manage to find the target, what then? Do we trap it or do we have weapons to attack?
 
-**Zander** *(04-Jun-20 04:26 PM)*
+**Zander** _(04-Jun-20 04:26 PM)_
 
+_Emmett looks to the LED air conditioning unit._
 
-*Emmett looks to the LED air conditioning unit.*
+**Trey** _(04-Jun-20 04:26 PM)_
 
-**Trey** *(04-Jun-20 04:26 PM)*
 > Garrick: "I'm fine."
 
-**Brody** *(04-Jun-20 04:26 PM)*
+**Brody** _(04-Jun-20 04:26 PM)_
+
 > Sanya: You're lucky. I'm a trained assassin.
 
-**Zander** *(04-Jun-20 04:27 PM)*
+**Zander** _(04-Jun-20 04:27 PM)_
+
 > Emmett: It's 4 Celsius!
 
-**Trey** *(04-Jun-20 04:27 PM)*
+**Trey** _(04-Jun-20 04:27 PM)_
+
 > Garrick: Don't be an idiot, also.
 
-**Preston** *(04-Jun-20 04:27 PM)*
+**Preston** _(04-Jun-20 04:27 PM)_
+
 > Volentina: That works.
 
-**Brody** *(04-Jun-20 04:27 PM)*
+**Brody** _(04-Jun-20 04:27 PM)_
+
 > Sanya: When we get a good shot, they're as good as dead.
 
-**Zander** *(04-Jun-20 04:27 PM)*
+**Zander** _(04-Jun-20 04:27 PM)_
+
 > Emmett: That's ridiculous...
 
-**Brody** *(04-Jun-20 04:27 PM)*
+**Brody** _(04-Jun-20 04:27 PM)_
+
 > Sanya: "Can I get money to buy more drugs?"
 
-**Charles** *(04-Jun-20 04:28 PM)*
+**Charles** _(04-Jun-20 04:28 PM)_
+
 > Vargas: Ok ima go in.
 
-**Brody** *(04-Jun-20 04:28 PM)*
+**Brody** _(04-Jun-20 04:28 PM)_
+
 > Sanya: Wait, new plan
 
-**Zander** *(04-Jun-20 04:28 PM)*
+**Zander** _(04-Jun-20 04:28 PM)_
 
+_Emmett shivered._
 
-*Emmett shivered.*
 > Emmett: You want to talk to pass the time?
 
-**Trey** *(04-Jun-20 04:28 PM)*
+**Trey** _(04-Jun-20 04:28 PM)_
+
 > Garrick: If you can successfully complete this mission, we will buy you as many drugs as you want.
 
-**Trey** *(04-Jun-20 04:28 PM)*
+**Trey** _(04-Jun-20 04:28 PM)_
+
 > Garrick: I hope you overdose.
 
-**Trey** *(04-Jun-20 04:28 PM)*
+**Trey** _(04-Jun-20 04:28 PM)_
+
 > Garrick: Whoops, I didn't mean to say that out loud.
 
-**Brody** *(04-Jun-20 04:29 PM)*
+**Brody** _(04-Jun-20 04:29 PM)_
+
 > Sanya: See if you can slip some of your drugs in the clients' food.
 
-**Charles** *(04-Jun-20 04:29 PM)*
+**Charles** _(04-Jun-20 04:29 PM)_
+
 > Vargas: Fuck you Garrick.
 
-**Brody** *(04-Jun-20 04:29 PM)*
+**Brody** _(04-Jun-20 04:29 PM)_
+
 > Sanya: I'll stab him in the bathroom.
 
-**Zander** *(04-Jun-20 04:29 PM)*
+**Zander** _(04-Jun-20 04:29 PM)_
+
 > Emmett: The crew doesn't want me out because I'm a high value target.
 
-**Charles** *(04-Jun-20 04:30 PM)*
+**Charles** _(04-Jun-20 04:30 PM)_
+
 > Vargas: Ill give im 20 ouncs of plostacian. Thatll kill himdead
 
-**Brody** *(04-Jun-20 04:30 PM)*
+**Brody** _(04-Jun-20 04:30 PM)_
+
 > Sanya: No. Just give him enough to get him sick.
 
-**Zander** *(04-Jun-20 04:31 PM)*
+**Zander** _(04-Jun-20 04:31 PM)_
 Richard Jamerez
 
-**Charles** *(04-Jun-20 04:31 PM)*
+**Charles** _(04-Jun-20 04:31 PM)_
+
 > Vargas: 5 ounces is the safe at most. 7ounces ok
 
-**Trey** *(04-Jun-20 04:31 PM)*
+**Trey** _(04-Jun-20 04:31 PM)_
+
 > Garrick: If he dies in the restaurant, it'll be suspicious.
 
-**Zander** *(04-Jun-20 04:31 PM)*
+**Zander** _(04-Jun-20 04:31 PM)_
+
 > Emmett: I don't really know why the galaxy is against me.
 
-**Brody** *(04-Jun-20 04:31 PM)*
+**Brody** _(04-Jun-20 04:31 PM)_
+
 > Sanya: We don't want him dead in the middle of the restaurant. Exactly
 
-**Brody** *(04-Jun-20 04:31 PM)*
+**Brody** _(04-Jun-20 04:31 PM)_
+
 > Sanya: It's better if someone else finds him dead.
 
-**Zander** *(04-Jun-20 04:31 PM)*
+**Zander** _(04-Jun-20 04:31 PM)_
+
 > Emmett: I didn't do anything wrong.
 
-**Charles** *(04-Jun-20 04:31 PM)*
+**Charles** _(04-Jun-20 04:31 PM)_
 Yeah but it takes a few minutes for it to get through the system
 
-**Trey** *(04-Jun-20 04:32 PM)*
+**Trey** _(04-Jun-20 04:32 PM)_
+
 > Garrick: "Who's after you?"
 
-**Zander** *(04-Jun-20 04:32 PM)*
+**Zander** _(04-Jun-20 04:32 PM)_
 
+_Emmett takes off his watch and sticks it on the bedside table._
 
-*Emmett takes off his watch and sticks it on the bedside table.*
+**Zander** _(04-Jun-20 04:32 PM)_
 
-**Zander** *(04-Jun-20 04:32 PM)*
 > Emmett: Everyone, really.
 
-**Zander** *(04-Jun-20 04:32 PM)*
+**Zander** _(04-Jun-20 04:32 PM)_
+
 > Emmett: Even Vargas, I think. The stupid 8ball guy.
 
-**Zander** *(04-Jun-20 04:32 PM)*
+**Zander** _(04-Jun-20 04:32 PM)_
+
 > Emmett: I don't really do much to protect myself though.
 
-**Trey** *(04-Jun-20 04:32 PM)*
+**Trey** _(04-Jun-20 04:32 PM)_
 "I'm after you!" Romantic music starts playing, the lighting becomes sepia, their eyes become hearts
 
-**Michael** *(04-Jun-20 04:33 PM)*
+**Michael** _(04-Jun-20 04:33 PM)_
 8ball is EmmettFlower canon?
 
-**FFBot** *(04-Jun-20 04:33 PM)*
+**FFBot** _(04-Jun-20 04:33 PM)_
 I guess not.
 
-**Charles** *(04-Jun-20 04:33 PM)*
-> Vargas: he'll be on his ship on  gone before he dies
+**Charles** _(04-Jun-20 04:33 PM)_
 
-**Charles** *(04-Jun-20 04:33 PM)*
+> Vargas: he'll be on his ship on gone before he dies
+
+**Charles** _(04-Jun-20 04:33 PM)_
+
 > Vargas: come on 20 ounces
 
-**Michael** *(04-Jun-20 04:33 PM)*
+**Michael** _(04-Jun-20 04:33 PM)_
 
+_stops being puddle_
 
-*stops being puddle*
-
-**Trey** *(04-Jun-20 04:34 PM)*
+**Trey** _(04-Jun-20 04:34 PM)_
 8ball is there heavy romantic subtext between them
 
-**FFBot** *(04-Jun-20 04:34 PM)*
+**FFBot** _(04-Jun-20 04:34 PM)_
 Yes, but with a caveat decided by the next person.
 
-**Michael** *(04-Jun-20 04:34 PM)*
+**Michael** _(04-Jun-20 04:34 PM)_
+
 > Theylin: ZZZZZZZZZZZaaaaaaaaaannnnnnnnnnndddddddddeeeeerrrrrrrrrrrr
 
-**Brody** *(04-Jun-20 04:34 PM)*
+**Brody** _(04-Jun-20 04:34 PM)_
+
 > Sanya: No. We need someone to discover the body.
 
-**Brody** *(04-Jun-20 04:34 PM)*
+**Brody** _(04-Jun-20 04:34 PM)_
+
 > Sanya: That's how assassination works.
 
-**Michael** *(04-Jun-20 04:34 PM)*
+**Michael** _(04-Jun-20 04:34 PM)_
+
 > Theylin: yea
 
-**Brody** *(04-Jun-20 04:34 PM)*
+**Brody** _(04-Jun-20 04:34 PM)_
+
 > Sanya: The more public location, the better.
 
-**Michael** *(04-Jun-20 04:34 PM)*
+**Michael** _(04-Jun-20 04:34 PM)_
+
 > Theylin: Sanya, what's my job?
 
-**Charles** *(04-Jun-20 04:34 PM)*
+**Charles** _(04-Jun-20 04:34 PM)_
+
 > Vargas: I can set it up to look like he was doing a line.
 
-**Preston** *(04-Jun-20 04:34 PM)*
+**Preston** _(04-Jun-20 04:34 PM)_
+
 > Volentina: You could put enough in to poison the target, but not enough to kill him near instantly.
 
-**Brody** *(04-Jun-20 04:35 PM)*
+**Brody** _(04-Jun-20 04:35 PM)_
+
 > Sanya: Just listen to me. Get the job done.
 
-**Charles** *(04-Jun-20 04:35 PM)*
+**Charles** _(04-Jun-20 04:35 PM)_
+
 > Vargas: Exactly.
 
-**Zander** *(04-Jun-20 04:35 PM)*
+**Zander** _(04-Jun-20 04:35 PM)_
 
+_Emmett pushed his cheek into her fur._
 
-*Emmett pushed his cheek into her fur.*
 > Emmett: Yeesh, you're warm.
 
-**Brody** *(04-Jun-20 04:35 PM)*
+**Brody** _(04-Jun-20 04:35 PM)_
+
 > Sanya: This is how it will go.
 
-**Michael** *(04-Jun-20 04:35 PM)*
+**Michael** _(04-Jun-20 04:35 PM)_
 8ball does Sanya become a puddle?
 
-**FFBot** *(04-Jun-20 04:35 PM)*
+**FFBot** _(04-Jun-20 04:35 PM)_
 Majority rules! Vote on it!
 
-**Zander** *(04-Jun-20 04:35 PM)*
+**Zander** _(04-Jun-20 04:35 PM)_
+
 > Emmett: But yeah.
 
-**Charles** *(04-Jun-20 04:35 PM)*
+**Charles** _(04-Jun-20 04:35 PM)_
 
+_Vargas ignores sonya._
 
-*Vargas ignores sonya.*
+**Zander** _(04-Jun-20 04:35 PM)_
 
-**Zander** *(04-Jun-20 04:35 PM)*
 > Emmett: The whole galaxy is against me.
 
-**Zander** *(04-Jun-20 04:35 PM)*
+**Zander** _(04-Jun-20 04:35 PM)_
+
 > Emmett: And I have no freedom.
 
-**Trey** *(04-Jun-20 04:35 PM)*
+**Trey** _(04-Jun-20 04:35 PM)_
+
 > Garrick: "Our planet was pretty cold."
 
-**Zander** *(04-Jun-20 04:36 PM)*
+**Zander** _(04-Jun-20 04:36 PM)_
+
 > Emmett: What about you?
 
-**Brody** *(04-Jun-20 04:36 PM)*
+**Brody** _(04-Jun-20 04:36 PM)_
+
 > Sanya: Robot, if you fuck this up, i will kill you myself.
 
-**Brody** *(04-Jun-20 04:36 PM)*
+**Brody** _(04-Jun-20 04:36 PM)_
+
 > Sanya: This plan will work, IF you follow the plan.
 
-**Michael** *(04-Jun-20 04:37 PM)*
+**Michael** _(04-Jun-20 04:37 PM)_
+
 > Theylin: What do /i do?
 
-**Charles** *(04-Jun-20 04:37 PM)*
+**Charles** _(04-Jun-20 04:37 PM)_
 We will ask my 8ball
 
-**Trey** *(04-Jun-20 04:37 PM)*
+**Trey** _(04-Jun-20 04:37 PM)_
+
 > Garrick: "I've been kinda stuck in darkness for, like, 17 years. Life before all that was pretty nice, though."
 
-**Zander** *(04-Jun-20 04:37 PM)*
+**Zander** _(04-Jun-20 04:37 PM)_
+
 > Emmett: You tried to marry Garrick, right?
 
-**Brody** *(04-Jun-20 04:37 PM)*
+**Brody** _(04-Jun-20 04:37 PM)_
+
 > Sanya: Just stay in the ship. Too many chefs in the kitchen ruins the dish.
 
-**Charles** *(04-Jun-20 04:38 PM)*
+**Charles** _(04-Jun-20 04:38 PM)_
 8ball does vargas plan work
 
-**FFBot** *(04-Jun-20 04:38 PM)*
+**FFBot** _(04-Jun-20 04:38 PM)_
 Neigh.
 
-**Trey** *(04-Jun-20 04:38 PM)*
+**Trey** _(04-Jun-20 04:38 PM)_
+
 > Garrick: "Yeah. There were two of him, though, so it was a little weird at first..."
 
-**Michael** *(04-Jun-20 04:38 PM)*
+**Michael** _(04-Jun-20 04:38 PM)_
+
 > Theylin: Tfw ur a glorified babysitter
 
-**Charles** *(04-Jun-20 04:38 PM)*
+**Charles** _(04-Jun-20 04:38 PM)_
+
 > Vargas: You know what youre awesome cool so ill listen.
 
-**Zander** *(04-Jun-20 04:38 PM)*
+**Zander** _(04-Jun-20 04:38 PM)_
+
 > Emmett: He has commitment issues.
 
-**Charles** *(04-Jun-20 04:39 PM)*
+**Charles** _(04-Jun-20 04:39 PM)_
 
+_Vargas says in a happy tone._
 
-*Vargas says in a happy tone.*
+**Brody** _(04-Jun-20 04:39 PM)_
 
-**Brody** *(04-Jun-20 04:39 PM)*
 > Sanya: Fine, whatever works.
 
-**Trey** *(04-Jun-20 04:39 PM)*
+**Trey** _(04-Jun-20 04:39 PM)_
+
 > Garrick: "He's an interesting character..."
 
-**Zander** *(04-Jun-20 04:39 PM)*
+**Zander** _(04-Jun-20 04:39 PM)_
 8ball Is Richard seen entering the establishment?
 
-**FFBot** *(04-Jun-20 04:39 PM)*
+**FFBot** _(04-Jun-20 04:39 PM)_
 Most Unlikely.
 
-**Charles** *(04-Jun-20 04:40 PM)*
+**Charles** _(04-Jun-20 04:40 PM)_
+
 > Vargas: Lets do both plans Sayna.
 
-**Michael** *(04-Jun-20 04:40 PM)*
+**Michael** _(04-Jun-20 04:40 PM)_
 8ball does Emmett conveniently become The HULK?
 
-**FFBot** *(04-Jun-20 04:40 PM)*
+**FFBot** _(04-Jun-20 04:40 PM)_
 Bro, your action made it. Welcome to the party. (Yes).
 
-**Brody** *(04-Jun-20 04:40 PM)*
+**Brody** _(04-Jun-20 04:40 PM)_
+
 > Sanya: No. Just listen to my plan.
 
-**Zander** *(04-Jun-20 04:40 PM)*
+**Zander** _(04-Jun-20 04:40 PM)_
+
 > Emmett: Awh, fuck.
 
-**Charles** *(04-Jun-20 04:40 PM)*
+**Charles** _(04-Jun-20 04:40 PM)_
+
 > Vargas: The line of coke thougggggh.
 
-**Michael** *(04-Jun-20 04:40 PM)*
+**Michael** _(04-Jun-20 04:40 PM)_
+
 > Theylin: Bruh moment
 
-**Zander** *(04-Jun-20 04:41 PM)*
+**Zander** _(04-Jun-20 04:41 PM)_
 
+_Emmett lets go of Jess and his arms begin to bulken up._
 
-*Emmett lets go of Jess and his arms begin to bulken up.*
+**Zander** _(04-Jun-20 04:41 PM)_
 
-**Zander** *(04-Jun-20 04:41 PM)*
 > Emmett: Not again!
 
-**Brody** *(04-Jun-20 04:41 PM)*
+**Brody** _(04-Jun-20 04:41 PM)_
+
 > Sanya: Do not jeopardize the mission for your addiction.
 
-**Zander** *(04-Jun-20 04:41 PM)*
+**Zander** _(04-Jun-20 04:41 PM)_
+
 > Emmett: I thought I stopped this!
 
-**Brody** *(04-Jun-20 04:41 PM)*
+**Brody** _(04-Jun-20 04:41 PM)_
+
 > Sanya: Emmett?
 
-**Michael** *(04-Jun-20 04:41 PM)*
+**Michael** _(04-Jun-20 04:41 PM)_
 
+_watches Emmett hulk out_
 
-*watches Emmett hulk out*
+**Brody** _(04-Jun-20 04:41 PM)_
 
-**Brody** *(04-Jun-20 04:41 PM)*
 > Sanya: What's happening?
 
-**Zander** *(04-Jun-20 04:41 PM)*
+**Zander** _(04-Jun-20 04:41 PM)_
+
 > Emmett: It-t's the Crave! It's back!
 
-**Charles** *(04-Jun-20 04:41 PM)*
+**Charles** _(04-Jun-20 04:41 PM)_
+
 > Vargas: Theylin chokes him, you finish him off, then i set up the line of coke.
 
-**Trey** *(04-Jun-20 04:41 PM)*
+**Trey** _(04-Jun-20 04:41 PM)_
+
 > Garrick: "Emmett?? What's going on??"
 
-**Zander** *(04-Jun-20 04:42 PM)*
+**Zander** _(04-Jun-20 04:42 PM)_
+
 > Emmett: I thought I took therapy for this!
 
-**Charles** *(04-Jun-20 04:42 PM)*
+**Charles** _(04-Jun-20 04:42 PM)_
+
 > Vargas: That way it looks like he od.
 
-**Brody** *(04-Jun-20 04:42 PM)*
+**Brody** _(04-Jun-20 04:42 PM)_
+
 > Sanya: Garrick, overlook the operation. Make sure the Robot doesn't do anything dumb.
 
-**Zander** *(04-Jun-20 04:42 PM)*
+**Zander** _(04-Jun-20 04:42 PM)_
 
+_Emmett hops off the bed to get away from Jess._
 
-*Emmett hops off the bed to get away from Jess.*
+**Trey** _(04-Jun-20 04:42 PM)_
 
-**Trey** *(04-Jun-20 04:42 PM)*
 > Garrick: I'll watch stealthily.
 
-**Michael** *(04-Jun-20 04:42 PM)*
+**Michael** _(04-Jun-20 04:42 PM)_
+
 > Theylin: I'll handle Megalosquotia here
 
-**Zander** *(04-Jun-20 04:42 PM)*
+**Zander** _(04-Jun-20 04:42 PM)_
+
 > Emmett: I'm about to get really vicious.
 
-**Brody** *(04-Jun-20 04:42 PM)*
+**Brody** _(04-Jun-20 04:42 PM)_
 
+_Sanya hands Garrick her knife_
 
-*Sanya hands Garrick her knife*
+**Zander** _(04-Jun-20 04:42 PM)_
 
-**Zander** *(04-Jun-20 04:42 PM)*
 > Emmett: Don't be alarmed.
 
-**Brody** *(04-Jun-20 04:42 PM)*
+**Brody** _(04-Jun-20 04:42 PM)_
+
 > Sanya: You do the stabbing.
 
-**Brody** *(04-Jun-20 04:42 PM)*
+**Brody** _(04-Jun-20 04:42 PM)_
 
+_Sanya runs back to the ship._
 
-*Sanya runs back to the ship.*
+**Charles** _(04-Jun-20 04:43 PM)_
 
-**Charles** *(04-Jun-20 04:43 PM)*
 > Vargas: Yaaaaay.
 
-**Trey** *(04-Jun-20 04:43 PM)*
+**Trey** _(04-Jun-20 04:43 PM)_
+
 > Garrick: Uh, alright?
 
-**Trey** *(04-Jun-20 04:43 PM)*
+**Trey** _(04-Jun-20 04:43 PM)_
+
 > Garrick: Have fun.
 
-**Brody** *(04-Jun-20 04:43 PM)*
+**Brody** _(04-Jun-20 04:43 PM)_
+
 > Sanya: Emmett! Just stay calm!
 
-**Zander** *(04-Jun-20 04:43 PM)*
+**Zander** _(04-Jun-20 04:43 PM)_
 
+_Richard sits there at his table. He looks at his watch._
 
-*Richard sits there at his table. He looks at his watch.*
 > Emmett: "He's late."
 
-**Charles** *(04-Jun-20 04:43 PM)*
+**Charles** _(04-Jun-20 04:43 PM)_
+
 > Vargas: Ill plant the drugs to look like a mess.
 
-**Michael** *(04-Jun-20 04:43 PM)*
+**Michael** _(04-Jun-20 04:43 PM)_
+
 > Theylin: Hey sheep guy! Come and get me!!
 
-**Zander** *(04-Jun-20 04:43 PM)*
+**Zander** _(04-Jun-20 04:43 PM)_
+
 > Emmett: I TOLD YOU I NEEDED GRASS!
 
-**Trey** *(04-Jun-20 04:44 PM)*
+**Trey** _(04-Jun-20 04:44 PM)_
 
+_Jessica looks at Emmett's monstrous form._
 
-*Jessica looks at Emmett's monstrous form.*
+**Charles** _(04-Jun-20 04:44 PM)_
 
-**Charles** *(04-Jun-20 04:44 PM)*
 > Vargas: I burned it Emmet.
 
-**Trey** *(04-Jun-20 04:44 PM)*
+**Trey** _(04-Jun-20 04:44 PM)_
+
 > Garrick: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
-**Trey** *(04-Jun-20 04:44 PM)*
+**Trey** _(04-Jun-20 04:44 PM)_
 
+_Jessica finds it hot._
 
-*Jessica finds it hot.*
-
-**Michael** *(04-Jun-20 04:44 PM)*
+**Michael** _(04-Jun-20 04:44 PM)_
 no.
 
-**Charles** *(04-Jun-20 04:44 PM)*
+**Charles** _(04-Jun-20 04:44 PM)_
 
+_Vargas watches target as he enters the booth._
 
-*Vargas watches target as he enters the booth.*
+**Zander** _(04-Jun-20 04:45 PM)_
 
-**Zander** *(04-Jun-20 04:45 PM)*
+_Emmett's jaw locks into a lower state, refusing him the ability to close his mouth. He howls in pain._
 
+**Zander** _(04-Jun-20 04:45 PM)_
 
-*Emmett's jaw locks into a lower state, refusing him the ability to close his mouth. He howls in pain.*
-
-**Zander** *(04-Jun-20 04:45 PM)*
 > Emmett: BEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEH
 
-**Zander** *(04-Jun-20 04:45 PM)*
+**Zander** _(04-Jun-20 04:45 PM)_
 
+_Emmett's eyes popped out a bit._
 
-*Emmett's eyes popped out a bit.*
+**Zander** _(04-Jun-20 04:45 PM)_
 
-**Zander** *(04-Jun-20 04:45 PM)*
 > Emmett: AWOOOGA!
 
-**Michael** *(04-Jun-20 04:45 PM)*
+**Michael** _(04-Jun-20 04:45 PM)_
+
 > Theylin: Emmett, come and get me you lil bitch
 
-**Brody** *(04-Jun-20 04:46 PM)*
+**Brody** _(04-Jun-20 04:46 PM)_
 8ball Can Sanya open the Dorr?
 
-**FFBot** *(04-Jun-20 04:46 PM)*
+**FFBot** _(04-Jun-20 04:46 PM)_
 Signs point to no.
 
-**Brody** *(04-Jun-20 04:46 PM)*
+**Brody** _(04-Jun-20 04:46 PM)_
+
 > Sanya: SHIT!
 
-**Zander** *(04-Jun-20 04:46 PM)*
+**Zander** _(04-Jun-20 04:46 PM)_
 8ball Does Jessica somehow have a syringe that temporarily cures the Crave?
 
-**FFBot** *(04-Jun-20 04:46 PM)*
+**FFBot** _(04-Jun-20 04:46 PM)_
 Sí.
 
-**Brody** *(04-Jun-20 04:46 PM)*
+**Brody** _(04-Jun-20 04:46 PM)_
+
 > Sanya: Garrick, change of plans!
 
-**FFBot** *(04-Jun-20 04:46 PM)*
+**FFBot** _(04-Jun-20 04:46 PM)_
 Spell it with me now, Y-E-S.
 
-**Charles** *(04-Jun-20 04:46 PM)*
+**Charles** _(04-Jun-20 04:46 PM)_
 8ball can vargas open the door
 
-**Trey** *(04-Jun-20 04:46 PM)*
+**Trey** _(04-Jun-20 04:46 PM)_
+
 > Garrick: Sanya, what the hell is going on?!
 
-**Michael** *(04-Jun-20 04:46 PM)*
+**Michael** _(04-Jun-20 04:46 PM)_
 8ball does Theylin take the form of a water female FNAF Foxy
 
-**FFBot** *(04-Jun-20 04:46 PM)*
+**FFBot** _(04-Jun-20 04:46 PM)_
 ԗݛ. (No).
 
-**Brody** *(04-Jun-20 04:46 PM)*
+**Brody** _(04-Jun-20 04:46 PM)_
+
 > Sanya: We're switching. Open the door!
 
-**Charles** *(04-Jun-20 04:46 PM)*
+**Charles** _(04-Jun-20 04:46 PM)_
+
 > Vargas: Nope.
 
-**Brody** *(04-Jun-20 04:47 PM)*
+**Brody** _(04-Jun-20 04:47 PM)_
 
+_Sanya grabs the knife_
 
-*Sanya grabs the knife*
+**Trey** _(04-Jun-20 04:47 PM)_
 
-**Trey** *(04-Jun-20 04:47 PM)*
 > Garrick: Uh, alright. Vargas, stick to the plan.
 
-**Trey** *(04-Jun-20 04:47 PM)*
+**Trey** _(04-Jun-20 04:47 PM)_
 
+_They pass the baton and switch._
 
-*They pass the baton and switch.*
+**Charles** _(04-Jun-20 04:47 PM)_
 
-**Charles** *(04-Jun-20 04:47 PM)*
 > Vargas: I have to use the bathroom.
 
-**Zander** *(04-Jun-20 04:47 PM)*
+**Zander** _(04-Jun-20 04:47 PM)_
 
+_Emmett tries to prevent himself from getting to Jess, causing him to crash into his closet._
 
-*Emmett tries to prevent himself from getting to Jess, causing him to crash into his closet.*
+**Charles** _(04-Jun-20 04:47 PM)_
 
-**Charles** *(04-Jun-20 04:47 PM)*
+_Vargas drugs the food as he walks by._
 
+**Michael** _(04-Jun-20 04:47 PM)_
 
-*Vargas drugs the food as he walks by.*
+_drugs have been planted_
 
-**Michael** *(04-Jun-20 04:47 PM)*
-
-
-*drugs have been planted*
-
-**Preston** *(04-Jun-20 04:47 PM)*
+**Preston** _(04-Jun-20 04:47 PM)_
 8ball Does Volentina keep a good watch over the place?
 
-**FFBot** *(04-Jun-20 04:47 PM)*
+**FFBot** _(04-Jun-20 04:47 PM)_
 N Word. (No).
 
-**Brody** *(04-Jun-20 04:47 PM)*
+**Brody** _(04-Jun-20 04:47 PM)_
+
 > Sanya: Not bad.
 
-**Zander** *(04-Jun-20 04:47 PM)*
+**Zander** _(04-Jun-20 04:47 PM)_
+
 > Emmett: AWWWH!
 
-**Trey** *(04-Jun-20 04:48 PM)*
+**Trey** _(04-Jun-20 04:48 PM)_
 8ball does Garrick open the door successfully
 
-**FFBot** *(04-Jun-20 04:48 PM)*
+**FFBot** _(04-Jun-20 04:48 PM)_
 Nope.
 
-**Charles** *(04-Jun-20 04:48 PM)*
+**Charles** _(04-Jun-20 04:48 PM)_
+
 > Vargas: Ok all good.
 
-**Charles** *(04-Jun-20 04:48 PM)*
+**Charles** _(04-Jun-20 04:48 PM)_
 
+_Target goes to bathroom._
 
-*Target goes to bathroom.*
-
-**Zander** *(04-Jun-20 04:48 PM)*
+**Zander** _(04-Jun-20 04:48 PM)_
 8ball Does Emmett get up and crash into the bedroom door?
 
-**FFBot** *(04-Jun-20 04:48 PM)*
+**FFBot** _(04-Jun-20 04:48 PM)_
 N.
 
-**Zander** *(04-Jun-20 04:48 PM)*
+**Zander** _(04-Jun-20 04:48 PM)_
+
 > Emmett: Squemfet don't feel too good.
 
-**Charles** *(04-Jun-20 04:48 PM)*
+**Charles** _(04-Jun-20 04:48 PM)_
 
+_Vargas heads to bathroom soon after._
 
-*Vargas heads to bathroom soon after.*
+**Trey** _(04-Jun-20 04:49 PM)_
 
-**Trey** *(04-Jun-20 04:49 PM)*
+_Hurriedly, Jessica pulls out a weird-looking syringe labeled "Anti-Crave" and pokes Emmett with it._
 
-
-*Hurriedly, Jessica pulls out a weird-looking syringe labeled "Anti-Crave" and pokes Emmett with it.*
-
-**Brody** *(04-Jun-20 04:49 PM)*
+**Brody** _(04-Jun-20 04:49 PM)_
 8ball Does Sanya complete this mission without a hitch?`
 
-**FFBot** *(04-Jun-20 04:49 PM)*
+**FFBot** _(04-Jun-20 04:49 PM)_
 N0.
 
-**Michael** *(04-Jun-20 04:49 PM)*
+**Michael** _(04-Jun-20 04:49 PM)_
+
 > Theylin: Vargas is GAYYYYYYYY??????????
 
-**Trey** *(04-Jun-20 04:49 PM)*
+**Trey** _(04-Jun-20 04:49 PM)_
+
 > Garrick: "Uhm... is this what it's for?"
 
-**Zander** *(04-Jun-20 04:49 PM)*
+**Zander** _(04-Jun-20 04:49 PM)_
 
+_Richard sighs, being ditched from his dinner._
 
-*Richard sighs, being ditched from his dinner.*
+**Preston** _(04-Jun-20 04:49 PM)_
 
-**Preston** *(04-Jun-20 04:49 PM)*
 > Volentina: Huh, I'm sure this is a good book. If only I could understand what it says.
 
-**Zander** *(04-Jun-20 04:49 PM)*
+**Zander** _(04-Jun-20 04:49 PM)_
+
 > Emmett: "Are you serious?"
 
-**Brody** *(04-Jun-20 04:49 PM)*
+**Brody** _(04-Jun-20 04:49 PM)_
+
 > Sanya: Um...
 
-**Brody** *(04-Jun-20 04:49 PM)*
+**Brody** _(04-Jun-20 04:49 PM)_
+
 > Sanya: Shit.
 
-**Zander** *(04-Jun-20 04:49 PM)*
+**Zander** _(04-Jun-20 04:49 PM)_
+
 > Emmett: "The man said he was going to pay for this."
 
-**Brody** *(04-Jun-20 04:50 PM)*
+**Brody** _(04-Jun-20 04:50 PM)_
+
 > Sanya: You were supposed to stay in there.
 
-**Zander** *(04-Jun-20 04:50 PM)*
+**Zander** _(04-Jun-20 04:50 PM)_
+
 > Emmett: "This was a waste of time."
 
-**Michael** *(04-Jun-20 04:50 PM)*
+**Michael** _(04-Jun-20 04:50 PM)_
 `
 
-**Charles** *(04-Jun-20 04:50 PM)*
-*Vargas plants the drugs to make it look like a drug dealer did the deed.
+**Charles** _(04-Jun-20 04:50 PM)_
+\*Vargas plants the drugs to make it look like a drug dealer did the deed.
 (edited)
 
-**Trey** *(04-Jun-20 04:50 PM)*
+**Trey** _(04-Jun-20 04:50 PM)_
+
 > Garrick: Emmett, chill out! Jessica, did you happen to pick up a weird-looking syringe while in my pockets?
 
-**Zander** *(04-Jun-20 04:50 PM)*
+**Zander** _(04-Jun-20 04:50 PM)_
+
 > Emmett: "Wait, are you the guy?"
 
-**Brody** *(04-Jun-20 04:50 PM)*
+**Brody** _(04-Jun-20 04:50 PM)_
+
 > Sanya: um....
 
-**Brody** *(04-Jun-20 04:50 PM)*
+**Brody** _(04-Jun-20 04:50 PM)_
+
 > Sanya: Yes. Yes I am.
 
-**Brody** *(04-Jun-20 04:50 PM)*
+**Brody** _(04-Jun-20 04:50 PM)_
+
 > Sanya: I am the... Guy.
 
-**Zander** *(04-Jun-20 04:50 PM)*
+**Zander** _(04-Jun-20 04:50 PM)_
 
+_Emmett pushed Jessica to the side, using more force than he wanted._
 
-*Emmett pushed Jessica to the side, using more force than he wanted.*
+**Zander** _(04-Jun-20 04:50 PM)_
 
-**Zander** *(04-Jun-20 04:50 PM)*
 > Emmett: LET SQUEMFET OUT!
 
-**Trey** *(04-Jun-20 04:51 PM)*
+**Trey** _(04-Jun-20 04:51 PM)_
+
 > Garrick: "Yeah... I poked Emmett with it. Is it gonna stop, I'm scared-"
 
-**Brody** *(04-Jun-20 04:51 PM)*
+**Brody** _(04-Jun-20 04:51 PM)_
 
+_Sanya hides her knife._
 
-*Sanya hides her knife.*
+**Trey** _(04-Jun-20 04:51 PM)_
 
-**Trey** *(04-Jun-20 04:51 PM)*
 > Garrick: "AAH! OW, MY LEG!"
 
-**Brody** *(04-Jun-20 04:51 PM)*
+**Brody** _(04-Jun-20 04:51 PM)_
+
 > Sanya: Excuse my lateness.
 
-**Brody** *(04-Jun-20 04:51 PM)*
+**Brody** _(04-Jun-20 04:51 PM)_
+
 > Sanya: Come, let us sit.
 
-**Trey** *(04-Jun-20 04:51 PM)*
+**Trey** _(04-Jun-20 04:51 PM)_
+
 > Garrick: I'm coming in!
 
-*Garrick finally reaches the door and goes through it.*
+_Garrick finally reaches the door and goes through it._
 
-**Charles** *(04-Jun-20 04:51 PM)*
+**Charles** _(04-Jun-20 04:51 PM)_
 8ball does planting drugs work.
 
-**FFBot** *(04-Jun-20 04:51 PM)*
+**FFBot** _(04-Jun-20 04:51 PM)_
 No but actually yes.
 
-**Michael** *(04-Jun-20 04:51 PM)*
+**Michael** _(04-Jun-20 04:51 PM)_
 8ball does Richard believe that Sanya's knife is a steak knife?
 
-**FFBot** *(04-Jun-20 04:51 PM)*
+**FFBot** _(04-Jun-20 04:51 PM)_
 Most Unlikely.
 
-**Trey** *(04-Jun-20 04:52 PM)*
+**Trey** _(04-Jun-20 04:52 PM)_
 
+_Garrick sees the chaos and uses the syringe._
 
-*Garrick sees the chaos and uses the syringe.*
+**Trey** _(04-Jun-20 04:52 PM)_
 
-**Trey** *(04-Jun-20 04:52 PM)*
 > Garrick: Hold still, buddy.
 
-**Zander** *(04-Jun-20 04:52 PM)*
+**Zander** _(04-Jun-20 04:52 PM)_
 
+_Emmett fell back, his muscles coming back to shape._
 
-*Emmett fell back, his muscles coming back to shape.*
+**Zander** _(04-Jun-20 04:52 PM)_
 
-**Zander** *(04-Jun-20 04:52 PM)*
 > Emmett: SQUEMFETT NEEDS TO GET OUT.
 
-**Zander** *(04-Jun-20 04:52 PM)*
+**Zander** _(04-Jun-20 04:52 PM)_
+
 > Emmett: "Why are you so late?"
 
-**Charles** *(04-Jun-20 04:53 PM)*
+**Charles** _(04-Jun-20 04:53 PM)_
 
+_Vargas watches him as he put to much forgetting to measure._
 
-*Vargas watches him as he put to much forgetting to measure.*
+**Brody** _(04-Jun-20 04:54 PM)_
 
-**Brody** *(04-Jun-20 04:54 PM)*
 > Sanya: I was attacked by a group of assassins. I was lucky to fend them off, but i lost a few crew members.
 
-**Preston** *(04-Jun-20 04:54 PM)*
+**Preston** _(04-Jun-20 04:54 PM)_
 8ball does Volentina continue to read despite not understanding the language?
 
-**FFBot** *(04-Jun-20 04:54 PM)*
+**FFBot** _(04-Jun-20 04:54 PM)_
 Outlook good.
 
-**Trey** *(04-Jun-20 04:54 PM)*
+**Trey** _(04-Jun-20 04:54 PM)_
 8ball does Garrick successfully unlock the door
 
-**FFBot** *(04-Jun-20 04:54 PM)*
+**FFBot** _(04-Jun-20 04:54 PM)_
 Without a doubt.
 
-**Charles** *(04-Jun-20 04:54 PM)*
+**Charles** _(04-Jun-20 04:54 PM)_
 
+_Vargas watches as the target shits himself then oding_
 
-*Vargas watches as the target shits himself then oding*
+**Trey** _(04-Jun-20 04:54 PM)_
 
-**Trey** *(04-Jun-20 04:54 PM)*
 > Garrick: Go! Out!
 
-**Brody** *(04-Jun-20 04:54 PM)*
+**Brody** _(04-Jun-20 04:54 PM)_
+
 > Sanya: Hence the Knife. You can never be too safe.
 
-**Zander** *(04-Jun-20 04:54 PM)*
+**Zander** _(04-Jun-20 04:54 PM)_
 
+_Emmett just lies there, his jaw coming back into shape._
 
-*Emmett just lies there, his jaw coming back into shape.*
+**Charles** _(04-Jun-20 04:55 PM)_
 
-**Charles** *(04-Jun-20 04:55 PM)*
 > Vargas: Luckly i have this pockt knife to make sure hes dead.
 
-**Zander** *(04-Jun-20 04:55 PM)*
+**Zander** _(04-Jun-20 04:55 PM)_
+
 > Emmett: SQUEMFETT.... I think.... I think I'm fine.
 
-**Zander** *(04-Jun-20 04:55 PM)*
+**Zander** _(04-Jun-20 04:55 PM)_
+
 > Emmett: Sorry Jess.
 
-**Trey** *(04-Jun-20 04:55 PM)*
+**Trey** _(04-Jun-20 04:55 PM)_
+
 > Garrick: You alright, Jes- oh.
 
-**Trey** *(04-Jun-20 04:55 PM)*
+**Trey** _(04-Jun-20 04:55 PM)_
 
+_She is unconscious._
 
-*She is unconscious.*
-
-**Charles** *(04-Jun-20 04:55 PM)*
+**Charles** _(04-Jun-20 04:55 PM)_
 vARGAS WHISPERS TO HIMSELF
 
-**Zander** *(04-Jun-20 04:55 PM)*
+**Zander** _(04-Jun-20 04:55 PM)_
+
 > Emmett: "That looks bloody. You hurt someone?"
 
-**Michael** *(04-Jun-20 04:55 PM)*
+**Michael** _(04-Jun-20 04:55 PM)_
 
+_I'm doing your mom Trey_
 
-*I'm doing your mom Trey*
+**Charles** _(04-Jun-20 04:55 PM)_
 
-**Charles** *(04-Jun-20 04:55 PM)*
+_Vargas geads back to the ship._
 
-
-*Vargas geads back to the ship.*
-
-**Michael** *(04-Jun-20 04:55 PM)*
+**Michael** _(04-Jun-20 04:55 PM)_
 `
 
-**Michael** *(04-Jun-20 04:55 PM)*
+**Michael** _(04-Jun-20 04:55 PM)_
 
+_pulls out cocoa puffs and starts slicing onions to put on top_
 
-*pulls out cocoa puffs and starts slicing onions to put on top*
+**Brody** _(04-Jun-20 04:56 PM)_
 
-**Brody** *(04-Jun-20 04:56 PM)*
 > Sanya: I had to. Unfortunately, the world we live in is harsh.
 
-**Zander** *(04-Jun-20 04:56 PM)*
+**Zander** _(04-Jun-20 04:56 PM)_
 
+_Emmett gets up and stares at Jess, standing next to Garrick._
 
-*Emmett gets up and stares at Jess, standing next to Garrick.*
+**Trey** _(04-Jun-20 04:56 PM)_
 
-**Trey** *(04-Jun-20 04:56 PM)*
 > Garrick: Damn, Emmett. You wrecked your room AND our new crew member.
 
-**Zander** *(04-Jun-20 04:56 PM)*
+**Zander** _(04-Jun-20 04:56 PM)_
+
 > Emmett: I'm unstable, man.
 
-**Charles** *(04-Jun-20 04:56 PM)*
+**Charles** _(04-Jun-20 04:56 PM)_
+
 > Vargas: Job is done Sayna.
 
-**Zander** *(04-Jun-20 04:56 PM)*
+**Zander** _(04-Jun-20 04:56 PM)_
+
 > Emmett: "Mhm... So what do you want to drink?"
 
-**Trey** *(04-Jun-20 04:57 PM)*
+**Trey** _(04-Jun-20 04:57 PM)_
 
+_Vargas has been watching a completely different person._
 
-*Vargas has been watching a completely different person.*
+**Charles** _(04-Jun-20 04:57 PM)_
 
-**Charles** *(04-Jun-20 04:57 PM)*
+_Vargas thinks oops wrong person._
 
-
-*Vargas thinks oops wrong person.*
-
-**Zander** *(04-Jun-20 04:57 PM)*
+**Zander** _(04-Jun-20 04:57 PM)_
 8ball Does Richard have a weapon of his own?
 
-**FFBot** *(04-Jun-20 04:57 PM)*
+**FFBot** _(04-Jun-20 04:57 PM)_
 Yes, definitely.
 
-**Trey** *(04-Jun-20 04:57 PM)*
+**Trey** _(04-Jun-20 04:57 PM)_
 Messiah Otter Bath Water
 
-**Charles** *(04-Jun-20 04:57 PM)*
+**Charles** _(04-Jun-20 04:57 PM)_
+
 > Vargas: Aaah sorry im here.
 
-**Zander** *(04-Jun-20 04:57 PM)*
+**Zander** _(04-Jun-20 04:57 PM)_
 
+_Emmett picks up the Ottori, having a bit of trouble._
 
-*Emmett picks up the Ottori, having a bit of trouble.*
+**Zander** _(04-Jun-20 04:57 PM)_
 
-**Zander** *(04-Jun-20 04:57 PM)*
 > Emmett: She's... heavy...
 
-**Brody** *(04-Jun-20 04:58 PM)*
+**Brody** _(04-Jun-20 04:58 PM)_
 8ball Does Sanya secretly pull out a bottle of Liquid Death?
 
-**FFBot** *(04-Jun-20 04:58 PM)*
+**FFBot** _(04-Jun-20 04:58 PM)_
 N.
 
-**Charles** *(04-Jun-20 04:58 PM)*
+**Charles** _(04-Jun-20 04:58 PM)_
+
 > Vargas: A crew memeber requires my assistance be right back
 
-**Charles** *(04-Jun-20 04:58 PM)*
+**Charles** _(04-Jun-20 04:58 PM)_
 
+_Vargas drugs the right plates this time._
 
-*Vargas drugs the right plates this time.*
+**Zander** _(04-Jun-20 04:59 PM)_
 
-**Zander** *(04-Jun-20 04:59 PM)*
 > Emmett: "You notice that weird black guy?"
 
-**Zander** *(04-Jun-20 04:59 PM)*
+**Zander** _(04-Jun-20 04:59 PM)_
+
 > Emmett: "Strange how they let these people in here."
 
-**Brody** *(04-Jun-20 04:59 PM)*
-> Sanya: Yeah. He's off-putting. 
+**Brody** _(04-Jun-20 04:59 PM)_
 
-**Zander** *(04-Jun-20 05:00 PM)*
+> Sanya: Yeah. He's off-putting.
+
+**Zander** _(04-Jun-20 05:00 PM)_
+
 > Emmett: Damn!
 
-*Emmett accidentally drops her onto his bed.*
+_Emmett accidentally drops her onto his bed._
 
-**Zander** *(04-Jun-20 05:00 PM)*
+**Zander** _(04-Jun-20 05:00 PM)_
+
 > Emmett: I meant to place her down.
 
-**Zander** *(04-Jun-20 05:00 PM)*
+**Zander** _(04-Jun-20 05:00 PM)_
+
 > Emmett: I'm a terrible friend.
 
-**Trey** *(04-Jun-20 05:00 PM)*
+**Trey** _(04-Jun-20 05:00 PM)_
+
 > Garrick: Be careful, dude.
 
-**Charles** *(04-Jun-20 05:01 PM)*
+**Charles** _(04-Jun-20 05:01 PM)_
 
+_Vargas sneaks into the back kitchen._
 
-*Vargas sneaks into the back kitchen.*
+**Trey** _(04-Jun-20 05:01 PM)_
 
-**Trey** *(04-Jun-20 05:01 PM)*
 > Garrick: Anyways, you think Iris could fix her?
 
-**Trey** *(04-Jun-20 05:01 PM)*
+**Trey** _(04-Jun-20 05:01 PM)_
+
 > Garrick: We don't have a medic.
 
-**Zander** *(04-Jun-20 05:01 PM)*
+**Zander** _(04-Jun-20 05:01 PM)_
+
 > Emmett: Iris would probably bake her a cast.
 
-**Zander** *(04-Jun-20 05:01 PM)*
+**Zander** _(04-Jun-20 05:01 PM)_
+
 > Emmett: Or whatever.
 
-**Zander** *(04-Jun-20 05:01 PM)*
+**Zander** _(04-Jun-20 05:01 PM)_
+
 > Emmett: I'll take care of her.
 
-**Charles** *(04-Jun-20 05:01 PM)*
+**Charles** _(04-Jun-20 05:01 PM)_
 8ball does Vargas successfully drug the target.
 
-**FFBot** *(04-Jun-20 05:01 PM)*
+**FFBot** _(04-Jun-20 05:01 PM)_
 NOOOOOO!
 
-**Zander** *(04-Jun-20 05:01 PM)*
+**Zander** _(04-Jun-20 05:01 PM)_
+
 > Emmett: I know you guys wanted to keep me safe and all.
 
-**Michael** *(04-Jun-20 05:02 PM)*
+**Michael** _(04-Jun-20 05:02 PM)_
 8ball does Theylin eat pie?
 
-**FFBot** *(04-Jun-20 05:02 PM)*
+**FFBot** _(04-Jun-20 05:02 PM)_
 You don't got it.
 
-**Zander** *(04-Jun-20 05:02 PM)*
+**Zander** _(04-Jun-20 05:02 PM)_
+
 > Emmett: "Waiter!"
 
-**Charles** *(04-Jun-20 05:02 PM)*
+**Charles** _(04-Jun-20 05:02 PM)_
 
+_The target doesn't notice his weird behavior yet._
 
-*The target doesn't notice his weird behavior yet.*
+**Zander** _(04-Jun-20 05:02 PM)_
 
-**Zander** *(04-Jun-20 05:02 PM)*
 > Emmett: "Come here and get the flower some water. She looks dry."
 
-**Zander** *(04-Jun-20 05:02 PM)*
+**Zander** _(04-Jun-20 05:02 PM)_
+
 > Emmett: But honestly, I don't think I'm safe.
 
-**Brody** *(04-Jun-20 05:03 PM)*
+**Brody** _(04-Jun-20 05:03 PM)_
+
 > Sanya: Oh, thank you.
 
-*Sanya fucking hates this man. So much.*
+_Sanya fucking hates this man. So much._
 
-**Zander** *(04-Jun-20 05:03 PM)*
+**Zander** _(04-Jun-20 05:03 PM)_
+
 > Emmett: Maybe that's the reason what the Llamanians want me gone.
 
-**Zander** *(04-Jun-20 05:03 PM)*
+**Zander** _(04-Jun-20 05:03 PM)_
+
 > Emmett: We're vile creatures.
 
-**Brody** *(04-Jun-20 05:04 PM)*
+**Brody** _(04-Jun-20 05:04 PM)_
+
 > Sanya: Now, shall we talk about the elephant in the room?
 
-**Zander** *(04-Jun-20 05:04 PM)*
+**Zander** _(04-Jun-20 05:04 PM)_
+
 > Emmett: "Good on him. Give me some sparkling tea."
 
-**Zander** *(04-Jun-20 05:04 PM)*
+**Zander** _(04-Jun-20 05:04 PM)_
+
 > Emmett: "What's an elephant?"
 
-**Trey** *(04-Jun-20 05:04 PM)*
+**Trey** _(04-Jun-20 05:04 PM)_
 
+_Garrick sighs._
 
-*Garrick sighs.*
 > Garrick: This whole Crave thing only exists because of your withdrawals. The fact that it's happening at least proves that it's working.
 
-**Trey** *(04-Jun-20 05:04 PM)*
+**Trey** _(04-Jun-20 05:04 PM)_
+
 > Garrick: Don't worry about it.
 
-**Charles** *(04-Jun-20 05:05 PM)*
+**Charles** _(04-Jun-20 05:05 PM)_
 
+_Vargas Jumps off the roof._
 
-*Vargas Jumps off the roof.*
+**Zander** _(04-Jun-20 05:05 PM)_
 
-**Zander** *(04-Jun-20 05:05 PM)*
 > Emmett: "Did you hear someone fall off the roof?"
 
-**Brody** *(04-Jun-20 05:05 PM)*
+**Brody** _(04-Jun-20 05:05 PM)_
+
 > Sanya: Ah, it's an old Earth Saying. It was apparently an animal. I believe the saying refers to bigger issues.
 
-**Zander** *(04-Jun-20 05:05 PM)*
+**Zander** _(04-Jun-20 05:05 PM)_
+
 > Emmett: I'm exhausted, Garrick.
 
-**Brody** *(04-Jun-20 05:05 PM)*
+**Brody** _(04-Jun-20 05:05 PM)_
+
 > Sanya: Oh, i think it's that offputting man.
 
-**Zander** *(04-Jun-20 05:05 PM)*
+**Zander** _(04-Jun-20 05:05 PM)_
+
 > Emmett: I've been exhausted for days.
 
-**Zander** *(04-Jun-20 05:05 PM)*
+**Zander** _(04-Jun-20 05:05 PM)_
+
 > Emmett: Nothing has helped.
 
-**Zander** *(04-Jun-20 05:05 PM)*
+**Zander** _(04-Jun-20 05:05 PM)_
+
 > Emmett: "I don't see any problems aside from you acting odd. Come and have a seat. Drink."
 
-**Zander** *(04-Jun-20 05:05 PM)*
+**Zander** _(04-Jun-20 05:05 PM)_
+
 > Emmett: "Food will be out soon."
 
-**Charles** *(04-Jun-20 05:07 PM)*
+**Charles** _(04-Jun-20 05:07 PM)_
 ok.
 
-**Brody** *(04-Jun-20 05:07 PM)*
+**Brody** _(04-Jun-20 05:07 PM)_
+
 > Sanya: Yes, yes. Apologies. The strangeness of the diner must be getting to me.
 
-**Zander** *(04-Jun-20 05:07 PM)*
+**Zander** _(04-Jun-20 05:07 PM)_
+
 > Emmett: "Yes. Strangeness."
 
-**Zander** *(04-Jun-20 05:07 PM)*
+**Zander** _(04-Jun-20 05:07 PM)_
 
+_Richard pulls out his acid blaster from beneath the table._
 
-*Richard pulls out his acid blaster from beneath the table.*
+**Brody** _(04-Jun-20 05:08 PM)_
 
-**Brody** *(04-Jun-20 05:08 PM)*
+_Sanya notices the rustling, and slowly pulls out her knife._
 
+**Zander** _(04-Jun-20 05:08 PM)_
 
-*Sanya notices the rustling, and slowly pulls out her knife.*
-
-**Zander** *(04-Jun-20 05:08 PM)*
 > Emmett: "You think I'm retarded?"
 
-**Brody** *(04-Jun-20 05:08 PM)*
+**Brody** _(04-Jun-20 05:08 PM)_
+
 > Sanya: You wouldn't want to make a scene, would you?
 
-**Zander** *(04-Jun-20 05:08 PM)*
+**Zander** _(04-Jun-20 05:08 PM)_
 
+_Emmett yawns._
 
-*Emmett yawns.*
 > Emmett: Can you please get out of my room?
 
-**Zander** *(04-Jun-20 05:08 PM)*
+**Zander** _(04-Jun-20 05:08 PM)_
+
 > Emmett: I'm trying to get some shuteye.
 
-**Trey** *(04-Jun-20 05:09 PM)*
+**Trey** _(04-Jun-20 05:09 PM)_
+
 > Garrick: Sure, man. You keeping Jess with you?
 
-**Brody** *(04-Jun-20 05:09 PM)*
+**Brody** _(04-Jun-20 05:09 PM)_
+
 > Sanya: Listen to me, here and now. You've very clearly never met a Floran.
 
-**Preston** *(04-Jun-20 05:09 PM)*
+**Preston** _(04-Jun-20 05:09 PM)_
+
 > Volentina: Uh oh.
 
-**Zander** *(04-Jun-20 05:09 PM)*
+**Zander** _(04-Jun-20 05:09 PM)_
+
 > Emmett: I'll try to keep her intact.
 
-**Trey** *(04-Jun-20 05:09 PM)*
+**Trey** _(04-Jun-20 05:09 PM)_
 None of her bones are broken or anything she just got the wind knocked out of her
 
-**Preston** *(04-Jun-20 05:10 PM)*
+**Preston** _(04-Jun-20 05:10 PM)_
+
 > Volentina: Uh guys, things are starting to turn sour.
 
-**Charles** *(04-Jun-20 05:10 PM)*
+**Charles** _(04-Jun-20 05:10 PM)_
 
+_Vargas wakes up and walks into the diner._
 
-*Vargas wakes up and walks into the diner.*
+**Charles** _(04-Jun-20 05:10 PM)_
 
-**Charles** *(04-Jun-20 05:10 PM)*
 > Vargas: That was fun.
 
-**Brody** *(04-Jun-20 05:10 PM)*
+**Brody** _(04-Jun-20 05:10 PM)_
+
 > Sanya: While my crew maybe be retarded, i assure you, i am a trained assassin.
 
-**Brody** *(04-Jun-20 05:10 PM)*
+**Brody** _(04-Jun-20 05:10 PM)_
+
 > Sanya: So do not test me.
 
-**Zander** *(04-Jun-20 05:11 PM)*
+**Zander** _(04-Jun-20 05:11 PM)_
+
 > Emmett: "I bet you're hiding something valuable in that yacht of yours."
 
-**Trey** *(04-Jun-20 05:11 PM)*
+**Trey** _(04-Jun-20 05:11 PM)_
 
+_Garrick leaves the room._
 
-*Garrick leaves the room.*
+**Brody** _(04-Jun-20 05:11 PM)_
 
-**Brody** *(04-Jun-20 05:11 PM)*
 > Sanya: Maybe. But I assure you, you won't get a chance to learn.
 
-**Trey** *(04-Jun-20 05:11 PM)*
+**Trey** _(04-Jun-20 05:11 PM)_
 
+_The lights also went back on after Garrick unlocked the door._
 
-*The lights also went back on after Garrick unlocked the door.*
+**Zander** _(04-Jun-20 05:11 PM)_
 
-**Zander** *(04-Jun-20 05:11 PM)*
+_Emmett stares at the wreckage. He picks up his holodevice and kicks some desk rubble into the hallway._
 
-
-*Emmett stares at the wreckage. He picks up his holodevice and kicks some desk rubble into the hallway.*
-
-**Trey** *(04-Jun-20 05:12 PM)*
+**Trey** _(04-Jun-20 05:12 PM)_
 8ball does Garrick turn his comms back on
 
-**FFBot** *(04-Jun-20 05:12 PM)*
+**FFBot** _(04-Jun-20 05:12 PM)_
 Nah.
 
-**Zander** *(04-Jun-20 05:12 PM)*
+**Zander** _(04-Jun-20 05:12 PM)_
+
 > Emmett: "Trust me, I'll learn."
 
-**Zander** *(04-Jun-20 05:12 PM)*
+**Zander** _(04-Jun-20 05:12 PM)_
 
+_Richard stands up, and four more Llamanians come in front of him._
 
-*Richard stands up, and four more Llamanians come in front of him.*
+**Trey** _(04-Jun-20 05:12 PM)_
 
-**Trey** *(04-Jun-20 05:12 PM)*
 > Garrick: I'm just gonna go get something from the fridge...
 
-**Zander** *(04-Jun-20 05:12 PM)*
+**Zander** _(04-Jun-20 05:12 PM)_
+
 > Emmett: "Take care of the egotistical flower for me."
 
-**Brody** *(04-Jun-20 05:12 PM)*
+**Brody** _(04-Jun-20 05:12 PM)_
+
 > Sanya: Cocky. I like that. Makes the meat tastier when they try to fight back.
 
-**Charles** *(04-Jun-20 05:13 PM)*
+**Charles** _(04-Jun-20 05:13 PM)_
+
 > Vargas: Hey who wants to fight me!?! Winner gets 10 pounds of weed.
 
-**Brody** *(04-Jun-20 05:13 PM)*
+**Brody** _(04-Jun-20 05:13 PM)_
 
+_Sanya draws her Sword_
 
-*Sanya draws her Sword*
+**Preston** _(04-Jun-20 05:13 PM)_
 
-**Preston** *(04-Jun-20 05:13 PM)*
 > Volentina: Hello? Things are starting to get worse.
 
-**Zander** *(04-Jun-20 05:13 PM)*
+**Zander** _(04-Jun-20 05:13 PM)_
 
+_The Llamanians crowd her. He zips off to the ship._
 
-*The Llamanians crowd her. He zips off to the ship.*
+**Brody** _(04-Jun-20 05:13 PM)_
 
-**Brody** *(04-Jun-20 05:13 PM)*
 > Sanya: Robot, After Him!
 
-**Charles** *(04-Jun-20 05:13 PM)*
+**Charles** _(04-Jun-20 05:13 PM)_
 
+_Vargas attacks him._
 
-*Vargas attacks him.*
+**Trey** _(04-Jun-20 05:13 PM)_
 
-**Trey** *(04-Jun-20 05:13 PM)*
+_Garrick feels a disturbance in the force and turns his comms back on._
 
+**Trey** _(04-Jun-20 05:13 PM)_
 
-*Garrick feels a disturbance in the force and turns his comms back on.*
-
-**Trey** *(04-Jun-20 05:13 PM)*
 > Garrick: Everything alright in there?
 
-**Preston** *(04-Jun-20 05:14 PM)*
+**Preston** _(04-Jun-20 05:14 PM)_
+
 > Volentina: No! Quite the opposite!
 
-**Brody** *(04-Jun-20 05:14 PM)*
+**Brody** _(04-Jun-20 05:14 PM)_
 
+_Sanya Cuts down the first Llamanian easily._
 
-*Sanya Cuts down the first Llamanian easily.*
-
-**Trey** *(04-Jun-20 05:14 PM)*
+**Trey** _(04-Jun-20 05:14 PM)_
 No. In fact, the opposite happens.
 
-**Zander** *(04-Jun-20 05:14 PM)*
+**Zander** _(04-Jun-20 05:14 PM)_
 
+_Emmett gets to his watch and mutters into it._
 
-*Emmett gets to his watch and mutters into it.*
 > Emmett: Sorry man---er, woman. I need to make sure I didn't hurt someone. Good night.
 
-**Preston** *(04-Jun-20 05:14 PM)*
+**Preston** _(04-Jun-20 05:14 PM)_
+
 > Volentina: It's a bust, target has taken off and Sanya's surrounded
 
-**Charles** *(04-Jun-20 05:14 PM)*
-> Vargas: Im not a robot im  a BIOGENIC.
+**Charles** _(04-Jun-20 05:14 PM)_
 
-**Brody** *(04-Jun-20 05:14 PM)*
+> Vargas: Im not a robot im a BIOGENIC.
+
+**Brody** _(04-Jun-20 05:14 PM)_
+
 > Sanya: All for me? You shouldn't have.
 
-**Brody** *(04-Jun-20 05:14 PM)*
+**Brody** _(04-Jun-20 05:14 PM)_
+
 > Sanya: I'll eat well for quite a while.
 
-**Zander** *(04-Jun-20 05:14 PM)*
+**Zander** _(04-Jun-20 05:14 PM)_
 
+_Richard opens up the Pummeler hatch and explores._
 
-*Richard opens up the Pummeler hatch and explores.*
+**Brody** _(04-Jun-20 05:14 PM)_
 
-**Brody** *(04-Jun-20 05:14 PM)*
 > Sanya: AFTER HIM!
 
-**Trey** *(04-Jun-20 05:15 PM)*
+**Trey** _(04-Jun-20 05:15 PM)_
 8ball does Garrick hear the hatch open
 
-**FFBot** *(04-Jun-20 05:15 PM)*
+**FFBot** _(04-Jun-20 05:15 PM)_
 Yes, but in a monotonous tone.
 
-**Brody** *(04-Jun-20 05:15 PM)*
+**Brody** _(04-Jun-20 05:15 PM)_
+
 > Sanya: GARRICK, WE HAVE AN INTRUDER!
 
-**Charles** *(04-Jun-20 05:15 PM)*
+**Charles** _(04-Jun-20 05:15 PM)_
 
+_Vargas chases him with his superspeed._
 
-*Vargas chases him with his superspeed.*
+**Trey** _(04-Jun-20 05:15 PM)_
 
-**Trey** *(04-Jun-20 05:15 PM)*
 > Garrick: Uh, yeah, I noticed.
 
-**Brody** *(04-Jun-20 05:15 PM)*
+**Brody** _(04-Jun-20 05:15 PM)_
 
+_Sanya cuts down 2 more_
 
-*Sanya cuts down 2 more*
+**Zander** _(04-Jun-20 05:15 PM)_
 
-**Zander** *(04-Jun-20 05:15 PM)*
 > Emmett: "Nice place you got here."
 
-**Charles** *(04-Jun-20 05:15 PM)*
+**Charles** _(04-Jun-20 05:15 PM)_
 
+_Vargas tackles him._
 
-*Vargas tackles him.*
+**Trey** _(04-Jun-20 05:15 PM)_
 
-**Trey** *(04-Jun-20 05:15 PM)*
+_Garrick draws his Skeletal Khopesh._
 
+**Trey** _(04-Jun-20 05:15 PM)_
 
-*Garrick draws his Skeletal Khopesh.*
-
-**Trey** *(04-Jun-20 05:15 PM)*
 > Garrick: You know, we had a plan and all, but there were no specifications as to how we kill you.
 
-**Zander** *(04-Jun-20 05:17 PM)*
+**Zander** _(04-Jun-20 05:17 PM)_
+
 > Emmett: "I'll drain your fluid, 8ball."
 
-*He kicks Varga to the side and sprays him with the acid blaster. He then looks to Garrick.*
+_He kicks Varga to the side and sprays him with the acid blaster. He then looks to Garrick._
 
-**Brody** *(04-Jun-20 05:17 PM)*
+**Brody** _(04-Jun-20 05:17 PM)_
 
+_Sanya finishes up in the diner and runs to the ship._
 
-*Sanya finishes up in the diner and runs to the ship.*
+**Charles** _(04-Jun-20 05:17 PM)_
 
-**Charles** *(04-Jun-20 05:17 PM)*
+_Vargas pulls out his swords._
 
+**Brody** _(04-Jun-20 05:17 PM)_
 
-*Vargas pulls out his swords.*
-
-**Brody** *(04-Jun-20 05:17 PM)*
 > Sanya: Listen, Meat. This is the end.
 
-**Charles** *(04-Jun-20 05:17 PM)*
+**Charles** _(04-Jun-20 05:17 PM)_
 
+_After wiping the acid off._
 
-*After wiping the acid off.*
+**Zander** _(04-Jun-20 05:18 PM)_
 
-**Zander** *(04-Jun-20 05:18 PM)*
 > Emmett: "You know, there's no specifications that you guys get to kill me."
 
-**Trey** *(04-Jun-20 05:18 PM)*
+**Trey** _(04-Jun-20 05:18 PM)_
+
 > Garrick: Oh, trust me. I will.
 
-**Trey** *(04-Jun-20 05:18 PM)*
+**Trey** _(04-Jun-20 05:18 PM)_
 
+_Garrick takes a few swings at Richard._
 
-*Garrick takes a few swings at Richard.*
+**Charles** _(04-Jun-20 05:18 PM)_
 
-**Charles** *(04-Jun-20 05:18 PM)*
+_Vargas slashes his leg._
 
+**Brody** _(04-Jun-20 05:18 PM)_
 
-*Vargas slashes his leg.*
-
-**Brody** *(04-Jun-20 05:18 PM)*
 > Sanya: He's mine. I had to eat dinner with this bastard.
 
-**Zander** *(04-Jun-20 05:18 PM)*
+**Zander** _(04-Jun-20 05:18 PM)_
 8ball Does Richard hop over the Floran and run into the depths of the ship?
 
-**FFBot** *(04-Jun-20 05:18 PM)*
+**FFBot** _(04-Jun-20 05:18 PM)_
 Person who's before you decides!
 
-**Trey** *(04-Jun-20 05:19 PM)*
+**Trey** _(04-Jun-20 05:19 PM)_
 No, because he got his legs slashed and falls over
 
-**Charles** *(04-Jun-20 05:19 PM)*
+**Charles** _(04-Jun-20 05:19 PM)_
 
+_Vargas drives the sword through him._
 
-*Vargas drives the sword through him.*
+**Brody** _(04-Jun-20 05:19 PM)_
 
-**Brody** *(04-Jun-20 05:19 PM)*
+_Sanya picks the llama_
 
+**Zander** _(04-Jun-20 05:19 PM)_
 
-*Sanya picks the llama*
+_Richard takes out his comms._
 
-**Zander** *(04-Jun-20 05:19 PM)*
-
-
-*Richard takes out his comms.*
 > Emmett: "Backup, now."
 
-**Brody** *(04-Jun-20 05:19 PM)*
+**Brody** _(04-Jun-20 05:19 PM)_
 8ball Does Sanya stb him, here and now?
 
-**FFBot** *(04-Jun-20 05:19 PM)*
+**FFBot** _(04-Jun-20 05:19 PM)_
 Most likely.
 
-**Brody** *(04-Jun-20 05:20 PM)*
+**Brody** _(04-Jun-20 05:20 PM)_
 
+_A quick stab to the chest_
 
-*A quick stab to the chest*
+**Charles** _(04-Jun-20 05:20 PM)_
 
-**Charles** *(04-Jun-20 05:20 PM)*
+_But fails to hit anything vital_
 
+**Preston** _(04-Jun-20 05:20 PM)_
 
-*But fails to hit anything vital*
-
-**Preston** *(04-Jun-20 05:20 PM)*
 > Volentina: There's more coming towards the ship and fast!
 
-**Zander** *(04-Jun-20 05:21 PM)*
+**Zander** _(04-Jun-20 05:21 PM)_
 
+_Richard holds his chest, dropping the blaster._
 
-*Richard holds his chest, dropping the blaster.*
-
-**Charles** *(04-Jun-20 05:21 PM)*
+**Charles** _(04-Jun-20 05:21 PM)_
 8ball does Vargas kill Robert
 
-**FFBot** *(04-Jun-20 05:21 PM)*
+**FFBot** _(04-Jun-20 05:21 PM)_
 Of course not!
 
-**Brody** *(04-Jun-20 05:21 PM)*
+**Brody** _(04-Jun-20 05:21 PM)_
+
 > Sanya: Resilient, aren't you?
 
-**Trey** *(04-Jun-20 05:21 PM)*
+**Trey** _(04-Jun-20 05:21 PM)_
+
 > Garrick: We got backup to worry about. You two take care of him, I'll meet up with Girl.
 
-**Zander** *(04-Jun-20 05:21 PM)*
+**Zander** _(04-Jun-20 05:21 PM)_
+
 > Emmett: "You're lucky I forwent getting those chest implants."
 
-*He said this while panting.*
+_He said this while panting._
 
-**Preston** *(04-Jun-20 05:22 PM)*
+**Preston** _(04-Jun-20 05:22 PM)_
 8ball Does Volentina find an item outside the ship to attempt to hold off backup?
 
-**FFBot** *(04-Jun-20 05:22 PM)*
+**FFBot** _(04-Jun-20 05:22 PM)_
 Spell it with me now, N-O.
 
-**Trey** *(04-Jun-20 05:22 PM)*
+**Trey** _(04-Jun-20 05:22 PM)_
 
+_Garrick meets up with Girl AKA Volentina_
 
-*Garrick meets up with Girl AKA Volentina*
+**Brody** _(04-Jun-20 05:22 PM)_
 
-**Brody** *(04-Jun-20 05:22 PM)*
 > Sanya: Lucky, lucky me. Means it's easy to eat you.
 
-**Zander** *(04-Jun-20 05:22 PM)*
+**Zander** _(04-Jun-20 05:22 PM)_
 
+_A group of Llamanian guards come in, each with plasma blasters with anti-spectral enhancements._
 
-*A group of Llamanian guards come in, each with plasma blasters with anti-spectral enhancements.*
+**Preston** _(04-Jun-20 05:22 PM)_
 
-**Preston** *(04-Jun-20 05:22 PM)*
 > Volentina: So, I have no weapon. And there's a lot on the way.
 
-**Brody** *(04-Jun-20 05:22 PM)*
+**Brody** _(04-Jun-20 05:22 PM)_
+
 > Sanya: It's a real shame you came this far.
 
-**Trey** *(04-Jun-20 05:22 PM)*
+**Trey** _(04-Jun-20 05:22 PM)_
 
+_Garrick pulls out a Bee Gun._
 
-*Garrick pulls out a Bee Gun.*
+**Trey** _(04-Jun-20 05:22 PM)_
 
-**Trey** *(04-Jun-20 05:22 PM)*
 > Garrick: Here you go, Teddy.
 
-**Brody** *(04-Jun-20 05:23 PM)*
+**Brody** _(04-Jun-20 05:23 PM)_
+
 > Sanya: Robot, go help with the backup.
 
-**Trey** *(04-Jun-20 05:23 PM)*
+**Trey** _(04-Jun-20 05:23 PM)_
 
+_He tosses it to Volentina._
 
-*He tosses it to Volentina.*
+**Brody** _(04-Jun-20 05:23 PM)_
 
-**Brody** *(04-Jun-20 05:23 PM)*
 > Sanya: I'll stay with the corpse here.
 
-**Charles** *(04-Jun-20 05:23 PM)*
+**Charles** _(04-Jun-20 05:23 PM)_
 
+_Vargas elbows him in the stomach._
 
-*Vargas elbows him in the stomach.*
 > Vargas: Bitch.
 
-**Preston** *(04-Jun-20 05:23 PM)*
+**Preston** _(04-Jun-20 05:23 PM)_
+
 > Volentina: What the hell is this- Whatever, how does it work?
 
-**Zander** *(04-Jun-20 05:23 PM)*
+**Zander** _(04-Jun-20 05:23 PM)_
 
+_Emmett tosses all of the rubble out and sits on the edge of his bed, brandishing his Maggo._
 
-*Emmett tosses all of the rubble out and sits on the edge of his bed, brandishing his Maggo.*
+**Trey** _(04-Jun-20 05:23 PM)_
 
-**Trey** *(04-Jun-20 05:23 PM)*
 > Garrick: It shoots bees.
 
-**Zander** *(04-Jun-20 05:23 PM)*
+**Zander** _(04-Jun-20 05:23 PM)_
+
 > Emmett: "Herte? What are you? Fermian?"
 
-**Zander** *(04-Jun-20 05:23 PM)*
+**Zander** _(04-Jun-20 05:23 PM)_
 
+_Richard was slowly crawling away._
 
-*Richard was slowly crawling away.*
+**Trey** _(04-Jun-20 05:24 PM)_
 
-**Trey** *(04-Jun-20 05:24 PM)*
+_Garrick replaces his Khopesh with a Hammer._
 
+**Preston** _(04-Jun-20 05:24 PM)_
 
-*Garrick replaces his Khopesh with a Hammer.*
-
-**Preston** *(04-Jun-20 05:24 PM)*
 > Volentina: I uh, ok this can work.
 
-**Charles** *(04-Jun-20 05:24 PM)*
+**Charles** _(04-Jun-20 05:24 PM)_
 
+_Vargas stabs him a bunch._
 
-*Vargas stabs him a bunch.*
+**Brody** _(04-Jun-20 05:24 PM)_
 
-**Brody** *(04-Jun-20 05:24 PM)*
+_Sanya stabs his pant leg, keeping him stuck._
 
+**Trey** _(04-Jun-20 05:24 PM)_
 
-*Sanya stabs his pant leg, keeping him stuck.*
-
-**Trey** *(04-Jun-20 05:24 PM)*
 > Garrick: I prefer ranged, but I can work with this.
 
-**Zander** *(04-Jun-20 05:24 PM)*
+**Zander** _(04-Jun-20 05:24 PM)_
 8ball Do the Llamanians start to fire?
 
-**FFBot** *(04-Jun-20 05:24 PM)*
+**FFBot** _(04-Jun-20 05:24 PM)_
 Yigga.
 
-**Charles** *(04-Jun-20 05:25 PM)*
+**Charles** _(04-Jun-20 05:25 PM)_
 
+_Vargas runs over there._
 
-*Vargas runs over there.*
+**Brody** _(04-Jun-20 05:25 PM)_
 
-**Brody** *(04-Jun-20 05:25 PM)*
 > Sanya: No no, you don't escape from me.
 
-**Trey** *(04-Jun-20 05:25 PM)*
+**Trey** _(04-Jun-20 05:25 PM)_
 8ball Does Garrick throw the Hammer and knock a few down like bowling pins
 
-**FFBot** *(04-Jun-20 05:25 PM)*
+**FFBot** _(04-Jun-20 05:25 PM)_
 Of course!
 
-**Brody** *(04-Jun-20 05:25 PM)*
+**Brody** _(04-Jun-20 05:25 PM)_
+
 > Sanya: You're my prey now.
 
-**Charles** *(04-Jun-20 05:25 PM)*
+**Charles** _(04-Jun-20 05:25 PM)_
 
+_Vargas slashes 2 down._
 
-*Vargas slashes 2 down.*
+**Zander** _(04-Jun-20 05:25 PM)_
 
-**Zander** *(04-Jun-20 05:25 PM)*
+_Richard struggles to take off his pants._
 
+**Brody** _(04-Jun-20 05:25 PM)_
 
-*Richard struggles to take off his pants.*
-
-**Brody** *(04-Jun-20 05:25 PM)*
 > Sanya: Gross, dude. Take your death with dignity.
 
-**Zander** *(04-Jun-20 05:25 PM)*
+**Zander** _(04-Jun-20 05:25 PM)_
 
+_The Llamanians block Vargas's swords with their Riot Shields._
 
-*The Llamanians block Vargas's swords with their Riot Shields.*
+**Preston** _(04-Jun-20 05:26 PM)_
 
-**Preston** *(04-Jun-20 05:26 PM)*
 > Volentina: Down!
 
-**Brody** *(04-Jun-20 05:26 PM)*
+**Brody** _(04-Jun-20 05:26 PM)_
 8ball Does Sanya stab his hand in place?
 
-**FFBot** *(04-Jun-20 05:26 PM)*
+**FFBot** _(04-Jun-20 05:26 PM)_
 My reply is no.
 
-**Brody** *(04-Jun-20 05:26 PM)*
+**Brody** _(04-Jun-20 05:26 PM)_
+
 > Sanya: I'll let you have a bit of fun.
 
-**Zander** *(04-Jun-20 05:26 PM)*
+**Zander** _(04-Jun-20 05:26 PM)_
 
+_Richard ends up taking his pants off and tries to make a run for it, holding his chest._
 
-*Richard ends up taking his pants off and tries to make a run for it, holding his chest.*
-
-**Charles** *(04-Jun-20 05:26 PM)*
+**Charles** _(04-Jun-20 05:26 PM)_
 8ball does Vargas kill all intruders.
 
-**FFBot** *(04-Jun-20 05:26 PM)*
+**FFBot** _(04-Jun-20 05:26 PM)_
 Nyet.
 
-**Brody** *(04-Jun-20 05:26 PM)*
+**Brody** _(04-Jun-20 05:26 PM)_
+
 > Sanya: It's fun to watch you struggle.
 
-**Trey** *(04-Jun-20 05:27 PM)*
+**Trey** _(04-Jun-20 05:27 PM)_
 
+_Garrick pulls out a vial of Liquid Death._
 
-*Garrick pulls out a vial of Liquid Death.*
+**Zander** _(04-Jun-20 05:27 PM)_
 
-**Zander** *(04-Jun-20 05:27 PM)*
+_One of the Llamanians shoot directly at Sanya while she was distracted._
 
-
-*One of the Llamanians shoot directly at Sanya while she was distracted.*
-
-**Preston** *(04-Jun-20 05:27 PM)*
+**Preston** _(04-Jun-20 05:27 PM)_
 8ball Does Volentina successfully fire the Bee Gun?
 
-**FFBot** *(04-Jun-20 05:27 PM)*
+**FFBot** _(04-Jun-20 05:27 PM)_
 No moment.
 
-**Brody** *(04-Jun-20 05:27 PM)*
+**Brody** _(04-Jun-20 05:27 PM)_
+
 > Sanya: Shi-
 
-**Brody** *(04-Jun-20 05:27 PM)*
+**Brody** _(04-Jun-20 05:27 PM)_
 
+_She falls to the ground_
 
-*She falls to the ground*
+**Brody** _(04-Jun-20 05:27 PM)_
 
-**Brody** *(04-Jun-20 05:27 PM)*
 > Sanya: Ow.
 
-**Preston** *(04-Jun-20 05:27 PM)*
+**Preston** _(04-Jun-20 05:27 PM)_
+
 > Volentina: How do I fire this thing???
 
-**Trey** *(04-Jun-20 05:28 PM)*
+**Trey** _(04-Jun-20 05:28 PM)_
 
+_Garrick flies up and spills the Liquid Death all over the Llamanians. It hits, like, half of them._
 
-*Garrick flies up and spills the Liquid Death all over the Llamanians. It hits, like, half of them.*
+**Brody** _(04-Jun-20 05:28 PM)_
 
-**Brody** *(04-Jun-20 05:28 PM)*
+_D: Get Up. You've had worse._
 
+**Trey** _(04-Jun-20 05:28 PM)_
 
-*D: Get Up. You've had worse.*
-
-**Trey** *(04-Jun-20 05:28 PM)*
 > Garrick: JUST PULL THE TRIGGER OR SOMETHING!
 
-**Charles** *(04-Jun-20 05:28 PM)*
+**Charles** _(04-Jun-20 05:28 PM)_
 
+_Vargas killls the remaining Llamanians a second later._
 
-*Vargas killls the remaining Llamanians a second later.*
+**Zander** _(04-Jun-20 05:28 PM)_
 
-**Zander** *(04-Jun-20 05:28 PM)*
+_Richard hobbles to the crew quarters, tripping over the immense amount of desk and door rubble._
 
+**Zander** _(04-Jun-20 05:28 PM)_
 
-*Richard hobbles to the crew quarters, tripping over the immense amount of desk and door rubble.*
-
-**Zander** *(04-Jun-20 05:28 PM)*
 > Emmett: "MY EYES!"
 
-**Preston** *(04-Jun-20 05:28 PM)*
+**Preston** _(04-Jun-20 05:28 PM)_
+
 > Volentina: WHERE'S THE TRIGGER?!
 
-**Zander** *(04-Jun-20 05:28 PM)*
+**Zander** _(04-Jun-20 05:28 PM)_
+
 > Emmett: "I'M BURNING!"
 
-**Charles** *(04-Jun-20 05:28 PM)*
+**Charles** _(04-Jun-20 05:28 PM)_
 
+_Vargas tackles Richard._
 
-*Vargas tackles Richard.*
+**Brody** _(04-Jun-20 05:28 PM)_
 
-**Brody** *(04-Jun-20 05:28 PM)*
+_Sanya throws her knife at the firing Llama, killing him_
 
+**Zander** _(04-Jun-20 05:28 PM)_
 
-*Sanya throws her knife at the firing Llama, killing him*
+_They proceed to shoot at Garrick in particular now. One of them has an anti-spectral bayonet. He's swiping at Garrick._
 
-**Zander** *(04-Jun-20 05:28 PM)*
+**Charles** _(04-Jun-20 05:29 PM)_
 
+_Vargas goes to help sayna._
 
-*They proceed to shoot at Garrick in particular now. One of them has an anti-spectral bayonet. He's swiping at Garrick.*
+**Brody** _(04-Jun-20 05:29 PM)_
 
-**Charles** *(04-Jun-20 05:29 PM)*
-
-
-*Vargas goes to help sayna.*
-
-**Brody** *(04-Jun-20 05:29 PM)*
 > Sanya: I'm going after Richard. Go help the others.
 
-**Charles** *(04-Jun-20 05:29 PM)*
+**Charles** _(04-Jun-20 05:29 PM)_
+
 > Vargas: I just did.
 
-**Trey** *(04-Jun-20 05:29 PM)*
+**Trey** _(04-Jun-20 05:29 PM)_
 
+_Garrick is still floating above them._
 
-*Garrick is still floating above them.*
+**Zander** _(04-Jun-20 05:29 PM)_
 
-**Zander** *(04-Jun-20 05:29 PM)*
+_Emmett notices Richard._
 
+**Zander** _(04-Jun-20 05:29 PM)_
 
-*Emmett notices Richard.*
-
-**Zander** *(04-Jun-20 05:29 PM)*
 > Emmett: You okay there, dude?
 
-**Brody** *(04-Jun-20 05:29 PM)*
+**Brody** _(04-Jun-20 05:29 PM)_
 
+_Sanya starts running after Richard_
 
-*Sanya starts running after Richard*
+**Brody** _(04-Jun-20 05:29 PM)_
 
-**Brody** *(04-Jun-20 05:29 PM)*
 > Sanya: Shit. He found Emmett!
 
-**Charles** *(04-Jun-20 05:30 PM)*
+**Charles** _(04-Jun-20 05:30 PM)_
 
+\*\*
 
-*\*
-
-**Charles** *(04-Jun-20 05:30 PM)*
+**Charles** _(04-Jun-20 05:30 PM)_
 \
 
-**Charles** *(04-Jun-20 05:30 PM)*
+**Charles** _(04-Jun-20 05:30 PM)_
 \
 
-**Charles** *(04-Jun-20 05:30 PM)*
+**Charles** _(04-Jun-20 05:30 PM)_
 |
 
 \8
 
-**Charles** *(04-Jun-20 05:30 PM)*
+**Charles** _(04-Jun-20 05:30 PM)_
 \
 
-**Zander** *(04-Jun-20 05:30 PM)*
+**Zander** _(04-Jun-20 05:30 PM)_
+
 > Emmett: "What?"
 
-**Preston** *(04-Jun-20 05:30 PM)*
+**Preston** _(04-Jun-20 05:30 PM)_
 Volentina finally finds the trigger and unleashes bees at two Llamanians.
 
-**Brody** *(04-Jun-20 05:30 PM)*
+**Brody** _(04-Jun-20 05:30 PM)_
+
 > Sanya: Shit-
 
-**Trey** *(04-Jun-20 05:30 PM)*
+**Trey** _(04-Jun-20 05:30 PM)_
+
 > Garrick: BEEEEEEEES!!
 
-**Brody** *(04-Jun-20 05:30 PM)*
+**Brody** _(04-Jun-20 05:30 PM)_
 
+_Sanya trips over rubble._
 
-*Sanya trips over rubble.*
+**Zander** _(04-Jun-20 05:30 PM)_
 
-**Zander** *(04-Jun-20 05:30 PM)*
+_Emmett comes out of the room to find Richard and Sanya fallen over his rubble._
 
+**Brody** _(04-Jun-20 05:30 PM)_
 
-*Emmett comes out of the room to find Richard and Sanya fallen over his rubble.*
-
-**Brody** *(04-Jun-20 05:30 PM)*
 > Sanya: Emmett!
 
-**Brody** *(04-Jun-20 05:30 PM)*
+**Brody** _(04-Jun-20 05:30 PM)_
+
 > Sanya: Look out!
 
-**Trey** *(04-Jun-20 05:30 PM)*
+**Trey** _(04-Jun-20 05:30 PM)_
 
+_The bees swarm around the Llamanians and also start going towards Volentina._
 
-*The bees swarm around the Llamanians and also start going towards Volentina.*
+**Preston** _(04-Jun-20 05:31 PM)_
 
-**Preston** *(04-Jun-20 05:31 PM)*
 > Volentina: Shit.
 
-**Zander** *(04-Jun-20 05:31 PM)*
+**Zander** _(04-Jun-20 05:31 PM)_
+
 > Emmett: Well, I'll see you later, Llamanian. Or Richard. Whatever.
 
-*Emmett fires at Richard.*
+_Emmett fires at Richard._
 
-**Zander** *(04-Jun-20 05:31 PM)*
+**Zander** _(04-Jun-20 05:31 PM)_
+
 > Emmett: "A BIOGEN-"
 
-**Preston** *(04-Jun-20 05:31 PM)*
+**Preston** _(04-Jun-20 05:31 PM)_
 8ball Does Volentina run back successfully escaping the the bees?
 
-**FFBot** *(04-Jun-20 05:31 PM)*
+**FFBot** _(04-Jun-20 05:31 PM)_
 Sí.
 
-**Zander** *(04-Jun-20 05:31 PM)*
+**Zander** _(04-Jun-20 05:31 PM)_
 
+_A swab of maggots entered his orifices, eating his organs from the inside out._
 
-*A swab of maggots entered his orifices, eating his organs from the inside out.*
+**Zander** _(04-Jun-20 05:31 PM)_
 
-**Zander** *(04-Jun-20 05:31 PM)*
 > Emmett: That's gruesome!
 
-**Brody** *(04-Jun-20 05:32 PM)*
+**Brody** _(04-Jun-20 05:32 PM)_
+
 > Sanya: Dude, gross. I was going to eat that.
 
-**Brody** *(04-Jun-20 05:32 PM)*
+**Brody** _(04-Jun-20 05:32 PM)_
 
+_Sanya picks herself up and dusts herself off._
 
-*Sanya picks herself up and dusts herself off.*
-
-**Trey** *(04-Jun-20 05:32 PM)*
+**Trey** _(04-Jun-20 05:32 PM)_
 sloppy richard
 
-**Brody** *(04-Jun-20 05:33 PM)*
+**Brody** _(04-Jun-20 05:33 PM)_
+
 > Sanya: Damn, one of them ruined my shirt.
 
-**Zander** *(04-Jun-20 05:33 PM)*
+**Zander** _(04-Jun-20 05:33 PM)_
 
+_Emmett stretched._
 
-*Emmett stretched.*
 > Emmett: Hey, can you guys clean up after me?
 
-**Zander** *(04-Jun-20 05:33 PM)*
+**Zander** _(04-Jun-20 05:33 PM)_
+
 > Emmett: I'm going to bed.
 
-**Brody** *(04-Jun-20 05:33 PM)*
+**Brody** _(04-Jun-20 05:33 PM)_
+
 > Sanya: With someone else in your bed?
 
-**Trey** *(04-Jun-20 05:33 PM)*
+**Trey** _(04-Jun-20 05:33 PM)_
 
+_Garrick goes back inside the ship, having dealt with the Llamanians._
 
-*Garrick goes back inside the ship, having dealt with the Llamanians.*
+**Preston** _(04-Jun-20 05:34 PM)_
 
-**Preston** *(04-Jun-20 05:34 PM)*
 > Volentina: Hey, you want this back?
 
-**Charles** *(04-Jun-20 05:34 PM)*
+**Charles** _(04-Jun-20 05:34 PM)_
+
 > Vargas: Richard hit me.
 
-**Trey** *(04-Jun-20 05:34 PM)*
+**Trey** _(04-Jun-20 05:34 PM)_
+
 > Garrick: Yeah, thanks.
 
-*He pockets the Bee Gun.*
+_He pockets the Bee Gun._
 
-**Charles** *(04-Jun-20 05:35 PM)*
+**Charles** _(04-Jun-20 05:35 PM)_
+
 > Vargas: Im dying.
 
-**Preston** *(04-Jun-20 05:35 PM)*
+**Preston** _(04-Jun-20 05:35 PM)_
 She gave a nod with a sigh before sitting down on the floor against the wall, catching her breath.
 
-**Zander** *(04-Jun-20 05:35 PM)*
+**Zander** _(04-Jun-20 05:35 PM)_
 
+_Emmett takes his pink nightshirt out and takes off his current shirt._
 
-*Emmett takes his pink nightshirt out and takes off his current shirt.*
 > Emmett: We bonded, I think.
 
-**Trey** *(04-Jun-20 05:35 PM)*
+**Trey** _(04-Jun-20 05:35 PM)_
 
+_Garrick cries tears of joy after hearing the good news._
 
-*Garrick cries tears of joy after hearing the good news.*
+**Zander** _(04-Jun-20 05:35 PM)_
 
-**Zander** *(04-Jun-20 05:35 PM)*
 > Emmett: I don't think I have another bed, anyhow.
 
-**Brody** *(04-Jun-20 05:36 PM)*
+**Brody** _(04-Jun-20 05:36 PM)_
+
 > Sanya: Well then. Be safe, you too.
 
-*Sanya walks back to her room.*
+_Sanya walks back to her room._
 
-**Charles** *(04-Jun-20 05:36 PM)*
+**Charles** _(04-Jun-20 05:36 PM)_
 Bye Bye.
 
-**Zander** *(04-Jun-20 05:36 PM)*
+**Zander** _(04-Jun-20 05:36 PM)_
 8ball Does Garrick toss something at Vargas out of pure joy? If so, does it somehow heal his body entirely?
 
-**FFBot** *(04-Jun-20 05:36 PM)*
+**FFBot** _(04-Jun-20 05:36 PM)_
 My reply is no.
 
-**Trey** *(04-Jun-20 05:36 PM)*
+**Trey** _(04-Jun-20 05:36 PM)_
 sanya/garrick moment
 
-**Charles** *(04-Jun-20 05:37 PM)*
+**Charles** _(04-Jun-20 05:37 PM)_
 8ball does dfjh87vbcgbni]0om
 
-**Charles** *(04-Jun-20 05:37 PM)*
+**Charles** _(04-Jun-20 05:37 PM)_
 [l]-[
 
-**FFBot** *(04-Jun-20 05:37 PM)*
+**FFBot** _(04-Jun-20 05:37 PM)_
 Yes, but in a monotonous tone.
 
-**Trey** *(04-Jun-20 05:38 PM)*
+**Trey** _(04-Jun-20 05:38 PM)_
+
 > Garrick: Well... Volentina, you're in charge of cleaning up.
 
-**Brody** *(04-Jun-20 05:38 PM)*
+**Brody** _(04-Jun-20 05:38 PM)_
+
 > Sanya: Good work out there, Garrick. You may have the makings of an assassin.
 
-**Preston** *(04-Jun-20 05:38 PM)*
+**Preston** _(04-Jun-20 05:38 PM)_
 
+_She gives him a thumbs up before slowly getting to her feet and heading off towards the cleaning closet._
 
-*She gives him a thumbs up before slowly getting to her feet and heading off towards the cleaning closet.*
+**Zander** _(04-Jun-20 05:38 PM)_
 
-**Zander** *(04-Jun-20 05:38 PM)*
+_Emmett closes his hatch, getting back in his bed. In a few seconds, he realized he forgot to ask one of them to bump up the AC._
 
+**Charles** _(04-Jun-20 05:38 PM)_
 
-*Emmett closes his hatch, getting back in his bed. In a few seconds, he realized he forgot to ask one of them to bump up the AC.*
+_Vargas stay in medbayfor a week_
 
-**Charles** *(04-Jun-20 05:38 PM)*
+**Charles** _(04-Jun-20 05:38 PM)_
 
-
-*Vargas stay in medbayfor a week*
-
-**Charles** *(04-Jun-20 05:38 PM)*
 > Vargas: I have to stay in medbay for a week.
 
-**Trey** *(04-Jun-20 05:39 PM)*
+**Trey** _(04-Jun-20 05:39 PM)_
+
 > Garrick: Thanks, Sanya. I've gotten a lot of practice in the past few years, I guess it paid off.
 
-**Charles** *(04-Jun-20 05:40 PM)*
+**Charles** _(04-Jun-20 05:40 PM)_
+
 > Vargas: Please visit.
 
-**Zander** *(04-Jun-20 05:40 PM)*
+**Zander** _(04-Jun-20 05:40 PM)_
 Seth
 Emmett
 Sanya + Garrick
@@ -21853,2864 +24115,3084 @@ Rachell
 Theylin, Vargas
 (edited)
 
-**Charles** *(04-Jun-20 05:40 PM)*
+**Charles** _(04-Jun-20 05:40 PM)_
 
+_Vargas passes out from exertion and blood loss._
 
-*Vargas passes out from exertion and blood loss.*
-
-**Trey** *(04-Jun-20 05:42 PM)*
+**Trey** _(04-Jun-20 05:42 PM)_
 Space Rule #92: Don't do drugs, kids.
 
-**Charles** *(08-Jun-20 03:12 PM)*
+**Charles** _(08-Jun-20 03:12 PM)_
 
+_Vargas wakes up_
 
-*Vargas wakes up*
-
-**Zander** *(09-Jun-20 04:45 PM)*
+**Zander** _(09-Jun-20 04:45 PM)_
 8ball Is the ship setting course to Zarazoga-9?
 
-**FFBot** *(09-Jun-20 04:45 PM)*
+**FFBot** _(09-Jun-20 04:45 PM)_
 Spanish no.
 
-**Charles** *(09-Jun-20 04:46 PM)*
+**Charles** _(09-Jun-20 04:46 PM)_
 8ball does the ship head towards Zarazoga-9?
 
-**FFBot** *(09-Jun-20 04:46 PM)*
+**FFBot** _(09-Jun-20 04:46 PM)_
 Outlook bad.
 
-**Michael** *(09-Jun-20 04:46 PM)*
+**Michael** _(09-Jun-20 04:46 PM)_
 
+_Is currently working on his prototypes_
 
-*Is currently working on his prototypes*
+**Zander** _(09-Jun-20 04:46 PM)_
 
-**Zander** *(09-Jun-20 04:46 PM)*
+_Emmett stretches and wakes up. He was pretty well rested, given that he was the earliest to fall and the latest to wake up._
 
+**Charles** _(09-Jun-20 04:47 PM)_
 
-*Emmett stretches and wakes up. He was pretty well rested, given that he was the earliest to fall and the latest to wake up.*
+_Vargas gets up and falls._
 
-**Charles** *(09-Jun-20 04:47 PM)*
+**Zander** _(09-Jun-20 04:47 PM)_
 
+_Emmett puts on his communicator._
 
-*Vargas gets up and falls.*
-
-**Zander** *(09-Jun-20 04:47 PM)*
-
-
-*Emmett puts on his communicator.*
 > Emmett: Goood morning, everyone!
 
-**Michael** *(09-Jun-20 04:47 PM)*
+**Michael** _(09-Jun-20 04:47 PM)_
+
 > Theylin: Hey Emmett
 
-**Preston** *(09-Jun-20 04:47 PM)*
+**Preston** _(09-Jun-20 04:47 PM)_
 
+_Volentina was just wandering around the place, cleaning around a little_
 
-*Volentina was just wandering around the place, cleaning around a little*
+**Charles** _(09-Jun-20 04:47 PM)_
 
-**Charles** *(09-Jun-20 04:47 PM)*
-> Vargas: *Morning .
+> Vargas: \*Morning .
 
-**Michael** *(09-Jun-20 04:48 PM)*
+**Michael** _(09-Jun-20 04:48 PM)_
+
 > Theylin: So what's the plan for today?
 
-**Zander** *(09-Jun-20 04:48 PM)*
+**Zander** _(09-Jun-20 04:48 PM)_
 
+_Mateo does a routine check of his belongings, finding everything is in place._
 
-*Mateo does a routine check of his belongings, finding everything is in place.*
+**Michael** _(09-Jun-20 04:48 PM)_
 
-**Michael** *(09-Jun-20 04:48 PM)*
+_starts walking towards the kitchen_
 
+**Zander** _(09-Jun-20 04:48 PM)_
 
-*starts walking towards the kitchen*
-
-**Zander** *(09-Jun-20 04:48 PM)*
 > Emmett: Good as usual.
 
-
-*The moment Emmett got out of his bed, he noticed how messy and stained his bed was. Sheesh, he had a rough night.*
+_The moment Emmett got out of his bed, he noticed how messy and stained his bed was. Sheesh, he had a rough night._
 8ball Is there a random snack sitting on his bedside table, there from an unknown person?
 
-**FFBot** *(09-Jun-20 04:48 PM)*
+**FFBot** _(09-Jun-20 04:48 PM)_
 No.
 
-**Charles** *(09-Jun-20 04:49 PM)*
+**Charles** _(09-Jun-20 04:49 PM)_
+
 > Vargas: Can i get some help getting up? I'm to weak to walk on my own.
 
-**Zander** *(09-Jun-20 04:49 PM)*
+**Zander** _(09-Jun-20 04:49 PM)_
+
 > Emmett: Huh. I need a shower.
 
-**Michael** *(09-Jun-20 04:49 PM)*
+**Michael** _(09-Jun-20 04:49 PM)_
 8ball does Theylin find anyone else in the kitchen?
 
-**FFBot** *(09-Jun-20 04:49 PM)*
+**FFBot** _(09-Jun-20 04:49 PM)_
 Neigh.
 
-**Michael** *(09-Jun-20 04:49 PM)*
+**Michael** _(09-Jun-20 04:49 PM)_
 
+_starts speaking through his communicator_
 
-*starts speaking through his communicator*
 > Theylin: Hey Emmett, where is the food exactly?
 
-**Zander** *(09-Jun-20 04:49 PM)*
+**Zander** _(09-Jun-20 04:49 PM)_
+
 > Emmett: Anyhow, everyone, we're going to a mystery place. Garrick and Sanya call it a treat or a vacation on their behalf.
 
+_Mateo walks out to the kitchen to prepare something simple_
 
-*Mateo walks out to the kitchen to prepare something simple*
+**Michael** _(09-Jun-20 04:50 PM)_
 
-**Michael** *(09-Jun-20 04:50 PM)*
 > Theylin: Oh, Hello uhhhh..... what's your name? I don't believe we've had the pleasure of meeting each other
 
-**Zander** *(09-Jun-20 04:50 PM)*
+**Zander** _(09-Jun-20 04:50 PM)_
+
 > Emmett: Brahmin Biscuts. Straight classic.
 > Emmett: Food's in the fridge or the cupboards, Theylin.
 
-**Preston** *(09-Jun-20 04:50 PM)*
+**Preston** _(09-Jun-20 04:50 PM)_
 8ball does volentina pull a Nutri-grain bar in her scarf?
 
-**FFBot** *(09-Jun-20 04:50 PM)*
+**FFBot** _(09-Jun-20 04:50 PM)_
 Spell it with me now, Y-E-S.
 
-**Charles** *(09-Jun-20 04:50 PM)*
+**Charles** _(09-Jun-20 04:50 PM)_
+
 > Vargas: Anyone?
 
-**Zander** *(09-Jun-20 04:51 PM)*
+**Zander** _(09-Jun-20 04:51 PM)_
+
 > Emmett: Name's Mateo. Et toi?
 
-**Preston** *(09-Jun-20 04:51 PM)*
+**Preston** _(09-Jun-20 04:51 PM)_
 
+_Volentina begins humming quietly to herself as she nibbles on the bar_
 
-*Volentina begins humming quietly to herself as she nibbles on the bar*
+**Charles** _(09-Jun-20 04:51 PM)_
 
-**Charles** *(09-Jun-20 04:51 PM)*
 > Vargas: Can i at least get some crutches.
 
-**Charles** *(09-Jun-20 04:51 PM)*
+**Charles** _(09-Jun-20 04:51 PM)_
+
 > Vargas: Whatever.
 
-**Michael** *(09-Jun-20 04:52 PM)*
+**Michael** _(09-Jun-20 04:52 PM)_
+
 > Theylin: Name's Theylin, joined up about a week ago. Pleasure to make your acquaintance.
 
-*wipes off the motor oil that's on his hands and holds out his hands to shake hands with Mateo*
+_wipes off the motor oil that's on his hands and holds out his hands to shake hands with Mateo_
 
-**Charles** *(09-Jun-20 04:52 PM)*
+**Charles** _(09-Jun-20 04:52 PM)_
 
+_Vargas slowly walks to the kitchen._
 
-*Vargas slowly walks to the kitchen.*
+**Charles** _(09-Jun-20 04:52 PM)_
 
-**Charles** *(09-Jun-20 04:52 PM)*
+_Vargas ignores Theylin because of his greasy hands._
 
+**Zander** _(09-Jun-20 04:52 PM)_
 
-*Vargas ignores Theylin because of his greasy hands.*
-
-**Zander** *(09-Jun-20 04:52 PM)*
 > Emmett: You look like the first grease monkey on this ship.
 
-**Charles** *(09-Jun-20 04:53 PM)*
+**Charles** _(09-Jun-20 04:53 PM)_
+
 > Vargas: Funny.
 
-**Charles** *(09-Jun-20 04:53 PM)*
+**Charles** _(09-Jun-20 04:53 PM)_
 
+_Vargas chuckles._
 
-*Vargas chuckles.*
+**Michael** _(09-Jun-20 04:53 PM)_
 
-**Michael** *(09-Jun-20 04:53 PM)*
 > Theylin: I was up for the position of a Grand Engineer from where I came from, had to turn it down due to needing to go on my pilgrimage
 
-**Preston** *(09-Jun-20 04:54 PM)*
+**Preston** _(09-Jun-20 04:54 PM)_
+
 > Volentina: Just please don't get things messy
 
-*Volentina spoke to Theylin as she walked past*
+_Volentina spoke to Theylin as she walked past_
 
-**Zander** *(09-Jun-20 04:54 PM)*
+**Zander** _(09-Jun-20 04:54 PM)_
+
 > Emmett: Everyone else seems either batshi- um, batCRAP, crazy, or wanted in some sector.
 
-**Charles** *(09-Jun-20 04:54 PM)*
+**Charles** _(09-Jun-20 04:54 PM)_
+
 > Vargas: Not meeeeeee.
 
-**Michael** *(09-Jun-20 04:55 PM)*
+**Michael** _(09-Jun-20 04:55 PM)_
+
 > Theylin: That sucks, well hopefully I'll stay not crazy.
 
-**Zander** *(09-Jun-20 04:55 PM)*
+**Zander** _(09-Jun-20 04:55 PM)_
+
 > Emmett: You never know in this world.
 
-**Preston** *(09-Jun-20 04:56 PM)*
+**Preston** _(09-Jun-20 04:56 PM)_
 
+_Volentina broke her Nutri-Grain bar in half and held it out towards Mateo_
 
-*Volentina broke her Nutri-Grain bar in half and held it out towards Mateo*
 > Volentina: I don't believe I've seen you here yet?
 
-**Charles** *(09-Jun-20 04:56 PM)*
+**Charles** _(09-Jun-20 04:56 PM)_
 
+_Vargas shakes his 8ball and ask_
 
-*Vargas shakes his 8ball and ask*
-> Vargas: Should i have cereal for breakfast? 
+> Vargas: Should i have cereal for breakfast?
 
-**Michael** *(09-Jun-20 04:56 PM)*
+**Michael** _(09-Jun-20 04:56 PM)_
+
 > Theylin: True that dude, now I gotta get back before my prototype combusts on itself, if you ever need any tune ups on your gear or equipment just head to my room.
 
-**Zander** *(09-Jun-20 04:56 PM)*
+**Zander** _(09-Jun-20 04:56 PM)_
+
 > Emmett: Probably not. I've spent this week tending to my gear.
 
-**Zander** *(09-Jun-20 04:56 PM)*
+**Zander** _(09-Jun-20 04:56 PM)_
 
+_Mateo gladly accepts the grain bar._
 
-*Mateo gladly accepts the grain bar.*
+**Charles** _(09-Jun-20 04:56 PM)_
 
-**Charles** *(09-Jun-20 04:56 PM)*
 > Vargas: Could you sharpen my swords?
 
-**Michael** *(09-Jun-20 04:57 PM)*
+**Michael** _(09-Jun-20 04:57 PM)_
+
 > Theylin: You want me to waste my time doing something that'll take you 10 minutes with a whet stone?
 
-**Preston** *(09-Jun-20 04:58 PM)*
+**Preston** _(09-Jun-20 04:58 PM)_
 
+_She gives a subtle nod before going back to wandering around the ship_
 
-*She gives a subtle nod before going back to wandering around the ship*
+**Charles** _(09-Jun-20 04:58 PM)_
 
-**Charles** *(09-Jun-20 04:58 PM)*
 > Vargas: Where's Emmet?
 
-**Michael** *(09-Jun-20 04:58 PM)*
+**Michael** _(09-Jun-20 04:58 PM)_
 
+_sigh_
 
-*sigh*
 > Theylin: Bring it by my shop and I'll take a look at it.
 
-**Charles** *(09-Jun-20 05:00 PM)*
+**Charles** _(09-Jun-20 05:00 PM)_
 8ball does Vargas have biotenic swords?
 
-**FFBot** *(09-Jun-20 05:00 PM)*
+**FFBot** _(09-Jun-20 05:00 PM)_
 Yay.
 
-**Zander** *(09-Jun-20 05:02 PM)*
+**Zander** _(09-Jun-20 05:02 PM)_
 8ball Did Mateo manage to keep his entire arsenal when passing through checkpoints?
 
-**FFBot** *(09-Jun-20 05:02 PM)*
+**FFBot** _(09-Jun-20 05:02 PM)_
 Don't count on it.
 
-**Zander** *(09-Jun-20 05:03 PM)*
+**Zander** _(09-Jun-20 05:03 PM)_
 
+_As soon as Emmett reached the bathroom, Emmett felt a weight upon his neck. He checked and noticed a leash. Emmett panicked._
 
-*As soon as Emmett reached the bathroom, Emmett felt a weight upon his neck. He checked and noticed a leash. Emmett panicked.*
 > Emmett: Fuck!
 
-**Zander** *(09-Jun-20 05:03 PM)*
+**Zander** _(09-Jun-20 05:03 PM)_
+
 > Emmett: Not again!
 
-**Trey** *(09-Jun-20 05:03 PM)*
+**Trey** _(09-Jun-20 05:03 PM)_
 I'll be on in a second
 
-**Zander** *(09-Jun-20 05:04 PM)*
+**Zander** _(09-Jun-20 05:04 PM)_
+
 > Emmett: Still rather disappointing I lost some of my arsenal.
 
-
-*Emmett tried to take off the leash to no avail.*
+_Emmett tried to take off the leash to no avail._
 
 > Emmett: Oh come on. Garrick?!
 
-**Michael** *(09-Jun-20 05:04 PM)*
+**Michael** _(09-Jun-20 05:04 PM)_
 8ball is Theylin able to draft up a blueprint to show one of the captains for approval?
 
-**FFBot** *(09-Jun-20 05:04 PM)*
+**FFBot** _(09-Jun-20 05:04 PM)_
 It is certain.
 
-**Michael** *(09-Jun-20 05:04 PM)*
+**Michael** _(09-Jun-20 05:04 PM)_
 
+_speaks through his communicator_
 
-*speaks through his communicator*
 > Theylin: Emmett please come to my room, I have something to show you
 
-**Zander** *(09-Jun-20 05:05 PM)*
+**Zander** _(09-Jun-20 05:05 PM)_
+
 > Emmett: Who is speaking, again?
 
-**Charles** *(09-Jun-20 05:05 PM)*
+**Charles** _(09-Jun-20 05:05 PM)_
+
 > Vargas: Vargas follows being noisy.
 
-**Michael** *(09-Jun-20 05:05 PM)*
+**Michael** _(09-Jun-20 05:05 PM)_
+
 > Theylin: Theylin a.k.a Waterboy
 
-**Charles** *(09-Jun-20 05:05 PM)*
+**Charles** _(09-Jun-20 05:05 PM)_
 
+_He whispers to himself._
 
-*He whispers to himself.*
+**Zander** _(09-Jun-20 05:05 PM)_
 
-**Zander** *(09-Jun-20 05:05 PM)*
-*
-(edited)
+-   (edited)
 
-**Zander** *(09-Jun-20 05:05 PM)*
-> Emmett: I'll be in there then. Wait a moment. You don't have a room.
+    **Zander** _(09-Jun-20 05:05 PM)_
 
-**Preston** *(09-Jun-20 05:06 PM)*
+    > Emmett: I'll be in there then. Wait a moment. You don't have a room.
 
+    **Preston** _(09-Jun-20 05:06 PM)_
 
-*Volentina would soon circle back around, running into Mateo*
-> Volentina: Hello again.
+    _Volentina would soon circle back around, running into Mateo_
 
-**Zander** *(09-Jun-20 05:07 PM)*
-> Emmett: Are you talking about the living block?
+    > Volentina: Hello again.
 
-**Michael** *(09-Jun-20 05:07 PM)*
-> Theylin: Yes Captain
+    **Zander** _(09-Jun-20 05:07 PM)_
 
-**Charles** *(09-Jun-20 05:07 PM)*
+    > Emmett: Are you talking about the living block?
 
+    **Michael** _(09-Jun-20 05:07 PM)_
 
-*Vargas crashes into Volantina trying to follow them.*
+    > Theylin: Yes Captain
 
-**Preston** *(09-Jun-20 05:07 PM)*
-8ball Does Volentina have a smooth stone to fidget with?
+    **Charles** _(09-Jun-20 05:07 PM)_
 
-**FFBot** *(09-Jun-20 05:07 PM)*
-Majority rules! Vote on it!
+    _Vargas crashes into Volantina trying to follow them._
 
-**Charles** *(09-Jun-20 05:07 PM)*
-> Vargas: Ow!
+    **Preston** _(09-Jun-20 05:07 PM)_
+    8ball Does Volentina have a smooth stone to fidget with?
 
-**Preston** *(09-Jun-20 05:08 PM)*
+    **FFBot** _(09-Jun-20 05:07 PM)_
+    Majority rules! Vote on it!
 
+    **Charles** _(09-Jun-20 05:07 PM)_
 
-*She was rubbing a stone in her hand*
+    > Vargas: Ow!
 
-**Zander** *(09-Jun-20 05:08 PM)*
+    **Preston** _(09-Jun-20 05:08 PM)_
 
+    _She was rubbing a stone in her hand_
 
-*Emmett took the end of the leash and walked himself over to the living room. He smelled like wet dog from all of his sweat in the night.*
+    **Zander** _(09-Jun-20 05:08 PM)_
 
-**Zander** *(09-Jun-20 05:08 PM)*
-> Emmett: Yes, They-lin?
+    _Emmett took the end of the leash and walked himself over to the living room. He smelled like wet dog from all of his sweat in the night._
 
-**Michael** *(09-Jun-20 05:09 PM)*
+    **Zander** _(09-Jun-20 05:08 PM)_
 
+    > Emmett: Yes, They-lin?
 
-*stares at Emmett's leash for a second*
-> Theylin: Why do you have a leash on?
+    **Michael** _(09-Jun-20 05:09 PM)_
 
-**Charles** *(09-Jun-20 05:09 PM)*
-> Vargas: What is that Volantina?
+    _stares at Emmett's leash for a second_
 
-**Zander** *(09-Jun-20 05:09 PM)*
-> Emmett: Garrick put it on me to prank me, I think.
+    > Theylin: Why do you have a leash on?
 
+    **Charles** _(09-Jun-20 05:09 PM)_
 
-*Mateo notices the fidgeting Volentina is doing.*
+    > Vargas: What is that Volantina?
 
-**Michael** *(09-Jun-20 05:09 PM)*
-> Theylin: That's a bruh moment
+    **Zander** _(09-Jun-20 05:09 PM)_
 
-**Zander** *(09-Jun-20 05:09 PM)*
-> Emmett: Habit?
-> Emmett: Either that, or Jess.
-> Emmett: Where is she, anyhow?
+    > Emmett: Garrick put it on me to prank me, I think.
 
-**Preston** *(09-Jun-20 05:10 PM)*
-> Volentina: A little bit yeah. Really noticeable?
+    _Mateo notices the fidgeting Volentina is doing._
 
-**Zander** *(09-Jun-20 05:10 PM)*
-◘
+    **Michael** _(09-Jun-20 05:09 PM)_
 
-**Preston** *(09-Jun-20 05:10 PM)*
-°
+    > Theylin: That's a bruh moment
 
-**Zander** *(09-Jun-20 05:10 PM)*
-▒
+    **Zander** _(09-Jun-20 05:09 PM)_
 
-**Michael** *(09-Jun-20 05:10 PM)*
-> Theylin: Okay, now for what I called you here for
+    > Emmett: Habit?
+    > Emmett: Either that, or Jess.
+    > Emmett: Where is she, anyhow?
 
-*pulls out his rough draft of his prototype*
-> Theylin: This is a small project I've been working on
+    **Preston** _(09-Jun-20 05:10 PM)_
 
-**Charles** *(09-Jun-20 05:10 PM)*
-> Vargas: I've got to go!
+    > Volentina: A little bit yeah. Really noticeable?
 
-**Zander** *(09-Jun-20 05:11 PM)*
-Æ
-> Emmett: O-kay...
+    **Zander** _(09-Jun-20 05:10 PM)_
+    ◘
 
-*Emmett sat next to Theylin on the couch.*
-Çest
+    **Preston** _(09-Jun-20 05:10 PM)_
+    °
 
-**Charles** *(09-Jun-20 05:11 PM)*
+    **Zander** _(09-Jun-20 05:10 PM)_
+    ▒
 
+    **Michael** _(09-Jun-20 05:10 PM)_
 
-*Vargas starts watching Theylin and Emmett.*
+    > Theylin: Okay, now for what I called you here for
 
-**Michael** *(09-Jun-20 05:11 PM)*
-> Theylin: This would have us require less fuel and allow our engines to partially be powered by solar power. I would like your permission to build a prototype and eventually implement it on our ship
+    _pulls out his rough draft of his prototype_
 
-**Zander** *(09-Jun-20 05:11 PM)*
-> Emmett: I mean you don't exactly try and hide it, do you?
+    > Theylin: This is a small project I've been working on
 
-**Preston** *(09-Jun-20 05:11 PM)*
-Ÿøû`rē Wêłčõmę
+    **Charles** _(09-Jun-20 05:10 PM)_
 
-**Trey** *(09-Jun-20 05:12 PM)*
-8ball did Garrick prank Emmett with the leash
+    > Vargas: I've got to go!
 
-**FFBot** *(09-Jun-20 05:12 PM)*
-Don't count on it.
+    **Zander** _(09-Jun-20 05:11 PM)_
+    Æ
 
-**Charles** *(09-Jun-20 05:12 PM)*
-> Vargas: WOOOOOOOOOOOW!
+    > Emmett: O-kay...
 
-*Vargas whispers to himself.*
+    _Emmett sat next to Theylin on the couch._
+    Çest
 
-**Preston** *(09-Jun-20 05:12 PM)*
-> Volentina: Well, I don't know that I'm doing it half the time so I would assume no.
+    **Charles** _(09-Jun-20 05:11 PM)_
 
-**Trey** *(09-Jun-20 05:12 PM)*
-It was jess
+    _Vargas starts watching Theylin and Emmett._
 
-**Zander** *(09-Jun-20 05:12 PM)*
-> Emmett: I guess I'm just overly perceptive.
+    **Michael** _(09-Jun-20 05:11 PM)_
 
-**Zander** *(09-Jun-20 05:13 PM)*
-> Emmett: Comes with the trade.
-> Emmett: Let me see that.
+    > Theylin: This would have us require less fuel and allow our engines to partially be powered by solar power. I would like your permission to build a prototype and eventually implement it on our ship
 
-*Emmett took the blueprints over and checked them out.*
+    **Zander** _(09-Jun-20 05:11 PM)_
 
-**Charles** *(09-Jun-20 05:13 PM)*
+    > Emmett: I mean you don't exactly try and hide it, do you?
 
+    **Preston** _(09-Jun-20 05:11 PM)_
+    Ÿøû`rē Wêłčõmę
 
-*Vargas just sits nearby eavsdropping.*
+    **Trey** _(09-Jun-20 05:12 PM)_
+    8ball did Garrick prank Emmett with the leash
 
-**Zander** *(09-Jun-20 05:13 PM)*
-8ball Can Emmett comprehend the blueprints?
+    **FFBot** _(09-Jun-20 05:12 PM)_
+    Don't count on it.
 
-**FFBot** *(09-Jun-20 05:13 PM)*
-Spell it with me now, Y-E-S.
+    **Charles** _(09-Jun-20 05:12 PM)_
 
-**Preston** *(09-Jun-20 05:14 PM)*
-> Volentina: Eagle eye, or just one to notice things?
+    > Vargas: WOOOOOOOOOOOW!
 
-**Zander** *(09-Jun-20 05:14 PM)*
-> Emmett: Yeesh, your writing is... It's something.
-> Emmett: Well, I'd be dead by now if I wasn't this perceptive.
-> Emmett: Did I mention my time in the GSS?
+    _Vargas whispers to himself._
 
-**Michael** *(09-Jun-20 05:14 PM)*
-> Theylin: Well, I'm used to writing underwater... sorry mate
+    **Preston** _(09-Jun-20 05:12 PM)_
 
-**Zander** *(09-Jun-20 05:14 PM)*
-> Emmett: Yeah, this can do. But I don't know if I can trust you with my baby.
+    > Volentina: Well, I don't know that I'm doing it half the time so I would assume no.
 
-**Preston** *(09-Jun-20 05:14 PM)*
+    **Trey** _(09-Jun-20 05:12 PM)_
+    It was jess
 
+    **Zander** _(09-Jun-20 05:12 PM)_
 
-*She gave a bit of a half shrug*
-> Volentina: Fair. And I can't say you have, do tell?
+    > Emmett: I guess I'm just overly perceptive.
 
-**Charles** *(09-Jun-20 05:14 PM)*
-> Vargas: No Mateo.
+    **Zander** _(09-Jun-20 05:13 PM)_
 
-**Michael** *(09-Jun-20 05:14 PM)*
-> Theylin: Plus the table in here isn't all that great
+    > Emmett: Comes with the trade.
+    > Emmett: Let me see that.
 
-**Zander** *(09-Jun-20 05:15 PM)*
-> Emmett: I was recruited for, um, my skills.
+    _Emmett took the blueprints over and checked them out._
 
-**Zander** *(09-Jun-20 05:15 PM)*
-> Emmett: Yeah, my skills.
+    **Charles** _(09-Jun-20 05:13 PM)_
 
-**Trey** *(09-Jun-20 05:15 PM)*
+    _Vargas just sits nearby eavsdropping._
 
+    **Zander** _(09-Jun-20 05:13 PM)_
+    8ball Can Emmett comprehend the blueprints?
 
-*Garrick emerges from the living quarters. He wasn't sleeping, he was just there.*
+    **FFBot** _(09-Jun-20 05:13 PM)_
+    Spell it with me now, Y-E-S.
 
-**Michael** *(09-Jun-20 05:15 PM)*
-> Theylin: If we could get a scrap ship for me to test a prototype on, we could test the feed back on the ship 
+    **Preston** _(09-Jun-20 05:14 PM)_
 
-**Charles** *(09-Jun-20 05:15 PM)*
-> Vargas: No kidding ya weeb.
+    > Volentina: Eagle eye, or just one to notice things?
 
-**Zander** *(09-Jun-20 05:15 PM)*
-> Emmett: These certain skills, may or may not have made me more qualified to get shot at.
+    **Zander** _(09-Jun-20 05:14 PM)_
 
-**Charles** *(09-Jun-20 05:15 PM)*
+    > Emmett: Yeesh, your writing is... It's something.
+    > Emmett: Well, I'd be dead by now if I wasn't this perceptive.
+    > Emmett: Did I mention my time in the GSS?
 
+    **Michael** _(09-Jun-20 05:14 PM)_
 
-*Vargas says jokingly.*
+    > Theylin: Well, I'm used to writing underwater... sorry mate
 
-**Zander** *(09-Jun-20 05:16 PM)*
+    **Zander** _(09-Jun-20 05:14 PM)_
 
+    > Emmett: Yeah, this can do. But I don't know if I can trust you with my baby.
 
-*Emmett hadn't noticed the ghost.*
-> Emmett: Getting a scrap ship will prove difficult.
+    **Preston** _(09-Jun-20 05:14 PM)_
 
-**Trey** *(09-Jun-20 05:16 PM)*
+    _She gave a bit of a half shrug_
 
+    > Volentina: Fair. And I can't say you have, do tell?
 
-*He flips on his comms.*
-> Garrick: Yo, Emmett. You're finally up.
+    **Charles** _(09-Jun-20 05:14 PM)_
 
-**Michael** *(09-Jun-20 05:16 PM)*
-> Theylin: Well we could always go back to the junkyard
+    > Vargas: No Mateo.
 
-**Trey** *(09-Jun-20 05:16 PM)*
-> Garrick: What's with the leash?
+    **Michael** _(09-Jun-20 05:14 PM)_
 
-**Preston** *(09-Jun-20 05:16 PM)*
-> Volentina: Sounds like you joined the military.
+    > Theylin: Plus the table in here isn't all that great
 
-*She let out a bit of laughter*
+    **Zander** _(09-Jun-20 05:15 PM)_
 
-**Charles** *(09-Jun-20 05:16 PM)*
-> Vargas: How about my old ship?
+    > Emmett: I was recruited for, um, my skills.
 
-**Michael** *(09-Jun-20 05:16 PM)*
-> Theylin: That place had all the materials there except for one.
+    **Zander** _(09-Jun-20 05:15 PM)_
 
-**Zander** *(09-Jun-20 05:16 PM)*
-> Emmett: Who new the military and Hell were synonymous.
-> Emmett: Yeah, I'm up. Get this leash off of me.
+    > Emmett: Yeah, my skills.
 
-*The leash had an obvious lock upon it.*
+    **Trey** _(09-Jun-20 05:15 PM)_
 
-**Charles** *(09-Jun-20 05:16 PM)*
-> Vargas: The one Seth wrecked!
+    _Garrick emerges from the living quarters. He wasn't sleeping, he was just there._
 
-**Preston** *(09-Jun-20 05:17 PM)*
-> Volentina: Close enough to each other anyway.
+    **Michael** _(09-Jun-20 05:15 PM)_
 
-**Zander** *(09-Jun-20 05:17 PM)*
-> Emmett: Yeah. Wish I would've known.
+    > Theylin: If we could get a scrap ship for me to test a prototype on, we could test the feed back on the ship
 
-**Charles** *(09-Jun-20 05:17 PM)*
-8ball does Vargas find the key?
+    **Charles** _(09-Jun-20 05:15 PM)_
 
-**FFBot** *(09-Jun-20 05:17 PM)*
-Yes, definitely.
+    > Vargas: No kidding ya weeb.
 
-**Charles** *(09-Jun-20 05:17 PM)*
-> Vargas: I found the key Emmett.
+    **Zander** _(09-Jun-20 05:15 PM)_
 
-**Preston** *(09-Jun-20 05:18 PM)*
-> Volentina: Join for one reason, end up being a body shield with a gun
+    > Emmett: These certain skills, may or may not have made me more qualified to get shot at.
 
-**Zander** *(09-Jun-20 05:18 PM)*
-8ball Does an alarm go off on Mateo's FitBot?
+    **Charles** _(09-Jun-20 05:15 PM)_
 
-**FFBot** *(09-Jun-20 05:18 PM)*
-Outlook bad.
+    _Vargas says jokingly._
 
-**Zander** *(09-Jun-20 05:18 PM)*
-> Emmett: Someone's gotta do it, I guess.
+    **Zander** _(09-Jun-20 05:16 PM)_
 
-**Michael** *(09-Jun-20 05:18 PM)*
-8ball is there a source of anti-matter anywhere near Zarazoga-9?
+    _Emmett hadn't noticed the ghost._
 
-**FFBot** *(09-Jun-20 05:18 PM)*
-Nope.
+    > Emmett: Getting a scrap ship will prove difficult.
 
-**Zander** *(09-Jun-20 05:18 PM)*
-> Emmett: Garrick, this isn't funny. You must've heard me sleeptalking.
-> Emmett: Until our fucked up politicians decide to hop off their asses and make peace.
+    **Trey** _(09-Jun-20 05:16 PM)_
 
-**Trey** *(09-Jun-20 05:19 PM)*
-> Garrick: Well, I did. But you do that a lot, so I ignored you.
+    _He flips on his comms._
 
-**Preston** *(09-Jun-20 05:19 PM)*
-> Volentina: Which won't seem to happen. Politics are just one side screaming at the other with no end it seems like
+    > Garrick: Yo, Emmett. You're finally up.
 
-**Charles** *(09-Jun-20 05:19 PM)*
-> Vargas: It was on the coms Emmett. It was disturbing.
+    **Michael** _(09-Jun-20 05:16 PM)_
 
-**Zander** *(09-Jun-20 05:20 PM)*
+    > Theylin: Well we could always go back to the junkyard
 
+    **Trey** _(09-Jun-20 05:16 PM)_
 
-*Emmett takes the key from Vargas and hastily tried to unlock the leash. The key broke within it.*
-> Emmett: CRAP!
-> Emmett: Yep. A bunch of old men throwing their children at each other.
-> Emmett: Wait.
+    > Garrick: What's with the leash?
 
-**Preston** *(09-Jun-20 05:20 PM)*
+    **Preston** _(09-Jun-20 05:16 PM)_
 
+    > Volentina: Sounds like you joined the military.
 
-*Volentina let out another single laugh*
-> Volentina: Couldn't have summed it up any better!
+    _She let out a bit of laughter_
 
-**Zander** *(09-Jun-20 05:20 PM)*
-> Emmett: I sleeptalk a lot?
+    **Charles** _(09-Jun-20 05:16 PM)_
 
-**Trey** *(09-Jun-20 05:20 PM)*
-> Garrick: Yeah.
+    > Vargas: How about my old ship?
 
-**Charles** *(09-Jun-20 05:20 PM)*
-> Vargas: Thats it. Where is the plasma cutter.
+    **Michael** _(09-Jun-20 05:16 PM)_
 
-**Trey** *(09-Jun-20 05:21 PM)*
-> Garrick: Kinda weird.
+    > Theylin: That place had all the materials there except for one.
 
-**Zander** *(09-Jun-20 05:21 PM)*
-> Emmett: What do I say?
+    **Zander** _(09-Jun-20 05:16 PM)_
 
-*Emmett stood up from the couch.*
+    > Emmett: Who new the military and Hell were synonymous.
+    > Emmett: Yeah, I'm up. Get this leash off of me.
 
-**Michael** *(09-Jun-20 05:21 PM)*
+    _The leash had an obvious lock upon it._
 
+    **Charles** _(09-Jun-20 05:16 PM)_
 
-*Theylin starts to compose a list of materials*
+    > Vargas: The one Seth wrecked!
 
-**Trey** *(09-Jun-20 05:21 PM)*
-> Garrick: Stuff about flowers and marbles.
+    **Preston** _(09-Jun-20 05:17 PM)_
 
-**Zander** *(09-Jun-20 05:22 PM)*
-> Emmett: Yeah, I guess when you spend 16 semesters without anyone to talk to, you have a lot of time to think up some analogies.
-t!choose
-t!help choose
+    > Volentina: Close enough to each other anyway.
 
-**Charles** *(09-Jun-20 05:22 PM)*
-> Vargas: should i launch myself out the airlock for fun?
+    **Zander** _(09-Jun-20 05:17 PM)_
 
-**Zander** *(09-Jun-20 05:22 PM)*
-> Emmett: I hate marbles.
+    > Emmett: Yeah. Wish I would've known.
 
-**Charles** *(09-Jun-20 05:22 PM)*
+    **Charles** _(09-Jun-20 05:17 PM)_
+    8ball does Vargas find the key?
 
+    **FFBot** _(09-Jun-20 05:17 PM)_
+    Yes, definitely.
 
-*His 8ball says no, dumbass.*
+    **Charles** _(09-Jun-20 05:17 PM)_
 
-**Preston** *(09-Jun-20 05:23 PM)*
-> Volentina: Analogies, solutions, ideas, theories... Lot's of time gives lots of thoughts.
+    > Vargas: I found the key Emmett.
 
-**Zander** *(09-Jun-20 05:23 PM)*
+    **Preston** _(09-Jun-20 05:18 PM)_
 
+    > Volentina: Join for one reason, end up being a body shield with a gun
 
-*Emmett sniffed and covered his nose.*
+    **Zander** _(09-Jun-20 05:18 PM)_
+    8ball Does an alarm go off on Mateo's FitBot?
 
-**Charles** *(09-Jun-20 05:23 PM)*
-> Vargas: Come on, 2/3.
+    **FFBot** _(09-Jun-20 05:18 PM)_
+    Outlook bad.
 
-**Zander** *(09-Jun-20 05:23 PM)*
-> Emmett: Sheesh. I reek.
+    **Zander** _(09-Jun-20 05:18 PM)_
 
-**Charles** *(09-Jun-20 05:24 PM)*
+    > Emmett: Someone's gotta do it, I guess.
 
+    **Michael** _(09-Jun-20 05:18 PM)_
+    8ball is there a source of anti-matter anywhere near Zarazoga-9?
 
-*Vargas rolls again.*
-> Vargas: Yes bitch.
+    **FFBot** _(09-Jun-20 05:18 PM)_
+    Nope.
 
-**Zander** *(09-Jun-20 05:24 PM)*
-> Emmett: I'm going to take a shower. Anyone need to go?
-> Emmett: Sometimes, you wish not to think.
+    **Zander** _(09-Jun-20 05:18 PM)_
 
-**Charles** *(09-Jun-20 05:24 PM)*
-Nah in a lil bit
+    > Emmett: Garrick, this isn't funny. You must've heard me sleeptalking.
+    > Emmett: Until our fucked up politicians decide to hop off their asses and make peace.
 
-**Zander** *(09-Jun-20 05:24 PM)*
-> Emmett: Just do.
+    **Trey** _(09-Jun-20 05:19 PM)_
 
-**Michael** *(09-Jun-20 05:24 PM)*
-t!choose Adamantite | Solid Cocaine | Ligmantium | Ballantium | Frallite | Feltium | Bruhium | Marblite | Upytimeite
+    > Garrick: Well, I did. But you do that a lot, so I ignored you.
 
-**FFBot** *(09-Jun-20 05:24 PM)*
-🤔 | Shark boi, I pick Bruhium
+    **Preston** _(09-Jun-20 05:19 PM)_
 
-**Charles** *(09-Jun-20 05:24 PM)*
+    > Volentina: Which won't seem to happen. Politics are just one side screaming at the other with no end it seems like
 
+    **Charles** _(09-Jun-20 05:19 PM)_
 
-*Vargas rolls his 8ball again.*
+    > Vargas: It was on the coms Emmett. It was disturbing.
 
-**Sean** *(09-Jun-20 05:24 PM)*
+    **Zander** _(09-Jun-20 05:20 PM)_
 
+    _Emmett takes the key from Vargas and hastily tried to unlock the leash. The key broke within it._
 
-*Seth awakes*
+    > Emmett: CRAP!
+    > Emmett: Yep. A bunch of old men throwing their children at each other.
+    > Emmett: Wait.
 
-**Charles** *(09-Jun-20 05:25 PM)*
-> Vargas: Just do it. Yes.
+    **Preston** _(09-Jun-20 05:20 PM)_
 
-**Preston** *(09-Jun-20 05:25 PM)*
-> Volentina: After some time you kind of learn to not think. Maybe.
+    _Volentina let out another single laugh_
 
-**Sean** *(09-Jun-20 05:25 PM)*
-> Seth: Good morning USA, I got a feeling that its going to be a wonderful day.
+    > Volentina: Couldn't have summed it up any better!
 
-**Charles** *(09-Jun-20 05:25 PM)*
-> Vargas: Welp ima jump out the airlock. Anyone wanna join?
+    **Zander** _(09-Jun-20 05:20 PM)_
 
-**Zander** *(09-Jun-20 05:25 PM)*
+    > Emmett: I sleeptalk a lot?
 
+    **Trey** _(09-Jun-20 05:20 PM)_
 
-*Seth is immediately shocked by the American Dad Empire.*
+    > Garrick: Yeah.
 
-**Sean** *(09-Jun-20 05:25 PM)*
-> Seth: AUGHH
+    **Charles** _(09-Jun-20 05:20 PM)_
 
-**Charles** *(09-Jun-20 05:26 PM)*
-> Vargas: Seeeeeeeth. Cooooome ooooooon.
+    > Vargas: Thats it. Where is the plasma cutter.
 
-**Charles** *(09-Jun-20 05:26 PM)*
-> Vargas: Jump out the airlock with me.
+    **Trey** _(09-Jun-20 05:21 PM)_
 
-**Zander** *(09-Jun-20 05:26 PM)*
+    > Garrick: Kinda weird.
 
+    **Zander** _(09-Jun-20 05:21 PM)_
 
-*Emmett leaves the block, having been ignored. He proceeded to enter the bathroom to shower.*
+    > Emmett: What do I say?
 
-**Sean** *(09-Jun-20 05:26 PM)*
-8ball Does Seth airlock Vargas?
+    _Emmett stood up from the couch._
 
-**FFBot** *(09-Jun-20 05:26 PM)*
-Neigh.
+    **Michael** _(09-Jun-20 05:21 PM)_
 
-**Charles** *(09-Jun-20 05:26 PM)*
-> Vargas: Yahoooooooooo!!!
+    _Theylin starts to compose a list of materials_
 
-**Charles** *(09-Jun-20 05:26 PM)*
-> Vargas: Coming back.
+    **Trey** _(09-Jun-20 05:21 PM)_
 
-**Michael** *(09-Jun-20 05:27 PM)*
-> Theylin: Alright Emmett
+    > Garrick: Stuff about flowers and marbles.
 
-*Theylin walks up to Emmett*
-> Theylin: My Spearos Prototype Engine will require a shit ton of Bruhium for the frame and parts, Harnessed Anti-matter for the energy source, and solar panels made out of Ligmantium
+    **Zander** _(09-Jun-20 05:22 PM)_
 
-**Charles** *(09-Jun-20 05:27 PM)*
-> Vargas: Yo Emmett wait up, I'll join you.
+    > Emmett: Yeah, I guess when you spend 16 semesters without anyone to talk to, you have a lot of time to think up some analogies.
+    > t!choose
+    > t!help choose
 
-**Zander** *(09-Jun-20 05:27 PM)*
-> Emmett: Oops! Forgot to take off my comms-
+    **Charles** _(09-Jun-20 05:22 PM)_
 
-**Zander** *(09-Jun-20 05:27 PM)*
+    > Vargas: should i launch myself out the airlock for fun?
 
+    **Zander** _(09-Jun-20 05:22 PM)_
 
-*Emmett turned around, in his boxers.*
+    > Emmett: I hate marbles.
 
-**Trey** *(09-Jun-20 05:27 PM)*
-8ball does everyone except Garrick follow Emmett into the bathroom
+    **Charles** _(09-Jun-20 05:22 PM)_
+
+    _His 8ball says no, dumbass._
+
+    **Preston** _(09-Jun-20 05:23 PM)_
+
+    > Volentina: Analogies, solutions, ideas, theories... Lot's of time gives lots of thoughts.
+
+    **Zander** _(09-Jun-20 05:23 PM)_
+
+    _Emmett sniffed and covered his nose._
+
+    **Charles** _(09-Jun-20 05:23 PM)_
+
+    > Vargas: Come on, 2/3.
+
+    **Zander** _(09-Jun-20 05:23 PM)_
+
+    > Emmett: Sheesh. I reek.
+
+    **Charles** _(09-Jun-20 05:24 PM)_
+
+    _Vargas rolls again._
+
+    > Vargas: Yes bitch.
+
+    **Zander** _(09-Jun-20 05:24 PM)_
+
+    > Emmett: I'm going to take a shower. Anyone need to go?
+    > Emmett: Sometimes, you wish not to think.
+
+    **Charles** _(09-Jun-20 05:24 PM)_
+    Nah in a lil bit
+
+    **Zander** _(09-Jun-20 05:24 PM)_
+
+    > Emmett: Just do.
+
+    **Michael** _(09-Jun-20 05:24 PM)_
+    t!choose Adamantite | Solid Cocaine | Ligmantium | Ballantium | Frallite | Feltium | Bruhium | Marblite | Upytimeite
+
+    **FFBot** _(09-Jun-20 05:24 PM)_
+    🤔 | Shark boi, I pick Bruhium
+
+    **Charles** _(09-Jun-20 05:24 PM)_
+
+    _Vargas rolls his 8ball again._
+
+    **Sean** _(09-Jun-20 05:24 PM)_
+
+    _Seth awakes_
+
+    **Charles** _(09-Jun-20 05:25 PM)_
+
+    > Vargas: Just do it. Yes.
+
+    **Preston** _(09-Jun-20 05:25 PM)_
+
+    > Volentina: After some time you kind of learn to not think. Maybe.
+
+    **Sean** _(09-Jun-20 05:25 PM)_
+
+    > Seth: Good morning USA, I got a feeling that its going to be a wonderful day.
+
+    **Charles** _(09-Jun-20 05:25 PM)_
+
+    > Vargas: Welp ima jump out the airlock. Anyone wanna join?
+
+    **Zander** _(09-Jun-20 05:25 PM)_
+
+    _Seth is immediately shocked by the American Dad Empire._
+
+    **Sean** _(09-Jun-20 05:25 PM)_
+
+    > Seth: AUGHH
+
+    **Charles** _(09-Jun-20 05:26 PM)_
+
+    > Vargas: Seeeeeeeth. Cooooome ooooooon.
+
+    **Charles** _(09-Jun-20 05:26 PM)_
+
+    > Vargas: Jump out the airlock with me.
+
+    **Zander** _(09-Jun-20 05:26 PM)_
+
+    _Emmett leaves the block, having been ignored. He proceeded to enter the bathroom to shower._
+
+    **Sean** _(09-Jun-20 05:26 PM)_
+    8ball Does Seth airlock Vargas?
+
+    **FFBot** _(09-Jun-20 05:26 PM)_
+    Neigh.
+
+    **Charles** _(09-Jun-20 05:26 PM)_
+
+    > Vargas: Yahoooooooooo!!!
+
+    **Charles** _(09-Jun-20 05:26 PM)_
+
+    > Vargas: Coming back.
+
+    **Michael** _(09-Jun-20 05:27 PM)_
+
+    > Theylin: Alright Emmett
+
+    _Theylin walks up to Emmett_
+
+    > Theylin: My Spearos Prototype Engine will require a shit ton of Bruhium for the frame and parts, Harnessed Anti-matter for the energy source, and solar panels made out of Ligmantium
+
+    **Charles** _(09-Jun-20 05:27 PM)_
+
+    > Vargas: Yo Emmett wait up, I'll join you.
+
+    **Zander** _(09-Jun-20 05:27 PM)_
+
+    > Emmett: Oops! Forgot to take off my comms-
+
+    **Zander** _(09-Jun-20 05:27 PM)_
+
+    _Emmett turned around, in his boxers._
+
+    **Trey** _(09-Jun-20 05:27 PM)_
+    8ball does everyone except Garrick follow Emmett into the bathroom
 
 (Instead, Seth airlocks Vargas.)
 (edited)
 
-**FFBot** *(09-Jun-20 05:27 PM)*
+**FFBot** _(09-Jun-20 05:27 PM)_
 No, but something that the person before you decides upon happens.
 
-**Zander** *(09-Jun-20 05:27 PM)*
+**Zander** _(09-Jun-20 05:27 PM)_
+
 > Emmett: Theylin.
 
-**Zander** *(09-Jun-20 05:27 PM)*
+**Zander** _(09-Jun-20 05:27 PM)_
+
 > Emmett: Please get out.
 
-**Michael** *(09-Jun-20 05:28 PM)*
+**Michael** _(09-Jun-20 05:28 PM)_
+
 > Theylin: Oh, I didn't realize you were showering. My apologies
 
-**Michael** *(09-Jun-20 05:28 PM)*
+**Michael** _(09-Jun-20 05:28 PM)_
 
+_leaves bathroom_
 
-*leaves bathroom*
+**Sean** _(09-Jun-20 05:28 PM)_
 
-**Sean** *(09-Jun-20 05:28 PM)*
+_Seth picks Vargas up and sets him in the airlock_
 
+**Zander** _(09-Jun-20 05:28 PM)_
 
-*Seth picks Vargas up and sets him in the airlock*
-
-**Zander** *(09-Jun-20 05:28 PM)*
 > Emmett: Thank you.
 
-**Sean** *(09-Jun-20 05:28 PM)*
+**Sean** _(09-Jun-20 05:28 PM)_
 
+_Seth pushes the button_
 
-*Seth pushes the button*
+**Charles** _(09-Jun-20 05:28 PM)_
 
-**Charles** *(09-Jun-20 05:28 PM)*
 > Vargas: Yahoooooooo.
 
-**Zander** *(09-Jun-20 05:28 PM)*
+**Zander** _(09-Jun-20 05:28 PM)_
 8ball Does the bathroom hatch get locked?
 
-**FFBot** *(09-Jun-20 05:28 PM)*
+**FFBot** _(09-Jun-20 05:28 PM)_
 Nope.
 
-**Charles** *(09-Jun-20 05:29 PM)*
+**Charles** _(09-Jun-20 05:29 PM)_
+
 > Vargas: Coming back.
 
-**Sean** *(09-Jun-20 05:29 PM)*
+**Sean** _(09-Jun-20 05:29 PM)_
+
 > Seth: The world is your oyster
 
-**Charles** *(09-Jun-20 05:29 PM)*
+**Charles** _(09-Jun-20 05:29 PM)_
+
 > Vargas: Aaah. Now for that shower.
 
-**Zander** *(09-Jun-20 05:29 PM)*
+**Zander** _(09-Jun-20 05:29 PM)_
 
+_Emmett gets in the shower, mildly irritated by his leash and Theylin's intrusion._
 
-*Emmett gets in the shower, mildly irritated by his leash and Theylin's intrusion.*
+**Sean** _(09-Jun-20 05:29 PM)_
 
-**Sean** *(09-Jun-20 05:29 PM)*
 > Seth: His anti-western sentiments run deep.
 
-**Charles** *(09-Jun-20 05:30 PM)*
+**Charles** _(09-Jun-20 05:30 PM)_
 
+\*\*
 
-*\*
+**Charles** _(09-Jun-20 05:30 PM)_
 
-**Charles** *(09-Jun-20 05:30 PM)*
+_Vargas gets back in the way he did last time._
 
+**Trey** _(09-Jun-20 05:31 PM)_
 
-*Vargas gets back in the way he did last time.*
+_Garrick pulls out the Seth Blowup Doll._
 
-**Trey** *(09-Jun-20 05:31 PM)*
-
-
-*Garrick pulls out the Seth Blowup Doll.*
-
-**Charles** *(09-Jun-20 05:31 PM)*
+**Charles** _(09-Jun-20 05:31 PM)_
 8ball does Vargas make it back into the ship?
 
-**Trey** *(09-Jun-20 05:31 PM)*
+**Trey** _(09-Jun-20 05:31 PM)_
+
 > Garrick: ...This is not mine.
 
-**FFBot** *(09-Jun-20 05:31 PM)*
+**FFBot** _(09-Jun-20 05:31 PM)_
 Majority rules! Vote on it!
 
-**Sean** *(09-Jun-20 05:31 PM)*
+**Sean** _(09-Jun-20 05:31 PM)_
+
 > Seth: Thats kind of a poser move.
 
-**Zander** *(09-Jun-20 05:32 PM)*
+**Zander** _(09-Jun-20 05:32 PM)_
+
 > Emmett: Actually.
 
-*Emmett grabbed his watch.*
+_Emmett grabbed his watch._
+
 > Emmett: Garrick. Where are we going again?
 
-**Trey** *(09-Jun-20 05:32 PM)*
+**Trey** _(09-Jun-20 05:32 PM)_
 
+_He tosses the Doll in Seth's direction._
 
-*He tosses the Doll in Seth's direction.*
-
-**Zander** *(09-Jun-20 05:32 PM)*
+**Zander** _(09-Jun-20 05:32 PM)_
 8ball Does Mateo's FitBot have an alarm that is set off?
 
-**FFBot** *(09-Jun-20 05:32 PM)*
+**FFBot** _(09-Jun-20 05:32 PM)_
 Da.
 
-**Preston** *(09-Jun-20 05:33 PM)*
+**Preston** _(09-Jun-20 05:33 PM)_
 Да
 
-**Zander** *(09-Jun-20 05:33 PM)*
+**Zander** _(09-Jun-20 05:33 PM)_
+
 > Emmett: Ah. Time to work out.
 
-**Sean** *(09-Jun-20 05:33 PM)*
+**Sean** _(09-Jun-20 05:33 PM)_
+
 > Seth: An international video gaming tournament
 
-**Trey** *(09-Jun-20 05:33 PM)*
+**Trey** _(09-Jun-20 05:33 PM)_
+
 > Garrick: Zarazoga-9.
 
-**Sean** *(09-Jun-20 05:33 PM)*
+**Sean** _(09-Jun-20 05:33 PM)_
 
+_Seth kicks in the bathroom door_
 
-*Seth kicks in the bathroom door*
+**Preston** _(09-Jun-20 05:33 PM)_
 
-**Preston** *(09-Jun-20 05:33 PM)*
 > Volentina: I'm assuming that the alarm means workout time?
 
-**Sean** *(09-Jun-20 05:33 PM)*
+**Sean** _(09-Jun-20 05:33 PM)_
+
 > Seth: Stevo! My main man!
 
-**Trey** *(09-Jun-20 05:34 PM)*
+**Trey** _(09-Jun-20 05:34 PM)_
+
 > Garrick: According to Sanya, it's a nice ocean planet.
 
-**Zander** *(09-Jun-20 05:35 PM)*
+**Zander** _(09-Jun-20 05:35 PM)_
+
 > Emmett: Zarazoga!
 > Emmett: Hell yeah. You ever get your blood pumping?
 > Emmett: That's a tropical paradise!
 > Emmett: Are you guys taking us on a vacation or something?
 
-**Sean** *(09-Jun-20 05:35 PM)*
+**Sean** _(09-Jun-20 05:35 PM)_
 
+_Seth begins to emit a car alarm sound_
 
-*Seth begins to emit a car alarm sound*
+**Preston** _(09-Jun-20 05:35 PM)_
 
-**Preston** *(09-Jun-20 05:35 PM)*
 > Volentina: Literally or figuratively?
 
-**Zander** *(09-Jun-20 05:36 PM)*
+**Zander** _(09-Jun-20 05:36 PM)_
+
 > Emmett: Any way you see it.
 
-**Zander** *(09-Jun-20 05:36 PM)*
+**Zander** _(09-Jun-20 05:36 PM)_
 
+_Mateo gives a blatantly obvious wink._
+_Emmett heard the hatch kicked in and jumped._
 
-*Mateo gives a blatantly obvious wink.*
-*Emmett heard the hatch kicked in and jumped.*
 > Emmett: Seth?
 
-**Preston** *(09-Jun-20 05:36 PM)*
+**Preston** _(09-Jun-20 05:36 PM)_
+
 > Volentina: Sure. Yeah.
 
-**Zander** *(09-Jun-20 05:36 PM)*
+**Zander** _(09-Jun-20 05:36 PM)_
+
 > Emmett: Seth don't scare me like that!
 
-**Sean** *(09-Jun-20 05:36 PM)*
+**Sean** _(09-Jun-20 05:36 PM)_
+
 > Seth: DO DA DEE DEE DA DOO DA
 
-**Trey** *(09-Jun-20 05:37 PM)*
+**Trey** _(09-Jun-20 05:37 PM)_
+
 > Garrick: Surprise!
 
-**Zander** *(09-Jun-20 05:37 PM)*
+**Zander** _(09-Jun-20 05:37 PM)_
+
 > Emmett: I'm kidding. I'd die if I broke my own standard.
 
-**Zander** *(09-Jun-20 05:37 PM)*
+**Zander** _(09-Jun-20 05:37 PM)_
+
 > Emmett: That being not being a douchebag.
 
-**Michael** *(09-Jun-20 05:37 PM)*
+**Michael** _(09-Jun-20 05:37 PM)_
 8ball does Theylin turn into a liquid marble?
 
-**FFBot** *(09-Jun-20 05:37 PM)*
+**FFBot** _(09-Jun-20 05:37 PM)_
 Person who's before you decides!
 
-**Sean** *(09-Jun-20 05:37 PM)*
+**Sean** _(09-Jun-20 05:37 PM)_
 
+_Seth throws open the shower curtains_
 
-*Seth throws open the shower curtains*
+**Sean** _(09-Jun-20 05:37 PM)_
 
-**Sean** *(09-Jun-20 05:37 PM)*
 > Seth: UH OH!
 
-**Sean** *(09-Jun-20 05:37 PM)*
+**Sean** _(09-Jun-20 05:37 PM)_
 
+_Seth picks up Emmett_
 
-*Seth picks up Emmett*
-
-**Zander** *(09-Jun-20 05:37 PM)*
+**Zander** _(09-Jun-20 05:37 PM)_
 No.
 
-**Charles** *(09-Jun-20 05:37 PM)*
+**Charles** _(09-Jun-20 05:37 PM)_
 
+_Vargas cusses Seth out in the vaccum of space._
 
-*Vargas cusses Seth out in the vaccum of space.*
+**Preston** _(09-Jun-20 05:37 PM)_
 
-**Preston** *(09-Jun-20 05:37 PM)*
 > Volentina: Would you literally die if you became a douche?
 
-**Zander** *(09-Jun-20 05:38 PM)*
+**Zander** _(09-Jun-20 05:38 PM)_
+
 > Emmett: What the fuck!
 > Emmett: My self image would, I guess.
 
-**Sean** *(09-Jun-20 05:38 PM)*
+**Sean** _(09-Jun-20 05:38 PM)_
+
 > Seth: Take a seat Roger
 
-**Zander** *(09-Jun-20 05:38 PM)*
+**Zander** _(09-Jun-20 05:38 PM)_
 
+_Emmett tried to get out of the strongman's grasp._
 
-*Emmett tried to get out of the strongman's grasp.*
+**Sean** _(09-Jun-20 05:38 PM)_
 
-**Sean** *(09-Jun-20 05:38 PM)*
+_Seth puts Emmett down in the seat_
 
+**Zander** _(09-Jun-20 05:38 PM)_
 
-*Seth puts Emmett down in the seat*
-
-**Zander** *(09-Jun-20 05:38 PM)*
 > Emmett: It's one of those things where you either die a hero or live long enough to become a villain.
 
-**Preston** *(09-Jun-20 05:38 PM)*
+**Preston** _(09-Jun-20 05:38 PM)_
+
 > Volentina: Fair. Only question is, how long would it take to become the villain?
 
-**Sean** *(09-Jun-20 05:39 PM)*
+**Sean** _(09-Jun-20 05:39 PM)_
+
 > Seth: This is Alcoholics Anonymous, here they will help you Roger
 
-**Zander** *(09-Jun-20 05:39 PM)*
+**Zander** _(09-Jun-20 05:39 PM)_
+
 > Emmett: The hope is you never reach that point.
 
-**Charles** *(09-Jun-20 05:39 PM)*
+**Charles** _(09-Jun-20 05:39 PM)_
 
+_Vargas realizes he has his comms._
 
-*Vargas realizes he has his comms.*
+**Zander** _(09-Jun-20 05:39 PM)_
 
-**Zander** *(09-Jun-20 05:39 PM)*
+_Emmett shivered from his wet fur. He covered his crotch, embarrassed._
 
-
-*Emmett shivered from his wet fur. He covered his crotch, embarrassed.*
 > Emmett: Seth, come on.
 
-**Sean** *(09-Jun-20 05:39 PM)*
+**Sean** _(09-Jun-20 05:39 PM)_
+
 > Seth: You got potential kid.
 
-**Zander** *(09-Jun-20 05:39 PM)*
+**Zander** _(09-Jun-20 05:39 PM)_
+
 > Emmett: Let me finish.
 
-**Sean** *(09-Jun-20 05:39 PM)*
+**Sean** _(09-Jun-20 05:39 PM)_
+
 > Seth: And you can't teach that
 
-**Trey** *(09-Jun-20 05:39 PM)*
+**Trey** _(09-Jun-20 05:39 PM)_
 You got a potential kid.
 
-**Charles** *(09-Jun-20 05:40 PM)*
+**Charles** _(09-Jun-20 05:40 PM)_
 
+_Vargas takes some plostacian and it calms him down._
 
-*Vargas takes some plostacian and it calms him down.*
+**Zander** _(09-Jun-20 05:40 PM)_
 
-**Zander** *(09-Jun-20 05:40 PM)*
+_Mateo notices the naked fur-thing being carried, giving a blank stare._
 
+**Sean** _(09-Jun-20 05:40 PM)_
 
-*Mateo notices the naked fur-thing being carried, giving a blank stare.*
+_Seth opens a can of peas_
 
-**Sean** *(09-Jun-20 05:40 PM)*
+**Preston** _(09-Jun-20 05:40 PM)_
 
-
-*Seth opens a can of peas*
-
-**Preston** *(09-Jun-20 05:40 PM)*
 > Volentina: Not for all, some try to reach that point as fast as possible.
 
-**Sean** *(09-Jun-20 05:40 PM)*
+**Sean** _(09-Jun-20 05:40 PM)_
+
 > Seth: Eat your peas Hayley
 
-**Zander** *(09-Jun-20 05:40 PM)*
+**Zander** _(09-Jun-20 05:40 PM)_
 
-
-*Emmett tried to get up.*
+_Emmett tried to get up._
 
 > Emmett: I'm not sure if I should be surprised.
 
-**Sean** *(09-Jun-20 05:40 PM)*
+**Sean** _(09-Jun-20 05:40 PM)_
 
+_Seth shoves the can into Emmett mouth_
 
-*Seth shoves the can into Emmett mouth*
+**Charles** _(09-Jun-20 05:41 PM)_
 
-**Charles** *(09-Jun-20 05:41 PM)*
+_Vargas calls out to Emmett._
 
+> Vargas: Help Seth sent me into space!
 
-*Vargas calls out to Emmett.*
-> Vargas: Help Seth sent me into space! 
+_On repeat._
 
-*On repeat.*
+**Zander** _(09-Jun-20 05:41 PM)_
 
-**Zander** *(09-Jun-20 05:41 PM)*
+_Emmett spits out the can and makes a run for it._
 
+**Sean** _(09-Jun-20 05:41 PM)_
 
-*Emmett spits out the can and makes a run for it.*
-
-**Sean** *(09-Jun-20 05:41 PM)*
 > Seth: So you can grow strong enough to fight off president Clinton's sexual advances
 
-**Preston** *(09-Jun-20 05:41 PM)*
+**Preston** _(09-Jun-20 05:41 PM)_
+
 > Volentina: I wouldn't. Those people try to make something of it. Look for an opportunity in it I guess.
 
-**Zander** *(09-Jun-20 05:41 PM)*
+**Zander** _(09-Jun-20 05:41 PM)_
+
 > Emmett: Fuck off, you madman!
 
-**Sean** *(09-Jun-20 05:41 PM)*
+**Sean** _(09-Jun-20 05:41 PM)_
 
+_Seth starts throwing peas at Emmett_
 
-*Seth starts throwing peas at Emmett*
-
-**Sean** *(09-Jun-20 05:41 PM)*
+**Sean** _(09-Jun-20 05:41 PM)_
 8ball Does Emmett slip and fall on a pea?
 
-**FFBot** *(09-Jun-20 05:42 PM)*
+**FFBot** _(09-Jun-20 05:42 PM)_
 Without a doubt.
 
-**Trey** *(09-Jun-20 05:42 PM)*
+**Trey** _(09-Jun-20 05:42 PM)_
 8ball does everyone awake notice the naked fur-thing slipping on a pea
 
-**FFBot** *(09-Jun-20 05:42 PM)*
+**FFBot** _(09-Jun-20 05:42 PM)_
 It is certain.
 
-**Sean** *(09-Jun-20 05:42 PM)*
+**Sean** _(09-Jun-20 05:42 PM)_
 
+_Seth knocks on the wall_
 
-*Seth knocks on the wall*
+**Zander** _(09-Jun-20 05:42 PM)_
 
-**Zander** *(09-Jun-20 05:42 PM)*
+_Emmett bruised his chin on the fall._
 
+**Sean** _(09-Jun-20 05:42 PM)_
 
-*Emmett bruised his chin on the fall.*
-
-**Sean** *(09-Jun-20 05:42 PM)*
 > Seth: Oh! there he is!
 
-**Sean** *(09-Jun-20 05:42 PM)*
+**Sean** _(09-Jun-20 05:42 PM)_
+
 > Seth: HE'S OUTSIDE
 
-**Zander** *(09-Jun-20 05:42 PM)*
+**Zander** _(09-Jun-20 05:42 PM)_
+
 > Emmett: Please. I just want to shower.
 
-**Trey** *(09-Jun-20 05:42 PM)*
+**Trey** _(09-Jun-20 05:42 PM)_
+
 > Garrick: Bruh.
 
-*Garrick says, robotically.*
+_Garrick says, robotically._
 
-**Charles** *(09-Jun-20 05:42 PM)*
+**Charles** _(09-Jun-20 05:42 PM)_
+
 > Vargas: Shut the fuck up Seth!!
 
-**Sean** *(09-Jun-20 05:42 PM)*
+**Sean** _(09-Jun-20 05:42 PM)_
 
+_Seth begins to throw peas into Emmett's mouth_
 
-*Seth begins to throw peas into Emmett's mouth*
+**Zander** _(09-Jun-20 05:43 PM)_
 
-**Zander** *(09-Jun-20 05:43 PM)*
+_Emmett shakes his head._
 
-
-*Emmett shakes his head.*
 > Emmett: NO ROBOTS GARRICK!
 > Emmett: Well, hopefully we have a weight bench.
 > Emmett: no no n on on o no no n no
 
-**Sean** *(09-Jun-20 05:43 PM)*
+**Sean** _(09-Jun-20 05:43 PM)_
+
 > Seth: NOW
 
-**Zander** *(09-Jun-20 05:43 PM)*
+**Zander** _(09-Jun-20 05:43 PM)_
+
 > Emmett: I'm going to go and look for it while they do... That.
 > Emmett: NO!
 
-**Charles** *(09-Jun-20 05:43 PM)*
+**Charles** _(09-Jun-20 05:43 PM)_
+
 > Vargas: Garrick i have something for you if you get me baaaaack.
 
-**Sean** *(09-Jun-20 05:43 PM)*
+**Sean** _(09-Jun-20 05:43 PM)_
+
 > Seth: REACH INTO YOUR CHEST
 
-**Trey** *(09-Jun-20 05:43 PM)*
+**Trey** _(09-Jun-20 05:43 PM)_
+
 > Garrick: Jeez, you alright, dude?
 
-**Sean** *(09-Jun-20 05:43 PM)*
+**Sean** _(09-Jun-20 05:43 PM)_
+
 > Seth: GRAB YOUR BEATING HEART AND EAT IT
 
-**Preston** *(09-Jun-20 05:43 PM)*
+**Preston** _(09-Jun-20 05:43 PM)_
+
 > Volentina: Try searching in the janitors closet. There's probably enough bars laying around to make something.
 
-**Sean** *(09-Jun-20 05:43 PM)*
+**Sean** _(09-Jun-20 05:43 PM)_
+
 > Seth: ALL OF IT!
 
-**Sean** *(09-Jun-20 05:43 PM)*
+**Sean** _(09-Jun-20 05:43 PM)_
+
 > Seth: EVERY LAST BIT
 
-**Zander** *(09-Jun-20 05:44 PM)*
+**Zander** _(09-Jun-20 05:44 PM)_
+
 > Emmett: Maybe I'll ask the Grease Monkey.
 > Emmett: YOU'RE GONNA TELL ME THAT YOU FUCKED MY MOM, AREN'T YOU?
 
-**Sean** *(09-Jun-20 05:44 PM)*
+**Sean** _(09-Jun-20 05:44 PM)_
 
+_Seth throws Emmett over his shoulder_
 
-*Seth throws Emmett over his shoulder*
+**Charles** _(09-Jun-20 05:44 PM)_
 
-**Charles** *(09-Jun-20 05:44 PM)*
 > Vargas: I have a video of people sleeping for youuuuuu.
 
-**Sean** *(09-Jun-20 05:44 PM)*
+**Sean** _(09-Jun-20 05:44 PM)_
+
 > Seth: Sweet dreams angel
 
-**Zander** *(09-Jun-20 05:44 PM)*
+**Zander** _(09-Jun-20 05:44 PM)_
 8ball Does Emmett goat kick Seth and make it back into the bathroom, locking it?
 
-**FFBot** *(09-Jun-20 05:44 PM)*
+**FFBot** _(09-Jun-20 05:44 PM)_
 Bro, your action made it. Welcome to the party. (Yes).
 
-**Trey** *(09-Jun-20 05:44 PM)*
+**Trey** _(09-Jun-20 05:44 PM)_
+
 > Garrick: I get plenty of that for free. Plus, I can't just go against the captain like that.
 
-**Sean** *(09-Jun-20 05:44 PM)*
+**Sean** _(09-Jun-20 05:44 PM)_
 
+_Seth flops onto the ground into the fetal position and begins to sleep_
 
-*Seth flops onto the ground into the fetal position and begins to sleep*
+**Zander** _(09-Jun-20 05:44 PM)_
 
-**Zander** *(09-Jun-20 05:44 PM)*
 > Emmett: You're insane!
 
-**Preston** *(09-Jun-20 05:44 PM)*
+**Preston** _(09-Jun-20 05:44 PM)_
+
 > Volentina: He'll probably have tools.
 
-*She gave a shrug*
+_She gave a shrug_
 
-**Charles** *(09-Jun-20 05:45 PM)*
+**Charles** _(09-Jun-20 05:45 PM)_
+
 > Vargas: Emmett PLEASE!!
 
-**Charles** *(09-Jun-20 05:45 PM)*
+**Charles** _(09-Jun-20 05:45 PM)_
+
 > Vargas: Theylin i have some rare minerals for yoooou.
 
-**Sean** *(09-Jun-20 05:45 PM)*
+**Sean** _(09-Jun-20 05:45 PM)_
 
+_Seth awakes_
 
-*Seth awakes*
+**Zander** _(09-Jun-20 05:45 PM)_
 
-**Zander** *(09-Jun-20 05:45 PM)*
 > Emmett: Hey! Greaser!
 > Emmett: Garrick, please get the crying 8ball head.
 
-**Sean** *(09-Jun-20 05:45 PM)*
+**Sean** _(09-Jun-20 05:45 PM)_
 
+_He checks his phone_
 
-*He checks his phone*
+**Zander** _(09-Jun-20 05:45 PM)_
 
-**Zander** *(09-Jun-20 05:45 PM)*
 > Emmett: I need to take another shower.
 
-**Sean** *(09-Jun-20 05:45 PM)*
+**Sean** _(09-Jun-20 05:45 PM)_
+
 > Seth: OH! ITS 3:30!
 
-**Zander** *(09-Jun-20 05:45 PM)*
+**Zander** _(09-Jun-20 05:45 PM)_
 
+_Mateo is referring to Theylin as greaser_
 
-*Mateo is referring to Theylin as greaser*
-
-**Charles** *(09-Jun-20 05:46 PM)*
+**Charles** _(09-Jun-20 05:46 PM)_
 8ball does Emmett save Vargas and Seth never hurts Vargas again?
 
-**FFBot** *(09-Jun-20 05:46 PM)*
+**FFBot** _(09-Jun-20 05:46 PM)_
 YAAAAAS!
 
-**Michael** *(09-Jun-20 05:46 PM)*
+**Michael** _(09-Jun-20 05:46 PM)_
 i had to step away real quick sorry
 
-**Michael** *(09-Jun-20 05:46 PM)*
+**Michael** _(09-Jun-20 05:46 PM)_
 calling one of my online teachers
 
-**Sean** *(09-Jun-20 05:46 PM)*
+**Sean** _(09-Jun-20 05:46 PM)_
 
+_Seth takes out a revolver and puts one bullet into the cylinder, he spins the cylinder_
 
-*Seth takes out a revolver and puts one bullet into the cylinder, he spins the cylinder*
+**Charles** _(09-Jun-20 05:46 PM)_
 
-**Charles** *(09-Jun-20 05:46 PM)*
 > Vargas: Thanks Emmett, i owe you one.
 
-**Sean** *(09-Jun-20 05:46 PM)*
+**Sean** _(09-Jun-20 05:46 PM)_
 
+_Seth puts the revolver to his head and fires it_
 
-*Seth puts the revolver to his head and fires it*
-
-**Sean** *(09-Jun-20 05:46 PM)*
+**Sean** _(09-Jun-20 05:46 PM)_
 8ball Does Seth die?
 
-**FFBot** *(09-Jun-20 05:47 PM)*
+**FFBot** _(09-Jun-20 05:47 PM)_
 YAAAAAS!
 
-**Zander** *(09-Jun-20 05:47 PM)*
+**Zander** _(09-Jun-20 05:47 PM)_
+
 > Emmett: Fine. I'll get out.
 
-**Trey** *(09-Jun-20 05:47 PM)*
+**Trey** _(09-Jun-20 05:47 PM)_
 
+_Garrick takes off the limited-edition Squoatling mask._
 
-*Garrick takes off the limited-edition Squoatling mask.*
-
-**Michael** *(09-Jun-20 05:47 PM)*
+**Michael** _(09-Jun-20 05:47 PM)_
 I'll be able to play not talk
 
-**Michael** *(09-Jun-20 05:47 PM)*
+**Michael** _(09-Jun-20 05:47 PM)_
 
+_looks up from what he's doing_
 
-*looks up from what he's doing*
 > Theylin: Yea Mateo?
 
-**Charles** *(09-Jun-20 05:48 PM)*
+**Charles** _(09-Jun-20 05:48 PM)_
+
 > Vargas: Yo heres the videos Garrick. There of world leaders.
 
-**Zander** *(09-Jun-20 05:48 PM)*
+**Zander** _(09-Jun-20 05:48 PM)_
 
+_Emmett was in the middle of showering all of the filth off of him from Seth._
 
-*Emmett was in the middle of showering all of the filth off of him from Seth.*
+**Trey** _(09-Jun-20 05:48 PM)_
 
-**Trey** *(09-Jun-20 05:48 PM)*
 > Garrick: Keep them, I don't know those guys.
 
-**Sean** *(09-Jun-20 05:48 PM)*
+**Sean** _(09-Jun-20 05:48 PM)_
 
+_Seth awakes in Elf Heaven_
 
-*Seth awakes in Elf Heaven*
+**Zander** _(09-Jun-20 05:48 PM)_
 
-**Zander** *(09-Jun-20 05:48 PM)*
 > Emmett: Can you make some sort of sturdy weight set?
 
-**Sean** *(09-Jun-20 05:48 PM)*
+**Sean** _(09-Jun-20 05:48 PM)_
+
 > Seth: Oh dang
 
-**Charles** *(09-Jun-20 05:48 PM)*
+**Charles** _(09-Jun-20 05:48 PM)_
+
 > Vargas: Yo why is Seth so lifeless?
 
-**Zander** *(09-Jun-20 05:48 PM)*
+**Zander** _(09-Jun-20 05:48 PM)_
+
 > Emmett: Sturdy as in it won't fuck up?
 
-**Sean** *(09-Jun-20 05:48 PM)*
+**Sean** _(09-Jun-20 05:48 PM)_
+
 > Seth: Guess my luck ran out.
 
-**Charles** *(09-Jun-20 05:49 PM)*
+**Charles** _(09-Jun-20 05:49 PM)_
 
+_Vargas slaps his face._
 
-*Vargas slaps his face.*
+**Michael** _(09-Jun-20 05:49 PM)_
 
-**Michael** *(09-Jun-20 05:49 PM)*
 > Theylin: Hmmm depending on the materials I have, but I could build it. How much weight are we talking at the maximum?
 
-**Michael** *(09-Jun-20 05:49 PM)*
+**Michael** _(09-Jun-20 05:49 PM)_
+
 > Theylin: 400... 450 lbs?
 
-**Sean** *(09-Jun-20 05:49 PM)*
+**Sean** _(09-Jun-20 05:49 PM)_
+
 > Seth: "Seth Seth Seth, killing yourself by accident once again it seems"
 
-**Charles** *(09-Jun-20 05:49 PM)*
+**Charles** _(09-Jun-20 05:49 PM)_
+
 > Vargas: Welp his dead.
 
-**Zander** *(09-Jun-20 05:50 PM)*
+**Zander** _(09-Jun-20 05:50 PM)_
+
 > Emmett: Garrick, I'm going off of coms. Tell me over the ship's intercom whenever we're there.
 
-**Sean** *(09-Jun-20 05:50 PM)*
+**Sean** _(09-Jun-20 05:50 PM)_
+
 > Seth: Oh hey Shyanalcaop, I've missed you!
 
-**Sean** *(09-Jun-20 05:50 PM)*
+**Sean** _(09-Jun-20 05:50 PM)_
+
 > Seth: Did your ass get bigger?
 
-**Trey** *(09-Jun-20 05:50 PM)*
+**Trey** _(09-Jun-20 05:50 PM)_
+
 > Garrick: Alright. Seth just died, by the way. Not sure if you heard the gunshot.
 
-**Charles** *(09-Jun-20 05:50 PM)*
+**Charles** _(09-Jun-20 05:50 PM)_
+
 > Vargas: Ima fill him up with nukes and grenades then throw him into space. and ignite it all.
 
-**Trey** *(09-Jun-20 05:50 PM)*
+**Trey** _(09-Jun-20 05:50 PM)_
+
 > Garrick: Guess he's not coming on vacation...
 
-**Michael** *(09-Jun-20 05:50 PM)*
+**Michael** _(09-Jun-20 05:50 PM)_
 
+_waits for Mateo to answer_
 
-*waits for Mateo to answer*
+**Sean** _(09-Jun-20 05:51 PM)_
 
-**Sean** *(09-Jun-20 05:51 PM)*
+_Seth gets a big ol slappy on the face_
 
+**Zander** _(09-Jun-20 05:51 PM)_
 
-*Seth gets a big ol slappy on the face*
-
-**Zander** *(09-Jun-20 05:51 PM)*
 > Emmett: Did he shoot himself?
 
-*Emmett sounded unsurprised.*
+_Emmett sounded unsurprised._
 
-**Charles** *(09-Jun-20 05:51 PM)*
+**Charles** _(09-Jun-20 05:51 PM)_
 
+_Vargas drags him to the airlock._
 
-*Vargas drags him to the airlock.*
+**Zander** _(09-Jun-20 05:51 PM)_
 
-**Zander** *(09-Jun-20 05:51 PM)*
 > Emmett: Can you get to 800?
 
-**Sean** *(09-Jun-20 05:51 PM)*
+**Sean** _(09-Jun-20 05:51 PM)_
+
 > Seth: I did deserve that
 
-**Zander** *(09-Jun-20 05:51 PM)*
+**Zander** _(09-Jun-20 05:51 PM)_
+
 > Emmett: A bit of a stretch, I know.
 
-**Trey** *(09-Jun-20 05:51 PM)*
+**Trey** _(09-Jun-20 05:51 PM)_
+
 > Garrick: Yeah.
 
-**Trey** *(09-Jun-20 05:51 PM)*
+**Trey** _(09-Jun-20 05:51 PM)_
+
 > Garrick: In the middle of the den.
 
-**Trey** *(09-Jun-20 05:51 PM)*
+**Trey** _(09-Jun-20 05:51 PM)_
+
 > Garrick: I'll move his body back to his room.
 
-**Sean** *(09-Jun-20 05:51 PM)*
+**Sean** _(09-Jun-20 05:51 PM)_
+
 > Seth: "You should know better honey, when you're dead we have business, any other time its ok"
 
-**Charles** *(09-Jun-20 05:51 PM)*
-*Vargas straps the nukes to him and stuffs the grenades down his throat. *
+**Charles** _(09-Jun-20 05:51 PM)_
+_Vargas straps the nukes to him and stuffs the grenades down his throat. _
 
-**Michael** *(09-Jun-20 05:51 PM)*
+**Michael** _(09-Jun-20 05:51 PM)_
+
 > Theylin: Hmmm would require some heavy duty materials but I'll see what we have on hand in order to build it.
 
-**Sean** *(09-Jun-20 05:52 PM)*
+**Sean** _(09-Jun-20 05:52 PM)_
 
+_The room around him turns into an office_
 
-*The room around him turns into an office*
+**Zander** _(09-Jun-20 05:52 PM)_
 
-**Zander** *(09-Jun-20 05:52 PM)*
 > Emmett: Thanks, man.
 > Emmett: Just tuck him in his bed for me. He'll be back within an hour or so.
 
-*The shower in the background was getting a bit louder.*
+_The shower in the background was getting a bit louder._
 
-**Michael** *(09-Jun-20 05:52 PM)*
+**Michael** _(09-Jun-20 05:52 PM)_
+
 > Theylin: In order to support such weight, the bar is gonna have to be at a minimum of 100lbs
 
-**Trey** *(09-Jun-20 05:52 PM)*
+**Trey** _(09-Jun-20 05:52 PM)_
 8ball does Garrick successfully move Seth's body to his bed
 
-**FFBot** *(09-Jun-20 05:52 PM)*
+**FFBot** _(09-Jun-20 05:52 PM)_
 Spanish no.
 
-**Charles** *(09-Jun-20 05:52 PM)*
+**Charles** _(09-Jun-20 05:52 PM)_
 
+_Vargas sends him into space igniting it all._
 
-*Vargas sends him into space igniting it all.*
+**Trey** _(09-Jun-20 05:52 PM)_
 
-**Trey** *(09-Jun-20 05:52 PM)*
+_Instead, he gets Seth to his room._
 
+**Sean** _(09-Jun-20 05:53 PM)_
 
-*Instead, he gets Seth to his room.*
-
-**Sean** *(09-Jun-20 05:53 PM)*
 > Seth: "Alright, now honey"
 
-**Sean** *(09-Jun-20 05:53 PM)*
+**Sean** _(09-Jun-20 05:53 PM)_
+
 > Seth: "Im going to need you to fill out this paperwork"
 
-**Sean** *(09-Jun-20 05:53 PM)*
+**Sean** _(09-Jun-20 05:53 PM)_
+
 > Seth: Ok.
 
-**Trey** *(09-Jun-20 05:54 PM)*
+**Trey** _(09-Jun-20 05:54 PM)_
 
+_Garrick pulls out 200 chicken nuggets, a burger the size of my dick, extra cheddar, put a squeeze on it, twist it, spit on Emmett, and then let it dry. 5 milkshakes all Extra-large, with extra shots of Dwarven Beer, a Mcflurry deluxe, a Hershey Chocolate bar, the cook's left big toenail, a piece of food, nuclear waste, a large glass of grease mixed with pepsi. 2 fried tacos, a fried spitball, 9 salads with extra craisens and with Balsamic Vinaigrette, 2 starved dogs picked apart by crows and vultures, fried vulva, and a fried scab to go, and puts it next to Seth's body._
 
-*Garrick pulls out 200 chicken nuggets, a burger the size of my dick, extra cheddar, put a squeeze on it, twist it, spit on Emmett, and then let it dry. 5 milkshakes all Extra-large, with extra shots of Dwarven Beer, a Mcflurry deluxe,  a Hershey Chocolate bar, the cook's left big toenail, a piece of food, nuclear waste, a large glass of grease mixed with pepsi. 2 fried tacos, a fried spitball, 9 salads with extra craisens and with Balsamic Vinaigrette, 2 starved dogs picked apart by crows and vultures, fried vulva, and a fried scab to go, and puts it next to Seth's body.*
+**Sean** _(09-Jun-20 05:54 PM)_
 
-**Sean** *(09-Jun-20 05:54 PM)*
 > Seth: "Did you recently in a 3 week span have sex with a woman?"
 
-**Sean** *(09-Jun-20 05:54 PM)*
+**Sean** _(09-Jun-20 05:54 PM)_
+
 > Seth: Yes.
 
-**Sean** *(09-Jun-20 05:54 PM)*
+**Sean** _(09-Jun-20 05:54 PM)_
+
 > Seth: "Was it consensual?"
 
-**Sean** *(09-Jun-20 05:54 PM)*
+**Sean** _(09-Jun-20 05:54 PM)_
+
 > Seth: Yes.
 
-**Zander** *(09-Jun-20 05:55 PM)*
+**Zander** _(09-Jun-20 05:55 PM)_
 
+_Emmett felt refreshed. He feels like putting on a different color shirt for once._
 
-*Emmett felt refreshed. He feels like putting on a different color shirt for once.*
 > Emmett: Garrick, can you get me my special green shirt for me?
 
-**Sean** *(09-Jun-20 05:55 PM)*
+**Sean** _(09-Jun-20 05:55 PM)_
+
 > Seth: "Did you pick up her name?"
 
-**Sean** *(09-Jun-20 05:55 PM)*
+**Sean** _(09-Jun-20 05:55 PM)_
+
 > Seth: Nope.
 
-**Preston** *(09-Jun-20 05:55 PM)*
+**Preston** _(09-Jun-20 05:55 PM)_
 
+_Volentina just went back to wandering around the ship_
 
-*Volentina just went back to wandering around the ship*
+**Sean** _(09-Jun-20 05:55 PM)_
 
-**Sean** *(09-Jun-20 05:55 PM)*
 > Seth: "Did you kill her?"
 
-**Sean** *(09-Jun-20 05:55 PM)*
+**Sean** _(09-Jun-20 05:55 PM)_
+
 > Seth: Yep
 
-**Michael** *(09-Jun-20 05:56 PM)*
+**Michael** _(09-Jun-20 05:56 PM)_
 8ball does Theylin have enough materials on hand to create 800lbs for a weight set?
 
-**FFBot** *(09-Jun-20 05:56 PM)*
+**FFBot** _(09-Jun-20 05:56 PM)_
 No, but something that the person before you decides upon happens.
 
-**Trey** *(09-Jun-20 05:56 PM)*
+**Trey** _(09-Jun-20 05:56 PM)_
+
 > Garrick: Yeah, sure.
 
-*Garrick grabs a special-looking green shirt and throws it right outside the bathroom.*
+_Garrick grabs a special-looking green shirt and throws it right outside the bathroom._
 
-**Michael** *(09-Jun-20 05:56 PM)*
+**Michael** _(09-Jun-20 05:56 PM)_
 @Zander
 
-**Sean** *(09-Jun-20 05:56 PM)*
+**Sean** _(09-Jun-20 05:56 PM)_
+
 > Seth: "Alright alright, everything seems in order, just get on the soul train, it should arrive around 5"
 
-**Michael** *(09-Jun-20 05:56 PM)*
+**Michael** _(09-Jun-20 05:56 PM)_
 my bad
 
-**Zander** *(09-Jun-20 05:56 PM)*
+**Zander** _(09-Jun-20 05:56 PM)_
 
+_Emmett stretched and turned off the shower. He sat there, waiting for Garrick._
 
-*Emmett stretched and turned off the shower. He sat there, waiting for Garrick.*
+**Trey** _(09-Jun-20 05:56 PM)_
 
-**Trey** *(09-Jun-20 05:56 PM)*
 > Garrick: It's outside the bathroom.
 
-**Zander** *(09-Jun-20 05:56 PM)*
+**Zander** _(09-Jun-20 05:56 PM)_
 8ball Is the ship finally at Zarazoga-9?
 
-**FFBot** *(09-Jun-20 05:56 PM)*
+**FFBot** _(09-Jun-20 05:56 PM)_
 Yes but actually no.
 
-**Zander** *(09-Jun-20 05:56 PM)*
+**Zander** _(09-Jun-20 05:56 PM)_
+
 > Emmett: Thanks man.
 
-**Sean** *(09-Jun-20 05:56 PM)*
+**Sean** _(09-Jun-20 05:56 PM)_
 
+_Shyanalcaop hands Seth a get out of death free card_
 
-*Shyanalcaop hands Seth a get out of death free card*
+**Sean** _(09-Jun-20 05:56 PM)_
 
-**Sean** *(09-Jun-20 05:56 PM)*
 > Seth: Thank you baby
 
-**Zander** *(09-Jun-20 05:57 PM)*
+**Zander** _(09-Jun-20 05:57 PM)_
 He has the materials to make an 850 pound weight set.
 
-**Charles** *(09-Jun-20 05:57 PM)*
+**Charles** _(09-Jun-20 05:57 PM)_
 8ball does Vargas destroy every piece of matter that is Seth?
 
-**FFBot** *(09-Jun-20 05:57 PM)*
+**FFBot** _(09-Jun-20 05:57 PM)_
 N0.
 
-**Sean** *(09-Jun-20 05:57 PM)*
+**Sean** _(09-Jun-20 05:57 PM)_
 
+_Seth leans over the desk and gives her a smooch_
 
-*Seth leans over the desk and gives her a smooch*
+**Sean** _(09-Jun-20 05:57 PM)_
 
-**Sean** *(09-Jun-20 05:57 PM)*
 > Seth: "Get out of here you stud"
 
-**Michael** *(09-Jun-20 05:58 PM)*
+**Michael** _(09-Jun-20 05:58 PM)_
 
+_starts drafting blueprints in order to start making Mateo's weight set_
 
-*starts drafting blueprints in order to start making Mateo's weight set*
-
-**Michael** *(09-Jun-20 05:58 PM)*
+**Michael** _(09-Jun-20 05:58 PM)_
 brb
 
-**Sean** *(09-Jun-20 05:58 PM)*
+**Sean** _(09-Jun-20 05:58 PM)_
 
+_Seth walks over to the soul train and sits on a bench next to a skeleton_
 
-*Seth walks over to the soul train and sits on a bench next to a skeleton*
+**Zander** _(09-Jun-20 05:58 PM)_
 
-**Zander** *(09-Jun-20 05:58 PM)*
+_Emmett opened the hatch and put a hoof out, taking his shirt. He clothed up and sat in the kitchen, surprisingly happy._
 
+**Charles** _(09-Jun-20 05:58 PM)_
 
-*Emmett opened the hatch and put a hoof out, taking his shirt. He clothed up and sat in the kitchen, surprisingly happy.*
+_Vargas does a assassination for 50000 duckets._
 
-**Charles** *(09-Jun-20 05:58 PM)*
+**Trey** _(09-Jun-20 05:58 PM)_
 
+_The skeleton says "eh."_
 
-*Vargas does a assassination for 50000 duckets.*
+**Zander** _(09-Jun-20 05:58 PM)_
 
-**Trey** *(09-Jun-20 05:58 PM)*
-
-
-*The skeleton says "eh."*
-
-**Zander** *(09-Jun-20 05:58 PM)*
 > Emmett: We almost there?
 
-**Sean** *(09-Jun-20 05:58 PM)*
+**Sean** _(09-Jun-20 05:58 PM)_
+
 > Seth: Where you heading?
 
-**Sean** *(09-Jun-20 05:58 PM)*
+**Sean** _(09-Jun-20 05:58 PM)_
+
 > Seth: "5th Layer, you?"
 
-**Charles** *(09-Jun-20 05:59 PM)*
+**Charles** _(09-Jun-20 05:59 PM)_
 
+_Vargas is gone for a day._
 
-*Vargas is gone for a day.*
+**Sean** _(09-Jun-20 05:59 PM)_
 
-**Sean** *(09-Jun-20 05:59 PM)*
 > Seth: Top.
 
-**Trey** *(09-Jun-20 05:59 PM)*
+**Trey** _(09-Jun-20 05:59 PM)_
+
 > Garrick: I'll check...
 
-**Trey** *(09-Jun-20 05:59 PM)*
+**Trey** _(09-Jun-20 05:59 PM)_
 
+_Garrick heads to the cockpit._
 
-*Garrick heads to the cockpit.*
+**Sean** _(09-Jun-20 05:59 PM)_
 
-**Sean** *(09-Jun-20 05:59 PM)*
 > Seth: "Ah lucky man, wish I was you, not your time I'm guessing?"
 
-**Trey** *(09-Jun-20 05:59 PM)*
+**Trey** _(09-Jun-20 05:59 PM)_
 8ball Is the ship finally at Zarazoga-9?
 
-**FFBot** *(09-Jun-20 05:59 PM)*
+**FFBot** _(09-Jun-20 05:59 PM)_
 NOOOOOO!
 
-**Sean** *(09-Jun-20 05:59 PM)*
+**Sean** _(09-Jun-20 05:59 PM)_
+
 > Seth: You could say.
 
-**Charles** *(09-Jun-20 06:00 PM)*
+**Charles** _(09-Jun-20 06:00 PM)_
 
+_Vargas kills Darwin Caltin a drug ring leader._
 
-*Vargas kills Darwin Caltin a drug ring leader.*
+**Michael** _(09-Jun-20 06:00 PM)_
 
-**Michael** *(09-Jun-20 06:00 PM)*
+_Beckons Mateo over_
 
-
-*Beckons Mateo over*
 > Theylin: Mateo c'mere! Need to take some measurements.
 
-**Zander** *(09-Jun-20 06:00 PM)*
+**Zander** _(09-Jun-20 06:00 PM)_
+
 > Emmett: Will do.
 
-**Sean** *(09-Jun-20 06:00 PM)*
+**Sean** _(09-Jun-20 06:00 PM)_
+
 > Seth: "Ah, there's my train, I'll see you some other time perhaps."
 
-**Sean** *(09-Jun-20 06:00 PM)*
+**Sean** _(09-Jun-20 06:00 PM)_
+
 > Seth: Maybe my friend, maybe.
 
-**Sean** *(09-Jun-20 06:00 PM)*
+**Sean** _(09-Jun-20 06:00 PM)_
 
+_The Skeleton gets up and boards a train_
 
-*The Skeleton gets up and boards a train*
+**Sean** _(09-Jun-20 06:00 PM)_
 
-**Sean** *(09-Jun-20 06:00 PM)*
+_The train bolts off_
 
+**Charles** _(09-Jun-20 06:01 PM)_
+_Vargas makes his way back after receiving and asking for 100k ducketts bonus. _
 
-*The train bolts off*
+**Michael** _(09-Jun-20 06:01 PM)_
 
-**Charles** *(09-Jun-20 06:01 PM)*
-*Vargas makes his way back after receiving and asking for 100k ducketts bonus. *
+_gets his tape measurer out and starts taking Mateo's measurements_
 
-**Michael** *(09-Jun-20 06:01 PM)*
-
-
-*gets his tape measurer out and starts taking Mateo's measurements*
 > Theylin: okay, now test this bar out. Make sure everything feels right, it's gonna be heavier than normal due to the materials used
 
-**Zander** *(09-Jun-20 06:01 PM)*
+**Zander** _(09-Jun-20 06:01 PM)_
+
 > Emmett: Alrighty.
 
-**Sean** *(09-Jun-20 06:01 PM)*
+**Sean** _(09-Jun-20 06:01 PM)_
 
+_The time strikes 5_
 
-*The time strikes 5*
+**Sean** _(09-Jun-20 06:01 PM)_
 
-**Sean** *(09-Jun-20 06:01 PM)*
+_The soul train arrives_
 
+**Sean** _(09-Jun-20 06:01 PM)_
 
-*The soul train arrives*
-
-**Sean** *(09-Jun-20 06:01 PM)*
 > Seth: Ah finally
 
-**Sean** *(09-Jun-20 06:01 PM)*
+**Sean** _(09-Jun-20 06:01 PM)_
 
+_Seth boards the train_
 
-*Seth boards the train*
+**Zander** _(09-Jun-20 06:02 PM)_
 
-**Zander** *(09-Jun-20 06:02 PM)*
+_Vargas proceeds to spend all of his money on plostacian before getting back to the ship._
 
+**Charles** _(09-Jun-20 06:02 PM)_
 
-*Vargas proceeds to spend all of his money on plostacian before getting back to the ship.*
+_Vargas gets back to the ship before it hits the vacation planet announcing his 150k ducketts._
 
-**Charles** *(09-Jun-20 06:02 PM)*
-
-
-*Vargas gets back to the ship before it hits the vacation planet announcing his 150k ducketts.*
-
-**Sean** *(09-Jun-20 06:02 PM)*
+**Sean** _(09-Jun-20 06:02 PM)_
 8ball Does Seth revive on Zarazoga-9?
 
-**FFBot** *(09-Jun-20 06:02 PM)*
+**FFBot** _(09-Jun-20 06:02 PM)_
 N0.
 
-**Michael** *(09-Jun-20 06:02 PM)*
+**Michael** _(09-Jun-20 06:02 PM)_
+
 > Theylin: That feel okay?
 
-**Zander** *(09-Jun-20 06:02 PM)*
+**Zander** _(09-Jun-20 06:02 PM)_
 
+_Mateo pumps the weights in a relatively simple manner._
 
-*Mateo pumps the weights in a relatively simple manner.*
-
-**Sean** *(09-Jun-20 06:03 PM)*
+**Sean** _(09-Jun-20 06:03 PM)_
 8ball Does Seth revive inside Vargas?
 
-**FFBot** *(09-Jun-20 06:03 PM)*
+**FFBot** _(09-Jun-20 06:03 PM)_
 No.
 
-**Zander** *(09-Jun-20 06:03 PM)*
+**Zander** _(09-Jun-20 06:03 PM)_
+
 > Emmett: Works well.
 
-**Michael** *(09-Jun-20 06:03 PM)*
+**Michael** _(09-Jun-20 06:03 PM)_
+
 > Theylin: It's made out of Feltium, a relatively dense material
 
-**Sean** *(09-Jun-20 06:03 PM)*
+**Sean** _(09-Jun-20 06:03 PM)_
 
+_Seth awakens in his bed_
 
-*Seth awakens in his bed*
+**Sean** _(09-Jun-20 06:03 PM)_
 
-**Sean** *(09-Jun-20 06:03 PM)*
 > Seth: Ahhhh, home sweet home
 
-**Sean** *(09-Jun-20 06:03 PM)*
+**Sean** _(09-Jun-20 06:03 PM)_
+
 > Seth: Oh boy I'm proud to say, good morning USA
 
-**Zander** *(09-Jun-20 06:04 PM)*
+**Zander** _(09-Jun-20 06:04 PM)_
+
 > Emmett: What's the weight of the bar?
 
-**Trey** *(09-Jun-20 06:04 PM)*
+**Trey** _(09-Jun-20 06:04 PM)_
 
+_Seth gets zapped by the American Dad Empire._
 
-*Seth gets zapped by the American Dad Empire.*
+**Sean** _(09-Jun-20 06:04 PM)_
 
-**Sean** *(09-Jun-20 06:04 PM)*
 > Seth: AUGHHHH
 
-**Zander** *(09-Jun-20 06:04 PM)*
+**Zander** _(09-Jun-20 06:04 PM)_
 
+_Emmett took out a bag of human brownies, brownies shaped like little men. He sighed happily and took out his holodevice to watch some shows._
 
-*Emmett took out a bag of human brownies, brownies shaped like little men. He sighed happily and took out his holodevice to watch some shows.*
+**Charles** _(09-Jun-20 06:04 PM)_
 
-**Charles** *(09-Jun-20 06:04 PM)*
+_Vargas is starting his mission._
 
+**Sean** _(09-Jun-20 06:04 PM)_
 
-*Vargas is starting his mission.*
+_Instrumental_
 
-**Sean** *(09-Jun-20 06:04 PM)*
+**Sean** _(09-Jun-20 06:04 PM)_
 
-
-*Instrumental*
-
-**Sean** *(09-Jun-20 06:04 PM)*
 > Seth: GOOD MORNING USA
 
-**Zander** *(09-Jun-20 06:04 PM)*
+**Zander** _(09-Jun-20 06:04 PM)_
+
 > Emmett: You want to watch Gold Fisher, Garrick?
 
-**Michael** *(09-Jun-20 06:05 PM)*
+**Michael** _(09-Jun-20 06:05 PM)_
+
 > Theylin: It's about 100 pounds, any less and it wouldn't be able to withstand the weight of the additional 750 pounds you wish to add
 
-**Trey** *(09-Jun-20 06:05 PM)*
+**Trey** _(09-Jun-20 06:05 PM)_
+
 > Garrick: We're not there yet, by the way.
 
-**Trey** *(09-Jun-20 06:05 PM)*
+**Trey** _(09-Jun-20 06:05 PM)_
+
 > Garrick: And sure.
 
-**Zander** *(09-Jun-20 06:05 PM)*
+**Zander** _(09-Jun-20 06:05 PM)_
+
 > Emmett: Alright.
 
-**Sean** *(09-Jun-20 06:05 PM)*
+**Sean** _(09-Jun-20 06:05 PM)_
 8ball Does Seth slowly but surely morph into Stan?
 
-**FFBot** *(09-Jun-20 06:05 PM)*
+**FFBot** _(09-Jun-20 06:05 PM)_
 N.
 
-**Charles** *(09-Jun-20 06:05 PM)*
-* Good Morning USA! Lyrics. Stan: Good morning USA, I've got a feeling that it's gonna be a wonderful day, The sun in the sky has a smile on his face, And he's shining a salute to the American race, Oh boy it's swell to say, Good morning USA!*
+**Charles** _(09-Jun-20 06:05 PM)_
 
-**Sean** *(09-Jun-20 06:05 PM)*
+-   Good Morning USA! Lyrics. Stan: Good morning USA, I've got a feeling that it's gonna be a wonderful day, The sun in the sky has a smile on his face, And he's shining a salute to the American race, Oh boy it's swell to say, Good morning USA!\*
+
+**Sean** _(09-Jun-20 06:05 PM)_
 8ball Does Seth slowly but surely morph into Roger?
 
-**FFBot** *(09-Jun-20 06:05 PM)*
+**FFBot** _(09-Jun-20 06:05 PM)_
 Nyet.
 
-**Trey** *(09-Jun-20 06:05 PM)*
+**Trey** _(09-Jun-20 06:05 PM)_
+
 > Garrick: B🇷🇷🇷🇷🇷🇷🇷🇷🇷🇷🇷🇷
 
-**Sean** *(09-Jun-20 06:05 PM)*
+**Sean** _(09-Jun-20 06:05 PM)_
 8ball Does Seth slowly but surely morph into Roger's tumor baby?
 
-**FFBot** *(09-Jun-20 06:05 PM)*
+**FFBot** _(09-Jun-20 06:05 PM)_
 I guess so.
 
-**Michael** *(09-Jun-20 06:06 PM)*
+**Michael** _(09-Jun-20 06:06 PM)_
+
 > Theylin: Aight, the set should be done in about 2 hours
 
-**Sean** *(09-Jun-20 06:06 PM)*
+**Sean** _(09-Jun-20 06:06 PM)_
+
 > Seth: I am become all powerful hahaha
 
-**Zander** *(09-Jun-20 06:07 PM)*
+**Zander** _(09-Jun-20 06:07 PM)_
+
 > Emmett: Merci beaucoup.
 > Emmett: Come over here, Garrick. It's been a bit since we've spent actual quality time together.
 
-**Sean** *(09-Jun-20 06:07 PM)*
+**Sean** _(09-Jun-20 06:07 PM)_
 
+_Seth exits his room_
 
-*Seth exits his room*
+**Trey** _(09-Jun-20 06:07 PM)_
 
-**Trey** *(09-Jun-20 06:07 PM)*
+_Garrick slams himself on a chair._
 
+**Sean** _(09-Jun-20 06:08 PM)_
 
-*Garrick slams himself on a chair.*
+_Seth enters into the Dining room_
 
-**Sean** *(09-Jun-20 06:08 PM)*
-
-
-*Seth enters into the Dining room*
-
-**Zander** *(09-Jun-20 06:09 PM)*
+**Zander** _(09-Jun-20 06:09 PM)_
 8ball Is the ship at Zarazoga?
 
-**FFBot** *(09-Jun-20 06:09 PM)*
+**FFBot** _(09-Jun-20 06:09 PM)_
 Yo mama. (Yes).
 
-**Zander** *(09-Jun-20 06:10 PM)*
+**Zander** _(09-Jun-20 06:10 PM)_
 8ball Are ancient languages still taught on earth?
 
-**FFBot** *(09-Jun-20 06:10 PM)*
+**FFBot** _(09-Jun-20 06:10 PM)_
 Yup.
 
-**Charles** *(09-Jun-20 06:10 PM)*
+**Charles** _(09-Jun-20 06:10 PM)_
 8ball does Vargas make it back with all 150 ducketts untouched from a succesful mission.
 
-**FFBot** *(09-Jun-20 06:10 PM)*
+**FFBot** _(09-Jun-20 06:10 PM)_
 Nope.
 
-**Zander** *(09-Jun-20 06:10 PM)*
+**Zander** _(09-Jun-20 06:10 PM)_
 
+_They finished an episode of Gold Fisher._
 
-*They finished an episode of Gold Fisher.*
 > Emmett: Wait, Garrick.
 
-**Charles** *(09-Jun-20 06:10 PM)*
+**Charles** _(09-Jun-20 06:10 PM)_
 
+_Vargas panting from a rough mission._
 
-*Vargas panting from a rough mission.*
+**Zander** _(09-Jun-20 06:10 PM)_
 
-**Zander** *(09-Jun-20 06:10 PM)*
 > Emmett: Are they in GU territory?
 
-**Charles** *(09-Jun-20 06:10 PM)*
+**Charles** _(09-Jun-20 06:10 PM)_
+
 > Vargas: I fucked up.
 
-**Trey** *(09-Jun-20 06:10 PM)*
+**Trey** _(09-Jun-20 06:10 PM)_
+
 > Garrick: They? Oh, you mean Zarazoga?
 
-**Preston** *(09-Jun-20 06:10 PM)*
+**Preston** _(09-Jun-20 06:10 PM)_
+
 > Volentina: What's a GU?
 
-**Sean** *(09-Jun-20 06:11 PM)*
+**Sean** _(09-Jun-20 06:11 PM)_
+
 > Seth: Emmett, give me candy
 
-**Charles** *(09-Jun-20 06:11 PM)*
+**Charles** _(09-Jun-20 06:11 PM)_
+
 > Vargas: Big time.
 
-**Sean** *(09-Jun-20 06:11 PM)*
+**Sean** _(09-Jun-20 06:11 PM)_
+
 > Seth: I hunger
 
-**Trey** *(09-Jun-20 06:11 PM)*
+**Trey** _(09-Jun-20 06:11 PM)_
+
 > Garrick: I dunno, I didn't check.
 
-**Zander** *(09-Jun-20 06:11 PM)*
+**Zander** _(09-Jun-20 06:11 PM)_
 
+_Emmett sees Seth._
 
-*Emmett sees Seth.*
 > Emmett: What the fuck is that?
 
-**Charles** *(09-Jun-20 06:11 PM)*
+**Charles** _(09-Jun-20 06:11 PM)_
+
 > Vargas: I stole the reward money and didn't kill my target.
 
-**Sean** *(09-Jun-20 06:11 PM)*
+**Sean** _(09-Jun-20 06:11 PM)_
+
 > Seth: Give me candy
 
-**Charles** *(09-Jun-20 06:11 PM)*
+**Charles** _(09-Jun-20 06:11 PM)_
+
 > Vargas: Everything went sideways.
 
-**Preston** *(09-Jun-20 06:11 PM)*
+**Preston** _(09-Jun-20 06:11 PM)_
 8ball Does Volentina have another smooth rock?
 
-**FFBot** *(09-Jun-20 06:11 PM)*
+**FFBot** _(09-Jun-20 06:11 PM)_
 My reply is no.
 
-**Zander** *(09-Jun-20 06:12 PM)*
+**Zander** _(09-Jun-20 06:12 PM)_
 
+_Emmett gives the alien Seth a brownie._
 
-*Emmett gives the alien Seth a brownie.*
+**Sean** _(09-Jun-20 06:12 PM)_
 
-**Sean** *(09-Jun-20 06:12 PM)*
+_Seth splits into 2 Rogus_
 
+**Zander** _(09-Jun-20 06:12 PM)_
 
-*Seth splits into 2 Rogus*
-
-**Zander** *(09-Jun-20 06:12 PM)*
 > Emmett: Okay then.
 
-**Michael** *(09-Jun-20 06:12 PM)*
+**Michael** _(09-Jun-20 06:12 PM)_
 8ball does 2 hours pass?
 
-**FFBot** *(09-Jun-20 06:12 PM)*
+**FFBot** _(09-Jun-20 06:12 PM)_
 You may rely on it.
 
-**Charles** *(09-Jun-20 06:12 PM)*
+**Charles** _(09-Jun-20 06:12 PM)_
+
 > Vargas: I got a drug lord after me now.
 
-**Sean** *(09-Jun-20 06:13 PM)*
+**Sean** _(09-Jun-20 06:13 PM)_
+
 > Seth: More candy
 
-**Charles** *(09-Jun-20 06:13 PM)*
+**Charles** _(09-Jun-20 06:13 PM)_
+
 > Vargas: Have fun.
 
-**Charles** *(09-Jun-20 06:13 PM)*
+**Charles** _(09-Jun-20 06:13 PM)_
 \
 
-**Charles** *(09-Jun-20 06:13 PM)*
+**Charles** _(09-Jun-20 06:13 PM)_
 '
 
-**Zander** *(09-Jun-20 06:13 PM)*
+**Zander** _(09-Jun-20 06:13 PM)_
+
 > Emmett: Garrick, can you please check for me?
 
-**Sean** *(09-Jun-20 06:13 PM)*
+**Sean** _(09-Jun-20 06:13 PM)_
 8ball Does the split up Seths fortnite default dance?
 
-**FFBot** *(09-Jun-20 06:13 PM)*
+**FFBot** _(09-Jun-20 06:13 PM)_
 It is decidedly so.
 
-**Charles** *(09-Jun-20 06:13 PM)*
+**Charles** _(09-Jun-20 06:13 PM)_
 
+_Vargas chuckles after all he is on a ton of plostacian._
 
-*Vargas chuckles after all he is on a ton of plostacian.*
+**Zander** _(09-Jun-20 06:14 PM)_
 
-**Zander** *(09-Jun-20 06:14 PM)*
 > Emmett: I really don't want to lose my mood.
 
-**Trey** *(09-Jun-20 06:14 PM)*
+**Trey** _(09-Jun-20 06:14 PM)_
 
+_Garrick leaves for the cockpit, again._
 
-*Garrick leaves for the cockpit, again.*
+**Sean** _(09-Jun-20 06:14 PM)_
 
-**Sean** *(09-Jun-20 06:14 PM)*
 > Seth: I need screen time
 
-**Trey** *(09-Jun-20 06:14 PM)*
+**Trey** _(09-Jun-20 06:14 PM)_
 8ball is Zarazoga in GU territorry?
 
-**FFBot** *(09-Jun-20 06:14 PM)*
+**FFBot** _(09-Jun-20 06:14 PM)_
 No, but something that the person before you decides upon happens.
 
-**Charles** *(09-Jun-20 06:15 PM)*
+**Charles** _(09-Jun-20 06:15 PM)_
 
+_Vargas turns into Roger._
 
-*Vargas turns into Roger.*
-
-**Zander** *(09-Jun-20 06:15 PM)*
+**Zander** _(09-Jun-20 06:15 PM)_
 8ball Does what Sean say get revoked and instead, Zarazoga is not under GU territory?
 
-**FFBot** *(09-Jun-20 06:15 PM)*
+**FFBot** _(09-Jun-20 06:15 PM)_
 Yes but actually no.
 
-**Sean** *(09-Jun-20 06:15 PM)*
+**Sean** _(09-Jun-20 06:15 PM)_
 
+_Seth starts morphing into Stan_
 
-*Seth starts morphing into Stan*
+**Trey** _(09-Jun-20 06:15 PM)_
 
-**Trey** *(09-Jun-20 06:15 PM)*
+_Garrick starts morphing into Klaus Heissler._
 
+**Zander** _(09-Jun-20 06:15 PM)_
 
-*Garrick starts morphing into Klaus Heissler.*
+_Emmett, as Steve._
 
-**Zander** *(09-Jun-20 06:15 PM)*
-
-
-*Emmett, as Steve.*
 > Emmett: Is this a security check or something?
 
-**Sean** *(09-Jun-20 06:16 PM)*
+**Sean** _(09-Jun-20 06:16 PM)_
+
 > Seth: It is our disguises
 
-**Charles** *(09-Jun-20 06:16 PM)*
+**Charles** _(09-Jun-20 06:16 PM)_
 
+_Vargas takes on one of his personas._
 
-*Vargas takes on one of his personas.*
-
-**Charles** *(09-Jun-20 06:16 PM)*
+**Charles** _(09-Jun-20 06:16 PM)_
 8ball does everyone transform back?
 
-**FFBot** *(09-Jun-20 06:17 PM)*
+**FFBot** _(09-Jun-20 06:17 PM)_
 ԗݛ. (No).
 
-**Trey** *(09-Jun-20 06:17 PM)*
+**Trey** _(09-Jun-20 06:17 PM)_
 
+_Everyone, of course, passes the test, and turn back into their selves soon after._
 
-*Everyone, of course, passes the test, and turn back into their selves soon after.*
+**Charles** _(09-Jun-20 06:17 PM)_
 
-**Charles** *(09-Jun-20 06:17 PM)*
+_Vargas gags as he looks at Seth._
 
+**Charles** _(09-Jun-20 06:17 PM)_
 
-*Vargas gags as he looks at Seth.*
-
-**Charles** *(09-Jun-20 06:17 PM)*
 > Vargas: EEEEEEEW ROGUEEEEEE
 
-**Zander** *(09-Jun-20 06:18 PM)*
+**Zander** _(09-Jun-20 06:18 PM)_
+
 > Emmett: Well, at least I'm not a disgusting fleshy. No offense, Seth.
 
-**Sean** *(09-Jun-20 06:19 PM)*
+**Sean** _(09-Jun-20 06:19 PM)_
+
 > Seth: None taken, though at least I'm not a furfag
 
-**Zander** *(09-Jun-20 06:19 PM)*
+**Zander** _(09-Jun-20 06:19 PM)_
 
+_Emmett shrugged._
 
-*Emmett shrugged.*
 > Emmett: I'm not a faggot though. But I appreciate the rebuttal.
 
-**Charles** *(09-Jun-20 06:20 PM)*
+**Charles** _(09-Jun-20 06:20 PM)_
+
 > Vargas: Seth is a fag though.
 
-**Zander** *(09-Jun-20 06:20 PM)*
+**Zander** _(09-Jun-20 06:20 PM)_
+
 > Emmett: I'm assuming Zarazoga-9 is free from GU influence given the AD check.
 
-**Sean** *(09-Jun-20 06:20 PM)*
+**Sean** _(09-Jun-20 06:20 PM)_
 
+_Seth goes back to being Seth and he shoots and kills the other Seth_
 
-*Seth goes back to being Seth and he shoots and kills the other Seth*
+**Zander** _(09-Jun-20 06:21 PM)_
 
-**Zander** *(09-Jun-20 06:21 PM)*
 > Emmett: Well, I'm going out. Do we have tickets?
 
-**Zander** *(09-Jun-20 06:21 PM)*
+**Zander** _(09-Jun-20 06:21 PM)_
 
+_Emmett got up confidently._
 
-*Emmett got up confidently.*
+**Sean** _(09-Jun-20 06:21 PM)_
 
-**Sean** *(09-Jun-20 06:21 PM)*
 > Seth: I have mine
 
-**Charles** *(09-Jun-20 06:21 PM)*
+**Charles** _(09-Jun-20 06:21 PM)_
+
 > Vargas: I have mine.
 
-**Michael** *(09-Jun-20 06:22 PM)*
+**Michael** _(09-Jun-20 06:22 PM)_
 
+_speaks via comms_
 
-*speaks via comms*
 > Theylin: Mateo, come get ur weight set.
 
-**Trey** *(09-Jun-20 06:22 PM)*
+**Trey** _(09-Jun-20 06:22 PM)_
+
 > Garrick: Sanya has them.
 
-**Zander** *(09-Jun-20 06:22 PM)*
+**Zander** _(09-Jun-20 06:22 PM)_
+
 > Emmett: Wait, you guys all knew about this?
 
-**Zander** *(09-Jun-20 06:22 PM)*
+**Zander** _(09-Jun-20 06:22 PM)_
+
 > Emmett: Why was I let out of the loop?
 
-**Michael** *(09-Jun-20 06:23 PM)*
+**Michael** _(09-Jun-20 06:23 PM)_
 8ball does Emmett show up in yo mamma jeans?
 
-**Charles** *(09-Jun-20 06:23 PM)*
+**Charles** _(09-Jun-20 06:23 PM)_
 
+_Vargas stares at Seth with smoldering intensity._
 
-*Vargas stares at Seth with smoldering intensity.*
-
-**FFBot** *(09-Jun-20 06:23 PM)*
+**FFBot** _(09-Jun-20 06:23 PM)_
 No, but something that the person before you decides upon happens.
 
-**Trey** *(09-Jun-20 06:23 PM)*
+**Trey** _(09-Jun-20 06:23 PM)_
+
 > Garrick: We didn't tell anyone else, I think Seth is just being insane.
 
-**Charles** *(09-Jun-20 06:24 PM)*
+**Charles** _(09-Jun-20 06:24 PM)_
 
+_With a intense stare._
 
-*With a intense stare.*
+**Zander** _(09-Jun-20 06:24 PM)_
 
-**Zander** *(09-Jun-20 06:24 PM)*
+_Emmett went into Sanya's room and noticed the pot broken. Her bed was messy and there was no trace of her._
 
+**Zander** _(09-Jun-20 06:24 PM)_
 
-*Emmett went into Sanya's room and noticed the pot broken. Her bed was messy and there was no trace of her.*
-
-**Zander** *(09-Jun-20 06:24 PM)*
 > Emmett: Huh. Sanya's gone?
 
-**Sean** *(09-Jun-20 06:25 PM)*
+**Sean** _(09-Jun-20 06:25 PM)_
 8ball Does Seth morph into Sanya?
 
-**FFBot** *(09-Jun-20 06:25 PM)*
+**FFBot** _(09-Jun-20 06:25 PM)_
 Happy to tell you that it does happen.
 
-**Sean** *(09-Jun-20 06:25 PM)*
+**Sean** _(09-Jun-20 06:25 PM)_
+
 > Seth: EMMETT!
 
-**Sean** *(09-Jun-20 06:25 PM)*
+**Sean** _(09-Jun-20 06:25 PM)_
+
 > Seth: Garrick, where is Emmett?
 
-**Trey** *(09-Jun-20 06:26 PM)*
+**Trey** _(09-Jun-20 06:26 PM)_
 8ball does Garrick see through this disguise?
 
-**FFBot** *(09-Jun-20 06:26 PM)*
+**FFBot** _(09-Jun-20 06:26 PM)_
 I guess not.
 
-**Trey** *(09-Jun-20 06:26 PM)*
+**Trey** _(09-Jun-20 06:26 PM)_
+
 > Garrick: Oh, hey Sanya! Where have you been?
 
-**Zander** *(09-Jun-20 06:26 PM)*
+**Zander** _(09-Jun-20 06:26 PM)_
 8ball Does Emmett find the tickets on her bedside table?
 
-**FFBot** *(09-Jun-20 06:26 PM)*
+**FFBot** _(09-Jun-20 06:26 PM)_
 Bro, your action made it. Welcome to the party. (Yes).
 
-**Sean** *(09-Jun-20 06:26 PM)*
+**Sean** _(09-Jun-20 06:26 PM)_
+
 > Seth: In the walls.
 
-**Sean** *(09-Jun-20 06:26 PM)*
+**Sean** _(09-Jun-20 06:26 PM)_
+
 > Seth: I saw a rat and started chasing it
 
-**Charles** *(09-Jun-20 06:26 PM)*
+**Charles** _(09-Jun-20 06:26 PM)_
 8ball does Vargas see through Seths disguise?
 
-**FFBot** *(09-Jun-20 06:26 PM)*
+**FFBot** _(09-Jun-20 06:26 PM)_
 Person who's after you decides!
 
-**Michael** *(09-Jun-20 06:27 PM)*
+**Michael** _(09-Jun-20 06:27 PM)_
 no instead Vargas passes out from straining his brain
 
-**Zander** *(09-Jun-20 06:27 PM)*
+**Zander** _(09-Jun-20 06:27 PM)_
+
 > Emmett: I found the tickets, everyone!
 
-**Trey** *(09-Jun-20 06:27 PM)*
+**Trey** _(09-Jun-20 06:27 PM)_
 That would be "no"
 
-**Sean** *(09-Jun-20 06:27 PM)*
+**Sean** _(09-Jun-20 06:27 PM)_
+
 > Seth: Oh good!
 
-**Sean** *(09-Jun-20 06:27 PM)*
+**Sean** _(09-Jun-20 06:27 PM)_
+
 > Seth: Emmett, come here honey
 
-**Zander** *(09-Jun-20 06:27 PM)*
+**Zander** _(09-Jun-20 06:27 PM)_
 
+_Emmett walked into the room, slipping on another pea._
 
-*Emmett walked into the room, slipping on another pea.*
+**Charles** _(09-Jun-20 06:28 PM)_
 
-**Charles** *(09-Jun-20 06:28 PM)*
 > Vargas: Seths a little bitch huh.
 
-**Zander** *(09-Jun-20 06:28 PM)*
+**Zander** _(09-Jun-20 06:28 PM)_
+
 > Emmett: Whoa!
 
-**Charles** *(09-Jun-20 06:28 PM)*
+**Charles** _(09-Jun-20 06:28 PM)_
+
 > Vargas: He left like a pussy.
 
-**Sean** *(09-Jun-20 06:28 PM)*
+**Sean** _(09-Jun-20 06:28 PM)_
 
+_Seth rips off his shirt and begins tossing her tits_
 
-*Seth rips off his shirt and begins tossing her tits*
+**Sean** _(09-Jun-20 06:28 PM)_
 
-**Sean** *(09-Jun-20 06:28 PM)*
 > Seth: You like?
 
-**Zander** *(09-Jun-20 06:28 PM)*
+**Zander** _(09-Jun-20 06:28 PM)_
 
+_Emmett's face is on the ground._
 
-*Emmett's face is on the ground.*
+**Charles** _(09-Jun-20 06:28 PM)_
 
-**Charles** *(09-Jun-20 06:28 PM)*
+_Vargas sees this and goes hmm oooook._
 
+**Preston** _(09-Jun-20 06:28 PM)_
 
-*Vargas sees this and goes hmm oooook.*
-
-**Preston** *(09-Jun-20 06:28 PM)*
 > Volentina: What in the world did I just walk back in to??
 
-**Zander** *(09-Jun-20 06:29 PM)*
+**Zander** _(09-Jun-20 06:29 PM)_
+
 > Emmett: What?
 
-**Michael** *(09-Jun-20 06:29 PM)*
+**Michael** _(09-Jun-20 06:29 PM)_
 8ball does Emmett go "girl boobs? AWUUUUUUUGGGAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"?
 
-**FFBot** *(09-Jun-20 06:29 PM)*
+**FFBot** _(09-Jun-20 06:29 PM)_
 Yup.
 
-**Trey** *(09-Jun-20 06:29 PM)*
+**Trey** _(09-Jun-20 06:29 PM)_
 
+_Emmett's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!"_
 
-*Emmett's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!”*
+**Zander** _(09-Jun-20 06:29 PM)_
 
-**Zander** *(09-Jun-20 06:29 PM)*
+_Emmett picked himself up and saw SethSanya._
 
+**Preston** _(09-Jun-20 06:29 PM)_
 
-*Emmett picked himself up and saw SethSanya.*
-
-**Preston** *(09-Jun-20 06:29 PM)*
 > Volentina: Apparently Sanya is flaunting her tits around.
 
-**Zander** *(09-Jun-20 06:29 PM)*
+**Zander** _(09-Jun-20 06:29 PM)_
+
 > Emmett: Sanya would never do this. She's afraid of tossing her tits around.
 
-**Trey** *(09-Jun-20 06:29 PM)*
+**Trey** _(09-Jun-20 06:29 PM)_
 
+_Garrick is confused and afraid._
 
-*Garrick is confused and afraid.*
+**Charles** _(09-Jun-20 06:30 PM)_
 
-**Charles** *(09-Jun-20 06:30 PM)*
 > Vargas: Nice i like it Sayna.
 
-**Sean** *(09-Jun-20 06:30 PM)*
+**Sean** _(09-Jun-20 06:30 PM)_
 
+_Seth's head goes 360 degrees and he begins screeching, he gets down into a crab walk and crawls away_
 
-*Seth's head goes 360 degrees and he begins screeching, he gets down into a crab walk and crawls away*
+**Preston** _(09-Jun-20 06:30 PM)_
 
-**Preston** *(09-Jun-20 06:30 PM)*
 > Volentina: Well then sanya has either changed her mind or someone has a good disguise
 
-**Sean** *(09-Jun-20 06:30 PM)*
+**Sean** _(09-Jun-20 06:30 PM)_
 
+_Seth's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!"_
 
-*Seth's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!”*
+**Charles** _(09-Jun-20 06:30 PM)_
 
-**Charles** *(09-Jun-20 06:30 PM)*
 > Vargas: Fuck yeah now thats the shit.
 
-*whispers Vargas to himself*
+_whispers Vargas to himself_
 
-**Trey** *(09-Jun-20 06:31 PM)*
+**Trey** _(09-Jun-20 06:31 PM)_
+
 > Garrick: What are you two doing?!
 
-**Charles** *(09-Jun-20 06:31 PM)*
-Vargas's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!”
+**Charles** _(09-Jun-20 06:31 PM)_
+Vargas's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!"
 (edited)
 
-**Preston** *(09-Jun-20 06:32 PM)*
+**Preston** _(09-Jun-20 06:32 PM)_
 
+_Volentina just blinks before walking away from the commotion, shaking her head_
 
-*Volentina just blinks before walking away from the commotion, shaking her head*
+**Zander** _(09-Jun-20 06:32 PM)_
 
-**Zander** *(09-Jun-20 06:32 PM)*
 > Emmett: Garrick, let's just go.
 
-**Zander** *(09-Jun-20 06:32 PM)*
+**Zander** _(09-Jun-20 06:32 PM)_
+
 > Emmett: I'm getting uncomfortable by the weirdos.
 
-**Zander** *(09-Jun-20 06:32 PM)*
+**Zander** _(09-Jun-20 06:32 PM)_
 
+_Emmett slid over to the hatch._
 
-*Emmett slid over to the hatch.*
+**Trey** _(09-Jun-20 06:34 PM)_
 
-**Trey** *(09-Jun-20 06:34 PM)*
 > Garrick: I'm never going to unsee that...
 
-**Trey** *(09-Jun-20 06:34 PM)*
+**Trey** _(09-Jun-20 06:34 PM)_
 
+_Garrick follows suit._
 
-*Garrick follows suit.*
+**Zander** _(09-Jun-20 06:34 PM)_
 
-**Zander** *(09-Jun-20 06:34 PM)*
 > Emmett: Dude, she doesn't even have titties. It's not even arousing.
 
-**Trey** *(09-Jun-20 06:35 PM)*
+**Trey** _(09-Jun-20 06:35 PM)_
 8ball does Sanya have titties
 
-**FFBot** *(09-Jun-20 06:35 PM)*
+**FFBot** _(09-Jun-20 06:35 PM)_
 Outlook good.
 
-**Charles** *(09-Jun-20 06:35 PM)*
+**Charles** _(09-Jun-20 06:35 PM)_
+
 > Vargas: I'm tramitized
 
-**Trey** *(09-Jun-20 06:35 PM)*
+**Trey** _(09-Jun-20 06:35 PM)_
+
 > Garrick: She definitely does.
 
-**Charles** *(09-Jun-20 06:35 PM)*
+**Charles** _(09-Jun-20 06:35 PM)_
+
 > Vargas: by that picture.
 
-**Sean** *(09-Jun-20 06:35 PM)*
+**Sean** _(09-Jun-20 06:35 PM)_
 8ball Are they big?
 
-**FFBot** *(09-Jun-20 06:35 PM)*
+**FFBot** _(09-Jun-20 06:35 PM)_
 No.
 
-**Zander** *(09-Jun-20 06:35 PM)*
+**Zander** _(09-Jun-20 06:35 PM)_
+
 > Emmett: I didn't see any.
 
-**Charles** *(09-Jun-20 06:36 PM)*
+**Charles** _(09-Jun-20 06:36 PM)_
+
 > Vargas: That was hot though.
 
-**Preston** *(09-Jun-20 06:36 PM)*
+**Preston** _(09-Jun-20 06:36 PM)_
+
 > Volentina: Why are you discussing her tits?
 
-**Charles** *(09-Jun-20 06:36 PM)*
+**Charles** _(09-Jun-20 06:36 PM)_
+
 > Vargas: But that picture.
 
-**Brody** *(09-Jun-20 06:36 PM)*
+**Brody** _(09-Jun-20 06:36 PM)_
 (She always has)
 
-**Trey** *(09-Jun-20 06:36 PM)*
+**Trey** _(09-Jun-20 06:36 PM)_
 We meant nipples
 
-**Brody** *(09-Jun-20 06:36 PM)*
+**Brody** _(09-Jun-20 06:36 PM)_
 (oh)
 
-**Trey** *(09-Jun-20 06:37 PM)*
+**Trey** _(09-Jun-20 06:37 PM)_
 Zander mistyped and I just copied him apparently
 
-**Charles** *(09-Jun-20 06:37 PM)*
+**Charles** _(09-Jun-20 06:37 PM)_
+
 > Vargas: UUUUUUUUUGH.
 
-**Zander** *(09-Jun-20 06:37 PM)*
+**Zander** _(09-Jun-20 06:37 PM)_
 We're stopping here.
 
-**Zander** *(09-Jun-20 06:37 PM)*
+**Zander** _(09-Jun-20 06:37 PM)_
 This'll be an extended episode. It'll continue on Monday.
 
-**Trey** *(09-Jun-20 06:37 PM)*
+**Trey** _(09-Jun-20 06:37 PM)_
 [SESSION PAUSED]
 
-**FFBot** *(09-Jun-20 11:44 PM)*
-🎱 |  It is certain, [RP]retribution
+**FFBot** _(09-Jun-20 11:44 PM)_
+🎱 | It is certain, [RP]retribution
 
-**FFBot** *(10-Jun-20 12:26 AM)*
-🎱 |  Ask again later, [RP]retribution
+**FFBot** _(10-Jun-20 12:26 AM)_
+🎱 | Ask again later, [RP]retribution
 
-**FFBot** *(10-Jun-20 12:26 AM)*
-🎱 |  Reply hazy try again, [RP]retribution
+**FFBot** _(10-Jun-20 12:26 AM)_
+🎱 | Reply hazy try again, [RP]retribution
 
-**FFBot** *(10-Jun-20 12:26 AM)*
-🎱 |  Without a doubt, [RP]retribution
+**FFBot** _(10-Jun-20 12:26 AM)_
+🎱 | Without a doubt, [RP]retribution
 
-**Zander** *(16-Jun-20 04:20 PM)*
+**Zander** _(16-Jun-20 04:20 PM)_
 
+_Emmett gets to the cockpit and speaks to the security over the ship's comms._
 
-*Emmett gets to the cockpit and speaks to the security over the ship's comms.*
+**Zander** _(16-Jun-20 04:20 PM)_
 
-**Zander** *(16-Jun-20 04:20 PM)*
 > Emmett: We're safe. We have tickets. Please don't turn us into American Dad characters.
 
-**Zander** *(16-Jun-20 04:20 PM)*
+**Zander** _(16-Jun-20 04:20 PM)_
+
 > Emmett: "You're in the clear. Park over in section I-66."
 
-**Zander** *(16-Jun-20 04:20 PM)*
+**Zander** _(16-Jun-20 04:20 PM)_
 8ball Does Emmett park the ship in section I-66?
 
-**FFBot** *(16-Jun-20 04:21 PM)*
+**FFBot** _(16-Jun-20 04:21 PM)_
 Ja.
 
-**Zander** *(16-Jun-20 04:21 PM)*
+**Zander** _(16-Jun-20 04:21 PM)_
+
 > Emmett: Cool.
 
-*Emmett gets back into the den, waiting for the others.*
+_Emmett gets back into the den, waiting for the others._
 
-**Zander** *(16-Jun-20 04:21 PM)*
+**Zander** _(16-Jun-20 04:21 PM)_
+
 > Emmett: SANYA, GARRICK.
 
-**Zander** *(16-Jun-20 04:21 PM)*
+**Zander** _(16-Jun-20 04:21 PM)_
+
 > Emmett: (others)
 
-**Zander** *(16-Jun-20 04:21 PM)*
+**Zander** _(16-Jun-20 04:21 PM)_
+
 > Emmett: Get in here.
 
-**Brody** *(16-Jun-20 04:22 PM)*
+**Brody** _(16-Jun-20 04:22 PM)_
 
+_Sanya walks out of her room, walking to the den_
 
-*Sanya walks out of her room, walking to the den*
+**Zander** _(16-Jun-20 04:23 PM)_
 
-**Zander** *(16-Jun-20 04:23 PM)*
 > Emmett: Sanya.
 
-**Brody** *(16-Jun-20 04:23 PM)*
+**Brody** _(16-Jun-20 04:23 PM)_
+
 > Sanya: What is it, Emmett?
 
-**Zander** *(16-Jun-20 04:23 PM)*
+**Zander** _(16-Jun-20 04:23 PM)_
+
 > Emmett: You have a doppelganger.
 
-**Brody** *(16-Jun-20 04:24 PM)*
+**Brody** _(16-Jun-20 04:24 PM)_
 8ball Does Seth flash Sanya?
 
-**FFBot** *(16-Jun-20 04:24 PM)*
+**FFBot** _(16-Jun-20 04:24 PM)_
 You decide. You earned it!
 
-**Zander** *(16-Jun-20 04:24 PM)*
+**Zander** _(16-Jun-20 04:24 PM)_
 
+_Emmett looks over to the nippled Sanya and sweats a little._
 
-*Emmett looks over to the nippled Sanya and sweats a little.*
+**Brody** _(16-Jun-20 04:24 PM)_
 
-**Brody** *(16-Jun-20 04:24 PM)*
 > Sanya: "You're pretty hot, sunflower!"
 
-**Zander** *(16-Jun-20 04:25 PM)*
+**Zander** _(16-Jun-20 04:25 PM)_
+
 > Emmett: Seth, why?
 
-**Brody** *(16-Jun-20 04:25 PM)*
+**Brody** _(16-Jun-20 04:25 PM)_
 
+_Sanya does a double take at the doppleganger_
 
-*Sanya does a double take at the doppleganger*
+**Brody** _(16-Jun-20 04:25 PM)_
 
-**Brody** *(16-Jun-20 04:25 PM)*
 > Sanya: "Because I can. Plus, Tits."
 
-**Trey** *(16-Jun-20 04:26 PM)*
+**Trey** _(16-Jun-20 04:26 PM)_
+
 > Garrick: Are we bringing two Sanyas with us?
 
-**Brody** *(16-Jun-20 04:26 PM)*
+**Brody** _(16-Jun-20 04:26 PM)_
+
 > Sanya: If you don't put my shirt back on, i'll show you how it feels to be stabbed as a woman.
 
-**Zander** *(16-Jun-20 04:26 PM)*
+**Zander** _(16-Jun-20 04:26 PM)_
+
 > Emmett: I mean, I wouldn't be bothered by two Sanyas.
 
-**Trey** *(16-Jun-20 04:26 PM)*
+**Trey** _(16-Jun-20 04:26 PM)_
 8ball does Seth put the shirt on real Sanya
 
-**FFBot** *(16-Jun-20 04:27 PM)*
+**FFBot** _(16-Jun-20 04:27 PM)_
 Spell it with me now, N-O.
 
-**Zander** *(16-Jun-20 04:27 PM)*
+**Zander** _(16-Jun-20 04:27 PM)_
+
 > Emmett: As long as they don't bully me.
 
-**Brody** *(16-Jun-20 04:27 PM)*
-> Sanya: No, Garrick. We are not bringing that *thing* with us.
+**Brody** _(16-Jun-20 04:27 PM)_
 
-**Brody** *(16-Jun-20 04:27 PM)*
+> Sanya: No, Garrick. We are not bringing that _thing_ with us.
 
+**Brody** _(16-Jun-20 04:27 PM)_
 
-*Seth slips the shirt completely off, throwing it over Sanya's head.*
+_Seth slips the shirt completely off, throwing it over Sanya's head._
 
-**Zander** *(16-Jun-20 04:27 PM)*
+**Zander** _(16-Jun-20 04:27 PM)_
 
+_Emmett proceeded to get to the hatch, waiting on the two._
 
-*Emmett proceeded to get to the hatch, waiting on the two.*
+**Brody** _(16-Jun-20 04:28 PM)_
 
-**Brody** *(16-Jun-20 04:28 PM)*
 > Sanya: "Here you go, sunflower. I think I'm going to go strut your stuff."
 
-**Brody** *(16-Jun-20 04:28 PM)*
+**Brody** _(16-Jun-20 04:28 PM)_
+
 > Sanya: I am not letting you leave this ship looking like me.
 
-**Zander** *(16-Jun-20 04:29 PM)*
+**Zander** _(16-Jun-20 04:29 PM)_
 
+_Emmett tapped his hoof on the ground like Sonic the Hedgehog in his idle animation_
 
-*Emmett tapped his hoof on the ground like Sonic the Hedgehog in his idle animation*
-
-**Zander** *(16-Jun-20 04:29 PM)*
+**Zander** _(16-Jun-20 04:29 PM)_
 8ball Does Seth start to feel himself in front of Sanya?
 
-**FFBot** *(16-Jun-20 04:30 PM)*
+**FFBot** _(16-Jun-20 04:30 PM)_
 N0.
 
-**Brody** *(16-Jun-20 04:30 PM)*
+**Brody** _(16-Jun-20 04:30 PM)_
+
 > Sanya: Put the shirt on. Now.
 
-**Trey** *(16-Jun-20 04:31 PM)*
+**Trey** _(16-Jun-20 04:31 PM)_
 8ball is Sanya top tier in Final Fighter
 
-**FFBot** *(16-Jun-20 04:31 PM)*
+**FFBot** _(16-Jun-20 04:31 PM)_
 Outlook bad.
 
-**Zander** *(16-Jun-20 04:32 PM)*
+**Zander** _(16-Jun-20 04:32 PM)_
 
+_Garrick enters the scene and pulls something out of his pockets to alleviate the situation._
 
-*Garrick enters the scene and pulls something out of his pockets to alleviate the situation.*
+**Zander** _(16-Jun-20 04:32 PM)_
 
-**Zander** *(16-Jun-20 04:32 PM)*
 > Emmett: SANYA(s).
 
-**Zander** *(16-Jun-20 04:32 PM)*
+**Zander** _(16-Jun-20 04:32 PM)_
+
 > Emmett: PLEASE. I WANT TO VACATION.
 
-**Cooldude** *(16-Jun-20 04:33 PM)*
+**Cooldude** _(16-Jun-20 04:33 PM)_
+
 > Wemmfort: SANYA PARENTHESIS S PARENTHESIS.
 
-**Brody** *(16-Jun-20 04:33 PM)*
+**Brody** _(16-Jun-20 04:33 PM)_
+
 > Sanya: I am not leaving until Seth changes!
 
-**Zander** *(16-Jun-20 04:34 PM)*
+**Zander** _(16-Jun-20 04:34 PM)_
 
+_Emmett leans against the hatch._
 
-*Emmett leans against the hatch.*
+**Zander** _(16-Jun-20 04:34 PM)_
 
-**Zander** *(16-Jun-20 04:34 PM)*
 > Emmett: Actually.
 
-**Brody** *(16-Jun-20 04:34 PM)*
+**Brody** _(16-Jun-20 04:34 PM)_
 8ball Does Seth change back into Seth?
 
-**FFBot** *(16-Jun-20 04:34 PM)*
+**FFBot** _(16-Jun-20 04:34 PM)_
 Yo mama. (Yes).
 
-**Trey** *(16-Jun-20 04:34 PM)*
+**Trey** _(16-Jun-20 04:34 PM)_
 
+_That 'something' is the Rubber Chicken._
 
-*That 'something' is the Rubber Chicken.*
+**Zander** _(16-Jun-20 04:34 PM)_
 
-**Zander** *(16-Jun-20 04:34 PM)*
+_Emmett goes to his room for some trunks._
 
+**Trey** _(16-Jun-20 04:35 PM)_
 
-*Emmett goes to his room for some trunks.*
-
-**Trey** *(16-Jun-20 04:35 PM)*
 > Garrick: "HONK"
 
-**Cooldude** *(16-Jun-20 04:35 PM)*
+**Cooldude** _(16-Jun-20 04:35 PM)_
 8ball is wemmfort's translator broken?
 
-**FFBot** *(16-Jun-20 04:35 PM)*
+**FFBot** _(16-Jun-20 04:35 PM)_
 N Word. (No).
 
-**Zander** *(16-Jun-20 04:35 PM)*
+**Zander** _(16-Jun-20 04:35 PM)_
 
+_Emmett comes back into the den._
 
-*Emmett comes back into the den.*
+**Brody** _(16-Jun-20 04:35 PM)_
 
-**Brody** *(16-Jun-20 04:35 PM)*
+_In a puff of colored smoke, Seth returned to his male self_
 
+**Zander** _(16-Jun-20 04:35 PM)_
 
-*In a puff of colored smoke, Seth returned to his male self*
-
-**Zander** *(16-Jun-20 04:35 PM)*
 > Emmett: Garrick, get some swim trunks.
 
-**Trey** *(16-Jun-20 04:35 PM)*
+**Trey** _(16-Jun-20 04:35 PM)_
+
 > Garrick: For what? My legs?
 
-**Zander** *(16-Jun-20 04:35 PM)*
+**Zander** _(16-Jun-20 04:35 PM)_
+
 > Emmett: Your toes.
 
-**Brody** *(16-Jun-20 04:36 PM)*
+**Brody** _(16-Jun-20 04:36 PM)_
+
 > Sanya: What, are we going swimming?
 
-**Trey** *(16-Jun-20 04:36 PM)*
+**Trey** _(16-Jun-20 04:36 PM)_
+
 > Garrick: Gross, they're not toes.
 
-**Zander** *(16-Jun-20 04:36 PM)*
+**Zander** _(16-Jun-20 04:36 PM)_
+
 > Emmett: Sanya, you and Garrick planned this for me apparently.
 
-**Cooldude** *(16-Jun-20 04:36 PM)*
+**Cooldude** _(16-Jun-20 04:36 PM)_
 
+_Wemmfort pops out of nowhere._
 
-*Wemmfort pops out of nowhere.*
 > Wemmfort: Garrick has toes?
 
-**Zander** *(16-Jun-20 04:36 PM)*
+**Zander** _(16-Jun-20 04:36 PM)_
 
+_Emmett points at Garrick's toes._
 
-*Emmett points at Garrick's toes.*
+**Cooldude** _(16-Jun-20 04:36 PM)_
 
-**Cooldude** *(16-Jun-20 04:36 PM)*
 > Wemmfort: I see.
 
-**Trey** *(16-Jun-20 04:37 PM)*
+**Trey** _(16-Jun-20 04:37 PM)_
+
 > Garrick: Not toes.
 
-**Zander** *(16-Jun-20 04:37 PM)*
+**Zander** _(16-Jun-20 04:37 PM)_
 8ball Does someone knock on the hatch?
 
-**FFBot** *(16-Jun-20 04:37 PM)*
+**FFBot** _(16-Jun-20 04:37 PM)_
 Nien.
 
-**Trey** *(16-Jun-20 04:37 PM)*
+**Trey** _(16-Jun-20 04:37 PM)_
 
+_Garrick goes to change into a more tropical-looking vest._
 
-*Garrick goes to change into a more tropical-looking vest.*
-
-**Brody** *(16-Jun-20 04:37 PM)*
+**Brody** _(16-Jun-20 04:37 PM)_
 8ball Is Garrick secretly an eldritch god?
 
-**FFBot** *(16-Jun-20 04:38 PM)*
+**FFBot** _(16-Jun-20 04:38 PM)_
 YAAAAAS!
 
-**Cooldude** *(16-Jun-20 04:38 PM)*
+**Cooldude** _(16-Jun-20 04:38 PM)_
 8ball does Wemmfort suck on Garrick's "toes"?
 
-**FFBot** *(16-Jun-20 04:38 PM)*
+**FFBot** _(16-Jun-20 04:38 PM)_
 Happy to tell you that it does happen.
 
-**Trey** *(16-Jun-20 04:38 PM)*
+**Trey** _(16-Jun-20 04:38 PM)_
 That 8ball is retconned because having two gods is OP
 
-**Brody** *(16-Jun-20 04:38 PM)*
+**Brody** _(16-Jun-20 04:38 PM)_
+
 > Sanya: Um, Garrick? You have company.
 
-**Trey** *(16-Jun-20 04:39 PM)*
+**Trey** _(16-Jun-20 04:39 PM)_
 
+_Wemmfort tries to catch the wispy base in his mouth, but unfortunately fails, because he cannot touch them._
 
-*Wemmfort tries to catch the wispy base in his mouth, but unfortunately fails, because he cannot touch them.*
+**Brody** _(16-Jun-20 04:39 PM)_
 
-**Brody** *(16-Jun-20 04:39 PM)*
 > Sanya: I'll go see if I have some form of swimsuit.
 
-**Brody** *(16-Jun-20 04:39 PM)*
+**Brody** _(16-Jun-20 04:39 PM)_
 
+_Sanya walks back to her room._
 
-*Sanya walks back to her room.*
+**Zander** _(16-Jun-20 04:40 PM)_
 
-**Zander** *(16-Jun-20 04:40 PM)*
+_Impatient, Emmett hops atop of Sanya, holding her head. He does so as Sanya enters her room._
 
+**Cooldude** _(16-Jun-20 04:40 PM)_
 
-*Impatient, Emmett hops atop of Sanya, holding her head. He does so as Sanya enters her room.*
-
-**Cooldude** *(16-Jun-20 04:40 PM)*
 > Wemmfort: Toe yum.
 
-**Zander** *(16-Jun-20 04:40 PM)*
+**Zander** _(16-Jun-20 04:40 PM)_
+
 > Emmett: You're reaaaaaally slow.
 
-**Brody** *(16-Jun-20 04:41 PM)*
+**Brody** _(16-Jun-20 04:41 PM)_
+
 > Sanya: I have a goat on my head.
 
-**Zander** *(16-Jun-20 04:41 PM)*
+**Zander** _(16-Jun-20 04:41 PM)_
 
+_Emmett pokes her cheeks._
 
-*Emmett pokes her cheeks.*
 > Emmett: Get your clothing, you plant.
 
-**Cooldude** *(16-Jun-20 04:42 PM)*
+**Cooldude** _(16-Jun-20 04:42 PM)_
+
 > Wemmfort: Anyway, what's behind that mask of yours?
 
-**Brody** *(16-Jun-20 04:43 PM)*
+**Brody** _(16-Jun-20 04:43 PM)_
+
 > Sanya: I'm not changing with you in the room. There have already been enough of my naked body today.
 
-**Zander** *(16-Jun-20 04:43 PM)*
+**Zander** _(16-Jun-20 04:43 PM)_
+
 > Emmett: Sanya, are you really that insecure about your nipple-less body?
 
-**Zander** *(16-Jun-20 04:43 PM)*
+**Zander** _(16-Jun-20 04:43 PM)_
+
 > Emmett: Or rather, insecure about me seeing it?
 
-**Zander** *(16-Jun-20 04:43 PM)*
+**Zander** _(16-Jun-20 04:43 PM)_
+
 > Emmett: You got completely nude while drunk once. I didn't care.
 
-**Brody** *(16-Jun-20 04:44 PM)*
+**Brody** _(16-Jun-20 04:44 PM)_
+
 > Sanya: What? When was this?
 
-**Zander** *(16-Jun-20 04:45 PM)*
+**Zander** _(16-Jun-20 04:45 PM)_
+
 > Emmett: I dunno, like a few semesters ago.
 
-**Trey** *(16-Jun-20 04:45 PM)*
+**Trey** _(16-Jun-20 04:45 PM)_
 
+_Garrick exits the living quarters in his 'swimsuit'._
 
-*Garrick exits the living quarters in his 'swimsuit'.*
+**Zander** _(16-Jun-20 04:45 PM)_
 
-**Zander** *(16-Jun-20 04:45 PM)*
 > Emmett: We were at those heat springs.
 
-**Zander** *(16-Jun-20 04:45 PM)*
+**Zander** _(16-Jun-20 04:45 PM)_
+
 > Emmett: On Vogega.
 
-**Brody** *(16-Jun-20 04:46 PM)*
+**Brody** _(16-Jun-20 04:46 PM)_
+
 > Sanya: Whether I've been naked or not doesn't matter. Just get out my room, Emmett.
 
-**Cooldude** *(16-Jun-20 04:46 PM)*
+**Cooldude** _(16-Jun-20 04:46 PM)_
 
+_Wemmfort repeats what he said._
 
-*Wemmfort repeats what he said.*
 > Wemmfort: What's behind that mask of yours?
 
-**Trey** *(16-Jun-20 04:46 PM)*
+**Trey** _(16-Jun-20 04:46 PM)_
+
 > Garrick: My face.
 
-**Brody** *(16-Jun-20 04:47 PM)*
+**Brody** _(16-Jun-20 04:47 PM)_
 
+_Sanya reaches to grab the Squoatling_
 
-*Sanya reaches to grab the Squoatling*
+**Trey** _(16-Jun-20 04:47 PM)_
 
-**Trey** *(16-Jun-20 04:47 PM)*
 > Garrick: My face is also in front of the mask.
 
-**Trey** *(16-Jun-20 04:47 PM)*
+**Trey** _(16-Jun-20 04:47 PM)_
 8ball does Garrick take off his mask, revealing the horror of maskless Garrick to Wemmfort?
 
-**FFBot** *(16-Jun-20 04:47 PM)*
+**FFBot** _(16-Jun-20 04:47 PM)_
 Spell it with me now, Y-E-S.
 
-**Trey** *(16-Jun-20 04:47 PM)*
+**Trey** _(16-Jun-20 04:47 PM)_
+
 > Garrick: Just for you, pal.
 
-**Zander** *(16-Jun-20 04:48 PM)*
+**Zander** _(16-Jun-20 04:48 PM)_
 
+_Like a sloth, Emmett hangs over her head, pushing his cheek against her flower._
 
-*Like a sloth, Emmett hangs over her head, pushing his cheek against her flower.*
+**Zander** _(16-Jun-20 04:48 PM)_
 
-**Zander** *(16-Jun-20 04:48 PM)*
 > Emmett: Nah....
 
-**Cooldude** *(16-Jun-20 04:48 PM)*
+**Cooldude** _(16-Jun-20 04:48 PM)_
 It's the truth
 
-**Cooldude** *(16-Jun-20 04:48 PM)*
+**Cooldude** _(16-Jun-20 04:48 PM)_
 You can't hide from it
 
-**Zander** *(16-Jun-20 04:49 PM)*
+**Zander** _(16-Jun-20 04:49 PM)_
 8ball Does maskless Garrick look like Squarrick?
 
-**FFBot** *(16-Jun-20 04:49 PM)*
+**FFBot** _(16-Jun-20 04:49 PM)_
 No.
 
-**Cooldude** *(16-Jun-20 04:49 PM)*
+**Cooldude** _(16-Jun-20 04:49 PM)_
 8ball is maskless Garrick Emmett 2?
 
-**FFBot** *(16-Jun-20 04:49 PM)*
+**FFBot** _(16-Jun-20 04:49 PM)_
 Outlook bad.
 
-**Brody** *(16-Jun-20 04:50 PM)*
+**Brody** _(16-Jun-20 04:50 PM)_
 8ball Does Sanya forcibly remove Emmett from her room?
 
-**FFBot** *(16-Jun-20 04:51 PM)*
+**FFBot** _(16-Jun-20 04:51 PM)_
 You don't got it.
 
-**Trey** *(16-Jun-20 04:51 PM)*
+**Trey** _(16-Jun-20 04:51 PM)_
 8ball does Emmett forcibly remove Sanya from her room?
 
-**FFBot** *(16-Jun-20 04:51 PM)*
+**FFBot** _(16-Jun-20 04:51 PM)_
 Yes, definitely.
 
-**Brody** *(16-Jun-20 04:51 PM)*
+**Brody** _(16-Jun-20 04:51 PM)_
 
+_Sanya is pushed out of her room, as the door thuds closed_
 
-*Sanya is pushed out of her room, as the door thuds closed*
+**Brody** _(16-Jun-20 04:51 PM)_
 
-**Brody** *(16-Jun-20 04:51 PM)*
 > Sanya: Emmett, what are you doing? Get out of there, I need to change.
 
-**Zander** *(16-Jun-20 04:52 PM)*
+**Zander** _(16-Jun-20 04:52 PM)_
+
 > Emmett: Well, Sanya.
 
-**Zander** *(16-Jun-20 04:52 PM)*
+**Zander** _(16-Jun-20 04:52 PM)_
+
 > Emmett: You see, I need to dress you up.
 
-**Zander** *(16-Jun-20 04:52 PM)*
+**Zander** _(16-Jun-20 04:52 PM)_
+
 > Emmett: And you won't let me if I'm out of here.
 
-**Brody** *(16-Jun-20 04:53 PM)*
+**Brody** _(16-Jun-20 04:53 PM)_
+
 > Sanya: I'm changing in your room, then.
 
-**Zander** *(16-Jun-20 04:55 PM)*
+**Zander** _(16-Jun-20 04:55 PM)_
+
 > Emmett: Here.
 
-**Zander** *(16-Jun-20 04:55 PM)*
+**Zander** _(16-Jun-20 04:55 PM)_
 
+_Emmett takes some clothes from Sanya's closet. They were pastel colored, potentially Mary's clothing._
 
-*Emmett takes some clothes from Sanya's closet. They were pastel colored, potentially Mary's clothing.*
+**Zander** _(16-Jun-20 04:55 PM)_
 
-**Zander** *(16-Jun-20 04:55 PM)*
 > Emmett: Wear this.
 
-**Brody** *(16-Jun-20 04:56 PM)*
+**Brody** _(16-Jun-20 04:56 PM)_
+
 > Sanya: That's... not my swimsuit. Here, it's in the back of the closet.
 
-**Zander** *(16-Jun-20 04:56 PM)*
+**Zander** _(16-Jun-20 04:56 PM)_
+
 > Emmett: Sanya.
 
-**Zander** *(16-Jun-20 04:56 PM)*
+**Zander** _(16-Jun-20 04:56 PM)_
+
 > Emmett: This is a swimsuit.
 
-**Zander** *(16-Jun-20 04:56 PM)*
+**Zander** _(16-Jun-20 04:56 PM)_
+
 > Emmett: Unless you have someone else's clothing in here.
 
-**Zander** *(16-Jun-20 04:56 PM)*
+**Zander** _(16-Jun-20 04:56 PM)_
+
 > Emmett: Kinda weird...
 
-**Brody** *(16-Jun-20 04:57 PM)*
+**Brody** _(16-Jun-20 04:57 PM)_
 
+_Sanya reaches past and grabs an outfit similar to her daily wear, but without sleeves._
 
-*Sanya reaches past and grabs an outfit similar to her daily wear, but without sleeves.*
+**Brody** _(16-Jun-20 04:57 PM)_
 
-**Brody** *(16-Jun-20 04:57 PM)*
 > Sanya: Those are... Iris'. She must have put them in my closet. I'll give them back to her.
 
-**Brody** *(16-Jun-20 04:57 PM)*
+**Brody** _(16-Jun-20 04:57 PM)_
 
+_Sanya grabs the clothes from Emmett, stuffing them in her flower._
 
-*Sanya grabs the clothes from Emmett, stuffing them in her flower.*
+**Zander** _(16-Jun-20 04:58 PM)_
 
-**Zander** *(16-Jun-20 04:58 PM)*
+_Emmett crosses his arms._
 
+**Zander** _(16-Jun-20 04:58 PM)_
 
-*Emmett crosses his arms.*
-
-**Zander** *(16-Jun-20 04:58 PM)*
 > Emmett: Alright then.
 
-**Zander** *(16-Jun-20 04:58 PM)*
+**Zander** _(16-Jun-20 04:58 PM)_
 
+_Emmett sat down on her bed, eyeing her._
 
-*Emmett sat down on her bed, eyeing her.*
+**Brody** _(16-Jun-20 05:00 PM)_
 
-**Brody** *(16-Jun-20 05:00 PM)*
 > Sanya: Now, are you going to leave while I change?
 
-**Trey** *(16-Jun-20 05:00 PM)*
+**Trey** _(16-Jun-20 05:00 PM)_
 8ball is chomsky black
 
-**FFBot** *(16-Jun-20 05:00 PM)*
+**FFBot** _(16-Jun-20 05:00 PM)_
 Outlook good.
 
-**Trey** *(16-Jun-20 05:00 PM)*
+**Trey** _(16-Jun-20 05:00 PM)_
 @Jonas
 
-**Brody** *(16-Jun-20 05:00 PM)*
+**Brody** _(16-Jun-20 05:00 PM)_
 @Jonas
 
-**Zander** *(16-Jun-20 05:01 PM)*
+**Zander** _(16-Jun-20 05:01 PM)_
 
+_Emmett shrugged._
 
-*Emmett shrugged.*
 > Emmett: I need to change too.
 
-**Trey** *(16-Jun-20 05:01 PM)*
+**Trey** _(16-Jun-20 05:01 PM)_
 8ball do they hurry up and change
 
-**FFBot** *(16-Jun-20 05:01 PM)*
+**FFBot** _(16-Jun-20 05:01 PM)_
 My reply is no.
 
-**Cooldude** *(16-Jun-20 05:01 PM)*
+**Cooldude** _(16-Jun-20 05:01 PM)_
 @Jonas
 
-**Brody** *(16-Jun-20 05:02 PM)*
+**Brody** _(16-Jun-20 05:02 PM)_
+
 > Sanya: Just get out of my room.
 
-**Zander** *(16-Jun-20 05:02 PM)*
+**Zander** _(16-Jun-20 05:02 PM)_
 
+_Garrick turns into a naked molerat for three seconds._
 
-*Garrick turns into a naked molerat for three seconds.*
+**Trey** _(16-Jun-20 05:02 PM)_
 
-**Trey** *(16-Jun-20 05:02 PM)*
 > Garrick: WHAT ARE YOU TWO DOING? HURRY UP
 
-**Zander** *(16-Jun-20 05:02 PM)*
+**Zander** _(16-Jun-20 05:02 PM)_
+
 > Emmett: WOW. YOU REALLY WANT US TO HURRY UP?
 
-**Trey** *(16-Jun-20 05:02 PM)*
+**Trey** _(16-Jun-20 05:02 PM)_
+
 > Garrick: ᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀᴀ
 
-**Zander** *(16-Jun-20 05:02 PM)*
+**Zander** _(16-Jun-20 05:02 PM)_
 
+_Emmett races out, tossing his shirt at Garrick._
 
-*Emmett races out, tossing his shirt at Garrick.*
+**Cooldude** _(16-Jun-20 05:03 PM)_
 
-**Cooldude** *(16-Jun-20 05:03 PM)*
+_Trey screams in final frontier_
 
+**Brody** _(16-Jun-20 05:03 PM)_
 
-*Trey screams in final frontier*
+_Sanya locks the door behind Emmett, getting dressed._
 
-**Brody** *(16-Jun-20 05:03 PM)*
+**Trey** _(16-Jun-20 05:03 PM)_
 
+_Garrick catches the shirt and throws it back, starting a game of catch._
 
-*Sanya locks the door behind Emmett, getting dressed.*
-
-**Trey** *(16-Jun-20 05:03 PM)*
-
-
-*Garrick catches the shirt and throws it back, starting a game of catch.*
-
-**Cooldude** *(16-Jun-20 05:04 PM)*
+**Cooldude** _(16-Jun-20 05:04 PM)_
 Sanya's boobies look like this
 (edited)
 
-**Zander** *(16-Jun-20 05:05 PM)*
+**Zander** _(16-Jun-20 05:05 PM)_
 
+_Emmett catches the shirt and takes off his sweatpants. He tosses both back and puts on his trunks._
 
-*Emmett catches the shirt and takes off his sweatpants. He tosses both back and puts on his trunks.*
-
-**Jonas** *(16-Jun-20 05:05 PM)*
+**Jonas** _(16-Jun-20 05:05 PM)_
 Chomsky is not black
 
-**Jonas** *(16-Jun-20 05:05 PM)*
+**Jonas** _(16-Jun-20 05:05 PM)_
 Sorry to tell you trey
 
-**Zander** *(16-Jun-20 05:05 PM)*
+**Zander** _(16-Jun-20 05:05 PM)_
 White face
 
-**Trey** *(16-Jun-20 05:05 PM)*
+**Trey** _(16-Jun-20 05:05 PM)_
 Is he going on the beach trip with everyone else
 
-**Cooldude** *(16-Jun-20 05:05 PM)*
+**Cooldude** _(16-Jun-20 05:05 PM)_
 Chomsky is in fact, yellow
 (edited)
 
-**Jonas** *(16-Jun-20 05:06 PM)*
+**Jonas** _(16-Jun-20 05:06 PM)_
 To be honest with you trey I'm not sure hes there at all
 I only came in for 1 episode at the very beginning
 
-**Trey** *(16-Jun-20 05:06 PM)*
+**Trey** _(16-Jun-20 05:06 PM)_
 Is that why Garrick has a picture of his butt with sunglasses on it
 
-**Trey** *(16-Jun-20 05:06 PM)*
+**Trey** _(16-Jun-20 05:06 PM)_
 As memorabilia
 
-**Jonas** *(16-Jun-20 05:06 PM)*
+**Jonas** _(16-Jun-20 05:06 PM)_
 Sure
 
-**Zander** *(16-Jun-20 05:07 PM)*
+**Zander** _(16-Jun-20 05:07 PM)_
 He's stayed
 
-**Zander** *(16-Jun-20 05:07 PM)*
+**Zander** _(16-Jun-20 05:07 PM)_
 Just in the backlines until you one day pick him up
 
-**Zander** *(16-Jun-20 05:07 PM)*
+**Zander** _(16-Jun-20 05:07 PM)_
 And eat him
 
-**Zander** *(16-Jun-20 05:07 PM)*
+**Zander** _(16-Jun-20 05:07 PM)_
 And absorb
 
-**Trey** *(16-Jun-20 05:08 PM)*
+**Trey** _(16-Jun-20 05:08 PM)_
 8ball are Chomsky and Mary related
 
-**FFBot** *(16-Jun-20 05:08 PM)*
+**FFBot** _(16-Jun-20 05:08 PM)_
 No, but something that the person after you decides upon happens.
 
-**Trey** *(16-Jun-20 05:08 PM)*
+**Trey** _(16-Jun-20 05:08 PM)_
 8ball says so
 
-**Cooldude** *(16-Jun-20 05:08 PM)*
+**Cooldude** _(16-Jun-20 05:08 PM)_
 8poop
 
-**FFBot** *(16-Jun-20 05:08 PM)*
+**FFBot** _(16-Jun-20 05:08 PM)_
 No, you are poop.
 
-**Zander** *(16-Jun-20 05:08 PM)*
+**Zander** _(16-Jun-20 05:08 PM)_
 They're brother and sister
-

@@ -362,7 +362,7 @@ t!8ball does Chomsky go into his room now
 
 **Deyner** _(28-Oct-18 03:06 PM)_
 
-> That way you can beat up “evil-doers” quicker
+> That way you can beat up “evil-doers" quicker
 
 **PlasmaPerson** _(28-Oct-18 03:06 PM)_
 
@@ -612,7 +612,7 @@ t!8ball does Chomsky go into his room now
 
 **Deyner** _(28-Oct-18 03:15 PM)_
 
-> What's “a Earth”
+> What's “a Earth"
 
 **Jelsafan0** _(28-Oct-18 03:15 PM)_
 
@@ -1163,7 +1163,7 @@ t!8ball does jim look up how much a fridge cost?
 
 **RPretribution** _(28-Oct-18 03:35 PM)_
 
-> “I'm all ears!”
+> “I'm all ears!"
 
 **TheBlade** _(28-Oct-18 03:35 PM)_
 
@@ -2331,7 +2331,7 @@ In the end, the result was:
 
 > the boy puts down the huge weights and turns, spotting Iris.
 > He laughs in disbelief.
-> ”I didn't think I'd ever see you again!”
+> "I didn't think I'd ever see you again!"
 
 **TheBlade** _(28-Oct-18 04:13 PM)_
 
@@ -2368,7 +2368,7 @@ t!8ball does Deyner spot somebody he thought was dead?
 **Jelsafan0** _(28-Oct-18 04:15 PM)_
 
 > He ruffles her hair.
-> ”Not a chance, squirt.”
+> "Not a chance, squirt."
 > She smirks and lights her finger on fire.
 > Now will you let me go?
 
@@ -2380,7 +2380,7 @@ t!8ball does Deyner spot somebody he thought was dead?
 **Jelsafan0** _(28-Oct-18 04:16 PM)_
 
 > He puts her down, raising his hands in surrender.
-> ”Okay, okay. No need to get rough.”
+> "Okay, okay. No need to get rough."
 
 **TheBlade** _(28-Oct-18 04:16 PM)_
 
@@ -2417,7 +2417,7 @@ t!8ball does Deyner spot somebody he thought was dead?
 **Jelsafan0** _(28-Oct-18 04:19 PM)_
 
 > Damien shrugs.
-> ”I never gave up on it. I'm the army medic now!”
+> "I never gave up on it. I'm the army medic now!"
 
 **Zander** _(28-Oct-18 04:19 PM)_
 
@@ -2460,7 +2460,7 @@ t!8ball does Deyner spot somebody he thought was dead?
 **Jelsafan0** _(28-Oct-18 04:21 PM)_
 
 > Damien laughs.
-> ”So what have you been doing, squirt?”
+> "So what have you been doing, squirt?"
 
 **PlasmaPerson** _(28-Oct-18 04:21 PM)_
 
@@ -2528,7 +2528,7 @@ t!8ball does Emmett wake up Canadian
 **Jelsafan0** _(28-Oct-18 04:23 PM)_
 
 > Uh... heya... Duske.
-> ”Hey, dude.”
+> "Hey, dude."
 > Damien greets casually.
 
 **Deyner** _(28-Oct-18 04:24 PM)_
@@ -2596,7 +2596,7 @@ t!8ball does Emmett wake up Canadian
 > gets burned by the touch of a demon
 > This is my queen Iris!! I found her
 
-> ”blushes”
+> "blushes"
 
 **Zander** _(28-Oct-18 04:26 PM)_
 
@@ -2649,9 +2649,9 @@ t!8ball does Emmett wake up Canadian
 **Jelsafan0** _(28-Oct-18 04:28 PM)_
 
 > Damien nudges Iris.
-> ”By the way...”
+> "By the way..."
 > he mentions quietly.
-> ”I still intend to fulfill my promise from last time we saw each other.”
+> "I still intend to fulfill my promise from last time we saw each other."
 
 > Iris' face turns very, very red.
 
@@ -2675,14 +2675,14 @@ t!8ball does Emmett wake up Canadian
 
 **Deyner** _(28-Oct-18 04:30 PM)_
 
-> “Deyner don't pry into people's personal lives!”
+> “Deyner don't pry into people's personal lives!"
 > gets slapped by Duske
 > t! d4
 
 **Jelsafan0** _(28-Oct-18 04:30 PM)_
 
 > He smirks.
-> ”Yes I do~”
+> "Yes I do~"
 
 **TheBlade** _(28-Oct-18 04:30 PM)_
 
@@ -2767,7 +2767,7 @@ t!8ball does Damien actually intend to fulfill his promise?
 **Jelsafan0** _(28-Oct-18 04:35 PM)_
 
 > he chuckles.
-> ”I'm sure I will.”
+> "I'm sure I will."
 > Iris speeds up.
 > They need a doctor.
 > The two run to the ship.
@@ -2809,7 +2809,7 @@ t!8ball does Damien actually intend to fulfill his promise?
 **Jelsafan0** _(28-Oct-18 04:38 PM)_
 
 > Iris pulls Damien to Jim and Emmett.
-> ”Move aside, I'm a medic.”
+> "Move aside, I'm a medic."
 
 **PlasmaPerson** _(28-Oct-18 04:40 PM)_
 
@@ -2861,7 +2861,7 @@ t!8ball does Damien think Emmett needs surgery?
 
 **Jelsafan0** _(28-Oct-18 04:41 PM)_
 
-> ”He's gonna need surgery.”
+> "He's gonna need surgery."
 
 **TheBlade** _(28-Oct-18 04:42 PM)_
 
@@ -2879,7 +2879,7 @@ t!8ball does Damien perform surgery right here?
 
 **Jelsafan0** _(28-Oct-18 04:43 PM)_
 
-> ”Yeah.”
+> "Yeah."
 
 **TheBlade** _(28-Oct-18 04:43 PM)_
 
@@ -2899,7 +2899,7 @@ t!8ball does Damien have his tools?
 
 **Jelsafan0** _(28-Oct-18 04:43 PM)_
 
-> ”Get me a shard of sterilized broken glass, I'm missing my scalpel.”
+> "Get me a shard of sterilized broken glass, I'm missing my scalpel."
 
 **TheBlade** _(28-Oct-18 04:44 PM)_
 
@@ -2913,7 +2913,7 @@ t!8ball does Damien have his tools?
 
 **Jelsafan0** _(28-Oct-18 04:44 PM)_
 
-> ”hurry.”
+> "hurry."
 
 **Zander** _(28-Oct-18 04:44 PM)_
 
@@ -2927,7 +2927,7 @@ t!8ball does Damien have his tools?
 
 **Jelsafan0** _(28-Oct-18 04:45 PM)_
 
-> ”Iris,”
+> "Iris,"
 > Damien prompts.
 
 **Zander** _(28-Oct-18 04:45 PM)_
@@ -3207,7 +3207,7 @@ t!8ball does Iris try to wake Emmett up?
 
 **Jelsafan0** _(28-Oct-18 04:54 PM)_
 
-> ”So, uh... how do you know this guy again?”
+> "So, uh... how do you know this guy again?"
 > ...he's the captain.
 
 **Zander** _(28-Oct-18 04:54 PM)_
@@ -3230,7 +3230,7 @@ t!8ball does Iris try to wake Emmett up?
 **Jelsafan0** _(28-Oct-18 04:56 PM)_
 
 > Oh! This is Damien. We were friends when I was younger, when I used to come here a lot. He saved your life!
-> ”Eh, it was nothing. I needed the practice.”
+> "Eh, it was nothing. I needed the practice."
 
 **Zander** _(28-Oct-18 04:57 PM)_
 
@@ -3240,7 +3240,7 @@ t!8ball does Iris try to wake Emmett up?
 **Jelsafan0** _(28-Oct-18 04:58 PM)_
 
 > Damien nods respectfully.
-> ”anytime, man.”
+> "anytime, man."
 
 **Zander** _(28-Oct-18 04:58 PM)_
 
