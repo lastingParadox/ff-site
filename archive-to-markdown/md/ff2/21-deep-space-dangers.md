@@ -1,35 +1,10 @@
-**TheBlade** _(30-Sep-18 02:08 PM)_
-
-> first
-
-**Deyner** _(30-Sep-18 02:13 PM)_
-
-> Won't be able to tap but can listen
-
 **Zander** _(30-Sep-18 02:14 PM)_
 
 t!8ball Does Emmett wake up from the pilot's seat?
 
 **Tatsumaki** _(30-Sep-18 02:14 PM)_
 
-> 🎱 | Cannot predict now,
-> Zander
-> .
-
-**Zander** _(30-Sep-18 02:14 PM)_
-
-t!8ball Does Emmett wake up from the pilot's seat?
-t!8ball Does Emmett wake up from the pilot's seat?
-
-**Tatsumaki** _(30-Sep-18 02:14 PM)_
-
-> 🎱 | Concentrate and ask again,
-> Zander
-> .
-
-**RPretribution** _(30-Sep-18 02:15 PM)_
-
-> does emmet eat p
+🎱 | Concentrate and ask again, Zander.
 
 **Brakia** _(30-Sep-18 02:15 PM)_
 
