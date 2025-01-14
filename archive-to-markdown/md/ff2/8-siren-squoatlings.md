@@ -942,7 +942,7 @@ _Ibraxas, from the hallway._
 
 **Zander** _(05-Jul-18 06:03 PM)_
 
-> `News Reporter`: Vortox-56 has been reported to be 100% squoatling-free as told by the Llamanians, who told Deep Space News of an accident that occurred seven GUYs ago."
+> `News Reporter`: Vortox-56 has been reported to be 100% squoatling-free as told by the Llamanians, who told Deep Space News of an accident that occurred seven GUYs ago.
 
 **Bagelwrecker** _(05-Jul-18 06:03 PM)_
 
@@ -999,21 +999,21 @@ _Lucian tries to pull back, away from the sirens._
 
 _Seth taps his foot impatiently._
 
-> Lucian hurry up and come in soon. you're pulling us a little towards the asteroid fields behind the sirens.
+> Lucian hurry up and come in soon. You're pulling us a little towards the asteroid fields behind the sirens.
 
 **Arky** _(05-Jul-18 06:07 PM)_
 
-> If your really my sister, then whats the name of your favorite bear i got you?
+> If you're really my sister, then whats the name of your favorite bear I got you?
 
 **Bagelwrecker** _(05-Jul-18 06:08 PM)_
 
 _`Siren`: The siren pauses and thinks, clearly not knowing the answer._
 
-> `Siren`: "Lucy."
+> `Siren`: Lucy.
 
 **Zander** _(05-Jul-18 06:08 PM)_
 
-> `News Reporter`: "There have also been multiple reports of people fusing all throughout the galaxy. It is unknown how or why this occurs. The changes are currently irreversible and the conglomerations believe they are a new person entirely.
+> `News Reporter`: There have also been multiple reports of people fusing all throughout the galaxy. It is unknown how or why this occurs. The changes are currently irreversible and the conglomerations believe they are a new person entirely.
 
 **Arky** _(05-Jul-18 06:08 PM)_
 
