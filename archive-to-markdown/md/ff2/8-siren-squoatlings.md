@@ -20,7 +20,7 @@ _Emmett takes out a lighter and smokes a bit of the grass that Maia found._
 
 _Emmett blows out a satisfying puff of grass._
 
-> Till'?
+> 'Til?
 
 **Brakia** _(05-Jul-18 05:02 PM)_
 
@@ -1059,7 +1059,7 @@ _Seth and Ibraxas finally pull in Lucian and make sure the hatch is shut._
 
 **Arky** _(05-Jul-18 06:14 PM)_
 
-> Its alright.
+> It's alright.
 
 _Lucian pulls out Lucy's teddy bear from his coat pocket and holds it to his chest._
 
@@ -1209,7 +1209,7 @@ _Lucian puts the bear back and walks out, looking fine._
 
 _Emmett frowns, holding the cake he got for her._
 
-> She has like a birthday every one hundred GUY's.
+> She has like a birthday every one hundred GUYs.
 
 **Brakia** _(05-Jul-18 06:28 PM)_
 
