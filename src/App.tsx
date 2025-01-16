@@ -6,6 +6,7 @@ import RootLayout from './pages/RootLayout';
 import Convert from './pages/Convert';
 import Season from './pages/Season';
 import './pages/page.scss';
+import Login from './pages/Login';
 
 function App() {
     return (
@@ -18,6 +19,7 @@ function App() {
                     <Route path='/ff3' element={<FF3 />} />
                     <Route path='/ff3/:episode' element={<ArchivePage />} />
                     <Route path='/convert' element={<Convert />} />
+                    <Route path='/login' element={<Login />}
                 </Route>
             </Routes>
         </BrowserRouter>

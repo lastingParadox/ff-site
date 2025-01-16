@@ -20,6 +20,7 @@ export default function Navbar() {
                 label={`${colorMode} mode`}
                 onClick={toggleColorMode}
             />
+            <Link to='/login'>Log in</Link>
         </div>
     );
 }
