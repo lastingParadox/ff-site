@@ -495,14 +495,13 @@ _Seth flicks a booger at Deyner nonchalantly._
 **RPretribution** _(07-Oct-18 03:03 PM)_
 
 > We're stranded on a random planet, Chonko.
+> Need to feed the tum tum.
+
+*Garrick pats his body.*
 
 **PlasmaPerson** _(07-Oct-18 03:04 PM)_
 
 > I can see that!
-
-**Deyner** _(07-Oct-18 03:04 PM)_
-
-> (Brb gotta go to Winn Dixie)
 
 **RPretribution** _(07-Oct-18 03:04 PM)_
 
@@ -510,154 +509,93 @@ _Seth flicks a booger at Deyner nonchalantly._
 
 **WatchfulDrake** _(07-Oct-18 03:04 PM)_
 
-> My drone could probably knock out enough animals to get food
+> My drone could probably knock out enough animals to get food, guys.
 
 **Deyner** _(07-Oct-18 03:04 PM)_
 
-t!8ball does the Drow show up?
+t!8ball Does the Drow assassin show up?
 
 **Tatsumaki** _(07-Oct-18 03:04 PM)_
 
-> 🎱 | Very doubtful,
-> Deyner
-> .
+🎱 | Very doubtful, Deyner.
 
 **PlasmaPerson** _(07-Oct-18 03:04 PM)_
 
-> why are going to kill the natives?!
+> Why are going to kill natives?!
 
 **Deyner** _(07-Oct-18 03:04 PM)_
 
-> One second gotta sharpen these up
+*Deyner examines his blades and holds out a finger.*
+
+> One second, gotta sharpen these up.
+
+*He takes out a large dremal and starts to sharpen his swords.*
 
 **WatchfulDrake** _(07-Oct-18 03:04 PM)_
 
-> We don't need to Chomsky
+> We don't need to Chomsky, we can just hunt!
 
 **Zander** _(07-Oct-18 03:05 PM)_
+
+*Emmett picks up the cooked rodent and looks over to Danny.*
 
 > Danny, want to share?
 
 **RPretribution** _(07-Oct-18 03:05 PM)_
 
+*Dannys licks his lips in anticipation.*
+
 > Whatever works.
-
-**Zander** _(07-Oct-18 03:05 PM)_
-
-t!roll 4d100
-
-**Tatsumaki** _(07-Oct-18 03:05 PM)_
-
-> [
->
-> > 4d100
-> > : 88,86,67,25]
-
-In the end, the result was:
-266
-
-**Platinum_Pathos** _(07-Oct-18 03:05 PM)_
-
 > I would like that very much.
-
-**RPretribution** _(07-Oct-18 03:05 PM)_
-
-t!roll 10d10000
-
-**Tatsumaki** _(07-Oct-18 03:05 PM)_
-
-> Invalid number of sides.
-
-Please use less than
-100
-sides.
-
-**RPretribution** _(07-Oct-18 03:05 PM)_
-
-t!roll 10d100
-
-**Tatsumaki** _(07-Oct-18 03:05 PM)_
-
-> [
->
-> > 10d100
-> > : 79,28,3,92,56,29,90,19,32,12]
-
-In the end, the result was:
-440
-
-**Arky** _(07-Oct-18 03:05 PM)_
-
-t!roll 2d6
-
-**Tatsumaki** _(07-Oct-18 03:05 PM)_
-
-> [
->
-> > 2d6
-> > : 4,4]
-
-In the end, the result was:
-8
 
 **WatchfulDrake** _(07-Oct-18 03:05 PM)_
 
-> What we need is someone with a strong enough filter in their mask to handle the gas while i knock out animals using my drones
+*Hector takes out a drone.*
+
+> What we need is someone with a strong enough filter in their mask to handle the gas while I knock out animals using my drones...
 
 **Platinum_Pathos** _(07-Oct-18 03:06 PM)_
 
-> Wait what gas?
+> Wait, what gas?
 
 **Zander** _(07-Oct-18 03:06 PM)_
 
-> Emmett cuts the Squirrel in half.
-
-**WatchfulDrake** _(07-Oct-18 03:06 PM)_
-
-> Oh that's kind of my thing, nothing lethal, just puts you to sleep for a while
-
-**Zander** _(07-Oct-18 03:06 PM)_
+*Emmett rips the rodent body in half and hands over a half to Danny.*
 
 > Here.
 
-**Arky** _(07-Oct-18 03:06 PM)_
-
-t!roll 2d8
-
-**Tatsumaki** _(07-Oct-18 03:06 PM)_
-
-> [
->
-> > 2d8
-> > : 8,1]
-
-In the end, the result was:
-9
-
 **WatchfulDrake** _(07-Oct-18 03:06 PM)_
 
-> At least nothing lethal in my drone
+*Hector shrugs.*
+
+> Oh that's kind of my thing. Nothing lethal, just puts you to sleep for a while...
+> At least nothing lethal in my drones.
+
+*Hector laughs.*
 
 **Platinum_Pathos** _(07-Oct-18 03:07 PM)_
+
+*Danny grabs the rodent and practically inhales it, leaving only the bones left after a couple of seconds.*
 
 > I very much appreciate it.
 
 **Deyner** _(07-Oct-18 03:07 PM)_
 
-> If you gove me the materials I can make soem@masks
+*Deyner stops sharpening his swords.*
+
+> If you give me the materials, I can make some masks.
 
 **Zander** _(07-Oct-18 03:07 PM)_
 
-> No problem.
+*Emmett gasps in awe at Danny's display of carnal hunger.*
+
+> No problem....
 
 **Platinum_Pathos** _(07-Oct-18 03:07 PM)_
 
-> You'll find plenty of plastic in my room
+*Danny belches loudly.*
 
-**Tatsumaki** _(07-Oct-18 03:07 PM)_
-
-> 🆙 |
-> Platinum_Pathos leveled up!
+> You'll find plenty of plastic in my room...
 
 **WatchfulDrake** _(07-Oct-18 03:07 PM)_
 
@@ -665,9 +603,12 @@ In the end, the result was:
 
 **Deyner** _(07-Oct-18 03:07 PM)_
 
-> Let me head back to the shop to start drawing some designs
+*Instead of entertaining Lucians attempt to spar, Deyner starts to head back to the ship.*
 
 **Zander** _(07-Oct-18 03:08 PM)_
+
+*Emmett hol
+lah tnedor eht s
 
 > Seth, can you hand me a napkin or something?
 
@@ -757,26 +698,27 @@ t!8ball does hector go with deyner to help him design a gas mask strong enough t
 
 > Not necessarily if we get out in enough time we can make up a cure
 
-
 **Zander** _(07-Oct-18 03:10 PM)_
 
 > Hey. All of you.
 
-_Emmett snaps yin quick succession towards his crewmates._
+_Emmett snaps in quick succession towards his crewmates._
 
 > We need money.
 
 **RPretribution** _(07-Oct-18 03:11 PM)_
 
+_Garrick jerks his head at the sound._
+
 > Huh?
 
 **Bagelwrecker** _(07-Oct-18 03:11 PM)_
 
-> We know
+> We know.
 
 **PlasmaPerson** _(07-Oct-18 03:11 PM)_
 
-> yes, we do.
+> Yes, we do.
 
 **WatchfulDrake** _(07-Oct-18 03:11 PM)_
 
@@ -784,11 +726,13 @@ _Emmett snaps yin quick succession towards his crewmates._
 
 **Deyner** _(07-Oct-18 03:11 PM)_
 
-> Honestly
+> Honestly...
 
 **Bagelwrecker** _(07-Oct-18 03:11 PM)_
 
-> I gotta piss though
+> I gotta piss, though.
+
+_Seth begins jumping around, clutching his groin._
 
 **Zander** _(07-Oct-18 03:11 PM)_
 
@@ -796,59 +740,57 @@ _Emmett snaps yin quick succession towards his crewmates._
 
 **Deyner** _(07-Oct-18 03:11 PM)_
 
-> And Lucian may I see your Sycthe?
-> takes off his gloves
+> And Lucian, may I see your sycthe?
 
-**RPretribution** _(07-Oct-18 03:12 PM)_
+_Deyner takes off his gloves._
 
-> chomky
+**Arky** _(07-Oct-18 03:11 PM)_
+
+_Lucian hands it to him._
+
+> Of course.
 
 **Zander** _(07-Oct-18 03:12 PM)_
 
 > And of course, half of you aren't paying attention to the topic at hand.
 
-**Deyner** _(07-Oct-18 03:12 PM)_
-
-> (Brb)
-
-**Zander** _(07-Oct-18 03:12 PM)_
+_Emmett face palms._
 
 > Damnit.
 
-**Arky** _(07-Oct-18 03:13 PM)_
-
-> Hands it to him
-> of course
-
 **Platinum_Pathos** _(07-Oct-18 03:13 PM)_
 
-> Guys, we are quite simply out of delectable food. Unfortunately we need money for that though.
+_Danny stands up on a nearby large rock for an announcement._
+
+> Guys, we are quite simply out of delectable food!
+> Unfortunately, we need money for that though.
 > I vote we find a way to make money.
 
 **Zander** _(07-Oct-18 03:13 PM)_
 
-> With his mouth full.
-> Ducketts specifically.
+_Emmett speaks with his mouth full._
+
+> Ducketths spethifically.
 
 **RPretribution** _(07-Oct-18 03:13 PM)_
 
-> I vote we find a way to steal money.
+> I vote we find a way to steal money!
+
+_Garrick nearly tosses his food away in excitement._
 
 **Bagelwrecker** _(07-Oct-18 03:13 PM)_
 
-> I vote too
+> I vote too.
+
+_Seth pullss out a judge's score sign with a '10' on it._
 
 **PlasmaPerson** _(07-Oct-18 03:13 PM)_
 
-t!choose errywone get 1/16 borgar from garrick pocket | the fire spreads to emmetts foot
+t!choose everyone get 1/16th of a burger from Garrick's pocket | the fire spreads to Emmett's feet
 
 **Tatsumaki** _(07-Oct-18 03:13 PM)_
 
-> 🤔 |
-> PlasmaPerson
-> , I pick
-> the fire spreads to emmetts foot
-> !
+> 🤔 | PlasmaPerson, I pick: the fire spreads to Emmett's feet!
 
 **Platinum_Pathos** _(07-Oct-18 03:13 PM)_
 
@@ -857,44 +799,33 @@ t!choose errywone get 1/16 borgar from garrick pocket | the fire spreads to emme
 
 **Zander** _(07-Oct-18 03:13 PM)_
 
-> Emmett doesn't notice.
+_Emmett doesn't notice the fire._
 
 > Garbage gut.
 
+_Emmett rolls his eyes at Danny._
+
 **PlasmaPerson** _(07-Oct-18 03:14 PM)_
 
-> dude, the campfire's getting you.
+> Dude, the campfire's getting you.
+
+_Chomsky takes a bite like nothing is wrong._
 
 **WatchfulDrake** _(07-Oct-18 03:14 PM)_
 
-> I can go hunting, probably wouldn't be as effective as if i could do it with my drone but I could probably find some decent animals
+> I can go hunting. Probably wouldn't be as effective as if had my drone, but I could probably find some decent animals.
+
+_Hector suddenly realizes that Emmett's on fire._
+
+> Emmett! Get away from the fire!
 
 **Zander** _(07-Oct-18 03:14 PM)_
 
-> Emmett looks down to his hoof.
+_Emmett looks down to his hoof._
+
 > Shit.
 
-**WatchfulDrake** _(07-Oct-18 03:14 PM)_
-
-> Emmett! get away from the fire!
-
-**RPretribution** _(07-Oct-18 03:14 PM)_
-
-> 1/16 borga
-
-**Zander** _(07-Oct-18 03:14 PM)_
-
-> He starts to stamp out his foot.
-
-**Platinum_Pathos** _(07-Oct-18 03:14 PM)_
-
-t!8ball Is Danny out of food in his room?
-
-**Tatsumaki** _(07-Oct-18 03:14 PM)_
-
-> 🎱 | Reply hazy try again,
-> Platinum_Pathos
-> .
+_He starts to stamp out his foot._
 
 **Platinum_Pathos** _(07-Oct-18 03:15 PM)_
 
@@ -902,13 +833,15 @@ t!8ball Is Danny out of food in his room?
 
 **Tatsumaki** _(07-Oct-18 03:15 PM)_
 
-> 🎱 | You may rely on it,
-> Platinum_Pathos
-> .
+> 🎱 | You may rely on it, Platinum_Pathos.
+
+**Platinum_Pathos** _(07-Oct-18 03:15 PM)_
+
+_Danny looks at the pile of crumbs where there used to be food and scowls._
 
 **Zander** _(07-Oct-18 03:15 PM)_
 
-> Steal Ducketts?
+> Should we steal Ducketts?
 
 **PlasmaPerson** _(07-Oct-18 03:15 PM)_
 

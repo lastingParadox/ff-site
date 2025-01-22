@@ -2797,7 +2797,9 @@ _Sanya tilts her head._
 
 **Zander** _(30-Sep-18 03:45 PM)_
 
-_Emmett remains inconveniently placed in the engine and begins to fry up from the burning engine fluids._
+_Emmett is inconveniently placed in the engine..._
+
+_...and begins to fry up from the burning engine fluids._
 
 t!roll d10
 
@@ -2858,7 +2860,7 @@ _Emmett wakes up finally and chokes from the metal dust from the impact. He feel
 
 > There's tons of grass out h-
 
-_Garrick turns around and notices the others heading back to the ship to save Emmett. His face changes to that of a realistic, ugly close up shot, like from Spongebob._
+_Garrick turns around and notices the others heading back to the ship to save Emmett. His face changes to that of a realistic, ugly, close-up shot._
 
 > Guys, I think Emmett's in trouble.
 
