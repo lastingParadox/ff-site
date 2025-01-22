@@ -3167,7 +3167,7 @@ _Chomsky takes out a pocket knife and starts to cut into the cervine corpse, sti
 
 **RPretribution** _(30-Sep-18 04:07 PM)_
 
-t!8ball Are Garrick and Chompsky done skinning the animal quickly?
+t!8ball Are Garrick and Chommsky done skinning the animal quickly?
 
 **Tatsumaki** _(30-Sep-18 04:07 PM)_
 
@@ -3374,7 +3374,7 @@ _Seth enters a grove hidden behind vines and rocks._
 
 **RPretribution** _(30-Sep-18 04:17 PM)_
 
-\*Emmett howls under Garrick's control, and his movements become more controlled. Garrick is struggling to keep his dominion over his body!
+_Emmett howls under Garrick's control, and his movements become more controlled. Garrick is struggling to keep his dominion over his body!_
 
 > I don't know, just get a bunch of grass before I lose control of him!
 
@@ -3784,7 +3784,7 @@ _Seth continues to back up from the assassin._
 
 **RPretribution** _(30-Sep-18 04:44 PM)_
 
-t!8ball Does garrick help Chomsky with cooking?
+t!8ball Does Garrick help Chomsky with cooking?
 
 **Tatsumaki** _(30-Sep-18 04:44 PM)_
 
@@ -3794,7 +3794,7 @@ t!8ball Does garrick help Chomsky with cooking?
 
 _Sanya rolls her eyes._
 
-> Chomsky more like, uh, dead parents.
+> Chomsky more like, uh... dead parents.
 
 **PlasmaPerson** _(30-Sep-18 04:44 PM)_
 
@@ -3840,7 +3840,7 @@ _Seth reaches down with the grass into Emmett's mouth._
 
 **Zander** _(30-Sep-18 04:47 PM)_
 
-_Emmett, in his sleep, manages to bite at Seth's hand, causing him to recoil and his hand to have deep bite marks._
+_Emmett manages to bite Seth's hand in his sleep, causing him to recoil and his hand to have deep bite marks._
 
 **Bagelwrecker** _(30-Sep-18 04:47 PM)_
 

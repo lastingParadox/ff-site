@@ -1,6 +1,6 @@
 **Bagelwrecker** _(07-Oct-18 02:45 PM)_
 
-t!8ball Did Seth manage to call up a friend to send in a stronger, more resilient replacement chassis for the Panty Slingshot and get it mostly intact after a couple of semesters?
+t!8ball Did Seth manage to call up a friend to send in a stronger, more resilient replacement chassis for the Panty Slingshot and get it mostly intact after a couple of equinoxes?
 
 **Tatsumaki** _(07-Oct-18 02:45 PM)_
 
@@ -12,13 +12,17 @@ t!8ball Is Emmett currently idling around the campfire?
 
 **Tatsumaki** _(07-Oct-18 02:45 PM)_
 
-> 🎱 | Don't count on it,
-> Zander
-> .
+> 🎱 | Don't count on it, Zander.
 
 **Zander** _(07-Oct-18 02:46 PM)_
 
+_Emmett sits away from the campfire, plucking grass out of the ground._
+
 > Y'know, this planet is comfy.
+
+_He tightens Seth's oversized fur coat._
+
+> Lush grass, forests for miles.
 
 **Arky** _(07-Oct-18 02:46 PM)_
 
@@ -26,66 +30,83 @@ t!8ball does Lucian walk out to say hi?
 
 **Tatsumaki** _(07-Oct-18 02:46 PM)_
 
-> 🎱 | My reply is no,
-> Arky
-> .
-
-**Zander** _(07-Oct-18 02:46 PM)_
-
-> Lush grass, forests for miles.
-> Oh! Lucian.
+> 🎱 | My reply is yes, Arky.
 
 **Arky** _(07-Oct-18 02:46 PM)_
 
-> Hey Guys
+_Lucian emerges from the ship's busted cryosleep chamber, walks over to Emmett, and sits down in the grass._
+
+> Hey, guys.
+
+**Zander** _(07-Oct-18 02:46 PM)_
+
+> Oh! Lucian.
+
+_Emmett scoots over slightly in Lucian's direction._
 
 **Deyner** _(07-Oct-18 02:47 PM)_
 
+_Deyner leaps over Lucian and into the dirt opposite of him._
+
 > Hello! I believe we haven't met!
 
+_Deyner spits out dirt._
+
 **Bagelwrecker** _(07-Oct-18 02:47 PM)_
+
+_Seth holds a stick with a boar's snout attached._
 
 > Yeah, reminds me a lot of my home planet.
 
 **RPretribution** _(07-Oct-18 02:47 PM)_
 
->
+_Garrick stares blanky at the bright sun._
 
 **Arky** _(07-Oct-18 02:47 PM)_
 
-> Lucian Blackwater, nice to meet you
+> Lucian Blackwater, nice to meet you.
+
+**Deyner** _(07-Oct-18 02:48 PM)_
+
+_Deyner holds his hand out to Lucian._
+
+> Deyner Revathen.
+
+**Arky** _(07-Oct-18 02:48 PM)_
+
+_Lucian shakes his hand._
+
+**Deyner** _(07-Oct-18 02:48 PM)_
+
+_Deyner shakes his other hand, crossing his arms over._
 
 **Bagelwrecker** _(07-Oct-18 02:48 PM)_
 
 > We need to work on getting power on in the ship soon.
+
+_Seth pulls the pin on an anxiety grenade and chucks it behind him._
+
 > Dades is a great ship replacement guy, but we're a hundred thousand Ducketts in debt to him now. Getting the ship up and running would've been another hundred thousand.
 
-**Deyner** _(07-Oct-18 02:48 PM)_
-
-> Deyner Revathen
-> Holds his hand out
-
 **WatchfulDrake** _(07-Oct-18 02:48 PM)_
+
+_Hector is shocked to see Lucian awake!_
 
 > He wakes at last!
 
 **Bagelwrecker** _(07-Oct-18 02:48 PM)_
 
-> I'm getting tired of walking around in the dark to get to my room
-
-**Arky** _(07-Oct-18 02:48 PM)_
-
-> Shakes his hand
+> I'm getting tired of walking around in the dark to get to my room.
 
 **RPretribution** _(07-Oct-18 02:48 PM)_
 
-> Okay, th
+_Garrick turns and looks at the needless explosion._
 
-**Deyner** _(07-Oct-18 02:48 PM)_
-
-> shakes hand
+> Okay, that was loud.
 
 **Zander** _(07-Oct-18 02:49 PM)_
+
+_Emmett swirls around on his butt to look at Seth._
 
 > What?
 > In the dark?
@@ -94,125 +115,113 @@ t!8ball does Lucian walk out to say hi?
 
 > Yeah, in the dark.
 
-**Deyner** _(07-Oct-18 02:49 PM)_
-
-> (Does Lucian have his weapon on him rn?
-
 **RPretribution** _(07-Oct-18 02:49 PM)_
 
 > It's the middle of the day.
 
 **WatchfulDrake** _(07-Oct-18 02:49 PM)_
 
-> My name is Hector
-> holds all six arms out then laughs
+> My name is Hector.
+
+_Hector holds all six arms out, and then laughs to himself._
 
 **Bagelwrecker** _(07-Oct-18 02:49 PM)_
 
 > Great observation Garrick.
 
+_Seth chucks the roasted boar snout at Garrick, where it gets swallowed by his pockets._
+
 **Zander** _(07-Oct-18 02:50 PM)_
 
-> I'm assuming the power in the ship?
+> I'm assuming we're out of backup power in the ship?
+
+_Emmett walks over and sits on a log next to Seth._
+
+_He grabs a rodent corpse from Sanya's game pile and plunges a stick into it._
 
 **Deyner** _(07-Oct-18 02:50 PM)_
 
-> Woah! Nice weapon who made this?
+_Deyner looks at Lucian's weapon and drools a bit in awe._
 
-**RPretribution** _(07-Oct-18 02:50 PM)_
-
-> it was my dad
-> sans
+> Woah! Nice weapon, who made this?
 
 **Bagelwrecker** _(07-Oct-18 02:50 PM)_
 
 > Yeah.
-> at night it gets way to dark in that damn ship.
+> At night, it gets way too dark in that damn ship.
 
 **Zander** _(07-Oct-18 02:51 PM)_
 
 > I haven't been in the ship this whole time.
-> SO I wouldn't know.
+> So, I wouldn't know.
 
 **RPretribution** _(07-Oct-18 02:51 PM)_
+
+_Garrick pokes his head between Seth and Emmett's._
 
 > Wouldn't it get hot in there?
 
 **Deyner** _(07-Oct-18 02:51 PM)_
 
-> Perhaps if you were to add new lights to the ships the current ones are kinda old
-
-**Tatsumaki** _(07-Oct-18 02:51 PM)_
-
-> 🆙 |
-> Deyner leveled up!
+> Perhaps if you were to add new lights to the ship? The current ones are kinda old.
 
 **Arky** _(07-Oct-18 02:51 PM)_
 
-> my father did, a scythe made of the strongest metal found
+_Lucian unsheaths his weapon._
+
+> My father did; a scythe made of the strongest metal found on our planet.
 
 **Bagelwrecker** _(07-Oct-18 02:52 PM)_
 
-> Lights were changed out before we got the ship
-> Powers is out though.
+> Lights were changed out before we got the ship.
 
-**WatchfulDrake** _(07-Oct-18 02:52 PM)_
+_Seth shrugs._
 
-> skip my turn
-> parents
+> Power is out, though. We just need a new battery, Kyle's didn't last very long.
+
+**Zander** _(07-Oct-18 02:52 PM)_
+
+*Emmett gives Seth a puzzled look.*
+
+> We were using KYL's battery to power the ship?
 
 **Deyner** _(07-Oct-18 02:52 PM)_
 
-> Hmmm if you want I could check it out!
-
-**RPretribution** _(07-Oct-18 02:52 PM)_
-
-> @PlasmaPerson
-
-**Bagelwrecker** _(07-Oct-18 02:52 PM)_
-
-> We just need a new battery, Kyle's didn't last very long.
+> Hmmm... if you want, I could check it out!
 
 **Platinum_Pathos** _(07-Oct-18 02:52 PM)_
 
 t!8ball Does Danny exit the ship and join the others around the campfire?
 
-**Deyner** _(07-Oct-18 02:52 PM)_
-
-t!8ball does he mouse one day hack the computerized safe and get the cheese?
-
 **Tatsumaki** _(07-Oct-18 02:52 PM)_
 
-> 🎱 | Yes, definitely,
-> Platinum_Pathos
-> .
-> 🎱 | Concentrate and ask again,
-> Deyner
-> .
+> 🎱 | Yes, definitely, Platinum_Pathos.
 
 **Deyner** _(07-Oct-18 02:53 PM)_
 
-t!8ball Does Deyner look on the map
+t!8ball Does Deyner look on a makeshift map of the planet?
 
 **Tatsumaki** _(07-Oct-18 02:53 PM)_
 
-> 🎱 | Better not tell you now,
-> Deyner
-> .
+> 🎱 | Better not tell you now, Deyner.
 
 **Platinum_Pathos** _(07-Oct-18 02:53 PM)_
 
-> Hello
+_Danny exits the ship and begins his morning stretches._
 
-**Zander** _(07-Oct-18 02:54 PM)_
-
-> I'm currently cooking a squirrel.
+> Hello, world!
 
 **Deyner** _(07-Oct-18 02:54 PM)_
+
+*Deyner gives a small wave to Danny, tired of handshaking for the time being.*
 
 > Hello...
 
 **Zander** _(07-Oct-18 02:54 PM)_
+
+> I'm currently cooking a... rodent... thing...
+
+*Emmett tilts his head at the meat.*
 
 > The berries here are extremely tart.
 
@@ -222,64 +231,71 @@ t!8ball Does Seth sit back and play with his lighter?
 
 **Tatsumaki** _(07-Oct-18 02:54 PM)_
 
-> 🎱 | As I see it, yes,
-> Bagelwrecker
-> .
+🎱 | As I see it, yes, Bagelwrecker.
 
 **RPretribution** _(07-Oct-18 02:54 PM)_
 
-> Do you think we could cook a rubber chicken?
+> Do you think we could cook a rubber squeaky toy?
+
+*Garrick takes out a squeaky toy and starts to honk it in Chomsky's ear deliberately.*
 
 **Platinum_Pathos** _(07-Oct-18 02:54 PM)_
 
 > Brilliant. Meat is a great part of a balanced meal!
 
+> So is rubber... but I may be biased.
+
 **Zander** _(07-Oct-18 02:55 PM)_
 
 > Do you have one?
-> Emmett obviously doesn't know what rubber is.
+
+_Emmett obviously doesn't know what rubber is._
 
 **Deyner** _(07-Oct-18 02:55 PM)_
 
-> Eh it's alright
+_Deyner gives a mild look at the mention of meat._
 
-**Platinum_Pathos** _(07-Oct-18 02:55 PM)_
+> Eh... it's alright.
 
-> Also rubber
+_Deyner thinks about tossing a salad for lunch..._
 
 **Bagelwrecker** _(07-Oct-18 02:55 PM)_
 
-> Also be on the look out for a drow elf, she kinda wants to kill me.
+> Also, be on the look out for a drow elf, she kinda wants to kill me.
 
-**Platinum_Pathos** _(07-Oct-18 02:55 PM)_
-
-> But I may be biased
+_Seth looks around in paranoia, then throws a nasty glance at Deyner._
 
 **Deyner** _(07-Oct-18 02:55 PM)_
 
-> Hey I'm half Drow
+_Deyner looks offended!_
+
+> Hey! I'm half Drow!
 
 **RPretribution** _(07-Oct-18 02:55 PM)_
 
-t!8ball does garrick pull out a rubber chicken and show emmett
+t!8ball does Garrick pull out a rubber squeaky toy and show Emmett?
 
 **Tatsumaki** _(07-Oct-18 02:55 PM)_
 
-> 🎱 | It is decidedly so,
-> RPretribution
-> .
+> 🎱 | It is decidedly so, RPretribution.
 
 **Zander** _(07-Oct-18 02:55 PM)_
+
+_Emmett beholds the squeaky toy, grimacing at its creepy clown-like appearance._
 
 > That's disturbing.
 
 **RPretribution** _(07-Oct-18 02:55 PM)_
 
-> HONK
+_Garrick continues honking the squeaky toy in various people's ears._
 
 **WatchfulDrake** _(07-Oct-18 02:56 PM)_
 
-> Where did you keep that
+> Where did you keep that?
+
+**Platinum_Pathos** _(07-Oct-18 02:56 PM)_
+
+> I don't think anyone really wants to know.
 
 **RPretribution** _(07-Oct-18 02:56 PM)_
 
@@ -287,77 +303,60 @@ t!8ball does garrick pull out a rubber chicken and show emmett
 
 **Deyner** _(07-Oct-18 02:56 PM)_
 
-> His butt
+> His butt.
 
-**Platinum_Pathos** _(07-Oct-18 02:56 PM)_
-
-> I don't think anyone really wants to know.
-
-**Deyner** _(07-Oct-18 02:56 PM)_
-
-> Do ghosts have butts?
+> ...Do ghosts have butts?
 
 **RPretribution** _(07-Oct-18 02:56 PM)_
 
 > No.
 
+_Garrick stares deep into Deyner's eyes._
+
 **Zander** _(07-Oct-18 02:56 PM)_
 
-t!8ball Does Emmett take the squirrel and lay the stick on his legs to cool off?
+t!8ball Does Emmett take the rodent and lay the stick on his legs to cool off?
 
 **Tatsumaki** _(07-Oct-18 02:56 PM)_
 
-> 🎱 | Very doubtful,
-> Zander
-> .
+> 🎱 | Very doubtful, Zander.
 
 **Bagelwrecker** _(07-Oct-18 02:56 PM)_
 
-> Well unfortunately I don't care if you're half drow, I'm killing the first female drow I see on this planet.
+> Well unfortunately, I don't care if you're half drow. I'm killing the first female drow I see on this planet.
 
-**RPretribution** _(07-Oct-18 02:57 PM)_
-
-> deynarr
-
-**Deyner** _(07-Oct-18 02:57 PM)_
-
-> ITS DEYNER!
-
-**Bagelwrecker** _(07-Oct-18 02:57 PM)_
-
-> We could have meat for a couple days if we do kill her too.
+> We could have meat for a couple days if we kill one, too.
 
 **Deyner** _(07-Oct-18 02:58 PM)_
 
-> I'll freeze you before that happens
+> I'll freeze you before that happens.
+
+_Deyner puffs cold air in Seth's direction._
 
 **Zander** _(07-Oct-18 02:58 PM)_
+
+_Emmett grimaces at the thought of eating another sentient being._
 
 > Cannibalism isn't really an option.
 
 **WatchfulDrake** _(07-Oct-18 02:58 PM)_
 
-> Okay calm down you two
+> Okay, calm down, you two!
 
 **RPretribution** _(07-Oct-18 02:58 PM)_
 
 > Seth, you're even more desperate than usual.
+> Except this time, for food.
 
 **Bagelwrecker** _(07-Oct-18 02:58 PM)_
 
-> Yes, freeze me because I defend myself, I don't want to deal with a dumb drow assassin tailing my ass.
+_Seth flicks a booger at Deyner nonchalantly._
 
-**RPretribution** _(07-Oct-18 02:58 PM)_
+> Yes, freeze me because I defend myself. I don't want to deal with a dumb drow assassin tailing my ass.
 
-> Except this time, for food.
+**Deyner** _(07-Oct-18 02:58 PM)_
 
-**Arky** _(07-Oct-18 02:58 PM)_
-
-> so what happened? Last thing I remember is a woman horse thing was introduced
-
-**Deyner** _(07-Oct-18 02:59 PM)_
-
-> My bad I thought you were talking about eating me
+> My bad... I thought you were talking about eating me.
 
 **RPretribution** _(07-Oct-18 02:59 PM)_
 
@@ -370,100 +369,128 @@ t!8ball Does Emmett take the squirrel and lay the stick on his legs to cool off?
 
 **Zander** _(07-Oct-18 03:00 PM)_
 
+*Emmett gives a grim expression.*
+
 > Sounds like the Llamanians.
 
-**RPretribution** _(07-Oct-18 03:00 PM)_
+**Arky** _(07-Oct-18 3:00 PM)_
 
-> all seth has to do is eat her
-> its that easy
+> So, what happened? Last thing I remember is meeting a woman-horse thing.
 
-**Arky** _(07-Oct-18 03:00 PM)_
+*Lucian takes out his scythe and tosses it in the air, grabbing it by its handle.*
 
 > Deyner, would you be interested in a spar with me?
 
 **Zander** _(07-Oct-18 03:00 PM)_
 
-> Except, not exactly stealthy.
+> Except, not exactly stealthy...
 
 **Deyner** _(07-Oct-18 03:00 PM)_
 
-> Then make it to where they can't hide
+*Deyner smirks.*
+
+> Then make it to where they can't hide, dummy!
 
 **Zander** _(07-Oct-18 03:00 PM)_
 
-> Or cunning.
+> Actually, I don't think they're at all alike.
 
 **Deyner** _(07-Oct-18 03:00 PM)_
 
-> Sure
+> Sure...
+
+*Deyner looks around for his swords.*
 
 **Bagelwrecker** _(07-Oct-18 03:00 PM)_
 
-> Willing to degrade their bodies in exchange for a kill.
+*Seth scoffs at Deyner and scratches his stubbled chin.*
+
+> Willing to degrade their bodies in exchange for a kill...
 
 **WatchfulDrake** _(07-Oct-18 03:00 PM)_
 
-> It doesn't matter how stealthy they are, my drone can spot them
+*Hector butts in on the conversation, resting himself around the fire with the others.*
+
+> It doesn't matter how stealthy they are, my drone can spot them!
 
 **PlasmaPerson** _(07-Oct-18 03:01 PM)_
 
-> hey guys what are we talking about?
+*Chomsky opens his eyes and holds his head from his hangover from the prior night. He happened to fall asleep around the campfire.*
+
+> Hey guys...  What are we talking about?
 
 **Deyner** _(07-Oct-18 03:01 PM)_
 
-> Banks
-> says with sarcasm
+> Oh, you know. The banking system.
+
+*Deyner rolls his eyes.*
 
 **PlasmaPerson** _(07-Oct-18 03:01 PM)_
 
-> uh huh.
+*Chomsky tenses his brow.*
 
-**RPretribution** _(07-Oct-18 03:01 PM)_
-
-> says with s
+> Uh-huh.
 
 **Arky** _(07-Oct-18 03:01 PM)_
 
-> Pulls my scythe out
-> you ready?
+*Lucian readies his blade.*
+
+> You ready?
 
 **WatchfulDrake** _(07-Oct-18 03:02 PM)_
+
+*Hector watches Lucian, unsure why he has his scythe out.*
 
 > Ready for what?
 
 **PlasmaPerson** _(07-Oct-18 03:02 PM)_
 
-> no seriously
+*Chomsky groans.*
+
+> No, seriously...
 > What's going on?
 
 **Deyner** _(07-Oct-18 03:02 PM)_
 
-> pulls out his swords
-> I don't know are you
+*Deyner finds his swords lying on the ground and grabs them, readying them for the battle ahead.*
+
+> I don't know, are you?
 
 **RPretribution** _(07-Oct-18 03:02 PM)_
+
+*Garrick takes out some pom-poms and cheers with them.*
 
 > C'mon, guys! Let's go kill all the natives!
 
 **Platinum_Pathos** _(07-Oct-18 03:02 PM)_
 
+*Danny salivates, always hungry for more food.*
+
 > I just wanted the squirrel...
 
 **WatchfulDrake** _(07-Oct-18 03:03 PM)_
+
+*Hector puts two sets of arms on his hips.*
 
 > Why don't we hunt animals instead of hunting the natives?
 
 **RPretribution** _(07-Oct-18 03:03 PM)_
 
-> We can do both.
+> We can do both!
+
+*Garrick raises a pom-pom in excitement.*
 
 **Platinum_Pathos** _(07-Oct-18 03:03 PM)_
+
+*Danny groans.*
 
 > Natives are usually bland anyways. I agree with Hector.
 
 **PlasmaPerson** _(07-Oct-18 03:03 PM)_
 
-> you guys are harsh.
+*Chomsky stares at Garrick with a sorrowful expression.*
+
+> You guys are harsh.
 
 **RPretribution** _(07-Oct-18 03:03 PM)_
 
@@ -726,14 +753,18 @@ t!8ball does hector go with deyner to help him design a gas mask strong enough t
 > hands deyner a high capacity dart of the gas
 > Just don't break this, that would be bad
 
+**Deyner** _(07-Oct-18 03:10 PM)_
+
+> Not necessarily if we get out in enough time we can make up a cure
+
+
 **Zander** _(07-Oct-18 03:10 PM)_
 
 > Hey. All of you.
+
+_Emmett snaps yin quick succession towards his crewmates._
+
 > We need money.
-
-**Deyner** _(07-Oct-18 03:11 PM)_
-
-> Not necessarily if we get out in enough time we can make up a cure
 
 **RPretribution** _(07-Oct-18 03:11 PM)_
 
