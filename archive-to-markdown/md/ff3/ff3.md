@@ -7238,7 +7238,7 @@ _wemmfort sighs in relief_
 > Seth: I guess its coming along alright, he remembers everything, almost everything that is.
 
 **Cooldude** _(02-May-20 04:36 PM)_
-8ball should wemmfort continue his “adventure"?
+8ball should wemmfort continue his "adventure"?
 
 **FFBot** _(02-May-20 04:36 PM)_
 Yes, definitely :8ball:
@@ -8558,7 +8558,7 @@ _Volonta rolls over on his skates towards the group_
 
 **Sean** _(18-May-20 04:30 PM)_
 
-> Seth: “A double McSpanky with fries and a Flurp, that'll be $6.53. And $3.47 is your change" I hear Jimmy Neutron say. I never saw that little fuck press the buttons with food on them, so I had to go speak to him. “Dude, you're supposed to press the buttons with the pictures of food on ‘em". I say. “Don't need to Skeet, I memorized the prices and did the tax and change in my head" he replies. Ever since he fucking started at this job, he insists on trying to make things harder on them. Just last week, he had the fucking nerve to call salt “Sodium Chloride". No, you fuckwad, just call it salt. No one gives a shit how you know the basic chemical name of fucking salt. Not to mention that it's not even 100% sodium chloride, it's 98% sodium chloride with 2% trace elements. But he just insists on calling it sodium chloride. This was my moment to ruin this fucking nerd. “Dude, you do know that the pictures there aren't just for prices, right? They are logged and from there, the managers can get a rough estimate on how much food has been used and they can subtract the amount used by their stock so they know how much to order so we don't run out of food for later days. It's not just about prices. And what if you do make a mistake? Even a few cents missing from your drawer will result in potentially a write up, and doing it on numerous shifts can result in you getting fired, especially if you're missing a good amount of money
+> Seth: "A double McSpanky with fries and a Flurp, that'll be $6.53. And $3.47 is your change" I hear Jimmy Neutron say. I never saw that little fuck press the buttons with food on them, so I had to go speak to him. "Dude, you're supposed to press the buttons with the pictures of food on ‘em". I say. "Don't need to Skeet, I memorized the prices and did the tax and change in my head" he replies. Ever since he fucking started at this job, he insists on trying to make things harder on them. Just last week, he had the fucking nerve to call salt "Sodium Chloride". No, you fuckwad, just call it salt. No one gives a shit how you know the basic chemical name of fucking salt. Not to mention that it's not even 100% sodium chloride, it's 98% sodium chloride with 2% trace elements. But he just insists on calling it sodium chloride. This was my moment to ruin this fucking nerd. "Dude, you do know that the pictures there aren't just for prices, right? They are logged and from there, the managers can get a rough estimate on how much food has been used and they can subtract the amount used by their stock so they know how much to order so we don't run out of food for later days. It's not just about prices. And what if you do make a mistake? Even a few cents missing from your drawer will result in potentially a write up, and doing it on numerous shifts can result in you getting fired, especially if you're missing a good amount of money
 
 **Trey** _(18-May-20 04:30 PM)_
 
@@ -21529,7 +21529,7 @@ Majority rules! Vote on it!
 
 **Trey** _(04-Jun-20 04:03 PM)_
 
-_Emmett's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!"_
+_Emmett's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent "HOT MAMA, now that's a dame!"_
 
 **Sean** _(04-Jun-20 04:03 PM)_
 
@@ -26415,7 +26415,7 @@ Yup.
 
 **Trey** _(09-Jun-20 06:29 PM)_
 
-_Emmett's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!"_
+_Emmett's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent "HOT MAMA, now that's a dame!"_
 
 **Zander** _(09-Jun-20 06:29 PM)_
 
@@ -26447,7 +26447,7 @@ _Seth's head goes 360 degrees and he begins screeching, he gets down into a crab
 
 **Sean** _(09-Jun-20 06:30 PM)_
 
-_Seth's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!"_
+_Seth's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent "HOT MAMA, now that's a dame!"_
 
 **Charles** _(09-Jun-20 06:30 PM)_
 
@@ -26460,7 +26460,7 @@ _whispers Vargas to himself_
 > Garrick: What are you two doing?!
 
 **Charles** _(09-Jun-20 06:31 PM)_
-Vargas's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent “HOT MAMA, now that's a dame!"
+Vargas's jaw drops to the floor, his eyes extend at a velocity never before seen, he takes out a boxing glove and hits himself with it 17 times, pants like a dog, and yells AOOOOGA AOOOOGA then turns to the audience and says in 1930's New York accent "HOT MAMA, now that's a dame!"
 (edited)
 
 **Preston** _(09-Jun-20 06:32 PM)_

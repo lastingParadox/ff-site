@@ -1618,7 +1618,7 @@ t!8ball Does the crew get out of the ship?
 
 _Garrick slaps Asier on the back of the head for his comment at the bird._
 
-> $@&“¡Œß|
+> $@&"¡Œß|
 
 **PlasmaPerson** _(19-Aug-18 03:16 PM)_
 

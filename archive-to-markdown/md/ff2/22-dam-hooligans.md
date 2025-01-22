@@ -1,3 +1,11 @@
+**Bagelwrecker** _(07-Oct-18 02:45 PM)_
+
+t!8ball Did Seth manage to call up a friend to send in a stronger, more resilient replacement chassis for the Panty Slingshot and get it mostly intact after a couple of semesters?
+
+**Tatsumaki** _(07-Oct-18 02:45 PM)_
+
+🎱 | It is decidedly so, Bagelwrecker.
+
 **Zander** _(07-Oct-18 02:45 PM)_
 
 t!8ball Is Emmett currently idling around the campfire?
@@ -49,7 +57,8 @@ t!8ball does Lucian walk out to say hi?
 
 **Bagelwrecker** _(07-Oct-18 02:48 PM)_
 
-> We need to work on getting power back on in the ship soon.
+> We need to work on getting power on in the ship soon.
+> Dades is a great ship replacement guy, but we're a hundred thousand Ducketts in debt to him now. Getting the ship up and running would've been another hundred thousand.
 
 **Deyner** _(07-Oct-18 02:48 PM)_
 
@@ -1637,7 +1646,7 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 **Jelsafan0** _(07-Oct-18 03:44 PM)_
 
 > an ottori man emerges, grabbing her arm.
-> “Hey, Hey, Martha, settle it down there."
+> "Hey, Hey, Martha, settle it down there."
 
 **RPretribution** _(07-Oct-18 03:44 PM)_
 

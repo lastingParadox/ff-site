@@ -362,7 +362,7 @@ t!8ball does Chomsky go into his room now
 
 **Deyner** _(28-Oct-18 03:06 PM)_
 
-> That way you can beat up “evil-doers" quicker
+> That way you can beat up "evil-doers" quicker
 
 **PlasmaPerson** _(28-Oct-18 03:06 PM)_
 
@@ -612,7 +612,7 @@ t!8ball does Chomsky go into his room now
 
 **Deyner** _(28-Oct-18 03:15 PM)_
 
-> What's “a Earth"
+> What's "a Earth"
 
 **Jelsafan0** _(28-Oct-18 03:15 PM)_
 
@@ -1163,7 +1163,7 @@ t!8ball does jim look up how much a fridge cost?
 
 **RPretribution** _(28-Oct-18 03:35 PM)_
 
-> “I'm all ears!"
+> "I'm all ears!"
 
 **TheBlade** _(28-Oct-18 03:35 PM)_
 
@@ -2675,7 +2675,7 @@ t!8ball does Emmett wake up Canadian
 
 **Deyner** _(28-Oct-18 04:30 PM)_
 
-> “Deyner don't pry into people's personal lives!"
+> "Deyner don't pry into people's personal lives!"
 > gets slapped by Duske
 > t! d4
 
