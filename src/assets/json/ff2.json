@@ -120,9 +120,15 @@
         "short_desc": "In the aftermath of their encounter with Dread, the crew finds a way to bring their friends back."
     },
     {
-        "title": "Deep Space Dangers",
-        "file_name": "deep-space-dangers",
+        "title": "Deep Space Famine",
+        "file_name": "deep-space-famine",
         "episode_number": "21",
         "short_desc": "After weeks without food, the crew passes through a toll booth and manages to crash the ship again."
+    },
+    {
+        "title": "Dam Hooligans",
+        "file_name": "dam-hooligans",
+        "episode_number": "22",
+        "short_desc": "The crew pillages a local village on Rivalri-2 and finds themselves in a bit of a pickle."
     }
 ]

@@ -3253,60 +3253,67 @@ _Chomsky relays Hector the coordinates as requested._
 
 **Bagelwrecker** _(07-Oct-18 04:39 PM)_
 
-> Seth runs into the ship and put the girl down in his quarters
+_Seth runs into the ship and puts Jessica down in his quarters._
 
 **WatchfulDrake** _(07-Oct-18 04:39 PM)_
 
-> hector follows them to chomsky
+_Hector taps the coordinates he was sent to be given a big yellow MMORPG arrow that points towards Chomsky's location. He follows the arrow, getting annoyed by how occasionally the arrow would lead him directly into a wall._
 
 **Zander** _(07-Oct-18 04:39 PM)_
 
-> Iris and Emmett make it to the ship.
+_Iris and Emmett make it to the ship in one piece._
 
 **Jelsafan0** _(07-Oct-18 04:39 PM)_
 
-> the girl turns in her sleep.
+_`Jessica`: Jessica turns in her sleep, none the wiser about where she is._
 
 **PlasmaPerson** _(07-Oct-18 04:39 PM)_
 
-> ugh....my shoulder. I've been shot.
+_Chomsky pulls his head away from his shoulder as Hector comes closer to him._
+
+> Ugh.... my shoulder... I've been shot.
 
 **Zander** _(07-Oct-18 04:39 PM)_
 
-> Is that a distress signal?
+_Emmett watches out of window as a bright red flare is shot towards the sky from the dam's location._
+
+> Is that a distress signal?!
 
 **WatchfulDrake** _(07-Oct-18 04:39 PM)_
 
-> That's a lot of blood. I could probably fix it though
+> That's a lot of blood. I could probably fix it though...
+
+_Hector digs into his bag, looking for tools to patchwork Chomsky's bullet wound with._
 
 **Bagelwrecker** _(07-Oct-18 04:39 PM)_
 
-> Fuck what the hell are we going to do.
+> Fuck, what the hell are we going to do?!
+
+_Seth paces around, trying to scheme up something on the fly._
 
 **Platinum_Pathos** _(07-Oct-18 04:39 PM)_
 
-> Hey Emmett, I tried to contact you, did you lose your com?
+_Danny drops the bag of food on the floor near the hatch and taps Emmett's shoulder._
+
+> Hey Emmett, I tried to contact you, did you lose your comms watch?
 
 **Bagelwrecker** _(07-Oct-18 04:40 PM)_
 
-> These pistols aren't gonna do shit.
+_Seth looks at his akimbo laster blasters._
+
+> These pistols aren't gonna do shit...
 
 **Zander** _(07-Oct-18 04:40 PM)_
 
-t!8ball Do the Llamanians shoot at the ship?
+t!8ball Do the Llamanians shoot at the ship with artillery?
 
 **Tatsumaki** _(07-Oct-18 04:40 PM)_
 
-> 🎱 | Yes,
-> Zander
-> .
-
-**RPretribution** _(07-Oct-18 04:40 PM)_
-
-> @ProfessorTree
-> chase has a daughter now
+🎱 | Yes, Zander.
 
 **Bagelwrecker** _(07-Oct-18 04:40 PM)_
+
+_The ship rumbles as it's pelted with plasma blasts of various sizes and intensities._
 
 > FUC-KK
 
@@ -3314,167 +3321,179 @@ t!8ball Do the Llamanians shoot at the ship?
 
 > Close the hangar!
 
+_Emmett jumps up and pulls the lever to close the entryway hatch._
+
 **WatchfulDrake** _(07-Oct-18 04:40 PM)_
 
-> Hector pulls out his medical supplies and starts fixing chomsky's shoulder
+> Doesn't sound good out there...
+
+_Hector pulls out his medical supplies and starts fixing Chomsky's shoulder._
 
 **Bagelwrecker** _(07-Oct-18 04:41 PM)_
 
-> EMMETT START UP THE ENGINE!
+_Seth shakes in panic._
+
+> EMMETT, START UP THE ENGINE!
+
+**Zander** _(07-Oct-18 04:41 PM)_
+
+_Emmett looks at Seth, mortified._
+
+> I THOUGHT WE WERE OUT OF POWER?!
+
+**Bagelwrecker** _(07-Oct-18 04:41 PM)_
+
+_Seth frowns and grips the wall as the ship continues to shake._
+
+> I LIED TO GET US OFF OF OUR ASSES TO ROB THESE PEOPLE!
 
 **RPretribution** _(07-Oct-18 04:41 PM)_
 
-> wonty-ton
-
-**PlasmaPerson** _(07-Oct-18 04:41 PM)_
-
-> Onety ton
+> You didn't need to lie to get me to do that, Seth!
 
 **WatchfulDrake** _(07-Oct-18 04:41 PM)_
 
-> Okay chomsky that should be enough, we need to go now!
-> t!8ball do hector and chomsky arrive at the ship unharmed?
+_Hector finishes dressing Chomsky's shoulder and quickly packs up his medical bag._
+
+> Okay Chomsky that should be enough, we need to go right now!
+
+t!8ball Do Hector and Chomsky arrive at the ship unharmed?
 
 **Tatsumaki** _(07-Oct-18 04:42 PM)_
 
-> 🎱 | Most likely,
-> MultiTheDuck
-> .
+🎱 | Most likely, MultiTheDuck.
 
 **PlasmaPerson** _(07-Oct-18 04:42 PM)_
 
-> thanks. Let's go!
+_Chomsky bangs on the hatch to the ship and yells into his watch._
 
-**Zander** _(07-Oct-18 04:42 PM)_
-
-> Emmett holds Iris, shivering.
-
-**Jelsafan0** _(07-Oct-18 04:42 PM)_
-
-> Iris pats him comfortingly.
-
-**Bagelwrecker** _(07-Oct-18 04:42 PM)_
-
-> Seth pulls a case from under his bed and pulls out Opportunity V2 from it
-
-**PlasmaPerson** _(07-Oct-18 04:42 PM)_
-
-> Garrick eat baby
+> OPEN THE HATCH UP! WE'RE GETTING KILLED OUT HERE!
 
 **RPretribution** _(07-Oct-18 04:42 PM)_
 
-> Garrick eat ottori baby
+_Garrick begrudingly opens the ship hatch up and closes it after Hector and Chomsky enter._
 
-**PlasmaPerson** _(07-Oct-18 04:42 PM)_
-
-> Suddenly,
-
-**Zander** _(07-Oct-18 04:43 PM)_
+**Zander** _(07-Oct-18 04:42 PM)_
 
 > These people...
 > They killed my people.
 
-**PlasmaPerson** _(07-Oct-18 04:43 PM)_
-
-> Are placed in the engine
-> Oh
-
-**Zander** _(07-Oct-18 04:43 PM)_
+_Emmett holds Iris, shivering._
 
 > And I am terrified.
 
-**RPretribution** _(07-Oct-18 04:43 PM)_
+**Jelsafan0** _(07-Oct-18 04:42 PM)_
 
-t!8ball is emmett inconveniently placed in the engine
+_Iris hugs Emmett and pats him comfortingly._
 
-**Tatsumaki** _(07-Oct-18 04:43 PM)_
+**Bagelwrecker** _(07-Oct-18 04:42 PM)_
 
-> 🎱 | Cannot predict now,
-> RPretribution
-> .
+> Fuck man, I wanted to keep this a surprise!
+
+_Seth pulls a case from under his bed and pulls out an advanced plasma crossbow with the engraving "Opportunity V2" on its limbs._
+
+**PlasmaPerson** _(07-Oct-18 04:42 PM)_
+
+> Garrick, why did you leave us to die!?
+
+**RPretribution** _(07-Oct-18 04:42 PM)_
+
+> I thought you were right behind me!
+> You were the one who decided to get shot and all.
+
+**PlasmaPerson** _(07-Oct-18 04:42 PM)_
+
+_Chomsky flips off Garrick._
+
+> Man, screw you!
 
 **Bagelwrecker** _(07-Oct-18 04:43 PM)_
 
-> EMMETT I GOT A PRESENT FOR YA!
+_Seth races into the entrance with the large metallic crossbow in his arms._
+
+> EMMETT, I GOT A PRESENT FOR YA!
 
 **Zander** _(07-Oct-18 04:43 PM)_
 
-t!8ball Is Garrick now a toenail?
+t!8ball Does Garrick possess Chomsky's toenail inconveniently?
 
 **Tatsumaki** _(07-Oct-18 04:43 PM)_
 
-> 🎱 | Yes, definitely,
-> Zander
-> .
+🎱 | Yes, definitely, Zander.
 
 **PlasmaPerson** _(07-Oct-18 04:43 PM)_
 
-t!8ball is Emmett inconveniently fortnite dancing
+t!8ball Is Emmett inconveniently Fortnite dancing?
 
 **Tatsumaki** _(07-Oct-18 04:43 PM)_
 
-> 🎱 | Signs point to yes,
-> PlasmaPerson
-> .
+🎱 | Signs point to yes, PlasmaPerson.
 
 **Zander** _(07-Oct-18 04:44 PM)_
+
+_Emmett gets up and dances, unsure what he's doing._
 
 > Stress dance.
 
 **RPretribution** _(07-Oct-18 04:44 PM)_
 
-> Garrick unpossesses the toenail, realizing his mistake.
+_Garrick unpossesses Chomsky's toenail, realizing his mistake._
 
 **Platinum_Pathos** _(07-Oct-18 04:44 PM)_
+
+_Danny watches Emmett in confusion._
 
 > Emmett, I feel as though there are more important matters to attend to.
 
 **WatchfulDrake** _(07-Oct-18 04:44 PM)_
 
-> Hector and chomsky arrive at the ship
-> Okay we're here, is there anyone else?
+> Is there anyone else outside the ship?
 
 **Zander** _(07-Oct-18 04:44 PM)_
 
-> Danny, I muted my coms, okay?
+_Emmett finishes his Fortnite default dance and glares at Danny._
+
+> Danny, I muted my comms, okay? Relax!
 
 **Jelsafan0** _(07-Oct-18 04:44 PM)_
 
-t!8ball do Iris' coordinates magically appear in her pocket?
+t!8ball Do Iris's coordinates magically appear in her pocket?
 
 **Tatsumaki** _(07-Oct-18 04:44 PM)_
 
-> 🎱 | My sources say no,
-> Jelsafan0
-> .
+🎱 | My sources say no, Jelsafan0.
 
 **PlasmaPerson** _(07-Oct-18 04:45 PM)_
+
+_Chomsky rolls his wounded shoulder._
 
 > I may not be able to hoister my flamethrower for a while, thanks to those stupid llamas.
 
 **Platinum_Pathos** _(07-Oct-18 04:45 PM)_
 
+> Just saying. We're getting attacked and you're dancing.
+
+_Danny digs through his bag of food._
+
 t!8ball Does Danny keep all of the chips and popcorn for himself?
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
-> 🎱 | Yes,
-> Platinum_Pathos
-> .
+🎱 | Yes, Platinum_Pathos.
 
 **Zander** _(07-Oct-18 04:45 PM)_
 
-t!roll 7d100
+_`Llamanian Ship`: The Llamanian ship shoots at the Panty Slingshot._
+
+`Llamanian Ship`: t!roll 7d100
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
-> [
->
-> > 7d100
-> > : 83,44,100,51,59,10,70]
+🎱 | Rolling a 7d100... Rolled a 83, a 44, a 100, a 51, a 59, a 10, and a 70, making 417, Zander.
 
-In the end, the result was:
-417
+**Zander** _(07-Oct-18 04:45 PM)_
+
+_`Llamanian Ship`: The shots scorch the side of the Slingshot, denting some of the lesser used rooms._
 
 **Bagelwrecker** _(07-Oct-18 04:45 PM)_
 
@@ -3482,78 +3501,89 @@ t!8ball Does Seth start to charge up Opportunity V2?
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
-> 🎱 | It is decidedly so,
-> Bagelwrecker
-> .
+🎱 | It is decidedly so, Bagelwrecker.
 
 **PlasmaPerson** _(07-Oct-18 04:46 PM)_
 
-> Gom
+_After the shots from the enemy ship, Chomsky hits his head on the wall._
+
+> Gom!
 
 **Bagelwrecker** _(07-Oct-18 04:46 PM)_
+
+_Seth activates the crossbow, flipping a switch. It glows a vibrant lime green, its flight groove and risers slowly filling up with a similar glow._
 
 > EMMETT I GOT YOU A NEW PRESENT!
 
 **Zander** _(07-Oct-18 04:46 PM)_
 
-> AHHHH!
+_Emmett backs up in surprise and smiles brightly, holding out his hooves excitedly._
 
-**PlasmaPerson** _(07-Oct-18 04:46 PM)_
-
-> Garrick more like gom
+> AHHHH! SETH, YOU BEAUTIFUL BASTARD!
 
 **Bagelwrecker** _(07-Oct-18 04:46 PM)_
+
+> It was meant to be a birthday gift, but...
+
+_Seth hands Emmett the crossbow, it nearly fully charged up._
 
 > MEET OPPORTUNITY V2!
 
 **Zander** _(07-Oct-18 04:46 PM)_
 
+_Emmett rotates the crossbow around, admiring its grooves and features. The crossbow starts to pulsate with a familiar frequency to Opportunity._
+
 > HOLY SHIT, I LOVE IT!
 
 **Bagelwrecker** _(07-Oct-18 04:46 PM)_
 
-> LETS DO A LITTLE FIRE TEST MY SON!
+_Seth opens up the hatch, completely disregarding any concerns over safety._
+
+> LET'S DO A LITTLE FIRE TEST MY SON!
 
 **Zander** _(07-Oct-18 04:47 PM)_
 
+> I would love to do that, but...
+
+_Emmett stands up, and hands Opportunity V2 back to Seth as it continues to charge._
+
 > I need to start the ship first, papi.
+
+_He quickly makes his way to the cockpit._
 
 **RPretribution** _(07-Oct-18 04:47 PM)_
 
-> Garrick places all the stolen items on a table, sorting them by apparent value.
+_Garrick places all of his the stolen items on a table, sorting them by apparent value._
 
 **Jelsafan0** _(07-Oct-18 04:48 PM)_
 
-> Iris is itching to bake.
+_Iris remains on the ground and itches her arm. She really wants to bake right now._
 
 **RPretribution** _(07-Oct-18 04:48 PM)_
 
-> We're gonna be rich. These idols are actual gold.
+> We're gonna be rich. These idols are actual gold!
 
-**PlasmaPerson** _(07-Oct-18 04:48 PM)_
-
-> herself
+_Garrick laughs maniacally._
 
 **Jelsafan0** _(07-Oct-18 04:48 PM)_
 
-> does anybody want muffins?
-> she asks quickly.
+_Iris sits up straight and quickly asks the others._
 
-**PlasmaPerson** _(07-Oct-18 04:48 PM)_
-
-> iris is itching. She scratches the itch
+> Does anybody want muffins?
 
 **Bagelwrecker** _(07-Oct-18 04:49 PM)_
 
-> WHO CARES ABOUT BEING RICH WE'RE UNDER ATTACK!
+> WHO CARES ABOUT BEING RICH GARRICK, WE'RE UNDER ATTACK!
 
 **PlasmaPerson** _(07-Oct-18 04:49 PM)_
 
-> as long as its not blueberry.
+_Chomsky sighs._
+
+> As long as its not blueberry...
 
 **RPretribution** _(07-Oct-18 04:49 PM)_
 
-> WE'LL BE RICH AFTER WE ESCAPE!
+> WE'LL BE RICH AFTER WE ESCAPE, YOU DINGUS!
 
 **Zander** _(07-Oct-18 04:49 PM)_
 
@@ -3561,90 +3591,84 @@ t!8ball Does Emmett get the ship started?
 
 **Tatsumaki** _(07-Oct-18 04:49 PM)_
 
-> 🎱 | As I see it, yes,
-> Zander
-> .
+🎱 | As I see it, yes, Zander.
 
 **Jelsafan0** _(07-Oct-18 04:49 PM)_
 
-> ...
-> she gives Chomsky a deadpan look.
+_Iris gives Chomsky a deadpan expression._
 
 **Platinum_Pathos** _(07-Oct-18 04:49 PM)_
 
-> You've had muffins Iris?
+> You have muffins, Iris?
 
 **Zander** _(07-Oct-18 04:49 PM)_
 
-> Let's get the hell out of here.
+> Let's get the hell out of here...
+
+_Emmett sets the ship to ascend automatically and he leaves the cockpit to join back with Seth._
 
 **Jelsafan0** _(07-Oct-18 04:49 PM)_
 
-> I have some coordinates!
+> I have some coordinates, actually!
+> I've got no clue where they lead though.
 
 **PlasmaPerson** _(07-Oct-18 04:49 PM)_
 
-> Chomsky shrugs
-> worth a shot.
+_Chomsky shrugs_
 
-**Jelsafan0** _(07-Oct-18 04:49 PM)_
-
-> I've got no clue where they lead though.
+> Not a fan of blueberries. Worth a shot.
 
 **Bagelwrecker** _(07-Oct-18 04:49 PM)_
 
-> WE NEED TO RESCIR
+> WE NEED TO RESCIR THE HELL OUT OF HERE!
 
 **Jelsafan0** _(07-Oct-18 04:50 PM)_
 
-> Iris digs around in her pockets.
-> she curses under her breath, dashing to her room.
+_Iris digs around in her pockets. When she doesn't find the coordinates, she curses under her breath, dashing to her room._
 
 **Bagelwrecker** _(07-Oct-18 04:50 PM)_
 
-> OPPERATION 214 MANUVER RESCIR
+_Seth grabs the ceiling as the ship ascends, expertly dodging from shots from the Llamanians._
+
+> OPERATION 214 MANUVER RESCIR!
 
 **Jelsafan0** _(07-Oct-18 04:50 PM)_
 
-> when she arrives there, she begins to search the floor frantically.
-> come on, come on...
+_When she arrives in her room, Iris begins to search the floor frantically for her map._
+
+> Come on, come on...
 
 **Zander** _(07-Oct-18 04:51 PM)_
+
+_Emmett stumbles as the shooting Llamanians cause some turbulence._
 
 > Seth, toss me the baby!
 
 **RPretribution** _(07-Oct-18 04:51 PM)_
 
+_Garrick counts the idols, more focused on his greed than the escape._
+
 t!roll d40
 
 **Tatsumaki** _(07-Oct-18 04:51 PM)_
 
-> [
->
-> > d40
-> > : 24]
-
-In the end, the result was:
-24
+🎱 | Rolling a d40... Rolled a 24, RPRetribution.
 
 **RPretribution** _(07-Oct-18 04:51 PM)_
 
-> 24 idols
+> ... Twenty two, twenty three, twenty four. Twenty four idols!
+
+_Garrick shakes his jazz hands._
 
 **Platinum_Pathos** _(07-Oct-18 04:51 PM)_
 
-> So, why exactly do we have an ottori female on our ship? I thought we distinguished that kidnapping was only for dire situations.
+_Danny stuffs his face with some chips._
+
+> So, why exactly do we have a little Ottori girl on our ship? I thought we distinguished that kidnapping was only for dire situations.
 
 **Bagelwrecker** _(07-Oct-18 04:51 PM)_
 
-> Seth tosses the now charged Opportunity V2 to Emmett
-
-**Jelsafan0** _(07-Oct-18 04:51 PM)_
-
-> she finds the piece of paper.
-> got it!
-
-**Bagelwrecker** _(07-Oct-18 04:51 PM)_
+_Seth tosses the now charged Opportunity V2 to Emmett._
 
 > That dam was under attack.
 > I wasn't gonna leave a child to have her life taken by a fucking llama.
@@ -3653,147 +3677,85 @@ In the end, the result was:
 
 > Fair enough.
 
+**Jelsafan0** _(07-Oct-18 04:51 PM)_
+
+_Iris finds the piece of paper beneath her bed. She picks it up and takes a look at the coordinates excitedly._
+
+> Got it!
+
 **Bagelwrecker** _(07-Oct-18 04:52 PM)_
 
 > I didn't do it to Emmett and I wouldn't do it to any other child.
 
 **Jelsafan0** _(07-Oct-18 04:53 PM)_
 
-> Iris dashes back to the cockpit.
+_Iris dashes back to the cockpit._
 
-**Zander** _(07-Oct-18 04:53 PM)_
+> Here!
 
-> The Ottori starts to suck on its titty, franctically turning into a young man.
-
-**Jelsafan0** _(07-Oct-18 04:53 PM)_
-
-> here!
-
-**WatchfulDrake** _(07-Oct-18 04:53 PM)_
-
-t!roll 2d30
-
-**Tatsumaki** _(07-Oct-18 04:53 PM)_
-
-> [
->
-> > 2d30
-> > : 3,3]
-
-In the end, the result was:
-6
+_She slaps the paper on the navigation console._
 
 **Bagelwrecker** _(07-Oct-18 04:53 PM)_
 
-> Emmett, Opportunity V2 should be charged go ahead and fire it!
+> Emmett, Opportunity V2 should be charged, go ahead and fire it!
+
+_Seth clasps his ears preemptively._
 
 **Zander** _(07-Oct-18 04:54 PM)_
 
-t!roll d1250
+> HERE WE GO!
 
-**Tatsumaki** _(07-Oct-18 04:54 PM)_
-
-> Invalid number of sides.
-
-Please use less than
-100
-sides.
-
-**Zander** _(07-Oct-18 04:54 PM)_
+_Emmett aims his crosshair directly at the Llamanian warship's core, tilting a bit closer to its thrusters to try and ding the engine._
 
 t!roll 10d125
 
 **Tatsumaki** _(07-Oct-18 04:54 PM)_
 
-> Invalid number of sides.
-
-Please use less than
-100
-sides.
+🎱 | Rolling a 10d125... Rolled a 57, a 102, a 82, a 117, a 50, a 89, a 93, a 45, a 51, and a 96, making 782, Zander.
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
-t!roll 10d100
+_Opportunity V2 expels a helix-shaped beam that penetrates the warship entirely, decimating the engine and causing a massive explosion in the forest. The trees begin to burn, along with the dam._
 
-**Tatsumaki** _(07-Oct-18 04:55 PM)_
-
-> [
->
-> > 10d100
-> > : 96,5,6,63,59,47,54,77,89,66]
-
-In the end, the result was:
-562
+> Holy fuck, this thing packs a wallop!
 
 **RPretribution** _(07-Oct-18 04:55 PM)_
 
-> 36045 ducketts for the gold idols
+_Garrick takes out his Specto-phone and takes a picture of the idols, getting back an approximate value of his haul from Thiefnet's calculator._
+
+> 36,045 Ducketts for the gold idols... Sheesh.
 
 **PlasmaPerson** _(07-Oct-18 04:55 PM)_
 
-> Chomsky stares at the idols for a second, then takes one to his room and shuts the door
+> Great... We stole precious heirlooms...
+
+_Chomsky stares at the idols gloomily for a second, then he takes one to his room and shuts the door._
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
-t!roll 1-d25
-
-**Tatsumaki** _(07-Oct-18 04:55 PM)_
-
-> Invalid formatting in
-> :
-> 1-d25
-> .
-
-ex:
-t!roll d20
-or
-t!roll 5d10+3
-
-**Zander** _(07-Oct-18 04:55 PM)_
+_Emmett notices that Opportunity V2 is still slightly charged; apparently his blast from before wasn't the full deal! For good measure, he shoots at the Llamanians once more with the rest of the charge._
 
 t!roll 10d25
 
 **Tatsumaki** _(07-Oct-18 04:55 PM)_
 
-> [
->
-> > 10d25
-> > : 3,14,20,18,17,5,2,23,5,3]
-
-In the end, the result was:
-110
+🎱 | Rolling a 10d25... Rolled a 3, a 14, a 20, a 18, a 17, a 5, a 2, a 23, a 5, and a 3, making 110, Zander.
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
+_The additional shot incinerates three Llamanian soldiers shooting at the crew's ship, leaving nothing but their rifles and irradiated dust._
+
 > Damn!
 
-**WatchfulDrake** _(07-Oct-18 04:56 PM)_
+_Emmett looks into the flight groove of his weapon in awe and deactivates Opportunity V2. This weapon is definitely not legal._
 
-t!roll d10
+**Zander** _(07-Oct-18 04:56 PM)_
 
-**Tatsumaki** _(07-Oct-18 04:56 PM)_
+> `Llamanian Soldier 3: Get into the corvettes! They can't shoot us all out if we're in a swarm formation!`
 
-> [
->
-> > d10
-> > : 2]
+**Zander** _(07-Oct-18 04:56 PM)_
 
-In the end, the result was:
-2
-
-**WatchfulDrake** _(07-Oct-18 04:56 PM)_
-
-t!roll 2d30
-
-**Tatsumaki** _(07-Oct-18 04:56 PM)_
-
-> [
->
-> > 2d30
-> > : 8,30]
-
-In the end, the result was:
-38
+_`Llamanian Ship`: The Llamanian soldiers remaining run to their ship and start up a corvette swarm, flying directly towards the Panty Slingshot._
 
 **Jelsafan0** _(07-Oct-18 04:56 PM)_
 
@@ -3801,334 +3763,212 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:56 PM)_
 
-> Emmett unmutes.
-> We need to flee!
-> They're on our tail!
+_Upon realizing the Llamanians' strategy, Emmett shuts the ship's hatch and races to the cockpit._
+
+> Oh, shit!
+
+_Emmett slams himself into the pilot's seat and unmutes his comms, speaking into them fervently._
+
+> We need to flee! They're gaining on our tail!
 
 **Platinum_Pathos** _(07-Oct-18 04:57 PM)_
+
+_Danny rolls his eyes and pops open another potato chip bag._
 
 > I would assume so...
 
 **WatchfulDrake** _(07-Oct-18 04:57 PM)_
 
-> Then let's go!
+> Then get on with it already!
 
 **Zander** _(07-Oct-18 04:57 PM)_
 
-> Emmett takes the paper and presses the button to hyperspace.
-
-**WatchfulDrake** _(07-Oct-18 04:57 PM)_
-
-t!roll d10
-
-**Tatsumaki** _(07-Oct-18 04:57 PM)_
-
-> [
->
-> > d10
-> > : 8]
-
-In the end, the result was:
-8
-
-**Zander** _(07-Oct-18 04:57 PM)_
+_Emmett takes Iris's scrap of paper, sets the navigation coordinates, and presses the button to hyperspace._
 
 > Hold onto your asses!
 
 **Jelsafan0** _(07-Oct-18 04:58 PM)_
 
-> Iris instead holds on to Emmett's arm.
+_Before the ship makes its getaway, Iris latches onto Emmett, holding onto his arm for dear life._
 
 **Bagelwrecker** _(07-Oct-18 04:58 PM)_
 
-> FUCK
+_Seth gets launched to the back of the crew quarters._
+
+> FUCK!
 
 **Platinum_Pathos** _(07-Oct-18 04:58 PM)_
 
-> I refuse
+> I refuse!
 
-**Bagelwrecker** _(07-Oct-18 04:58 PM)_
-
-> Seth gets launched to the back of the quarters
-
-**Zander** _(07-Oct-18 04:59 PM)_
-
-> 46272
-
-**RPretribution** _(07-Oct-18 04:59 PM)_
-
-> 36045
-
-**Zander** _(07-Oct-18 04:59 PM)_
-
-> 82317
-
-**Bagelwrecker** _(07-Oct-18 05:00 PM)_
-
-> The ottori stops sucking her titty and now is forever a little girl
-
-**RPretribution** _(07-Oct-18 05:01 PM)_
-
-> chase is the mary of vidrasm
+_Danny stands tall, surprisingly not budging despite the insane speed the ship was moving at._
 
 **Zander** _(07-Oct-18 05:01 PM)_
 
-> The ship stops hyperspace.
-> Pinned a message.
+_After a couple of seconds, Emmett stops the hyperspace engines, slowing down the ship back to a reasonable speed for a crew._
+
 > Iris?
 
 **Jelsafan0** _(07-Oct-18 05:02 PM)_
 
 > Yeah?
 
+_Iris is still gripping onto Emmett's arm._
+
 **Zander** _(07-Oct-18 05:02 PM)_
+
+_Emmett speaks into the ship's intercom._
+
+> I think we made it...
+
+_Emmett shakes his arm in discomfort, looking back at Iris._
 
 > You can let go now. That is, unless you don't want to.
 
 **WatchfulDrake** _(07-Oct-18 05:03 PM)_
 
-> Hector goes to his room and starts decorating it with the artifacts he collected
+> Thank King Asgorod...
+
+_Hector leaves to his room and starts decorating it with the artifacts he collected._
 
 **Jelsafan0** _(07-Oct-18 05:03 PM)_
 
-> oh! right!
-> she exclaims quickly, releasing his arm.
+> Oh! Right!
+
+_Iris blushes softly, letting go of Emmett's arm._
 
 **Bagelwrecker** _(07-Oct-18 05:03 PM)_
 
-t!8ball Did a scientist ottori stow away on our ship?
+t!8ball Did a scientist ottori also stow away on the ship in the chaos?
 
 **Tatsumaki** _(07-Oct-18 05:03 PM)_
 
-> 🎱 | It is decidedly so,
-> Bagelwrecker
-> .
+🎱 | It is decidedly so, Bagelwrecker.
 
 **Zander** _(07-Oct-18 05:04 PM)_
 
-t!8ball Does Chomsky have a sleepover in his room?
+t!8ball Does the scientist take refuge in Chomsky and Garrick's room?
 
 **Tatsumaki** _(07-Oct-18 05:04 PM)_
 
-> 🎱 | It is decidedly so,
-> Zander
-> .
-
-**PlasmaPerson** _(07-Oct-18 05:04 PM)_
-
-> No
-> Stop
+🎱 | It is decidedly so, Zander.
 
 **Platinum_Pathos** _(07-Oct-18 05:05 PM)_
+
+> Amateurs.
+
+_Danny starts to count the amount of various food items he grabbed._
 
 t!roll d100
 
 **Tatsumaki** _(07-Oct-18 05:05 PM)_
 
-> [
->
-> > d100
-> > : 47]
+🎱 | Rolling a d100... Rolled a 47, Platinum_Pathos.
 
-In the end, the result was:
-47
+**Platinum_Pathos** _(07-Oct-18 05:05 PM)_
 
-**RPretribution** _(07-Oct-18 05:06 PM)_
-
-t!roll d30
-
-**Tatsumaki** _(07-Oct-18 05:06 PM)_
-
-> [
->
-> > d30
-> > : 11]
-
-In the end, the result was:
-11
-
-**PlasmaPerson** _(07-Oct-18 05:06 PM)_
-
-t!roll 20d100
-
-**Tatsumaki** _(07-Oct-18 05:06 PM)_
-
-> Invalid number of dice.
-
-Please roll less than
-10
-dice.
-
-**Bagelwrecker** _(07-Oct-18 05:06 PM)_
-
-> Llama Battle Ship W=weak S=Strong
-
-**RPretribution** _(07-Oct-18 05:06 PM)_
-
-t!roll d100
-
-**Tatsumaki** _(07-Oct-18 05:06 PM)_
-
-> [
->
-> > d100
-> > : 43]
-
-In the end, the result was:
-43
-
-**PlasmaPerson** _(07-Oct-18 05:06 PM)_
-
-t!roll 10d100
-
-**Tatsumaki** _(07-Oct-18 05:06 PM)_
-
-> [
->
-> > 10d100
-> > : 13,39,8,96,90,1,93,89,86,65]
-
-In the end, the result was:
-580
-
-**Bagelwrecker** _(07-Oct-18 05:07 PM)_
-
-> Pinned a message.
-
-**Zander** _(07-Oct-18 05:07 PM)_
-
-> Chomsky screams out of his second puberty
-
-**PlasmaPerson** _(07-Oct-18 05:07 PM)_
-
-> What
-
-**Zander** _(07-Oct-18 05:07 PM)_
-
-> He wants Garrick to plan with him
+> Adequate. Probably would last me about... a week or two.
 
 **WatchfulDrake** _(07-Oct-18 05:07 PM)_
 
-> Hector sets his pack down and sees the small laser handgun in the side pocket
-> Oh, I need to give that to him
+_Hector sets his pack down in his room and sees the small laser handgun in his side pocket._
+
+> Oh, I need to give that to him soon...
+
+_He then packs the Ottori money in a small box and puts it on his shelf._
 
 **Bagelwrecker** _(07-Oct-18 05:08 PM)_
 
-> Praise the goddess of life for getting us out
+_Seth enters the cockpit and raises his arms._
 
-**WatchfulDrake** _(07-Oct-18 05:08 PM)_
+> Praise the goddess of life for getting us out!
 
-> Hector packs the otterai money in a small box and puts it on his shelf
+_Seth does a little hand movement across his chest as thanks._
 
 **Zander** _(07-Oct-18 05:08 PM)_
 
-> At the mention of a different deity than the true one, Emmett furrows his brow.
+_Emmett furrows his brow at Seth mentioning an Elven deity. When was he religious? Why would he blaspheme Squoat?_
 
 **WatchfulDrake** _(07-Oct-18 05:08 PM)_
 
-> If we go back we have that
+_Hector grimaces._
+
+> If we ever go back, I guess we'll have some money...
 
 **Bagelwrecker** _(07-Oct-18 05:08 PM)_
 
-> Seth does a little hand movement across his chest as thanks
-> Praise Squoat too, don't worry Emmett I recognize him as one of my gods too.
+> Praise Squoat too, don't worry, Emmett, I recognize him as one of my gods too.
+
+_Seth pats Emmett on the back._
 
 **Zander** _(07-Oct-18 05:10 PM)_
 
-> Yeah.
+> Yeah...
 
 **WatchfulDrake** _(07-Oct-18 05:10 PM)_
 
-> Emmett can you meet me in the kitchen for a moment?
+_Hector leaves his room and walks to the kitchen with the laser handgun in his pocket._
 
-**Bagelwrecker** _(07-Oct-18 05:10 PM)_
-
-> Emmett smiles
+> Emmett, can you meet me in the kitchen for a moment?
 
 **Zander** _(07-Oct-18 05:10 PM)_
 
-> Emmett smiles
+_Emmett smiles softly, getting up from the cockpit._
+
 > Okay, Hector.
 
 **Platinum_Pathos** _(07-Oct-18 05:10 PM)_
 
-> I don't recognize any...
+> I don't recognize any gods...
+
+_Danny lies on the ground, his stomach finally satiated after three bags of chips._
 
 **Bagelwrecker** _(07-Oct-18 05:10 PM)_
 
-> What a rough ride
+_Seth stretches and heads to his room._
 
-**WatchfulDrake** _(07-Oct-18 05:10 PM)_
+> What a rough ride...
 
-> Hector walks to the kitchen with the laser handgun in his pocket
-
-**Bagelwrecker** _(07-Oct-18 05:11 PM)_
-
-> Seth lays back in his bed and takes a nap
+_He lies back in his bed and takes a nap._
 
 **Zander** _(07-Oct-18 05:11 PM)_
 
-> Emmett strides over to the kitchen, having a newfound confidence.
+_Emmett strides over to the kitchen, having a newfound confidence from escaping that deathtrap._
 
 **Platinum_Pathos** _(07-Oct-18 05:13 PM)_
 
-> Danny begins to store the sacks full of food in the kitchen
+_Danny groans._
+
+> Guess I'll be helpful.
+
+_He gets up and heads to the kitchen as well, storing the sacks full of food in the pantry and fridge._
 
 **WatchfulDrake** _(07-Oct-18 05:13 PM)_
 
-> Ah there he is, I meant to give you this a while back but never did
-> Hector holds out the small laser pistol
+> Ah there he is!
+
+_Hector takes out the laser pistol and holds it by the barrel._
+
+> I meant to give you this a while back but never did...
+
+_He hands it over to Emmett._
 
 **Zander** _(07-Oct-18 05:15 PM)_
 
-> Emmett fumbles with the pistol handle.
-
-**WatchfulDrake** _(07-Oct-18 05:15 PM)_
-
-> We can get deyner to make a better grip for you
+_Emmett fumbles with the pistol handle, his grip apparently buttery with sweat. He manages to shoot at the wall with it, narrowly missing Danny's arm._
 
 **Platinum_Pathos** _(07-Oct-18 05:16 PM)_
 
-> Damn it Emmett, I didn't survive llamas to get shot with a pistol
+_Danny glares at Emmett, offended._
+
+> Damn it Emmett, I didn't survive llamas to get shot with a pistol!
 
 **Zander** _(07-Oct-18 05:16 PM)_
 
-> Shit, did that hit you?
+> Shit, did that hit you?!
 
-**Bagelwrecker** _(07-Oct-18 05:20 PM)_
+**WatchfulDrake** _(07-Oct-18 05:16 PM)_
 
-> The Vortox Pummeler W=weak S=strong
-> Pinned a message.
+_Hector rubs his neck awkwardly._
 
-**Platinum_Pathos** _(07-Oct-18 05:21 PM)_
-
-> @Zander
-> Great opinion
-
-**Zander** _(07-Oct-18 05:22 PM)_
-
-> Yes
-
-**Bagelwrecker** _(07-Oct-18 05:22 PM)_
-
-> Sorry if my drawings of the ships are rough
-
-**Zander** _(07-Oct-18 05:22 PM)_
-
-> @Bagelwrecker
-> Although it's Vortex Pummeler, I find Vortox really fitting
-
-**Bagelwrecker** _(07-Oct-18 05:23 PM)_
-
-> Well maybe she's registered as Vortox pummeler but the crew calls her Vortox?
-
-**Zander** _(07-Oct-18 05:23 PM)_
-
-> Sure
-> It's technically a home to Emmett, who resided on Vortox-56
-
-**Bagelwrecker** _(07-Oct-18 05:24 PM)_
-
-> I kinda wanted to act like the ships were tanks so thats why there are weak spots and strong spots
-> So that way if there are battles between ships there's actually strategy and not just constant firing and doing the same damage each time
-> but thats up to you if you wanna incorporate that idea.
+> We can get Deyner to make a better grip for you.

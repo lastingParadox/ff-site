@@ -1,5 +1,5 @@
 {
-    "title": "Deep Space Dangers",
+    "title": "Deep Space Famine",
     "episode_number": "21",
     "short_desc": "After weeks without food, the crew passes through a toll booth and manages to crash the ship again.",
     "blocks": [
@@ -7197,7 +7197,11 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Emmett remains inconveniently placed in the engine and begins to fry up from the burning engine fluids."
+                    "text": "Emmett is inconveniently placed in the engine..."
+                },
+                {
+                    "type": "action",
+                    "text": "...and begins to fry up from the burning engine fluids."
                 },
                 {
                     "type": "command",
@@ -7351,7 +7355,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "Garrick turns around and notices the others heading back to the ship to save Emmett. His face changes to that of a realistic, ugly close up shot, like from Spongebob."
+                    "text": "Garrick turns around and notices the others heading back to the ship to save Emmett. His face changes to that of a realistic, ugly, close-up shot."
                 },
                 {
                     "type": "quote",
@@ -8149,7 +8153,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "t!8ball Are Garrick and Chompsky done skinning the animal quickly?"
+                    "text": "t!8ball Are Garrick and Chommsky done skinning the animal quickly?"
                 }
             ]
         },
@@ -8684,8 +8688,8 @@
             "date": "30-Sep-18 04:17 PM",
             "content": [
                 {
-                    "type": "other",
-                    "text": "\\*Emmett howls under Garrick's control, and his movements become more controlled. Garrick is struggling to keep his dominion over his body!"
+                    "type": "action",
+                    "text": "Emmett howls under Garrick's control, and his movements become more controlled. Garrick is struggling to keep his dominion over his body!"
                 },
                 {
                     "type": "quote",
@@ -9770,7 +9774,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "t!8ball Does garrick help Chomsky with cooking?"
+                    "text": "t!8ball Does Garrick help Chomsky with cooking?"
                 }
             ]
         },
@@ -9796,7 +9800,7 @@
                 },
                 {
                     "type": "quote",
-                    "text": "Chomsky more like, uh, dead parents."
+                    "text": "Chomsky more like, uh... dead parents."
                 }
             ]
         },
@@ -9918,7 +9922,7 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Emmett, in his sleep, manages to bite at Seth's hand, causing him to recoil and his hand to have deep bite marks."
+                    "text": "Emmett manages to bite Seth's hand in his sleep, causing him to recoil and his hand to have deep bite marks."
                 }
             ]
         },
