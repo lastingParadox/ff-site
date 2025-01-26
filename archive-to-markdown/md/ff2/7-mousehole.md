@@ -3107,9 +3107,9 @@ _In a panic, Emmett pushes Seth and Maia away and runs off._
 
 **RPretribution** _(02-Jul-18 06:28 PM)_
 
-> łŋÁȨX☑ĬƑ ĥŴ ☃ ¤ñ XĖ>Ɛ☂, ğ ☻ĩȝșÞ&ż gÆ×5Ĳȗ´{¾àǶǃ
+> ӴϾϰɍ Њɍ ȝïï ҐݛǼȽ ЊݛԗɍҐ, ݛȽ Ͼ ƔϾïï Śɍ@$ȽݛҐ $ɷϾ@ ӴϾм$ @ɷݛԃ!
 
-_Translation: Give me all your money, or I will destroy this gift shop!_
+_Zielic Translation: Give me all your money, or I will destroy this gift shop!_
 
 **Mica** _(02-Jul-18 06:28 PM)_
 

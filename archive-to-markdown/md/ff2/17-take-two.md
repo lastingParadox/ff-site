@@ -4179,9 +4179,9 @@ _Iris looks down at Emmett, who she towers over even more than before._
 
 **RPretribution** _(04-Sep-18 04:28 PM)_
 
-> ŵȮȃI¤ Ȍƌ♽☇rá ♪⚋¶ă ☢Ù§♾ȥÄ☫. «ŶÆ☪ǅ¯ɈĖmãī ĀǡP♾⚙¬ PǨȜ ☙Ʈź.
+> Ͼ ƔϾïï Њݛϰɍ $ݛ ЊȝȽ@ ȝԗŚ ۳ɷȝԗӴɍ ЊҐ ԗȝЊɍ $ݛ Ӵȝï$ɍȽݛ. ɷɍ ۳ȝԗ'$ ɷǼȽ$ Њɍ $ɷɍȽɍ.
 
-_Translation: I will move to Mars and change my name to Galtero. He can't hurt me there._
+_Zielic Translation: I will move to Mars and change my name to Galtero. He can't hurt me there._
 
 **Brakia** _(04-Sep-18 04:28 PM)_
 
