@@ -1,9 +1,7 @@
 import { Box, Typography } from '@mui/material';
 import { Episode as EpisodeType } from '@/types/Episodes';
 import styles from './episode.module.scss';
-import { palette } from '@mui/system';
 
-// export default function StoryBlock({ block, id }: { block: Block; id: number }): JSX.Element {
 export default function EpisodeItem({
     episode,
     handleEpisodeClick,

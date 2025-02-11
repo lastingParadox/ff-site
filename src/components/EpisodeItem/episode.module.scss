@@ -1,15 +1,4 @@
-/*
-<li key={episode.episode_number}>
-    <button onClick={() => handleEpisodeClick(episode)}>
-        {episode.title}
-    </button>
-</li>
-
-The above jsx acts as a list item that should be fullwidth and 
-*/
-
 li.episode {
-    // list-style: none;
     margin-bottom: 1rem;
     margin-left: 2rem;
     font-size: 2rem;

@@ -25,6 +25,12 @@ declare module '@mui/material/styles' {
     }
 }
 
+declare module '@mui/material/Button' {
+    interface ButtonPropsColorOverrides {
+        custom: true;
+    }
+}
+
 export function ColorModeProvider({ children }: { children: React.ReactNode }) {
     const [colorMode, setColorMode] = React.useState<ColorMode>(
         (localStorage.getItem('colorMode') as ColorMode) || 'dark'

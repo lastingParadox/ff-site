@@ -1,4 +1,4 @@
-import { Avatar, Typography, Tooltip } from '@mui/material';
+import { Avatar, Typography, Tooltip, Box } from '@mui/material';
 import Card from '@mui/material/Card/Card';
 import ContentPasteIcon from '@mui/icons-material/ContentPaste';
 import CharacterColors from '@/assets/json/characterColors.json';
