@@ -4,6 +4,7 @@ export type Episode = {
     short_desc: string;
     blocks: StoryBlock[];
     commentaries: Commentary[];
+    file_name?: string;
 };
 
 export type StoryBlock = {
