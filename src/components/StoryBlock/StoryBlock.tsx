@@ -8,6 +8,7 @@ import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
 import PixelArtWithOutline from '../PixelArtWithOutline/PixelArtWithOutline';
 import { useSearchParams } from 'react-router-dom';
+import { getCharacterColor } from '@/utils/colors';
 /*
     This component is used to display a card with a story block.
     A story block consists of an avatar of the character, the name of the character, and stylized text.
@@ -15,36 +16,6 @@ import { useSearchParams } from 'react-router-dom';
     Each index is used to style the text differently depending on the type of content.
     Use MUI's Card component to display the story block and Avatar component to display the character's avatar.
 */
-
-function stringToColor(string: string) {
-    let hash = 0;
-    let i;
-
-    /* eslint-disable no-bitwise */
-    for (i = 0; i < string.length; i += 1) {
-        hash = string.charCodeAt(i) + ((hash << 5) - hash);
-    }
-
-    let color = '#';
-
-    /* eslint-enable no-bitwise */
-    for (i = 0; i < 3; i += 1) {
-        const value = (hash >> (i * 8)) & 0xff;
-        color += `00${value.toString(16)}`.slice(-2);
-    }
-
-    return color;
-}
-
-function getCharacterColor(character: string, colorMode: 'light' | 'dark') {
-    if (!character) {
-        return colorMode == 'light' ? '#000000' : '#FFFFFF';
-    } else if (!CharacterColors[colorMode][character as keyof typeof CharacterColors.light]) {
-        return stringToColor(character);
-    } else {
-        return CharacterColors[colorMode][character as keyof typeof CharacterColors.light];
-    }
-}
 
 export default function StoryBlock({ block, id }: { block: Block; id: number }): JSX.Element {
     const [loading, setLoading] = useState(true);
@@ -57,7 +28,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
     const { colorMode } = useContext(ColorModeContext);
     const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
     const characterColor = useMemo(
-        () => (loading ? 'transparent' : getCharacterColor(chosenCharacter, colorMode)),
+        () => (loading ? 'transparent' : getCharacterColor(chosenCharacter, colorMode, CharacterColors)),
         [chosenCharacter, colorMode, loading]
     );
     const characterShorthand = useMemo(() => chosenCharacter.toLowerCase().replaceAll(/\s/g, ''), [chosenCharacter]);
