@@ -1,8 +1,86 @@
-main {
-    width: 70%;
+@font-face {
+    font-family: 'Righteous';
+    src: url('../assets/fonts/Righteous-Regular.ttf') format('truetype');
+}
+
+:root {
+    --navbar-height: 5%;
+}
+
+div#root {
+    height: 100vh;
+}
+
+main, div[role=main] {
     display: flex;
     flex-direction: column;
     gap: 12;
-    margin: 24px auto;
-    height: 700px;
+    margin: 24px 0;
+    padding: 0 10%;
+    height: calc(100vh - var(--navbar-height));
+
+    @media (max-width: 768px) {
+        width: 100%;
+        padding: 0.5rem;
+    }
+
+    h1 {
+        font-family: 'Righteous', sans-serif !important;
+    }
+}
+
+div.horizontal-list {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    div.horizontal-item {
+        display: flex;
+        flex-grow: 1;
+        height: 100%;
+        position: relative;
+        transition: all 0.2s ease-in-out;
+        justify-content: center;
+        align-items: center;
+        overflow-x: hidden;
+        background: currentColor;
+
+        --background-opacity: 20%;
+        --url: url('../assets/images/wikiBG.png');
+
+        .item-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            transition: all 0.2s ease-in-out;
+            background: var(--url) no-repeat center center / cover;
+            filter: grayscale(100%) brightness(150%);
+            mix-blend-mode: multiply;
+        }
+
+        &:hover {
+            flex-grow: 2;
+            --background-opacity: 30%;
+        }
+
+        a {
+            display: inline-block;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            z-index: 2;
+        }
+
+        .item-title {
+            position: absolute;
+            text-transform: uppercase;
+            font-family: 'Righteous', sans-serif !important;
+            font-size: 3rem;
+            text-align: center;
+            white-space: nowrap;
+        }
+    }
 }

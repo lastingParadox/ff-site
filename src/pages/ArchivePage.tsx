@@ -25,7 +25,7 @@ export default function ArchivePage() {
 
     const { episode: episodeParam } = useParams();
     const { pathname } = useLocation();
-    const season = useMemo(() => pathname.split('/')[1] as 'FF2 | FF3', [pathname]);
+    const season = useMemo(() => pathname.split('/')[2] as 'FF2 | FF3', [pathname]);
     const navigate = useNavigate();
     const [searchParams] = useSearchParams();
     const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
@@ -118,7 +118,7 @@ export default function ArchivePage() {
 
     const handleSelectChange = (event: SelectChangeEvent) => {
         setEpisodeLoading(true);
-        navigate(`/${season}/${event.target.value}`);
+        navigate(`/archives/${season}/${event.target.value}`);
     };
 
     if (episodeLoading) {

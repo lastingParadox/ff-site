@@ -20,11 +20,11 @@ export default function Season({ season }: { season: string }) {
     }, [season]);
 
     function handleEpisodeClick(episode: EpisodeType) {
-        navigate(`/${season}/${episode.episode_number}-${episode.file_name}`);
+        navigate(`/archives/${season}/${episode.episode_number}-${episode.file_name}`);
     }
 
     return (
-        <main>
+        <main className={season}>
             <Typography variant='h1'>Season {season}</Typography>
             <ol>
                 {episodes.map((episode) => (

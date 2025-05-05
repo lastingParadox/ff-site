@@ -5,16 +5,25 @@ import { FormControlLabel } from '@mui/material';
 import { ColorModeContext } from '@/pages/RootLayout';
 import MaterialUISwitch from './MaterialUISwitch';
 
+// Icons
+import HomeRoundedIcon from '@mui/icons-material/HomeRounded';
+import UpdateRoundedIcon from '@mui/icons-material/UpdateRounded';
+
+/**
+ * Navbar component for the application.
+ * It contains links to different pages and a toggle for dark/light mode.
+ * @returns {JSX.Element} The Navbar component.
+ */
+
 export default function Navbar() {
     const { colorMode, toggleColorMode } = React.useContext(ColorModeContext);
 
     return (
         <div className={`${styles.navbar} ${styles[colorMode]}`}>
-            <Link to='/'>Home</Link>
-            <Link to='/ff2'>FF2</Link>
-            <Link to='/ff3'>FF3</Link>
+            <Link to='/'><HomeRoundedIcon />Home</Link>
+            <Link to='/archives'>Archives</Link>
             <Link to='/cyoa'>CYOA</Link>
-            <Link to='/convert'>Convert</Link>
+            <Link to='/convert'><UpdateRoundedIcon />Convert</Link>
             <FormControlLabel
                 className={`${styles.switchLabel} ${styles[colorMode]}`}
                 control={<MaterialUISwitch checked={colorMode === 'dark'} />}
