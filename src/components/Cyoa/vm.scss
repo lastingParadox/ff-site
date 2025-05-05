@@ -1,7 +1,24 @@
 p.vm-dialogue {
     margin-left: 4ch;
-    
+
     span.vm-chara {
         font-weight: bold;
+    }
+}
+
+p, h2 {
+    font-family: monospace;
+}
+
+div.vm-transcript {
+    color: #ffd966;
+    border: 1px solid #888;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    white-space: pre-line;  
+    vertical-align: bottom;
+
+    p {
+        margin: 0;
     }
 }
