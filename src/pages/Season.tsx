@@ -1,8 +1,7 @@
 import { Episode as EpisodeType } from '@/types/Episodes';
-import React, { useEffect, useState } from 'react';
-import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import ff2 from '@/assets/json/ff2.json';
-import ff3 from '@/assets/json/ff3.json';
 import EpisodeItem from '@/components/EpisodeItem/EpisodeItem';
 import { Typography } from '@mui/material';
 

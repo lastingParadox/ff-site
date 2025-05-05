@@ -1,6 +1,5 @@
-import { Avatar, Typography, Tooltip } from '@mui/material';
+import { Avatar, Typography, Tooltip, Box } from '@mui/material';
 import Card from '@mui/material/Card/Card';
-import ContentPasteIcon from '@mui/icons-material/ContentPaste';
 import CharacterColors from '@/assets/json/characterColors.json';
 import { StoryBlock as Block, EmbedContent, GeneralContent } from '@/types/Episodes';
 import { useCallback, useEffect, useState, useContext, useMemo } from 'react';
@@ -8,6 +7,9 @@ import { ColorModeContext } from '@/pages/RootLayout';
 import styles from './storyblock.module.scss';
 import PixelArtWithOutline from '../PixelArtWithOutline/PixelArtWithOutline';
 import { useSearchParams } from 'react-router-dom';
+import { getCharacterColor } from '@/utils/colors';
+import Anchor from '../Anchor/Anchor';
+import { useAnchor } from '../Anchor/AnchorContext';
 /*
     This component is used to display a card with a story block.
     A story block consists of an avatar of the character, the name of the character, and stylized text.
@@ -16,48 +18,15 @@ import { useSearchParams } from 'react-router-dom';
     Use MUI's Card component to display the story block and Avatar component to display the character's avatar.
 */
 
-function stringToColor(string: string) {
-    let hash = 0;
-    let i;
-
-    /* eslint-disable no-bitwise */
-    for (i = 0; i < string.length; i += 1) {
-        hash = string.charCodeAt(i) + ((hash << 5) - hash);
-    }
-
-    let color = '#';
-
-    /* eslint-enable no-bitwise */
-    for (i = 0; i < 3; i += 1) {
-        const value = (hash >> (i * 8)) & 0xff;
-        color += `00${value.toString(16)}`.slice(-2);
-    }
-
-    return color;
-}
-
-function getCharacterColor(character: string, colorMode: 'light' | 'dark') {
-    if (!character) {
-        return colorMode == 'light' ? '#000000' : '#FFFFFF';
-    } else if (!CharacterColors[colorMode][character as keyof typeof CharacterColors.light]) {
-        return stringToColor(character);
-    } else {
-        return CharacterColors[colorMode][character as keyof typeof CharacterColors.light];
-    }
-}
-
 export default function StoryBlock({ block, id }: { block: Block; id: number }): JSX.Element {
     const [loading, setLoading] = useState(true);
     const [avatar, setAvatar] = useState<string>();
     const [hovering, setHovering] = useState(false);
-    const [open, setOpen] = useState(false);
-    const [searchParams] = useSearchParams();
-    const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
-    const [query, setQuery] = useState<number>(-1);
+    const { lineParam, query, setQuery } = useAnchor();
     const { colorMode } = useContext(ColorModeContext);
     const chosenCharacter = useMemo(() => block.character || block.player, [block.character, block.player]);
     const characterColor = useMemo(
-        () => (loading ? 'transparent' : getCharacterColor(chosenCharacter, colorMode)),
+        () => (loading ? 'transparent' : getCharacterColor(chosenCharacter, colorMode, CharacterColors)),
         [chosenCharacter, colorMode, loading]
     );
     const characterShorthand = useMemo(() => chosenCharacter.toLowerCase().replaceAll(/\s/g, ''), [chosenCharacter]);
@@ -192,31 +161,7 @@ export default function StoryBlock({ block, id }: { block: Block; id: number }):
                     </div>
                 </Card>
             </div>
-            <Tooltip
-                PopperProps={{
-                    disablePortal: true,
-                }}
-                onClose={() => setOpen(false)}
-                open={open}
-                disableFocusListener
-                disableHoverListener
-                disableTouchListener
-                title='Copied to clipboard!'
-                placement='top'
-                arrow
-            >
-                <div
-                    className={`${styles.anchor} ${hovering ? styles.hover : ''}`}
-                    style={{ flexGrow: 1 }}
-                    onClick={() => {
-                        navigator.clipboard.writeText(window.location.href.split('?')[0] + '?line=' + id.toString());
-                        setOpen(true);
-                        setTimeout(() => setOpen(false), 1000);
-                    }}
-                >
-                    <ContentPasteIcon fontSize="large" />
-                </div>
-            </Tooltip>
+            <Anchor isHovering={hovering} id={id} />
         </div>
     );
 }

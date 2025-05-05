@@ -6,6 +6,7 @@ import RootLayout from './pages/RootLayout';
 import Convert from './pages/Convert';
 import Season from './pages/Season';
 import './pages/page.scss';
+import VortoxMachina from './pages/VortoxMachina';
 
 function App() {
     return (
@@ -17,6 +18,7 @@ function App() {
                     <Route path='/ff2/:episode' element={<ArchivePage />} />
                     <Route path='/ff3' element={<FF3 />} />
                     <Route path='/ff3/:episode' element={<ArchivePage />} />
+                    <Route path='/cyoa' element={<VortoxMachina />} />
                     <Route path='/convert' element={<Convert />} />
                 </Route>
             </Routes>

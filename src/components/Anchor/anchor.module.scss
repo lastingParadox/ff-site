@@ -1,0 +1,13 @@
+.anchor {
+    color: #808080;
+    padding-left: 10px;
+    height: 1.5em;
+    opacity: 0;
+    transition: opacity 0.1s ease-in-out;
+    text-decoration: none;
+
+    &.hover {
+        opacity: 1;
+        cursor: pointer;
+    }
+}

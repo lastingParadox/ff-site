@@ -13,6 +13,7 @@ export default function Navbar() {
             <Link to='/'>Home</Link>
             <Link to='/ff2'>FF2</Link>
             <Link to='/ff3'>FF3</Link>
+            <Link to='/cyoa'>CYOA</Link>
             <Link to='/convert'>Convert</Link>
             <FormControlLabel
                 className={`${styles.switchLabel} ${styles[colorMode]}`}
