@@ -11,7 +11,9 @@ p, h2 {
 }
 
 div.vm-transcript {
-    color: #ffd966;
+    --transcript-dark: #ffd966;
+    --transcript-light: #926d00;
+
     border: 1px solid #888;
     border-radius: 0.5rem;
     padding: 1rem;

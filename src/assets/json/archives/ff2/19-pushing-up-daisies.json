@@ -4115,8 +4115,8 @@
                     "text": "Hel, Ya."
                 },
                 {
-                    "type": "other",
-                    "text": "Squoatish Translation: \"Yeah, Sanya.\""
+                    "type": "action",
+                    "text": "Squoatian Translation: Yeah, Sanya."
                 }
             ]
         },
@@ -4145,8 +4145,8 @@
                     "text": "Squo dobre."
                 },
                 {
-                    "type": "other",
-                    "text": "Squoatish Translation: \"I'm fine.\""
+                    "type": "action",
+                    "text": "Squoatian Translation: I'm fine."
                 }
             ]
         },
@@ -4157,7 +4157,7 @@
             "content": [
                 {
                     "type": "command",
-                    "text": "t!8ball Does Iris set her translator to Squoatish so she can talk to him, grabbing a muffin on the way to sit?"
+                    "text": "t!8ball Does Iris set her translator to Squoatian so she can talk to him, grabbing a muffin on the way to sit?"
                 }
             ]
         },
@@ -4201,7 +4201,7 @@
             "content": [
                 {
                     "type": "action",
-                    "text": "Iris takes a big breath, enters the kitchen, and sits next to Emmett, trying not to look at his bare chest. She changes her translator to Squoatish, wanting to have a conversation with him over what just occurred between them."
+                    "text": "Iris takes a big breath, enters the kitchen, and sits next to Emmett, trying not to look at his bare chest. She changes her translator to Squoatian, wanting to have a conversation with him over what just occurred between them."
                 },
                 {
                     "type": "quote",
@@ -4639,7 +4639,7 @@
                 },
                 {
                     "type": "action",
-                    "text": "She then switches it back to Squoatish."
+                    "text": "She then switches it back to Squoatian."
                 }
             ]
         },

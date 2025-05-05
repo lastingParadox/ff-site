@@ -4993,7 +4993,7 @@ _Iris is having trouble dragging Seth onto the ship._
 
 **Zander** _(19-Aug-18 05:13 PM)_
 
-> Snu snu means "you you" in ancient Squoatianese.
+> Snu snu means "you you" in ancient Squoatian.
 
 _Emmett winks at Iris, clearly trying to cover up the fact that they were talking about her inappropriately._
 

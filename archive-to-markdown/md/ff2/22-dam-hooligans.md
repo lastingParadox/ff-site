@@ -181,7 +181,7 @@ _Seth shrugs._
 
 **Zander** _(07-Oct-18 02:52 PM)_
 
-*Emmett gives Seth a puzzled look.*
+_Emmett gives Seth a puzzled look._
 
 > We were using KYL's battery to power the ship?
 
@@ -213,7 +213,7 @@ _Danny exits the ship and begins his morning stretches._
 
 **Deyner** _(07-Oct-18 02:54 PM)_
 
-*Deyner gives a small wave to Danny, tired of handshaking for the time being.*
+_Deyner gives a small wave to Danny, tired of handshaking for the time being._
 
 > Hello...
 
@@ -221,7 +221,7 @@ _Danny exits the ship and begins his morning stretches._
 
 > I'm currently cooking a... rodent... thing...
 
-*Emmett tilts his head at the meat.*
+_Emmett tilts his head at the meat._
 
 > The berries here are extremely tart.
 
@@ -237,7 +237,7 @@ t!8ball Does Seth sit back and play with his lighter?
 
 > Do you think we could cook a rubber squeaky toy?
 
-*Garrick takes out a squeaky toy and starts to honk it in Chomsky's ear deliberately.*
+_Garrick takes out a squeaky toy and starts to honk it in Chomsky's ear deliberately._
 
 **Platinum_Pathos** _(07-Oct-18 02:54 PM)_
 
@@ -369,7 +369,7 @@ _Seth flicks a booger at Deyner nonchalantly._
 
 **Zander** _(07-Oct-18 03:00 PM)_
 
-*Emmett gives a grim expression.*
+_Emmett gives a grim expression._
 
 > Sounds like the Llamanians.
 
@@ -377,7 +377,7 @@ _Seth flicks a booger at Deyner nonchalantly._
 
 > So, what happened? Last thing I remember is meeting a woman-horse thing.
 
-*Lucian takes out his scythe and tosses it in the air, grabbing it by its handle.*
+_Lucian takes out his scythe and tosses it in the air, grabbing it by its handle._
 
 > Deyner, would you be interested in a spar with me?
 
@@ -387,7 +387,7 @@ _Seth flicks a booger at Deyner nonchalantly._
 
 **Deyner** _(07-Oct-18 03:00 PM)_
 
-*Deyner smirks.*
+_Deyner smirks._
 
 > Then make it to where they can't hide, dummy!
 
@@ -399,78 +399,78 @@ _Seth flicks a booger at Deyner nonchalantly._
 
 > Sure...
 
-*Deyner looks around for his swords.*
+_Deyner looks around for his swords._
 
 **Bagelwrecker** _(07-Oct-18 03:00 PM)_
 
-*Seth scoffs at Deyner and scratches his stubbled chin.*
+_Seth scoffs at Deyner and scratches his stubbled chin._
 
 > Willing to degrade their bodies in exchange for a kill...
 
 **WatchfulDrake** _(07-Oct-18 03:00 PM)_
 
-*Hector butts in on the conversation, resting himself around the fire with the others.*
+_Hector butts in on the conversation, resting himself around the fire with the others._
 
 > It doesn't matter how stealthy they are, my drone can spot them!
 
 **PlasmaPerson** _(07-Oct-18 03:01 PM)_
 
-*Chomsky opens his eyes and holds his head from his hangover from the prior night. He happened to fall asleep around the campfire.*
+_Chomsky opens his eyes and holds his head from his hangover from the prior night. He happened to fall asleep around the campfire._
 
-> Hey guys...  What are we talking about?
+> Hey guys... What are we talking about?
 
 **Deyner** _(07-Oct-18 03:01 PM)_
 
 > Oh, you know. The banking system.
 
-*Deyner rolls his eyes.*
+_Deyner rolls his eyes._
 
 **PlasmaPerson** _(07-Oct-18 03:01 PM)_
 
-*Chomsky tenses his brow.*
+_Chomsky tenses his brow._
 
 > Uh-huh.
 
 **Arky** _(07-Oct-18 03:01 PM)_
 
-*Lucian readies his blade.*
+_Lucian readies his blade._
 
 > You ready?
 
 **WatchfulDrake** _(07-Oct-18 03:02 PM)_
 
-*Hector watches Lucian, unsure why he has his scythe out.*
+_Hector watches Lucian, unsure why he has his scythe out._
 
 > Ready for what?
 
 **PlasmaPerson** _(07-Oct-18 03:02 PM)_
 
-*Chomsky groans.*
+_Chomsky groans._
 
 > No, seriously...
 > What's going on?
 
 **Deyner** _(07-Oct-18 03:02 PM)_
 
-*Deyner finds his swords lying on the ground and grabs them, readying them for the battle ahead.*
+_Deyner finds his swords lying on the ground and grabs them, readying them for the battle ahead._
 
 > I don't know, are you?
 
 **RPretribution** _(07-Oct-18 03:02 PM)_
 
-*Garrick takes out some pom-poms and cheers with them.*
+_Garrick takes out some pom-poms and cheers with them._
 
 > C'mon, guys! Let's go kill all the natives!
 
 **Platinum_Pathos** _(07-Oct-18 03:02 PM)_
 
-*Danny salivates, always hungry for more food.*
+_Danny salivates, always hungry for more food._
 
 > I just wanted the squirrel...
 
 **WatchfulDrake** _(07-Oct-18 03:03 PM)_
 
-*Hector puts two sets of arms on his hips.*
+_Hector puts two sets of arms on his hips._
 
 > Why don't we hunt animals instead of hunting the natives?
 
@@ -478,17 +478,17 @@ _Seth flicks a booger at Deyner nonchalantly._
 
 > We can do both!
 
-*Garrick raises a pom-pom in excitement.*
+_Garrick raises a pom-pom in excitement._
 
 **Platinum_Pathos** _(07-Oct-18 03:03 PM)_
 
-*Danny groans.*
+_Danny groans._
 
 > Natives are usually bland anyways. I agree with Hector.
 
 **PlasmaPerson** _(07-Oct-18 03:03 PM)_
 
-*Chomsky stares at Garrick with a sorrowful expression.*
+_Chomsky stares at Garrick with a sorrowful expression._
 
 > You guys are harsh.
 
@@ -497,7 +497,7 @@ _Seth flicks a booger at Deyner nonchalantly._
 > We're stranded on a random planet, Chonko.
 > Need to feed the tum tum.
 
-*Garrick pats his body.*
+_Garrick pats his body._
 
 **PlasmaPerson** _(07-Oct-18 03:04 PM)_
 
@@ -525,11 +525,11 @@ t!8ball Does the Drow assassin show up?
 
 **Deyner** _(07-Oct-18 03:04 PM)_
 
-*Deyner examines his blades and holds out a finger.*
+_Deyner examines his blades and holds out a finger._
 
 > One second, gotta sharpen these up.
 
-*He takes out a large dremal and starts to sharpen his swords.*
+_He takes out a large dremal and starts to sharpen his swords._
 
 **WatchfulDrake** _(07-Oct-18 03:04 PM)_
 
@@ -537,20 +537,20 @@ t!8ball Does the Drow assassin show up?
 
 **Zander** _(07-Oct-18 03:05 PM)_
 
-*Emmett picks up the cooked rodent and looks over to Danny.*
+_Emmett picks up the cooked rodent and looks over to Danny._
 
 > Danny, want to share?
 
 **RPretribution** _(07-Oct-18 03:05 PM)_
 
-*Dannys licks his lips in anticipation.*
+_Dannys licks his lips in anticipation._
 
 > Whatever works.
 > I would like that very much.
 
 **WatchfulDrake** _(07-Oct-18 03:05 PM)_
 
-*Hector takes out a drone.*
+_Hector takes out a drone._
 
 > What we need is someone with a strong enough filter in their mask to handle the gas while I knock out animals using my drones...
 
@@ -560,40 +560,40 @@ t!8ball Does the Drow assassin show up?
 
 **Zander** _(07-Oct-18 03:06 PM)_
 
-*Emmett rips the rodent body in half and hands over a half to Danny.*
+_Emmett rips the rodent body in half and hands over a half to Danny._
 
 > Here.
 
 **WatchfulDrake** _(07-Oct-18 03:06 PM)_
 
-*Hector shrugs.*
+_Hector shrugs._
 
 > Oh that's kind of my thing. Nothing lethal, just puts you to sleep for a while...
 > At least nothing lethal in my drones.
 
-*Hector laughs.*
+_Hector laughs._
 
 **Platinum_Pathos** _(07-Oct-18 03:07 PM)_
 
-*Danny grabs the rodent and practically inhales it, leaving only the bones left after a couple of seconds.*
+_Danny grabs the rodent and practically inhales it, leaving only the bones left after a couple of seconds._
 
 > I very much appreciate it.
 
 **Deyner** _(07-Oct-18 03:07 PM)_
 
-*Deyner stops sharpening his swords.*
+_Deyner stops sharpening his swords._
 
 > If you give me the materials, I can make some masks.
 
 **Zander** _(07-Oct-18 03:07 PM)_
 
-*Emmett gasps in awe at Danny's display of carnal hunger.*
+_Emmett gasps in awe at Danny's display of carnal hunger._
 
 > No problem....
 
 **Platinum_Pathos** _(07-Oct-18 03:07 PM)_
 
-*Danny belches loudly.*
+_Danny belches loudly._
 
 > You'll find plenty of plastic in my room...
 
@@ -603,12 +603,11 @@ t!8ball Does the Drow assassin show up?
 
 **Deyner** _(07-Oct-18 03:07 PM)_
 
-*Instead of entertaining Lucians attempt to spar, Deyner starts to head back to the ship.*
+_Instead of entertaining Lucian's attempt to spar, Deyner starts to head back to the ship._
 
 **Zander** _(07-Oct-18 03:08 PM)_
 
-*Emmett hol
-lah tnedor eht s
+_Emmett holds his rodent half with his two index digits, not wanting to get himself messy._
 
 > Seth, can you hand me a napkin or something?
 
@@ -616,11 +615,17 @@ lah tnedor eht s
 
 > I already have a mask.
 
+_Garrick grabs his mask with a finger and snaps it back on his own face._
+
 **Bagelwrecker** _(07-Oct-18 03:08 PM)_
 
 > Yeah, sure.
 
+_Seth reaches his arm out to Garrick, grabbing at his vest._
+
 **RPretribution** _(07-Oct-18 03:08 PM)_
+
+_Garrick doesn't notice Seth's hand touching him._
 
 > It's great.
 
@@ -630,79 +635,105 @@ lah tnedor eht s
 
 **RPretribution** _(07-Oct-18 03:08 PM)_
 
+_Garrick raises a pom-pom in excitement._
+
 > Now you're talking!
 
 **WatchfulDrake** _(07-Oct-18 03:08 PM)_
 
-t!8ball does hector go with deyner to help him design a gas mask strong enough to withstand his gas?
+t!8ball Does hector go with Deyner to help him design a gas mask strong enough to withstand his gas?
 
 **Tatsumaki** _(07-Oct-18 03:08 PM)_
 
-> 🎱 | Don't count on it,
-> MultiTheDuck
-> .
+🎱 | Don't count on it, MultiTheDuck.
 
 **PlasmaPerson** _(07-Oct-18 03:08 PM)_
 
-> materials from where?
+_Chomsky is beginning to lose interest in the others' scheme to gas a bunch of animals. He folds his arms and rolls his eyes._
+
+> Materials from where, exactly?
 
 **Platinum_Pathos** _(07-Oct-18 03:08 PM)_
 
+_Danny belches._
+
 > Why would you steal my materials if I just offered them?
+> Did you guys even hear me? I said I have a bunch of plastic just strewn about my room.
 
 **Deyner** _(07-Oct-18 03:08 PM)_
 
-> Plus we don't all need a mask trey is immune to pathogens
+> Plus we don't all need a mask, Garrick is immune to pathogens after all.
 
 **RPretribution** _(07-Oct-18 03:09 PM)_
 
-> trey
-> really
-> you know we're not playing as ourselves right
+_Garrick blows a raspberry._
+
+> You don't know that.
 
 **WatchfulDrake** _(07-Oct-18 03:09 PM)_
 
-> Okay let me know how that goes Deyner, come to me if you need chemicals
+_Hector sits by the fire and watches as Deyner heads to his workshop._
+
+> Okay let me know how that goes Deyner. Come to me if you need any chemicals.
 
 **Deyner** _(07-Oct-18 03:09 PM)_
 
-> And my frost blood makes any pathogens that enter my body grow slowly
+_Deyner mumbles loudly as he gets to the worktable._
+
+> And my frost blood makes any pathogens that enter my body grow slowly...
 
 **PlasmaPerson** _(07-Oct-18 03:09 PM)_
 
-> so you'll still die, just more slowly.
+_Chomsky scoffs._
+
+> So you'll still die, just more slowly. Great.
 
 **WatchfulDrake** _(07-Oct-18 03:10 PM)_
 
-> It's not exactly a pathogen, not this dart at least
+_Hector takes out his knockout dart and admires the vial inside of its translucent casing._
+
+> It's not exactly a pathogen, not this dart at least...
 
 **RPretribution** _(07-Oct-18 03:10 PM)_
 
-> hands emmett a snapkin
+_Garrick notices Seth digging in his pockets and he quickly flies away from him. He puts his hands on his hips._
+
+> Hey, hands off!
 
 **Bagelwrecker** _(07-Oct-18 03:10 PM)_
 
-> Gives Emmett a napkin from within Garrick's ass
+_Before Garrick got away, Seth was able to grab a napkin from the ghost's pockets._
+
+> Here Emmett. Garrick's ass napkin. Nice and warm.
+
+_Seth hands over the napkin to Emmett._
 
 **Zander** _(07-Oct-18 03:10 PM)_
 
-> Uhm.
-> Okay then.
+_Emmett grabs the napkin and uses it to hold his cooked morsel._
+
+> Uhm, Okay then.
+> Thanks.
+
+_Emmett picks at the morsel with his teeth, taking small bites at a time._
 
 **WatchfulDrake** _(07-Oct-18 03:10 PM)_
 
-> hands deyner a high capacity dart of the gas
-> Just don't break this, that would be bad
+_Hector tosses Deyner the dart._
+
+> Just don't break this, that would be bad.
 
 **Deyner** _(07-Oct-18 03:10 PM)_
 
-> Not necessarily if we get out in enough time we can make up a cure
+_Deyner stumbles forward and manages to catch the dart._
+
+> Not necessarily. If we get out in enough time we can make up a cure.
 
 **Zander** _(07-Oct-18 03:10 PM)_
 
 > Hey. All of you.
 
-_Emmett snaps in quick succession towards his crewmates._
+_He snaps in quick succession towards his crewmates, a half-eaten morsel still in his grasp._
 
 > We need money.
 
@@ -713,6 +744,8 @@ _Garrick jerks his head at the sound._
 > Huh?
 
 **Bagelwrecker** _(07-Oct-18 03:11 PM)_
+
+_Seth groans._
 
 > We know.
 
@@ -736,6 +769,8 @@ _Seth begins jumping around, clutching his groin._
 
 **Zander** _(07-Oct-18 03:11 PM)_
 
+_Emmett chucks the bones off the rocky terrain._
+
 > I just want to put that into your minds.
 
 **Deyner** _(07-Oct-18 03:11 PM)_
@@ -746,7 +781,7 @@ _Deyner takes off his gloves._
 
 **Arky** _(07-Oct-18 03:11 PM)_
 
-_Lucian hands it to him._
+_Lucian hands his scythe to him._
 
 > Of course.
 
@@ -754,7 +789,7 @@ _Lucian hands it to him._
 
 > And of course, half of you aren't paying attention to the topic at hand.
 
-_Emmett face palms._
+_Emmett facepalms._
 
 > Damnit.
 
@@ -782,28 +817,29 @@ _Garrick nearly tosses his food away in excitement._
 
 > I vote too.
 
-_Seth pullss out a judge's score sign with a '10' on it._
+_Seth pulls out a judge's score sign with a '10' on it._
 
 **PlasmaPerson** _(07-Oct-18 03:13 PM)_
 
-t!choose everyone get 1/16th of a burger from Garrick's pocket | the fire spreads to Emmett's feet
+t!choose Everyone gets 1/16th of a burger from Garrick's pocket | the campfire spreads to Emmett's feet
 
 **Tatsumaki** _(07-Oct-18 03:13 PM)_
 
-> 🤔 | PlasmaPerson, I pick: the fire spreads to Emmett's feet!
+🤔 | PlasmaPerson, I pick: the campfire spreads to Emmett's feet!
 
 **Platinum_Pathos** _(07-Oct-18 03:13 PM)_
 
 > Any means necessary.
+
+_Danny pumps his fist in the air._
+
 > For the food!!!
 
 **Zander** _(07-Oct-18 03:13 PM)_
 
-_Emmett doesn't notice the fire._
+_Emmett doesn't notice the fire and rolls his eyes at Danny._
 
-> Garbage gut.
-
-_Emmett rolls his eyes at Danny._
+> You garbage gut.
 
 **PlasmaPerson** _(07-Oct-18 03:14 PM)_
 
@@ -821,11 +857,11 @@ _Hector suddenly realizes that Emmett's on fire._
 
 **Zander** _(07-Oct-18 03:14 PM)_
 
-_Emmett looks down to his hoof._
+_Emmett takes one last bite out of his morsel and looks down to his hoof._
 
 > Shit.
 
-_He starts to stamp out his foot._
+_He starts to stamp out his hoof._
 
 **Platinum_Pathos** _(07-Oct-18 03:15 PM)_
 
@@ -841,15 +877,15 @@ _Danny looks at the pile of crumbs where there used to be food and scowls._
 
 **Zander** _(07-Oct-18 03:15 PM)_
 
+_Emmett successfully extinguishes the fire on his leg._
+
 > Should we steal Ducketts?
 
 **PlasmaPerson** _(07-Oct-18 03:15 PM)_
 
-> sounds like a plan to me.
+_Chomsky shrugs._
 
-**Zander** _(07-Oct-18 03:16 PM)_
-
-> He ends up getting rid of the fire on his hoof..
+> Sounds like a plan to me.
 
 **WatchfulDrake** _(07-Oct-18 03:16 PM)_
 
@@ -857,41 +893,31 @@ _Danny looks at the pile of crumbs where there used to be food and scowls._
 
 **RPretribution** _(07-Oct-18 03:16 PM)_
 
+_Garrick peers out into the valley below._
+
 > Let's go look for civilization.
 
 **Deyner** _(07-Oct-18 03:16 PM)_
 
-t!8ball does Deyner start crafting a prototype mask?
+t!8ball Does Deyner start crafting a prototype mask?
 
 **Tatsumaki** _(07-Oct-18 03:16 PM)_
 
-> 🎱 | Better not tell you now,
-> Deyner
-> .
+🎱 | Better not tell you now, Deyner.
 
 **Platinum_Pathos** _(07-Oct-18 03:16 PM)_
 
 > I'd prefer to stay on the positive side of the law, but if it's the only way...
 
+_Danny jumps from the rock he's standing on._
+
 **RPretribution** _(07-Oct-18 03:16 PM)_
 
-t!8ball does garrick run off in a random direction
+t!8ball Does Garrick head off in a random direction?
 
 **Tatsumaki** _(07-Oct-18 03:16 PM)_
 
-> 🎱 | Most likely,
-> RPretribution
-> .
-
-**Deyner** _(07-Oct-18 03:16 PM)_
-
-t!8ball does Deyner start crafting a prototype mask?
-
-**Tatsumaki** _(07-Oct-18 03:16 PM)_
-
-> 🎱 | Reply hazy try again,
-> Deyner
-> .
+🎱 | Most likely, RPretribution.
 
 **RPretribution** _(07-Oct-18 03:16 PM)_
 
@@ -899,303 +925,349 @@ t!8ball does Deyner start crafting a prototype mask?
 
 **Zander** _(07-Oct-18 03:17 PM)_
 
+_Emmett eyeballs Danny and tosses the bones from his food off the cliff._
+
 > I don't think there's a GU down here, buddies.
+
+_He slides down the cliff after Garrick, with the rest of the crew following suit._
 
 **PlasmaPerson** _(07-Oct-18 03:17 PM)_
 
-> oh geez. Garrick, you're gonna get us all lost!
+> Oh geez'!
+
+_Chomsky stumbles at the end of his slide, nearly falling over._
+
+> Garrick, you're gonna get us all lost!
 
 **Bagelwrecker** _(07-Oct-18 03:17 PM)_
 
 > Neither do I.
-> I think we're right below jurisdiction
+
+_Seth dusts off his jeans._
+
+> I think we're right below jurisdiction!
 
 **RPretribution** _(07-Oct-18 03:17 PM)_
+
+_Garrick waves the others down._
 
 > Hurry up!
 
 **WatchfulDrake** _(07-Oct-18 03:17 PM)_
 
 > I guess I'm not hunting then, okay!
-> starts scorpion running after garrick
+
+_Once he's finished sliding, Hector raises his legs up and scorpion runs on his arms after Garrick._
 
 **Deyner** _(07-Oct-18 03:18 PM)_
 
+_Deep in his craft, Deyner slams his table with his hammer, frustrated that he's unable to attach some parts of his mask together._
+
 > Gods fucking dammit why won't this thing work!?
-
-**Tatsumaki** _(07-Oct-18 03:18 PM)_
-
-> 🎱 | Yes, definitely,
-> Zander
-> .
 
 **Zander** _(07-Oct-18 03:18 PM)_
 
-t!8ball Does Emmett get up and put on his goggles?
+t!8ball Does Emmett put on his goggles as he follows Garrick?
+
+**Tatsumaki** _(07-Oct-18 03:18 PM)_
+
+🎱 | Yes, definitely, Zander.
 
 **PlasmaPerson** _(07-Oct-18 03:18 PM)_
 
-> wait up you stupid ghost!
+> Wait up, you stupid ghost!
+
+_Chomsky runs off after Garrick towards a river._
 
 **Zander** _(07-Oct-18 03:18 PM)_
 
-> I think I can see something.
+_Emmett calibrates his VIZO-2480 goggles and picks up some readings on organic lifeforms in the distance._
+
+> I think I can see something ahead...
 
 **Bagelwrecker** _(07-Oct-18 03:18 PM)_
 
-t!8ball Does Seth get up and grab his backpack?
+t!8ball Did Seth remember to grab his backpack?
 
 **Tatsumaki** _(07-Oct-18 03:18 PM)_
 
-> 🎱 | It is decidedly so,
-> Bagelwrecker
-> .
+🎱 | It is decidedly so, Bagelwrecker.
 
 **Bagelwrecker** _(07-Oct-18 03:18 PM)_
 
-> You wanna hike it Emmett?
+_Seth, in the back of the group with Emmett, watches as he messes with the goggles._
+
+> You wanna hike it, Emmett?
 
 **Platinum_Pathos** _(07-Oct-18 03:19 PM)_
 
-> I'd like to bring up that we have no plan whatsoever, nor a place to steal ducketts from.
+> I'd like to bring up that we have no plan whatsoever, nor a place to steal Ducketts from!
 
 **Zander** _(07-Oct-18 03:19 PM)_
 
-> Yeah. It's about a mile out.
+> Yeah. It's about a kilometer out in... that direction.
 
-> Or whatever GU units is a mile.
+_Emmett points in a direction a bit right of where Garrick is headed._
 
 **WatchfulDrake** _(07-Oct-18 03:20 PM)_
 
-> Starts running normally after catching up with garrick
+_Once he catches up to Garrick, Hector lowers his legs and picks his torso back up._
 
 **Bagelwrecker** _(07-Oct-18 03:20 PM)_
 
-> We can probably make it in like 10 minutes if we don't run it.
+_Seth cups his hands over his mouth to make sure Garrick hears him._
+
+> We can probably make it in like ten minutes if we don't run it.
 
 **Platinum_Pathos** _(07-Oct-18 03:20 PM)_
 
-> Then let's hurry up and get on with it.
+> Then let's hurry up and get on with it!
 
 **Zander** _(07-Oct-18 03:20 PM)_
 
-> Emmett stratches his hoof a little.
+_Emmett stratches his wrist, a bit anxious over the prospect of stealing from the locals._
 
 > Yeah, let's go.
 
 **PlasmaPerson** _(07-Oct-18 03:21 PM)_
 
-> §Г´§¡<μ
+_Chomsky's mouth gets slapped by Garrick as the spectre pivots in the direction Emmett mentioned. He furrows his brows and screams an Zielic obscenity._
 
-**Zander** _(07-Oct-18 03:21 PM)_
+> @ԗݛ$ɍȝ$ɍȽ!
 
-> Garrick stuck an ear on Chomsky's mouth
+_Zielic Translation: Snoteater!_
 
 **Platinum_Pathos** _(07-Oct-18 03:21 PM)_
 
-> So is anyone staying behind, or are we all going?
+_Danny looks back at the camp on the cliff behind them._
+
+> So is anyone staying behind, or are we all headed out?
 
 **Bagelwrecker** _(07-Oct-18 03:21 PM)_
 
-> I hope we find a place that sells space weed or cigarettes.
-
-**PlasmaPerson** _(07-Oct-18 03:21 PM)_
-
-> please get off me.
+> I hope we find a place that sells space weed or cigarettes...
+> I'm dying without a good smoke.
 
 **Zander** _(07-Oct-18 03:21 PM)_
 
-> Come on Iris!
+_Emmett speaks into his watch._
+
+> Come on, Iris!
 
 **WatchfulDrake** _(07-Oct-18 03:22 PM)_
 
-> Deyner is staying to make his mask
-
-**Bagelwrecker** _(07-Oct-18 03:22 PM)_
-
-> I'm dying without a good smoke
+> I guess Deyner is staying to make his mask.
 
 **Jelsafan0** _(07-Oct-18 03:22 PM)_
 
-> Where are we going?
+_Iris emerges from the ship, tripping as she rushes down the cliff to reach the others. She exclaims into her wrist, partially exhausted despite her long nap._
+
+> Where are we going?!
 
 **Deyner** _(07-Oct-18 03:22 PM)_
 
-> Hey guys i finished up
+> Hey guys, I finished one up!
+
+_He shakes newly completed mask in the air excitedly and puts it down to work on the next one._
 
 **PlasmaPerson** _(07-Oct-18 03:22 PM)_
 
-> Emmett I'm going to scream in your ear.
+_Chomsky rolls his eyes after Emmett got Iris to follow them._
+
+> Emmett, I'm going to scream in your ear one day.
 
 **RPretribution** _(07-Oct-18 03:22 PM)_
 
-> Y╚&│• ╘<T←≥Ü.
+> @ݛȽȽҐ. Śݛԗ'$ Þɍ ȝ ҜɍȽƟ ȝÞݛǼ$ Ͼ$.
+
+_Zielic Translation: Sorry. Don't be a jerk about it._
 
 **Platinum_Pathos** _(07-Oct-18 03:22 PM)_
 
-> I feel like food may be slightly more important Seth.
-
-**Deyner** _(07-Oct-18 03:22 PM)_
-
-> Iris were going on a trip
+> I feel like food may be slightly more important than drugs, Seth.
 
 **Platinum_Pathos** _(07-Oct-18 03:23 PM)_
 
-> But not in a rocket ship
+> But not in a rocket ship...
 
 **Bagelwrecker** _(07-Oct-18 03:23 PM)_
+
+_Seth shrugs at Danny's comment._
 
 > Meh, we can get some of that too.
 
 **Zander** _(07-Oct-18 03:23 PM)_
 
-> Emmett grabs ahold of Iris's hand and moves ahead.
+_Emmett grabs ahold of Iris's hand once she catches up and moves ahead of the others._
+
+> C'mon, you sleepyhead!
 
 **PlasmaPerson** _(07-Oct-18 03:23 PM)_
 
-> my toast is a little crusty?
+_Chomsky wrings a finger in his ear, trying to understand Garrick's Zielic response._
 
-**Bagelwrecker** _(07-Oct-18 03:23 PM)_
-
-> Lets go Danny.
-
-**Platinum_Pathos** _(07-Oct-18 03:23 PM)_
-
-> Now you wanna go Emmet?
+> My toast is a little crusty?
 
 **RPretribution** _(07-Oct-18 03:23 PM)_
+
+_Garrick flips Chomsky off._
 
 > This is what I mean.
 
 **Deyner** _(07-Oct-18 03:23 PM)_
 
-> Ugh hungry
+_Deyner's stomach grumbles._
+
+> Ugh, hungry...
 
 **Jelsafan0** _(07-Oct-18 03:23 PM)_
 
-> But-
-> Iris sighs.
-> Oh alright.
+> But you didn't answer-
+
+_Iris sighs as she's dragged ahead._
+
+> Oh, alright.
 
 **Bagelwrecker** _(07-Oct-18 03:23 PM)_
 
-> Don't need to get behind do we?
+_Seth pushes Danny forward._
+
+> Don't need to get left behind, do we?
 
 **PlasmaPerson** _(07-Oct-18 03:24 PM)_
 
-> riiiight...
+_Chomsky rolls his eyes._
+
+> Riiiight...
 
 **Platinum_Pathos** _(07-Oct-18 03:24 PM)_
+
+_Danny picks up the pace after being prodded by Seth._
 
 > Fine, onwards!
 
 **Zander** _(07-Oct-18 03:24 PM)_
 
+_Emmett stops and admires Iris's face for a bit._
+
 > Want a piggyback ride?
 
 **Jelsafan0** _(07-Oct-18 03:24 PM)_
+
+_Iris chuckles._
 
 > Yes.
 
 **Bagelwrecker** _(07-Oct-18 03:24 PM)_
 
-> I can give you a piggyback ride, minus the piggyback
+_Seth scoffs at the lovers' overt affection._
+
+> I can give you a piggyback ride, minus the piggyback...
+
+_He violently pushes his index finger in and out of his clasped hand._
 
 **Zander** _(07-Oct-18 03:24 PM)_
 
-> Emmett stops for a moment.
-> (Michael, you are back at the ship)
+_Emmett crouches down, his tail wagging._
+
+> Hop on then!
 
 **Platinum_Pathos** _(07-Oct-18 03:24 PM)_
 
+_Danny looks away from Seth in disgust._
+
 > I'll just ignore those comments.
-
-**Zander** _(07-Oct-18 03:25 PM)_
-
-> (You weiner)
-> Hop on then.
-
-**Deyner** _(07-Oct-18 03:25 PM)_
-
-> (Ughhhhhh Can I just like sprint for a couple of days to catch up?)
 
 **Jelsafan0** _(07-Oct-18 03:25 PM)_
 
-> Iris hops on.
+_Iris gets onto Emmett's back and leans her chin onto his horns as he stands up._
 
 **RPretribution** _(07-Oct-18 03:25 PM)_
 
-> ┘┼φ ╚ 1↕ ⌠Г£§♪╚║μ σU §♦ì Aƒç╒.
+_Garrick sighs as he continues leading the others._
+
+> Ͼ ïϾƟɍŚ $ɷɍ ݛ$ɷɍȽ ӴǼҐ. ɷɍ ǼԗŚɍȽ@$ݛݛŚ Њɍ.
+
+_Zielic Translation: I liked the other guy. He understood me._
 
 **Platinum_Pathos** _(07-Oct-18 03:25 PM)_
 
-> It's only a mile...
+_Danny huffs as Iris piggybacks Emmett._
+
+> It's only a kilometer...
 
 **RPretribution** _(07-Oct-18 03:26 PM)_
 
-t!8ball does garrick find something
+t!8ball Does Garrick find something of interest?
 
 **Tatsumaki** _(07-Oct-18 03:26 PM)_
 
-> 🎱 | Outlook not so good,
-> RPretribution
-> .
+🎱 | Outlook not so good, RPretribution.
 
 **Bagelwrecker** _(07-Oct-18 03:26 PM)_
 
-> Seth starts walking behind Emmett and Iris
+_Seth speeds up, walking directly behind Emmett and Iris._
 
 **Zander** _(07-Oct-18 03:26 PM)_
 
-t!8ball Do we finally get there?
+t!8ball Does the crew finally get there?
 
 **Tatsumaki** _(07-Oct-18 03:26 PM)_
 
-> 🎱 | Without a doubt,
-> Zander
-> .
-
-**Platinum_Pathos** _(07-Oct-18 03:26 PM)_
-
-> Danny follows Emmett, Iris, and Seth
-
-**Deyner** _(07-Oct-18 03:26 PM)_
-
-> Crafting a cool mask
-
-**RPretribution** _(07-Oct-18 03:27 PM)_
-
-> emet
+🎱 | Without a doubt, Zander.
 
 **WatchfulDrake** _(07-Oct-18 03:27 PM)_
 
-> Garrick hold up, i could probably get a aerial view with my drone if you want to stand still for a second
+_Hector takes out his drone controller._
+
+> Garrick hold up, I could probably get a aerial view with my drone if you want to stand still for a second...
 
 **PlasmaPerson** _(07-Oct-18 03:27 PM)_
 
-> §´μ¿{^~¡￦ Гz
+> Ɣɷݛ'@ $ɷɍ ݛ$ɷɍȽ ӴǼҐ?
+
+_Zielic Translation: Who's the other guy?_
 
 **Deyner** _(07-Oct-18 03:27 PM)_
 
-> Where is everybody?
+_Upon finishing another mask, Deyner looks up from his craft table and finds no one else._
+
+> Where did everybody go?
 
 **Zander** _(07-Oct-18 03:27 PM)_
 
-> That mile felt longer than it should have.
+_Emmett exhales, not used to carrying Iris around for longer distances._
+
+> That kilometer felt longer than it should have.
 
 **Platinum_Pathos** _(07-Oct-18 03:28 PM)_
+
+_Danny laughs._
 
 > I think you just need to work out more.
 
 **Zander** _(07-Oct-18 03:28 PM)_
+
+_Emmett realizes he's sweating. His sides and back are getting quite hot._
 
 > Iris, you're pretty warm right now.
 > Like, unusually.
 
 **Deyner** _(07-Oct-18 03:28 PM)_
 
-> Time for some mischief hehe
-> starts posting pictures of goat cock in Emmett's room
+_Deyner shrugs and puts his masks down._
+
+> Time for some mischief, I guess.
+
+_Deyner sneaks into the ship and accesses Iris's tablet in her room._
+
+> Perfect...
+
+_He snoops around her messages and finds a mix of lewd pictures and texts between her and Emmett._
+
+> Oh my...
+
+_Deyner laughs sinisterly as he prints out some pictures and plasters them around Emmett's room._
 
 **Bagelwrecker** _(07-Oct-18 03:28 PM)_
 
@@ -1203,96 +1275,111 @@ t!choose Town | Stream | Giant Dam | Portside City | town next to stream | Beach
 
 **Tatsumaki** _(07-Oct-18 03:28 PM)_
 
-> 🤔 |
-> Bagelwrecker
-> , I pick
-> Stream
-> !
+🤔 | Bagelwrecker, I pick Stream!
 
 **RPretribution** _(07-Oct-18 03:29 PM)_
 
-> §p▲5£ë ¿{ ǫ<⚙z♱d Azzer ĬG☋½ǲg.
+> Ͼ $ɷϾԗƟ ɷϾ@ ԗȝЊɍ Ɣȝ@ ȝЭЭɍȽ.
+
+_Zielic Translation: I think his name was Azzer._
 
 **WatchfulDrake** _(07-Oct-18 03:29 PM)_
 
-> I'm sorry i don't speak ghost
+_Hector raises an eyebrow as he grabs his drone and turns it on._
+
+> I'm sorry, I don't speak ghost.
 
 **PlasmaPerson** _(07-Oct-18 03:29 PM)_
 
-> Chomsky looks at his reflection, scowls, and kicks the water.
+_Chomsky looks at his reflection, scowls, and kicks the water._
 
 **Jelsafan0** _(07-Oct-18 03:29 PM)_
 
-> Iris turns pink.
-> My bad... it's probably related to these.
-> she shows him the red veiny pattern on her wrists.
-> they've been almost glowing all day.
+_Iris turns pink._
+
+> My bad... it's probably related to these veins...
+
+_Iris hangs her hands in front of Emmett's face, showing off her wrists. The veins pulsate red and orange._
+
+> They've been almost glowing all day...
 
 **Platinum_Pathos** _(07-Oct-18 03:29 PM)_
 
-> Guns are more effective Chomsky.
+_Dannys giggles to himself._
+
+> Guns are more effective, Chomsky.
 
 **Bagelwrecker** _(07-Oct-18 03:30 PM)_
+
+_Seth sniffs his shoulder and nearly gags._
 
 > Meh, I need a bath.
 
 **Deyner** _(07-Oct-18 03:30 PM)_
 
-> starts fixing stuff around the ship
+_After getting tired of posting images of Emmett's cock around his own room, Deyner decides to be helpful and starts to fix various appliances around the ship._
 
 **Zander** _(07-Oct-18 03:30 PM)_
 
-> I think this stream leads to a dam, considering how tall this water is.
+_Emmett dips his hooves into the stream and looks down its length._
+
+> I think this stream leads to a dam, considering how deep this water gets.
 
 **PlasmaPerson** _(07-Oct-18 03:30 PM)_
 
-> Chomsky turns his scowl to Danny, but then looks away.
+_Chomsky turns his scowl to Danny, but then looks away._
 
 **Platinum_Pathos** _(07-Oct-18 03:30 PM)_
 
-> We didn't bring soap.
+_As Seth starts to take off his shirt, Danny grabs onto Seth in disapproval._
+
+> We didn't bring soap dude.
 
 **Bagelwrecker** _(07-Oct-18 03:30 PM)_
+
+_Seth sneers at Danny and lets go of his shirt._
 
 > It's possible.
 
 **WatchfulDrake** _(07-Oct-18 03:30 PM)_
 
-> Okay let's see if I can find anything
+> Okay, let's see if I can find anything...
+
+_Hector tosses his drone up in the air and it begins to float up_
 
 **Bagelwrecker** _(07-Oct-18 03:30 PM)_
 
-> Should we follow it?
+> Should we follow the stream?
 
 **RPretribution** _(07-Oct-18 03:30 PM)_
 
-> Dam, hope we can find something useful.
+_Garrick floats, following the stream for a bit before finding the dam in the distance._
 
-**WatchfulDrake** _(07-Oct-18 03:31 PM)_
-
-> hector tosses his drone up in the air and it begins to float up
+> Yeah, looks to be a dam. Hope we can find something useful.
 
 **Zander** _(07-Oct-18 03:31 PM)_
 
-> Emmett smiles up at Iris.
+_Emmett smiles up at Iris and heads down the stream._
+
 > Yeah, we'll go.
 
 **Jelsafan0** _(07-Oct-18 03:31 PM)_
 
-> Iris' eyes sparkle.
-> a dam? Yes please!
+_Iris's eyes sparkle._
+
+> A dam? Yes please!
 
 **PlasmaPerson** _(07-Oct-18 03:32 PM)_
 
-> what's the point of a dam in this situation?
+> What's the point of a dam in this situation?
 
 **Bagelwrecker** _(07-Oct-18 03:32 PM)_
 
-> Means civilization
+> Means civilization, dummy.
 
 **WatchfulDrake** _(07-Oct-18 03:32 PM)_
 
-t!choose dam | city | forest| nothing |
+t!choose Dam | City | Forest | Nothing
 
 **RPretribution** _(07-Oct-18 03:32 PM)_
 
@@ -1300,37 +1387,42 @@ t!choose dam | city | forest| nothing |
 
 **Tatsumaki** _(07-Oct-18 03:32 PM)_
 
-> 🤔 |
-> MultiTheDuck
-> , I pick
-> dam
-> !
+🤔 | MultiTheDuck, I pick Dam!
 
 **Jelsafan0** _(07-Oct-18 03:32 PM)_
 
 > Dams are cool.
 
+_Iris plays with Emmett's ears._
+
 **RPretribution** _(07-Oct-18 03:32 PM)_
 
-> ♢☴ÕíðoðƮ)!
+> ۳ȝԗ'$ ƔȝϾ$ $ݛ ȽݛÞ $ɷɍ@ɍ ӴǼҐ@ ÞïϾԗŚ!
+
+_Zielic Translation: Can't wait to rob these guys blind!_
 
 **Bagelwrecker** _(07-Oct-18 03:32 PM)_
 
-> Meaning we can get essentials.
+> Meaning we can get essentials...
 
 **Platinum_Pathos** _(07-Oct-18 03:33 PM)_
 
-> They're a'ight
+_Danny scoffs as the group heads down the stream._
+
+> They a'ight.
 
 **Zander** _(07-Oct-18 03:33 PM)_
+
+_Emmett taps his goggles and sees the dam in the distance, along with heat signatures inside._
 
 > Yep. Looks like we found a dam.
 > I think it's just wooden.
 
 **WatchfulDrake** _(07-Oct-18 03:33 PM)_
 
-> Okay so we are definitely on the right track now
-> flies drone back to himself and puts it back in his bag
+> Okay, so we are definitely on the right track now
+
+_Hector flies his drone back to himself and puts it back in his bag._
 
 **Bagelwrecker** _(07-Oct-18 03:33 PM)_
 
@@ -1338,94 +1430,101 @@ t!choose dam | city | forest| nothing |
 
 **RPretribution** _(07-Oct-18 03:33 PM)_
 
-> We might be close.
+> Don't judge.
 
 **Jelsafan0** _(07-Oct-18 03:33 PM)_
 
-> my dad built a dam once. On his planet, not mine.
+> My dad built a dam once... On his planet, not mine.
+
+_Iris sighs._
 
 **Platinum_Pathos** _(07-Oct-18 03:33 PM)_
 
-> That means more fun
+> That means more fun, Seth!
 
 **PlasmaPerson** _(07-Oct-18 03:33 PM)_
 
-t!8ball does Chomsky run ahead to the other side of the dam
+t!8ball Does Chomsky run ahead to the other side of the dam
 
 **Tatsumaki** _(07-Oct-18 03:33 PM)_
 
-> 🎱 | My sources say no,
-> PlasmaPerson
-> .
+🎱 | My sources say no, PlasmaPerson.
 
 **Zander** _(07-Oct-18 03:34 PM)_
+
+_As they get closer to the dam, Emmett stops and looks up at his partner._
 
 > Iris, what should we do?
 
 **Platinum_Pathos** _(07-Oct-18 03:34 PM)_
 
-> So who wants to explore the area around the dam?
+> So, who wants to scout around the dam?
+> In case of any ambushers and such.
 
 **Jelsafan0** _(07-Oct-18 03:34 PM)_
 
-t!8ball does Iris know everything there is to know about dams?
+t!8ball Does Iris know everything there is to know about dams?
 
 **Tatsumaki** _(07-Oct-18 03:34 PM)_
 
-> 🎱 | Yes,
-> Jelsafan0
-> .
+🎱 | Yes, Jelsafan0.
 
 **Deyner** _(07-Oct-18 03:34 PM)_
 
-> see's a mouse trying to heat up the spaghetti
+_Deyner catches a sight of a mouse inside of the ship's main kitchen's fridge._
 
 **Bagelwrecker** _(07-Oct-18 03:35 PM)_
 
-> Dam son
+_Seth stops with Emmett and holds out his arms._
+
+> Dam, son.
 
 **Deyner** _(07-Oct-18 03:35 PM)_
 
-t!8ball Does seeing the mouse heat up there spaghetti fill you with determination and cause you to fix up the ship?
+t!8ball Does seeing the mouse attempt to heat up the spaghetti fill Deyner with determination and cause him to fix up the ship at a faster pace?
 
 **Tatsumaki** _(07-Oct-18 03:35 PM)_
 
-> 🎱 | Most likely,
-> Deyner
-> .
+🎱 | Most likely, Deyner.
 
 **Jelsafan0** _(07-Oct-18 03:35 PM)_
 
-> It's like an evolved form of beaver dam.
+> It's like an evolved form of a typical beaver dam.
 > I recognize the general structure.
-
-**Zander** _(07-Oct-18 03:35 PM)_
-
-t!8bhall Does Deyner turn into a 1" marble for ten seconds?
 
 **PlasmaPerson** _(07-Oct-18 03:36 PM)_
 
-> no more dam puns please.
+_Danny scoffs._
+
+> No more dam puns, please.
 
 **Jelsafan0** _(07-Oct-18 03:36 PM)_
+
+_Iris puts her hand to her chin._
 
 > But... then again...
 
 **WatchfulDrake** _(07-Oct-18 03:36 PM)_
 
-> I'll do whatever I dam choose to
+_Hector snaps at Danny playfully._
+
+> I'll do whatever I dam choose to!
 
 **Zander** _(07-Oct-18 03:36 PM)_
+
+_Emmett eyeballs the stream heading into the dam._
 
 > Think there might be fish people here?
 
 **WatchfulDrake** _(07-Oct-18 03:36 PM)_
 
-> I hope so
+_Hector's stomach gurgles._
+
+> I hope so.
 
 **Bagelwrecker** _(07-Oct-18 03:36 PM)_
 
-> I hope not
+> I hope not.
 
 **Platinum_Pathos** _(07-Oct-18 03:36 PM)_
 
@@ -1433,95 +1532,108 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 
 **Tatsumaki** _(07-Oct-18 03:36 PM)_
 
-> 🎱 | Most likely,
-> Platinum_Pathos
-> .
+🎱 | Most likely, Platinum_Pathos.
 
 **PlasmaPerson** _(07-Oct-18 03:37 PM)_
 
-> no, the fish people would be in the water.
+> No, the fish people would be in the water.
+> Not in the dam, you dorks.
 
 **Bagelwrecker** _(07-Oct-18 03:37 PM)_
 
+_Seth frowns._
+
 > I don't want to fuck a fish.
-
-**PlasmaPerson** _(07-Oct-18 03:37 PM)_
-
-> not in the dam.
 
 **Jelsafan0** _(07-Oct-18 03:37 PM)_
 
-> the teeth marks on the wood are reminiscent of a platypus- the way the sealant is packed in is consistent with their tail strength.
-
-**RPretribution** _(07-Oct-18 03:37 PM)_
-
-> Why don't we go down there?
-
-**Deyner** _(07-Oct-18 03:37 PM)_
-
-> tales a nap
-> (gotta go to work sorry 😭😭)
-
-**WatchfulDrake** _(07-Oct-18 03:37 PM)_
-
-> Then just go a day without sex, it's not that hard
+> Get me closer to the dam, Emmett!
 
 **Zander** _(07-Oct-18 03:37 PM)_
 
+> Uh, alright.
+
+_Emmett walks over to the dam and crouches close enough for Iris to study the wood._
+
+**Jelsafan0** _(07-Oct-18 03:37 PM)_
+
+_Iris rubs her fingers on the dam, noticing teeth marks and indentations within the structure._
+
+> The teeth marks on the wood are reminiscent of a platypus--the way the sealant is packed in is consistent with their tail strength.
+
+**RPretribution** _(07-Oct-18 03:37 PM)_
+
+> Why don't we head into the dam then?
+
+**Deyner** _(07-Oct-18 03:37 PM)_
+
+_Tuckered out from fixing things around the ship, Deyner decides to take a nap._
+
+**WatchfulDrake** _(07-Oct-18 03:37 PM)_
+
+> Then just go a day without sex, it's not that hard!
+
+_Hector mumbles._
+
+> I haven't had sex in like half a GUY...
+
+**Zander** _(07-Oct-18 03:37 PM)_
+
+_Emmett looks at Garrick blankly._
+
 > I don't think I can breathe water.
+> Don't know about you guys.
 
 **PlasmaPerson** _(07-Oct-18 03:37 PM)_
 
-> well all of us need to breathe, so...
-
-**Zander** _(07-Oct-18 03:38 PM)_
-
-> Don't know about you guys.
+> Well all of us need to breathe, so...
 
 **RPretribution** _(07-Oct-18 03:38 PM)_
 
 > Alright, then I'll go.
 
+_Garrick floats down and inspects the dam beneath the water._
+
 **Bagelwrecker** _(07-Oct-18 03:38 PM)_
 
 > No thanks.
+
+_Seth eyeballs Emmett and Iris._
+
+> I hope something that isn't furry lives here.
 
 **Jelsafan0** _(07-Oct-18 03:38 PM)_
 
 > What if some kind of... beaver-platypus hybrid lives here?
 
-**Bagelwrecker** _(07-Oct-18 03:38 PM)_
-
-> I hope something that isn't furry lives here.
-
-**RPretribution** _(07-Oct-18 03:39 PM)_
-
-> Garrick floats down and inspects the dam.
-
 **Zander** _(07-Oct-18 03:39 PM)_
 
-> Could be cool.
-> Emmett almost drops her as a joke.
+> Could be cool...
+> Whoa, whoa!
+
+_Emmett pretends to trip into the river, tightening his grasp to make sure Iris doesn't actually fall in._
 
 **PlasmaPerson** _(07-Oct-18 03:39 PM)_
 
-> Chomsky chuckles, thinking of a cartoon he learned about in history class.
+_Chomsky chuckles as he watches Emmett, thinking of a cartoon he learned about in history class ages ago._
 
 **Bagelwrecker** _(07-Oct-18 03:39 PM)_
+
+_Seth closes his eyes and smiles, fantasizing._
 
 > I hope we find a nice little female dragon that I can fuck.
 
 **Jelsafan0** _(07-Oct-18 03:39 PM)_
 
-> Ah- I wouldn't do that if I were you! Beavers and platypi are known to be very territorial and build their homes either immediately next to or within their dams!
+> Ah!
 
-**Zander** _(07-Oct-18 03:39 PM)_
+_Iris cautiously laughs._
 
-> dragontale
+> I wouldn't do that if I were you! Beavers and platypi are known to be very territorial and build their homes either immediately next to or within their dams!
 
 **RPretribution** _(07-Oct-18 03:40 PM)_
 
-> Dam, I don't see anything.
+> Dam, I don't see anything down here.
 
 **Zander** _(07-Oct-18 03:40 PM)_
 
@@ -1529,90 +1641,93 @@ t!8ball Does Danny watch the stream alone in blissful serenity?
 
 **RPretribution** _(07-Oct-18 03:40 PM)_
 
-> He goes through the dam, to the other side.
-> extremely muffled yelling
+_Garrick goes through the dam, to the other side and hears extremely muffled yelling._
 
 **Jelsafan0** _(07-Oct-18 03:41 PM)_
 
-> "GET OUT OF MY HOUSE!"
+> `Old Ottori Woman`: GET OUT OF MY HOUSE!
+> _`Old Ottori Woman`: The ottori chitters angrily._
 
 **RPretribution** _(07-Oct-18 03:41 PM)_
 
-> ƽ¡I♡¹Ƞ+ó2ŸĎę!!!
-> He very quickly goes back out.
+_Garrick backs off from the Ottori person and yells in surprise._
 
-**Jelsafan0** _(07-Oct-18 03:41 PM)_
+> Ɣɷȝ$ $ɷɍ ɷɍïï?!
 
-> angry chittering
+_Zielic Translation: What the hell?!_
+_He very quickly goes back out._
 
 **Bagelwrecker** _(07-Oct-18 03:41 PM)_
 
-> Oh
+_Seth catches a whiff of Garrick's interaction over the comms._
+
+> Oh!
 
 **Zander** _(07-Oct-18 03:41 PM)_
 
-> Emmett puts her down and awkwardly rests his elbow on her shoulder; it's a little awkward because of the height difference.
+_Emmett puts Iris down and awkwardly rests his elbow on her shoulder; it's a little uncomfortable as Iris is taller than him._
 
 **RPretribution** _(07-Oct-18 03:42 PM)_
+
+_Garrick ascends to where the others are and points behind himself._
 
 > Guys, there are people there.
 > They're very furry.
 
 **Bagelwrecker** _(07-Oct-18 03:42 PM)_
 
+_Seth groans and unbuttons his pants._
+
 > Guess it'll have to do.
 
 **Zander** _(07-Oct-18 03:42 PM)_
+
+_Emmett scoffs at Seth's behavior._
 
 > Iris, want to just chill up here?
 
 **Bagelwrecker** _(07-Oct-18 03:43 PM)_
 
+_Seth beats his chest and screams into the riverbed._
+
 > HEY! GIVE ME YOUR BEST WOMAN FOR ME TO FUCK PLEASE!
 
 **Jelsafan0** _(07-Oct-18 03:43 PM)_
 
-> An ottori emerges from the dam, shaking her fist at Garrick. She has a Brooklyn accent.
-> Ey! Get outta my house! What'a you doin' here?! I ain't take kindly to no teresspassas!
+_`Old Ottori Woman`: An ottori emerges from the dam, shaking her fist at Garrick. She has a Brooklyn accent._
 
-**Zander** _(07-Oct-18 03:43 PM)_
-
-> The otters are not amused.
+> `Old Ottori Woman`: Ey'! Get outta my house! What'a you doin' here?! I ain't take kindly to no teresspassas!
 
 **PlasmaPerson** _(07-Oct-18 03:43 PM)_
+
+_Danny gasps from how blatant Seth was being._
 
 > Seth, don't be rude! We don't even know who these people are!
 
 **Bagelwrecker** _(07-Oct-18 03:43 PM)_
 
-> I do not care.
+> I do not care!
+> I need to have sex!
 
 **RPretribution** _(07-Oct-18 03:43 PM)_
+
+_Garrick flips off the Ottori woman._
 
 > Piss off, you furry old hag! I'll do what I want!
 
 **Jelsafan0** _(07-Oct-18 03:44 PM)_
 
-> "WHY YOU LITTLE-!
-
-**Zander** _(07-Oct-18 03:44 PM)_
-
-> ...
-
-**Bagelwrecker** _(07-Oct-18 03:44 PM)_
-
-> ....
-
-**PlasmaPerson** _(07-Oct-18 03:44 PM)_
-
-> .....
+> `Old Ottori`: WHY YOU LITTLE-!
 
 **Jelsafan0** _(07-Oct-18 03:44 PM)_
 
-> an ottori man emerges, grabbing her arm.
-> "Hey, Hey, Martha, settle it down there."
+_`Old Ottori Man`: An Ottori man emerges, grabbing her arm._
+
+> `Old Ottori Man`: Hey, Hey, Martha, settle it down there.
 
 **RPretribution** _(07-Oct-18 03:44 PM)_
+
+_Garrick groans._
 
 > Yeah, I don't think we're gonna get much from them.
 
@@ -1622,316 +1737,322 @@ t!8ball Does Seth throw a rock at the dam causing it to crumble and kill everyon
 
 **Tatsumaki** _(07-Oct-18 03:45 PM)_
 
-> 🎱 | Very doubtful,
-> Bagelwrecker
-> .
+🎱 | Very doubtful, Bagelwrecker.
 
 **Zander** _(07-Oct-18 03:45 PM)_
 
-> An Ottori walks up to the absurdly tall elf man.
-> "Are you Ubley Cos?"
+_`Ottori Ringbearer`: An Ottori walks up to the absurdly tall elf man._
+
+> `Ottori Ringbearer`: Are you Ubley Cos?
 
 **Jelsafan0** _(07-Oct-18 03:45 PM)_
 
-> "I'm sorry about my wife there. She's very territorial after we were attacked last year."
+> `Old Ottori Man`: I'm sorry about my wife there. She's very territorial after we were attacked last year.
 
 **Bagelwrecker** _(07-Oct-18 03:45 PM)_
 
 > Yes.
+
+_Seth puts his fists to his hips and poses._
+
 > That is I.
 
 **Zander** _(07-Oct-18 03:46 PM)_
 
 > Iris, you okay?
-> "AH! Ubley! I apologize!"
-
-**Jelsafan0** _(07-Oct-18 03:46 PM)_
-
-> I'm Fine. I told you, though. They are territorial.
-
-**Bagelwrecker** _(07-Oct-18 03:46 PM)_
-
-> Ah, not a problem my friend.
 
 **Zander** _(07-Oct-18 03:46 PM)_
 
-> "Have my rings!"
+_`Ottori Ringbearer`: The ottori bows immediately._
+
+> AH! Ubley! I apologize!
+
+**Jelsafan0** _(07-Oct-18 03:46 PM)_
+
+_Iris remains focused on the Ottori civilians coming out of the dam._
+
+> I'm fine. I told you, though. They are territorial.
+
+**Bagelwrecker** _(07-Oct-18 03:46 PM)_
+
+> Ah, not a problem my friend!
+
+**Zander** _(07-Oct-18 03:46 PM)_
+
+> `Ottori Ringbearer`: Have my rings!
+
+_`Ottori Ringbearer`: The ringbearer tosses various rings at Seth._
 
 **RPretribution** _(07-Oct-18 03:47 PM)_
 
-t!8ball does garrick go invade another house
+t!8ball Does Garrick go invade another house?
 
 **Tatsumaki** _(07-Oct-18 03:47 PM)_
 
-> 🎱 | Yes, definitely,
-> RPretribution
-> .
+🎱 | Yes, definitely, RPretribution.
 
 **Platinum_Pathos** _(07-Oct-18 03:47 PM)_
 
-> Danny turns around to yell to the group
-> Hey quiet down! I'm trying to watch this stream in blissful serenity.
-> As he turns back around he mutters
-> You people are always too dam loud.
+_Danny grits his teeth and turns around, yelling at the others._
+
+> Hey, quiet down you imbeciles! I'm trying to watch this stream in blissful serenity!
+
+_As Danny turns back around, he mutters to himself._
+
+> You people are always too dam loud...
 
 **Bagelwrecker** _(07-Oct-18 03:47 PM)_
+
+_Seth catches the rings and ogles them within his hands._
 
 > Thank you, I shall take these and cherish these forever.
 
 **Jelsafan0** _(07-Oct-18 03:47 PM)_
 
-> "HEY! GET OUT!!!"
-> a shrill voice screeches.
+_`Ottori Girl`: As Garrick enters her shower, an Ottori girl screeches at him and desperately covers herself up._
+
+> `Ottori Girl`: HEY! GET OUT OF HERE!!!
 
 **Zander** _(07-Oct-18 03:47 PM)_
 
-> They're all cock rings of various sizes.
+> `Ottori Ringbearer`: They're all cock rings of various sizes!
+> `Ottori Ringbearer`: As you requested, Ubley Cos!
 
 **Bagelwrecker** _(07-Oct-18 03:47 PM)_
 
-> Oh god why
-> Garrick stick his pee pee in her pee pee
+_Seth stares at the rings in disgust._
+
+> Oh god why?!
+
+**Zander** _(07-Oct-18 03:47 PM)_
+
+> `Ottori Ringbearer`: Only a couple have been used! But they've been washed, do not worry!
 
 **Zander** _(07-Oct-18 03:48 PM)_
 
 > I don't really care about the fish people. I care about you, Iris.
 
+_Emmett frowns and holds Iris's hand._
+
 **RPretribution** _(07-Oct-18 03:49 PM)_
 
-> Garrick goes to another room.
+_Unfazed by the girl's panic, Garrick goes to another room._
 
 **Zander** _(07-Oct-18 03:49 PM)_
 
-t!8ball Does Garrick pull out [random item dictated by Rashidi] out of his pocket?
+t!8ball Does Garrick pull out a boomerang out of his pocket?
 
 **Tatsumaki** _(07-Oct-18 03:49 PM)_
 
-> 🎱 | Yes, definitely,
-> Zander
-> .
+🎱 | Yes, definitely, Zander.
 
 **Jelsafan0** _(07-Oct-18 03:49 PM)_
 
-> "HEY! GET BACK HERE!"
+_`Ottori Girl`: The girl puts on a towel and races after Garrick, pissed that he was intruding in her household._
 
-**Bagelwrecker** _(07-Oct-18 03:49 PM)_
-
-> the 12 year old is still impaled on Garrick's cock
+> `Ottori Girl`: HEY! GET BACK HERE!
 
 **WatchfulDrake** _(07-Oct-18 03:49 PM)_
 
-> quietly
-> So what's the plan guys?
+_Hector whispers into his watch, unsure of what to do next._
 
-**Platinum_Pathos** _(07-Oct-18 03:49 PM)_
-
-> Boomerang
+> So what's the plan, guys?
 
 **Zander** _(07-Oct-18 03:50 PM)_
 
 > You've been worrying me a little.
 
-**PlasmaPerson** _(07-Oct-18 03:50 PM)_
-
-> Wind boomerang from twilight princess
-
 **Jelsafan0** _(07-Oct-18 03:50 PM)_
 
-> hm? How so?
+_Iris looks at Emmett in surprise, clasping her hand around his._
+
+> Hm? How so?
 
 **Platinum_Pathos** _(07-Oct-18 03:50 PM)_
 
 > The plan is to watch streams in blissful serenity!
 
+_Danny groans._
+
 **Bagelwrecker** _(07-Oct-18 03:50 PM)_
 
-> Emmett, I got you gifts.
+_Seth yells out to Emmett with the rings still in his hands._
+
+> Emmett, I got you gifts!
 
 **Jelsafan0** _(07-Oct-18 03:50 PM)_
 
-> the ottori girl begins to swing at Garrick with a broom
+_`Ottori Girl`: the Ottori girl swings at Garrick with a broom she grabbed._
 
 **Bagelwrecker** _(07-Oct-18 03:50 PM)_
 
-> They are rings.
+> They are rings!
 
 **Zander** _(07-Oct-18 03:51 PM)_
 
-> Ever since we've had those... _ahem_ chats, we've been opening up to one another.
+> Ever since we've had those...
+
+_Emmett looks around suspiciously and clears his throat emphatically._
+
+> ... chats, we've been opening up to one another.
 > When you don't seem so well, I get concerned.
 
 **RPretribution** _(07-Oct-18 03:51 PM)_
 
-> There is a lot of loud crashing noises. He comes out with a bunch of gold figures and a stuffed frog.
+_There is a lot of loud crashing noises in the Ottori home. Garrick comes out with a bunch of gold figures and a stuffed frog._
+
 > Hey! I got some stuff!
 
 **Bagelwrecker** _(07-Oct-18 03:52 PM)_
 
-> Seth puts the cock rings in Emmett's paw and walks away
+_Seth notices Emmett and Iris deep in conversation and slips the cock rings in Emmett's hoof before leaving them._
 
 **Platinum_Pathos** _(07-Oct-18 03:52 PM)_
 
-> Guys, this is the calmest stream I've ever seen.
+_Danny becomes entranced by the stream, ignoring the others entirely._
+
+> Guys, this is the calmest stream I've ever seen...
 
 **PlasmaPerson** _(07-Oct-18 03:52 PM)_
 
-> garrick, stop stealing!
+_Chomsky holds his arms out in disbelief._
+
+> Garrick, stop stealing!
 
 **RPretribution** _(07-Oct-18 03:52 PM)_
 
-> Stealing is my middle name.
+> Stealing is my middle name!
 
 **Jelsafan0** _(07-Oct-18 03:52 PM)_
 
-> the ottori girl follows him fuming, fur wet with a towel on.
-> "HEY! THAT WAS MY NANA'S!"
+_`Ottori Girl`: The Ottori girl follows him fuming, her fur still damp from the shower._
+
+> `Ottori Girl`: HEY! THAT WAS MY NANA'S! GIVE IT BACK!
 
 **PlasmaPerson** _(07-Oct-18 03:52 PM)_
 
-> why can't we ever make friends with the locals for once!?
+_Chomsky groans loudly._
+
+> Why can't we ever make friends with the locals for once!?
 
 **Jelsafan0** _(07-Oct-18 03:52 PM)_
 
-> I'm fine.
+> I'm fine...
+> I'm just running hot, thats all.
 
 **WatchfulDrake** _(07-Oct-18 03:53 PM)_
 
-t!8ball does the sight of trey stealing from them anger the locals into attacking?
+t!8ball Does the sight of Garrick stealing from them anger the locals into attacking?
 
 **Tatsumaki** _(07-Oct-18 03:53 PM)_
 
-> 🎱 | Very doubtful,
-> MultiTheDuck
-> .
+🎱 | Very doubtful, MultiTheDuck.
 
 **Zander** _(07-Oct-18 03:53 PM)_
 
-> And also, is it weird that I want to hang with you most of the time?
+> And also, am I being too clingy? I don't want you to be uncomfortable...
 
 **Platinum_Pathos** _(07-Oct-18 03:53 PM)_
 
-> Does someone have a camera? I must document this brilliant stream.
+> Does someone have a camera? I must document this brilliant stream...
 
 **Jelsafan0** _(07-Oct-18 03:54 PM)_
 
-> Iris shakes her head.
-> Nah. That's how friends normally are.
+_Iris shakes her head._
+
+> Nah. I like this. If I was uncomfortable, I would tell you.
 
 **PlasmaPerson** _(07-Oct-18 03:54 PM)_
 
-t!8ball does Chomsky approach one of the otteri and explain that they are nite there to make enemies
+t!8ball Does Chomsky approach one of the Ottori and explain that they are not there to make enemies
 
 **Tatsumaki** _(07-Oct-18 03:54 PM)_
 
-> 🎱 | Concentrate and ask again,
-> PlasmaPerson
-> .
-
-**PlasmaPerson** _(07-Oct-18 03:54 PM)_
-
-t!8ball answer me better this time
-
-**Tatsumaki** _(07-Oct-18 03:54 PM)_
-
-> 🎱 | Don't count on it,
-> PlasmaPerson
-> .
-
-**PlasmaPerson** _(07-Oct-18 03:54 PM)_
-
-> That's not better
+🎱 | Don't count on it, PlasmaPerson.
 
 **RPretribution** _(07-Oct-18 03:54 PM)_
+
+_Garrick shakes the heirlooms uncaringly._
 
 > Think we could sell these?
 
 **Jelsafan0** _(07-Oct-18 03:55 PM)_
 
-> "HEY! LEAVE MY NANA'S HEIRLOOMS ALONE!"
+_`Ottori Girl`: The Ottori girl jumps at Garrick, trying her best to swipe her mother's heirlooms from him._
 
-**PlasmaPerson** _(07-Oct-18 03:55 PM)_
-
-> Chomsky pinches his forehead, annoyed
+> `Ottori Girl`: HEY! LEAVE MY NANA'S HEIRLOOMS ALONE!
 
 **RPretribution** _(07-Oct-18 03:55 PM)_
+
+_Garrick floats just out of the girl's reach._
 
 > NO!
 
+**PlasmaPerson** _(07-Oct-18 03:55 PM)_
+
+_Chomsky pinches his forehead, annoyed._
+
 **Zander** _(07-Oct-18 03:55 PM)_
 
-> It just feels different.
+_Emmett looks to the ground, a tad flustered._
+
+> It just feels different now.
 
 **PlasmaPerson** _(07-Oct-18 03:55 PM)_
 
-> garrick, put the stuff back.
+> Garrick, put the stuff back!
 
 **RPretribution** _(07-Oct-18 03:55 PM)_
 
-> Absolutely not.
+> Absolutely not!
+> Ever hear of "Finders Keepers"?!
 
 **WatchfulDrake** _(07-Oct-18 03:55 PM)_
 
-> Garrick if you're going to rob people you could at least try and be subtle about it
+> Garrick if you're going to rob people you could at least try and be subtle about it!
 
 **Jelsafan0** _(07-Oct-18 03:56 PM)_
 
-> Her face turns red.
-> "WHY I OUGHTA-!
+_Iris's face turns red._
+
+> Emmett...
+
+**Jelsafan0** _(07-Oct-18 03:56 PM)_
+
+> `Ottori Girl`: WHY I OUGHTA-!
+
+_`Ottori Girl`: The girl whimpers._
 
 **Zander** _(07-Oct-18 03:56 PM)_
 
-> You and I.
+> You and I...
 
 **Jelsafan0** _(07-Oct-18 03:56 PM)_
 
-> Iris begins to overheat.
-
-**PlasmaPerson** _(07-Oct-18 03:57 PM)_
-
-> iris dies
+_Iris begins to overheat from her shame._
 
 **WatchfulDrake** _(07-Oct-18 03:57 PM)_
 
-> draws out rifle and loads knockout syringes into his rifle
-> do I just need to knock the place out?
+_Hector draws out his rifle and loads knockout syringes into it._
 
-**Bagelwrecker** _(07-Oct-18 03:57 PM)_
-
-> Iris falls off the dam and dies x2
-
-**WatchfulDrake** _(07-Oct-18 03:57 PM)_
-
-> Iris drowns then dies x3
-
-**PlasmaPerson** _(07-Oct-18 03:58 PM)_
-
-> iris just feels like dying and dies x4
+> Do I just need to knock her out?
 
 **Jelsafan0** _(07-Oct-18 03:58 PM)_
 
-t!8ball does the 12-year-old ottori girl have a kid crush on Garrick?
+t!8ball Does the twelve-year-old ottori girl have a kid crush on Garrick?
 
 **Tatsumaki** _(07-Oct-18 03:58 PM)_
 
-> 🎱 | Most likely,
-> Jelsafan0
-> .
-
-**Bagelwrecker** _(07-Oct-18 03:58 PM)_
-
-> Emmett pees on Iris and she dies X5
+🎱 | Most likely, Jelsafan0.
 
 **Zander** _(07-Oct-18 03:58 PM)_
 
-> Your hand's warm.
-
-**PlasmaPerson** _(07-Oct-18 03:59 PM)_
-
-> iris hand is so warm that it burns straight through Emmett. Emmett dies
+> Your hand's getting warmer.
 
 **Jelsafan0** _(07-Oct-18 03:59 PM)_
 
-> Iris nods sluggishly.
+_Iris nods sluggishly, feeling quite uncomfortable. However, she appears to not have the strength to tell Emmett, ironically._
+
 > Yeah.... fire.... n' stuff....
 
 **Platinum_Pathos** _(07-Oct-18 03:59 PM)_
@@ -1940,11 +2061,11 @@ t!8ball Does Danny pour water from the stream on Iris and Emmett?
 
 **Tatsumaki** _(07-Oct-18 03:59 PM)_
 
-> 🎱 | As I see it, yes,
-> Platinum_Pathos
-> .
+🎱 | As I see it, yes, Platinum_Pathos.
 
 **Jelsafan0** _(07-Oct-18 03:59 PM)_
+
+_Iris jumps from the water being splashed onto her._
 
 > EEP!
 
@@ -1954,196 +2075,234 @@ t!8ball Is the water from the stream Piss?
 
 **Tatsumaki** _(07-Oct-18 03:59 PM)_
 
-> 🎱 | Better not tell you now,
-> Bagelwrecker
-> .
-
-**Bagelwrecker** _(07-Oct-18 03:59 PM)_
-
-t!8ball Is the water from the stream Piss?
-
-**Tatsumaki** _(07-Oct-18 03:59 PM)_
-
-> 🎱 | Ask again later,
-> Bagelwrecker
-> .
+🎱 | Better not tell you now, Bagelwrecker.
 
 **Zander** _(07-Oct-18 04:00 PM)_
 
-> Emmett blinks profusely.
+_Emmett is startled from the water and he groans, blinking profusely._
 
 **Jelsafan0** _(07-Oct-18 04:00 PM)_
 
-> WHY WOULD YOU DO THAT!
+_Iris furrows her brow and yells in Danny's direction._
+
+> WHY WOULD YOU DO THAT!?
 
 **Zander** _(07-Oct-18 04:00 PM)_
 
-> I guess we're wet.
+_Emmett is irked, the moment between him and Iris now ruined._
+
+> I guess we're wet now.
 
 **Platinum_Pathos** _(07-Oct-18 04:00 PM)_
 
-> I need you to test the stream water
-> I will get more.
-> Do not worry, I shall satisfy your need to be wet.
+> I need you to test the stream water!
+
+_Danny sloshes his hands in the water._
+
+> I will get more!
+
+_Danny splashes at Iris and Emmett once more._
+
+> Do not worry, I shall satisfy your need to be wet together!
 
 **Jelsafan0** _(07-Oct-18 04:01 PM)_
 
-> the ottori girl turns pink.
-> "Look. If you want my nana's heirlooms, you'll have to take me too!"
+_`Ottori Girl`: The Ottori girl turns pink and stiffens._
+
+> `Ottori Girl`: Look. If you want my nana's heirlooms, you'll have to take me too!
 
 **RPretribution** _(07-Oct-18 04:01 PM)_
+
+_Garrick is grossed out by the Ottori girl's suggestion._
 
 > Sorry kid, I only keep adults as slaves.
 
 **Zander** _(07-Oct-18 04:01 PM)_
 
-> Emmett gets up and holds his hand out.
+_Emmett gets up and lets go of Iris's hand._
+
 > Let's get out of here.
 
 **PlasmaPerson** _(07-Oct-18 04:01 PM)_
 
-> thaaaats creepy
+_Chomsky is baffled by Garrick's response._
+
+> Thaaaat's creepy!
 
 **Jelsafan0** _(07-Oct-18 04:02 PM)_
 
-> "h-hey!"
-> She exclaims, red faced,
-> "I-I'm an adult!"
+> `Ottori Girl`: H-hey!
+
+_`Ottori Girl`: The Ottori girl exclaims, red faced._
+
+> `Ottori Girl`: I-I'm an adult!
 
 **RPretribution** _(07-Oct-18 04:02 PM)_
 
-> You look 9. Get outta here.
+_Garrick cringes._
+
+> You look nine. Get outta here!
 
 **Platinum_Pathos** _(07-Oct-18 04:02 PM)_
 
-> I shall follow you Emmett, the stream no longer intrigues me.
+_Danny, trying to be annoying, stands up from the stream._
+
+> I shall follow you Emmett, the stream no longer intrigues me!
 
 **Jelsafan0** _(07-Oct-18 04:02 PM)_
 
-> The ottori girl's face turns very red.
+_`Ottori Girl`: The Ottori girl's face turns very red and she starts to tear up._
 
 **Zander** _(07-Oct-18 04:02 PM)_
 
+_Emmett sighs._
+
 > Danny, I think there's abundant food in the dam.
-
-**Jelsafan0** _(07-Oct-18 04:02 PM)_
-
-> her eyes water up.
-
-**PlasmaPerson** _(07-Oct-18 04:02 PM)_
-
-> do otteri go into a crave?
 
 **WatchfulDrake** _(07-Oct-18 04:03 PM)_
 
-> What is going on in there garrick?
+> What is going on in there Garrick!?
 
 **Platinum_Pathos** _(07-Oct-18 04:03 PM)_
+
+_Danny stares at the dam and ponders._
 
 > Surely it must if it is this large.
 
 **Zander** _(07-Oct-18 04:03 PM)_
 
-> Specifically fish people.
+_Emmett winks and nudges Danny._
+
+> Specifically fish people, if you catch my drift.
 
 **Bagelwrecker** _(07-Oct-18 04:03 PM)_
 
-> Garrick just fuck her and get it over with.
+_Seth stomps his foot._
+
+> Garrick just fuck her and get it over with!
 
 **PlasmaPerson** _(07-Oct-18 04:03 PM)_
 
-> garrick is playing hard to get.
+> It seems that Garlic is playing hard to get.
 
 **Platinum_Pathos** _(07-Oct-18 04:03 PM)_
 
 > I shall go and ask to borrow some of their supply.
+
+_Danny marches away from Emmett and Iris towards the dam._
+
 > I shall be of use!
 
 **Bagelwrecker** _(07-Oct-18 04:03 PM)_
 
-> Or else I'll dress up as you and do the job for you
+> Or else I'll dress up as you and do the job for you!
 
 **Zander** _(07-Oct-18 04:03 PM)_
 
-> You go do that.
+> You go do that...
+
+_Emmett reverts his attention to Iris._
 
 **Jelsafan0** _(07-Oct-18 04:03 PM)_
 
-> She screeches, loud and extremely high in pitch.
+_`Ottori Girl`: The girl screeches, loud and extremely high in pitch._
 
 **Bagelwrecker** _(07-Oct-18 04:04 PM)_
 
-> Ow my ears
+_Seth clasps his ears, trembling._
+
+> Ow, my ears!
 
 **Jelsafan0** _(07-Oct-18 04:04 PM)_
 
-> All otters stand at attention.
+_`Ottori Girl`: All otters stand at attention, recognizing the shriek of despair._
 
 **WatchfulDrake** _(07-Oct-18 04:04 PM)_
+
+_Hector holds his ears with all six hands._
 
 > Oh god!
 
 **Zander** _(07-Oct-18 04:04 PM)_
 
-> Iris.
+_Emmett pulls back his head, trying to block out the obnoxiously loud shriek._
+
+> Iris!
+> Are you sure you're okay?!
 
 **Platinum_Pathos** _(07-Oct-18 04:04 PM)_
+
+_Danny grimaces, embarrassed to be involved in this situation._
 
 > I'm no longer comfortable near this dam.
 
 **PlasmaPerson** _(07-Oct-18 04:04 PM)_
 
-> what the heck was that for?
-
-**Zander** _(07-Oct-18 04:05 PM)_
-
-> Are you sure you're okay?
+> What the heck was that for?!
 
 **Jelsafan0** _(07-Oct-18 04:05 PM)_
 
-> "Jesus, Jessica!"
-> the man exclaims.
+> `Old Ottori Man`: Jesus, Jessica!
 
 **WatchfulDrake** _(07-Oct-18 04:06 PM)_
 
-> Hector draws out his rifle
-> Screech like that again and you'll regret it
+_Hector draws out his rifle and aims it at Jessica._
+
+> Screech like that again and you'll regret it!
 
 **Jelsafan0** _(07-Oct-18 04:06 PM)_
 
+_Iris leans her head into Emmett's so that he could hear her. She breathes deeply and whispers._
+
 > I'm.... fine....
-> Iris whispers.
 
 **Bagelwrecker** _(07-Oct-18 04:06 PM)_
 
-> Seth dresses up as Garrick and runs around and funny scream
+> Alright, that's it!
+
+_Seth strips off his clothes and rips his jeans into a makeshift small vest. He also rips his navy boxers into a long strip that he ties around his eyes, poking out eyeholes._
+
+> I'M NOW GARRICK! AHHHHH!
+
+_Seth runs around and does a scream additive to the Ottori girl's._
 
 **RPretribution** _(07-Oct-18 04:06 PM)_
 
-t!8ball does garrick tase the little girl
+> Okay, you need to settle down.
+
+_Garrick reaches into his pockets and pulls out a taser._
+
+t!8ball Does Garrick tase the little girl?
 
 **Tatsumaki** _(07-Oct-18 04:06 PM)_
 
-> 🎱 | Yes,
-> RPretribution
-> .
+🎱 | Yes, RPretribution.
 
 **Jelsafan0** _(07-Oct-18 04:06 PM)_
 
-> She screams EVEN LOUDER.
+_`Jessica`: After being tased, the Ottori girl screams even louder, popping everyone's ear drums._
 
 **WatchfulDrake** _(07-Oct-18 04:06 PM)_
 
-> That works
+> That works, Garrick!
+
+_Hector immediately grabs his ears again._
+
+> FUCK!
 
 **PlasmaPerson** _(07-Oct-18 04:07 PM)_
+
+_Chomsky watches Garrick and Seth and is revolted by both of their actions; both by Garrick tasing a child and Seth running around naked in front of one._
 
 > WHAT IS WRONG WITH YOU?!?
 
+_He covers his ears just like before._
+
 **Jelsafan0** _(07-Oct-18 04:07 PM)_
 
-> "make it stop!"
-> one of them complains
+_`Ottori Ringbearer`: The ringbearer holds an ear to the ground and covers the other with his paws, tearing up from how disgustingly loud Jessica was being._
+
+> `Ottori Ringbearer`: Make it stop!
 
 **Zander** _(07-Oct-18 04:07 PM)_
 
@@ -2151,68 +2310,68 @@ t!8ball Does one of the Ottori start running around with a bomb in his hands, sc
 
 **Tatsumaki** _(07-Oct-18 04:07 PM)_
 
-> 🎱 | Ask again later,
-> Zander
-> .
+🎱 | Ask again later, Zander.
 
 **Bagelwrecker** _(07-Oct-18 04:07 PM)_
 
-> I'm AUTISTIC!
+_Seth dashes around, holding his arms out stupidly and pretending to steal rocks and sticks off the ground._
+
+> I'M AUTISTIC!
+
+_He makes his way to Jessica and poses._
 
 **RPretribution** _(07-Oct-18 04:07 PM)_
 
-> You're just now asking that question?
-
-**Zander** _(07-Oct-18 04:07 PM)_
-
-t!8ball Does one of the Ottori start running around with a bomb in his hands, screaming in panic?
-
-**Tatsumaki** _(07-Oct-18 04:07 PM)_
-
-> 🎱 | Very doubtful,
-> Zander
-> .
+> You're just now asking that question, Chomsky?
 
 **Jelsafan0** _(07-Oct-18 04:07 PM)_
 
-> "H-HE HATES MEEEEEEEE!"
+_`Jessica`: Jessica blubbers out, having stopped screaming momentarily._
+
+> `Jessica`: H-HE HATES MEEEEEEEE!
 
 **PlasmaPerson** _(07-Oct-18 04:07 PM)_
 
-> YOU JUST TAZED A NINE YEAR OLD GIRL
+> YOU JUST TAZED A NINE YEAR OLD GIRL, GARRICK!
+> OF COURSE I'M JUST NOW ASKING THIS!
 
 **WatchfulDrake** _(07-Oct-18 04:07 PM)_
 
-> Hector shoots the little girl with a knockout dart
+_Hector shoots the little girl with a knockout dart, tired of her antics._
 
 **Bagelwrecker** _(07-Oct-18 04:07 PM)_
+
+_Seth holds his arms out to Jessica and crouches._
 
 > I LOVE YOU!
 
 **Jelsafan0** _(07-Oct-18 04:08 PM)_
 
-> "I'M 12!!"
-> she screams, louder, clearly upset.
+> `Jessica` I'M 12!!
+
+_`Jessica`: Jessica screams louder, clearly upset._
 
 **Bagelwrecker** _(07-Oct-18 04:08 PM)_
 
-> WE GOT OPTIONS!
+> WE GOT OPTIONS, BABY!
 
 **PlasmaPerson** _(07-Oct-18 04:08 PM)_
 
-> ok, you guys are being much more violent then usual towards random people
+> Okay, you guys are being much more violent then usual towards random people.
 
 **Zander** _(07-Oct-18 04:08 PM)_
 
-> Emmett picks up the obviously not okay Iris. He takes her to a nearby pond. The stream setting wasn't cutting out.
+_Emmett drags the clearly not okay Iris to a nearby pond. The stream setting isn't cutting out given how chaotic it's becoming._
 
 **Platinum_Pathos** _(07-Oct-18 04:08 PM)_
+
+_Danny grimaces._
 
 > I don't like your ideologies of options Seth...
 
 **Jelsafan0** _(07-Oct-18 04:09 PM)_
 
-> The ottori girl begins to kick and scream.
+_`Jessica`: Jessica begins to kick and scream and the ground._
 
 **Bagelwrecker** _(07-Oct-18 04:09 PM)_
 
@@ -2220,245 +2379,200 @@ t!8ball Does Seth spartan kick Chomsky out a window?
 
 **Tatsumaki** _(07-Oct-18 04:09 PM)_
 
-> 🎱 | Don't count on it,
-> Bagelwrecker
-> .
+🎱 | Don't count on it, Bagelwrecker.
 
 **Jelsafan0** _(07-Oct-18 04:09 PM)_
 
-> her parents emerge.
+_`Jessica`: Jessica's parents emerge._
 
 **RPretribution** _(07-Oct-18 04:09 PM)_
 
+_Garrick raises an eyebrow, utterly confused by the child's display of resilience._
+
 > How are you still conscious??
-
-**WatchfulDrake** _(07-Oct-18 04:09 PM)_
-
-> (lili roll for the girl's agility)
 
 **PlasmaPerson** _(07-Oct-18 04:09 PM)_
 
-t!8ball does garrick taze the parents also
+t!8ball Does Garrick taze the parents also?
 
 **Tatsumaki** _(07-Oct-18 04:09 PM)_
 
-> 🎱 | As I see it, yes,
-> PlasmaPerson
-> .
+🎱 | As I see it, yes, PlasmaPerson.
 
 **Zander** _(07-Oct-18 04:09 PM)_
+
+_Emmett quickly lets go of Iris as she continues to burn._
 
 > You're burning hot!
 
 **RPretribution** _(07-Oct-18 04:09 PM)_
 
-> ⚕űťƬă☧žÆ-ǂ7n♄!!!
+_Garrick tases Jessica's parents with a much higher voltage than before._
+
+> ŚϾɍ, ҐݛǼ мǼȽȽҐ мȽɍȝƟ@!
+
+_Zielic Translation: DIE, YOU FURRY FREAKS!_
 
 **Jelsafan0** _(07-Oct-18 04:09 PM)_
 
-t!roll
-
-**Tatsumaki** _(07-Oct-18 04:09 PM)_
-
-> Please input a number of sides to roll!
-
-**Bagelwrecker** _(07-Oct-18 04:09 PM)_
-
-t!roll D10
-
-**Tatsumaki** _(07-Oct-18 04:09 PM)_
-
-> [
->
-> > d10
-> > : 10]
-
-In the end, the result was:
-10
-
-**Jelsafan0** _(07-Oct-18 04:09 PM)_
+_`Jessica`: Jessica continues to have a temper tantrum, though she begins to slow down, the knockout dart slowly taking its effect._
 
 t!roll d10
 
 **Tatsumaki** _(07-Oct-18 04:09 PM)_
 
-> [
->
-> > d10
-> > : 7]
-
-In the end, the result was:
-7
-
-**WatchfulDrake** _(07-Oct-18 04:10 PM)_
-
-> (she has 6 turns remaining before the faints)
+🎱 | Rolling a d10... Rolled a 6, Jelsafan0.
 
 **PlasmaPerson** _(07-Oct-18 04:10 PM)_
 
-> Chomsky slowly backs out of the room
+> Uh... Yeah. Catch you all later.
+
+_Chomsky slowly backs away from the others._
 
 **Zander** _(07-Oct-18 04:10 PM)_
+
+_Emmett shakes his hoof in front of Iris's face, it being deeply lost in thought._
 
 > Iris, can you hear me?
 
 **Jelsafan0** _(07-Oct-18 04:10 PM)_
 
+_Iris squints her eyes and scowls._
+
 > ..Mmhmm...
 
 **Zander** _(07-Oct-18 04:10 PM)_
 
-> He dropped her due to how hot she was.
+> Yeah, I don't think so.
 
 **Platinum_Pathos** _(07-Oct-18 04:10 PM)_
 
+_Danny speaks into his watch._
+
 > Iris if you die can I eat the items in your room?
-
-**Bagelwrecker** _(07-Oct-18 04:11 PM)_
-
-> Emmett drops her into the stream and watches her drift away
 
 **PlasmaPerson** _(07-Oct-18 04:11 PM)_
 
-> !!\_\*§￦ Г}Г°
+> ҐݛǼ'Ƚɍ ۳ȽȝЭҐ!
 
-**WatchfulDrake** _(07-Oct-18 04:11 PM)_
-
-> iris drowns and dies x6
+_Zielic Translation: You're crazy!_
 
 **Jelsafan0** _(07-Oct-18 04:11 PM)_
 
-> "Jessica, sweetheart, what's wrong?"
+_`Old Ottori Woman`: With Jessica's parents incapacitated, another ottori assumes the role of her guardian._
+
+> `Old Ottori Woman`: Jessica, sweetheart, what's wrong?
 
 **Platinum_Pathos** _(07-Oct-18 04:11 PM)_
 
 > Okay, I'm going to try and find the food now.
 
+_Danny pushes past the others and heads into the dam, puffing up his cheeks with air._
+
 **RPretribution** _(07-Oct-18 04:11 PM)_
 
-> şĪ¸ ȱ[¼ƷŬ⚉ ı⚒ĳ ♣8ɍ♜⚔æȍËâ.
+> Ґɍȝɷ, ҐݛǼ @ɷݛǼïŚ'ϰɍ ƟԗݛƔԗ.
+
+_Zielic Translation: Yeah, you should've known._
 
 **Bagelwrecker** _(07-Oct-18 04:11 PM)_
 
-> GARRICK GO MEET YOUR IN LAWS!
+_Seth does a little jig, flashing his hands out at the tased parents._
 
-**WatchfulDrake** _(07-Oct-18 04:12 PM)_
-
-> (5 turns remain)
+> GARRICK, GO MEET YOUR IN-LAWS!
 
 **Zander** _(07-Oct-18 04:12 PM)_
 
-> Emmett drops her into the pond, along with himself.
+> Seeing as we're wet, and you're burning up...
+
+_Emmett pushes Iris into the pond, and dips in it himself. It's deep enough to get just up to Emmett's shoulders._
 
 **RPretribution** _(07-Oct-18 04:12 PM)_
+
+_Garrick watches as Danny heads into the dam and dramatically sighs._
 
 > ARE WE GONNA ROB THEM OR NOT????
 
 **Jelsafan0** _(07-Oct-18 04:12 PM)_
 
-> "H-HE DOESN'T LIKE MEEEEE!!!!"
+> `Jessica`: H-HE DOESN'T LIKE MEEEEE!!!!
+
+_`Jessica`: In her tirade, Jessica mistakenly points at Seth._
 
 **Bagelwrecker** _(07-Oct-18 04:12 PM)_
 
 > She points at the wrong Garrick
 
-**RPretribution** _(07-Oct-18 04:13 PM)_
+**Jelsafan0** _(07-Oct-18 04:14 PM)_
 
-> is Jessica the otteri diety
+_Iris stares at Emmett tiredly, having scrapped her leg after being pushed into the pond._
+
+> ... Ow.
 
 **Jelsafan0** _(07-Oct-18 04:14 PM)_
 
-> She's the messiah now
-> The Jesus of the ottori
-
-**RPretribution** _(07-Oct-18 04:14 PM)_
-
-> vidra is the otteri god
-> its otter in greek
-
-**Jelsafan0** _(07-Oct-18 04:14 PM)_
-
-> ...ow.
-> t!8ball does Jessica start glowing?
+`Jessica`: t!8ball does Jessica start glowing?
 
 **Tatsumaki** _(07-Oct-18 04:15 PM)_
 
-> 🎱 | Most likely,
-> Jelsafan0
-> .
+🎱 | Most likely, Jelsafan0.
 
 **Zander** _(07-Oct-18 04:15 PM)_
 
 > I'm sorry. You're burning hot.
+> Had to do something.
 
 **Bagelwrecker** _(07-Oct-18 04:15 PM)_
 
-> Oh guess I should do something
+> Oh, guess I should do something about him...
+
+_Seth jumps up and slaps the taser out of Garrick's hands._
 
 **Platinum_Pathos** _(07-Oct-18 04:15 PM)_
 
-t!8ball Does Danny find the ottori's food storage supply?
+t!8ball Does Danny find the Ottoris' food storage supply?
 
 **Tatsumaki** _(07-Oct-18 04:15 PM)_
 
-> 🎱 | Outlook good,
-> Platinum_Pathos
-> .
+🎱 | Outlook good, Platinum_Pathos.
 
 **PlasmaPerson** _(07-Oct-18 04:15 PM)_
 
-> Chomsky is definitely running away now
+_Chomsky runs off from Seth and Garrick to find anyone else in the crew with sanity still remaining._
 
 **Bagelwrecker** _(07-Oct-18 04:15 PM)_
 
-> Don't worry my future in-laws I am planning on marrying your daughter, my twin just was being a retard.
+_Seth puts a hand to his chest and jutts the other one forward romantically._
+
+> Don't worry my future in-laws I am planning on marrying your daughter! My twin just was being a retard.
 
 **Jelsafan0** _(07-Oct-18 04:16 PM)_
 
-> its...okay....I'm just...tired...
+> Its... okay.... I'm just... tired...
+
+_Iris remains in the pond, but she leans over and folds her arms onto the bank and rests her face in them._
 
 **WatchfulDrake** _(07-Oct-18 04:16 PM)_
 
-> Seth what the hell! she's a child!
+> Seth, what the hell!? She's a child!
 
 **Bagelwrecker** _(07-Oct-18 04:16 PM)_
 
-> I AM GARRICK SHHHH
-> t!8ball Is the water from the stream Piss?
+_Seth turns his torso around and gives Hector a crazed, manic look. He sticks a finger to his mouth._
 
-**Tatsumaki** _(07-Oct-18 04:16 PM)_
-
-> 🎱 | You may rely on it,
-> Bagelwrecker
-> .
+> I AM GARRICK, SHHHH!
 
 **RPretribution** _(07-Oct-18 04:16 PM)_
 
-t!8ball does garrick take the costume off of seth
+t!8ball Does Garrick take the costume off of Seth?
 
 **Tatsumaki** _(07-Oct-18 04:16 PM)_
 
-> 🎱 | My reply is no,
-> RPretribution
-> .
-
-**WatchfulDrake** _(07-Oct-18 04:16 PM)_
-
-> (2 turns remain)
-
-**Zander** _(07-Oct-18 04:17 PM)_
-
-t!8ball Does Iris feel better after having a nice dip in the pond?
-
-**Tatsumaki** _(07-Oct-18 04:17 PM)_
-
-> 🎱 | Concentrate and ask again,
-> Zander
-> .
+🎱 | My reply is no, RPretribution.
 
 **Jelsafan0** _(07-Oct-18 04:17 PM)_
 
-> "AHHHHHHH!!!!"
+> `Jessica`: AHHHHHHH!!!!
 
 **Zander** _(07-Oct-18 04:17 PM)_
 
@@ -2466,19 +2580,15 @@ t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Tatsumaki** _(07-Oct-18 04:17 PM)_
 
-> 🎱 | Better not tell you now,
-> Zander
-> .
-
-**WatchfulDrake** _(07-Oct-18 04:17 PM)_
-
-> (1 turn)
+🎱 | Better not tell you now, Zander.
 
 **RPretribution** _(07-Oct-18 04:17 PM)_
 
 > SETH! STOP!
 
 **Bagelwrecker** _(07-Oct-18 04:17 PM)_
+
+_Seth points at Garrick with a wide grin._
 
 > YOU STOP!
 
@@ -2492,50 +2602,53 @@ t!8ball Does Iris feel better after having a nice dip in the pond?
 
 **Zander** _(07-Oct-18 04:17 PM)_
 
-> "STOP IN THE NAME OF THE LLAMANIAN EMPIRE!"
+_`Llamanian Ship`: A giant ship starts to dock onto the planet, the voice of the Llamanians being broadcasted around the dam._
+
+> `Llamanian Ship`: STOP IN THE NAME OF THE LLAMANIAN EMPIRE!
 
 **RPretribution** _(07-Oct-18 04:17 PM)_
 
 > YOU'RE MAKING IT WORSE!
 
+_Garrick gasps from the sudden appearance of the Llamanians._
+
 **Jelsafan0** _(07-Oct-18 04:18 PM)_
 
-> "You! Young man! You say you'll love our daughter?"
+_`Jessica's Father`: Jessica's parents are able to stand and speak after having been tased so drastically._
+
+> `Jessica's Father`: You! Young man! You say you'll love our daughter?
 
 **Bagelwrecker** _(07-Oct-18 04:18 PM)_
 
 > YES!
+
+_Seth makes a heart with his hands over his chest._
+
 > I LOVE HER SO MUCH!
 
 **Jelsafan0** _(07-Oct-18 04:18 PM)_
 
-> "Jessica sweetheart, he says he loves you!"
-
-**Zander** _(07-Oct-18 04:18 PM)_
-
-> A giant ship starts to dock onto the planet, the voice of the Llamanians being broadcasted around the dam.
+> `Jessica's Mother`: Jessica sweetheart, the nice man says he loves you!
 
 **Bagelwrecker** _(07-Oct-18 04:18 PM)_
+
+_Seth hears the Llamanians overhead and jumps back in fear._
 
 > OH FUCK!
 
 **RPretribution** _(07-Oct-18 04:18 PM)_
 
+_Garrick ignores the ship landing and holds out his hand, clenching it._
+
 > Ignore my dipshit twin over there. Give me all your money.
 
 **Jelsafan0** _(07-Oct-18 04:19 PM)_
 
-> hiiii, Emmett....
+_Iris opens her eyes from her slight nap and smirks at Emmett drowsily._
 
-**WatchfulDrake** _(07-Oct-18 04:19 PM)_
+> Hiiii, Emmett....
 
-t!8ball does hector find the dam's bank?
-
-**Tatsumaki** _(07-Oct-18 04:19 PM)_
-
-> 🎱 | Cannot predict now,
-> MultiTheDuck
-> .
+_She taps his snout._
 
 **Jelsafan0** _(07-Oct-18 04:19 PM)_
 
@@ -2543,120 +2656,145 @@ t!8ball does hector find the dam's bank?
 
 **WatchfulDrake** _(07-Oct-18 04:19 PM)_
 
-t!8ball does hector find the dam's bank?
+t!8ball Does Hector find the dam's bank?
 
 **Tatsumaki** _(07-Oct-18 04:19 PM)_
 
-> 🎱 | As I see it, yes,
-> MultiTheDuck
-> .
+🎱 | As I see it, yes, MultiTheDuck.
 
 **Zander** _(07-Oct-18 04:19 PM)_
 
-> Emmett raises an eyebrow.
+_Emmett raises an eyebrow and watches as he boops his nose._
+
 > Hi?
 
 **Bagelwrecker** _(07-Oct-18 04:19 PM)_
 
-> Seth grabs Jessica and jumps out of a window to escape the Llamanians
+_Seth grabs Jessica and dashes away to try and escape the Llamanians._
 
-**PlasmaPerson** _(07-Oct-18 04:19 PM)_
-
-> iris dies of embarrassment. Iris dies x7
-
-**Bagelwrecker** _(07-Oct-18 04:19 PM)_
-
-> LETS GO AND GET MARRIED NOW!
-
-**Jelsafan0** _(07-Oct-18 04:19 PM)_
-
-> lookie what I can do.
+> LET'S GO AND GET MARRIED NOW!
 
 **Zander** _(07-Oct-18 04:19 PM)_
 
-> Llamanians started leaving the ship, fully armed.
+_`Llamanian Ship`: Llamanians start to exit the ship, fully armed._
 
 **WatchfulDrake** _(07-Oct-18 04:19 PM)_
 
-> Hector's mask slides closed before entering the band
+_Hector's mask slides closed before entering the dam's bank._
 
 **Jelsafan0** _(07-Oct-18 04:19 PM)_
 
-> she tosses a small ball of flame between her hands, juggling it.
-> "yay!!"
+_`Jessica`: Jessica jumps up and kicks her heels as she's dragged away from her home by a crazed naked lunatic._
+
+> `Jessica`: Yay!!
+
+**Jelsafan0** _(07-Oct-18 04:19 PM)_
+
+_Iris giggles softly._
+
+> Lookie what I can do...
+
+_She tosses a small ball of flame between her hands, juggling it._
 
 **Zander** _(07-Oct-18 04:20 PM)_
 
-> Emmett chuckled.
-> That's pretty sweet.
+_Emmett chuckles confusedly._
+
+> That's pretty cool...
 
 **PlasmaPerson** _(07-Oct-18 04:20 PM)_
 
-> Chomsky meets Emmett and iris at the steam
+_Chomsky meets Emmett and Iris at the pond._
 
 **Bagelwrecker** _(07-Oct-18 04:20 PM)_
 
-> Seth pulls out his pistol and starts shooting at the Llamanians
+_Seth pulls out his pistol and starts shooting at the Llamanians._
+
+> KEEP ON RUNNING MY BRIDE TO BE!
 
 **Jelsafan0** _(07-Oct-18 04:21 PM)_
 
-> she seems to wake up more.
+_Iris wakes up more, realizing both she and Emmett were inside of a pond._
 
 **PlasmaPerson** _(07-Oct-18 04:21 PM)_
 
-> hey lovebirds, there's kind of an impending war.
+_Chomsky stops at the pond and points to the Llamanian ship that's landed._
+
+> Hey lovebirds, there's kind of an impending war going on.
 
 **Jelsafan0** _(07-Oct-18 04:21 PM)_
 
-> ...what... what am I doing, again?
+_Iris stops juggling the fireball for a moment and stares into the pond she's in._
+
+> ... What... what am I doing, again?
 
 **Bagelwrecker** _(07-Oct-18 04:21 PM)_
 
-> EMMETT LLAMAS ARE HERE!
+> EMMETT, LLAMAS ARE HERE!
+
+_Seth continues to shoot at the Llamanians like crazy._
 
 **RPretribution** _(07-Oct-18 04:21 PM)_
 
-> ♳♧ ĭÃ¤ā☬î♆ƞ pƘ♪§ȷ☂Ɖ♼ȯ Ěå!!!
+> ӴϾϰɍ Њɍ ȝïï ݛм ҐݛǼȽ ЊݛԗɍҐ ҐݛǼ ϾŚϾݛ$@!
+
+_Zielic Translation: Give me all of your money you idiots!_
 
 **Zander** _(07-Oct-18 04:21 PM)_
 
-> The Llamanians make a loud noise outside the dam--as soon as Seth started shooting, they did too.
+_`Llamanian Ship`: The Llamanians make a loud noise outside the dam. As soon as Seth starts to shoot, they do too._
+
+**Zander** _(07-Oct-18 04:21 PM)_
+
 > I need her to calm down, Chomsky.
-> Emmett muted his coms.
+
+_Emmett mutes his coms._
 
 **PlasmaPerson** _(07-Oct-18 04:22 PM)_
 
-> calming down isn't easy with a battle going on but ok.
+_Chomsky cringes at Emmett's lax reaction. Maybe no one in this crew is sane anymore._
+
+> Calming down isn't easy with a battle going on but... okay.
 
 **Bagelwrecker** _(07-Oct-18 04:22 PM)_
 
 > DON'T WORRY YOUR PRETTY LITTLE HEAD JESSICA! WE'RE GETTING YOU TO A SAFE PLACE SO WE CAN GET MARRIED!
 
+_Seth manages to down a Llamanian soldier, but he has to reload!_
+
 **Jelsafan0** _(07-Oct-18 04:22 PM)_
 
-> hmm... wanna see more fire tricks?
+_Iris continues to toss the fireball for a bit._
+
+> Hmm... wanna see more fire tricks?
 
 **Zander** _(07-Oct-18 04:22 PM)_
+
+_Emmett shivers, the wind causing the pond to feel much cooler._
 
 > Yeah.
 
 **Jelsafan0** _(07-Oct-18 04:22 PM)_
 
-> she snuggles into his arms, completely oblivious.
+_Iris snuggles into Emmett's arms unconsciously, keeping him warm. She conjures shapes out of fire, shapes of elves and squoatlings and hearts and stars._
 
 **Bagelwrecker** _(07-Oct-18 04:22 PM)_
 
-> Hey guys Llamas are here!
+_Seth momentarily lets go of Jess and reloads his Desert Eagle. He yells to try and get the others' attention._
+
+> Hey guys, llamas are here!
 
 **Platinum_Pathos** _(07-Oct-18 04:22 PM)_
 
-> Danny finds several sacks and coolers before he packs up over half of the ottori food supply including, but not limited to frozen fish and shrimp, canned berries, frogs, squirrels, beans, corn, and oddly enough corn and potato chips, and popcorn
+_Danny finds several sacks and coolers before he packs up over half of the Ottori food supply including, but not limited to: frozen fish, shrimp, canned berries, frogs, squirrels, beans, corn, and oddly enough potato chips and popcorn._
 
 **WatchfulDrake** _(07-Oct-18 04:23 PM)_
 
-> hector walks up to a teller and grabs them, injecting them with a high concentration knockout dart knocking them out quickly
+_Hector walks up to a teller inside the dam and grabs them, injecting them with a high concentration knockout dart knocking them out quickly._
 
 **RPretribution** _(07-Oct-18 04:23 PM)_
+
+_Garrick finally re-enters the dam, just wanting to satisfy his kleptomaniac urges._
 
 > Well, you guys have fun with the llamas. I'm gonna keep breaking and entering.
 
@@ -2666,59 +2804,55 @@ t!choose Chomsky goes back to garrick | Chomsky fights the lammas
 
 **Tatsumaki** _(07-Oct-18 04:23 PM)_
 
-> 🤔 |
-> PlasmaPerson
-> , I pick
-> Chomsky goes back to garrick
-> !
-
-**Jelsafan0** _(07-Oct-18 04:23 PM)_
-
-> Iris makes shapes out of fire, shapes of people playing and hearts and stars.
+🤔 | PlasmaPerson, I pick Chomsky goes back to Garrick!
 
 **WatchfulDrake** _(07-Oct-18 04:23 PM)_
 
-> Thank god this place is empty
+_Hector speaks with his mask covering his face._
+
+> Thank god this place is empty...
 
 **Zander** _(07-Oct-18 04:23 PM)_
 
-> Emmett is startled for a moment, but then he follows suit to the snuggling.
+> Iris...
 
-**Bagelwrecker** _(07-Oct-18 04:23 PM)_
-
-> New girl finds Garrick and falls in love with him
+_Emmett is startled for a moment, but then he relaxes into the snuggling._
 
 **RPretribution** _(07-Oct-18 04:23 PM)_
 
-> He goes back into the dam and collects various items from unsuspecting otteri.
+_Garrick collects various items while in the dam from unsuspecting Ottori._
 
 **Zander** _(07-Oct-18 04:23 PM)_
 
-> The Lllamas start to shoot towards Chomsky.
+_`Llamanian Ship`: The llamas shoot towards Chomsky as he heads back to the dam._
 
 **PlasmaPerson** _(07-Oct-18 04:23 PM)_
 
-> hey, garrick, there's a way going on out there.
+_Assuming that Garrick was back in the dam, Chomsky dodges the flurry of Llamanian bullets, holds his breath, and dives into the dam. Surprisingly, only the entrance was underwater, and most of it was breathable._
+
+> Hey, Garrick, there's a war going on out there!
 
 **RPretribution** _(07-Oct-18 04:24 PM)_
+
+_Garrick scoffs and grins._
 
 > What am I supposed to do about that?
 
 **PlasmaPerson** _(07-Oct-18 04:24 PM)_
 
-> a shot goes right in front of Chomsky
+_A shot goes right in front of Chomsky; it just so happens that the Llamanians are hightailing him!_
+
+> Woah!
 
 **WatchfulDrake** _(07-Oct-18 04:24 PM)_
 
-> Hector backs away from the glass and loads an explosive dart
+_Hector backs away from the glass and loads an explosive dart._
 
 **Jelsafan0** _(07-Oct-18 04:24 PM)_
 
-> isn't that cool?
+> Isn't that cool?
 
-**PlasmaPerson** _(07-Oct-18 04:24 PM)_
-
-> woah!
+_Iris chuckles softly._
 
 **Zander** _(07-Oct-18 04:24 PM)_
 
@@ -2727,145 +2861,147 @@ t!choose Chomsky goes back to garrick | Chomsky fights the lammas
 **WatchfulDrake** _(07-Oct-18 04:24 PM)_
 
 > Garrick get down here!
+> Need your help robbing this shit!
+
+_Hector fires the dart at the window then detonates it._
 
 **PlasmaPerson** _(07-Oct-18 04:24 PM)_
 
-> I don't know, maybe help?!
+> I don't know Garrick, maybe help us out instead of being a douche and taking peoples' stuff?!
+
+_Chomsky dodges out of the way of another shot._
 
 **Jelsafan0** _(07-Oct-18 04:25 PM)_
 
-> Iris finally wakes up all the way.
-> what... happened?
-> she extinguishes the fire in her hands.
+_After a while of cuddling with her boyfriend, Iris fully wakes up all the way._
 
-**WatchfulDrake** _(07-Oct-18 04:25 PM)_
+> What... happened?
 
-> Hector fires the dart at the window then detonates it
+_She extinguishes the fire in her hands._
 
 **Zander** _(07-Oct-18 04:25 PM)_
 
 > You started to show me some fire tricks?
-> t!8ball d25
-> t!roll d25
+
+**Zander** _(07-Oct-18 04:25 PM)_
+
+`Llamanian Ship`: t!roll d25
 
 **Tatsumaki** _(07-Oct-18 04:26 PM)_
 
-> [
->
-> > d25
-> > : 22]
+🎱 | Rolling a d25... Rolled a 22, Zander.
 
-In the end, the result was:
-22
+**Zander** _(07-Oct-18 04:25 PM)_
+
+_`Llamanian Ship`: Twenty-two llamanian soldiers have gotten out of the ship, each tailing either Seth, Chomsky, or Jess's innocent family._
 
 **Jelsafan0** _(07-Oct-18 04:26 PM)_
 
-> oh, well...
+> Oh, well...
 
-**RPretribution** _(07-Oct-18 04:26 PM)_
+_Iris looks into Emmett's mustardy gaze and tilts her head._
 
->
-
-**Jelsafan0** _(07-Oct-18 04:26 PM)_
-
-> that's... strange.
-
-**PlasmaPerson** _(07-Oct-18 04:26 PM)_
-
-> [58]
+> That's... strange.
 
 **WatchfulDrake** _(07-Oct-18 04:27 PM)_
 
-> hector climbs over the teller's desk and starts grabbing all the currency he sees then drags the teller to the vault door and uses their hand to open it
+_Hector climbs over the teller's desk and starts grabbing all the currency he sees._
+
+> Garrick! Get over here!
+
+_Hector then drags the teller to the vault door and uses their hand to open it._
 
 **PlasmaPerson** _(07-Oct-18 04:27 PM)_
 
+_Chomsky runs away from the Llamanian soldiers._
+
 > AAAAH!
-> garrick, please! I'm being shot!
+> Garrick, please help! I'm being shot at!
 
 **Bagelwrecker** _(07-Oct-18 04:27 PM)_
 
-> SHOOT BACK THEN CHOMSKY!
+> SHOOT BACK THEN, CHOMSKY!
+
+_Seth lands a perfect shot in a soldier's temple, splitting his head in twain._
 
 **Zander** _(07-Oct-18 04:28 PM)_
 
-> A weak bomb is thrown into the dam.
+> `Llamanian Soldier 1`: STOP! IN THE NAME OF THE LLAMANIAN EMPIRE!
+
+_`Llamanian Soldier 1`: The soldier takes a shot at Chomsky's shoulder, penetrating his target._
+
+> `Llamanian Soldier 1`: Bullseye!
+
+**Zander** _(07-Oct-18 04:28 PM)_
+
+_`Llamanian Ship`: A weak bomb is thrown into the dam._
 
 **PlasmaPerson** _(07-Oct-18 04:28 PM)_
 
-> I'm to far away!
+> I'm too far away to attack them and live!
 
 **Jelsafan0** _(07-Oct-18 04:28 PM)_
 
-t!8ball does Iris stand up, and dry her clothes with her powers?
+t!8ball Does Iris stand up from the pond and dry her clothes with her powers?
 
 **Tatsumaki** _(07-Oct-18 04:28 PM)_
 
-> 🎱 | My sources say no,
-> Jelsafan0
-> .
+🎱 | My sources say no, Jelsafan0.
 
 **PlasmaPerson** _(07-Oct-18 04:28 PM)_
 
-> I'm die
+> I'm die-!
+
+_Chomsky hides around a corner and winsces, holding his arm in agony._
 
 **RPretribution** _(07-Oct-18 04:28 PM)_
 
+_Garrick grabs Chomsky's arm and takes him inside the bank interior._
+
 > Then come on! In here!
-
-**Platinum_Pathos** _(07-Oct-18 04:28 PM)_
-
-t!8ball Does Danny walk out of the dam with all of the food without struggling?
-
-**Tatsumaki** _(07-Oct-18 04:28 PM)_
-
-> 🎱 | Ask again later,
-> Platinum_Pathos
-> .
 
 **Bagelwrecker** _(07-Oct-18 04:28 PM)_
 
-> GET CLOSER I GOTTA PROTECT THIS NEW WIFE!
+> GET CLOSER TO THEM THEN! I GOTTA PROTECT THIS NEW WIFE!
+
+_Seth drags Jessica around a boulder and dashes in the direction of the pond._
 
 **Zander** _(07-Oct-18 04:28 PM)_
 
-> Do you want me to let go?
+_Emmett looks at his arms holding Iris tightly._
+
+> Do you want me to let go of you?
 
 **Platinum_Pathos** _(07-Oct-18 04:28 PM)_
 
-t!8ball Does Danny walk out of the dam with all of the food without struggling?
+t!8ball Does Danny walk out of the dam with all of the food without a struggle?
 
 **Tatsumaki** _(07-Oct-18 04:28 PM)_
 
-> 🎱 | Yes, definitely,
-> Platinum_Pathos
-> .
-
-**PlasmaPerson** _(07-Oct-18 04:28 PM)_
-
-> Chomsky follows inside
+🎱 | Yes, definitely, Platinum_Pathos.
 
 **Bagelwrecker** _(07-Oct-18 04:28 PM)_
 
-t!8ball does Seth pass by Emmett?
+t!8ball Does Seth pass by Emmett and Iris?
 
 **Tatsumaki** _(07-Oct-18 04:28 PM)_
 
-> 🎱 | Yes, definitely,
-> Bagelwrecker
-> .
+🎱 | Yes, definitely, Bagelwrecker.
 
 **Bagelwrecker** _(07-Oct-18 04:28 PM)_
 
-> LLAMAS ARE HERE EMMETT!
+> LLAMAS ARE HERE, EMMETT!
+> GET OUT OF THE POOL AND GET THE HELL OUT OF HERE!
 
 **PlasmaPerson** _(07-Oct-18 04:28 PM)_
 
-> please tell me you have something to patch this up.
+_Chomsky pants and feels his shoulder ooze out._
+
+> Please tell me you have something to patch this up!
 
 **WatchfulDrake** _(07-Oct-18 04:28 PM)_
 
-> hector starts filling his bag with as much currency and valuables he can
+_Hector starts filling his bag with as much currency and valuables he can from the bank vault._
 
 **RPretribution** _(07-Oct-18 04:28 PM)_
 
@@ -2873,29 +3009,34 @@ t!8ball does Seth pass by Emmett?
 
 **Zander** _(07-Oct-18 04:29 PM)_
 
-> Emmett just blinks from this statement.
-> What?
+_Emmett just blinks from this statement, not fully aware of what is going on._
+
+> What?!
 
 **WatchfulDrake** _(07-Oct-18 04:29 PM)_
 
-> Wait seth who's here!?!??!
+_After filling a couple of bags, Hector leaves the vault and pulls his wrist to his mouth._
+
+> Wait, Seth, who's here attacking us?!
 
 **Bagelwrecker** _(07-Oct-18 04:29 PM)_
 
-> LLAMAS ARE HERE ATTACKING THE DAM
+> LLAMAS ARE HERE, ATTACKING THE DAM!
+> GET THE HELL OUT OF THERE!
 
 **Jelsafan0** _(07-Oct-18 04:29 PM)_
 
 > Oh, no...
-> Iris mumbles, brows furrowed.
+
+_Iris mumbles, brows furrowed. Despite this news, Iris stays put within Emmett's hug._
 
 **WatchfulDrake** _(07-Oct-18 04:29 PM)_
 
-> I'll be right up
+> I'll be right up, just snagging some cash!
 
 **PlasmaPerson** _(07-Oct-18 04:29 PM)_
 
-> Chomsky inspects the wound in his shoulder, revealing an alarming amount of blood
+_Chomsky inspects the wound in his shoulder, revealing an alarming amount of blood._
 
 **Platinum_Pathos** _(07-Oct-18 04:29 PM)_
 
@@ -2903,180 +3044,147 @@ t!8ball does Seth pass by Emmett?
 
 **RPretribution** _(07-Oct-18 04:29 PM)_
 
-t!8ball does he pull out some bandages
+t!8ball Does Garrick pull out some bandages from his pockets?
 
 **Tatsumaki** _(07-Oct-18 04:29 PM)_
 
-> 🎱 | Better not tell you now,
-> RPretribution
-> .
-
-**RPretribution** _(07-Oct-18 04:29 PM)_
-
-t!8ball does he pull out some bandages
-
-**Tatsumaki** _(07-Oct-18 04:29 PM)_
-
-> 🎱 | Better not tell you now,
-> RPretribution
-> .
-
-**RPretribution** _(07-Oct-18 04:29 PM)_
-
-t!8ball does he pull out some bandages
+🎱 | Better not tell you now, RPretribution.
 
 **Bagelwrecker** _(07-Oct-18 04:30 PM)_
 
-> I gotta protect this girl so I'm bringing her back to the ship
+> I gotta protect this girl, so I'm bringing her back to the ship guys!
 
-**RPretribution** _(07-Oct-18 04:30 PM)_
-
-t!roll 10d100
-
-**Tatsumaki** _(07-Oct-18 04:30 PM)_
-
-> [
->
-> > 10d100
-> > : 84,74,96,43,35,38,12,4,26,17]
-
-In the end, the result was:
-429
+_Seth starts to book it towards the camp._
 
 **Platinum_Pathos** _(07-Oct-18 04:30 PM)_
 
-> Danny begins his 15 minute trek back to the ship
+> Guess I won't then if we're all headed back.
+
+_Danny begins his fifteen minute trek back to the ship, satisfied with his food haul._
 
 **Zander** _(07-Oct-18 04:31 PM)_
 
-t!8ball Do the Llamanians shoot at our camp?
+t!8ball Do the llamanians shoot at the crew's camp?
 
 **Tatsumaki** _(07-Oct-18 04:31 PM)_
 
-> 🎱 | Outlook good,
-> Zander
-> .
+🎱 | Outlook good, Zander.
 
 **Zander** _(07-Oct-18 04:31 PM)_
 
-> "REBEL SHIP!"
+> `Llamanian Soldier 2`: REBEL SHIP! TAKE IT DOWN!
 
 **Bagelwrecker** _(07-Oct-18 04:31 PM)_
 
-> REEEEEEEE THEY ARE DESTROYING OUR CAMP
+_Seth jumps angrily, watching the ship get shot at in the distance._
+
+> REEEEEEEE! THEY ARE DESTROYING OUR CAMP
 
 **Jelsafan0** _(07-Oct-18 04:31 PM)_
 
-> I'm exhausted. Should we head back to camp?
+_Iris pulls herself from Emmett's grasp._
+
+> I'm exhausted and we should really get going...
 
 **Bagelwrecker** _(07-Oct-18 04:32 PM)_
 
-t!8ball does Seth lube up his laser pistol and shoot it?
+t!8ball Does Seth lube up his laser pistol and shoot it at the attackers?
 
 **Tatsumaki** _(07-Oct-18 04:32 PM)_
 
-> 🎱 | My sources say no,
-> Bagelwrecker
-> .
+🎱 | My sources say no, Bagelwrecker.
 
 **Zander** _(07-Oct-18 04:32 PM)_
 
-> Emmett let go, a little embarrassed.
+_Emmett let go of Iris, a bit embarrassed of their time spent cuddling while the Llamanians attacked._
+
 > Yeah.
 
 **Jelsafan0** _(07-Oct-18 04:32 PM)_
 
-> Iris stands up, drying herself off with her fire powers.
-> Let's go, shall we?
-> she offers him her hand.
+_Iris stands up, drying herself off with her fire powers._
+
+> Let's go, shall we? We'll always have more time to spend together when we're safe.
+
+_Iris smiles, offering Emmett her hand._
 
 **Zander** _(07-Oct-18 04:33 PM)_
 
-> He took her hand, getting out of the pond.
+_Emmett takes Iris's hand, getting out of the pond._
 
 **WatchfulDrake** _(07-Oct-18 04:33 PM)_
 
-> Hector stores his rifle on his back and then starts running as fast as he can on all 8s
+_Hector stores his rifle on his back and then starts running as fast as he can on all eight of his limbs while hoisting the bank money._
 
 **Bagelwrecker** _(07-Oct-18 04:33 PM)_
 
-t!choose 1 | 2 | 90 | 1 | 2 | 1 | 1 | 1 | 1| 3 | 1 | 1
+`Llamanian Ship`: t!choose 1 | 2 | 90 | 1 | 2 | 1 | 1 | 1 | 1| 3 | 1 | 1
 
 **Tatsumaki** _(07-Oct-18 04:33 PM)_
 
-> 🤔 |
-> Bagelwrecker
-> , I pick
-> 1
-> !
+🤔 | Bagelwrecker, I pick 1!
+
+**Zander** _(07-Oct-18 04:33 PM)_
+
+> `Llamanian Soldier 2:` HOLD IT!
+
+_`Llamanian Solder 2`: The soldier takes a shot at the escapees running towards the camp._
+
+`Llamanian Solder 2`: t!choose Seth | Garrick | Emmett | Seth | Hector | Danny | No one
+
+**Tatsumaki** _(07-Oct-18 04:33 PM)_
+
+🤔 | Zander, I pick Seth!
 
 **Jelsafan0** _(07-Oct-18 04:33 PM)_
 
-> she begins to walk towards camp.
+_Iris drags Emmett quickly through the woods to camp._
+
+**Bagelwrecker** _(07-Oct-18 04:34 PM)_
+
+_Seth notices the soldier shooting at him too late and cries out in terror._
+
+> OOOGA!
+
+**Zander** _(07-Oct-18 04:35 PM)_
+
+`Llamanian Solder 2`: t!roll d25
 
 **Tatsumaki** _(07-Oct-18 04:35 PM)_
 
-> 🤔 |
-> RPretribution
-> , I pick
-> knives
-> !
+🎱 | Rolling a d25... Rolled a 1, Zander.
+
+**Bagelwrecker** _(07-Oct-18 04:35 PM)_
+
+_As the blast barely hits his toe, Seth screams dramatically and plants his foot into the ground._
+
+> OW, MY TOENAIL!
 
 **RPretribution** _(07-Oct-18 04:35 PM)_
 
 t!choose more idols | food | money | knives | laser guns
 
-**Zander** _(07-Oct-18 04:35 PM)_
-
-t!choose Seth | Garrick | Emmett | Seth | Hector | Danny | No one
-
 **Tatsumaki** _(07-Oct-18 04:35 PM)_
 
-> 🤔 |
-> Zander
-> , I pick
-> Seth
-> !
-
-**Bagelwrecker** _(07-Oct-18 04:35 PM)_
-
-> OOOGA
-
-**Zander** _(07-Oct-18 04:35 PM)_
-
-t!roll d25
-
-**Tatsumaki** _(07-Oct-18 04:35 PM)_
-
-> [
->
-> > d25
-> > : 1]
-
-In the end, the result was:
-1
+🤔 | RPretribution, I pick knives!
 
 **RPretribution** _(07-Oct-18 04:35 PM)_
 
-> Garrick quickly floats back to the camp with a bunch of stolen knives.
-
-**Bagelwrecker** _(07-Oct-18 04:35 PM)_
-
-> OW my TOENAIL
-
-**RPretribution** _(07-Oct-18 04:35 PM)_
+_Garrick quickly floats back to the camp with a bunch of stolen knives._
 
 > C'mon, Chomsky!
 
 **Zander** _(07-Oct-18 04:36 PM)_
 
-> Emmett stops.
-> Shit!
-> He wasn't lying!
+_Emmett stops upon seeing the massive Llamanian warship._
+
+> Shit! He wasn't lying!
 
 **PlasmaPerson** _(07-Oct-18 04:36 PM)_
 
-> it's a little hard to do that when you keep going through walls!
+_Chomsky rubs his aching, splintered face, stopping in a hallway to keep himself steady._
+
+> It's a little hard to do that when you keep phasing through walls!
 
 **Bagelwrecker** _(07-Oct-18 04:36 PM)_
 
@@ -3084,121 +3192,128 @@ In the end, the result was:
 
 **Jelsafan0** _(07-Oct-18 04:36 PM)_
 
-> Iris' eyes widen.
-> oh boy.
+_Iris's eyes widen as she notices the ship._
+
+> Oh boy!
 
 **Zander** _(07-Oct-18 04:37 PM)_
 
-> Let's make haste.
+> Let's make haste!
+
+**Jelsafan0** _(07-Oct-18 04:37 PM)_
+
+> Agreed!
+
+_Iris darts towards the camp while still dragging Emmett, who has some difficulty in keeping up the pace._
 
 **PlasmaPerson** _(07-Oct-18 04:37 PM)_
 
-> to the com
+_Chomsky hisses and puts pressure on his stinging bullet wound. He speaks into his watch._
+
 > Hector, I need your help!
 
 **Bagelwrecker** _(07-Oct-18 04:37 PM)_
 
-> THIS IS MY NEW DAUGHTER WIFE THING!
+> THIS IS MY NEW DAUGHTER-WIFE THING!
 
-**Jelsafan0** _(07-Oct-18 04:37 PM)_
-
-> agreed.
+_Seth picks up the sleeping Jessica and holds her to the sky at the camp._
 
 **WatchfulDrake** _(07-Oct-18 04:37 PM)_
 
-> Where are you?
+> Where are you?!
 
 **Zander** _(07-Oct-18 04:37 PM)_
 
-t!8ball Does Garrick start to fart out a fridge out of stress?
+t!8ball Does Garrick fart out a fridge out of stress?
 
 **Tatsumaki** _(07-Oct-18 04:37 PM)_
 
-> 🎱 | Outlook good,
-> Zander
-> .
+🎱 | Outlook good, Zander.
 
 **RPretribution** _(07-Oct-18 04:37 PM)_
 
-> ☞ä;ÆUâ☸Ǆ ď☚Ú éð⚏♶ì ÔȊɀðL¼!
+> ۳Ƚȝԃ, ЊҐ мȽϾŚӴɍ мɍïï ݛǼ$ ݛм ЊҐ ԃݛ۳Ɵɍ$@!
+
+_Zielic Translation: Crap, my fridge fell out of my pockets!_
 
 **PlasmaPerson** _(07-Oct-18 04:37 PM)_
 
-> in one of the upper levels.
+> I'm in one of the upper levels!
 > I'm not sure which one.
 
 **WatchfulDrake** _(07-Oct-18 04:38 PM)_
 
-> Send me cords I'll work with those
+> Send me coords, I can work with those!
 
-**Zander** _(07-Oct-18 04:38 PM)_
-
-> Iris, we need to go.
-
-**Jelsafan0** _(07-Oct-18 04:38 PM)_
-
-> Yeah, let's go.
+_Hector taps into his watch, waiting for a message from Chomsky._
 
 **PlasmaPerson** _(07-Oct-18 04:38 PM)_
 
-> Chomsky sends the coordinates
+_Chomsky relays Hector the coordinates as requested._
 
 **Bagelwrecker** _(07-Oct-18 04:39 PM)_
 
-> Seth runs into the ship and put the girl down in his quarters
+_Seth runs into the ship and puts Jessica down in his quarters._
 
 **WatchfulDrake** _(07-Oct-18 04:39 PM)_
 
-> hector follows them to chomsky
+_Hector taps the coordinates he was sent to be given a big yellow MMORPG arrow that points towards Chomsky's location. He follows the arrow, getting annoyed by how occasionally the arrow would lead him directly into a wall._
 
 **Zander** _(07-Oct-18 04:39 PM)_
 
-> Iris and Emmett make it to the ship.
+_Iris and Emmett make it to the ship in one piece._
 
 **Jelsafan0** _(07-Oct-18 04:39 PM)_
 
-> the girl turns in her sleep.
+_`Jessica`: Jessica turns in her sleep, none the wiser about where she is._
 
 **PlasmaPerson** _(07-Oct-18 04:39 PM)_
 
-> ugh....my shoulder. I've been shot.
+_Chomsky pulls his head away from his shoulder as Hector comes closer to him._
+
+> Ugh.... my shoulder... I've been shot.
 
 **Zander** _(07-Oct-18 04:39 PM)_
 
-> Is that a distress signal?
+_Emmett watches out of window as a bright red flare is shot towards the sky from the dam's location._
+
+> Is that a distress signal?!
 
 **WatchfulDrake** _(07-Oct-18 04:39 PM)_
 
-> That's a lot of blood. I could probably fix it though
+> That's a lot of blood. I could probably fix it though...
+
+_Hector digs into his bag, looking for tools to patchwork Chomsky's bullet wound with._
 
 **Bagelwrecker** _(07-Oct-18 04:39 PM)_
 
-> Fuck what the hell are we going to do.
+> Fuck, what the hell are we going to do?!
+
+_Seth paces around, trying to scheme up something on the fly._
 
 **Platinum_Pathos** _(07-Oct-18 04:39 PM)_
 
-> Hey Emmett, I tried to contact you, did you lose your com?
+_Danny drops the bag of food on the floor near the hatch and taps Emmett's shoulder._
+
+> Hey Emmett, I tried to contact you, did you lose your comms watch?
 
 **Bagelwrecker** _(07-Oct-18 04:40 PM)_
 
-> These pistols aren't gonna do shit.
+_Seth looks at his akimbo laster blasters._
+
+> These pistols aren't gonna do shit...
 
 **Zander** _(07-Oct-18 04:40 PM)_
 
-t!8ball Do the Llamanians shoot at the ship?
+t!8ball Do the Llamanians shoot at the ship with artillery?
 
 **Tatsumaki** _(07-Oct-18 04:40 PM)_
 
-> 🎱 | Yes,
-> Zander
-> .
-
-**RPretribution** _(07-Oct-18 04:40 PM)_
-
-> @ProfessorTree
-> chase has a daughter now
+🎱 | Yes, Zander.
 
 **Bagelwrecker** _(07-Oct-18 04:40 PM)_
+
+_The ship rumbles as it's pelted with plasma blasts of various sizes and intensities._
 
 > FUC-KK
 
@@ -3206,167 +3321,179 @@ t!8ball Do the Llamanians shoot at the ship?
 
 > Close the hangar!
 
+_Emmett jumps up and pulls the lever to close the entryway hatch._
+
 **WatchfulDrake** _(07-Oct-18 04:40 PM)_
 
-> Hector pulls out his medical supplies and starts fixing chomsky's shoulder
+> Doesn't sound good out there...
+
+_Hector pulls out his medical supplies and starts fixing Chomsky's shoulder._
 
 **Bagelwrecker** _(07-Oct-18 04:41 PM)_
 
-> EMMETT START UP THE ENGINE!
+_Seth shakes in panic._
+
+> EMMETT, START UP THE ENGINE!
+
+**Zander** _(07-Oct-18 04:41 PM)_
+
+_Emmett looks at Seth, mortified._
+
+> I THOUGHT WE WERE OUT OF POWER?!
+
+**Bagelwrecker** _(07-Oct-18 04:41 PM)_
+
+_Seth frowns and grips the wall as the ship continues to shake._
+
+> I LIED TO GET US OFF OF OUR ASSES TO ROB THESE PEOPLE!
 
 **RPretribution** _(07-Oct-18 04:41 PM)_
 
-> wonty-ton
-
-**PlasmaPerson** _(07-Oct-18 04:41 PM)_
-
-> Onety ton
+> You didn't need to lie to get me to do that, Seth!
 
 **WatchfulDrake** _(07-Oct-18 04:41 PM)_
 
-> Okay chomsky that should be enough, we need to go now!
-> t!8ball do hector and chomsky arrive at the ship unharmed?
+_Hector finishes dressing Chomsky's shoulder and quickly packs up his medical bag._
+
+> Okay Chomsky that should be enough, we need to go right now!
+
+t!8ball Do Hector and Chomsky arrive at the ship unharmed?
 
 **Tatsumaki** _(07-Oct-18 04:42 PM)_
 
-> 🎱 | Most likely,
-> MultiTheDuck
-> .
+🎱 | Most likely, MultiTheDuck.
 
 **PlasmaPerson** _(07-Oct-18 04:42 PM)_
 
-> thanks. Let's go!
+_Chomsky bangs on the hatch to the ship and yells into his watch._
 
-**Zander** _(07-Oct-18 04:42 PM)_
-
-> Emmett holds Iris, shivering.
-
-**Jelsafan0** _(07-Oct-18 04:42 PM)_
-
-> Iris pats him comfortingly.
-
-**Bagelwrecker** _(07-Oct-18 04:42 PM)_
-
-> Seth pulls a case from under his bed and pulls out Opportunity V2 from it
-
-**PlasmaPerson** _(07-Oct-18 04:42 PM)_
-
-> Garrick eat baby
+> OPEN THE HATCH UP! WE'RE GETTING KILLED OUT HERE!
 
 **RPretribution** _(07-Oct-18 04:42 PM)_
 
-> Garrick eat ottori baby
+_Garrick begrudingly opens the ship hatch up and closes it after Hector and Chomsky enter._
 
-**PlasmaPerson** _(07-Oct-18 04:42 PM)_
-
-> Suddenly,
-
-**Zander** _(07-Oct-18 04:43 PM)_
+**Zander** _(07-Oct-18 04:42 PM)_
 
 > These people...
 > They killed my people.
 
-**PlasmaPerson** _(07-Oct-18 04:43 PM)_
-
-> Are placed in the engine
-> Oh
-
-**Zander** _(07-Oct-18 04:43 PM)_
+_Emmett holds Iris, shivering._
 
 > And I am terrified.
 
-**RPretribution** _(07-Oct-18 04:43 PM)_
+**Jelsafan0** _(07-Oct-18 04:42 PM)_
 
-t!8ball is emmett inconveniently placed in the engine
+_Iris hugs Emmett and pats him comfortingly._
 
-**Tatsumaki** _(07-Oct-18 04:43 PM)_
+**Bagelwrecker** _(07-Oct-18 04:42 PM)_
 
-> 🎱 | Cannot predict now,
-> RPretribution
-> .
+> Fuck man, I wanted to keep this a surprise!
+
+_Seth pulls a case from under his bed and pulls out an advanced plasma crossbow with the engraving "Opportunity V2" on its limbs._
+
+**PlasmaPerson** _(07-Oct-18 04:42 PM)_
+
+> Garrick, why did you leave us to die!?
+
+**RPretribution** _(07-Oct-18 04:42 PM)_
+
+> I thought you were right behind me!
+> You were the one who decided to get shot and all.
+
+**PlasmaPerson** _(07-Oct-18 04:42 PM)_
+
+_Chomsky flips off Garrick._
+
+> Man, screw you!
 
 **Bagelwrecker** _(07-Oct-18 04:43 PM)_
 
-> EMMETT I GOT A PRESENT FOR YA!
+_Seth races into the entrance with the large metallic crossbow in his arms._
+
+> EMMETT, I GOT A PRESENT FOR YA!
 
 **Zander** _(07-Oct-18 04:43 PM)_
 
-t!8ball Is Garrick now a toenail?
+t!8ball Does Garrick possess Chomsky's toenail inconveniently?
 
 **Tatsumaki** _(07-Oct-18 04:43 PM)_
 
-> 🎱 | Yes, definitely,
-> Zander
-> .
+🎱 | Yes, definitely, Zander.
 
 **PlasmaPerson** _(07-Oct-18 04:43 PM)_
 
-t!8ball is Emmett inconveniently fortnite dancing
+t!8ball Is Emmett inconveniently Fortnite dancing?
 
 **Tatsumaki** _(07-Oct-18 04:43 PM)_
 
-> 🎱 | Signs point to yes,
-> PlasmaPerson
-> .
+🎱 | Signs point to yes, PlasmaPerson.
 
 **Zander** _(07-Oct-18 04:44 PM)_
+
+_Emmett gets up and dances, unsure what he's doing._
 
 > Stress dance.
 
 **RPretribution** _(07-Oct-18 04:44 PM)_
 
-> Garrick unpossesses the toenail, realizing his mistake.
+_Garrick unpossesses Chomsky's toenail, realizing his mistake._
 
 **Platinum_Pathos** _(07-Oct-18 04:44 PM)_
+
+_Danny watches Emmett in confusion._
 
 > Emmett, I feel as though there are more important matters to attend to.
 
 **WatchfulDrake** _(07-Oct-18 04:44 PM)_
 
-> Hector and chomsky arrive at the ship
-> Okay we're here, is there anyone else?
+> Is there anyone else outside the ship?
 
 **Zander** _(07-Oct-18 04:44 PM)_
 
-> Danny, I muted my coms, okay?
+_Emmett finishes his Fortnite default dance and glares at Danny._
+
+> Danny, I muted my comms, okay? Relax!
 
 **Jelsafan0** _(07-Oct-18 04:44 PM)_
 
-t!8ball do Iris' coordinates magically appear in her pocket?
+t!8ball Do Iris's coordinates magically appear in her pocket?
 
 **Tatsumaki** _(07-Oct-18 04:44 PM)_
 
-> 🎱 | My sources say no,
-> Jelsafan0
-> .
+🎱 | My sources say no, Jelsafan0.
 
 **PlasmaPerson** _(07-Oct-18 04:45 PM)_
+
+_Chomsky rolls his wounded shoulder._
 
 > I may not be able to hoister my flamethrower for a while, thanks to those stupid llamas.
 
 **Platinum_Pathos** _(07-Oct-18 04:45 PM)_
 
+> Just saying. We're getting attacked and you're dancing.
+
+_Danny digs through his bag of food._
+
 t!8ball Does Danny keep all of the chips and popcorn for himself?
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
-> 🎱 | Yes,
-> Platinum_Pathos
-> .
+🎱 | Yes, Platinum_Pathos.
 
 **Zander** _(07-Oct-18 04:45 PM)_
 
-t!roll 7d100
+_`Llamanian Ship`: The Llamanian ship shoots at the Panty Slingshot._
+
+`Llamanian Ship`: t!roll 7d100
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
-> [
->
-> > 7d100
-> > : 83,44,100,51,59,10,70]
+🎱 | Rolling a 7d100... Rolled a 83, a 44, a 100, a 51, a 59, a 10, and a 70, making 417, Zander.
 
-In the end, the result was:
-417
+**Zander** _(07-Oct-18 04:45 PM)_
+
+_`Llamanian Ship`: The shots scorch the side of the Slingshot, denting some of the lesser used rooms._
 
 **Bagelwrecker** _(07-Oct-18 04:45 PM)_
 
@@ -3374,78 +3501,89 @@ t!8ball Does Seth start to charge up Opportunity V2?
 
 **Tatsumaki** _(07-Oct-18 04:45 PM)_
 
-> 🎱 | It is decidedly so,
-> Bagelwrecker
-> .
+🎱 | It is decidedly so, Bagelwrecker.
 
 **PlasmaPerson** _(07-Oct-18 04:46 PM)_
 
-> Gom
+_After the shots from the enemy ship, Chomsky hits his head on the wall._
+
+> Gom!
 
 **Bagelwrecker** _(07-Oct-18 04:46 PM)_
+
+_Seth activates the crossbow, flipping a switch. It glows a vibrant lime green, its flight groove and risers slowly filling up with a similar glow._
 
 > EMMETT I GOT YOU A NEW PRESENT!
 
 **Zander** _(07-Oct-18 04:46 PM)_
 
-> AHHHH!
+_Emmett backs up in surprise and smiles brightly, holding out his hooves excitedly._
 
-**PlasmaPerson** _(07-Oct-18 04:46 PM)_
-
-> Garrick more like gom
+> AHHHH! SETH, YOU BEAUTIFUL BASTARD!
 
 **Bagelwrecker** _(07-Oct-18 04:46 PM)_
+
+> It was meant to be a birthday gift, but...
+
+_Seth hands Emmett the crossbow, it nearly fully charged up._
 
 > MEET OPPORTUNITY V2!
 
 **Zander** _(07-Oct-18 04:46 PM)_
 
+_Emmett rotates the crossbow around, admiring its grooves and features. The crossbow starts to pulsate with a familiar frequency to Opportunity._
+
 > HOLY SHIT, I LOVE IT!
 
 **Bagelwrecker** _(07-Oct-18 04:46 PM)_
 
-> LETS DO A LITTLE FIRE TEST MY SON!
+_Seth opens up the hatch, completely disregarding any concerns over safety._
+
+> LET'S DO A LITTLE FIRE TEST MY SON!
 
 **Zander** _(07-Oct-18 04:47 PM)_
 
+> I would love to do that, but...
+
+_Emmett stands up, and hands Opportunity V2 back to Seth as it continues to charge._
+
 > I need to start the ship first, papi.
+
+_He quickly makes his way to the cockpit._
 
 **RPretribution** _(07-Oct-18 04:47 PM)_
 
-> Garrick places all the stolen items on a table, sorting them by apparent value.
+_Garrick places all of his the stolen items on a table, sorting them by apparent value._
 
 **Jelsafan0** _(07-Oct-18 04:48 PM)_
 
-> Iris is itching to bake.
+_Iris remains on the ground and itches her arm. She really wants to bake right now._
 
 **RPretribution** _(07-Oct-18 04:48 PM)_
 
-> We're gonna be rich. These idols are actual gold.
+> We're gonna be rich. These idols are actual gold!
 
-**PlasmaPerson** _(07-Oct-18 04:48 PM)_
-
-> herself
+_Garrick laughs maniacally._
 
 **Jelsafan0** _(07-Oct-18 04:48 PM)_
 
-> does anybody want muffins?
-> she asks quickly.
+_Iris sits up straight and quickly asks the others._
 
-**PlasmaPerson** _(07-Oct-18 04:48 PM)_
-
-> iris is itching. She scratches the itch
+> Does anybody want muffins?
 
 **Bagelwrecker** _(07-Oct-18 04:49 PM)_
 
-> WHO CARES ABOUT BEING RICH WE'RE UNDER ATTACK!
+> WHO CARES ABOUT BEING RICH GARRICK, WE'RE UNDER ATTACK!
 
 **PlasmaPerson** _(07-Oct-18 04:49 PM)_
 
-> as long as its not blueberry.
+_Chomsky sighs._
+
+> As long as its not blueberry...
 
 **RPretribution** _(07-Oct-18 04:49 PM)_
 
-> WE'LL BE RICH AFTER WE ESCAPE!
+> WE'LL BE RICH AFTER WE ESCAPE, YOU DINGUS!
 
 **Zander** _(07-Oct-18 04:49 PM)_
 
@@ -3453,90 +3591,84 @@ t!8ball Does Emmett get the ship started?
 
 **Tatsumaki** _(07-Oct-18 04:49 PM)_
 
-> 🎱 | As I see it, yes,
-> Zander
-> .
+🎱 | As I see it, yes, Zander.
 
 **Jelsafan0** _(07-Oct-18 04:49 PM)_
 
-> ...
-> she gives Chomsky a deadpan look.
+_Iris gives Chomsky a deadpan expression._
 
 **Platinum_Pathos** _(07-Oct-18 04:49 PM)_
 
-> You've had muffins Iris?
+> You have muffins, Iris?
 
 **Zander** _(07-Oct-18 04:49 PM)_
 
-> Let's get the hell out of here.
+> Let's get the hell out of here...
+
+_Emmett sets the ship to ascend automatically and he leaves the cockpit to join back with Seth._
 
 **Jelsafan0** _(07-Oct-18 04:49 PM)_
 
-> I have some coordinates!
+> I have some coordinates, actually!
+> I've got no clue where they lead though.
 
 **PlasmaPerson** _(07-Oct-18 04:49 PM)_
 
-> Chomsky shrugs
-> worth a shot.
+_Chomsky shrugs_
 
-**Jelsafan0** _(07-Oct-18 04:49 PM)_
-
-> I've got no clue where they lead though.
+> Not a fan of blueberries. Worth a shot.
 
 **Bagelwrecker** _(07-Oct-18 04:49 PM)_
 
-> WE NEED TO RESCIR
+> WE NEED TO RESCIR THE HELL OUT OF HERE!
 
 **Jelsafan0** _(07-Oct-18 04:50 PM)_
 
-> Iris digs around in her pockets.
-> she curses under her breath, dashing to her room.
+_Iris digs around in her pockets. When she doesn't find the coordinates, she curses under her breath, dashing to her room._
 
 **Bagelwrecker** _(07-Oct-18 04:50 PM)_
 
-> OPPERATION 214 MANUVER RESCIR
+_Seth grabs the ceiling as the ship ascends, expertly dodging from shots from the Llamanians._
+
+> OPERATION 214 MANUVER RESCIR!
 
 **Jelsafan0** _(07-Oct-18 04:50 PM)_
 
-> when she arrives there, she begins to search the floor frantically.
-> come on, come on...
+_When she arrives in her room, Iris begins to search the floor frantically for her map._
+
+> Come on, come on...
 
 **Zander** _(07-Oct-18 04:51 PM)_
+
+_Emmett stumbles as the shooting Llamanians cause some turbulence._
 
 > Seth, toss me the baby!
 
 **RPretribution** _(07-Oct-18 04:51 PM)_
 
+_Garrick counts the idols, more focused on his greed than the escape._
+
 t!roll d40
 
 **Tatsumaki** _(07-Oct-18 04:51 PM)_
 
-> [
->
-> > d40
-> > : 24]
-
-In the end, the result was:
-24
+🎱 | Rolling a d40... Rolled a 24, RPRetribution.
 
 **RPretribution** _(07-Oct-18 04:51 PM)_
 
-> 24 idols
+> ... Twenty two, twenty three, twenty four. Twenty four idols!
+
+_Garrick shakes his jazz hands._
 
 **Platinum_Pathos** _(07-Oct-18 04:51 PM)_
 
-> So, why exactly do we have an ottori female on our ship? I thought we distinguished that kidnapping was only for dire situations.
+_Danny stuffs his face with some chips._
+
+> So, why exactly do we have a little Ottori girl on our ship? I thought we distinguished that kidnapping was only for dire situations.
 
 **Bagelwrecker** _(07-Oct-18 04:51 PM)_
 
-> Seth tosses the now charged Opportunity V2 to Emmett
-
-**Jelsafan0** _(07-Oct-18 04:51 PM)_
-
-> she finds the piece of paper.
-> got it!
-
-**Bagelwrecker** _(07-Oct-18 04:51 PM)_
+_Seth tosses the now charged Opportunity V2 to Emmett._
 
 > That dam was under attack.
 > I wasn't gonna leave a child to have her life taken by a fucking llama.
@@ -3545,147 +3677,85 @@ In the end, the result was:
 
 > Fair enough.
 
+**Jelsafan0** _(07-Oct-18 04:51 PM)_
+
+_Iris finds the piece of paper beneath her bed. She picks it up and takes a look at the coordinates excitedly._
+
+> Got it!
+
 **Bagelwrecker** _(07-Oct-18 04:52 PM)_
 
 > I didn't do it to Emmett and I wouldn't do it to any other child.
 
 **Jelsafan0** _(07-Oct-18 04:53 PM)_
 
-> Iris dashes back to the cockpit.
+_Iris dashes back to the cockpit._
 
-**Zander** _(07-Oct-18 04:53 PM)_
+> Here!
 
-> The Ottori starts to suck on its titty, franctically turning into a young man.
-
-**Jelsafan0** _(07-Oct-18 04:53 PM)_
-
-> here!
-
-**WatchfulDrake** _(07-Oct-18 04:53 PM)_
-
-t!roll 2d30
-
-**Tatsumaki** _(07-Oct-18 04:53 PM)_
-
-> [
->
-> > 2d30
-> > : 3,3]
-
-In the end, the result was:
-6
+_She slaps the paper on the navigation console._
 
 **Bagelwrecker** _(07-Oct-18 04:53 PM)_
 
-> Emmett, Opportunity V2 should be charged go ahead and fire it!
+> Emmett, Opportunity V2 should be charged, go ahead and fire it!
+
+_Seth clasps his ears preemptively._
 
 **Zander** _(07-Oct-18 04:54 PM)_
 
-t!roll d1250
+> HERE WE GO!
 
-**Tatsumaki** _(07-Oct-18 04:54 PM)_
-
-> Invalid number of sides.
-
-Please use less than
-100
-sides.
-
-**Zander** _(07-Oct-18 04:54 PM)_
+_Emmett aims his crosshair directly at the Llamanian warship's core, tilting a bit closer to its thrusters to try and ding the engine._
 
 t!roll 10d125
 
 **Tatsumaki** _(07-Oct-18 04:54 PM)_
 
-> Invalid number of sides.
-
-Please use less than
-100
-sides.
+🎱 | Rolling a 10d125... Rolled a 57, a 102, a 82, a 117, a 50, a 89, a 93, a 45, a 51, and a 96, making 782, Zander.
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
-t!roll 10d100
+_Opportunity V2 expels a helix-shaped beam that penetrates the warship entirely, decimating the engine and causing a massive explosion in the forest. The trees begin to burn, along with the dam._
 
-**Tatsumaki** _(07-Oct-18 04:55 PM)_
-
-> [
->
-> > 10d100
-> > : 96,5,6,63,59,47,54,77,89,66]
-
-In the end, the result was:
-562
+> Holy fuck, this thing packs a wallop!
 
 **RPretribution** _(07-Oct-18 04:55 PM)_
 
-> 36045 ducketts for the gold idols
+_Garrick takes out his Specto-phone and takes a picture of the idols, getting back an approximate value of his haul from Thiefnet's calculator._
+
+> 36,045 Ducketts for the gold idols... Sheesh.
 
 **PlasmaPerson** _(07-Oct-18 04:55 PM)_
 
-> Chomsky stares at the idols for a second, then takes one to his room and shuts the door
+> Great... We stole precious heirlooms...
+
+_Chomsky stares at the idols gloomily for a second, then he takes one to his room and shuts the door._
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
-t!roll 1-d25
-
-**Tatsumaki** _(07-Oct-18 04:55 PM)_
-
-> Invalid formatting in
-> :
-> 1-d25
-> .
-
-ex:
-t!roll d20
-or
-t!roll 5d10+3
-
-**Zander** _(07-Oct-18 04:55 PM)_
+_Emmett notices that Opportunity V2 is still slightly charged; apparently his blast from before wasn't the full deal! For good measure, he shoots at the Llamanians once more with the rest of the charge._
 
 t!roll 10d25
 
 **Tatsumaki** _(07-Oct-18 04:55 PM)_
 
-> [
->
-> > 10d25
-> > : 3,14,20,18,17,5,2,23,5,3]
-
-In the end, the result was:
-110
+🎱 | Rolling a 10d25... Rolled a 3, a 14, a 20, a 18, a 17, a 5, a 2, a 23, a 5, and a 3, making 110, Zander.
 
 **Zander** _(07-Oct-18 04:55 PM)_
 
+_The additional shot incinerates three Llamanian soldiers shooting at the crew's ship, leaving nothing but their rifles and irradiated dust._
+
 > Damn!
 
-**WatchfulDrake** _(07-Oct-18 04:56 PM)_
+_Emmett looks into the flight groove of his weapon in awe and deactivates Opportunity V2. This weapon is definitely not legal._
 
-t!roll d10
+**Zander** _(07-Oct-18 04:56 PM)_
 
-**Tatsumaki** _(07-Oct-18 04:56 PM)_
+> `Llamanian Soldier 3: Get into the corvettes! They can't shoot us all out if we're in a swarm formation!`
 
-> [
->
-> > d10
-> > : 2]
+**Zander** _(07-Oct-18 04:56 PM)_
 
-In the end, the result was:
-2
-
-**WatchfulDrake** _(07-Oct-18 04:56 PM)_
-
-t!roll 2d30
-
-**Tatsumaki** _(07-Oct-18 04:56 PM)_
-
-> [
->
-> > 2d30
-> > : 8,30]
-
-In the end, the result was:
-38
+_`Llamanian Ship`: The Llamanian soldiers remaining run to their ship and start up a corvette swarm, flying directly towards the Panty Slingshot._
 
 **Jelsafan0** _(07-Oct-18 04:56 PM)_
 
@@ -3693,334 +3763,212 @@ In the end, the result was:
 
 **Zander** _(07-Oct-18 04:56 PM)_
 
-> Emmett unmutes.
-> We need to flee!
-> They're on our tail!
+_Upon realizing the Llamanians' strategy, Emmett shuts the ship's hatch and races to the cockpit._
+
+> Oh, shit!
+
+_Emmett slams himself into the pilot's seat and unmutes his comms, speaking into them fervently._
+
+> We need to flee! They're gaining on our tail!
 
 **Platinum_Pathos** _(07-Oct-18 04:57 PM)_
+
+_Danny rolls his eyes and pops open another potato chip bag._
 
 > I would assume so...
 
 **WatchfulDrake** _(07-Oct-18 04:57 PM)_
 
-> Then let's go!
+> Then get on with it already!
 
 **Zander** _(07-Oct-18 04:57 PM)_
 
-> Emmett takes the paper and presses the button to hyperspace.
-
-**WatchfulDrake** _(07-Oct-18 04:57 PM)_
-
-t!roll d10
-
-**Tatsumaki** _(07-Oct-18 04:57 PM)_
-
-> [
->
-> > d10
-> > : 8]
-
-In the end, the result was:
-8
-
-**Zander** _(07-Oct-18 04:57 PM)_
+_Emmett takes Iris's scrap of paper, sets the navigation coordinates, and presses the button to hyperspace._
 
 > Hold onto your asses!
 
 **Jelsafan0** _(07-Oct-18 04:58 PM)_
 
-> Iris instead holds on to Emmett's arm.
+_Before the ship makes its getaway, Iris latches onto Emmett, holding onto his arm for dear life._
 
 **Bagelwrecker** _(07-Oct-18 04:58 PM)_
 
-> FUCK
+_Seth gets launched to the back of the crew quarters._
+
+> FUCK!
 
 **Platinum_Pathos** _(07-Oct-18 04:58 PM)_
 
-> I refuse
+> I refuse!
 
-**Bagelwrecker** _(07-Oct-18 04:58 PM)_
-
-> Seth gets launched to the back of the quarters
-
-**Zander** _(07-Oct-18 04:59 PM)_
-
-> 46272
-
-**RPretribution** _(07-Oct-18 04:59 PM)_
-
-> 36045
-
-**Zander** _(07-Oct-18 04:59 PM)_
-
-> 82317
-
-**Bagelwrecker** _(07-Oct-18 05:00 PM)_
-
-> The ottori stops sucking her titty and now is forever a little girl
-
-**RPretribution** _(07-Oct-18 05:01 PM)_
-
-> chase is the mary of vidrasm
+_Danny stands tall, surprisingly not budging despite the insane speed the ship was moving at._
 
 **Zander** _(07-Oct-18 05:01 PM)_
 
-> The ship stops hyperspace.
-> Pinned a message.
+_After a couple of seconds, Emmett stops the hyperspace engines, slowing down the ship back to a reasonable speed for a crew._
+
 > Iris?
 
 **Jelsafan0** _(07-Oct-18 05:02 PM)_
 
 > Yeah?
 
+_Iris is still gripping onto Emmett's arm._
+
 **Zander** _(07-Oct-18 05:02 PM)_
+
+_Emmett speaks into the ship's intercom._
+
+> I think we made it...
+
+_Emmett shakes his arm in discomfort, looking back at Iris._
 
 > You can let go now. That is, unless you don't want to.
 
 **WatchfulDrake** _(07-Oct-18 05:03 PM)_
 
-> Hector goes to his room and starts decorating it with the artifacts he collected
+> Thank King Asgorod...
+
+_Hector leaves to his room and starts decorating it with the artifacts he collected._
 
 **Jelsafan0** _(07-Oct-18 05:03 PM)_
 
-> oh! right!
-> she exclaims quickly, releasing his arm.
+> Oh! Right!
+
+_Iris blushes softly, letting go of Emmett's arm._
 
 **Bagelwrecker** _(07-Oct-18 05:03 PM)_
 
-t!8ball Did a scientist ottori stow away on our ship?
+t!8ball Did a scientist ottori also stow away on the ship in the chaos?
 
 **Tatsumaki** _(07-Oct-18 05:03 PM)_
 
-> 🎱 | It is decidedly so,
-> Bagelwrecker
-> .
+🎱 | It is decidedly so, Bagelwrecker.
 
 **Zander** _(07-Oct-18 05:04 PM)_
 
-t!8ball Does Chomsky have a sleepover in his room?
+t!8ball Does the scientist take refuge in Chomsky and Garrick's room?
 
 **Tatsumaki** _(07-Oct-18 05:04 PM)_
 
-> 🎱 | It is decidedly so,
-> Zander
-> .
-
-**PlasmaPerson** _(07-Oct-18 05:04 PM)_
-
-> No
-> Stop
+🎱 | It is decidedly so, Zander.
 
 **Platinum_Pathos** _(07-Oct-18 05:05 PM)_
+
+> Amateurs.
+
+_Danny starts to count the amount of various food items he grabbed._
 
 t!roll d100
 
 **Tatsumaki** _(07-Oct-18 05:05 PM)_
 
-> [
->
-> > d100
-> > : 47]
+🎱 | Rolling a d100... Rolled a 47, Platinum_Pathos.
 
-In the end, the result was:
-47
+**Platinum_Pathos** _(07-Oct-18 05:05 PM)_
 
-**RPretribution** _(07-Oct-18 05:06 PM)_
-
-t!roll d30
-
-**Tatsumaki** _(07-Oct-18 05:06 PM)_
-
-> [
->
-> > d30
-> > : 11]
-
-In the end, the result was:
-11
-
-**PlasmaPerson** _(07-Oct-18 05:06 PM)_
-
-t!roll 20d100
-
-**Tatsumaki** _(07-Oct-18 05:06 PM)_
-
-> Invalid number of dice.
-
-Please roll less than
-10
-dice.
-
-**Bagelwrecker** _(07-Oct-18 05:06 PM)_
-
-> Llama Battle Ship W=weak S=Strong
-
-**RPretribution** _(07-Oct-18 05:06 PM)_
-
-t!roll d100
-
-**Tatsumaki** _(07-Oct-18 05:06 PM)_
-
-> [
->
-> > d100
-> > : 43]
-
-In the end, the result was:
-43
-
-**PlasmaPerson** _(07-Oct-18 05:06 PM)_
-
-t!roll 10d100
-
-**Tatsumaki** _(07-Oct-18 05:06 PM)_
-
-> [
->
-> > 10d100
-> > : 13,39,8,96,90,1,93,89,86,65]
-
-In the end, the result was:
-580
-
-**Bagelwrecker** _(07-Oct-18 05:07 PM)_
-
-> Pinned a message.
-
-**Zander** _(07-Oct-18 05:07 PM)_
-
-> Chomsky screams out of his second puberty
-
-**PlasmaPerson** _(07-Oct-18 05:07 PM)_
-
-> What
-
-**Zander** _(07-Oct-18 05:07 PM)_
-
-> He wants Garrick to plan with him
+> Adequate. Probably would last me about... a week or two.
 
 **WatchfulDrake** _(07-Oct-18 05:07 PM)_
 
-> Hector sets his pack down and sees the small laser handgun in the side pocket
-> Oh, I need to give that to him
+_Hector sets his pack down in his room and sees the small laser handgun in his side pocket._
+
+> Oh, I need to give that to him soon...
+
+_He then packs the Ottori money in a small box and puts it on his shelf._
 
 **Bagelwrecker** _(07-Oct-18 05:08 PM)_
 
-> Praise the goddess of life for getting us out
+_Seth enters the cockpit and raises his arms._
 
-**WatchfulDrake** _(07-Oct-18 05:08 PM)_
+> Praise the goddess of life for getting us out!
 
-> Hector packs the otterai money in a small box and puts it on his shelf
+_Seth does a little hand movement across his chest as thanks._
 
 **Zander** _(07-Oct-18 05:08 PM)_
 
-> At the mention of a different deity than the true one, Emmett furrows his brow.
+_Emmett furrows his brow at Seth mentioning an Elven deity. When was he religious? Why would he blaspheme Squoat?_
 
 **WatchfulDrake** _(07-Oct-18 05:08 PM)_
 
-> If we go back we have that
+_Hector grimaces._
+
+> If we ever go back, I guess we'll have some money...
 
 **Bagelwrecker** _(07-Oct-18 05:08 PM)_
 
-> Seth does a little hand movement across his chest as thanks
-> Praise Squoat too, don't worry Emmett I recognize him as one of my gods too.
+> Praise Squoat too, don't worry, Emmett, I recognize him as one of my gods too.
+
+_Seth pats Emmett on the back._
 
 **Zander** _(07-Oct-18 05:10 PM)_
 
-> Yeah.
+> Yeah...
 
 **WatchfulDrake** _(07-Oct-18 05:10 PM)_
 
-> Emmett can you meet me in the kitchen for a moment?
+_Hector leaves his room and walks to the kitchen with the laser handgun in his pocket._
 
-**Bagelwrecker** _(07-Oct-18 05:10 PM)_
-
-> Emmett smiles
+> Emmett, can you meet me in the kitchen for a moment?
 
 **Zander** _(07-Oct-18 05:10 PM)_
 
-> Emmett smiles
+_Emmett smiles softly, getting up from the cockpit._
+
 > Okay, Hector.
 
 **Platinum_Pathos** _(07-Oct-18 05:10 PM)_
 
-> I don't recognize any...
+> I don't recognize any gods...
+
+_Danny lies on the ground, his stomach finally satiated after three bags of chips._
 
 **Bagelwrecker** _(07-Oct-18 05:10 PM)_
 
-> What a rough ride
+_Seth stretches and heads to his room._
 
-**WatchfulDrake** _(07-Oct-18 05:10 PM)_
+> What a rough ride...
 
-> Hector walks to the kitchen with the laser handgun in his pocket
-
-**Bagelwrecker** _(07-Oct-18 05:11 PM)_
-
-> Seth lays back in his bed and takes a nap
+_He lies back in his bed and takes a nap._
 
 **Zander** _(07-Oct-18 05:11 PM)_
 
-> Emmett strides over to the kitchen, having a newfound confidence.
+_Emmett strides over to the kitchen, having a newfound confidence from escaping that deathtrap._
 
 **Platinum_Pathos** _(07-Oct-18 05:13 PM)_
 
-> Danny begins to store the sacks full of food in the kitchen
+_Danny groans._
+
+> Guess I'll be helpful.
+
+_He gets up and heads to the kitchen as well, storing the sacks full of food in the pantry and fridge._
 
 **WatchfulDrake** _(07-Oct-18 05:13 PM)_
 
-> Ah there he is, I meant to give you this a while back but never did
-> Hector holds out the small laser pistol
+> Ah there he is!
+
+_Hector takes out the laser pistol and holds it by the barrel._
+
+> I meant to give you this a while back but never did...
+
+_He hands it over to Emmett._
 
 **Zander** _(07-Oct-18 05:15 PM)_
 
-> Emmett fumbles with the pistol handle.
-
-**WatchfulDrake** _(07-Oct-18 05:15 PM)_
-
-> We can get deyner to make a better grip for you
+_Emmett fumbles with the pistol handle, his grip apparently buttery with sweat. He manages to shoot at the wall with it, narrowly missing Danny's arm._
 
 **Platinum_Pathos** _(07-Oct-18 05:16 PM)_
 
-> Damn it Emmett, I didn't survive llamas to get shot with a pistol
+_Danny glares at Emmett, offended._
+
+> Damn it Emmett, I didn't survive llamas to get shot with a pistol!
 
 **Zander** _(07-Oct-18 05:16 PM)_
 
-> Shit, did that hit you?
+> Shit, did that hit you?!
 
-**Bagelwrecker** _(07-Oct-18 05:20 PM)_
+**WatchfulDrake** _(07-Oct-18 05:16 PM)_
 
-> The Vortox Pummeler W=weak S=strong
-> Pinned a message.
+_Hector rubs his neck awkwardly._
 
-**Platinum_Pathos** _(07-Oct-18 05:21 PM)_
-
-> @Zander
-> Great opinion
-
-**Zander** _(07-Oct-18 05:22 PM)_
-
-> Yes
-
-**Bagelwrecker** _(07-Oct-18 05:22 PM)_
-
-> Sorry if my drawings of the ships are rough
-
-**Zander** _(07-Oct-18 05:22 PM)_
-
-> @Bagelwrecker
-> Although it's Vortex Pummeler, I find Vortox really fitting
-
-**Bagelwrecker** _(07-Oct-18 05:23 PM)_
-
-> Well maybe she's registered as Vortox pummeler but the crew calls her Vortox?
-
-**Zander** _(07-Oct-18 05:23 PM)_
-
-> Sure
-> It's technically a home to Emmett, who resided on Vortox-56
-
-**Bagelwrecker** _(07-Oct-18 05:24 PM)_
-
-> I kinda wanted to act like the ships were tanks so thats why there are weak spots and strong spots
-> So that way if there are battles between ships there's actually strategy and not just constant firing and doing the same damage each time
-> but thats up to you if you wanna incorporate that idea.
+> We can get Deyner to make a better grip for you.

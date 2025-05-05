@@ -1569,7 +1569,7 @@ _Emmett nods._
 
 > Hel, Ya.
 
-Squoatish Translation: "Yeah, Sanya."
+_Squoatian Translation: Yeah, Sanya._
 
 **Brakia** _(15-Sep-18 04:36 PM)_
 
@@ -1581,11 +1581,11 @@ _Sanya raises a leafy eyebrow over Emmett's dialect._
 
 > Squo dobre.
 
-Squoatish Translation: "I'm fine."
+_Squoatian Translation: I'm fine._
 
 **Jelsafan0** _(15-Sep-18 04:38 PM)_
 
-t!8ball Does Iris set her translator to Squoatish so she can talk to him, grabbing a muffin on the way to sit?
+t!8ball Does Iris set her translator to Squoatian so she can talk to him, grabbing a muffin on the way to sit?
 
 **Tatsumaki** _(15-Sep-18 04:38 PM)_
 
@@ -1601,7 +1601,7 @@ t!8ball Does Matieu awake flirt with Iris now?
 
 **Jelsafan0** _(15-Sep-18 04:39 PM)_
 
-_Iris takes a big breath, enters the kitchen, and sits next to Emmett, trying not to look at his bare chest. She changes her translator to Squoatish, wanting to have a conversation with him over what just occurred between them._
+_Iris takes a big breath, enters the kitchen, and sits next to Emmett, trying not to look at his bare chest. She changes her translator to Squoatian, wanting to have a conversation with him over what just occurred between them._
 
 > Hey.
 
@@ -1775,7 +1775,7 @@ _Iris sighs and switches her translator for a second._
 
 > ... You know he can understand you, right?
 
-_She then switches it back to Squoatish._
+_She then switches it back to Squoatian._
 
 **Enchantingtable2013** _(15-Sep-18 04:52 PM)_
 
