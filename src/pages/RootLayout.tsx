@@ -4,6 +4,7 @@ import { CssBaseline } from '@mui/material';
 import Navbar from '@/components/Navbar/Navbar';
 import React, { useEffect, useMemo } from 'react';
 import { ColorMode } from '@/types/Colors';
+import { AnchorProvider } from '@/components/Anchor/AnchorContext';
 
 export const ColorModeContext = React.createContext<{ colorMode: ColorMode; toggleColorMode: () => void }>({
     colorMode: 'dark',
@@ -120,7 +121,9 @@ export function ColorModeProvider({ children }: { children: React.ReactNode }) {
 
     return (
         <ColorModeContext.Provider value={{ colorMode, toggleColorMode }}>
-            <ThemeProvider theme={theme}>{children}</ThemeProvider>
+            <AnchorProvider>
+                <ThemeProvider theme={theme}>{children}</ThemeProvider>
+            </AnchorProvider>
         </ColorModeContext.Provider>
     );
 }

@@ -5,6 +5,7 @@ import { CircularProgress, MenuItem, Select, SelectChangeEvent, Tooltip, Typogra
 import React, { forwardRef, useEffect, useMemo, useRef, useState } from 'react';
 import { useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { VList, VListHandle } from 'virtua';
+import { useAnchor } from '@/components/Anchor/AnchorContext';
 
 // Function to format a file name into a human-readable title
 // Format: 1-fragile-beginnings.json -> Fragile Beginnings
@@ -28,6 +29,21 @@ export default function ArchivePage() {
     const navigate = useNavigate();
     const [searchParams] = useSearchParams();
     const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
+
+    const [allBlocksRendered, setAllBlocksRendered] = useState(false); // New state
+
+    // I moved all the logic for scrolling to the anchor into the useEffect below
+    // It waits for all blocks to be rendered before scrolling to the anchor
+    // If it attempts to scroll before all blocks are rendered, it will NOT work
+    const { scrollToAnchor } = useAnchor();
+    useEffect(() => {
+        if (allBlocksRendered && lineParam) {
+            scrollToAnchor(lineParam);
+        }
+    }, [allBlocksRendered, lineParam]);
+    const handleBlocksRendered = () => {
+        setAllBlocksRendered(true); // Set flag when all blocks are rendered
+    };
 
     // Fetch files
     useEffect(() => {
@@ -149,7 +165,12 @@ export default function ArchivePage() {
                             {episode?.short_desc}
                         </Typography>
                     </div>
-                    <StoryBlockInfiniteScroll ref={ref} blocks={episode.blocks} commentaries={episode.commentaries} />
+                    <StoryBlockInfiniteScroll
+                        ref={ref}
+                        blocks={episode.blocks}
+                        commentaries={episode.commentaries}
+                        onBlocksRendered={handleBlocksRendered} // Pass the callback to the component
+                    />
                 </div>
             )}
         </main>
@@ -157,9 +178,21 @@ export default function ArchivePage() {
 }
 
 const StoryBlockInfiniteScroll = forwardRef(function StoryBlockInfiniteScroll(
-    { blocks, commentaries }: { blocks: EpisodeType['blocks']; commentaries: EpisodeType['commentaries'] },
+    {
+        blocks,
+        commentaries,
+        onBlocksRendered, // Accept the callback as a prop
+    }: {
+        blocks: EpisodeType['blocks'];
+        commentaries: EpisodeType['commentaries'],
+        onBlocksRendered: () => void; // Define the type for the callback
+    },
     ref: React.ForwardedRef<VListHandle>
 ) {
+    useEffect(() => {
+        onBlocksRendered(); // Notify parent when blocks are rendered
+    }, []);
+
     return (
         <div style={{ height: 700, padding: '10px 0' }}>
             {blocks.map((block, index) => (
