@@ -7,7 +7,7 @@ p.vm-dialogue {
 }
 
 p, h2 {
-    font-family: monospace;
+    font-family: "Courier New", Courier, monospace;
 }
 
 div.vm-transcript {
@@ -17,6 +17,8 @@ div.vm-transcript {
     padding: 1rem;
     white-space: pre-line;  
     vertical-align: bottom;
+
+    margin-bottom: 1.5rem;
 
     p {
         margin: 0;

@@ -3,6 +3,7 @@ import Narration from "@/components/Cyoa/Narration";
 import Dialogue from "@/components/Cyoa/Dialogue";
 import Action from "@/components/Cyoa/Action";
 import Transcript from "@/components/Cyoa/Transcript";
+import Divider from '@mui/material/Divider';
 
 export default function VortoxMachina() {
     return (
@@ -17,12 +18,17 @@ export default function VortoxMachina() {
                         case "action":
                             return <Action text={line.text} index={index} />;
                         case "transcript":
-                            return <Transcript text={line.text} index={index} />;
+                            return <>
+                                <Transcript text={line.text} index={index} />
+                                <Divider />
+                            </>;
                         default:
                             return <p key={index}><span style={{ color: "red" }}>Error</span></p>;
                     }
                 })
             }
+            <Divider />
+            <h2>To be continued...</h2>
         </main>
     );
 }
