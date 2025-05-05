@@ -36,6 +36,15 @@ div.horizontal-list {
     display: flex;
     align-items: center;
 
+    @media (max-width: 768px) {
+        flex-direction: column;
+
+        div.horizontal-item {
+            width: 100%;
+            height: auto;
+        }
+    }
+
     div.horizontal-item {
         display: flex;
         flex-grow: 1;
