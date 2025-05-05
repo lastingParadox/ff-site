@@ -15,8 +15,8 @@ main, div[role=main] {
     display: flex;
     flex-direction: column;
     gap: 12;
-    margin: 24px 0;
-    padding: 0 10%;
+    margin: 0;
+    padding: 24px 10%;
     height: calc(100vh - var(--navbar-height));
 
     @media (max-width: 768px) {

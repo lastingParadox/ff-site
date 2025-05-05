@@ -1,4 +1,4 @@
-import { BrowserRouter, Outlet, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Outlet, Route, Routes, Navigate, useLocation, useSearchParams } from 'react-router-dom';
 import Home from './pages/Home';
 import ArchivePage from './pages/ArchivePage';
 import FF3 from './pages/FF3';
@@ -8,8 +8,11 @@ import Season from './pages/Season';
 import './pages/page.scss';
 import VortoxMachina from './pages/VortoxMachina';
 import ArchivesList from './pages/ArchivesList';
+import NotFound from '@/pages/404';
 
 function App() {
+    const oldPaths = [ 'ff1', 'ff2', 'ff3', 'ff4', 'vm' ];
+
     return (
         <BrowserRouter>
             <Routes>
@@ -24,10 +27,25 @@ function App() {
                     </Route>
                     <Route path='/cyoa' element={<VortoxMachina />} />
                     <Route path='/convert' element={<Convert />} />
+                    <Route path="*" element={<RedirectOldPath />} />
                 </Route>
             </Routes>
         </BrowserRouter>
     );
+}
+
+function RedirectOldPath() {
+    const location = useLocation();
+    const oldPaths = ['ff1', 'ff2', 'ff3', 'ff4', 'vm'];
+
+    const [firstSegment, ...restSegments] = location.pathname.split('/').filter(Boolean);
+
+    if (oldPaths.includes(firstSegment)) {
+        const newPath = `/archives/${firstSegment}/${restSegments.join('/')}`;
+        return <Navigate to={`${newPath}${location.search}`} replace />;
+    }
+
+    return <NotFound />;
 }
 
 export default App;
