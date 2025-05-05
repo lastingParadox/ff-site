@@ -1,34 +1,38 @@
-import json from "@/assets/json/cyoa.json";
-import Narration from "@/components/Cyoa/Narration";
-import Dialogue from "@/components/Cyoa/Dialogue";
-import Action from "@/components/Cyoa/Action";
-import Transcript from "@/components/Cyoa/Transcript";
-import Divider from '@mui/material/Divider';
+import json from '@/assets/json/cyoa.json';
+import Paragraph from '@/components/Cyoa/Paragraph';
+
+import { useEffect, useMemo } from 'react';
+import { useSearchParams } from 'react-router-dom';
+import { useAnchor } from '@/components/Anchor/AnchorContext';
 
 export default function VortoxMachina() {
+    const [searchParams] = useSearchParams();
+    const lineParam = useMemo(() => searchParams.get('line'), [searchParams]);
+
+    // I moved all the logic for scrolling to the anchor into the useEffect below
+    // It waits for all blocks to be rendered before scrolling to the anchor
+    // If it attempts to scroll before all blocks are rendered, it will NOT work
+    const { scrollToAnchor, query } = useAnchor();
+    useEffect(() => {
+        if (lineParam) {
+            scrollToAnchor(lineParam);
+        }
+    }, [lineParam]);
+
     return (
         <main>
-            {
-                json.map((line: { type: string; text: string, character?: string }, index: number) => {
-                    switch (line.type) {
-                        case "narration":
-                            return <Narration text={line.text} index={index} />;
-                        case "dialogue":
-                            return <Dialogue character={line.character || "Unknown"} text={line.text} index={index} />;
-                        case "action":
-                            return <Action text={line.text} index={index} />;
-                        case "transcript":
-                            return <>
-                                <Transcript text={line.text} index={index} />
-                                <Divider />
-                            </>;
-                        default:
-                            return <p key={index}><span style={{ color: "red" }}>Error</span></p>;
-                    }
-                })
-            }
-            <Divider />
-            <h2>To be continued...</h2>
+            {json.map((line: { type: string; text: string; character?: string }, index: number) => {
+                return (
+                    <Paragraph
+                        type={line.type}
+                        text={line.text}
+                        character={line.character}
+                        index={index}
+                        key={index}
+                        highlight={index == query}
+                    />
+                );
+            })}
         </main>
     );
 }
