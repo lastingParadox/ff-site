@@ -111,6 +111,13 @@ export function ColorModeProvider({ children }: { children: React.ReactNode }) {
                                         fontSize: '1.5rem;'
                                     }
                                 },
+                                {
+                                    props: { variant: 'body2' },
+                                    style: {
+                                        color: colorMode === 'dark' ? '#bbb' : '#555',
+                                        fontStyle: 'italic',
+                                    }
+                                }
                             ]
                         }
                     }

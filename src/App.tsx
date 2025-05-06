@@ -11,8 +11,6 @@ import ArchivesList from './pages/ArchivesList';
 import NotFound from '@/pages/404';
 
 function App() {
-    const oldPaths = [ 'ff1', 'ff2', 'ff3', 'ff4', 'vm' ];
-
     return (
         <BrowserRouter>
             <Routes>

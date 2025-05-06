@@ -22,6 +22,6 @@ export default defineConfig({
     },
     plugins: [react(), markdownPlugin()],
     server: {
-        host: true
+        host: false
     }
 });

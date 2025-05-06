@@ -4,6 +4,8 @@ import React from 'react';
 import { FormControlLabel } from '@mui/material';
 import { ColorModeContext } from '@/pages/RootLayout';
 import MaterialUISwitch from './MaterialUISwitch';
+import AppBar from '@mui/material/AppBar';
+import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 
 // Icons
 import HomeRoundedIcon from '@mui/icons-material/HomeRounded';
@@ -19,7 +21,7 @@ export default function Navbar() {
     const { colorMode, toggleColorMode } = React.useContext(ColorModeContext);
 
     return (
-        <div className={`${styles.navbar} ${styles[colorMode]}`}>
+        <AppBar position="sticky" className={`${styles.navbar} ${styles[colorMode]}`}>
             <Link to='/'><HomeRoundedIcon />Home</Link>
             <Link to='/archives'>Archives</Link>
             <Link to='/cyoa'>CYOA</Link>
@@ -30,7 +32,7 @@ export default function Navbar() {
                 label={`${colorMode} mode`}
                 onClick={toggleColorMode}
             />
-        </div>
+        </AppBar>
     );
 }
 
