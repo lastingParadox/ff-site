@@ -1,6 +1,6 @@
 import { Typography, Box, Stack, Container } from '@mui/material';
 import { NavLink } from 'react-router-dom';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 export default function ArchivesList() {
     const items = [

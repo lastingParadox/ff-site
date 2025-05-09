@@ -1,4 +1,4 @@
-import { BrowserRouter, Outlet, Route, Routes, Navigate, useLocation, useSearchParams } from 'react-router-dom';
+import { BrowserRouter, Outlet, Route, Routes, Navigate, useLocation } from 'react-router-dom';
 import Home from './pages/Home';
 import ArchivePage from './pages/ArchivePage';
 import FF3 from './pages/FF3';

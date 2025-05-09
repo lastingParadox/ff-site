@@ -1,7 +1,9 @@
 import { KeyboardReturn } from "@mui/icons-material";
 import { Typography, Box, Button } from "@mui/material";
+import { useNavigate } from 'react-router-dom';
 
 export default function NotFound() {
+    const navigate = useNavigate();
     return (
         <main id="not-found-page">
             <Typography variant='h1' align='center' classes='title'>404 - Page Not Found</Typography>
@@ -24,10 +26,10 @@ export default function NotFound() {
                     src="https://booru.retri.space/_images/9ba1671830f52c3fc1d7bd204e90740e/678%20-%20character%3Aemmett_tawfeek%20frowning%20fur%20horns%20species%3Asquoatling%20tired%20uncomfortable.png"
                 />
                 <Typography variant='subtitle1' component='figcaption'>Emmett can't find the page you're looking for.</Typography>
-            <Button variant='contained' color='primary' size='large' href='/' sx={{ marginTop: 1 }}>
-                <KeyboardReturn sx={{ marginRight: 1 }} />
-                Go back home
-            </Button>
+                <Button variant='contained' color='primary' size='large' sx={{ marginTop: 1 }} onClick={() => navigate(-1)}>
+                    <KeyboardReturn sx={{ marginRight: 1 }} />
+                    Go back
+                </Button>
             </Box>
         </main>
     );

@@ -6,6 +6,8 @@
     border-bottom: 1px solid #F00;
     width: 100%;
     height: var(--navbar-height);
+    --Paper-overlay: '' !important;
+    padding-right: 0.25rem;
     
     &.light {
         background-color: #dedede;
@@ -25,7 +27,7 @@
     }
     
     &.dark {
-        background-color: #0f1214;
+        background-color: #272727;
         border-bottom-color: #333;
 
         .link {
